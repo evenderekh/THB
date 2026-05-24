@@ -29,7 +29,7 @@ THB is a **build-once, serve-forever** static site. The builder reads structured
 ```
 thb/
 ├── thb_builder.py      ← the entire site builder (~1,650 lines)
-├── thb_complete_template.html ← HTML/CSS/JS shell (all inline, no external deps)
+├── thb_template.html ← HTML/CSS/JS shell (all inline, no external deps)
 ├── backend/
 │   ├── thb.1.3.mt.json       ← Hebrew text + morphology
 │   ├── thb.1.3.lxx.json      ← Greek text + morphology

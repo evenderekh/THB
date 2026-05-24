@@ -16,7 +16,7 @@ A fully static site — no server, no runtime database. Every page is a self-con
 ```
 thb/
 ├── thb_builder.py          ← site builder (single Python script)
-├── thb_complete_template.html    ← HTML/CSS/JS shell for every page
+├── thb_template.html    ← HTML/CSS/JS shell for every page
 ├── ARCHITECTURE.md               ← this file
 ├── README.md
 ├── LICENSE
@@ -222,7 +222,7 @@ Single Python 3 script (~1,650 lines). All paths are `Path(__file__).parent`-rel
 ```python
 THBSiteBuilder(
     backend_dir   = 'thb/backend',
-    template_path = 'thb/thb_complete_template.html',
+    template_path = 'thb/thb_template.html',
     output_dir    = 'thb/public_html',
 )
 ```
@@ -269,7 +269,7 @@ THBSiteBuilder(
 
 ---
 
-## Template: `thb_complete_template.html`
+## Template: `thb_template.html`
 
 Single HTML file. The builder replaces `{{{TAG}}}` placeholders with generated content:
 

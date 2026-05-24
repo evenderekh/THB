@@ -1640,7 +1640,7 @@ def main():
     _here = Path(__file__).parent
     backend_dir   = str(_here / 'backend')
     output_dir    = str(_here / 'public_html')
-    template_path = str(_here / 'thb_complete_template.html')
+    template_path = str(_here / 'thb_template.html')
 
     for file_path in [backend_dir, template_path]:
         if not os.path.exists(file_path):
