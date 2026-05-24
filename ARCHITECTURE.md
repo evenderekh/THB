@@ -61,7 +61,7 @@ thb/
 
 ## Aleppo Codex Facsimile Index
 
-`thb.1.3.aleppo.json` is compiled from the source files in `aleppo/json/` by running `aleppo_compile.py` from the `bible_study/` root. It is a sorted list of 587 facsimile page entries, one per surviving page of the Keter Aram Tzova facsimile edition:
+`thb.1.3.aleppo.json` is a pre-compiled sorted list of 587 facsimile page entries, one per surviving page of the Keter Aram Tzova facsimile edition:
 
 ```json
 [
