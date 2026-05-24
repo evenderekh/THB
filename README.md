@@ -39,6 +39,7 @@ thb/
 │   ├── thb.1.3.dss.json      ← Dead Sea Scrolls
 │   ├── thb.1.3.lexicon.json  ← Unified lexicon: MT/LXX/VUL definitions
 │   ├── thb.1.3.versification.json ← Cross-tradition verse mapping
+│   ├── thb.1.3.aleppo.json   ← Aleppo Codex facsimile page index (587 pages)
 │   └── concordance/          ← Per-book Strong's frequency data (39 files)
 └── public_html/              ← Builder output
     ├── static/               ← Fonts, icons, images (committed)
