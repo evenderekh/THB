@@ -16,7 +16,6 @@ A fully static site — no server, no runtime database. Every page is a self-con
 ```
 thb/
 ├── thb_builder_fixed.py          ← site builder (single Python script)
-├── aleppo_compile.py             ← compiles aleppo/json/*.json → backend/thb.1.3.aleppo.json
 ├── thb_complete_template.html    ← HTML/CSS/JS shell for every page
 ├── ARCHITECTURE.md               ← this file
 ├── README.md
@@ -62,7 +61,7 @@ thb/
 
 ## Aleppo Codex Facsimile Index
 
-`thb.1.3.aleppo.json` is compiled from the source files in `aleppo/json/` by running `thb/aleppo_compile.py`. It is a sorted list of 587 facsimile page entries, one per surviving page of the Keter Aram Tzova facsimile edition:
+`thb.1.3.aleppo.json` is compiled from the source files in `aleppo/json/` by running `aleppo_compile.py` from the `bible_study/` root. It is a sorted list of 587 facsimile page entries, one per surviving page of the Keter Aram Tzova facsimile edition:
 
 ```json
 [
