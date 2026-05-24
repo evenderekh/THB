@@ -24,3 +24,7 @@ public_html/terms/logo.png
 __pycache__/
 *.pyc
 .search_build/
+
+# Local scripts
+deploy.bat
+.wrangler/
