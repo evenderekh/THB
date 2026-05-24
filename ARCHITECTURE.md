@@ -15,7 +15,7 @@ A fully static site — no server, no runtime database. Every page is a self-con
 
 ```
 thb/
-├── thb_builder_fixed.py          ← site builder (single Python script)
+├── thb_builder.py          ← site builder (single Python script)
 ├── thb_complete_template.html    ← HTML/CSS/JS shell for every page
 ├── ARCHITECTURE.md               ← this file
 ├── README.md
@@ -209,7 +209,7 @@ The `supplement` source covers books the Copenhagen Alliance files don't include
 
 ---
 
-## The Builder: `thb_builder_fixed.py`
+## The Builder: `thb_builder.py`
 
 Single Python 3 script (~1,650 lines). All paths are `Path(__file__).parent`-relative.
 
@@ -316,9 +316,9 @@ function stripHebrewNiqqud(html) {
 ## Build
 
 ```bash
-python thb/thb_builder_fixed.py                              # full build (39 books, 928 chapters)
-python thb/thb_builder_fixed.py --mini                       # Genesis 1-3 only
-python thb/thb_builder_fixed.py --mini --book Nehemiah --chapters 3
+python thb/thb_builder.py                              # full build (39 books, 928 chapters)
+python thb/thb_builder.py --mini                       # Genesis 1-3 only
+python thb/thb_builder.py --mini --book Nehemiah --chapters 3
 ```
 
 **Build sequence:**

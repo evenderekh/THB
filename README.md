@@ -28,7 +28,7 @@ Every word carries: lemma, morphological parsing, Strong's number (where applica
 THB is a **build-once, serve-forever** static site. The builder reads structured JSON data from `backend/`, fills a single HTML template, and writes one `index.html` per book/chapter (928 pages total).
 ```
 thb/
-├── thb_builder_fixed.py      ← the entire site builder (~1,650 lines)
+├── thb_builder.py      ← the entire site builder (~1,650 lines)
 ├── thb_complete_template.html ← HTML/CSS/JS shell (all inline, no external deps)
 ├── backend/
 │   ├── thb.1.3.mt.json       ← Hebrew text + morphology
@@ -55,13 +55,13 @@ thb/
 
 ```bash
 # Full build — all 39 books, 928 chapters, Pagefind index
-python thb/thb_builder_fixed.py
+python thb/thb_builder.py
 
 # Fast preview — Genesis 1–3 only, skips Pagefind
-python thb/thb_builder_fixed.py --mini
+python thb/thb_builder.py --mini
 
 # Preview a specific book/chapter count
-python thb/thb_builder_fixed.py --mini --book Nehemiah --chapters 3
+python thb/thb_builder.py --mini --book Nehemiah --chapters 3
 ```
 
 Output goes to `public_html/`. The root `index.html` is a copy of `genesis/1/index.html`. The full architecture is documented in [ARCHITECTURE.md](ARCHITECTURE.md).
