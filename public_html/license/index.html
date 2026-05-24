@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Site Information -->
+    <meta name="author" content="Michael Muzar">
+    <meta name="copyright" content="2026 Michael Muzar">
+    <meta name="license" content="MIT">
+    
+    <!-- Primary Meta Tags -->
+    <title>License and Attribution - Translator's Hebrew Bible (THB)</title>
+    <meta name="title" content="License and Attribution - Translator's Hebrew Bible (THB)">
+    <meta name="description" content="Complete licensing and attribution information for all texts and morphological data used in the Translator's Hebrew Bible.">
+    <meta name="keywords" content="Hebrew Bible, licensing, attribution, open source, biblical texts, morphology">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+    <meta name="rating" content="general">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://hebrewbible.dev/license">
+    <meta property="og:title" content="License and Attribution - Translator's Hebrew Bible">
+    <meta property="og:description" content="Complete licensing and attribution information for all texts and morphological data used in the Translator's Hebrew Bible.">
+    <meta property="og:site_name" content="Translator's Hebrew Bible">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://hebrewbible.dev/license">
+    <meta name="twitter:title" content="License and Attribution - Translator's Hebrew Bible">
+    <meta name="twitter:description" content="Complete licensing and attribution information for all texts and morphological data used in THB.">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/static/favicon.png">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://hebrewbible.dev/license">
+    
+    <!-- License Link -->
+    <link rel="license" href="https://opensource.org/licenses/MIT">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #0a0a0b;
+            color: #e8e8e8;
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .top-bar {
+            background: #1e1e1e;
+            padding: 0.75rem 2rem;
+            border-bottom: 1px solid #333;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        .top-bar-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .top-bar-logo {
+            font-size: 1.2rem;
+            color: #f5f5f5;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-decoration: none;
+        }
+
+        .logo-image {
+            width: 25px !important;
+            height: 25px !important;
+            max-width: 25px;
+            max-height: 25px;
+            object-fit: contain;
+        }
+
+        .nav-links {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: #e8e8e8;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s ease;
+        }
+
+        .nav-links a:hover {
+            color: #c9b037;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #333;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            color: #f5f5f5;
+            margin-bottom: 0.5rem;
+            letter-spacing: 1px;
+        }
+
+        .header p {
+            color: #999;
+            font-size: 1.1rem;
+            font-style: italic;
+        }
+
+        .content {
+            background: rgba(30, 30, 30, 0.5);
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 3rem;
+            margin-bottom: 2rem;
+            backdrop-filter: blur(5px);
+        }
+
+        .content h2 {
+            color: #c9b037;
+            font-size: 1.8rem;
+            margin: 2rem 0 1rem 0;
+            font-weight: 600;
+        }
+
+        .content h2:first-of-type {
+            margin-top: 0;
+        }
+
+        .content h3 {
+            color: #c9b037;
+            font-size: 1.3rem;
+            margin: 1.5rem 0 0.5rem 0;
+            font-weight: 600;
+        }
+
+        .content p {
+            margin-bottom: 1rem;
+            color: #e8e8e8;
+            line-height: 1.7;
+        }
+
+        .content strong {
+            color: #c9b037;
+            font-weight: 600;
+        }
+
+        .content a {
+            color: #7a9cc6;
+            text-decoration: none;
+        }
+
+        .content a:hover {
+            color: #8fb8dc;
+            text-decoration: underline;
+        }
+
+        .source-card {
+            background: rgba(40, 40, 40, 0.6);
+            border: 1px solid #444;
+            border-radius: 8px;
+            padding: 2rem;
+            margin: 1.5rem 0;
+            transition: all 0.2s ease;
+        }
+
+        .source-card:hover {
+            border-color: #c9b037;
+            background: rgba(45, 45, 45, 0.7);
+        }
+
+        .source-title {
+            color: #c9b037;
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .tradition-badge {
+            font-size: 0.8rem;
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .badge-hebrew { background: rgba(201, 176, 55, 0.2); color: #c9b037; }
+        .badge-greek { background: rgba(122, 156, 198, 0.2); color: #7a9cc6; }
+        .badge-latin { background: rgba(166, 124, 82, 0.2); color: #a67c52; }
+        .badge-samaritan { background: rgba(143, 188, 143, 0.2); color: #8fbc8f; }
+        .badge-english { background: rgba(154, 129, 148, 0.2); color: #9a8194; }
+        .badge-qumran { background: rgba(205, 133, 63, 0.2); color: #cd853f; }
+
+        .license-info {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .license-section {
+            background: rgba(30, 30, 30, 0.5);
+            border: 1px solid #333;
+            border-radius: 6px;
+            padding: 1rem;
+        }
+
+        .license-section h4 {
+            color: #c9b037;
+            margin-bottom: 0.5rem;
+            font-size: 1rem;
+        }
+
+        .license-section p {
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .citation-box {
+            background: rgba(201, 176, 55, 0.1);
+            border: 1px solid rgba(201, 176, 55, 0.3);
+            border-radius: 6px;
+            padding: 1rem;
+            margin: 1rem 0;
+            font-family: 'Courier New', monospace;
+            font-size: 0.85rem;
+            overflow-x: auto;
+        }
+
+        .navigation {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .nav-link {
+            display: inline-block;
+            background: rgba(201, 176, 55, 0.1);
+            color: #c9b037;
+            text-decoration: none;
+            padding: 0.8rem 2rem;
+            border-radius: 6px;
+            border: 1px solid rgba(201, 176, 55, 0.3);
+            transition: all 0.2s ease;
+            font-weight: 500;
+        }
+
+        .nav-link:hover {
+            background: rgba(201, 176, 55, 0.2);
+            border-color: rgba(201, 176, 55, 0.6);
+            transform: translateY(-1px);
+        }
+
+        .footer {
+            background: #1e1e1e;
+            padding: 1.5rem 2rem;
+            border-top: 1px solid #333;
+            text-align: center;
+            color: #999;
+            font-size: 0.9rem;
+            margin-top: 3rem;
+        }
+
+        .footer a {
+            color: #c9b037;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            color: #d4af37;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 2rem 1rem;
+            }
+            
+            .content {
+                padding: 2rem;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .license-info {
+                grid-template-columns: 1fr;
+            }
+            
+            .nav-links {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-nav">
+            <a href="/" class="top-bar-logo">
+                <img src="/static/logo.png" alt="THB Logo" class="logo-image">
+                THB
+            </a>
+            <div class="nav-links">
+                <a href="/">Home</a>
+                <a href="/genesis/1/">Browse</a>
+                <a href="/about">About</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="navigation">
+            <a href="/" class="nav-link">← Back to THB</a>
+        </div>
+
+        <div class="header">
+            <h1>License and Attribution</h1>
+            <p>Complete source documentation and licensing information</p>
+        </div>
+
+        <div class="content">
+            <h2>Platform License</h2>
+            <p>The Translator's Hebrew Bible platform software is © 2026 Michael Muzar and released under the <strong>MIT License</strong>. This includes all user interface code, morphological analysis tools, and integration systems.</p>
+
+            <div class="citation-box">
+                <strong>Platform Attribution:</strong><br>
+                Translator's Hebrew Bible (THB) © 2026 Michael Muzar.<br>
+                Released under MIT License.<br>
+                Source: https://github.com/hebrewbible/thb
+            </div>
+
+            <h2>Text and Morphology Sources</h2>
+            <p>THB integrates texts and morphological data from multiple scholarly sources, each with its own licensing requirements. All sources are properly attributed below with their specific license terms.</p>
+
+            <!-- Hebrew (MT) -->
+            <div class="source-card">
+                <div class="source-title">
+                    Hebrew Masoretic Text (MT)
+                    <span class="tradition-badge badge-hebrew">Hebrew</span>
+                </div>
+                
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Text Source</h4>
+                        <p><strong>Westminster Leningrad Codex (WLC)</strong></p>
+                        <p><strong>License:</strong> Public Domain</p>
+                        <p>The Hebrew text remains in the public domain as digitized by the Westminster Hebrew Institute.</p>
+                    </div>
+                    <div class="license-section">
+                        <h4>Morphological Analysis</h4>
+                        <p><strong>Open Scriptures Hebrew Bible Project</strong></p>
+                        <p><strong>License:</strong> Creative Commons Attribution 4.0 International</p>
+                        <p>Lemma and morphology data from the Open Scriptures morphhb project.</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Required Attribution:</strong><br>
+                    Hebrew morphology: "Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb"<br><br>
+                    Strong's Hebrew concordance numbering: Strong's Hebrew XML (Public Domain).<br>
+                    Digital edition by Troidl, R. &amp; Instone-Brewer, D. Source: https://github.com/openscriptures/strongs
+                </div>
+            </div>
+
+            <!-- Greek (LXX) -->
+            <div class="source-card">
+                <div class="source-title">
+                    Greek Septuagint (LXX)
+                    <span class="tradition-badge badge-greek">Greek</span>
+                </div>
+                
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Text Source</h4>
+                        <p><strong>Swete's Septuagint (1930)</strong></p>
+                        <p><strong>License:</strong> GPL 3.0</p>
+                        <p>Digitization by Eliran Wong from the 1930 Cambridge edition.</p>
+                    </div>
+                    <div class="license-section">
+                        <h4>Morphological Analysis</h4>
+                        <p><strong>THB Project</strong></p>
+                        <p><strong>License:</strong> MIT</p>
+                        <p>Morphological analysis developed for THB.</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Required Attribution:</strong><br>
+                    Swete, H. B. (1930). The Old Testament in Greek according to the Septuagint.<br>
+                    Digital edition by Eliran Wong (2019).<br>
+                    Source: https://github.com/eliranwong/LXX-Swete-1930<br>
+                    License: GPL 3.0
+                </div>
+            </div>
+
+            <!-- Latin (Vulgate) -->
+            <div class="source-card">
+                <div class="source-title">
+                    Latin Vulgate
+                    <span class="tradition-badge badge-latin">Latin</span>
+                </div>
+                
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Text Source</h4>
+                        <p><strong>Biblia Sacra juxta Vulgatam Clementinam</strong></p>
+                        <p><strong>License:</strong> Public Domain</p>
+                        <p>Clementine Vulgate text with accent marks, maintained by BrRoman.</p>
+                    </div>
+                    <div class="license-section">
+                        <h4>Morphological Analysis</h4>
+                        <p><strong>THB Project</strong></p>
+                        <p><strong>License:</strong> MIT</p>
+                        <p>Morphological analysis developed for THB.</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Sources:</strong><br>
+                    Tweedale, M. (2002–2005). Biblia Sacra juxta Vulgatam Clementinam [Electronic text]. https://drbo.org/lvb/<br>
+                    BrRoman. Vulgate with accents. https://github.com/BrRoman/vulgate
+                </div>
+            </div>
+
+            <!-- Samaritan Pentateuch -->
+            <div class="source-card">
+                <div class="source-title">
+                    Samaritan Pentateuch (SP)
+                    <span class="tradition-badge badge-samaritan">Samaritan</span>
+                </div>
+                
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Text and Morphology</h4>
+                        <p><strong>Text-Fabric Dataset of the Samaritan Pentateuch</strong></p>
+                        <p><strong>License:</strong> Creative Commons Attribution 4.0 International</p>
+                        <p>Complete text and morphological analysis from DT-UCPH.</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Required Attribution:</strong><br>
+                    C. C., Naaijer, M., & Schorch, S. (2023).<br>
+                    Text-Fabric Dataset of the Samaritan Pentateuch [Dataset].<br>
+                    DT-UCPH. https://github.com/DT-UCPH/sp<br>
+                    License: CC-BY 4.0
+                </div>
+            </div>
+
+            <!-- English (KJV) -->
+            <div class="source-card">
+                <div class="source-title">
+                    English Translation
+                    <span class="tradition-badge badge-english">English</span>
+                </div>
+
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Text Source</h4>
+                        <p><strong>King James Version (KJV)</strong></p>
+                        <p><strong>License:</strong> Public Domain</p>
+                        <p>1769 Authorized King James Version text.</p>
+                    </div>
+                    <div class="license-section">
+                        <h4>Word Alignment Data</h4>
+                        <p><strong>OpenHebrewBible — KJV–BHS Alignment</strong></p>
+                        <p><strong>License:</strong> Creative Commons Attribution-NonCommercial 4.0 International</p>
+                        <p>KJV word-to-Strong's number alignment with the BHS Hebrew text, by Eliran Wong.</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Required Attribution:</strong><br>
+                    Wong, E. OpenHebrewBible — KJV–BHS alignment data.<br>
+                    Source: https://github.com/eliranwong/OpenHebrewBible<br>
+                    License: CC-BY-NC 4.0
+                </div>
+            </div>
+
+            <!-- Qumran (DSS) -->
+            <div class="source-card">
+                <div class="source-title">
+                    Qumran Dead Sea Scrolls (DSS)
+                    <span class="tradition-badge badge-qumran">Qumran</span>
+                </div>
+                
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Text and Morphology</h4>
+                        <p><strong>Dead Sea Scrolls in Text-Fabric Format</strong></p>
+                        <p><strong>License:</strong> Creative Commons Attribution-NonCommercial 4.0</p>
+                        <p>Based on Martin Abegg's transcriptions, processed by ETCBC.</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Required Attribution:</strong><br>
+                    Naaijer, M., & Roorda, D. (2019).<br>
+                    Dead Sea Scrolls in TF format based on Abegg's data [Dataset].<br>
+                    ETCBC. https://github.com/ETCBC/dss<br>
+                    License: CC-BY-NC 4.0
+                </div>
+            </div>
+
+            <h2>Lexical &amp; Reference Data</h2>
+            <p>THB uses the following lexical resources to provide word definitions and versification alignment data.</p>
+
+            <!-- BDB Enhanced -->
+            <div class="source-card">
+                <div class="source-title">
+                    Brown-Driver-Briggs Hebrew Lexicon (BDB Enhanced)
+                    <span class="tradition-badge badge-hebrew">Hebrew</span>
+                </div>
+
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Source</h4>
+                        <p><strong>unfoldingWord BDB Enhanced</strong></p>
+                        <p><strong>License:</strong> Public Domain (original) + CC-BY 4.0 (enhancements)</p>
+                        <p>Enhanced digital edition of Brown, Driver &amp; Briggs <em>Hebrew and English Lexicon</em> (1906).</p>
+                    </div>
+                    <div class="license-section">
+                        <h4>Contributors</h4>
+                        <p>Enhanced by Ruark, R., de Joode, J., Ku, M., &amp; Wong, E. for unfoldingWord.</p>
+                        <p>Source: <a href="https://github.com/unfoldingWord/Brown-Driver-Briggs-Enhanced">unfoldingWord/Brown-Driver-Briggs-Enhanced</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- LSJ -->
+            <div class="source-card">
+                <div class="source-title">
+                    Liddell-Scott-Jones Greek Lexicon (LSJ)
+                    <span class="tradition-badge badge-greek">Greek</span>
+                </div>
+
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Source</h4>
+                        <p><strong>Perseus Digital Library LSJ</strong></p>
+                        <p><strong>License:</strong> Creative Commons Attribution-ShareAlike 4.0 International</p>
+                        <p>Digital edition of the Liddell-Scott-Jones <em>Greek-English Lexicon</em> (9th ed., 1940).</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Required Attribution:</strong><br>
+                    Liddell, H. G., Scott, R., Jones, H. S., &amp; McKenzie, R. (1940). A Greek-English Lexicon (9th ed.).<br>
+                    Digital edition: Perseus Digital Library. https://www.perseus.tufts.edu<br>
+                    License: CC-BY-SA 4.0
+                </div>
+            </div>
+
+            <!-- Lewis & Short -->
+            <div class="source-card">
+                <div class="source-title">
+                    Lewis &amp; Short Latin Dictionary (L&amp;S)
+                    <span class="tradition-badge badge-latin">Latin</span>
+                </div>
+
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Source</h4>
+                        <p><strong>Perseus Digital Library L&amp;S</strong></p>
+                        <p><strong>License:</strong> Creative Commons Attribution-ShareAlike 4.0 International</p>
+                        <p>Digital edition of Lewis &amp; Short <em>A Latin Dictionary</em> (1879).</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Required Attribution:</strong><br>
+                    Lewis, C. T., &amp; Short, C. (1879). A Latin Dictionary.<br>
+                    Digital edition: Perseus Digital Library. https://www.perseus.tufts.edu<br>
+                    License: CC-BY-SA 4.0
+                </div>
+            </div>
+
+            <!-- Copenhagen Alliance -->
+            <div class="source-card">
+                <div class="source-title">
+                    Copenhagen Alliance Versification Data
+                    <span class="tradition-badge badge-english">Reference</span>
+                </div>
+
+                <div class="license-info">
+                    <div class="license-section">
+                        <h4>Source</h4>
+                        <p><strong>Copenhagen Alliance for Open Biblical Data</strong></p>
+                        <p><strong>License:</strong> Creative Commons Attribution-ShareAlike 4.0 International</p>
+                        <p>Cross-tradition verse alignment and versification mapping data used for inter-tradition navigation.</p>
+                    </div>
+                </div>
+
+                <div class="citation-box">
+                    <strong>Required Attribution:</strong><br>
+                    Copenhagen Alliance for Open Biblical Data.<br>
+                    Versification alignment data. https://copenhagen-alliance.github.io<br>
+                    License: CC-BY-SA 4.0
+                </div>
+            </div>
+
+            <h2>Usage Guidelines</h2>
+            
+            <h3>Academic and Research Use</h3>
+            <p>When citing THB in academic work, please reference both the platform and the underlying source materials as appropriate for your research context:</p>
+
+            <div class="citation-box">
+                <strong>Platform Citation:</strong><br>
+                Muzar, M. (2026). Translator's Hebrew Bible (THB) [Digital platform].<br>
+                https://hebrewbible.dev
+            </div>
+
+            <p>Additionally, cite the specific source datasets that your research relies upon, using the attribution information provided above for each tradition.</p>
+
+            <h3>Redistribution and Modification</h3>
+            <p>The THB platform (MIT License) may be freely modified and redistributed. However, users must respect the licensing terms of the underlying text sources:</p>
+            
+            <p><strong>GPL 3.0 components</strong> (LXX text): Any redistribution containing this material must also be GPL 3.0 compatible.</p>
+
+            <p><strong>CC-BY-NC components</strong> (DSS): Commercial redistribution of this material is prohibited; non-commercial use requires attribution.</p>
+
+            <p><strong>CC-BY components</strong> (SP, OpenScriptures morphology, BDB Enhanced enhancements): Requires attribution as specified above.</p>
+
+            <p><strong>CC-BY-SA components</strong> (LSJ, L&amp;S, Copenhagen Alliance): Requires attribution; derivative works must be released under the same or a compatible license.</p>
+
+            <p><strong>CC-BY-NC 4.0 components</strong> (OpenHebrewBible KJV alignment): Non-commercial use only; requires attribution to Eliran Wong.</p>
+
+            <h3>Contact</h3>
+            <p>For questions about licensing, attribution, or data sources, contact the THB project maintainers. For issues with specific source datasets, contact the original data providers directly.</p>
+        </div>
+    </div>
+
+    <footer class="footer">
+        © 2026 Michael Muzar. <a href="https://github.com/evenderekh/thb" target="_blank" rel="noopener" aria-label="GitHub repository"><img src="/static/github-logo-small.png" alt="GitHub" style="width:16px;height:16px;vertical-align:middle;opacity:0.7;margin:0 4px;"></a> <a href="/license">LICENSE</a><br>
+        <a href="/about">About</a> -
+        <span id="contact-link" style="cursor: pointer; color: #c9b037;">Contact</span> -
+        <a href="/privacy">Privacy</a> -
+        <a href="/terms">Terms</a>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('contact-link').addEventListener('click', function() {
+                this.textContent = 'support AT hebrewbible.dev';
+                this.style.cursor = 'default';
+                this.style.textDecoration = 'none';
+            });
+        });
+    </script>
+</body>
+</html>

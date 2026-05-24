@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Site Information -->
+    <meta name="author" content="Michael Muzar">
+    <meta name="copyright" content="2026 Michael Muzar">
+    <meta name="license" content="MIT">
+    
+    <!-- Primary Meta Tags -->
+    <title>About - Translator's Hebrew Bible (THB)</title>
+    <meta name="title" content="About - Translator's Hebrew Bible (THB)">
+    <meta name="description" content="Learn about the Translator's Hebrew Bible project - interactive digital hexapla comparing biblical texts across six traditions with morphological analysis.">
+    <meta name="keywords" content="Hebrew Bible, digital hexapla, biblical manuscripts, textual criticism, LXX, Septuagint, Vulgate, Samaritan Pentateuch, Qumran, Dead Sea Scrolls">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+    <meta name="rating" content="general">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://hebrewbible.dev/about">
+    <meta property="og:title" content="About - Translator's Hebrew Bible">
+    <meta property="og:description" content="Learn about the Translator's Hebrew Bible project - interactive digital hexapla comparing biblical texts across six traditions.">
+    <meta property="og:site_name" content="Translator's Hebrew Bible">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://hebrewbible.dev/about">
+    <meta name="twitter:title" content="About - Translator's Hebrew Bible">
+    <meta name="twitter:description" content="Learn about the Translator's Hebrew Bible project - interactive digital hexapla comparing biblical texts across six traditions.">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/static/favicon.png">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://hebrewbible.dev/about">
+    
+    <!-- License Link -->
+    <link rel="license" href="https://opensource.org/licenses/MIT">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #0a0a0b;
+            color: #e8e8e8;
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .top-bar {
+            background: #1e1e1e;
+            padding: 0.75rem 2rem;
+            border-bottom: 1px solid #333;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        .top-bar-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .top-bar-logo {
+            font-size: 1.2rem;
+            color: #f5f5f5;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-decoration: none;
+        }
+
+        .logo-image {
+            width: 25px !important;
+            height: 25px !important;
+            max-width: 25px;
+            max-height: 25px;
+            object-fit: contain;
+        }
+
+        .nav-links {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: #e8e8e8;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s ease;
+        }
+
+        .nav-links a:hover {
+            color: #c9b037;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #333;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            color: #f5f5f5;
+            margin-bottom: 0.5rem;
+            letter-spacing: 1px;
+        }
+
+        .header p {
+            color: #999;
+            font-size: 1.1rem;
+            font-style: italic;
+        }
+
+        .content {
+            background: rgba(30, 30, 30, 0.5);
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 3rem;
+            margin-bottom: 2rem;
+            backdrop-filter: blur(5px);
+        }
+
+        .content h2 {
+            color: #c9b037;
+            font-size: 1.8rem;
+            margin: 2rem 0 1rem 0;
+            font-weight: 600;
+        }
+
+        .content h2:first-of-type {
+            margin-top: 0;
+        }
+
+        .content p {
+            margin-bottom: 1.5rem;
+            color: #e8e8e8;
+            line-height: 1.7;
+        }
+
+        .content a {
+            color: #7a9cc6;
+            text-decoration: none;
+        }
+
+        .content a:hover {
+            color: #8fb8dc;
+            text-decoration: underline;
+        }
+
+        .content strong {
+            color: #c9b037;
+            font-weight: 600;
+        }
+
+        .content ul {
+            margin-bottom: 1.5rem;
+            padding-left: 2rem;
+        }
+
+        .content li {
+            margin-bottom: 0.5rem;
+            color: #e8e8e8;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .feature-card {
+            background: rgba(201, 176, 55, 0.1);
+            border: 1px solid rgba(201, 176, 55, 0.3);
+            border-radius: 8px;
+            padding: 1.5rem;
+            transition: all 0.2s ease;
+        }
+
+        .feature-card:hover {
+            background: rgba(201, 176, 55, 0.15);
+            border-color: rgba(201, 176, 55, 0.5);
+        }
+
+        .feature-card h3 {
+            color: #c9b037;
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+
+        .feature-card p {
+            margin-bottom: 0;
+            font-size: 0.9rem;
+        }
+
+        .navigation {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .nav-link {
+            display: inline-block;
+            background: rgba(201, 176, 55, 0.1);
+            color: #c9b037;
+            text-decoration: none;
+            padding: 0.8rem 2rem;
+            border-radius: 6px;
+            border: 1px solid rgba(201, 176, 55, 0.3);
+            transition: all 0.2s ease;
+            font-weight: 500;
+        }
+
+        .nav-link:hover {
+            background: rgba(201, 176, 55, 0.2);
+            border-color: rgba(201, 176, 55, 0.6);
+            transform: translateY(-1px);
+        }
+
+        .footer {
+            background: #1e1e1e;
+            padding: 1.5rem 2rem;
+            border-top: 1px solid #333;
+            text-align: center;
+            color: #999;
+            font-size: 0.9rem;
+            margin-top: 3rem;
+        }
+
+        .footer a {
+            color: #c9b037;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            color: #d4af37;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 2rem 1rem;
+            }
+            
+            .content {
+                padding: 2rem;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .nav-links {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-nav">
+            <a href="/" class="top-bar-logo">
+                <img src="/static/logo.png" alt="THB Logo" class="logo-image">
+                THB
+            </a>
+            <div class="nav-links">
+                <a href="/">Home</a>
+                <a href="/genesis/1/">Browse</a>
+                <a href="/about">About</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="navigation">
+            <a href="/" class="nav-link">← Back to THB</a>
+        </div>
+
+        <div class="header">
+            <h1>About the Translator's Hebrew Bible</h1>
+            <p>Interactive Digital Hexapla for Biblical Scholarship</p>
+        </div>
+
+        <div class="content">
+            <p>The Translator's Hebrew Bible (THB) is a digital hexapla presenting six textual traditions in parallel columns with word-level morphological analysis. Hover any word to see lemma, parsing, and lexical data. Columns can be toggled, reordered, and resized.</p>
+
+            <h2>Textual Foundations</h2>
+
+            <p><strong>Hebrew (Masoretic Text):</strong> The Westminster Leningrad Codex, the oldest complete manuscript of the Hebrew Bible (1008/9 CE), with morphological tagging from the Open Scriptures Hebrew Bible project.</p>
+
+            <p><strong>Greek (Septuagint):</strong> Swete's edition of the LXX (1887–1894), based primarily on Codex Vaticanus. The oldest and most complete Greek Old Testament manuscript tradition.</p>
+
+            <p><strong>Latin (Vulgate):</strong> Jerome's translation completed c. 405 CE, the standard biblical text of Western Christianity for over a millennium.</p>
+
+            <p><strong>Samaritan Pentateuch:</strong> The Torah as preserved in continuous use by the Samaritan community, with tens of thousands of variants from the Masoretic tradition.</p>
+
+            <p><strong>English (KJV):</strong> The King James Version (1611), translated from the Masoretic Text for the Old Testament with reference to earlier English and Latin versions.</p>
+
+            <p><strong>Qumran (Dead Sea Scrolls):</strong> Biblical manuscripts from Qumran (c. 250 BCE – 70 CE), the oldest surviving witnesses to many books of the Hebrew Bible.</p>
+
+            <h2>Development Philosophy</h2>
+
+            <p><strong>Open Access:</strong> No subscriptions, accounts, or institutional affiliation required.</p>
+
+            <p><strong>Technical Simplicity:</strong> Runs entirely in the browser. No server-side processing, no plugins, no installation.</p>
+
+            <p><strong>Honest Representation:</strong> Sources are cited as they are, not as we wish they were. Where the data has gaps or limitations, we note them.</p>
+
+            <h2>Future Development</h2>
+
+            <p>Planned work includes expanded DSS coverage, additional morphological features, and improved cross-tradition navigation.</p>
+
+            <h2>About the Author</h2>
+
+            <p>THB was built by <strong>Michael Muzar</strong>.</p>
+        </div>
+    </div>
+
+    <footer class="footer">
+        © 2026 Michael Muzar. <a href="https://github.com/evenderekh/thb" target="_blank" rel="noopener" aria-label="GitHub repository"><img src="/static/github-logo-small.png" alt="GitHub" style="width:16px;height:16px;vertical-align:middle;opacity:0.7;margin:0 4px;"></a> <a href="/license">LICENSE</a><br>
+        <a href="/about">About</a> -
+        <span id="contact-link" style="cursor: pointer; color: #c9b037;">Contact</span> -
+        <a href="/privacy">Privacy</a> -
+        <a href="/terms">Terms</a>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('contact-link').addEventListener('click', function() {
+                this.textContent = 'support AT hebrewbible.dev';
+                this.style.cursor = 'default';
+                this.style.textDecoration = 'none';
+            });
+        });
+    </script>
+</body>
+</html>

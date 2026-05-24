@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search — Translator's Hebrew Bible</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Sans+Hebrew:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        html { font-size: 16px; }
+        body {
+            background: #0a0a0b;
+            color: #e8e8e8;
+            font-family: 'Noto Sans', sans-serif;
+            min-height: 100vh;
+        }
+
+        /* ── Top bar ──────────────────────────────────────────────── */
+        .top-bar {
+            background: #1e1e1e;
+            border-bottom: 1px solid #333;
+            padding: 0.6rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            width: 100%;
+        }
+        .top-bar-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .top-bar-logo {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #f5f5f5;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .top-bar-logo img { width: 25px; height: 25px; object-fit: contain; }
+        .top-bar-right {
+            display: flex;
+            align-items: center;
+            gap: 1.25rem;
+        }
+        .back-link {
+            font-size: 0.8rem;
+            color: #555;
+            text-decoration: none;
+            letter-spacing: 0.02em;
+            transition: color 0.15s;
+            white-space: nowrap;
+        }
+        .back-link:hover { color: #c9b037; }
+
+        /* ── Search form ──────────────────────────────────────────── */
+        .search-form {
+            display: flex;
+            align-items: center;
+            background: #0a0a0b;
+            border: 1px solid #3a3a3a;
+            border-radius: 4px;
+            height: 34px;
+            width: 360px;
+            transition: border-color 0.2s;
+        }
+        .search-form:focus-within { border-color: #c9b037; }
+        .search-input {
+            background: transparent;
+            border: none;
+            color: #e8e8e8;
+            padding: 0 0.75rem;
+            font-size: 0.88rem;
+            flex: 1;
+            min-width: 0;
+            outline: none;
+            font-family: inherit;
+        }
+        .search-input::placeholder { color: #484848; }
+        .search-input::-webkit-search-cancel-button { display: none; }
+        .search-submit {
+            background: transparent;
+            border: none;
+            border-left: 1px solid #2a2a2a;
+            color: #555;
+            padding: 0 0.85rem;
+            height: 100%;
+            cursor: pointer;
+            font-size: 0.76rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            transition: color 0.15s;
+            border-radius: 0 4px 4px 0;
+            font-family: inherit;
+            flex-shrink: 0;
+        }
+        .search-submit:hover { color: #c9b037; }
+
+        /* ── Results area ─────────────────────────────────────────── */
+        .search-main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2.5rem 2rem 4rem;
+        }
+        .search-status {
+            font-size: 0.72rem;
+            color: #484848;
+            text-transform: uppercase;
+            letter-spacing: 0.07em;
+            margin-bottom: 1.75rem;
+            min-height: 1em;
+        }
+        .search-status mark {
+            background: none;
+            color: #c9b037;
+            font-style: normal;
+            font-weight: 600;
+        }
+
+        .result {
+            display: block;
+            text-decoration: none;
+            padding: 1rem 0;
+            border-bottom: 1px solid #141414;
+            transition: padding-left 0.15s;
+        }
+        .result:first-child { border-top: 1px solid #141414; }
+        .result:hover { padding-left: 0.5rem; }
+        .result-passage {
+            font-size: 0.78rem;
+            font-weight: 600;
+            color: #c9b037;
+            letter-spacing: 0.04em;
+            margin-bottom: 0.4rem;
+        }
+        .result-excerpt {
+            font-size: 0.9rem;
+            color: #666;
+            line-height: 1.65;
+        }
+        .result-excerpt mark {
+            background: none;
+            color: #c8c8c8;
+            font-weight: 500;
+        }
+
+        .state-msg {
+            font-size: 0.88rem;
+            color: #3a3a3a;
+            padding: 3rem 0;
+            font-style: italic;
+        }
+        .more-link {
+            display: inline-block;
+            margin-top: 2rem;
+            font-size: 0.78rem;
+            color: #555;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            cursor: pointer;
+            border: none;
+            background: none;
+            font-family: inherit;
+            padding: 0;
+            transition: color 0.15s;
+        }
+        .more-link:hover { color: #c9b037; }
+
+        /* ── Responsive ───────────────────────────────────────────── */
+        @media (max-width: 640px) {
+            .top-bar { padding: 0.6rem 1rem; }
+            .back-link { display: none; }
+            .search-form { width: 220px; }
+            .search-main { padding: 1.5rem 1rem 3rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-nav">
+            <a class="top-bar-logo" href="/">
+                <img src="/static/logo.png" alt="THB">
+                THB
+            </a>
+            <div class="top-bar-right">
+                <a class="back-link" href="/">← Back to Bible</a>
+                <form class="search-form" id="search-form" role="search">
+                    <input class="search-input" id="search-input" type="search"
+                           name="q" placeholder="Search…" autocomplete="off" spellcheck="false">
+                    <button class="search-submit" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <main class="search-main">
+        <div class="search-status" id="search-status"></div>
+        <div id="results"></div>
+    </main>
+
+    <script type="module">
+        const BOOK_DISPLAY = {
+            '1samuel': '1 Samuel', '2samuel': '2 Samuel',
+            '1kings': '1 Kings',   '2kings': '2 Kings',
+            '1chronicles': '1 Chronicles', '2chronicles': '2 Chronicles',
+            'song': 'Song of Songs',
+        };
+
+        const BOOK_ORDER = [
+            'genesis','exodus','leviticus','numbers','deuteronomy',
+            'joshua','judges','ruth','1samuel','2samuel',
+            '1kings','2kings','1chronicles','2chronicles',
+            'ezra','nehemiah','esther','job','psalms','proverbs',
+            'ecclesiastes','song','isaiah','jeremiah','lamentations',
+            'ezekiel','daniel','hosea','joel','amos','obadiah',
+            'jonah','micah','nahum','habakkuk','zephaniah','haggai',
+            'zechariah','malachi'
+        ];
+
+        function cardSortKey(url) {
+            const [path, anchor] = url.split('#');
+            const parts = path.replace(/^\/|\/$/g, '').split('/');
+            const book  = BOOK_ORDER.indexOf(parts[0] || '');
+            const ch    = parseInt(parts[1] || '0', 10);
+            const verse = anchor?.startsWith('v') ? parseInt(anchor.slice(1), 10) : 0;
+            return [book < 0 ? 999 : book, ch, verse];
+        }
+
+        function passageFromMeta(meta, url) {
+            const [path, anchor] = url.split('#');
+            const verse = (anchor && anchor.startsWith('v')) ? anchor.slice(1) : null;
+            let chapter;
+            if (meta?.passage) {
+                chapter = meta.passage;
+            } else {
+                const parts = path.replace(/^\/|\/$/g, '').split('/');
+                const book  = parts[0] || '';
+                const ch    = parts[1] || '';
+                const name  = BOOK_DISPLAY[book] || (book.charAt(0).toUpperCase() + book.slice(1));
+                chapter = ch ? `${name} ${ch}` : name;
+            }
+            return verse ? `${chapter}:${verse}` : chapter;
+        }
+
+        function normalizeQuery(q) {
+            // Match what the index contains: NFD decompose → strip all combining
+            // marks (nikud, Greek accents, Latin accents), then strip bracket noise.
+            return q.normalize('NFD')
+                    .replace(/\p{Mn}/gu, '')
+                    .replace(/[\[\]{}#?·×%]/g, '')
+                    .trim();
+        }
+
+        const params  = new URLSearchParams(location.search);
+        let   query   = params.get('q') || '';
+        const input   = document.getElementById('search-input');
+        const status  = document.getElementById('search-status');
+        const results = document.getElementById('results');
+
+        if (query) input.value = query;
+
+        document.getElementById('search-form').addEventListener('submit', e => {
+            e.preventDefault();
+            const q = input.value.trim();
+            if (!q) return;
+            const u = new URL(location.href);
+            u.searchParams.set('q', q);
+            history.pushState({}, '', u);
+            query = q;
+            runSearch(q);
+        });
+
+        async function runSearch(q) {
+            status.textContent = 'Searching…';
+            results.innerHTML  = '';
+
+            let pagefind;
+            try {
+                pagefind = await import('/pagefind/pagefind.js');
+                await pagefind.init();
+            } catch {
+                status.textContent = 'Search index not available — run a full build first.';
+                return;
+            }
+
+            const search = await pagefind.search(normalizeQuery(q));
+            const total  = search.results.length;
+
+            if (!total) {
+                status.innerHTML = `No results for <mark>${q}</mark>`;
+                results.innerHTML = '<p class="state-msg">Try a different word, phrase, or Strong\'s number.</p>';
+                return;
+            }
+
+            const data = await Promise.all(search.results.map(r => r.data()));
+
+            const cards = [];
+            data.forEach(d => {
+                if (d.sub_results?.length) {
+                    d.sub_results.forEach(s => cards.push({ url: s.url, excerpt: s.excerpt, meta: d.meta }));
+                } else {
+                    cards.push({ url: d.url, excerpt: d.excerpt, meta: d.meta });
+                }
+            });
+            cards.sort((a, b) => {
+                const ka = cardSortKey(a.url), kb = cardSortKey(b.url);
+                return ka[0] - kb[0] || ka[1] - kb[1] || ka[2] - kb[2];
+            });
+
+            status.innerHTML = `${cards.length.toLocaleString()} result${cards.length !== 1 ? 's' : ''} for <mark>${q}</mark>`;
+
+            cards.forEach(c => {
+                const a = document.createElement('a');
+                a.className = 'result';
+                a.href      = c.url;
+                a.innerHTML = `
+                    <div class="result-passage">${passageFromMeta(c.meta, c.url)}</div>
+                    <div class="result-excerpt">${c.excerpt}</div>`;
+                results.appendChild(a);
+            });
+        }
+
+        if (query) runSearch(query);
+    </script>
+</body>
+</html>

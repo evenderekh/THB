@@ -1,0 +1,10 @@
+# Normalize line endings to LF on commit
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.woff2 binary
+*.ico binary
+
+# Large JSON data files — no line ending conversion
+backend/**/*.json binary
