@@ -942,7 +942,7 @@ class THBSiteBuilder:
                 verse_text = html.escape(verse_lookup.get((ch, v), ''))
                 rows.append(
                     f'<div class="vrow">'
-                    f'<a class="vref" href="/{book_slug}/{ch}/#v{v}">{ch}:{v}</a>'
+                    f'<a class="vref" href="https://hebrewbible.dev/{book_slug}/{ch}/#v{v}">{ch}:{v}</a>'
                     f'<span class="vtext" dir="{text_dir}">{verse_text}</span>'
                     f'</div>'
                 )
@@ -2000,6 +2000,8 @@ def main():
                         help='Number of chapters for --mini (default: 3)')
     parser.add_argument('--concordance', action='store_true',
                         help='With --mini: also build concordance stubs for lemmas in those chapters')
+    parser.add_argument('--stubs-only', action='store_true',
+                        help='Load data and rebuild concordance stub pages only — skip full site build')
     args = parser.parse_args()
 
     _here = Path(__file__).parent
@@ -2017,6 +2019,9 @@ def main():
     if args.mini:
         builder.build_mini(book=args.book, chapters=args.chapters,
                            concordance=args.concordance)
+    elif args.stubs_only:
+        builder.load_data()
+        builder.build_concordance_stubs()
     else:
         builder.build_site()
 
