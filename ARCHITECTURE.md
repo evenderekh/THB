@@ -56,6 +56,7 @@ thb/
     ├── genesis/1/index.html
     │   ... (one index.html per book/chapter)
     ├── concordance/              ← generated concordance stub pages
+    │   │                            NOT deployed with main site — see Deployment
     │   ├── mt/{lemma}/index.html
     │   ├── lxx/{lemma}/index.html
     │   ├── vul/{lemma}/index.html
@@ -390,6 +391,42 @@ CSS and JS are fully inline — no external stylesheet or script dependencies (e
 python thb/thb_builder_14.py --concordance   # full build + concordance stubs
 python thb/thb_builder_14.py --mini          # Genesis 1-3 only (fast preview)
 ```
+
+---
+
+## Deployment
+
+The site is deployed as **seven separate Cloudflare Pages projects** because concordance stub pages (~47,000 files across six traditions) exceed Cloudflare Pages' hard 20,000-file-per-deployment limit.
+
+### Main site
+
+```bash
+npx wrangler pages deploy public_html --project-name thb
+```
+
+Deploy the full `public_html/` tree (chapter pages, static assets, search index). The concordance subdirectories are **not included** in this project — they are deployed separately.
+
+### Concordance (one project per tradition)
+
+```bash
+npx wrangler pages deploy public_html/concordance/mt  --project-name thb-concordance-mt
+npx wrangler pages deploy public_html/concordance/lxx --project-name thb-concordance-lxx
+npx wrangler pages deploy public_html/concordance/vul --project-name thb-concordance-vul
+npx wrangler pages deploy public_html/concordance/sp  --project-name thb-concordance-sp
+npx wrangler pages deploy public_html/concordance/kjv --project-name thb-concordance-kjv
+npx wrangler pages deploy public_html/concordance/dss --project-name thb-concordance-dss
+```
+
+| Tradition | Project | Lemma pages |
+|-----------|---------|-------------|
+| MT | thb-concordance-mt.pages.dev | 8,632 |
+| LXX | thb-concordance-lxx.pages.dev | 11,775 |
+| VUL | thb-concordance-vul.pages.dev | 11,704 |
+| SP | thb-concordance-sp.pages.dev | 2,716 |
+| KJV | thb-concordance-kjv.pages.dev | 8,582 |
+| DSS | thb-concordance-dss.pages.dev | 2,772 |
+
+Concordance links in chapter pages point directly to `https://thb-concordance-{tradition}.pages.dev/{key}/`.
 
 **Build sequence (full + concordance):**
 1. Load 6 per-tradition JSON files, 3 split lexicons, concordance folder, versification, Aleppo index; build SP consonantal index

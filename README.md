@@ -47,9 +47,10 @@ thb/
 └── public_html/                     ← Builder output
     ├── static/                      ← Fonts, icons, images (committed)
     ├── about/ license/ privacy/ terms/ search/  ← Static pages (committed)
-    ├── genesis/1/ exodus/1/ ...     ← Generated chapter pages (not committed)
-    └── concordance/                 ← Generated concordance stub pages (not committed)
+    └── genesis/1/ exodus/1/ ...     ← Generated chapter pages (not committed)
 ```
+
+Concordance stub pages (~47K files across 6 traditions) exceed Cloudflare Pages' 20K-file limit and are deployed to six dedicated projects instead — see **Deployment** below.
 
 ---
 
@@ -69,6 +70,36 @@ python thb/thb_builder_14.py --mini --concordance
 ```
 
 Output goes to `public_html/`. The full architecture is documented in [ARCHITECTURE.md](ARCHITECTURE.md).
+
+---
+
+## Deployment
+
+The main site and concordance are deployed as separate Cloudflare Pages projects because concordance stub pages (~47K files across 6 traditions) exceed the Pages 20K-file limit.
+
+**Main site** — `npx wrangler pages deploy public_html --project-name thb`
+
+**Concordance** — one project per tradition, deployed from `public_html/concordance/{tradition}/`:
+
+```bash
+npx wrangler pages deploy public_html/concordance/mt  --project-name thb-concordance-mt
+npx wrangler pages deploy public_html/concordance/lxx --project-name thb-concordance-lxx
+npx wrangler pages deploy public_html/concordance/vul --project-name thb-concordance-vul
+npx wrangler pages deploy public_html/concordance/sp  --project-name thb-concordance-sp
+npx wrangler pages deploy public_html/concordance/kjv --project-name thb-concordance-kjv
+npx wrangler pages deploy public_html/concordance/dss --project-name thb-concordance-dss
+```
+
+| Tradition | Project | Lemmas |
+|-----------|---------|--------|
+| MT | thb-concordance-mt.pages.dev | 8,632 |
+| LXX | thb-concordance-lxx.pages.dev | 11,775 |
+| VUL | thb-concordance-vul.pages.dev | 11,704 |
+| SP | thb-concordance-sp.pages.dev | 2,716 |
+| KJV | thb-concordance-kjv.pages.dev | 8,582 |
+| DSS | thb-concordance-dss.pages.dev | 2,772 |
+
+Concordance links in the chapter pages point directly to the appropriate `*.pages.dev` subdomain.
 
 ---
 
