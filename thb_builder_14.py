@@ -919,7 +919,7 @@ class THBSiteBuilder:
         text_dir   = 'rtl' if is_rtl else 'ltr'
         n = len(occurrences)
         disp_key  = html.escape(key)
-        canon_url = (f'https://hebrewbible.dev/concordance/{tradition}/'
+        canon_url = (f'https://thb-concordance-{tradition}.pages.dev/'
                      f'{urlquote(key, safe="")}/')
 
         # Group by book (already in Bible order from build_concordance_data)

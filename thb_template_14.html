@@ -2855,7 +2855,7 @@
                 const showConc = !isHapax && !!concKey;
                 concordanceRow.style.display = showConc ? '' : 'none';
                 if (showConc) concordanceLink.href =
-                    `/concordance/${tradSlug}/${encodeURIComponent(concKey)}/`;
+                    `https://thb-concordance-${tradSlug}.pages.dev/${encodeURIComponent(concKey)}/`;
             }
             frequencyRow.style.display = (scode && !isHapax) ? '' : 'none';
 
