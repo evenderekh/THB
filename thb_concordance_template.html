@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{{LEMMA}}} — {{{TRAD_LABEL}}} | THB Concordance</title>
+    <meta name="description" content="All occurrences of {{{LEMMA}}} ({{{TRAD_LABEL}}}) across the Hebrew Bible — Translator's Hebrew Bible concordance.">
+    <link rel="canonical" href="{{{CANON_URL}}}"/>
+    <link rel="icon" type="image/png" href="https://hebrewbible.dev/static/favicon.png">
+
+    <!-- Fonts — absolute URLs; concordance pages are on a separate Cloudflare Pages
+         project and do not have access to /static/ on the main domain. -->
+    <link rel="preload" href="https://hebrewbible.dev/static/fonts/noto-sans-hebrew-hebrew.woff2"    as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hebrewbible.dev/static/fonts/noto-sans-normal-latin.woff2"     as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hebrewbible.dev/static/fonts/noto-sans-normal-greek-ext.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hebrewbible.dev/static/fonts/noto-sans-normal-greek.woff2"     as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hebrewbible.dev/static/fonts/noto-sans-hebrew-latin.woff2"     as="font" type="font/woff2" crossorigin>
+
+    <style>
+        @font-face {
+            font-family: 'Noto Sans';
+            font-style: normal;
+            font-weight: 100 900;
+            font-display: swap;
+            src: url('https://hebrewbible.dev/static/fonts/noto-sans-normal-latin.woff2') format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+                           U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F,
+                           U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        @font-face {
+            font-family: 'Noto Sans';
+            font-style: normal;
+            font-weight: 100 900;
+            font-display: swap;
+            src: url('https://hebrewbible.dev/static/fonts/noto-sans-normal-greek-ext.woff2') format('woff2');
+            unicode-range: U+1F00-1FFF;
+        }
+        @font-face {
+            font-family: 'Noto Sans';
+            font-style: normal;
+            font-weight: 100 900;
+            font-display: swap;
+            src: url('https://hebrewbible.dev/static/fonts/noto-sans-normal-greek.woff2') format('woff2');
+            unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C,
+                           U+038E-03A1, U+03A3-03FF;
+        }
+        @font-face {
+            font-family: 'Noto Sans Hebrew';
+            font-style: normal;
+            font-weight: 100 900;
+            font-display: swap;
+            src: url('https://hebrewbible.dev/static/fonts/noto-sans-hebrew-hebrew.woff2') format('woff2');
+            unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA,
+                           U+25CC, U+FB1D-FB4F;
+        }
+        @font-face {
+            font-family: 'Noto Sans Hebrew';
+            font-style: normal;
+            font-weight: 100 900;
+            font-display: swap;
+            src: url('https://hebrewbible.dev/static/fonts/noto-sans-hebrew-latin.woff2') format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+                           U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F,
+                           U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background: #0a0a0b;
+            color: #e8e8e8;
+            font-family: 'Noto Sans', sans-serif;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        /* ── Top bar ── */
+        .top-bar {
+            background: #1e1e1e;
+            padding: 0.75rem 2rem;
+            border-bottom: 1px solid #333;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .top-bar-logo {
+            font-size: 1.2rem;
+            color: #f5f5f5;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-decoration: none;
+            flex-shrink: 0;
+        }
+        .top-bar-logo:hover { color: #c9b037; }
+
+        .logo-image {
+            width: 25px;
+            height: 25px;
+            object-fit: contain;
+        }
+
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-size: 0.85rem;
+            color: #888;
+            flex-wrap: wrap;
+        }
+        .breadcrumb a { color: #aaa; text-decoration: none; }
+        .breadcrumb a:hover { color: #c9b037; }
+        .breadcrumb .sep { color: #444; }
+        .breadcrumb .current { color: #e8e8e8; }
+
+        /* ── Content ── */
+        .content {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 2.5rem 2rem 4rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: #f0f0f0;
+            margin-bottom: 0.4rem;
+            font-family: 'Noto Sans Hebrew', 'Noto Sans', sans-serif;
+        }
+
+        .badge {
+            display: inline-block;
+            background: #1e1e1e;
+            border: 1px solid #333;
+            border-radius: 4px;
+            padding: 0.15rem 0.6rem;
+            font-size: 0.8rem;
+            color: #aaa;
+            margin-bottom: 1.5rem;
+        }
+
+        /* ── Definition box ── */
+        .definition {
+            margin-bottom: 2rem;
+            padding: 1rem 1.25rem;
+            background: #141414;
+            border: 1px solid #2a2a2a;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            color: #ccc;
+        }
+        .def-thb { font-weight: 600; color: #e0e0e0; margin-bottom: 0.4rem; }
+        .def-strongs, .def-lsj, .def-ls { color: #aaa; margin-top: 0.3rem; }
+        .def-bdb { margin-top: 0.5rem; font-size: 0.85rem; color: #888; }
+
+        /* ── Occurrences header ── */
+        .occ-header {
+            display: flex;
+            align-items: baseline;
+            gap: 0.75rem;
+            margin-bottom: 0.75rem;
+            border-bottom: 1px solid #222;
+            padding-bottom: 0.6rem;
+        }
+        .occ-header h2 { font-size: 1rem; font-weight: 600; color: #ccc; }
+        .occ-count { font-size: 0.85rem; color: #666; flex: 1; }
+
+        .expand-btn {
+            background: none;
+            border: 1px solid #333;
+            border-radius: 3px;
+            color: #888;
+            font-size: 0.78rem;
+            padding: 0.15rem 0.55rem;
+            cursor: pointer;
+            font-family: inherit;
+            transition: border-color 0.15s, color 0.15s;
+            flex-shrink: 0;
+        }
+        .expand-btn:hover { border-color: #c9b037; color: #c9b037; }
+
+        /* ── Book groups ── */
+        .book-group { border-bottom: 1px solid #1e1e1e; }
+        .book-group:last-child { border-bottom: none; }
+
+        .book-summary {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.5rem 0;
+            cursor: pointer;
+            list-style: none;
+            user-select: none;
+        }
+        .book-summary::-webkit-details-marker { display: none; }
+        .book-summary:hover .book-name { color: #c9b037; }
+
+        .book-name { font-weight: 600; font-size: 0.9rem; color: #ccc; flex: 1; }
+        .book-count { font-size: 0.8rem; color: #555; white-space: nowrap; }
+        .book-toggle { font-size: 0.65rem; color: #444; transition: transform 0.15s; flex-shrink: 0; }
+        details[open] .book-toggle { transform: rotate(90deg); }
+
+        /* ── Verse rows ── */
+        .verse-list { padding: 0.15rem 0 0.75rem; }
+
+        .vrow {
+            display: flex;
+            gap: 0.75rem;
+            padding: 0.25rem 0;
+            border-bottom: 1px solid #141414;
+            align-items: baseline;
+        }
+        .vrow:last-child { border-bottom: none; }
+
+        .vref {
+            color: #c9b037;
+            font-size: 0.78rem;
+            font-weight: 600;
+            min-width: 2.8rem;
+            flex-shrink: 0;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+        .vref:hover { text-decoration: underline; }
+
+        .vtext {
+            font-size: 0.875rem;
+            color: #aaa;
+            line-height: 1.55;
+            word-break: break-word;
+            font-family: 'Noto Sans Hebrew', 'Noto Sans', sans-serif;
+        }
+        .vtext[dir=rtl] { font-size: 1rem; text-align: right; }
+
+        /* ── Footer ── */
+        .footer {
+            background: #1e1e1e;
+            padding: 1.5rem 2rem;
+            border-top: 1px solid #333;
+            text-align: center;
+            color: #999;
+            font-size: 0.9rem;
+        }
+        .footer a { color: #c9b037; text-decoration: none; }
+        .footer a:hover, .footer a:focus {
+            color: #d4af37;
+            text-decoration: underline;
+            text-decoration-thickness: 1px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="top-bar">
+    <a class="top-bar-logo" href="https://hebrewbible.dev">
+        <img src="https://hebrewbible.dev/static/logo.png" alt="THB Logo" class="logo-image">
+        THB
+    </a>
+    <nav class="breadcrumb" aria-label="breadcrumb">
+        <a href="https://hebrewbible.dev">Home</a>
+        <span class="sep">/</span>
+        <span>Concordance</span>
+        <span class="sep">/</span>
+        <span>{{{TRAD_SHORT}}}</span>
+        <span class="sep">/</span>
+        <span class="current" lang="{{{TRAD_LANG}}}">{{{LEMMA}}}</span>
+    </nav>
+</div>
+
+<main class="content">
+    <h1 lang="{{{TRAD_LANG}}}" dir="{{{TEXT_DIR}}}">{{{LEMMA}}}</h1>
+    <div class="badge">{{{TRAD_LABEL}}}</div>
+    <div class="definition">{{{DEFINITION}}}</div>
+    <div class="occ-header">
+        <h2>Occurrences</h2>
+        <span class="occ-count">{{{OCC_COUNT}}}</span>
+        <button class="expand-btn" onclick="toggleAll(this)">Expand all</button>
+    </div>
+    <div class="occ-list">{{{OCC_LIST}}}</div>
+</main>
+
+<div class="footer">
+    © 2026 Michael Muzar.
+    <a href="https://github.com/evenderekh/thb" target="_blank" rel="noopener" aria-label="GitHub repository"><img src="https://hebrewbible.dev/static/github-logo-small.png" alt="GitHub" style="width:16px;height:16px;vertical-align:middle;opacity:0.7;margin:0 4px;"></a>
+    <a href="https://hebrewbible.dev/license">LICENSE</a><br>
+    <a href="https://hebrewbible.dev/about">About</a> -
+    <span id="contact-link" style="cursor:pointer;color:#c9b037;">Contact</span> -
+    <a href="https://hebrewbible.dev/privacy">Privacy</a> -
+    <a href="https://hebrewbible.dev/terms">Terms</a>
+</div>
+
+<script>
+function toggleAll(btn) {
+    var all = document.querySelectorAll('details.book-group');
+    var open = !all[0]?.open;
+    all.forEach(function(d) { d.open = open; });
+    btn.textContent = open ? 'Collapse all' : 'Expand all';
+}
+</script>
+</body>
+</html>

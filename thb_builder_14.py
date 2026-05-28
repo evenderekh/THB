@@ -529,10 +529,12 @@ def parse_dss_morph(code: str) -> dict:
 
 
 class THBSiteBuilder:
-    def __init__(self, backend_dir: str, template_path: str, output_dir: str):
+    def __init__(self, backend_dir: str, template_path: str,
+                 concordance_template_path: str, output_dir: str):
         """Initialize the site builder with required file paths."""
         self.backend_dir = backend_dir
         self.template_path = template_path
+        self.concordance_template_path = concordance_template_path
         self.output_dir = output_dir
         
         # Chapter counts for navigation - Fixed Malachi to 3 chapters
@@ -559,6 +561,7 @@ class THBSiteBuilder:
         # Load data
         self.thb_data = None
         self.template = None
+        self.concordance_template = None
         self.concordance_data: Dict[str, Any] = {}   # book → ch → verse → {H…: {Book: count}}
         self.mt_lexicon: Dict[str, Any] = {}
         self.lxx_lexicon: Dict[str, Any] = {}
@@ -693,6 +696,8 @@ class THBSiteBuilder:
         print("Loading template...")
         with open(self.template_path, 'r', encoding='utf-8') as f:
             self.template = f.read()
+        with open(self.concordance_template_path, 'r', encoding='utf-8') as f:
+            self.concordance_template = f.read()
 
         print("Loading 1.4 split lexicon files...")
         for _trad, _attr in [('mt', 'mt_lexicon'), ('lxx', 'lxx_lexicon'), ('vul', 'vul_lexicon')]:
@@ -959,86 +964,23 @@ class THBSiteBuilder:
         occ_html = '\n'.join(occ_parts)
         def_html = self._concordance_definition(tradition, key) or '<em>No definition available.</em>'
 
-        return f'''<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{disp_key} — {html.escape(trad_label)} | THB Concordance</title>
-<link rel="canonical" href="{html.escape(canon_url)}"/>
-<style>
-*{{box-sizing:border-box;margin:0;padding:0}}
-body{{font-family:system-ui,sans-serif;color:#1a1a1a;background:#faf9f7;padding:1.5rem 1rem;max-width:860px;margin:0 auto;line-height:1.6}}
-header{{display:flex;align-items:center;gap:.5rem;font-size:.85rem;color:#666;margin-bottom:2rem;flex-wrap:wrap}}
-header a{{color:#5a7a5a;text-decoration:none}}
-header a:hover{{text-decoration:underline}}
-.sep{{color:#ccc}}
-h1{{font-size:2rem;font-weight:700;margin-bottom:.25rem}}
-.badge{{display:inline-block;background:#f0efe8;border:1px solid #ddd;border-radius:4px;padding:.1rem .5rem;font-size:.8rem;color:#555;margin-bottom:1.25rem}}
-.definition{{margin:1rem 0 1.5rem;padding:1rem;background:#fff;border:1px solid #e8e4dc;border-radius:6px;font-size:.9rem;color:#333}}
-.def-thb{{font-weight:600;margin-bottom:.4rem}}
-.def-strongs,.def-lsj,.def-ls{{color:#555;margin-top:.3rem}}
-.def-bdb{{margin-top:.5rem;font-size:.85rem;color:#555}}
-.occ-header{{display:flex;align-items:baseline;gap:.75rem;margin-bottom:.75rem}}
-.occ-header h2{{font-size:1.05rem;font-weight:600}}
-.occ-count{{font-size:.85rem;color:#888;flex:1}}
-.expand-btn{{background:none;border:1px solid #ddd;border-radius:3px;color:#666;font-size:.78rem;padding:.15rem .55rem;cursor:pointer;font-family:inherit;transition:border-color .15s,color .15s;flex-shrink:0}}
-.expand-btn:hover{{border-color:#5a7a5a;color:#5a7a5a}}
-.book-group{{border-bottom:1px solid #f0ede6}}
-.book-group:last-child{{border-bottom:none}}
-.book-summary{{display:flex;align-items:center;gap:.75rem;padding:.4rem 0;cursor:pointer;list-style:none;user-select:none}}
-.book-summary::-webkit-details-marker{{display:none}}
-.book-summary:hover .book-name{{color:#5a7a5a}}
-.book-name{{font-weight:600;font-size:.9rem;color:#333;flex:1}}
-.book-count{{font-size:.8rem;color:#aaa;white-space:nowrap}}
-.book-toggle{{font-size:.65rem;color:#bbb;transition:transform .15s;flex-shrink:0}}
-details[open] .book-toggle{{transform:rotate(90deg)}}
-.verse-list{{padding:.15rem 0 .6rem}}
-.vrow{{display:flex;gap:.65rem;padding:.22rem 0;border-bottom:1px solid #f8f5f0;align-items:baseline}}
-.vrow:last-child{{border-bottom:none}}
-.vref{{color:#5a7a5a;font-size:.78rem;font-weight:600;min-width:2.6rem;flex-shrink:0;text-decoration:none;white-space:nowrap}}
-.vref:hover{{text-decoration:underline}}
-.vtext{{font-size:.875rem;color:#333;line-height:1.55;word-break:break-word}}
-.vtext[dir=rtl]{{font-size:.975rem;text-align:right}}
-footer{{margin-top:3rem;padding-top:1rem;border-top:1px solid #e0ddd6;font-size:.8rem;color:#999}}
-footer a{{color:#888;text-decoration:none}}
-</style>
-</head>
-<body>
-<header>
-  <a href="/">THB</a>
-  <span class="sep">/</span>
-  <span>Concordance</span>
-  <span class="sep">/</span>
-  <span>{html.escape(trad_short)}</span>
-  <span class="sep">/</span>
-  <span lang="{trad_lang}">{disp_key}</span>
-</header>
-<main>
-  <h1 lang="{trad_lang}">{disp_key}</h1>
-  <div class="badge">{html.escape(trad_label)}</div>
-  <div class="definition">{def_html}</div>
-  <div class="occ-header">
-    <h2>Occurrences</h2>
-    <span class="occ-count">{n} {'verse' if n == 1 else 'verses'} &middot; {n_books} {books_word}</span>
-    <button class="expand-btn" onclick="toggleAll(this)">Expand all</button>
-  </div>
-  <div class="occ-list">{occ_html}</div>
-</main>
-<footer>
-  <a href="https://hebrewbible.dev">Translator's Hebrew Bible</a> —
-  <a href="/about/">About</a> · <a href="/license/">License</a>
-</footer>
-<script>
-function toggleAll(btn){{
-  var all=document.querySelectorAll('details.book-group');
-  var open=!all[0]?.open;
-  all.forEach(function(d){{d.open=open;}});
-  btn.textContent=open?'Collapse all':'Expand all';
-}}
-</script>
-</body>
-</html>'''
+        occ_count = f'{n} {"verse" if n == 1 else "verses"} &middot; {n_books} {books_word}'
+
+        replacements = {
+            '{{{LEMMA}}}':      disp_key,
+            '{{{TRAD_LABEL}}}': html.escape(trad_label),
+            '{{{TRAD_SHORT}}}': html.escape(trad_short),
+            '{{{TRAD_LANG}}}':  trad_lang,
+            '{{{TEXT_DIR}}}':   text_dir,
+            '{{{CANON_URL}}}':  html.escape(canon_url),
+            '{{{DEFINITION}}}': def_html,
+            '{{{OCC_COUNT}}}':  occ_count,
+            '{{{OCC_LIST}}}':   occ_html,
+        }
+        page = self.concordance_template
+        for tag, value in replacements.items():
+            page = page.replace(tag, value)
+        return page
 
     def build_concordance_stubs(self):
         """Write one static concordance page per non-hapax lemma per tradition."""
@@ -2005,16 +1947,17 @@ def main():
     args = parser.parse_args()
 
     _here = Path(__file__).parent
-    backend_dir   = str(_here / 'backend')
-    output_dir    = str(_here / 'public_html')
-    template_path = str(_here / 'thb_template_14.html')
+    backend_dir                = str(_here / 'backend')
+    output_dir                 = str(_here / 'public_html')
+    template_path              = str(_here / 'thb_template_14.html')
+    concordance_template_path  = str(_here / 'thb_concordance_template.html')
 
-    for file_path in [backend_dir, template_path]:
+    for file_path in [backend_dir, template_path, concordance_template_path]:
         if not os.path.exists(file_path):
             print(f"Error: Required path not found: {file_path}")
             return
 
-    builder = THBSiteBuilder(backend_dir, template_path, output_dir)
+    builder = THBSiteBuilder(backend_dir, template_path, concordance_template_path, output_dir)
 
     if args.mini:
         builder.build_mini(book=args.book, chapters=args.chapters,

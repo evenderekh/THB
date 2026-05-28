@@ -103,16 +103,6 @@ Concordance links in the chapter pages point directly to the appropriate `*.page
 
 ---
 
-## Version 1.4 — What's New
-
-- **Concordance**: every lemma links to a stub page listing all occurrences across the Bible, grouped by book in collapsible dropdowns that show the full verse text.
-- **Hapax legomena**: words appearing in exactly one verse are badged in the hover panel.
-- **DSS damage-marker rendering**: `surface_full` sigils (`[ ]` lacunae, `#`/`?` uncertainty, `{{ }}` cancellations, supralinear insertions, ancient/modern corrections) are parsed at page load into color-coded spans with cross-word bracket-state tracking.
-- **Split lexicons**: the unified `thb.1.3.lexicon.json` is replaced by three smaller per-tradition files for faster loading.
-- **Sticky header scroll fix**: `ResizeObserver` keeps `--top-bar-h` in sync so anchor links always land with the verse fully visible.
-
----
-
 ## Data & Licensing
 
 The **platform software** (builder, template, tooling) is © 2026 Michael Muzar, released under the **MIT License**.
