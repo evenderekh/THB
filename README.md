@@ -29,10 +29,10 @@ THB is a **build-once, serve-forever** static site. The builder reads structured
 
 ```
 thb/
-├── thb_builder_14.py   ← site builder v1.4 (~1,700 lines)
+├── thb_builder_14.py    ← site builder v1.5 (~1,800 lines)
 ├── thb_template_14.html ← HTML/CSS/JS shell (all inline, no external deps)
 ├── backend/
-│   ├── thb.1.3.mt.json              ← Hebrew text + morphology
+│   ├── thb.1.5.mt.json              ← Hebrew text + morphology + full punctuation
 │   ├── thb.1.3.lxx.json             ← Greek text + morphology
 │   ├── thb.1.3.vul.json             ← Latin text + morphology
 │   ├── thb.1.3.sp.json              ← Samaritan Pentateuch
@@ -43,6 +43,7 @@ thb/
 │   ├── thb.1.4.lexicon.vul.json     ← VUL lexicon (11,704 entries)
 │   ├── thb.1.3.versification.json   ← Cross-tradition verse mapping
 │   ├── thb.1.3.aleppo.json          ← Aleppo Codex facsimile page index
+│   ├── oshb_cache/                  ← Cached OSHB MorphHB XML files (39 books)
 │   └── concordance/                 ← Per-book Strong's frequency data (39 files)
 └── public_html/                     ← Builder output
     ├── static/                      ← Fonts, icons, images (committed)

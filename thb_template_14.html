@@ -829,6 +829,26 @@
             z-index: 10;
         }
 
+        /* Punctuation and scribal marks */
+        .punct {
+            display: inline;
+            pointer-events: none;
+            user-select: none;
+        }
+
+        /* Parashah section markers (פ / ס) */
+        .parashah {
+            display: inline;
+            font-weight: 500;
+            pointer-events: none;
+            user-select: none;
+        }
+
+        /* Extraordinary letter forms */
+        .large-letter  { font-size: 1.15em; }
+        .small-letter  { font-size: 0.80em; vertical-align: middle; }
+        .suspended-letter { vertical-align: super; font-size: 0.75em; }
+
         /* Linguistic panel */
         .linguistic-panel {
             position: fixed;
@@ -1415,7 +1435,7 @@
                     <button class="font-btn" onclick="changeFontSize('english', -0.1)">−</button>
                     <button class="font-btn" onclick="changeFontSize('english', 0.1)">+</button>
                     <button class="reset-btn" onclick="resetFontSize('english')" title="Reset font size">⟲</button>
-                    <button class="diacritics-btn" onclick="toggleDiacritics('english')" title="Toggle inserted words">Áa</button>
+                    <button class="diacritics-btn" onclick="toggleDiacritics('english')" title="Remove punctuation">Áa</button>
                 </div>
                 <span class="drag-handle">⋮⋮</span>
                 <div class="resize-handle"></div>
@@ -1761,12 +1781,15 @@
         // combining-mark sweep catches forms the old regex missed.  Matches the same
         // approach used by stripGreekPolytonicMarks.
         function stripHebrewNiqqud(html) {
-            // U+05BE (maqaf \u05BE) and U+05C0 (paseq) and U+05C3 (sof pasuq \u05C3) are
-            // punctuation, not vowel points \u2014 exclude them from the sweep so
-            // \u05E2\u05B7\u05DC\u05BE\u05E4\u05B0\u05BC\u05E0\u05B5\u05D9 strips to \u05E2\u05DC\u05BE\u05E4\u05E0\u05D9 (maqaf preserved), not \u05E2\u05DC\u05E4\u05E0\u05D9.
+            // U+05BE (maqaf) and U+05C0 (paseq) and U+05C3 (sof pasuq) are
+            // punctuation, not vowel points \u2014 exclude them from the combining-mark sweep
+            // so \u05E2\u05B7\u05DC\u05BE\u05E4\u05B0\u05BC\u05E0\u05B5\u05D9 strips to \u05E2\u05DC\u05BE\u05E4\u05E0\u05D9 (maqaf preserved), not \u05E2\u05DC \u05E4\u05E0\u05D9.
+            // Also strip baked punct spans (paseq, sof-pasuq, reversed-nun, parashah).
             return html
+                .replace(/<span class="punct[^"]*">[^<]*<\/span>/g, '')
+                .replace(/<span class="parashah[^"]*">[^<]*<\/span>\s*/g, '')
                 .normalize('NFD')
-                .replace(/[\u0591-\u05BD\u05BF-\u05BF\u05C1-\u05C2\u05C4-\u05C5\u05C7]/g, '');
+                .replace(/[\u0591-\u05BD\u05BF\u05C1-\u05C2\u05C4-\u05C5\u05C7]/g, '');
         }
 
         // Greek: Strip polytonic marks (breathing marks, accents).
@@ -1776,6 +1799,7 @@
         // cases the old manual lookup table missed (uppercase, tonos forms).
         function stripGreekPolytonicMarks(html) {
             return html
+                .replace(/<span class="punct[^"]*">[^<]*<\/span>/g, '')
                 .normalize('NFD')
                 .replace(/[̀-ͯ᪰-᫿᷀-᷿]/g, '');
         }
@@ -1819,13 +1843,16 @@
                 );
             });
             
-            return processed;
+            return processed
+                .replace(/<span class="punct[^"]*">[^<]*<\/span>/g, '');
         }
 
         // English: Strip inserted words (words in brackets like [he], [and])
         function stripEnglishInsertedWords(html) {
-            // Simply remove [ and ] characters, keep everything else
-            return html.replace(/\[/g, '').replace(/\]/g, '');
+            // Remove [ and ] characters; also strip baked punct spans
+            return html
+                .replace(/<span class="punct[^"]*">[^<]*<\/span>/g, '')
+                .replace(/\[/g, '').replace(/\]/g, '');
         }
 
         // Qumran: Strip damage marks / critical apparatus sigla.

@@ -687,9 +687,11 @@ class THBSiteBuilder:
         print("Loading THB tradition data...")
         self.thb_data = {}
         for trad in ('mt', 'lxx', 'vul', 'sp', 'kjv', 'dss'):
-            path = backend / f'thb.1.3.{trad}.json'
+            # MT upgraded to 1.5 (adds paseq, parashah, nun inversum, large/small/suspended)
+            version = '1.5' if trad == 'mt' else '1.3'
+            path = backend / f'thb.{version}.{trad}.json'
             if path.exists():
-                print(f"  Loading thb.1.3.{trad}.json ({path.stat().st_size // 1024 // 1024} MB)...")
+                print(f"  Loading thb.{version}.{trad}.json ({path.stat().st_size // 1024 // 1024} MB)...")
                 with open(path, 'r', encoding='utf-8') as f:
                     self.thb_data[trad] = json.load(f)
 
@@ -1013,11 +1015,18 @@ class THBSiteBuilder:
         }
         return display_names.get(book, book)
     
+    # Punctuation characters that appear as standalone tokens in non-MT traditions.
+    # These are baked into the preceding word span by build_word_sequence.
+    INLINE_PUNCT_CHARS = frozenset(['.', ',', ';', ':', '!', '?', '—', '–'])
+
     def build_word_span(self, word: Dict[str, Any], tradition: str) -> str:
         """Build a clickable word span with data attributes."""
         if word.get('is_sof_pasuq', False):
+            # MT sof pasuq: render as punctuation span (non-interactive)
+            if tradition == 'mt':
+                return '<span class="punct sof-pasuq">׃</span>'
             return ''
-            
+
         # Get surface text
         if tradition == 'dss':
             surface = word.get('surface_full', word.get('surface', ''))
@@ -1029,12 +1038,23 @@ class THBSiteBuilder:
             surface = surface.strip()
         else:
             surface = word.get('surface', '')
-            
-        if not surface or surface in ['׃', '.', ',', ';', ':', '!', '?', '—', '–']:
+
+        if not surface:
             return ''
-            
-        # Get word class
+
+        # Standalone punctuation tokens (LXX/VUL/KJV): render as non-interactive
+        # punct span so they display inline, and can be stripped by the toggle.
+        if surface in self.INLINE_PUNCT_CHARS:
+            return f'<span class="punct">{html.escape(surface)}</span>'
+
+        # Get word class — augment with scribal-mark classes for MT
         word_class = f"{self.tradition_mapping.get(tradition, tradition)}-word"
+        if word.get('has_large_letter'):
+            word_class += ' large-letter'
+        if word.get('has_small_letter'):
+            word_class += ' small-letter'
+        if word.get('has_suspended_letter'):
+            word_class += ' suspended-letter'
 
         morph = word.get('morph', '').replace('|', '\n')
         morph_thb = word.get('morph_thb', {})
@@ -1310,8 +1330,14 @@ class THBSiteBuilder:
 
         return pairs
 
+    # Punctuation injected between words (baked inside or after spans)
+    PASEQ         = '<span class="punct paseq"> ׀</span>'
+    REVERSED_NUN  = '<span class="punct reversed-nun">׆</span>'
+    SOF_PASUQ_SP  = '<span class="punct sof-pasuq"> ׃</span>'  # for non-MT punct token
+
     def build_word_sequence(self, words: List[Dict[str, Any]], tradition: str,
-                            mt_maqqef_pairs: Optional[Set[Tuple[str, str]]] = None) -> str:
+                            mt_maqqef_pairs: Optional[Set[Tuple[str, str]]] = None,
+                            parashah: Optional[str] = None) -> str:
         """
         Render a list of word dicts as a string of HTML spans, joining
         prefix particles and maqqef-linked words without intervening spaces.
@@ -1327,25 +1353,39 @@ class THBSiteBuilder:
              consonant pair appears in it, insert a maqqef instead of a space.
 
         Each word remains its own independent <span> so lemma data is intact.
+
+        If parashah is 'pe' or 'samekh', prepend the corresponding marker span.
         """
         parts: List[str] = []
         attach_next = False   # prefix lookahead: suppress space before the next span
         prev_cons: str = ''   # consonantal text of the last visible token
         prev_surface: str = ''  # bare surface of the last emitted token (for bracket suppression)
 
+        # Parashah marker at the start of the verse
+        if parashah == 'pe':
+            parts.append('<span class="parashah pe">פ</span> ')
+        elif parashah == 'samekh':
+            parts.append('<span class="parashah samekh">ס</span> ')
+
         for word in words:
             attach = word.get('attach', False)
             maqqef = word.get('attach_with_maqqef', False)
 
             span = self.build_word_span(word, tradition)
+
             if not span:
                 continue
 
             curr_cons    = self.word_consonants(word)
             curr_surface = (word.get('surface') or '').strip()
+            is_sof       = word.get('is_sof_pasuq', False)
+            is_punct_tok = curr_surface in self.INLINE_PUNCT_CHARS
 
             if parts:  # not the first visible token
-                if attach:
+                if is_sof or is_punct_tok:
+                    # Sof pasuq and standalone punct hug the preceding word — no space
+                    pass
+                elif attach:
                     # Explicit MT-style flag on this word
                     if maqqef:
                         # Stitch maqqef inside the preceding span so minifiers can't drop it
@@ -1367,8 +1407,15 @@ class THBSiteBuilder:
                     parts.append(' ')
 
             parts.append(span)
-            prev_cons    = curr_cons
-            prev_surface = curr_surface
+
+            # Inject post-word scribal marks (MT only)
+            if word.get('has_paseq'):
+                parts.append(self.PASEQ)
+            if word.get('has_reversed_nun'):
+                parts.append(self.REVERSED_NUN)
+
+            prev_cons    = curr_cons if not is_sof else prev_cons
+            prev_surface = curr_surface if not is_sof else prev_surface
 
             # Update lookahead: was this word a prefix that should glue to the next?
             if tradition in ('dss', 'sp'):
@@ -1449,7 +1496,9 @@ class THBSiteBuilder:
                     words = verse_data.get('words', [])
                     if words:
                         verse_html += '        <div class="verse-text">\n'
-                        verse_html += '            ' + self.build_word_sequence(words, tradition) + '\n'
+                        parashah = verse_data.get('parashah') if tradition == 'mt' else None
+                        verse_html += '            ' + self.build_word_sequence(
+                            words, tradition, parashah=parashah) + '\n'
                         verse_html += '        </div>\n'
                     else:
                         verse_html += '        <div class="verse-text gap">[no text]</div>\n'

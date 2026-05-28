@@ -15,15 +15,16 @@ A fully static site — no server, no runtime database. Every page is a self-con
 
 ```
 thb/
-├── thb_builder_14.py       ← site builder v1.4 (~1,700 lines)
+├── thb_builder_14.py       ← site builder v1.5 (~1,800 lines)
 ├── thb_template_14.html    ← HTML/CSS/JS shell for every page
+├── thb_punct_extractor.py  ← MT punctuation extractor (OSHB → thb.1.5.mt.json)
 ├── ARCHITECTURE.md         ← this file
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
 │
 ├── backend/
-│   ├── thb.1.3.mt.json              ← Hebrew text + morphology
+│   ├── thb.1.5.mt.json              ← Hebrew text + morphology + full punctuation
 │   ├── thb.1.3.lxx.json             ← Greek text + morphology
 │   ├── thb.1.3.vul.json             ← Latin text + morphology
 │   ├── thb.1.3.sp.json              ← Samaritan Pentateuch
@@ -34,6 +35,7 @@ thb/
 │   ├── thb.1.4.lexicon.vul.json     ← VUL lexicon, 11,704 entries
 │   ├── thb.1.3.versification.json   ← versification maps with license metadata
 │   ├── thb.1.3.aleppo.json          ← Aleppo Codex facsimile page index
+│   ├── oshb_cache/                  ← Cached OSHB MorphHB XML (39 books, ~60 MB)
 │   └── concordance/                 ← Strong's frequency data, one file per book
 │       ├── genesis.json
 │       ├── exodus.json
@@ -104,6 +106,20 @@ The master data is split into one JSON file per tradition. Each file contains th
 DSS verses nest words under scroll attestations rather than directly — each verse contains one or more `scrolls` entries (e.g. `"4Q2"`, `"1QIsa-a"`), each with its own word list. DSS word objects carry `surface_full`, `biblical_ref`, and `fragment` fields in addition to the standard set.
 
 Each word object carries: `thb_id` (stable OSID), `surface`, `lemma`, `morph`, `morph_thb`, `consonantal`.
+
+**MT punctuation fields** (added in v1.5 via `thb_punct_extractor.py`):
+
+| Field | Type | Meaning |
+|-------|------|---------|
+| `attach_with_maqqef` | bool | Word is joined to predecessor with maqaf ־ |
+| `is_sof_pasuq` | bool | Sentinel token marking verse end (׃) |
+| `has_paseq` | bool | Paseq ׀ follows this word |
+| `has_reversed_nun` | bool | Nun inversum ׆ follows this word |
+| `has_large_letter` | bool | Word contains an oversized scribal letter |
+| `has_small_letter` | bool | Word contains a diminished scribal letter |
+| `has_suspended_letter` | bool | Word contains a suspended scribal letter |
+
+Verse objects may carry `parashah: "pe"` or `parashah: "samekh"` marking a section break.
 
 **Morphology fields:**
 - `morph` — raw tradition-specific codes, parsed at build time by the tradition's morph parser.
@@ -199,6 +215,41 @@ The word hover panel shows a **concordance link** (→ the stub page) and a **ha
 
 ---
 
+## MT Punctuation Extractor: `thb_punct_extractor.py`
+
+Reads the cached OSHB MorphHB XML files (`backend/oshb_cache/`) and adds punctuation fields to `thb.1.3.mt.json`, producing `thb.1.5.mt.json`.
+
+**Source:** OSHB MorphHB XML (same source as the original MT data). Positional matching within each verse is exact — same tokenization, zero alignment problems — with two edge-case fixes:
+
+1. **Morph-split compensation:** OSHB `<w>` elements with multiple morphemes (e.g. `morph="HC/Vqq2ms"`) produce multiple JSON tokens. The extractor counts `/` characters in the morph code to advance the JSON token index correctly so post-word marks (paseq, reversed nun) land on the right token.
+
+2. **Ketiv/qere skip:** OSHB encodes ketiv/qere variants as `<w>` inside `<note>` elements. `root.iter()` visits these but they have no JSON counterpart. They are pre-identified and skipped during word counting.
+
+**Counts (whole Bible):** 2,278 paseq · 9 reversed nun · 3,130 parashah (1,181 pe + 1,981 samekh) · 4 large letter · 3 small letter · 4 suspended letter · 0 mismatches.
+
+```bash
+# Re-run if OSHB source changes (XML cached in backend/oshb_cache/)
+python thb/thb_punct_extractor.py
+python thb/thb_punct_extractor.py --dry-run   # verify without writing
+```
+
+---
+
+## Punctuation Rendering
+
+**MT** — rendered from word-level flags in `thb.1.5.mt.json`:
+- `is_sof_pasuq` → `<span class="punct sof-pasuq">׃</span>` (hugs preceding word)
+- `has_paseq` → `<span class="punct paseq"> ׀</span>` appended after the word span
+- `has_reversed_nun` → `<span class="punct reversed-nun">׆</span>` appended after the word span
+- `parashah: "pe"/"samekh"` → `<span class="parashah pe">פ</span>` / `<span class="parashah samekh">ס</span>` prepended to verse
+- `has_large_letter` / `has_small_letter` / `has_suspended_letter` → CSS classes on the word span
+
+**LXX / VUL / KJV** — punctuation appears as standalone word tokens (`.`, `,`, `;`, `:`, `!`, `?`, `—`, `–`). `build_word_span()` renders these as `<span class="punct">` elements that hug the preceding word with no space.
+
+**Toggle behavior:** each tradition's "Áa" button calls `stripDiacritics()` which removes all `<span class="punct[^"]*">` and `<span class="parashah[^"]*">` elements before stripping combining marks. `restoreOriginalText()` restores the cached original HTML.
+
+---
+
 ## DSS Damage-Marker Rendering
 
 The Dead Sea Scrolls data uses `surface_full` — a lightly marked-up string encoding physical manuscript damage alongside the Hebrew letters. The builder emits each word's `surface_full` in a `data-sf` attribute; the template parses and renders it at page load.
@@ -282,7 +333,7 @@ The `supplement` source covers books the Copenhagen Alliance files don't include
 
 ## The Builder: `thb_builder_14.py`
 
-Single Python 3 script (~1,700 lines). All paths are `Path(__file__).parent`-relative.
+Single Python 3 script (~1,800 lines). All paths are `Path(__file__).parent`-relative.
 
 ### `VersificationMapper`
 
@@ -319,7 +370,8 @@ THBSiteBuilder(
 | `build_concordance_data()` | Scans all loaded traditions; builds `occurrence_index` and `hapax` |
 | `get_tradition_book_name(book, tradition)` | Maps canonical name to tradition key |
 | `_prev_next_urls(book, chapter)` | Bakes prev/next nav hrefs; wraps at Bible boundaries |
-| `build_word_span(word, tradition)` | Renders a `<span>` with all data attributes (including `data-sf` for DSS) |
+| `build_word_span(word, tradition)` | Renders a `<span>` with all data attributes; returns a `<span class="punct">` for standalone punct tokens; returns `<span class="punct sof-pasuq">` for MT sof-pasuq |
+| `build_word_sequence(words, tradition, mt_maqqef_pairs, parashah)` | Assembles word spans with maqqef, paseq, reversed-nun, parashah prefix, and punct injection |
 | `build_combined_verse_row(...)` | Renders one full row of six columns for a verse |
 | `build_words_section(book, chapter)` | Renders all verse rows for a chapter |
 | `build_chapter_frequency(book, chapter)` | Merges concordance data for a chapter |
