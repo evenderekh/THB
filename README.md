@@ -77,17 +77,23 @@ Output goes to `public_html/`. The full architecture is documented in [ARCHITECT
 
 The main site and concordance are deployed as separate Cloudflare Pages projects because concordance stub pages (~47K files across 6 traditions) exceed the Pages 20K-file limit.
 
-**Main site** — `npx wrangler pages deploy public_html --project-name thb`
+**Main site** — `public_html` minus the `concordance/` subdirectory (exceeds 20K limit):
+
+```bash
+python -c "import shutil,os; d='public_html_deploy'; os.path.exists(d) and shutil.rmtree(d); shutil.copytree('public_html', d, ignore=shutil.ignore_patterns('concordance'))"
+npx wrangler pages deploy public_html_deploy --project-name thb --branch main
+python -c "import shutil; shutil.rmtree('public_html_deploy')"
+```
 
 **Concordance** — one project per tradition, deployed from `public_html/concordance/{tradition}/`:
 
 ```bash
-npx wrangler pages deploy public_html/concordance/mt  --project-name thb-concordance-mt
-npx wrangler pages deploy public_html/concordance/lxx --project-name thb-concordance-lxx
-npx wrangler pages deploy public_html/concordance/vul --project-name thb-concordance-vul
-npx wrangler pages deploy public_html/concordance/sp  --project-name thb-concordance-sp
-npx wrangler pages deploy public_html/concordance/kjv --project-name thb-concordance-kjv
-npx wrangler pages deploy public_html/concordance/dss --project-name thb-concordance-dss
+npx wrangler pages deploy public_html/concordance/mt  --project-name thb-concordance-mt  --branch main
+npx wrangler pages deploy public_html/concordance/lxx --project-name thb-concordance-lxx --branch main
+npx wrangler pages deploy public_html/concordance/vul --project-name thb-concordance-vul --branch main
+npx wrangler pages deploy public_html/concordance/sp  --project-name thb-concordance-sp  --branch main
+npx wrangler pages deploy public_html/concordance/kjv --project-name thb-concordance-kjv --branch main
+npx wrangler pages deploy public_html/concordance/dss --project-name thb-concordance-dss --branch main
 ```
 
 | Tradition | Project | Lemmas |
