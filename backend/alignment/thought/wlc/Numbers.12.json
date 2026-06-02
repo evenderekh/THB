@@ -1,0 +1,610 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Miriam and Aaron spake against Moses",
+      "traditions": {
+        "WLC": "וַ תְּדַבֵּ֨ר מִרְיָ֤ם וְ אַהֲרֹן֙ בְּ מֹשֶׁ֔ה",
+        "LXX": "Καὶ ἐλάλησεν Μαριὰμ καὶ Ἀαρὼν κατὰ Μωυσῆ",
+        "VUL": "Locutáque est María et Aaron contra Móysen",
+        "SP": "ו תדבר מרים ו אהרן ב משׁה",
+        "KJV": "And Miriam and Aaron spake against Moses",
+        "DSS": "[4Q27] ו תד##ב##[ ר מרים ו אהרון  ]ב## מ#ושה#["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because of the Ethiopian woman whom he had married",
+      "traditions": {
+        "WLC": "עַל אֹד֛וֹת הָ אִשָּׁ֥ה הַ כֻּשִׁ֖ית אֲשֶׁ֣ר לָקָ֑ח",
+        "LXX": "ἕνεκεν τῆς γυναικὸς τῆς Αἰθιοπίσσης ἣν ἔλαβεν Μωυσῆς ,",
+        "VUL": "propter uxórem eius Æthiopíssam ,",
+        "SP": "על אדות ה אשׁה ה כשׁית אשׁר לקח",
+        "KJV": "because of the Ethiopian woman whom he had married :",
+        "DSS": "על אדות ה אשה ה כושית אשר לק ]ח#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for he had married an Ethiopian woman",
+      "traditions": {
+        "WLC": "כִּֽי אִשָּׁ֥ה כֻשִׁ֖ית לָקָֽח",
+        "LXX": "ὅτι γυναῖκα Αἰθιόπισσαν ἔλαβεν .",
+        "VUL": null,
+        "SP": "כי אשׁה כשׁית לקח",
+        "KJV": "for he had married an Ethiopian woman .",
+        "DSS": "כיא אשה כוש#[ ית לקח מושה ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they said , Hath the LORD indeed spoken only by Moses ?",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֗וּ הֲ רַ֤ק אַךְ בְּ מֹשֶׁה֙ דִּבֶּ֣ר יְהוָ֔ה",
+        "LXX": "καὶ εἶπαν Μὴ Μωυσῇ μόνῳ λελάληκεν Κύριος ?",
+        "VUL": "et dixérunt : Num per solum Móysen locútus est Dóminus ?",
+        "SP": "ו יאמרו ה רק אך ב משׁה דבר יהוה",
+        "KJV": "And they said , Hath the LORD indeed spoken only by Moses ?",
+        "DSS": "[4Q27] ו  ]י?ואמרו ה# [ רק אך ב מושה דבר יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "hath he not spoken also by us ?",
+      "traditions": {
+        "WLC": "הֲ לֹ֖א גַּם בָּ֣ נוּ דִבֵּ֑ר",
+        "LXX": "οὐχὶ καὶ ἡμῖν ἐλάλησεν ?",
+        "VUL": "nonne et nobis simíliter est locútus ?",
+        "SP": "ה לוא גם בנו דבר",
+        "KJV": "hath he not spoken also by us ?",
+        "DSS": "ה לוא  ]ג#?ם ב׳נו דבר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the LORD heard [ it ] .",
+      "traditions": {
+        "WLC": "וַ יִּשְׁמַ֖ע יְהוָֽה",
+        "LXX": "καὶ ἤκουσεν Κύριος .",
+        "VUL": "Quod cum audísset Dóminus",
+        "SP": "ו ישׁמע יהוה",
+        "KJV": "And the LORD heard [ it ] .",
+        "DSS": "ו ישמע יהו#?[ ה"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now the man Moses [ was ] very meek ,",
+      "traditions": {
+        "WLC": "וְ הָ אִ֥ישׁ מֹשֶׁ֖ה ענו מְאֹ֑ד",
+        "LXX": "καὶ ὁ ἄνθρωπος Μωυσῆς πραὺς σφόδρα",
+        "VUL": "( erat enim Móyses vir mitíssimus",
+        "SP": "ו ה אישׁ משׁה ענו מאד",
+        "KJV": "( Now the man Moses [ was ] very meek ,",
+        "DSS": "[4Q23] ε ו ה איש משה ענו מא ]ד#׳ה#[ / [4Q27] ו ה איש  ]מושה[  ענו מואד׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "above all the men which [ were ] upon the face of the earth .",
+      "traditions": {
+        "WLC": "מִ כֹּל֙ הָֽ אָדָ֔ם אֲשֶׁ֖ר עַל פְּנֵ֥י הָ אֲדָמָֽה",
+        "LXX": "παρὰ πάντας τοὺς ἀνθρώπους τοὺς ὄντας ἐπὶ τῆς γῆς .",
+        "VUL": "super omnes hómines qui morabántur in terra ) ,",
+        "SP": "מ כל ה אדם אשׁר על פני ה אדמה",
+        "KJV": "above all the men which [ were ] upon the face of the earth . )",
+        "DSS": "[4Q23] מ כל ה אדם אשר על פני ה אדמה ׃ / [4Q27] מ כול ה אדם אש ]ר## על פני ה אדמה# ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD spake suddenly unto Moses , and unto Aaron , and unto Miriam ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוָ֜ה פִּתְאֹ֗ם אֶל מֹשֶׁ֤ה וְ אֶֽל אַהֲרֹן֙ וְ אֶל מִרְיָ֔ם",
+        "LXX": "καὶ εἶπεν Κύριος πρὸς Μωυσῆν καὶ Μαριὰμ καὶ Ἀαρών",
+        "VUL": "statim locútus est ad eum , et ad Aaron et Maríam :",
+        "SP": "ו יאמר יהוה פתאם אל משׁה ו אל אהרן ו אל מרים",
+        "KJV": "And the LORD spake suddenly unto Moses , and unto Aaron , and unto Miriam ,",
+        "DSS": "[4Q23] [ ו יאמר יהוה פתאם אל משה ו אל אהרן ו אל  ]מ##[ רי ]ם##[ / [4Q27] ו? י#?[ ואמר יהוה פתאום אל מושה ו אל אהרון ו אל מרים ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Come out ye three unto the tabernacle of the congregation .",
+      "traditions": {
+        "WLC": "צְא֥וּ שְׁלָשְׁתְּ כֶ֖ם אֶל אֹ֣הֶל מוֹעֵ֑ד",
+        "LXX": "Ἐξέλθατε ὑμεῖς οἱ τρεῖς τὴν σκηνὴν τοῦ μαρτυρίου ·",
+        "VUL": "Egredímini vos tantum tres ad tabernáculum fœ́deris .",
+        "SP": "צאו שׁלשׁתכם אל אהל מועד",
+        "KJV": "Come out ye three unto the tabernacle of the congregation .",
+        "DSS": "[4Q23] צ#א#ו? שלש##[ ת׳כם אל  ]א##ה#ל## מ#[ ועד / [4Q27] צאו שלושת׳כם אל [ אוהל מועד"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And they three came out .",
+      "traditions": {
+        "WLC": "וַ יֵּצְא֖וּ שְׁלָשְׁתָּֽ ם",
+        "LXX": "καὶ ἐξῆλθον οἱ τρεῖς εἰς τὴν σκηνὴν τοῦ μαρτυρίου .",
+        "VUL": "Cumque fuíssent egréssi ,",
+        "SP": "ו יצאו שׁלשׁתם",
+        "KJV": "And they three came out .",
+        "DSS": "[4Q23] ו יצאו ] [ שלשת׳ם ׃ / [4Q27] ו יצאו שלושת׳ם אל אוהל מועד ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD came down in the pillar of the cloud ,",
+      "traditions": {
+        "WLC": "וַ יֵּ֤רֶד יְהוָה֙ בְּ עַמּ֣וּד עָנָ֔ן",
+        "LXX": "καὶ κατέβη Κύριος ἐν στύλῳ νεφέλης ,",
+        "VUL": "descéndit Dóminus in colúmna nubis ,",
+        "SP": "ו ירד יהוה ב עמוד ה ענן",
+        "KJV": "And the LORD came down in the pillar of the cloud ,",
+        "DSS": "[4Q23] ו ירד יה ]ו#?ה## ב ע##מד# ע##נ#?ן#? [ / [4Q27] ו ירד יהוה  ]ב## ע##מ#וד ענן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and stood [ in ] the door of the tabernacle ,",
+      "traditions": {
+        "WLC": "וַֽ יַּעֲמֹ֖ד פֶּ֣תַח הָ אֹ֑הֶל",
+        "LXX": "καὶ ἔστη ἐπὶ τῆς θύρας τῆς σκηνῆς τοῦ μαρτυρίου ·",
+        "VUL": "et stetit in intróitu tabernáculi ,",
+        "SP": "ו יעמד פתח ה אהל",
+        "KJV": "and stood [ in ] the door of the tabernacle ,",
+        "DSS": "[4Q23] ו י ]ע#מ##[ ד פ ]ת#ח# ה אהל / [4Q27] ו יעמוד [ פתח אוהל מועד"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and called Aaron and Miriam :",
+      "traditions": {
+        "WLC": "וַ יִּקְרָא֙ אַהֲרֹ֣ן וּ מִרְיָ֔ם",
+        "LXX": "καὶ ἐκλήθησαν Ἀαρὼν καὶ Μαριάμ ,",
+        "VUL": "vocans Aaron et Maríam .",
+        "SP": "ו יקרא אהרן ו מרים",
+        "KJV": "and called Aaron and Miriam :",
+        "DSS": "[4Q23] ו יק#[ רא אהר ]ן#? ו#? מ##רים / [4Q27] ו יקרא אהרון ו מרים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they both came forth .",
+      "traditions": {
+        "WLC": "וַ יֵּצְא֖וּ שְׁנֵי הֶֽם",
+        "LXX": "καὶ ἐξήλθοσαν ἀμφότεροι .",
+        "VUL": "Qui cum issent ,",
+        "SP": "ו יצאו שׁניהם",
+        "KJV": "and they both came forth .",
+        "DSS": "[4Q23] ו יצאו? [ שני׳הם ׃ / [4Q27] ו יצאו שני׳הם ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said , Hear now my words :",
+      "traditions": {
+        "WLC": "וַ יֹּ֖אמֶר שִׁמְעוּ נָ֣א דְבָרָ֑ י",
+        "LXX": "καὶ εἶπεν πρὸς αὐτούς Ἀκούσατε τῶν λόγων μου ·",
+        "VUL": "dixit ad eos : Audíte sermónes meos :",
+        "SP": "ו יאמר שׁמעו נא דברי",
+        "KJV": "And he said , Hear now my words :",
+        "DSS": "[4Q23] ו יאמר שמעו נא  ]ד##בר׳י / [4Q27] ו י ]ו(# א #)מר יהוה אלי׳הם [ שמעו נא דבר׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "If there be a prophet among you ,",
+      "traditions": {
+        "WLC": "אִם יִֽהְיֶה֙ נְבִ֣יאֲ כֶ֔ם יְהוָ֗ה",
+        "LXX": "ἐὰν γένηται προφήτης ὑμῶν Κυρίῳ ,",
+        "VUL": "Si quis fúerit inter vos prophéta Dómini ,",
+        "SP": "אם יהיה נביאכם יהוה",
+        "KJV": "If there be a prophet among you , [ I ]",
+        "DSS": "[4Q23] אם יהיה נביא׳כם יהוה / [4Q27] אם יהיה נביא׳כמה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ I ] the LORD will make myself known unto him in a vision ,",
+      "traditions": {
+        "WLC": "בַּ מַּרְאָה֙ אֵלָ֣י ו אֶתְוַדָּ֔ע",
+        "LXX": "ἐν ὁράματι αὐτῷ γνωσθήσομαι",
+        "VUL": "in visióne apparébo ei ,",
+        "SP": "ב מראה אליו התודע",
+        "KJV": "the LORD will make myself known unto him in a vision , [ and ]",
+        "DSS": "[4Q23] ב# [ מראה א ]ל##[ י ]׳ו#? את##ו#?דע / [4Q27] ב מראה אלי׳ו אתודע"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ and ] will speak unto him in a dream .",
+      "traditions": {
+        "WLC": "בַּ חֲל֖וֹם אֲדַבֶּר בּֽ וֹ",
+        "LXX": "καὶ ἐν ὕπνῳ λαλήσω αὐτῷ .",
+        "VUL": "vel per sómnium loquar ad illum .",
+        "SP": "ו ב חלום אדבר בו",
+        "KJV": "will speak unto him in a dream .",
+        "DSS": "[4Q23] [ ב חלום אדבר ב׳ו ׃ / [4Q27] ו ב חלו ]ם אד#בר ב׳ו ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "My servant Moses [ is ] not so ,",
+      "traditions": {
+        "WLC": "לֹא כֵ֖ן עַבְדִּ֣ י מֹשֶׁ֑ה",
+        "LXX": "οὐχ οὕτως ὁ θεράπων μου Μωυσῆς ·",
+        "VUL": "At non talis servus meus Móyses ,",
+        "SP": "לא כן עבדי משׁה",
+        "KJV": "My servant Moses [ is ] not so ,",
+        "DSS": "[4Q23] לא כן עבד׳י  ]מ#שה / [4Q27] [ לוא כן עבד׳י מושה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "who [ is ] faithful in all mine house .",
+      "traditions": {
+        "WLC": "בְּ כָל בֵּיתִ֖ י נֶאֱמָ֥ן הֽוּא",
+        "LXX": "ἐν ὅλῳ τῷ οἴκῳ μου πιστός ἐστιν ·",
+        "VUL": "qui in omni domo mea fidelíssimus est :",
+        "SP": "ב כל ביתי נאמן הוא",
+        "KJV": "who [ is ] faithful in all mine house .",
+        "DSS": "[4Q23] ב## כ##ל ב#י?ת׳י נאמן הוא ׃ / [4Q27] ב כול בית׳י נאמן הואה ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "With him will I speak mouth to mouth ,",
+      "traditions": {
+        "WLC": "פֶּ֣ה אֶל פֶּ֞ה אֲדַבֶּר בּ֗ וֹ",
+        "LXX": "στόμα κατὰ στόμα λαλήσω αὐτῷ ,",
+        "VUL": "ore enim ad os loquor ei :",
+        "SP": "פה אל פה אדבר בו",
+        "KJV": "With him will I speak mouth to mouth ,",
+        "DSS": "[4Q23] פה א##[ ל פה א ]דב#ר## ב##׳ו#? / [4Q27] פה אל פה אדבר  ]ב#׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even apparently , and not in dark speeches ;",
+      "traditions": {
+        "WLC": "וּ מַרְאֶה֙ וְ לֹ֣א בְ חִידֹ֔ת",
+        "LXX": "ἐν εἴδει καὶ οὐ δι᾽ αἰνιγμάτων ,",
+        "VUL": "et palam , et non per ænígmata",
+        "SP": "ב מראה ו לא ב חידת",
+        "KJV": "even apparently , and not in dark speeches ;",
+        "DSS": "[4Q23] ו ב מראה [ ו לא ב חידת / [4Q27] ב# מראה ו לוא [ ב חידות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the similitude of the LORD shall he behold :",
+      "traditions": {
+        "WLC": "וּ תְמֻנַ֥ת יְהוָ֖ה יַבִּ֑יט",
+        "LXX": "καὶ τὴν δόξαν Κυρίου εἶδεν ·",
+        "VUL": "et figúras Dóminum videt .",
+        "SP": "ו תמונת יהוה יביט",
+        "KJV": "and the similitude of the LORD shall he behold :",
+        "DSS": "[4Q23] ו תמנת יהוה יביט / [4Q27] ו תמונת יהוה יביט"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "wherefore then were ye not afraid to speak against my servant Moses ?",
+      "traditions": {
+        "WLC": "וּ מַדּ֨וּעַ֙ לֹ֣א יְרֵאתֶ֔ם לְ דַבֵּ֖ר בְּ עַבְדִּ֥ י בְ מֹשֶֽׁה",
+        "LXX": "καὶ διὰ τί οὐκ ἐφοβήθητε καταλαλῆσαι κατὰ τοῦ θεράποντός μου Μωυσῆ ?",
+        "VUL": "Quare ergo non timuístis detráhere servo meo Móysi ?",
+        "SP": "ו מדוע לא יראתם ל דבר ב עבדי ב משׁה",
+        "KJV": "wherefore then were ye not afraid to speak against my servant Moses ?",
+        "DSS": "[4Q23] ו מדו ]ע לא יראתם ל דבר [ ב עבד ]׳י? ב מ#ש#ה## ׃ / [4Q27] ו מדוע לוא יראתם ל דבר ב עבד ]׳י#? ב# מ#ו?שה ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the anger of the LORD was kindled against them ;",
+      "traditions": {
+        "WLC": "וַ יִּֽחַר אַ֧ף יְהוָ֛ה בָּ֖ ם",
+        "LXX": "καὶ ὀργὴ θυμοῦ Κυρίου ἐπ᾽ αὐτοῖς ,",
+        "VUL": "Iratúsque contra eos ,",
+        "SP": "ו יחר אף יהוה בם",
+        "KJV": "And the anger of the LORD was kindled against them ;",
+        "DSS": "[4Q23] ו#? י#?ח##ר## [ אף יהוה ב׳ם / [4Q27] ו יחר אף [ יהוה ב׳ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he departed .",
+      "traditions": {
+        "WLC": "וַ יֵּלַֽךְ",
+        "LXX": "καὶ ἀπῆλθεν .",
+        "VUL": "ábiit :",
+        "SP": "ו ילך",
+        "KJV": "and he departed .",
+        "DSS": "[4Q23] ו ילך ׃ / [4Q27] ו ילך ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the cloud departed from off the tabernacle ;",
+      "traditions": {
+        "WLC": "וְ הֶ עָנָ֗ן סָ֚ר מֵ עַ֣ל הָ אֹ֔הֶל",
+        "LXX": "καὶ ἡ νεφέλη ἀπέστη ἀπὸ τῆς σκηνῆς ,",
+        "VUL": "nubes quoque recéssit quæ erat super tabernáculum :",
+        "SP": "ו ה ענן סר מ על ה אהל",
+        "KJV": "And the cloud departed from off the tabernacle ;",
+        "DSS": "[4Q23] ו ה ענן סר מ על ה אהל / [4Q27] ו ה ענן סר מ על ה אוהל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and , behold , Miriam [ became ] leprous , [ white ] as snow :",
+      "traditions": {
+        "WLC": "וְ הִנֵּ֥ה מִרְיָ֖ם מְצֹרַ֣עַת כַּ שָּׁ֑לֶג",
+        "LXX": "καὶ ἰδοὺ Μαριὰμ λεπρῶσα ὡσεὶ χιών .",
+        "VUL": "et ecce María appáruit candens lepra quasi nix .",
+        "SP": "ו הנה מרים מצרעת כ שׁלג",
+        "KJV": "and , behold , Miriam [ became ] leprous , [ white ] as snow :",
+        "DSS": "[4Q23]  ]ו? הנה מרים מצרעת כ של##[ ג / [4Q27] ו הנה מרים מצורעת כ ] ש#לג"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and Aaron looked upon Miriam ,",
+      "traditions": {
+        "WLC": "וַ יִּ֧פֶן אַהֲרֹ֛ן אֶל מִרְיָ֖ם",
+        "LXX": "καὶ ἐπέβλεψεν Ἀαρὼν ἐπὶ Μαριάμ ,",
+        "VUL": "Cumque respexísset eam Aaron ,",
+        "SP": "ו יפן אהרן אל מרים",
+        "KJV": "and Aaron looked upon Miriam ,",
+        "DSS": "[4Q23] ו יפן אהרן ] [ אל מרים / [4Q27] ו יפן אהרון אל [ מרים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and , behold , [ she was ] leprous .",
+      "traditions": {
+        "WLC": "וְ הִנֵּ֥ה מְצֹרָֽעַת",
+        "LXX": "καὶ ἰδοὺ λεπρῶσα .",
+        "VUL": "et vidísset perfúsam lepra ,",
+        "SP": "ו הנה מצרעת",
+        "KJV": "and , behold , [ she was ] leprous .",
+        "DSS": "[4Q23] ו הנה מצרעת ׃ / [4Q27] ו הנה מצורעת ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Aaron said unto Moses ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר אַהֲרֹ֖ן אֶל מֹשֶׁ֑ה",
+        "LXX": "καὶ εἶπεν Ἀαρὼν πρὸς Μωυσῆν",
+        "VUL": "ait ad Móysen :",
+        "SP": "ו יאמר אהרן אל משׁה",
+        "KJV": "And Aaron said unto Moses ,",
+        "DSS": "[4Q23] ו יאמר אהרן אל משה / [4Q27] ו יואמר אהרון אל מושה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Alas , my lord ,",
+      "traditions": {
+        "WLC": "בִּ֣י אֲדֹנִ֔ י",
+        "LXX": "Δέομαι , Κύριε ,",
+        "VUL": "Obsecro dómine mi ,",
+        "SP": "בי אדני",
+        "KJV": "Alas , my lord ,",
+        "DSS": "[4Q23] ב׳י א ]ד#נ׳י / [4Q27] ב׳י אדונ׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I beseech thee , lay not the sin upon us ,",
+      "traditions": {
+        "WLC": "אַל נָ֨א תָשֵׁ֤ת עָלֵ֨י נוּ֙ חַטָּ֔את",
+        "LXX": "μὴ συνεπιθῇ ἡμῖν ἁμαρτίαν ,",
+        "VUL": "ne impónas nobis hoc peccátum",
+        "SP": "אל נא תשׁית עלינו חטאת",
+        "KJV": "I beseech thee , lay not the sin upon us ,",
+        "DSS": "[4Q23] אל נא ת#ש##[ ת עלי׳נו חטאת ] ε / [4Q27] אל נא תשת ע ]ל#[ י׳נו ] ׃"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "wherein we have done foolishly ,",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר נוֹאַ֖לְנוּ",
+        "LXX": "διότι ἠγνοήσαμεν",
+        "VUL": "quod stulte commísimus ,",
+        "SP": "אשׁר נואלנו",
+        "KJV": "wherein we have done foolishly ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and wherein we have sinned .",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֥ר חָטָֽאנוּ",
+        "LXX": "καθότι ἡμάρτομεν ·",
+        "VUL": null,
+        "SP": "ו אשׁר חטאנו",
+        "KJV": "and wherein we have sinned .",
+        "DSS": "[4Q23] ] # [ ] # # # [ ε ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let her not be as one dead",
+      "traditions": {
+        "WLC": "אַל נָ֥א תְהִ֖י כַּ מֵּ֑ת",
+        "LXX": "μὴ γένηται ὡσεὶ ἴσον θανάτῳ ,",
+        "VUL": "ne fiat hæc quasi mórtua ,",
+        "SP": "אל נא תהיה כ מת",
+        "KJV": "Let her not be as one dead ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "of whom the flesh is half consumed when he cometh out of his mother’s womb",
+      "traditions": {
+        "WLC": "אֲשֶׁ֤ר בְּ צֵאת וֹ֙ מֵ רֶ֣חֶם אִמּ֔ וֹ וַ יֵּאָכֵ֖ל חֲצִ֥י בְשָׂרֽ וֹ",
+        "LXX": "ὡσεὶ ἔκτρωμα ἐκπορευόμενον ἐκ μήτρας μητρός · κατεσθίει τὸ ἥμισυ τῶν σαρκῶν αὐτῆς .",
+        "VUL": "et ut abortívum quod proícitur de vulva matris suæ : ecce iam médium carnis eius devorátum est a lepra .",
+        "SP": "אשׁר ב צאתו מ רחם אמו ו יאכל חצי בשׂרו",
+        "KJV": "of whom the flesh is half consumed when he cometh out of his mother ’s womb .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses cried unto the LORD, saying",
+      "traditions": {
+        "WLC": "וַ יִּצְעַ֣ק מֹשֶׁ֔ה אֶל יְהוָ֖ה לֵ אמֹ֑ר",
+        "LXX": "καὶ ἐβόησεν Μωυσῆς πρὸς Κύριον λέγων",
+        "VUL": "Clamavítque Móyses ad Dóminum , dicens :",
+        "SP": "ו יצעק משׁה אל יהוה ל אמר",
+        "KJV": "And Moses cried unto the LORD , saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Heal her now, O God, I beseech thee",
+      "traditions": {
+        "WLC": "אֵ֕ל נָ֛א רְפָ֥א נָ֖א לָֽ הּ",
+        "LXX": "Ὁ θεός , δέομαί σου , ἴασαι αὐτήν .",
+        "VUL": "Deus , óbsecro , sana eam .",
+        "SP": "אל נא רפא נא לה",
+        "KJV": "Heal her now , O God , I beseech thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto Moses",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוָ֜ה אֶל מֹשֶׁ֗ה",
+        "LXX": "καὶ εἶπεν Κύριος πρὸς Μωυσῆν",
+        "VUL": "Cui respóndit Dóminus :",
+        "SP": "ו יאמר יהוה אל משׁה",
+        "KJV": "And the LORD said unto Moses ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "If her father had but spit in her face, should she not be ashamed seven days?",
+      "traditions": {
+        "WLC": "וְ אָבִ֨י הָ֙ יָרֹ֤ק יָרַק֙ בְּ פָנֶ֔י הָ הֲ לֹ֥א תִכָּלֵ֖ם שִׁבְעַ֣ת יָמִ֑ים",
+        "LXX": "Εἰ ὁ πατὴρ αὐτῆς πτύων ἐνέπτυσεν εἰς τὸ πρόσωπον αὐτῆς , οὐκ ἐντραπήσεται ἑπτὰ ἡμέρας ?",
+        "VUL": "Si pater eius spuísset in fáciem illíus , nonne debúerat saltem septem diébus rubóre suffúndi ?",
+        "SP": "ו אביה ירק ירק ב פניה ה לוא תכלם שׁבעת ימים",
+        "KJV": "If her father had but spit in her face , should she not be ashamed seven days ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "let her be shut out from the camp seven days",
+      "traditions": {
+        "WLC": "תִּסָּגֵ֞ר שִׁבְעַ֤ת יָמִים֙ מִ ח֣וּץ לַֽ מַּחֲנֶ֔ה",
+        "LXX": "ἀφορισθήτω ἑπτὰ ἡμέρας ἔξω τῆς παρεμβολῆς ,",
+        "VUL": "Separétur septem diébus extra castra ,",
+        "SP": "תסגר שׁבעת ימים מ חוץ ל מחנה",
+        "KJV": "let her be shut out from the camp seven days ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and after that let her be received in [ again ]",
+      "traditions": {
+        "WLC": "וְ אַחַ֖ר תֵּאָסֵֽף",
+        "LXX": "καὶ μετὰ ταῦτα εἰσελεύσεται .",
+        "VUL": "et póstea revocábitur .",
+        "SP": "ו אחר תאסף",
+        "KJV": "and after that let her be received in [ again ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Miriam was shut out from the camp seven days",
+      "traditions": {
+        "WLC": "וַ תִּסָּגֵ֥ר מִרְיָ֛ם מִ ח֥וּץ לַֽ מַּחֲנֶ֖ה שִׁבְעַ֣ת יָמִ֑ים",
+        "LXX": "καὶ ἀφωρίσθη Μαριὰμ ἔξω τῆς παρεμβολῆς ἑπτὰ ἡμέρας ·",
+        "VUL": "Exclúsa est ítaque María extra castra septem diébus :",
+        "SP": "ו תסגר מרים מ חוץ ל מחנה שׁבעת ימים",
+        "KJV": "And Miriam was shut out from the camp seven days :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the people journeyed not till Miriam was brought in [ again ]",
+      "traditions": {
+        "WLC": "וְ הָ עָם֙ לֹ֣א נָסַ֔ע עַד הֵאָסֵ֖ף מִרְיָֽם",
+        "LXX": "καὶ ὁ λαὸς οὐκ ἐξῆρεν ἕως ἐκαθαρίσθη Μαριάμ .",
+        "VUL": "et pópulus non est motus de loco illo , donec revocáta est María .",
+        "SP": "ו ה עם לא נסעו עד האספה מרים",
+        "KJV": "and the people journeyed not till Miriam was brought in [ again ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And afterward the people removed from Hazeroth",
+      "traditions": {
+        "WLC": "וְ אַחַ֛ר נָסְע֥וּ הָ עָ֖ם מֵ חֲצֵר֑וֹת",
+        "LXX": null,
+        "VUL": "Profectúsque est pópulus de Háseroth ,",
+        "SP": "ו אחר נסעו ה עם מ חצרות",
+        "KJV": "And afterward the people removed from Hazeroth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and pitched in the wilderness of Paran",
+      "traditions": {
+        "WLC": "וַֽ יַּחֲנ֖וּ בְּ מִדְבַּ֥ר פָּארָֽן",
+        "LXX": null,
+        "VUL": "fixis tentóriis in desérto Pharan .",
+        "SP": "ו יחנו ב מדבר פראן ו יאמר משׁה ל בני ישׂראל באתם עד הר ה אמרי אשׁר יהוה אלהינו נתן לנו ראה נתן יהוה אלהיך ל פניך את ה ארץ עלה רשׁ כ אשׁר דבר יהוה אלהי אבתיך לך אל תירא ו אל תחת ו יקרבו אל משׁה ו יאמרו נשׁלחה אנשׁים ל פנינו ו יחפדו לנו את ה ארץ ו ישׁיבו אתנו דבר את ה דרך אשׁר נעלה בה ו את ה ערים אשׁר נבוא עליהן ו ייטב ה דבר ב עיני משׁה",
+        "KJV": "and pitched in the wilderness of Paran .",
+        "DSS": null
+      }
+    }
+  ]
+}

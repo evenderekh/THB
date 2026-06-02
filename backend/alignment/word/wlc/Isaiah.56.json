@@ -1,0 +1,218 @@
+{
+  "11": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "καὶ",
+          "VUL": "Et",
+          "SP": null,
+          "KJV": "Yea",
+          "DSS": "ו"
+        },
+        {
+          "token": "הַ",
+          "LXX": "οἱ",
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": "ה"
+        },
+        {
+          "token": "כְּלָבִ֣ים",
+          "LXX": "κύνες",
+          "VUL": "canes",
+          "SP": null,
+          "KJV": "dogs",
+          "DSS": "כלבים"
+        },
+        {
+          "token": "עַזֵּי",
+          "LXX": "ἀναιδεῖς",
+          "VUL": "imprudentíssimi",
+          "SP": null,
+          "KJV": "greedy",
+          "DSS": "עזי"
+        },
+        {
+          "token": "נֶ֗פֶשׁ",
+          "LXX": "τῇ ψυχῇ",
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": "נפש"
+        },
+        {
+          "token": "לֹ֤א",
+          "LXX": "οὐκ",
+          "VUL": null,
+          "SP": null,
+          "KJV": "can never",
+          "DSS": "לא"
+        },
+        {
+          "token": "יָֽדְעוּ֙",
+          "LXX": "εἰδότες",
+          "VUL": "nesciérunt",
+          "SP": null,
+          "KJV": "have",
+          "DSS": "ידעו"
+        },
+        {
+          "token": "שָׂבְעָ֔ה",
+          "LXX": "πλησμονήν",
+          "VUL": "saturitátem",
+          "SP": null,
+          "KJV": "enough",
+          "DSS": "שבע##ה"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "καί",
+          "VUL": null,
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "הֵ֣מָּה",
+          "LXX": "εἰσιν",
+          "VUL": "ipsi",
+          "SP": null,
+          "KJV": "they",
+          "DSS": "הם"
+        },
+        {
+          "token": "רֹעִ֔ים",
+          "LXX": "πονηροὶ",
+          "VUL": "pastóres",
+          "SP": null,
+          "KJV": "shepherds",
+          "DSS": "ר#עים"
+        },
+        {
+          "token": "לֹ֥א",
+          "LXX": "οὐκ",
+          "VUL": "ignoravérunt",
+          "SP": null,
+          "KJV": "can not",
+          "DSS": "לא"
+        },
+        {
+          "token": "יָדְע֖וּ",
+          "LXX": "εἰδότες",
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": "י#?ד##[ עו  ]"
+        },
+        {
+          "token": "הָבִ֑ין",
+          "LXX": "σύνεσιν",
+          "VUL": "intelligéntiam",
+          "SP": null,
+          "KJV": "understand",
+          "DSS": "ה##בין"
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "כֻּלָּ ם֙",
+          "LXX": "πάντες",
+          "VUL": "omnes",
+          "SP": null,
+          "KJV": "they all",
+          "DSS": "כל׳ם"
+        },
+        {
+          "token": "לְ",
+          "LXX": null,
+          "VUL": "in",
+          "SP": null,
+          "KJV": "to",
+          "DSS": "ל"
+        },
+        {
+          "token": "דַרְכָּ֣ ם",
+          "LXX": "ταῖς ὁδοῖς αὐτῶν",
+          "VUL": "viam suam",
+          "SP": null,
+          "KJV": "their own way",
+          "DSS": "דרכ׳ם"
+        },
+        {
+          "token": "פָּנ֔וּ",
+          "LXX": "ἐξηκολούθησαν",
+          "VUL": "declinavérunt",
+          "SP": null,
+          "KJV": "look",
+          "DSS": "פנו"
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אִ֥ישׁ",
+          "LXX": "ἕκαστος",
+          "VUL": "unusquísque",
+          "SP": null,
+          "KJV": "every one",
+          "DSS": "איש"
+        },
+        {
+          "token": "לְ",
+          "LXX": "κατὰ",
+          "VUL": "ad",
+          "SP": null,
+          "KJV": "for",
+          "DSS": "ל"
+        },
+        {
+          "token": "בִצְע֖ וֹ",
+          "LXX": "τὸ ἑαυτοῦ",
+          "VUL": "avarítiam suam",
+          "SP": null,
+          "KJV": "his gain",
+          "DSS": "בצע׳ו"
+        }
+      ]
+    },
+    {
+      "thought_id": 5,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "מִ",
+          "LXX": null,
+          "VUL": "a summo",
+          "SP": null,
+          "KJV": "from",
+          "DSS": "מ"
+        },
+        {
+          "token": "קָּצֵֽ הוּ",
+          "LXX": null,
+          "VUL": "usque ad novíssimum",
+          "SP": null,
+          "KJV": "his quarter",
+          "DSS": "קצ׳הו"
+        }
+      ]
+    }
+  ]
+}

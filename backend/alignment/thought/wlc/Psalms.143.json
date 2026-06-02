@@ -1,0 +1,494 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "A Psalm of David .",
+      "traditions": {
+        "WLC": "מִזְמ֗וֹר לְ דָ֫וִ֥ד",
+        "LXX": "Ψαλμὸς τῷ Δαυείδ ,",
+        "VUL": "Psalmus David ,",
+        "SP": null,
+        "KJV": "A Psalm of David .",
+        "DSS": "[11Q5] מזמור ל דויד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "plus",
+      "traditions": {
+        "WLC": null,
+        "LXX": "ὅτε αὐτὸν ὁ υἱὸς καταδιώκει .",
+        "VUL": "Quando persequebátur eum Absalom fílius eius .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Hear my prayer , O LORD ,",
+      "traditions": {
+        "WLC": "יְהוָ֤ה שְׁמַ֬ע תְּפִלָּתִ֗ י",
+        "LXX": "Κύριε , εἰσάκουσον τῆς προσευχῆς μου ,",
+        "VUL": "Dómine exáudi oratiónem meam :",
+        "SP": null,
+        "KJV": "Hear my prayer , O LORD ,",
+        "DSS": "[11Q5] יהוה שמע׳ה תפלת׳י"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "give ear to my supplications :",
+      "traditions": {
+        "WLC": "הַאֲזִ֥ינָ ה אֶל תַּחֲנוּנַ֑ י",
+        "LXX": "ἐνώτισαι τὴν δέησίν μου",
+        "VUL": "áuribus pércipe obsecratiónem meam",
+        "SP": null,
+        "KJV": "give ear to my supplications :",
+        "DSS": "[11Q5] האזינ׳ה אל תחנונ׳י"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "in thy faithfulness answer me ,",
+      "traditions": {
+        "WLC": "בֶּ אֱמֻנָתְ ךָ֥ עֲ֝נֵ֗ נִי",
+        "LXX": "ἐν τῇ ἀληθείᾳ σου ,",
+        "VUL": "in veritáte tua :",
+        "SP": null,
+        "KJV": "in thy faithfulness answer me , [ and ]",
+        "DSS": "[11Q5] ב אמונת׳כה ענ׳ני"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "[ and ] in thy righteousness .",
+      "traditions": {
+        "WLC": "בְּ צִדְקָתֶֽ ךָ",
+        "LXX": "ἐπάκουσόν μου ἐν τῇ δικαιοσύνῃ σου ·",
+        "VUL": "exáudi me in tua iustítia .",
+        "SP": null,
+        "KJV": "in thy righteousness .",
+        "DSS": "[11Q5] ב צדקת׳כה ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And enter not into judgment with thy servant :",
+      "traditions": {
+        "WLC": "וְ אַל תָּב֣וֹא בְ֭ מִשְׁפָּט אֶת עַבְדֶּ֑ ךָ",
+        "LXX": "καὶ μὴ εἰσέλθῃς εἰς κρίσιν μετὰ τοῦ δούλου σου ,",
+        "VUL": "Et non intres in iudícium cum servo tuo :",
+        "SP": null,
+        "KJV": "And enter not into judgment with thy servant :",
+        "DSS": "[11Q5] ו אל תבוא ב משפט את עבד׳כה / [4Q97] [ את עבד׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for in thy sight shall no man living be justified .",
+      "traditions": {
+        "WLC": "כִּ֤י לֹֽא יִצְדַּ֖ק לְ פָנֶ֣י ךָ כָל חָֽי",
+        "LXX": "ὅτι οὐ δικαιωθήσεται ἐνώπιόν σου πᾶς ζῶν .",
+        "VUL": "quia non iustificábitur in conspéctu tuo omnis vivens .",
+        "SP": null,
+        "KJV": "for in thy sight shall no man living be justified .",
+        "DSS": "[11Q5] כי לוא יצדק ל פני׳כה כול חי ׃ / [4Q97] כי לא יצדק ל פ ]נ#?י#?׳ך##[ כל חי ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the enemy hath persecuted my soul ;",
+      "traditions": {
+        "WLC": "כִּ֥י רָ֘דַ֤ף אוֹיֵ֨ב נַפְשִׁ֗ י",
+        "LXX": null,
+        "VUL": "Quia persecútus est inimícus ánimam meam :",
+        "SP": null,
+        "KJV": "For the enemy hath persecuted my soul ;",
+        "DSS": "[11Q5] כי ירדוף אויב נפש׳י / [4Q97] כי רדף ] [ אויב נפש׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he hath smitten my life down to the ground ;",
+      "traditions": {
+        "WLC": "דִּכָּ֣א לָ֭ אָרֶץ חַיָּתִ֑ י",
+        "LXX": "ἐταπείνωσεν εἰς τὴν γῆν τὴν ζωήν μου ·",
+        "VUL": "humiliávit in terra vitam meam .",
+        "SP": null,
+        "KJV": "he hath smitten my life down to the ground ;",
+        "DSS": "[11Q5] דכ(^ א ^){{ ה }} ל ארץ חית׳י / [4Q97] דכא ל ארץ ]ח##이#?ת##׳י#? "
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he hath made me to dwell in darkness ,",
+      "traditions": {
+        "WLC": "הוֹשִׁיבַ֥ נִי בְ֝ מַחֲשַׁכִּ֗ים",
+        "LXX": "ἐκάθισέν με ἐν σκοτεινοῖς",
+        "VUL": "Collocávit me in obscúris",
+        "SP": null,
+        "KJV": "he hath made me to dwell in darkness ,",
+        "DSS": "[11Q5] הושיב׳ני ב מחשכים / [4Q97] ה##ושיב##׳ני # מ##[ חשכים ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as those that have been long dead .",
+      "traditions": {
+        "WLC": "כְּ מֵתֵ֥י עוֹלָֽם",
+        "LXX": "ὡς νεκροὺς αἰῶνος ·",
+        "VUL": "sicut mórtuos sǽculi :",
+        "SP": null,
+        "KJV": "as those that have been long dead .",
+        "DSS": "[11Q5] כ מיתי עולם ׃ / [4Q97] [ כ מתי עולם ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore is my spirit overwhelmed within me ;",
+      "traditions": {
+        "WLC": "וַ תִּתְעַטֵּ֣ף עָלַ֣ י רוּחִ֑ י",
+        "LXX": "καὶ ἠκηδίασεν ἐπ᾽ ἐμὲ τὸ πνεῦμά μου ,",
+        "VUL": "et anxiátus est super me spíritus meus ,",
+        "SP": null,
+        "KJV": "Therefore is my spirit overwhelmed within me ;",
+        "DSS": "[11Q5] ו תתעטף על׳י רוח׳י / [4Q97] ו תתעטף ע ]ל#׳[ י ] ר#וח#׳י#?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "my heart within me is desolate .",
+      "traditions": {
+        "WLC": "בְּ֝ תוֹכִ֗ י יִשְׁתּוֹמֵ֥ם לִבִּֽ י",
+        "LXX": "ἐν ἐμοὶ ἐταράχθη ἡ καρδία μου .",
+        "VUL": "in me turbátum est cor meum .",
+        "SP": null,
+        "KJV": "my heart within me is desolate .",
+        "DSS": "[11Q5] ב תוכ׳י ו ישתומם לבב׳י ׃ / [4Q97] ב ת[ וכ׳י ישתומם ] [ לב׳י ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "I remember the days of old ;",
+      "traditions": {
+        "WLC": "זָ֘כַ֤רְתִּי יָמִ֨ים מִ קֶּ֗דֶם",
+        "LXX": "ἐμνήσθην ἡμερῶν ἀρχαίων ,",
+        "VUL": "Memor fui diérum antiquórum ,",
+        "SP": null,
+        "KJV": "I remember the days of old ;",
+        "DSS": "[11Q5] זכרתי ימים מ קדם / [4Q97] זכרתי ימים מ קדם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I meditate on all thy works ;",
+      "traditions": {
+        "WLC": "הָגִ֥יתִי בְ כָל פָּעֳלֶ֑ ךָ",
+        "LXX": "καὶ ἐμελέτησα ἐν πᾶσι τοῖς ἔργοις σου ,",
+        "VUL": "meditátus sum in ómnibus opéribus tuis ,",
+        "SP": null,
+        "KJV": "I meditate on all thy works ;",
+        "DSS": "[11Q5] הגיתי? ב (^ כ ^)ול פועל׳כה / [4Q97] הגיתי ב כל פעל׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I muse on the work of thy hands .",
+      "traditions": {
+        "WLC": "בְּֽ מַעֲשֵׂ֖ה יָדֶ֣י ךָ אֲשׂוֹחֵֽחַ",
+        "LXX": "ἐν ποιήμασιν τῶν χειρῶν σου ἐμελέτων .",
+        "VUL": "in factis mánuum tuárum meditábar .",
+        "SP": null,
+        "KJV": "I muse on the work of thy hands .",
+        "DSS": "[11Q5] ב מעשי ידי׳כה אשיחה ׃ / [4Q97] ב מעשה ] [ ידי׳ך אשוחח ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "I stretch forth my hands unto thee",
+      "traditions": {
+        "WLC": "פֵּרַ֣שְׂתִּי יָדַ֣ י אֵלֶ֑י ךָ",
+        "LXX": "διεπέτασα τὰς χεῖράς μου πρὸς σέ ,",
+        "VUL": "Expándi manus meas ad te :",
+        "SP": null,
+        "KJV": "I stretch forth my hands unto thee :",
+        "DSS": "[11Q5] פרשתי יד׳י א[ לי׳כ ]ה# / [4Q97] ]פ##ר#שת#י#? יד##׳[ י ]א##[ לי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "my soul [ thirsteth ] after thee , as a thirsty land",
+      "traditions": {
+        "WLC": "נַפְשִׁ֓ י כְּ אֶֽרֶץ עֲיֵפָ֖ה לְ ךָ֣",
+        "LXX": "ἡ ψυχή μου ὡς γῆ ἄνυδρός σοι .",
+        "VUL": "ánima mea sicut terra sine aqua tibi :",
+        "SP": null,
+        "KJV": "my soul [ thirsteth ] after thee , as a thirsty land .",
+        "DSS": "[11Q5] נפש׳י ב ארץ {{ י }} ע(^ י ^)פה ל׳כה / [4Q97] נפש׳י כ ארץ עיפה ] [ ל׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Selah .",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": "[11Q5] סלה ׃ / [4Q97] סלה ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hear me speedily , O LORD :",
+      "traditions": {
+        "WLC": "מַ֘הֵ֤ר עֲנֵ֨ נִי יְהוָה֮",
+        "LXX": "ταχὺ εἰσάκουσόν μου , Κύριε ,",
+        "VUL": "velóciter exáudi me Dómine :",
+        "SP": null,
+        "KJV": "Hear me speedily , O LORD :",
+        "DSS": "[11Q5] מהר ענ׳ני יהוה / [4Q97] מהר ]ע##נ#?׳נ#?י#? יהוה#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "my spirit faileth :",
+      "traditions": {
+        "WLC": "כָּלְתָ֪ה ר֫וּחִ֥ י",
+        "LXX": "ἐξέλιπεν τὸ πνεῦμά μου ·",
+        "VUL": "defécit spíritus meus .",
+        "SP": null,
+        "KJV": "my spirit faileth :",
+        "DSS": "[11Q5] כ##[ לתה ]רוח׳י / [4Q97] כ##ל##ת#ה רוח##׳[ י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "hide not thy face from me ,",
+      "traditions": {
+        "WLC": "אַל תַּסְתֵּ֣ר פָּנֶ֣י ךָ מִמֶּ֑ נִּי",
+        "LXX": "μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπ᾽ ἐμοῦ ,",
+        "VUL": "Non avértas fáciem tuam a me :",
+        "SP": null,
+        "KJV": "hide not thy face from me ,",
+        "DSS": "[11Q5] אל תסתר פני׳כה ממ׳ני / [4Q97] אל תסתר פני׳ך ] [ ממ׳ני"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "lest I be like unto them that go down into the pit .",
+      "traditions": {
+        "WLC": "וְ֝ נִמְשַׁ֗לְתִּי עִם יֹ֥רְדֵי בֽוֹר",
+        "LXX": "καὶ ὁμοιωθήσομαι τοῖς καταβαίνουσιν εἰς λάκκον .",
+        "VUL": "et símilis ero descendéntibus in lacum .",
+        "SP": null,
+        "KJV": "lest I be like unto them that go down into the pit .",
+        "DSS": "[11Q5] ו נמשלתי עם יור[ די בור ׃ / [4Q97] ו נמשלתי עם ]י#?רדי ב##ור# ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cause me to hear thy lovingkindness in the morning ;",
+      "traditions": {
+        "WLC": "הַשְׁמִ֘יעֵ֤ נִי בַ בֹּ֨קֶר חַסְדֶּ ךָ֮",
+        "LXX": "ἀκουστὸν ποίησόν μοι τὸ πρωὶ τὸ ἔλεός σου ,",
+        "VUL": "Audítam fac mihi mane misericórdiam tuam :",
+        "SP": null,
+        "KJV": "Cause me to hear thy lovingkindness in the morning ;",
+        "DSS": "[11Q5] ה ]ש[ מיע׳נ ]י ב בוקר חסד׳כה / [4Q97] הש[ מיע׳ני ב בקר חסד׳ך ] ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for in thee do I trust :",
+      "traditions": {
+        "WLC": "כִּֽי בְ ךָ֪ בָ֫טָ֥חְתִּי",
+        "LXX": "ὅτι ἐπὶ σοὶ ἤλπισα ·",
+        "VUL": "quia in te sperávi .",
+        "SP": null,
+        "KJV": "for in thee do I trust :",
+        "DSS": "[11Q5] [ כי ב׳כה בטחתי / [4Q97] null"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "cause me to know the way wherein I should walk ;",
+      "traditions": {
+        "WLC": "הוֹדִיעֵ֗ נִי דֶּֽרֶךְ ז֥וּ אֵלֵ֑ךְ",
+        "LXX": "γνώρισόν μοι , Κύριε , ὁδὸν ἐν ᾗ πορεύσομαι ,",
+        "VUL": "Notam fac mihi viam , in qua ámbulem :",
+        "SP": null,
+        "KJV": "cause me to know the way wherein I should walk ;",
+        "DSS": "[11Q5] הודיע׳ני דרך זו אלך / [4Q97] null"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for I lift up my soul unto thee .",
+      "traditions": {
+        "WLC": "כִּֽי אֵ֝לֶי ךָ נָשָׂ֥אתִי נַפְשִֽׁ י",
+        "LXX": "ὅτι πρὸς σὲ ἦρα τὴν ψυχήν μου .",
+        "VUL": "quia ad te levávi ánimam meam .",
+        "SP": null,
+        "KJV": "for I lift up my soul unto thee .",
+        "DSS": "[11Q5] כי ] אלי׳כה נשא[ תי נפש׳י ] ׃ / [4Q97] null"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Deliver me , O LORD , from mine enemies :",
+      "traditions": {
+        "WLC": "הַצִּילֵ֖ נִי מֵ אֹיְבַ֥ י יְהוָ֗ה",
+        "LXX": "ἐξελοῦ με ἐκ τῶν ἐχθρῶν μου , Κύριε ,",
+        "VUL": "Eripe me de inimícis meis Dómine ,",
+        "SP": null,
+        "KJV": "Deliver me , O LORD , from mine enemies :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I flee unto thee to hide me .",
+      "traditions": {
+        "WLC": "אֵלֶ֥י ךָ כִסִּֽתִי",
+        "LXX": "ὅτι πρὸς σὲ κατέφυγον .",
+        "VUL": "ad te confúgi :",
+        "SP": null,
+        "KJV": "I flee unto thee to hide me .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Teach me to do thy will ;",
+      "traditions": {
+        "WLC": "לַמְּדֵ֤ נִי לַֽ עֲשׂ֣וֹת רְצוֹנֶ ךָ֮",
+        "LXX": "δίδαξόν με τοῦ ποιεῖν τὸ θέλημά σου ,",
+        "VUL": "doce me fácere voluntátem tuam ,",
+        "SP": null,
+        "KJV": "Teach me to do thy will ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for thou [ art ] my God :",
+      "traditions": {
+        "WLC": "כִּֽי אַתָּ֪ה אֱל֫וֹהָ֥ י",
+        "LXX": "ὅτι θεός μου εἶ σύ ·",
+        "VUL": "quia Deus meus es tu .",
+        "SP": null,
+        "KJV": "for thou [ art ] my God :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thy spirit [ is ] good ;",
+      "traditions": {
+        "WLC": "רוּחֲ ךָ֥ טוֹבָ֑ה",
+        "LXX": "τὸ πνεῦμά σου τὸ ἅγιον",
+        "VUL": "Spíritus tuus bonus",
+        "SP": null,
+        "KJV": "thy spirit [ is ] good ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "lead me into the land of uprightness .",
+      "traditions": {
+        "WLC": "תַּ֝נְחֵ֗ נִי בְּ אֶ֣רֶץ מִישֽׁוֹר",
+        "LXX": "ὁδηγήσει με ἐν τῇ εὐθείᾳ .",
+        "VUL": "dedúcet me in terram rectam :",
+        "SP": null,
+        "KJV": "lead me into the land of uprightness .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Quicken me , O LORD , for thy name ’s sake",
+      "traditions": {
+        "WLC": "לְמַֽעַן שִׁמְ ךָ֣ יְהוָ֣ה תְּחַיֵּ֑ נִי",
+        "LXX": "ἕνεκα τοῦ ὀνόματός σου , Κύριε , ζήσεις με",
+        "VUL": "propter nomen tuum Dómine vivificábis me ,",
+        "SP": null,
+        "KJV": "Quicken me , O LORD , for thy name ’s sake :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for thy righteousness ’ sake bring my soul out of trouble",
+      "traditions": {
+        "WLC": "בְּ צִדְקָתְ ךָ֓ תוֹצִ֖יא מִ צָּרָ֣ה נַפְשִֽׁ י",
+        "LXX": "ἐν τῇ δικαιοσύνῃ σου , ἐξάξεις ἐκ θλίψεως τὴν ψυχήν μου ·",
+        "VUL": "in æquitáte tua . Edúces de tribulatióne ánimam meam :",
+        "SP": null,
+        "KJV": "for thy righteousness ’ sake bring my soul out of trouble .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And of thy mercy cut off mine enemies",
+      "traditions": {
+        "WLC": "וּֽ בְ חַסְדְּ ךָ֮ תַּצְמִ֪ית אֹ֫יְבָ֥ י",
+        "LXX": "καὶ ἐν τῷ ἐλέει σου ἐξολεθρεύσεις τοὺς ἐχθρούς μου ,",
+        "VUL": "et in misericórdia tua dispérdes inimícos meos .",
+        "SP": null,
+        "KJV": "And of thy mercy cut off mine enemies ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and destroy all them that afflict my soul",
+      "traditions": {
+        "WLC": "וְֽ֭ הַאֲבַדְתָּ כָּל צֹרֲרֵ֣י נַפְשִׁ֑ י",
+        "LXX": "καὶ ἀπολεῖς πάντας τοὺς θλίβοντας τὴν ψυχήν μου ·",
+        "VUL": "Et perdes omnes , qui tríbulant ánimam meam :",
+        "SP": null,
+        "KJV": "and destroy all them that afflict my soul :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for I [ am ] thy servant",
+      "traditions": {
+        "WLC": "כִּ֝֗י אֲנִ֣י עַבְדֶּֽ ךָ",
+        "LXX": "ὅτι δοῦλός σού εἰμι ἐγώ .",
+        "VUL": "quóniam ego servus tuus sum .",
+        "SP": null,
+        "KJV": "for I [ am ] thy servant .",
+        "DSS": null
+      }
+    }
+  ]
+}

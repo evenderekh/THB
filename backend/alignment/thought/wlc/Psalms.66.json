@@ -1,0 +1,630 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician , A Song [ or ] Psalm",
+      "traditions": {
+        "WLC": "לַ֭ מְנַצֵּחַ שִׁ֣יר מִזְמ֑וֹר",
+        "LXX": "Εἰς τὸ τέλος · ᾠδὴ ψαλμοῦ ἀναστάσεως .",
+        "VUL": "In finem , Cánticum Psalmi resurrectiónis .",
+        "SP": null,
+        "KJV": "To the chief Musician , A Song [ or ] Psalm .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Make a joyful noise unto God , all ye lands",
+      "traditions": {
+        "WLC": "הָרִ֥יעוּ לֵ֝ אלֹהִים כָּל הָ אָֽרֶץ",
+        "LXX": "Ἀλαλάξατε τῷ θεῷ , πᾶσα ἡ γῆ ,",
+        "VUL": "Iubiláte Deo omnis terra ,",
+        "SP": null,
+        "KJV": "Make a joyful noise unto God , all ye lands :",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Sing forth the honour of his name",
+      "traditions": {
+        "WLC": "זַמְּר֥וּ כְבֽוֹד שְׁמ֑ וֹ",
+        "LXX": "ψάλατε δὴ τῷ ὀνόματι αὐτοῦ ,",
+        "VUL": "psalmum dícite nómini eius :",
+        "SP": null,
+        "KJV": "Sing forth the honour of his name :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "make his praise glorious",
+      "traditions": {
+        "WLC": "שִׂ֥ימוּ כָ֝ב֗וֹד תְּהִלָּתֽ וֹ",
+        "LXX": "δότε δόξαν αἰνέσει αὐτοῦ ·",
+        "VUL": "date glóriam laudi eius .",
+        "SP": null,
+        "KJV": "make his praise glorious .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Say unto God , How terrible [ art thou in ] thy works !",
+      "traditions": {
+        "WLC": "אִמְר֣וּ לֵ֭ אלֹהִים מַה נּוֹרָ֣א מַעֲשֶׂ֑י ךָ",
+        "LXX": "εἴπατε τῷ θεῷ Ὡς φοβερὰ τὰ ἔργα σου ·",
+        "VUL": "Dícite Deo : Quam terribília sunt ópera tua Dómine !",
+        "SP": null,
+        "KJV": "Say unto God , How terrible [ art thou in ] thy works !",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "through the greatness of thy power shall thine enemies submit themselves unto thee",
+      "traditions": {
+        "WLC": "בְּ רֹ֥ב עֻ֝זְּ ךָ֗ יְֽכַחֲשׁ֖וּ לְ ךָ֣ אֹיְבֶֽי ךָ",
+        "LXX": "ἐν τῷ πλήθει τῆς δυνάμεώς σου ψεύσονταί σε οἱ ἐχθροί σου ·",
+        "VUL": "in multitúdine virtútis tuæ mentiéntur tibi inimíci tui .",
+        "SP": null,
+        "KJV": "through the greatness of thy power shall thine enemies submit themselves unto thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "All the earth shall worship thee , and shall sing unto thee",
+      "traditions": {
+        "WLC": "כָּל הָ אָ֤רֶץ יִשְׁתַּחֲו֣וּ לְ֭ ךָ וִֽ יזַמְּרוּ לָ֑ ךְ",
+        "LXX": "πᾶσα ἡ γῆ προσκυνησάτωσάν σοι καὶ ψαλάτωσάν σοι ,",
+        "VUL": "Omnis terra adóret te , et psallat tibi :",
+        "SP": null,
+        "KJV": "All the earth shall worship thee , and shall sing unto thee ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they shall sing [ to ] thy name",
+      "traditions": {
+        "WLC": "יְזַמְּר֖וּ שִׁמְ ךָ֣",
+        "LXX": "ψαλάτωσαν τῷ ὀνόματί σου .",
+        "VUL": "psalmum dicat nómini tuo .",
+        "SP": null,
+        "KJV": "they shall sing [ to ] thy name .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Come and see the works of God",
+      "traditions": {
+        "WLC": "לְכ֣וּ וּ֭ רְאוּ מִפְעֲל֣וֹת אֱלֹהִ֑ים",
+        "LXX": "δεῦτε , τέκνα , καὶ ἴδετε τὰ ἔργα τοῦ θεοῦ ,",
+        "VUL": "Veníte , et vidéte ópera Dei :",
+        "SP": null,
+        "KJV": "Come and see the works of God : [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he is terrible [ in his ] doing toward the children of men",
+      "traditions": {
+        "WLC": "נוֹרָ֥א עֲ֝לִילָ֗ה עַל בְּנֵ֥י אָדָֽם",
+        "LXX": "φοβερὸς ἐν βουλαῖς ὑπὲρ τοὺς υἱοὺς τῶν ἀνθρώπων .",
+        "VUL": "terríbilis in consíliis super fílios hóminum .",
+        "SP": null,
+        "KJV": "he is ] terrible [ in his ] doing toward the children of men .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "He turned the sea into dry [ land ]",
+      "traditions": {
+        "WLC": "הָ֤פַךְ יָ֨ם לְֽ יַבָּשָׁ֗ה",
+        "LXX": "ὁ μεταστρέφων τὴν θάλασσαν εἰς ξηράν ,",
+        "VUL": "Qui convértit mare in áridam ,",
+        "SP": null,
+        "KJV": "He turned the sea into dry [ land ] :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they went through the flood on foot",
+      "traditions": {
+        "WLC": "בַּ֭ נָּהָר יַֽעַבְר֣וּ בְ רָ֑גֶל",
+        "LXX": "ἐν ποταμῷ διελεύσονται ποδί ·",
+        "VUL": "in flúmine pertransíbunt pede :",
+        "SP": null,
+        "KJV": "they went through the flood on foot :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "there did we rejoice in him",
+      "traditions": {
+        "WLC": "שָׁ֝֗ם נִשְׂמְחָה בּֽ וֹ",
+        "LXX": "ἐκεῖ εὐφρανθησόμεθα ἐπ᾽ αὐτῷ ,",
+        "VUL": "ibi lætábimur in ipso .",
+        "SP": null,
+        "KJV": "there did we rejoice in him .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "He ruleth by his power for ever",
+      "traditions": {
+        "WLC": "מֹ֘שֵׁ֤ל בִּ גְבוּרָת֨ וֹ עוֹלָ֗ם",
+        "LXX": "τῷ δεσπόζοντι ἐν τῇ δυναστίᾳ τοῦ αἰῶνος αὐτοῦ .",
+        "VUL": "Qui dominátur in virtúte sua in ætérnum ,",
+        "SP": null,
+        "KJV": "He ruleth by his power for ever ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "his eyes behold the nations",
+      "traditions": {
+        "WLC": "עֵ֭ינָי ו בַּ גּוֹיִ֣ם תִּצְפֶּ֑ינָה",
+        "LXX": "οἱ ὀφθαλμοὶ αὐτοῦ ἐπὶ τὰ ἔθνη ἐπιβλέπουσιν ,",
+        "VUL": "óculi eius super gentes respíciunt :",
+        "SP": null,
+        "KJV": "his eyes behold the nations :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "let not the rebellious exalt themselves",
+      "traditions": {
+        "WLC": "הַ סּוֹרְרִ֓ים אַל ירימו לָ֣ מוֹ",
+        "LXX": "οἱ παραπικραίνοντες μὴ ὑψούσθωσαν ἐν ἑαυτοῖς .",
+        "VUL": "qui exásperant non exalténtur in semetípsis .",
+        "SP": null,
+        "KJV": "let not the rebellious exalt themselves .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "O bless our God , ye people",
+      "traditions": {
+        "WLC": "בָּרְכ֖וּ עַמִּ֥ים אֱלֹהֵ֑י נוּ",
+        "LXX": "εὐλογεῖτε , ἔθνη , τὸν θεὸν ἡμῶν ,",
+        "VUL": "Benedícite gentes Deum nostrum :",
+        "SP": null,
+        "KJV": "O bless our God , ye people ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and make the voice of his praise to be heard",
+      "traditions": {
+        "WLC": "וְ֝ הַשְׁמִ֗יעוּ ק֣וֹל תְּהִלָּתֽ וֹ",
+        "LXX": "καὶ ἀκουτίσασθε τὴν φωνὴν τῆς αἰνέσεως αὐτοῦ ,",
+        "VUL": "et audítam fácite vocem laudis eius .",
+        "SP": null,
+        "KJV": "and make the voice of his praise to be heard :",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Which holdeth our soul in life",
+      "traditions": {
+        "WLC": "הַ שָּׂ֣ם נַ֭פְשֵׁ נוּ בַּֽ חַיִּ֑ים",
+        "LXX": "τοῦ θεμένου τὴν ψυχήν μου εἰς ζωήν ,",
+        "VUL": "Qui pósuit ánimam meam ad vitam :",
+        "SP": null,
+        "KJV": "Which holdeth our soul in life ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and suffereth not our feet to be moved",
+      "traditions": {
+        "WLC": "וְ לֹֽא נָתַ֖ן לַ מּ֣וֹט רַגְלֵֽ נוּ",
+        "LXX": "καὶ μὴ δόντος εἰς σάλον τοὺς πόδας μου .",
+        "VUL": "et non dedit in commotiónem pedes meos .",
+        "SP": null,
+        "KJV": "and suffereth not our feet to be moved .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thou , O God , hast proved us",
+      "traditions": {
+        "WLC": "כִּֽי בְחַנְתָּ֥ נוּ אֱלֹהִ֑ים",
+        "LXX": "ὅτι ἐδοκίμασας ἡμᾶς , ὁ θεός ,",
+        "VUL": "Quóniam probásti nos Deus :",
+        "SP": null,
+        "KJV": "For thou , O God , hast proved us :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou hast tried us , as silver is tried",
+      "traditions": {
+        "WLC": "צְ֝רַפְתָּ֗ נוּ כִּ צְרָף כָּֽסֶף",
+        "LXX": "καὶ ἐπύρωσας ἡμᾶς ὡς πυροῦται τὸ ἀργύριον .",
+        "VUL": "igne nos examinásti , sicut examinátur argéntum .",
+        "SP": null,
+        "KJV": "thou hast tried us , as silver is tried .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou broughtest us into the net",
+      "traditions": {
+        "WLC": "הֲבֵאתָ֥ נוּ בַ מְּצוּדָ֑ה",
+        "LXX": "εἰσήγαγες ἡμᾶς εἰς τὴν παγίδα ,",
+        "VUL": "Induxísti nos in láqueum ,",
+        "SP": null,
+        "KJV": "Thou broughtest us into the net ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou laidst affliction upon our loins",
+      "traditions": {
+        "WLC": "שַׂ֖מְתָּ מוּעָקָ֣ה בְ מָתְנֵֽי נוּ",
+        "LXX": "ἔθου θλίψεις ἐνώπιον ἡμῶν ,",
+        "VUL": "posuísti tribulatiónes in dorso nostro :",
+        "SP": null,
+        "KJV": "thou laidst affliction upon our loins .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou hast caused men to ride over our heads",
+      "traditions": {
+        "WLC": "הִרְכַּ֥בְתָּ אֱנ֗וֹשׁ לְ רֹ֫אשֵׁ֥ נוּ",
+        "LXX": "ἐπεβίβασας ἀνθρώπους ἐπὶ τὰς κεφαλὰς ἡμῶν ·",
+        "VUL": "imposuísti hómines super cápita nostra .",
+        "SP": null,
+        "KJV": "Thou hast caused men to ride over our heads ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "we went through fire and through water",
+      "traditions": {
+        "WLC": "בָּֽאנוּ בָ אֵ֥שׁ וּ בַ מַּ֑יִם",
+        "LXX": "διήλθομεν διὰ πυρὸς καὶ ὕδατος ,",
+        "VUL": "Transívimus per ignem et aquam :",
+        "SP": null,
+        "KJV": "we went through fire and through water :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "but thou broughtest us out into a wealthy [ place ]",
+      "traditions": {
+        "WLC": "וַ֝ תּוֹצִיאֵ֗ נוּ לָֽ רְוָיָֽה",
+        "LXX": "καὶ ἐξήγαγες ἡμᾶς εἰς ἀναψυχήν .",
+        "VUL": "et eduxísti nos in refrigérium .",
+        "SP": null,
+        "KJV": "but thou broughtest us out into a wealthy [ place ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will go into thy house with burnt offerings",
+      "traditions": {
+        "WLC": "אָב֣וֹא בֵיתְ ךָ֣ בְ עוֹל֑וֹת",
+        "LXX": "εἰσελεύσομαι εἰς τὸν οἶκόν σου ἐν ὁλοκαυτώμασιν ,",
+        "VUL": "Introíbo in domum tuam in holocáustis :",
+        "SP": null,
+        "KJV": "I will go into thy house with burnt offerings :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will pay thee my vows",
+      "traditions": {
+        "WLC": "אֲשַׁלֵּ֖ם לְ ךָ֣ נְדָרָֽ י",
+        "LXX": "ἀποδώσω σοι τὰς εὐχάς μου ,",
+        "VUL": "reddam tibi vota mea ,",
+        "SP": null,
+        "KJV": "I will pay thee my vows ,",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Which my lips have uttered",
+      "traditions": {
+        "WLC": "אֲשֶׁר פָּצ֥וּ שְׂפָתָ֑ י",
+        "LXX": "ἃς διέστειλεν τὰ χείλη μου",
+        "VUL": "quæ distinxérunt lábia mea ,",
+        "SP": null,
+        "KJV": "Which my lips have uttered ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and my mouth hath spoken",
+      "traditions": {
+        "WLC": "וְ דִבֶּר פִּ֝֗ י",
+        "LXX": "καὶ ἐλάλησεν τὸ στόμα μου",
+        "VUL": "et locútum est os meum ,",
+        "SP": null,
+        "KJV": "and my mouth hath spoken ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "when I was in trouble",
+      "traditions": {
+        "WLC": "בַּ צַּר לִֽ י",
+        "LXX": "ἐν τῇ θλίψει μου ·",
+        "VUL": "in tribulatióne mea .",
+        "SP": null,
+        "KJV": "when I was in trouble .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will offer unto thee burnt sacrifices of fatlings",
+      "traditions": {
+        "WLC": "עֹ֘ל֤וֹת מֵחִ֣ים אַעֲלֶה לָּ֭ ךְ",
+        "LXX": "ὁλοκαυτώματα μεμυαλωμένα ἀνοίσω σοι",
+        "VUL": "Holocáusta medulláta ófferam tibi",
+        "SP": null,
+        "KJV": "I will offer unto thee burnt sacrifices of fatlings ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with the incense of rams",
+      "traditions": {
+        "WLC": "עִם קְטֹ֣רֶת אֵילִ֑ים",
+        "LXX": "μετὰ θυμιάματος καὶ κριῶν ,",
+        "VUL": "cum incénso aríetum :",
+        "SP": null,
+        "KJV": "with the incense of rams ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I will offer bullocks with goats",
+      "traditions": {
+        "WLC": "אֶ֥עֱשֶֽׂה בָקָ֖ר עִם עַתּוּדִ֣ים",
+        "LXX": "ποιήσω σοι βόας μετὰ χιμάρων .",
+        "VUL": "ófferam tibi boves cum hircis .",
+        "SP": null,
+        "KJV": "I will offer bullocks with goats .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Come [ and ] hear , all ye that fear God",
+      "traditions": {
+        "WLC": "לְכֽוּ שִׁמְע֣וּ וַ֭ אֲסַפְּרָה כָּל יִרְאֵ֣י אֱלֹהִ֑ים",
+        "LXX": "δεῦτε ἀκούσατε καὶ διηγήσομαι , πάντες οἱ φοβούμενοι τὸν κύριον ,",
+        "VUL": "Veníte audíte , et narrábo , omnes qui timétis Deum ,",
+        "SP": null,
+        "KJV": "Come [ and ] hear , all ye that fear God ,",
+        "DSS": "[4Q83] ε לכ ]ו#? ו שמעו[  ו אספרה כול יראי ] א##ל##הים["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will declare what he hath done for my soul",
+      "traditions": {
+        "WLC": "אֲשֶׁ֖ר עָשָׂ֣ה לְ נַפְשִֽׁ י",
+        "LXX": "ὅσα ἐποίησεν τῇ ψυχῇ μου .",
+        "VUL": "quanta fecit ánimæ meæ .",
+        "SP": null,
+        "KJV": "and I will declare what he hath done for my soul .",
+        "DSS": "אשר עשה ל נפש׳י ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "I cried unto him with my mouth",
+      "traditions": {
+        "WLC": "אֵלָ֥י ו פִּֽ י קָרָ֑אתִי",
+        "LXX": "πρὸς αὐτὸν τῷ στόματί μου ἐκέκραξα ,",
+        "VUL": "Ad ipsum ore meo clamávi ,",
+        "SP": null,
+        "KJV": "I cried unto him with my mouth ,",
+        "DSS": "[4Q83] אלי׳ו פ׳י קראתי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he was extolled with my tongue",
+      "traditions": {
+        "WLC": "וְ֝ רוֹמַ֗ם תַּ֣חַת לְשׁוֹנִֽ י",
+        "LXX": "καὶ ὕψωσα ὑπὸ τὴν γλῶσσάν μου .",
+        "VUL": "et exaltávi sub lingua mea .",
+        "SP": null,
+        "KJV": "and he was extolled with my tongue .",
+        "DSS": "ו רומם תחת לשונ׳י ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "If I regard iniquity in my heart",
+      "traditions": {
+        "WLC": "אָ֭וֶן אִם רָאִ֣יתִי בְ לִבִּ֑ י",
+        "LXX": "ἀδικίαν εἰ ἐθεώρουν ἐν καρδίᾳ ,",
+        "VUL": "Iniquitátem si aspéxi in corde meo ,",
+        "SP": null,
+        "KJV": "If I regard iniquity in my heart ,",
+        "DSS": "[4Q83] א ]ו#?ן אם ר[ איתי ב לב׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the Lord will not hear [ me ]",
+      "traditions": {
+        "WLC": "לֹ֖א יִשְׁמַ֣ע אֲדֹנָֽ י",
+        "LXX": "μὴ εἰσακουσάτω Κύριος .",
+        "VUL": "non exáudiet Dóminus .",
+        "SP": null,
+        "KJV": "the Lord will not hear [ me ] :",
+        "DSS": "לוא ישמע ] אד#ני ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ But ] verily God hath heard [ me ]",
+      "traditions": {
+        "WLC": "אָ֭כֵן שָׁמַ֣ע אֱלֹהִ֑ים",
+        "LXX": "διὰ τοῦτο εἰσήκουσέν μου ὁ θεός ,",
+        "VUL": "Proptérea exaudívit Deus ,",
+        "SP": null,
+        "KJV": "[ But ] verily God hath heard [ me ] ;",
+        "DSS": "[4Q83] אכן? [ שמע אלהים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he hath attended to the voice of my prayer",
+      "traditions": {
+        "WLC": "הִ֝קְשִׁ֗יב בְּ ק֣וֹל תְּפִלָּתִֽ י",
+        "LXX": "προσέσχεν τῇ φωνῇ τῆς προσευχῆς μου .",
+        "VUL": "et atténdit voci deprecatiónis meæ .",
+        "SP": null,
+        "KJV": "he hath attended to the voice of my prayer .",
+        "DSS": "הקשיב ב קול תפלת׳י ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Blessed [ be ] God",
+      "traditions": {
+        "WLC": "בָּר֥וּךְ אֱלֹהִ֑ים",
+        "LXX": "εὐλογητὸς ὁ θεὸς",
+        "VUL": "Benedíctus Deus ,",
+        "SP": null,
+        "KJV": "Blessed [ be ] God ,",
+        "DSS": "[4Q83] ברוך אלהים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which hath not turned away my prayer",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר לֹֽא הֵסִ֘יר תְּפִלָּתִ֥ י",
+        "LXX": "ὃς οὐκ ἀπέστησεν τὴν προσευχήν μου",
+        "VUL": "qui non amóvit oratiónem meam ,",
+        "SP": null,
+        "KJV": "which hath not turned away my prayer ,",
+        "DSS": "א ]שר לוא [ הסיר תפ ]ל#ת׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "nor his mercy from me",
+      "traditions": {
+        "WLC": "וְ֝ חַסְדּ֗ וֹ מֵ אִתִּֽ י",
+        "LXX": "καὶ τὸ ἔλεος αὐτοῦ ἀπ᾽ ἐμοῦ .",
+        "VUL": "et misericórdiam suam a me .",
+        "SP": null,
+        "KJV": "nor his mercy from me .",
+        "DSS": "ו חסד##׳[ ו ] מ אות׳י ׃"
+      }
+    }
+  ]
+}

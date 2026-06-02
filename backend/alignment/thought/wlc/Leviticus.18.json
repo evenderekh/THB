@@ -1,0 +1,960 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD spake unto Moses , saying ,",
+      "traditions": {
+        "WLC": "וַ יְדַבֵּ֥ר יְהוָ֖ה אֶל מֹשֶׁ֥ה לֵּ אמֹֽר",
+        "LXX": "Καὶ εἶπεν Κύριος πρὸς Μωυσῆν λέγων",
+        "VUL": "Locútus est Dóminus ad Móysen , dicens :",
+        "SP": "ו ידבר יהוה אל משׁה ל אמר",
+        "KJV": "And the LORD spake unto Moses , saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Speak unto the children of Israel , and say unto them ,",
+      "traditions": {
+        "WLC": "דַּבֵּר֙ אֶל בְּנֵ֣י יִשְׂרָאֵ֔ל וְ אָמַרְתָּ֖ אֲלֵ הֶ֑ם",
+        "LXX": "Λάλησον τοῖς υἱοῖς Ἰσραὴλ καὶ ἐρεῖς πρὸς αὐτούς",
+        "VUL": "Lóquere fíliis Israel , et dices ad eos :",
+        "SP": "דבר אל בני ישׂראל ו אמרת אליהם",
+        "KJV": "Speak unto the children of Israel , and say unto them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I am the LORD your God .",
+      "traditions": {
+        "WLC": "אֲנִ֖י יְהוָ֥ה אֱלֹהֵי כֶֽם",
+        "LXX": "Ἐγὼ Κύριος ὁ θεὸς ὑμῶν ·",
+        "VUL": "Ego Dóminus Deus vester :",
+        "SP": "אני יהוה אלהיכם",
+        "KJV": "I am the LORD your God .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "After the doings of the land of Egypt , wherein ye dwelt , shall ye not do :",
+      "traditions": {
+        "WLC": "כְּ מַעֲשֵׂ֧ה אֶֽרֶץ מִצְרַ֛יִם אֲשֶׁ֥ר יְשַׁבְתֶּם בָּ֖ הּ לֹ֣א תַעֲשׂ֑וּ",
+        "LXX": "κατὰ τὰ ἐπιτηδεύματα γῆς Αἰγύπτου , ἐν ᾗ κατοικήσατε ἐπ᾽ αὐτῇ , οὐ ποιηθήσεται ·",
+        "VUL": "iuxta consuetúdinem terræ Ægýpti , in qua habitástis , non faciétis :",
+        "SP": "כ מעשׂה ארץ מצרים אשׁר ישׁבתם בה לא תעשׂו",
+        "KJV": "After the doings of the land of Egypt , wherein ye dwelt , shall ye not do :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and after the doings of the land of Canaan , whither I bring you , shall ye not do :",
+      "traditions": {
+        "WLC": "וּ כְ מַעֲשֵׂ֣ה אֶֽרֶץ כְּנַ֡עַן אֲשֶׁ֣ר אֲנִי֩ מֵבִ֨יא אֶתְ כֶ֥ם שָׁ֨מָּ ה֙ לֹ֣א תַעֲשׂ֔וּ",
+        "LXX": "καὶ κατὰ τὰ ἐπιτηδεύματα γῆς Χανάαν , εἰς ἣν ἐγὼ εἰσάγω ὑμᾶς ἐκεῖ , οὐ ποιήσετε ,",
+        "VUL": "et iuxta morem regiónis Chánaan , ad quam ego introductúrus sum vos , non agétis ,",
+        "SP": "ו כ מעשׂה ארץ כנען אשׁר אני מביא אתכם שׁמה לא תעשׂו",
+        "KJV": "and after the doings of the land of Canaan , whither I bring you , shall ye not do :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither shall ye walk in their ordinances .",
+      "traditions": {
+        "WLC": "וּ בְ חֻקֹּתֵי הֶ֖ם לֹ֥א תֵלֵֽכוּ",
+        "LXX": "καὶ τοῖς νομίμοις αὐτῶν οὐ πορεύσεσθε",
+        "VUL": "nec in legítimis eórum ambulábitis .",
+        "SP": "ו ב חקתיהם לא תלכו",
+        "KJV": "neither shall ye walk in their ordinances .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ye shall do my judgments , and keep mine ordinances , to walk therein :",
+      "traditions": {
+        "WLC": "אֶת מִשְׁפָּטַ֧ י תַּעֲשׂ֛וּ וְ אֶת חֻקֹּתַ֥ י תִּשְׁמְר֖וּ לָ לֶ֣כֶת בָּ הֶ֑ם",
+        "LXX": "τὰ κρίματά μου ποιήσετε καὶ τὰ προστάγματά μου φυλάξεσθε , πορεύεσθαι ἐν αὐτοῖς ·",
+        "VUL": "Faciétis iudícia mea , et præcépta mea servábitis , et ambulábitis in eis .",
+        "SP": "את משׁפטי תעשׂו ו את חקותי תשׁמרו ל לכת בהם",
+        "KJV": "Ye shall do my judgments , and keep mine ordinances , to walk therein :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I [ am ] the LORD your God .",
+      "traditions": {
+        "WLC": "אֲנִ֖י יְהוָ֥ה אֱלֹהֵי כֶֽם",
+        "LXX": "ἐγὼ Κύριος ὁ θεὸς ὑμῶν .",
+        "VUL": "Ego Dóminus Deus vester .",
+        "SP": "אני יהוה אלהיכם",
+        "KJV": "I [ am ] the LORD your God .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ye shall therefore keep my statutes , and my judgments :",
+      "traditions": {
+        "WLC": "וּ שְׁמַרְתֶּ֤ם אֶת חֻקֹּתַ י֙ וְ אֶת מִשְׁפָּטַ֔ י",
+        "LXX": "καὶ φυλάξεσθε πάντα τὰ προστάγματά μου καὶ πάντα τὰ κρίματά μου , καὶ ποιήσετε αὐτά ·",
+        "VUL": "Custodíte leges meas atque iudícia ,",
+        "SP": "ו שׁמרתם את חקותי ו את משׁפטי",
+        "KJV": "Ye shall therefore keep my statutes , and my judgments :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which if a man do , he shall live in them :",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר יַעֲשֶׂ֥ה אֹתָ֛ ם הָ אָדָ֖ם וָ חַ֣י בָּ הֶ֑ם",
+        "LXX": "ἃ ποιήσας ἄνθρωπος ζήσεται ἐν αὐτοῖς ·",
+        "VUL": "quæ fáciens homo , vivet in eis .",
+        "SP": "אשׁר יעשׂה אתם ה אדם ו חיה בהם",
+        "KJV": "which if a man do , he shall live in them :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I [ am ] the LORD .",
+      "traditions": {
+        "WLC": "אֲנִ֖י יְהוָֽה",
+        "LXX": "ἐγὼ Κύριος ὁ θεὸς ὑμῶν .",
+        "VUL": "Ego Dóminus .",
+        "SP": "אני יהוה",
+        "KJV": "I [ am ] the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "None of you shall approach to any that is near of kin to him , to uncover [ their ] nakedness :",
+      "traditions": {
+        "WLC": "אִ֥ישׁ אִישׁ֙ אֶל כָּל שְׁאֵ֣ר בְּשָׂר֔ וֹ לֹ֥א תִקְרְב֖וּ לְ גַלּ֣וֹת עֶרְוָ֑ה",
+        "LXX": "Ἄνθρωπος ἄνθρωπος πρὸς πάντα οἰκεῖα σαρκὸς αὐτοῦ οὐ προσελεύσεται ἀποκαλύψαι ἀσχημοσύνην ·",
+        "VUL": "Omnis homo ad próximam sánguinis sui non accédet , ut revélet turpitúdinem eius .",
+        "SP": "אישׁ אישׁ אל כל שׁאר בשׂרו לא תקרבו ל גלות ערוה",
+        "KJV": "None of you shall approach to any that is near of kin to him , to uncover [ their ] nakedness :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I [ am ] the LORD .",
+      "traditions": {
+        "WLC": "אֲנִ֖י יְהוָֽה",
+        "LXX": "ἐγὼ Κύριος .",
+        "VUL": "Ego Dóminus .",
+        "SP": "אני יהוה",
+        "KJV": "I [ am ] the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "The nakedness of thy father , or the nakedness of thy mother , shalt thou not uncover :",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אָבִ֛י ךָ וְ עֶרְוַ֥ת אִמְּ ךָ֖ לֹ֣א תְגַלֵּ֑ה",
+        "LXX": "ἀσχημοσύνην πατρός σου καὶ ἀσχημοσύνην μητρός σου οὐκ ἀποκαλύψεις ·",
+        "VUL": "Turpitúdinem patris tui et turpitúdinem matris tuæ non discoopéries :",
+        "SP": "ערות אביך ו ערות אמך לא תגלה",
+        "KJV": "The nakedness of thy father , or the nakedness of thy mother , shalt thou not uncover :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "she [ is ] thy mother ; thou shalt not uncover her nakedness .",
+      "traditions": {
+        "WLC": "אִמְּ ךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽ הּ",
+        "LXX": "μήτηρ γάρ σού ἐστιν καὶ οὐκ ἀποκαλύψεις τὴν ἀσχημοσύνην αὐτῆς .",
+        "VUL": "mater tua est : non revelábis turpitúdinem eius .",
+        "SP": "אמך היא לא תגלה ערותה",
+        "KJV": "she [ is ] thy mother ; thou shalt not uncover her nakedness .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "The nakedness of thy father ’s wife shalt thou not uncover :",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אֵֽשֶׁת אָבִ֖י ךָ לֹ֣א תְגַלֵּ֑ה",
+        "LXX": "ἀσχημοσύνην γυναικὸς πατρός σου οὐκ ἀποκαλύψεις ·",
+        "VUL": "Turpitúdinem uxóris patris tui non discoopéries :",
+        "SP": "ערות אשׁת אביך לא תגלה",
+        "KJV": "The nakedness of thy father ’s wife shalt thou not uncover :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] thy father ’s nakedness .",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אָבִ֖י ךָ הִֽוא",
+        "LXX": "ἀσχημοσύνη πατρός σού ἐστιν .",
+        "VUL": "turpitúdo enim patris tui est .",
+        "SP": "ערות אביך היא",
+        "KJV": "it [ is ] thy father ’s nakedness .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The nakedness of thy sister , the daughter of thy father , or daughter of thy mother , [ whether she be ] born at home , or born abroad , [ even ] their nakedness thou shalt not uncover .",
+      "traditions": {
+        "WLC": "עֶרְוַ֨ת אֲחֽוֹתְ ךָ֤ בַת אָבִ֨י ךָ֙ א֣וֹ בַת אִמֶּ֔ ךָ מוֹלֶ֣דֶת בַּ֔יִת א֖וֹ מוֹלֶ֣דֶת ח֑וּץ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽ ן",
+        "LXX": "ἀσχημοσύνην τῆς ἀδελφῆς σου ἐκ πατρός σου ἢ μητρός σου , ἐνδογενοῦς γεγεννημένης ἢ ἔξω , οὐκ ἀποκαλύψεις ἀσχημοσύνην αὐτῆς .",
+        "VUL": "Turpitúdinem soróris tuæ ex patre sive ex matre , quæ domi vel foris génita est , non revelábis .",
+        "SP": "ערות אחותך בת אביך או בת אמך מולדת בית או מולדת חוץ לא תגלה ערותה",
+        "KJV": "The nakedness of thy sister , the daughter of thy father , or daughter of thy mother , [ whether she be ] born at home , or born abroad , [ even ] their nakedness thou shalt not uncover .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "The nakedness of thy son ’s daughter , or of thy daughter ’s daughter , [ even ] their nakedness thou shalt not uncover :",
+      "traditions": {
+        "WLC": "עֶרְוַ֤ת בַּת בִּנְ ךָ֙ א֣וֹ בַֽת בִּתְּ ךָ֔ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָ֑ ן",
+        "LXX": "ἀσχημοσύνην θυγατρὸς υἱοῦ σου ἢ θυγατρὸς θυγατρός σου , οὐκ ἀποκαλύψεις τὴν ἀσχημοσύνην αὐτῶν ,",
+        "VUL": "Turpitúdinem fíliæ fílii tui vel neptis ex fília non revelábis :",
+        "SP": "ערות בת בנך או בת בתך לא תגלה ערותן",
+        "KJV": "The nakedness of thy son ’s daughter , or of thy daughter ’s daughter , [ even ] their nakedness thou shalt not uncover :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for theirs [ is ] thine own nakedness .",
+      "traditions": {
+        "WLC": "כִּ֥י עֶרְוָתְ ךָ֖ הֵֽנָּה",
+        "LXX": "ὅτι σὴ ἀσχημοσύνη ἐστίν .",
+        "VUL": "quia turpitúdo tua est .",
+        "SP": "כי ערותך הנה",
+        "KJV": "for theirs [ is ] thine own nakedness .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "The nakedness of thy father ’s wife ’s daughter",
+      "traditions": {
+        "WLC": "עֶרְוַ֨ת בַּת אֵ֤שֶׁת אָבִ֨י ךָ֙",
+        "LXX": "ἀσχημοσύνην θυγατρὸς γυναικὸς πατρός σου οὐκ ἀποκαλύψεις ·",
+        "VUL": "Turpitúdinem fíliæ uxóris patris tui ,",
+        "SP": "ערות בת אשׁת אביך",
+        "KJV": "The nakedness of thy father ’s wife ’s daughter ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "begotten of thy father",
+      "traditions": {
+        "WLC": "מוֹלֶ֣דֶת אָבִ֔י ךָ",
+        "LXX": null,
+        "VUL": "quam péperit patri tuo ,",
+        "SP": "מולדת אביך",
+        "KJV": "begotten of thy father ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "she [ is ] thy sister",
+      "traditions": {
+        "WLC": "אֲחוֹתְ ךָ֖ הִ֑וא",
+        "LXX": "ὁμοπατρία ἀδελφή σού ἐστιν ,",
+        "VUL": "et est soror tua ,",
+        "SP": "אחותך היא",
+        "KJV": "she [ is ] thy sister ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "thou shalt not uncover her nakedness",
+      "traditions": {
+        "WLC": "לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽ הּ",
+        "LXX": "οὐκ ἀποκαλύψεις τὴν ἀσχημοσύνην αὐτῆς .",
+        "VUL": "non revelábis .",
+        "SP": "לא תגלה ערותה",
+        "KJV": "thou shalt not uncover her nakedness .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not uncover the nakedness of thy father ’s sister",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אֲחוֹת אָבִ֖י ךָ לֹ֣א תְגַלֵּ֑ה",
+        "LXX": "ἀσχημοσύνην ἀδελφῆς πατρός σου οὐκ ἀποκαλύψεις ·",
+        "VUL": "Turpitúdinem soróris patris tui non discoopéries :",
+        "SP": "ערות אחות אביך לא תגלה",
+        "KJV": "Thou shalt not uncover the nakedness of thy father ’s sister :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "she [ is ] thy father ’s near kinswoman",
+      "traditions": {
+        "WLC": "שְׁאֵ֥ר אָבִ֖י ךָ הִֽוא",
+        "LXX": "οἰκεία γὰρ πατρός σού ἐστιν .",
+        "VUL": "quia caro est patris tui .",
+        "SP": "שׁאר אביך היא",
+        "KJV": "she [ is ] thy father ’s near kinswoman .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not uncover the nakedness of thy mother ’s sister",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אֲחֽוֹת אִמְּ ךָ֖ לֹ֣א תְגַלֵּ֑ה",
+        "LXX": "ἀσχημοσύνην ἀδελφῆς μητρός σου οὐκ ἀποκαλύψεις ·",
+        "VUL": "Turpitúdinem soróris matris tuæ non revelábis ,",
+        "SP": "ערות אחות אמך לא תגלה",
+        "KJV": "Thou shalt not uncover the nakedness of thy mother ’s sister :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for she [ is ] thy mother ’s near kinswoman",
+      "traditions": {
+        "WLC": "כִּֽי שְׁאֵ֥ר אִמְּ ךָ֖ הִֽוא",
+        "LXX": "οἰκεία γὰρ μητρός σού ἐστιν .",
+        "VUL": "eo quod caro sit matris tuæ .",
+        "SP": "שׁאר אמך היא",
+        "KJV": "for she [ is ] thy mother ’s near kinswoman .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not uncover the nakedness of thy father ’s brother",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אֲחִֽי אָבִ֖י ךָ לֹ֣א תְגַלֵּ֑ה",
+        "LXX": "ἀσχημοσύνην ἀδελφοῦ τοῦ πατρός σου οὐκ ἀποκαλύψεις ,",
+        "VUL": "Turpitúdinem pátrui tui non revelábis ,",
+        "SP": "ערות אחי אביך לא תגלה",
+        "KJV": "Thou shalt not uncover the nakedness of thy father ’s brother ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt not approach to his wife",
+      "traditions": {
+        "WLC": "אֶל אִשְׁתּ וֹ֙ לֹ֣א תִקְרָ֔ב",
+        "LXX": "καὶ πρὸς τὴν γυναῖκα αὐτοῦ οὐκ εἰσελεύσῃ ·",
+        "VUL": "nec accédes ad uxórem eius ,",
+        "SP": "ו אל אשׁתו לא תקרב",
+        "KJV": "thou shalt not approach to his wife :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "she [ is ] thine aunt",
+      "traditions": {
+        "WLC": "דֹּדָֽתְ ךָ֖ הִֽוא",
+        "LXX": "συγγενὴς γάρ σού ἐστιν .",
+        "VUL": "quæ tibi affinitáte coniúngitur .",
+        "SP": "דדתך היא",
+        "KJV": "she [ is ] thine aunt .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not uncover the nakedness of thy daughter in law",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת כַּלָּֽתְ ךָ֖ לֹ֣א תְגַלֵּ֑ה",
+        "LXX": "ἀσχημοσύνην νύμφης σου οὐκ ἀποκαλύψεις ·",
+        "VUL": "Turpitúdinem nurus tuæ non revelábis ,",
+        "SP": "ערות כלתך לא תגלה",
+        "KJV": "Thou shalt not uncover the nakedness of thy daughter in law :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "she [ is ] thy son ’s wife",
+      "traditions": {
+        "WLC": "אֵ֤שֶׁת בִּנְ ךָ֙ הִ֔וא",
+        "LXX": "γυνὴ γὰρ υἱοῦ σού ἐστιν ,",
+        "VUL": "quia uxor fílii tui est :",
+        "SP": "אשׁת בנך היא",
+        "KJV": "she [ is ] thy son ’s wife ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou shalt not uncover her nakedness",
+      "traditions": {
+        "WLC": "לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽ הּ",
+        "LXX": "οὐκ ἀποκαλύψεις τὴν ἀσχημοσύνην αὐτῆς .",
+        "VUL": "nec discoopéries ignomíniam eius .",
+        "SP": "לא תגלה ערותה",
+        "KJV": "thou shalt not uncover her nakedness .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not uncover the nakedness of thy brother ’s wife",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אֵֽשֶׁת אָחִ֖י ךָ לֹ֣א תְגַלֵּ֑ה",
+        "LXX": "ἀσχημοσύνην γυναικὸς ἀδελφοῦ σου οὐκ ἀποκαλύψεις ·",
+        "VUL": "Turpitúdinem uxóris fratris tui non revelábis :",
+        "SP": "ערות אשׁת אחיך לא תגלה",
+        "KJV": "Thou shalt not uncover the nakedness of thy brother ’s wife :",
+        "DSS": "[4Q23] [ א ]ח##י?׳ך לא תגלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] thy brother ’s nakedness",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אָחִ֖י ךָ הִֽוא",
+        "LXX": "ἀσχημοσύνη ἀδελφοῦ σού ἐστιν .",
+        "VUL": "quia turpitúdo fratris tui est .",
+        "SP": "ערות אחיך היא",
+        "KJV": "it [ is ] thy brother ’s nakedness .",
+        "DSS": "ערו?[ ת אחי׳ך היא ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not uncover the nakedness of a woman and her daughter",
+      "traditions": {
+        "WLC": "עֶרְוַ֥ת אִשָּׁ֛ה וּ בִתָּ֖ הּ לֹ֣א תְגַלֵּ֑ה",
+        "LXX": "ἀσχημοσύνην γυναικὸς καὶ θυγατρὸς αὐτῆς οὐκ ἀποκαλύψεις ·",
+        "VUL": "Turpitúdinem uxóris tuæ et fíliæ eius non revelábis .",
+        "SP": "ערות אשׁה ו בתה לא תגלה",
+        "KJV": "Thou shalt not uncover the nakedness of a woman and her daughter ,",
+        "DSS": "[4Q23] ערות אשה ו בת׳ה לא תגלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shalt thou take her son ’s daughter , or her daughter ’s daughter",
+      "traditions": {
+        "WLC": "אֶֽת בַּת בְּנָ֞ הּ וְ אֶת בַּת בִּתָּ֗ הּ לֹ֤א תִקַּח֙",
+        "LXX": "τὴν θυγατέρα τοῦ υἱοῦ αὐτῆς καὶ τὴν θυγατέρα τῆς θυγατρὸς αὐτῆς οὐ λήμψῃ",
+        "VUL": "Fíliam fílii eius , et fíliam fíliæ illíus non sumes ,",
+        "SP": "את בת בנה ו את בת בתה לא תקח",
+        "KJV": "neither shalt thou take her son ’s daughter , or her daughter ’s daughter ,",
+        "DSS": "את בת בנ׳ה ו את בת בת׳ה ] לא[   ]תקח"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to uncover her nakedness",
+      "traditions": {
+        "WLC": "לְ גַלּ֣וֹת עֶרְוָתָ֔ הּ",
+        "LXX": "ἀποκαλύψαι τὴν ἀσχημοσύνην αὐτῶν ·",
+        "VUL": "ut revéles ignomíniam eius :",
+        "SP": "ל גלות ערותה",
+        "KJV": "to uncover her nakedness ; [ for ]",
+        "DSS": "ל גלות ערות׳"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ for ] they [ are ] her near kinswomen",
+      "traditions": {
+        "WLC": "שַׁאֲרָ֥ה הֵ֖נָּה",
+        "LXX": "οἰκεῖαι γάρ σού εἰσιν ,",
+        "VUL": "quia caro illíus sunt ,",
+        "SP": "שׁארה הנה",
+        "KJV": "they [ are ] her near kinswomen :",
+        "DSS": "[ ה שארה הנה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "it [ is ] wickedness",
+      "traditions": {
+        "WLC": "זִמָּ֥ה הִֽוא",
+        "LXX": "ἀσέβημά ἐστιν .",
+        "VUL": "et talis cóitus incéstus est .",
+        "SP": "זמה היא",
+        "KJV": "it [ is ] wickedness .",
+        "DSS": "זמה היא ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither shalt thou take a wife to her sister",
+      "traditions": {
+        "WLC": "וְ אִשָּׁ֥ה אֶל אֲחֹתָ֖ הּ לֹ֣א תִקָּ֑ח",
+        "LXX": "γυναῖκα ἐπὶ ἀδελφῇ αὐτῆς οὐ λήμψῃ",
+        "VUL": "Sorórem uxóris tuæ",
+        "SP": "ו אשׁה על אחותה לא תקח",
+        "KJV": "Neither shalt thou take a wife to her sister ,",
+        "DSS": "[4Q23] ו אשה אל אחת׳ה לא תקח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to vex [ her ] ,",
+      "traditions": {
+        "WLC": "לִ צְרֹ֗ר",
+        "LXX": "ἀντίζηλον ,",
+        "VUL": "in pellicátum illíus non accípies ,",
+        "SP": "ל צרר",
+        "KJV": "to vex [ her ] ,",
+        "DSS": "ל צרר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to uncover her nakedness ,",
+      "traditions": {
+        "WLC": "לְ גַלּ֧וֹת עֶרְוָתָ֛ הּ",
+        "LXX": "ἀποκαλύψαι τὴν ἀσχημοσύνην αὐτῆς",
+        "VUL": "nec revelábis turpitúdinem eius",
+        "SP": "ל גלות ערותה",
+        "KJV": "to uncover her nakedness ,",
+        "DSS": "ל גלות ] ערות׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "beside the other in her life [ time ] .",
+      "traditions": {
+        "WLC": "עָלֶ֖י הָ בְּ חַיֶּֽי הָ",
+        "LXX": "ἐπ᾽ αὐτῇ , ἔτι ζώσης αὐτῆς .",
+        "VUL": "adhuc illa vivénte .",
+        "SP": "עליה ב חייה",
+        "KJV": "beside the other in her life [ time ] .",
+        "DSS": "עלי׳ה ב# ח##[ יי׳ה ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Moreover thou shalt not lie carnally with thy neighbour ’s wife",
+      "traditions": {
+        "WLC": "וְ אֶל אֵ֨שֶׁת֙ עֲמִֽיתְ ךָ֔ לֹא תִתֵּ֥ן שְׁכָבְתְּ ךָ֖ לְ זָ֑רַע",
+        "LXX": "καὶ πρὸς τὴν γυναῖκα τοῦ πλησίον σου οὐ δώσεις κοίτην σπέρματός σου ,",
+        "VUL": "Cum uxóre próximi tui non coíbis , nec séminis commistióne",
+        "SP": "ו אל אשׁת עמיתך לא תתן שׁכבתך ל זרע",
+        "KJV": "Moreover thou shalt not lie carnally with thy neighbour ’s wife ,",
+        "DSS": "[4Q23] ו אל אשת עמית׳ך ] ל##[ א תתן שכבת׳ך ל זרע"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to defile thyself with her",
+      "traditions": {
+        "WLC": "לְ טָמְאָה בָֽ הּ",
+        "LXX": "ἐκμιανθῆναι πρὸς αὐτήν .",
+        "VUL": "maculáberis .",
+        "SP": "ל טמאה בה",
+        "KJV": "to defile thyself with her .",
+        "DSS": "ל טמא׳ה ב׳ה ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt not let any of thy seed pass through [ the fire ] to Molech",
+      "traditions": {
+        "WLC": "וּ מִֽ זַּרְעֲ ךָ֥ לֹא תִתֵּ֖ן לְ הַעֲבִ֣יר לַ מֹּ֑לֶךְ",
+        "LXX": "καὶ ἀπὸ τοῦ σπέρματός σου οὐ δώσεις λατρεύειν ἄρχοντι ,",
+        "VUL": "De sémine tuo non dabis ut consecrétur idólo Moloch ,",
+        "SP": "ו מ זרעך לא תתן ל העביד ל מלך",
+        "KJV": "And thou shalt not let any of thy seed pass through [ the fire ] to Molech ,",
+        "DSS": "[4Q23] ו מ זרע׳ך לא תתן ל העביר ל מלך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shalt thou profane the name of thy God",
+      "traditions": {
+        "WLC": "וְ לֹ֧א תְחַלֵּ֛ל אֶת שֵׁ֥ם אֱלֹהֶ֖י ךָ",
+        "LXX": "καὶ οὐ βεβηλώσεις τὸ ὄνομα τὸ ἅγιον ·",
+        "VUL": "nec póllues nomen Dei tui .",
+        "SP": "ו לא תחלל את שׁם אלהיך",
+        "KJV": "neither shalt thou profane the name of thy God :",
+        "DSS": "ו לא תחלל את שם אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I [ am ] the LORD",
+      "traditions": {
+        "WLC": "אֲנִ֥י יְהוָֽה",
+        "LXX": "ἐγὼ Κύριος .",
+        "VUL": "Ego Dóminus .",
+        "SP": "אני יהוה",
+        "KJV": "I [ am ] the LORD .",
+        "DSS": "] א##נ#?י#?[  יהוה ׃"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not lie with mankind , as with womankind",
+      "traditions": {
+        "WLC": "וְ אֶ֨ת זָכָ֔ר לֹ֥א תִשְׁכַּ֖ב מִשְׁכְּבֵ֣י אִשָּׁ֑ה",
+        "LXX": "καὶ μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός ·",
+        "VUL": "Cum másculo non commisceáris cóitu femíneo ,",
+        "SP": "ו את זכר לא תשׁכב משׁכבי אשׁה",
+        "KJV": "Thou shalt not lie with mankind , as with womankind :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] abomination",
+      "traditions": {
+        "WLC": "תּוֹעֵבָ֖ה הִֽוא",
+        "LXX": "βδέλυγμα γάρ ἐστιν .",
+        "VUL": "quia abominátio est .",
+        "SP": "תועבה היא",
+        "KJV": "it [ is ] abomination .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither shalt thou lie with any beast to defile thyself therewith",
+      "traditions": {
+        "WLC": "וּ בְ כָל בְּהֵמָ֛ה לֹא תִתֵּ֥ן שְׁכָבְתְּ ךָ֖ לְ טָמְאָה בָ֑ הּ",
+        "LXX": "καὶ πρὸς πᾶν τετράπουν οὐ δώσεις τὴν κοίτην σου εἰς σπερματισμὸν ἐκμιανθῆναι πρὸς αὐτό ·",
+        "VUL": "Cum omni pécore non coíbis , nec maculáberis cum eo .",
+        "SP": "ו ב כל בהמה לא תתן שׁכבתך ל טמאה בה",
+        "KJV": "Neither shalt thou lie with any beast to defile thyself therewith :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shall any woman stand before a beast to lie down thereto",
+      "traditions": {
+        "WLC": "וְ אִשָּׁ֗ה לֹֽא תַעֲמֹ֞ד לִ פְנֵ֧י בְהֵמָ֛ה לְ רִבְעָ֖ הּ",
+        "LXX": "καὶ γυνὴ οὐ στήσεται πρὸς πᾶν τετράπουν βιβασθῆναι ·",
+        "VUL": "Múlier non succúmbet iuménto , nec miscébitur ei ,",
+        "SP": "ו אשׁה לא תעמד ל פני בהמה ל רבעה",
+        "KJV": "neither shall any woman stand before a beast to lie down thereto :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "it [ is ] confusion",
+      "traditions": {
+        "WLC": "תֶּ֥בֶל הֽוּא",
+        "LXX": "μυσερὸν γάρ ἐστιν .",
+        "VUL": "quia scelus est .",
+        "SP": "תבל הוא",
+        "KJV": "it [ is ] confusion .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "Defile not ye yourselves in any of these things",
+      "traditions": {
+        "WLC": "אַל תִּֽטַּמְּא֖וּ בְּ כָל אֵ֑לֶּה",
+        "LXX": "Μὴ μιαίνεσθε ἐν πᾶσιν τούτοις ·",
+        "VUL": "Nec polluámini in ómnibus his ,",
+        "SP": "אל תטמאו ב כל אלה",
+        "KJV": "Defile not ye yourselves in any of these things :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for in all these the nations are defiled",
+      "traditions": {
+        "WLC": "כִּ֤י בְ כָל אֵ֨לֶּה֙ נִטְמְא֣וּ הַ גּוֹיִ֔ם",
+        "LXX": "ἐν πᾶσι γὰρ τούτοις ἐμιάνθησαν τὰ ἔθνη",
+        "VUL": "quibus contaminátæ sunt univérsæ gentes ,",
+        "SP": "כי ב כל אלה נטמאו ה גוים",
+        "KJV": "for in all these the nations are defiled",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which I cast out before you",
+      "traditions": {
+        "WLC": "אֲשֶׁר אֲנִ֥י מְשַׁלֵּ֖חַ מִ פְּנֵי כֶֽם",
+        "LXX": "ἃ ἐγὼ ἐξαποστέλλω πρὸ προσώπου ὑμῶν .",
+        "VUL": "quas ego eíciam ante conspéctum vestrum ,",
+        "SP": "אשׁר אני משׁלח מ פניכם",
+        "KJV": "which I cast out before you :",
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the land is defiled",
+      "traditions": {
+        "WLC": "וַ תִּטְמָ֣א הָ אָ֔רֶץ",
+        "LXX": "καὶ ἐμιάνθη ἡ γῆ ·",
+        "VUL": "et quibus pollúta est terra :",
+        "SP": "ו תטמא ה ארץ",
+        "KJV": "And the land is defiled :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "therefore I do visit the iniquity thereof upon it",
+      "traditions": {
+        "WLC": "וָ אֶפְקֹ֥ד עֲוֺנָ֖ הּ עָלֶ֑י הָ",
+        "LXX": "καὶ ἀνταπέδωκα αὐτοῖς ἀδικίαν δι᾽ αὐτήν ,",
+        "VUL": "cuius ego scélera visitábo ,",
+        "SP": "ו אפקד עונה עליה",
+        "KJV": "therefore I do visit the iniquity thereof upon it ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the land itself vomiteth out her inhabitants",
+      "traditions": {
+        "WLC": "וַ תָּקִ֥א הָ אָ֖רֶץ אֶת יֹשְׁבֶֽי הָ",
+        "LXX": "καὶ προσώχθισεν ἡ γῆ τοῖς ἐνκαθημένοις ἐπ᾽ αὐτῆς .",
+        "VUL": "ut évomat habitatóres suos .",
+        "SP": "ו תקיא ה ארץ את ישׁביה",
+        "KJV": "and the land itself vomiteth out her inhabitants .",
+        "DSS": null
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ye shall therefore keep my statutes and my judgments",
+      "traditions": {
+        "WLC": "וּ שְׁמַרְתֶּ֣ם אַתֶּ֗ם אֶת חֻקֹּתַ י֙ וְ אֶת מִשְׁפָּטַ֔ י",
+        "LXX": "καὶ φυλάξεσθε πάντα τὰ νόμιμά μου καὶ πάντα τὰ προστάγματά μου ,",
+        "VUL": "Custodíte legítima mea atque iudícia ,",
+        "SP": "ו שׁמרתם את חקותי ו את משׁפטי",
+        "KJV": "Ye shall therefore keep my statutes and my judgments ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall not commit [ any ] of these abominations",
+      "traditions": {
+        "WLC": "וְ לֹ֣א תַעֲשׂ֔וּ מִ כֹּ֥ל הַ תּוֹעֵבֹ֖ת הָ אֵ֑לֶּה הָֽ",
+        "LXX": "καὶ οὐ ποιήσετε ἀπὸ πάντων τῶν βδελυγμάτων τούτων ,",
+        "VUL": "et non faciátis ex ómnibus abominatiónibus istis ,",
+        "SP": "ו לא תעשׂו מ כל ה תועבות ה אלה",
+        "KJV": "and shall not commit [ any ] of these abominations ; [ neither ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ neither ] any of your own nation , nor any stranger that sojourneth among you",
+      "traditions": {
+        "WLC": "אֶזְרָ֔ח וְ הַ גֵּ֖ר הַ גָּ֥ר בְּ תוֹכְ כֶֽם",
+        "LXX": "ὁ ἐνχώριος ἢ ὁ προσγενόμενος προσήλυτος ἐν ὑμῖν ·",
+        "VUL": "tam indígena quam colónus qui peregrinántur apud vos .",
+        "SP": "ה אזרח ו ה גר ה גר ב תוככם",
+        "KJV": "any of your own nation , nor any stranger that sojourneth among you :",
+        "DSS": null
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "For all these abominations have the men of the land done , which [ were ] before you",
+      "traditions": {
+        "WLC": "כִּ֚י אֶת כָּל הַ תּוֹעֵבֹ֣ת הָ אֵ֔ל עָשׂ֥וּ אַנְשֵֽׁי הָ אָ֖רֶץ אֲשֶׁ֣ר לִ פְנֵי כֶ֑ם",
+        "LXX": "πάντα γὰρ τὰ βδελύγματα ταῦτα ἐποίησαν οἱ ἄνθρωποι τῆς γῆς οἱ ὄντες πρότεροι ὑμῶν ,",
+        "VUL": "Omnes enim exsecratiónes istas fecérunt áccolæ terræ qui fuérunt ante vos ,",
+        "SP": "כי את כל ה תועבות ה אלה עשׂו אנשׁי ה ארץ אשׁר ל פניכם",
+        "KJV": "( For all these abominations have the men of the land done , which [ were ] before you ,",
+        "DSS": "[11Q1] ε  ]כ[ י ] [ את כל ה ] תע#בות ה אלה ע#ש#ו[  ( ו אקצ ב׳מ ו אמר ל׳כמ א ]תמ תירשו[   ]את אד [ מ ]ת#׳מ ) אנשי ה ארצ אשר ל פנ[ י׳כמ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the land is defiled",
+      "traditions": {
+        "WLC": "וַ תִּטְמָ֖א הָ אָֽרֶץ",
+        "LXX": "καὶ ἐμιάνθη ἡ γῆ ·",
+        "VUL": "et polluérunt eam .",
+        "SP": "ו תטמא ה ארץ",
+        "KJV": "and the land is defiled ; )",
+        "DSS": "ו תטמ ]א# ה ארצ ׃"
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "That the land spue not you out also",
+      "traditions": {
+        "WLC": "וְ לֹֽא תָקִ֤יא הָ אָ֨רֶץ֙ אֶתְ כֶ֔ם",
+        "LXX": "καὶ ἵνα μὴ προσοχθίσῃ ὑμῖν ἡ γῆ",
+        "VUL": "Cavéte ergo ne et vos simíliter évomat ,",
+        "SP": "ו לא תקיא ה ארץ אתכם",
+        "KJV": "That the land spue not you out also ,",
+        "DSS": "[11Q1] ו לא תקיא ה ארצ א#ת׳כמ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when ye defile it",
+      "traditions": {
+        "WLC": "בְּ טַֽמַּאֲ כֶ֖ם אֹתָ֑ הּ",
+        "LXX": "ἐν τῷ μιαίνειν ὑμᾶς αὐτήν ,",
+        "VUL": "cum pária fecéritis ,",
+        "SP": "ב טמאכם אתה",
+        "KJV": "when ye defile it ,",
+        "DSS": "ב טמא׳כמ את׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "as it spued out the nations that [ were ] before you",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֥ר קָאָ֛ה אֶת הַ גּ֖וֹי אֲשֶׁ֥ר לִ פְנֵי כֶֽם",
+        "LXX": "ὃν τρόπον προσώχθισεν τοῖς ἔθνεσιν τοῖς πρὸ ὑμῶν .",
+        "VUL": "sicut evómuit gentem , quæ fuit ante vos .",
+        "SP": "כ אשׁר קאה את ה גוי אשׁר ל פניכם",
+        "KJV": "as it spued out the nations that [ were ] before you .",
+        "DSS": "כ אשר ק[ אה את ה גו ]י אשר ל פני׳כמ ׃"
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "For whosoever shall commit any of these abominations",
+      "traditions": {
+        "WLC": "כִּ֚י כָּל אֲשֶׁ֣ר יַעֲשֶׂ֔ה מִ כֹּ֥ל הַ תּוֹעֵב֖וֹת הָ אֵ֑לֶּה",
+        "LXX": "ὅτι πᾶς ὃς ἂν ποιήσῃ ἀπὸ πάντων τῶν βδελυγμάτων τούτων ,",
+        "VUL": "Omnis ánima , quæ fécerit de abominatiónibus his quíppiam ,",
+        "SP": "כי כל אשׁר יעשׂה מ כל ה תועבות ה אלה",
+        "KJV": "For whosoever shall commit any of these abominations ,",
+        "DSS": "[11Q1] כי כל אש [ ר  ]יעשה מ כל ה תעבות ה אלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even the souls that commit [ them ] shall be cut off from among their people",
+      "traditions": {
+        "WLC": "וְ נִכְרְת֛וּ הַ נְּפָשׁ֥וֹת הָ עֹשֹׂ֖ת מִ קֶּ֥רֶב עַמָּֽ ם",
+        "LXX": "ἐξολεθρευθήσονται αἱ ψυχαὶ αἱ ποιοῦσαι ἐκ τοῦ λαοῦ αὐτῶν .",
+        "VUL": "períbit de médio pópuli sui .",
+        "SP": "ו נכרתו ה נפשׁות ה עשׂות מ קרב עמם",
+        "KJV": "even the souls that commit [ them ] shall be cut off from among their people .",
+        "DSS": "ו נכ[ רתו ה נפש ]ות ה עשות מ קרב עמ׳מ ׃"
+      }
+    }
+  ],
+  "30": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore shall ye keep mine ordinance",
+      "traditions": {
+        "WLC": "וּ שְׁמַרְתֶּ֣ם אֶת מִשְׁמַרְתִּ֗ י",
+        "LXX": "καὶ φυλάξετε τὰ προστάγματά μου ,",
+        "VUL": "Custodíte mandáta mea .",
+        "SP": "ו שׁמרתם את משׁמרתי",
+        "KJV": "Therefore shall ye keep mine ordinance ,",
+        "DSS": "[11Q1] ו שמ [ רת ]מ את משמרת׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that [ ye ] commit not [ any one ] of these abominable customs , which were committed before you",
+      "traditions": {
+        "WLC": "לְ בִלְתִּ֨י עֲשׂ֜וֹת מֵ חֻקּ֤וֹת הַ תּֽוֹעֵבֹת֙ אֲשֶׁ֣ר נַעֲשׂ֣וּ לִ פְנֵי כֶ֔ם",
+        "LXX": "ὅπως μὴ ποιήσητε ἀπὸ πάντων τῶν νομίμων τῶν ἐβδελυγμένων ὃ γέγονεν πρὸ τοῦ ὑμᾶς ·",
+        "VUL": "Nolíte fácere quæ fecérunt hi qui fuérunt ante vos ,",
+        "SP": "ל בלתי עשׂות מ חקות ה תועבות אשׁר נעשׂו ל פניכם",
+        "KJV": "that [ ye ] commit not [ any one ] of these abominable customs , which were committed before you ,",
+        "DSS": "ל בלתי עשות מ# [ חקות ה  ]תעבות אשר נעשו ל פני׳כמ"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and that ye defile not yourselves therein",
+      "traditions": {
+        "WLC": "וְ לֹ֥א תִֽטַּמְּא֖וּ בָּ הֶ֑ם",
+        "LXX": "καὶ οὐ μιανθήσεσθε ἐν αὐτοῖς ,",
+        "VUL": "et ne polluámini in eis .",
+        "SP": "ו לא תטמאו בהן",
+        "KJV": "and that ye defile not yourselves therein :",
+        "DSS": "[ ו לא  ]ת#טמאו ב׳המ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "I [ am ] the LORD your God",
+      "traditions": {
+        "WLC": "אֲנִ֖י יְהוָ֥ה אֱלֹהֵי כֶֽם",
+        "LXX": "ὅτι ἐγὼ Κύριος ὁ θεὸς ὑμῶν .",
+        "VUL": "Ego Dóminus Deus vester .",
+        "SP": "כי אני יהוה אלהיכם",
+        "KJV": "I [ am ] the LORD your God .",
+        "DSS": "כי אני י?[ הוה אלהי׳כ ]מ ׃"
+      }
+    }
+  ]
+}

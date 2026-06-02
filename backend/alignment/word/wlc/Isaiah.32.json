@@ -1,0 +1,418 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הֵ֥ן",
+          "LXX": "ἰδοὺ",
+          "VUL": "Ecce",
+          "SP": null,
+          "KJV": "Behold",
+          "DSS": "הנה"
+        },
+        {
+          "token": "לְ",
+          "LXX": null,
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ל"
+        },
+        {
+          "token": "צֶ֖דֶק",
+          "LXX": "δίκαιος",
+          "VUL": "iustítia",
+          "SP": null,
+          "KJV": "righteousness",
+          "DSS": "צדק"
+        },
+        {
+          "token": "יִמְלָךְ",
+          "LXX": "βασιλεύσει",
+          "VUL": "regnábit",
+          "SP": null,
+          "KJV": "shall reign",
+          "DSS": "ימלוך"
+        },
+        {
+          "token": "מֶ֑לֶךְ",
+          "LXX": "βασιλεὺς",
+          "VUL": "rex",
+          "SP": null,
+          "KJV": "a king",
+          "DSS": "מלך"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וּ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "לְ",
+          "LXX": null,
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ל"
+        },
+        {
+          "token": "שָׂרִ֖ים",
+          "LXX": "ἄρχοντες",
+          "VUL": "príncipes",
+          "SP": null,
+          "KJV": "princes",
+          "DSS": "שרים"
+        },
+        {
+          "token": "לְ",
+          "LXX": "μετὰ",
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": "ל"
+        },
+        {
+          "token": "מִשְׁפָּ֥ט",
+          "LXX": "κρίσεως",
+          "VUL": "iudício",
+          "SP": null,
+          "KJV": "judgment",
+          "DSS": "משפט"
+        },
+        {
+          "token": "יָשֹֽׂרוּ",
+          "LXX": "ἄρξουσιν",
+          "VUL": "prǽerunt",
+          "SP": null,
+          "KJV": "shall rule",
+          "DSS": "ישרו"
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "καὶ",
+          "VUL": "Et",
+          "SP": null,
+          "KJV": "And",
+          "DSS": "ו"
+        },
+        {
+          "token": "הָיָה",
+          "LXX": "ἔσται",
+          "VUL": "erit",
+          "SP": null,
+          "KJV": "shall be",
+          "DSS": "היה"
+        },
+        {
+          "token": "אִ֥ישׁ",
+          "LXX": "ὁ ἄνθρωπος",
+          "VUL": "vir",
+          "SP": null,
+          "KJV": "a man",
+          "DSS": "איש"
+        },
+        {
+          "token": "כְּ",
+          "LXX": null,
+          "VUL": "sicut",
+          "SP": null,
+          "KJV": "as",
+          "DSS": "כ"
+        },
+        {
+          "token": "מַֽחֲבֵא",
+          "LXX": "κρύπτων",
+          "VUL": "qui abscónditur",
+          "SP": null,
+          "KJV": "an hiding place",
+          "DSS": "מחבה"
+        },
+        {
+          "token": "ר֖וּחַ",
+          "LXX": null,
+          "VUL": "a vento",
+          "SP": null,
+          "KJV": "from the wind",
+          "DSS": "רוח"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "סֵ֣תֶר",
+          "LXX": "κρυβήσεται",
+          "VUL": "celat se",
+          "SP": null,
+          "KJV": "a covert",
+          "DSS": "סתר׳{{ ם }}"
+        },
+        {
+          "token": "זָ֑רֶם",
+          "LXX": "ὡς ἀφ᾽ ὕδατος φερομένου",
+          "VUL": "a tempestáte",
+          "SP": null,
+          "KJV": "from the tempest",
+          "DSS": "זרם"
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "כְּ",
+          "LXX": "ὡς",
+          "VUL": "sicut",
+          "SP": null,
+          "KJV": "as",
+          "DSS": "כ"
+        },
+        {
+          "token": "פַלְגֵי",
+          "LXX": "ποταμὸς",
+          "VUL": "rivi",
+          "SP": null,
+          "KJV": "rivers",
+          "DSS": "פלגי"
+        },
+        {
+          "token": "מַ֣יִם",
+          "LXX": "φερόμενος ἔνδοξος",
+          "VUL": "aquárum",
+          "SP": null,
+          "KJV": "of water",
+          "DSS": "מים"
+        },
+        {
+          "token": "בְּ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "צָי֔וֹן",
+          "LXX": "Σειὼν",
+          "VUL": "siti",
+          "SP": null,
+          "KJV": "a dry place",
+          "DSS": "ציין"
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "כְּ",
+          "LXX": null,
+          "VUL": "et",
+          "SP": null,
+          "KJV": "as",
+          "DSS": "ב"
+        },
+        {
+          "token": "צֵ֥ל",
+          "LXX": null,
+          "VUL": "umbra",
+          "SP": null,
+          "KJV": "the shadow",
+          "DSS": "צל"
+        },
+        {
+          "token": "סֶֽלַע",
+          "LXX": null,
+          "VUL": "petræ",
+          "SP": null,
+          "KJV": "of a ... rock",
+          "DSS": "סלע"
+        },
+        {
+          "token": "כָּבֵ֖ד",
+          "LXX": null,
+          "VUL": "prominéntis",
+          "SP": null,
+          "KJV": "great",
+          "DSS": "כבד"
+        },
+        {
+          "token": "בְּ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "אֶ֥רֶץ",
+          "LXX": "γῇ",
+          "VUL": "terra",
+          "SP": null,
+          "KJV": "a ... land",
+          "DSS": "ארץ"
+        },
+        {
+          "token": "עֲיֵפָֽה",
+          "LXX": "διψώσῃ",
+          "VUL": "desérta",
+          "SP": null,
+          "KJV": "weary",
+          "DSS": "עיפה"
+        }
+      ]
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "חִרְדוּ֙",
+          "LXX": "ἔκστητε",
+          "VUL": "Obstupéscite",
+          "SP": null,
+          "KJV": "Tremble",
+          "DSS": "חרדו"
+        },
+        {
+          "token": "שַֽׁאֲנַנּ֔וֹת",
+          "LXX": "λυπήθητε αἱ πεποιθυῖαι",
+          "VUL": "opuléntæ",
+          "SP": null,
+          "KJV": "ye women that are at ease",
+          "DSS": "שאנ?נות"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "רְגָ֖זָה",
+          "LXX": null,
+          "VUL": "conturbámini",
+          "SP": null,
+          "KJV": "be troubled",
+          "DSS": "רגז׳ה"
+        },
+        {
+          "token": "בֹּֽטְח֑וֹת",
+          "LXX": null,
+          "VUL": "confidéntes",
+          "SP": null,
+          "KJV": "ye careless ones",
+          "DSS": "בוטחות"
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "פְּשֹׁ֣טָֽה",
+          "LXX": "ἐκδύσασθε",
+          "VUL": "exúite vos",
+          "SP": null,
+          "KJV": "strip you",
+          "DSS": "פשט׳ה"
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": null,
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": null
+        },
+        {
+          "token": "עֹ֔רָה",
+          "LXX": "γυμναὶ γένεσθε",
+          "VUL": "confundímini",
+          "SP": null,
+          "KJV": "make you bare",
+          "DSS": "יערו"
+        }
+      ]
+    },
+    {
+      "thought_id": 5,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וַ",
+          "LXX": null,
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "חֲג֖וֹרָה",
+          "LXX": "περιζώσασθε",
+          "VUL": "accíngite",
+          "SP": null,
+          "KJV": "gird [ sackcloth ]",
+          "DSS": "חגרנה ו ספדנה"
+        },
+        {
+          "token": "עַל",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "upon [ your ]",
+          "DSS": "על"
+        },
+        {
+          "token": "חֲלָצָֽיִם",
+          "LXX": "τὰς ὀσφῦς",
+          "VUL": "lumbos vestros",
+          "SP": null,
+          "KJV": "loins",
+          "DSS": "ה חלצים"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "The word of the LORD",
+      "traditions": {
+        "WLC": "דְּבַר יְהוָ֣ה",
+        "LXX": "ΛΟΓΟΣ Κυρίου",
+        "VUL": "Verbum Dómini ,",
+        "SP": null,
+        "KJV": "The word of the LORD",
+        "DSS": "[Mur88] ד##ב##[ ר י ]ה##ו?ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which came unto Zephaniah",
+      "traditions": {
+        "WLC": "אֲשֶׁ֣ר הָיָ֗ה אֶל צְפַנְיָה֙",
+        "LXX": "ὃς ἐγενήθη πρὸς Σοφονίαν",
+        "VUL": "quod factum est ad Sophoníam",
+        "SP": null,
+        "KJV": "which came unto Zephaniah",
+        "DSS": "[Mur88] אשר## ה##י?ה##[  אל צפניה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the son of Cushi , the son of Gedaliah , the son of Amariah , the son of Hizkiah",
+      "traditions": {
+        "WLC": "בֶּן כּוּשִׁ֣י בֶן גְּדַלְיָ֔ה בֶּן אֲמַרְיָ֖ה בֶּן חִזְקִיָּ֑ה",
+        "LXX": "τὸν τοῦ Χουσεὶ υἱὸν Γοδολίου τοῦ Ἀμορίου τοῦ Ἑζεκίου",
+        "VUL": "fílium Chusi , fílii Godolíæ , fílii Amaríæ , fílii Ezecíæ ,",
+        "SP": null,
+        "KJV": "the son of Cushi , the son of Gedaliah , the son of Amariah , the son of Hizkiah ,",
+        "DSS": "[4Q77] [ בן חזקיה ] / [Mur88] בן כושי בן גדליה בן אמריה בן חזקיה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "in the days of Josiah the son of Amon , king of Judah",
+      "traditions": {
+        "WLC": "בִּ ימֵ֛י יֹאשִׁיָּ֥הוּ בֶן אָמ֖וֹן מֶ֥לֶךְ יְהוּדָֽה",
+        "LXX": "ἐν ἡμέραις Ἰωσείου υἱοῦ Ἀμὼν βασιλέως Ἰούδα .",
+        "VUL": "in diébus Iosíæ , fílii Amon , regis Iudæ .",
+        "SP": null,
+        "KJV": "in the days of Josiah the son of Amon , king of Judah .",
+        "DSS": "[4Q77] ב ימי יאשיהו בן אמון ] מלך יהודה ׃ / [Mur88] ב ימי ] [ יאשיה ]ו#? בן? א#[ מון מלך יהודה ׃ ε"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will utterly consume all [ things ] from off the land",
+      "traditions": {
+        "WLC": "אָסֹ֨ף אָסֵ֜ף כֹּ֗ל מֵ עַ֛ל פְּנֵ֥י הָ אֲדָמָ֖ה",
+        "LXX": "Ἐκλείψει ἐκλιπέτω ἀπὸ προσώπου τῆς γῆς ,",
+        "VUL": "Cóngregans congregábo ómnia a fácie terræ ,",
+        "SP": null,
+        "KJV": "I will utterly consume all [ things ] from off the land ,",
+        "DSS": "[4Q77] אסף#[  אסף כל מ על ] [ פני ה אדמה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "נְאֻם יְהוָֽה",
+        "LXX": "λέγει Κύριος ·",
+        "VUL": "dicit Dóminus :",
+        "SP": null,
+        "KJV": "saith the LORD .",
+        "DSS": "[4Q77] נאם יהוה ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will consume man and beast",
+      "traditions": {
+        "WLC": "אָסֵ֨ף אָדָ֜ם וּ בְהֵמָ֗ה",
+        "LXX": "ἐκλιπέτω ἄνθρωπος καὶ κτήνη ,",
+        "VUL": "cóngregans hóminem , et pecus ,",
+        "SP": null,
+        "KJV": "I will consume man and beast ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will consume the fowls of the heaven , and the fishes of the sea",
+      "traditions": {
+        "WLC": "אָסֵ֤ף עוֹף הַ שָּׁמַ֨יִם֙ וּ דְגֵ֣י הַ יָּ֔ם",
+        "LXX": "ἐκλιπέτω τὰ πετεινὰ τοῦ οὐρανοῦ καὶ οἱ ἰχθύες τῆς θαλάσσης ·",
+        "VUL": "cóngregans volatília cæli , et pisces maris :",
+        "SP": null,
+        "KJV": "I will consume the fowls of the heaven , and the fishes of the sea ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the stumblingblocks with the wicked",
+      "traditions": {
+        "WLC": "וְ הַ מַּכְשֵׁל֖וֹת אֶת הָ רְשָׁעִ֑ים",
+        "LXX": "καὶ ἀσθενήσουσιν οἱ ἀσεβεῖς ,",
+        "VUL": "et ruínæ impiórum erunt :",
+        "SP": null,
+        "KJV": "and the stumblingblocks with the wicked ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and I will cut off man from off the land",
+      "traditions": {
+        "WLC": "וְ הִכְרַתִּ֣י אֶת הָ אָדָ֗ם מֵ עַ֛ל פְּנֵ֥י הָ אֲדָמָ֖ה",
+        "LXX": "καὶ ἐξαρῶ τοὺς ἀνόμους ἀπὸ προσώπου τῆς γῆς ,",
+        "VUL": "et dispérdam hómines a fácie terræ ,",
+        "SP": null,
+        "KJV": "and I will cut off man from off the land ,",
+        "DSS": "[4Q77] ε  ] #  # [  ε ׃"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "נְאֻם יְהוָֽה",
+        "LXX": "λέγει Κύριος .",
+        "VUL": "dicit Dóminus .",
+        "SP": null,
+        "KJV": "saith the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will also stretch out mine hand upon Judah , and upon all the inhabitants of Jerusalem",
+      "traditions": {
+        "WLC": "וְ נָטִ֤יתִי יָדִ י֙ עַל יְהוּדָ֔ה וְ עַ֖ל כָּל יוֹשְׁבֵ֣י יְרוּשָׁלִָ֑ם",
+        "LXX": "καὶ ἐκτενῶ τὴν χεῖρά μου ἐπὶ Ἰούδαν καὶ ἐπὶ πάντας τοὺς κατοικοῦντας Ἰερουσαλήμ ·",
+        "VUL": "Et exténdam manum meam super Iudam , et super omnes habitántes Ierúsalem :",
+        "SP": null,
+        "KJV": "I will also stretch out mine hand upon Judah , and upon all the inhabitants of Jerusalem ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will cut off the remnant of Baal from this place",
+      "traditions": {
+        "WLC": "וְ הִכְרַתִּ֞י מִן הַ מָּק֤וֹם הַ זֶּה֙ אֶת שְׁאָ֣ר הַ בַּ֔עַל",
+        "LXX": "καὶ ἐξαρῶ ἐκ τοῦ τόπου τούτου τὰ ὀνόματα τῆς Βάαλ",
+        "VUL": "et dispérdam de loco hoc relíquias Baal ,",
+        "SP": null,
+        "KJV": "and I will cut off the remnant of Baal from this place , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the name of the Chemarims with the priests",
+      "traditions": {
+        "WLC": "אֶת שֵׁ֥ם הַ כְּמָרִ֖ים עִם הַ כֹּהֲנִֽים",
+        "LXX": "καὶ τὰ ὀνόματα τῶν ἱερέων ,",
+        "VUL": "et nómina ædituórum cum sacerdótibus :",
+        "SP": null,
+        "KJV": "the name of the Chemarims with the priests ;",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And them that worship the host of heaven upon the housetops",
+      "traditions": {
+        "WLC": "וְ אֶת הַ מִּשְׁתַּחֲוִ֥ים עַל הַ גַּגּ֖וֹת לִ צְבָ֣א הַ שָּׁמָ֑יִם",
+        "LXX": "καὶ τούς προσκυνοῦντας ἐπὶ τὰ δώματα τῇ στρατιᾷ τοῦ οὐρανοῦ ,",
+        "VUL": "et eos , qui adórant super tecta milítiam cæli ,",
+        "SP": null,
+        "KJV": "And them that worship the host of heaven upon the housetops ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and them that worship [ and ] that swear by the LORD",
+      "traditions": {
+        "WLC": "וְ אֶת הַ מִּֽשְׁתַּחֲוִים֙ הַ נִּשְׁבָּעִ֣ים לַֽ יהוָ֔ה",
+        "LXX": "καὶ τοὺς προσκυνοῦντας καὶ τοὺς ὀμνύοντας κατὰ τοῦ κυρίου ,",
+        "VUL": "et adórant , et iurant in Dómino ,",
+        "SP": null,
+        "KJV": "and them that worship [ and ] that swear by the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and that swear by Malcham",
+      "traditions": {
+        "WLC": "וְ הַ נִּשְׁבָּעִ֖ים בְּ מַלְכָּֽ ם",
+        "LXX": "καὶ τούς ὀμνύοντας κατὰ τοῦ βασιλέως αὐτῶν ,",
+        "VUL": "et iurant in Melchom .",
+        "SP": null,
+        "KJV": "and that swear by Malcham ;",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And them that are turned back from the LORD",
+      "traditions": {
+        "WLC": "וְ אֶת הַ נְּסוֹגִ֖ים מֵ אַחֲרֵ֣י יְהוָ֑ה",
+        "LXX": "καὶ τοὺς ἐκκλίνοντας ἀπὸ τοῦ κυρίου ,",
+        "VUL": "Et qui avertúntur de post tergum Dómini ,",
+        "SP": null,
+        "KJV": "And them that are turned back from the LORD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ those ] that have not sought the LORD",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֛ר לֹֽא בִקְשׁ֥וּ אֶת יְהוָ֖ה",
+        "LXX": "καὶ τοὺς μὴ ζητοῦντας τὸν κύριον ,",
+        "VUL": "et qui non quæsiérunt Dóminum ,",
+        "SP": null,
+        "KJV": "and [ those ] that have not sought the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "nor inquired for him",
+      "traditions": {
+        "WLC": "וְ לֹ֥א דְרָשֻֽׁ הוּ",
+        "LXX": "καὶ τοὺς μὴ ἀντεχομένους τοῦ κυρίου .",
+        "VUL": "nec investigavérunt eum .",
+        "SP": null,
+        "KJV": "nor inquired for him .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hold thy peace at the presence of the Lord GOD",
+      "traditions": {
+        "WLC": "הַ֕ס מִ פְּנֵ֖י אֲדֹנָ֣ י יְהוִ֑ה",
+        "LXX": "Εὐλαβεῖσθε ἀπὸ προσώπου Κυρίου τοῦ θεοῦ ,",
+        "VUL": "Siléte a fácie Dómini Dei :",
+        "SP": null,
+        "KJV": "Hold thy peace at the presence of the Lord GOD :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for the day of the LORD [ is ] at hand",
+      "traditions": {
+        "WLC": "כִּ֤י קָרוֹב֙ י֣וֹם יְהוָ֔ה",
+        "LXX": "διότι ἐγγὺς ἡμέρα τοῦ κυρίου ,",
+        "VUL": "quia iuxta est dies Dómini ,",
+        "SP": null,
+        "KJV": "for the day of the LORD [ is ] at hand :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for the LORD hath prepared a sacrifice",
+      "traditions": {
+        "WLC": "כִּֽי הֵכִ֧ין יְהוָ֛ה זֶ֖בַח",
+        "LXX": "ὅτι ἡτοίμακεν Κύριος τὴν θυσίαν αὐτοῦ ,",
+        "VUL": "quia præparávit Dóminus hóstiam ,",
+        "SP": null,
+        "KJV": "for the LORD hath prepared a sacrifice ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "he hath bid his guests",
+      "traditions": {
+        "WLC": "הִקְדִּ֥ישׁ קְרֻאָֽי ו",
+        "LXX": "ἡγίακεν τοὺς κλητοὺς αὐτοῦ .",
+        "VUL": "sanctificávit vocátos suos .",
+        "SP": null,
+        "KJV": "he hath bid his guests .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass in the day of the LORD ’S sacrifice",
+      "traditions": {
+        "WLC": "וְ הָיָ֗ה בְּ יוֹם֙ זֶ֣בַח יְהוָ֔ה",
+        "LXX": "καὶ ἔσται ἐν ἡμέρᾳ θυσίας Κυρίου",
+        "VUL": "Et erit : in die hóstiæ Dómini ,",
+        "SP": null,
+        "KJV": "And it shall come to pass in the day of the LORD ’S sacrifice ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that I will punish the princes , and the king ’s children",
+      "traditions": {
+        "WLC": "וּ פָקַדְתִּ֥י עַל הַ שָּׂרִ֖ים וְ עַל בְּנֵ֣י הַ מֶּ֑לֶךְ",
+        "LXX": "καὶ ἐκδικήσω ἐπὶ τοὺς ἄρχοντας καὶ ἐπὶ τὸν οἶκον τοῦ βασιλέως",
+        "VUL": "visitábo super príncipes , et super fílios regis ,",
+        "SP": null,
+        "KJV": "that I will punish the princes , and the king ’s children ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and all such as are clothed with strange apparel",
+      "traditions": {
+        "WLC": "וְ עַ֥ל כָּל הַ לֹּבְשִׁ֖ים מַלְבּ֥וּשׁ נָכְרִֽי",
+        "LXX": "καὶ ἐπὶ πάντας τοὺς ἐνδεδυμένους ἐνδύματα ἀλλότρια ·",
+        "VUL": "et super omnes , qui indúti sunt veste peregrína :",
+        "SP": null,
+        "KJV": "and all such as are clothed with strange apparel .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the same day also will I punish all those that leap on the threshold",
+      "traditions": {
+        "WLC": "וּ פָקַדְתִּ֗י עַ֧ל כָּל הַ דּוֹלֵ֛ג עַל הַ מִּפְתָּ֖ן בַּ יּ֣וֹם הַ ה֑וּא",
+        "LXX": "καὶ ἐκδικήσω ἐμφανῶς ἐπὶ τὰ πρόπυλα ἐν ἐκείνῃ τῇ ἡμέρᾳ ,",
+        "VUL": "et visitábo super omnem , qui arrogánter ingréditur super limen in die illa :",
+        "SP": null,
+        "KJV": "In the same day also will I punish all those that leap on the threshold ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which fill their masters ’ houses with violence and deceit",
+      "traditions": {
+        "WLC": "הַֽ מְמַלְאִ֛ים בֵּ֥ית אֲדֹנֵי הֶ֖ם חָמָ֥ס וּ מִרְמָֽה",
+        "LXX": "τοὺς πληροῦντας τὸν οἶκον Κυρίου θεοῦ αὐτῶν ἀσεβείας καὶ δόλου .",
+        "VUL": "qui complent domum Dómini Dei sui iniquitáte , et dolo .",
+        "SP": null,
+        "KJV": "which fill their masters ’ houses with violence and deceit .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass in that day , saith the LORD",
+      "traditions": {
+        "WLC": "וְ הָיָה֩ בַ יּ֨וֹם הַ ה֜וּא נְאֻם יְהוָ֗ה",
+        "LXX": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ , λέγει Κύριος ,",
+        "VUL": "Et erit in die illa , dicit Dóminus ,",
+        "SP": null,
+        "KJV": "And it shall come to pass in that day , saith the LORD , [ that there shall be ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the noise of a cry from the fish gate",
+      "traditions": {
+        "WLC": "ק֤וֹל צְעָקָה֙ מִ שַּׁ֣עַר הַ דָּגִ֔ים",
+        "LXX": "φωνὴ κραυγῆς ἀπὸ πύλης ἀποκεντούντων ,",
+        "VUL": "vox clamóris a porta píscium ,",
+        "SP": null,
+        "KJV": "the noise of a cry from the fish gate ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and an howling from the second",
+      "traditions": {
+        "WLC": "וִֽ ילָלָ֖ה מִן הַ מִּשְׁנֶ֑ה",
+        "LXX": "καὶ ὀλολυγμὸς ἀπὸ τῆς δευτέρας ,",
+        "VUL": "et ululátus a Secúnda ,",
+        "SP": null,
+        "KJV": "and an howling from the second ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and a great crashing from the hills",
+      "traditions": {
+        "WLC": "וְ שֶׁ֥בֶר גָּד֖וֹל מֵ הַ גְּבָעֽוֹת",
+        "LXX": "καὶ συντριμμὸς μέγας ἀπὸ τῶν βουνῶν .",
+        "VUL": "et contrítio magna a cóllibus .",
+        "SP": null,
+        "KJV": "and a great crashing from the hills .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Howl , ye inhabitants of Maktesh",
+      "traditions": {
+        "WLC": "הֵילִ֖ילוּ יֹשְׁבֵ֣י הַ מַּכְתֵּ֑שׁ",
+        "LXX": "θρηνήσατε , οἱ κατοικοῦντες τὴν κατακεκομμένην ,",
+        "VUL": "Ululáte habitatóres Pilæ :",
+        "SP": null,
+        "KJV": "Howl , ye inhabitants of Maktesh ,",
+        "DSS": "[ ה ] מ#כ#ת#ש#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for all the merchant people are cut down",
+      "traditions": {
+        "WLC": "כִּ֤י נִדְמָה֙ כָּל עַ֣ם כְּנַ֔עַן",
+        "LXX": "ὅτι ὡμοιώθη πᾶς ὁ λαὸς Χανάαν ,",
+        "VUL": "contícuit omnis pópulus Chánaan ,",
+        "SP": null,
+        "KJV": "for all the merchant people are cut down ;",
+        "DSS": "כי נדמה כל ע#ם כנ?ע##ן?"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "all they that bear silver are cut off",
+      "traditions": {
+        "WLC": "נִכְרְת֖וּ כָּל נְטִ֥ילֵי כָֽסֶף",
+        "LXX": "ἐξωλεθρεύθησαν πάντες οἱ ἐπηρμένοι ἀργυρίῳ .",
+        "VUL": "disperiérunt omnes involúti argénto .",
+        "SP": null,
+        "KJV": "all they that bear silver are cut off .",
+        "DSS": "נ#?[ כרתו כל נטילי כסף ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass at that time",
+      "traditions": {
+        "WLC": "וְ הָיָה֙ בָּ עֵ֣ת הַ הִ֔יא",
+        "LXX": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ",
+        "VUL": "Et erit in témpore illo :",
+        "SP": null,
+        "KJV": "And it shall come to pass at that time , [ that ]",
+        "DSS": "ו היה ב עת ה היא ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will search Jerusalem with candles",
+      "traditions": {
+        "WLC": "אֲחַפֵּ֥שׂ אֶת יְרוּשָׁלִַ֖ם בַּ נֵּר֑וֹת",
+        "LXX": "ἐξερευνήσω τὴν Ἰερυσαλὴμ μετὰ λύχνου ,",
+        "VUL": "scrutábor Ierúsalem in lucérnis ,",
+        "SP": null,
+        "KJV": "I will search Jerusalem with candles ,",
+        "DSS": "אח#פש את ירושלם# ב# נרות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and punish the men that are settled on their lees",
+      "traditions": {
+        "WLC": "וּ פָקַדְתִּ֣י עַל הָ אֲנָשִׁ֗ים הַ קֹּֽפְאִים֙ עַל שִׁמְרֵי הֶ֔ם",
+        "LXX": "καὶ ἐκδικήσω ἐπὶ τοὺς ἄνδρας τοὺς καταφρονοῦντας ἐπὶ τὰ φυλάγματα αὐτῶν ·",
+        "VUL": "et visitábo super viros defíxos in fǽcibus suis :",
+        "SP": null,
+        "KJV": "and punish the men that are settled on their lees :",
+        "DSS": "[ ו פקדתי על ה אנשים ה קפאים על שמרי׳הם ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that say in their heart , The LORD will not do good , neither will he do evil",
+      "traditions": {
+        "WLC": "הָ אֹֽמְרִים֙ בִּ לְבָבָ֔ ם לֹֽא יֵיטִ֥יב יְהוָ֖ה וְ לֹ֥א יָרֵֽעַ",
+        "LXX": "οἱ δὲ λέγοντες ἐν ταῖς καρδίαις αὐτῶν Οὐ μὴ ἀγαθοποιήσῃ Κύριος οὐδὲ μὴ κακώσῃ ,",
+        "VUL": "qui dicunt in córdibus suis : Non fáciet bene Dóminus , et non fáciet male .",
+        "SP": null,
+        "KJV": "that say in their heart , The LORD will not do good , neither will he do evil .",
+        "DSS": "ה אמר#[ ים ] ב## לב#ב׳ם# ל##א## ייטיב יהו?ה# ו? ל#א##[ ירע ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore their goods shall become a booty",
+      "traditions": {
+        "WLC": "וְ הָיָ֤ה חֵילָ ם֙ לִ מְשִׁסָּ֔ה",
+        "LXX": "καὶ ἔσται ἡ δύναμις αὐτῶν εἰς διαρπαγήν ,",
+        "VUL": "Et erit fortitúdo eórum in direptiónem ,",
+        "SP": null,
+        "KJV": "Therefore their goods shall become a booty ,",
+        "DSS": "ו היה חיל׳ם ל משסה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and their houses a desolation",
+      "traditions": {
+        "WLC": "וּ בָתֵּי הֶ֖ם לִ שְׁמָמָ֑ה",
+        "LXX": "καὶ οἱ οἶκοι αὐτῶν εἰς ἀφανισμόν ·",
+        "VUL": "et domus eórum in desértum :",
+        "SP": null,
+        "KJV": "and their houses a desolation :",
+        "DSS": "ו בתי׳הם ] ל שממה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they shall also build houses , but not inhabit [ them ]",
+      "traditions": {
+        "WLC": "וּ בָנ֤וּ בָתִּים֙ וְ לֹ֣א יֵשֵׁ֔בוּ",
+        "LXX": "καὶ οἰκοδομήσουσιν οἰκίας καὶ οὐ μὴ κατοικήσουσιν ἐν αὐταῖς ,",
+        "VUL": "et ædificábunt domos , et non habitábunt :",
+        "SP": null,
+        "KJV": "they shall also build houses , but not inhabit [ them ] ;",
+        "DSS": "ו#? ב##נ#?ו#? ב##[ תים ו ] ל##[ א י ]שבו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they shall plant vineyards , but not drink the wine thereof",
+      "traditions": {
+        "WLC": "וְ נָטְע֣וּ כְרָמִ֔ים וְ לֹ֥א יִשְׁתּ֖וּ אֶת יֵינָֽ ם",
+        "LXX": "καὶ καταφυτεύσουσιν ἀμπελῶνας καὶ οὐ μὴ πίωσιν τὸν οἶνον αὐτῶν .",
+        "VUL": "et plantábunt víneas , et non bibent vinum eárum .",
+        "SP": null,
+        "KJV": "and they shall plant vineyards , but not drink the wine thereof .",
+        "DSS": "ו#? [ נטעו כרמים ו לא ישתו את יינ׳ם ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "The great day of the LORD [ is ] near",
+      "traditions": {
+        "WLC": "קָר֤וֹב יוֹם יְהוָה֙ הַ גָּד֔וֹל",
+        "LXX": "Ὅτι ἐγγὺς ἡμέρα Κυρίου ἡ μεγάλη ,",
+        "VUL": "Iuxta est dies Dómini magnus :",
+        "SP": null,
+        "KJV": "The great day of the LORD [ is ] near , [",
+        "DSS": "קרוב ] [ יום יהוה ]ה## גד#[ ול ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it is near , and hasteth greatly",
+      "traditions": {
+        "WLC": "קָר֖וֹב וּ מַהֵ֣ר מְאֹ֑ד",
+        "LXX": "ἐγγὺς καὶ ταχεῖα σφόδρα ·",
+        "VUL": "iuxta est , et velox nimis :",
+        "SP": null,
+        "KJV": "it is ] near , and hasteth greatly , [",
+        "DSS": "ק#ר#ו?ב# ו#? מ##[ הר מאד"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "even the voice of the day of the LORD",
+      "traditions": {
+        "WLC": "ק֚וֹל י֣וֹם יְהוָ֔ה",
+        "LXX": "φωνὴ ἡμέρας Κυρίου πικρὰ καὶ σκληρὰ τέτακται ,",
+        "VUL": "vox diéi Dómini amára ,",
+        "SP": null,
+        "KJV": "even ] the voice of the day of the LORD :",
+        "DSS": "קול יום יהוה מר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the mighty man shall cry there bitterly",
+      "traditions": {
+        "WLC": "מַ֥ר צֹרֵ֖חַ שָׁ֥ם גִּבּֽוֹר",
+        "LXX": "δυνατή .",
+        "VUL": "tribulábitur ibi fortis .",
+        "SP": null,
+        "KJV": "the mighty man shall cry there bitterly .",
+        "DSS": "צרח שם ] [ גבור ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "That day [ is ] a day of wrath",
+      "traditions": {
+        "WLC": "י֥וֹם עֶבְרָ֖ה הַ יּ֣וֹם הַ ה֑וּא",
+        "LXX": "ἡμέρα ὀργῆς , ἡ ἡμέρα ἐκείνη ,",
+        "VUL": "Dies iræ dies illa ,",
+        "SP": null,
+        "KJV": "That day [ is ] a day of wrath ,",
+        "DSS": "יום ]עב##רה# [ ה יו ]ם## [ ה ה ]ו#?א"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "a day of trouble and distress",
+      "traditions": {
+        "WLC": "י֧וֹם צָרָ֣ה וּ מְצוּקָ֗ה",
+        "LXX": "ἡμέρα θλίψεως καὶ ἀνάγκης ,",
+        "VUL": "dies tribulatiónis et angústiæ ,",
+        "SP": null,
+        "KJV": "a day of trouble and distress ,",
+        "DSS": "[ יום צרה ו מצוקה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a day of wasteness and desolation",
+      "traditions": {
+        "WLC": "י֤וֹם שֹׁאָה֙ וּ מְשׁוֹאָ֔ה",
+        "LXX": "ἡμέρα ἀωρίας καὶ ἀφανισμοῦ ,",
+        "VUL": "dies calamitátis et misériæ ,",
+        "SP": null,
+        "KJV": "a day of wasteness and desolation ,",
+        "DSS": "יום שאה ו משואה ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "a day of darkness and gloominess",
+      "traditions": {
+        "WLC": "י֥וֹם חֹ֨שֶׁךְ֙ וַ אֲפֵלָ֔ה",
+        "LXX": "ἡμέρα σκότους καὶ γνόφου ,",
+        "VUL": "dies tenebrárum et calíginis ,",
+        "SP": null,
+        "KJV": "a day of darkness and gloominess ,",
+        "DSS": "[ יום חשך ו אפלה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "a day of clouds and thick darkness",
+      "traditions": {
+        "WLC": "י֥וֹם עָנָ֖ן וַ עֲרָפֶֽל",
+        "LXX": "ἡμέρα νεφέλης καὶ ὁμίχλης ,",
+        "VUL": "dies nébulæ et túrbinis ,",
+        "SP": null,
+        "KJV": "a day of clouds and thick darkness ,",
+        "DSS": "יום ענן ו ] ע##ר##פ##ל ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "A day of the trumpet and alarm",
+      "traditions": {
+        "WLC": "י֥וֹם שׁוֹפָ֖ר וּ תְרוּעָ֑ה",
+        "LXX": "ἡμέρα σάλπιγγος καὶ κραυγῆς",
+        "VUL": "dies tubæ et clangóris",
+        "SP": null,
+        "KJV": "A day of the trumpet and alarm",
+        "DSS": "י?ו?ם ש#ופר [ ו ] ת#ר##ועה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "against the fenced cities",
+      "traditions": {
+        "WLC": "עַ֚ל הֶ עָרִ֣ים הַ בְּצֻר֔וֹת",
+        "LXX": "ἐπὶ τὰς πόλεις τὰς ὀχυρὰς",
+        "VUL": "super civitátes munítas ,",
+        "SP": null,
+        "KJV": "against the fenced cities ,",
+        "DSS": "[ על ה ערים ה בצרות ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and against the high towers",
+      "traditions": {
+        "WLC": "וְ עַ֖ל הַ פִּנּ֥וֹת הַ גְּבֹהֽוֹת",
+        "LXX": "καὶ ἐπὶ τὰς γωνίας τὰς ὑψηλάς .",
+        "VUL": "et super ángulos excélsos .",
+        "SP": null,
+        "KJV": "and against the high towers .",
+        "DSS": "[ ו על ה פנות ה גבהות ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will bring distress upon men",
+      "traditions": {
+        "WLC": "וַ הֲצֵרֹ֣תִי לָ אָדָ֗ם",
+        "LXX": "καὶ ἐκθλίψω τοὺς ἀνθρώπους ,",
+        "VUL": "Et tribulábo hómines ,",
+        "SP": null,
+        "KJV": "And I will bring distress upon men ,",
+        "DSS": "ו הצר ]תי ל אד#ם##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that they shall walk like blind men",
+      "traditions": {
+        "WLC": "וְ הָֽלְכוּ֙ כַּֽ עִוְרִ֔ים",
+        "LXX": "καὶ πορεύσονται ὡς τυφλοί ,",
+        "VUL": "et ambulábunt ut cæci ,",
+        "SP": null,
+        "KJV": "that they shall walk like blind men ,",
+        "DSS": "ו#? ה#לכו כ## [ עורים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because they have sinned against the LORD",
+      "traditions": {
+        "WLC": "כִּ֥י לַֽ יהוָ֖ה חָטָ֑אוּ",
+        "LXX": "ὅτι τῷ κυρίῳ ἐξήμαρτον ·",
+        "VUL": "quia Dómino peccavérunt :",
+        "SP": null,
+        "KJV": "because they have sinned against the LORD :",
+        "DSS": "כי ל י ]ה##[ וה ] ח##ט##[ או"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and their blood shall be poured out as dust",
+      "traditions": {
+        "WLC": "וְ שֻׁפַּ֤ךְ דָּמָ ם֙ כֶּֽ עָפָ֔ר",
+        "LXX": "καὶ ἐκχεεῖ τὸ αἷμα αὐτῶν ὡς χοῦν ,",
+        "VUL": "et effundétur sanguis eórum sicut humus ,",
+        "SP": null,
+        "KJV": "and their blood shall be poured out as dust ,",
+        "DSS": "ו שפך ] [ דמ׳ם כ עפר ו ]"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and their flesh as the dung",
+      "traditions": {
+        "WLC": "וּ לְחֻמָ֖ ם כַּ גְּלָלִֽים",
+        "LXX": "καὶ τὰς σάρκας αὐτῶν ὡς βόλβιτα ·",
+        "VUL": "et córpora eórum sicut stércora .",
+        "SP": null,
+        "KJV": "and their flesh as the dung .",
+        "DSS": "לחמ׳ם כ ג?לל[ י ]ם## ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither their silver nor their gold shall be able to deliver them in the day of the LORD ’S wrath",
+      "traditions": {
+        "WLC": "גַּם כַּסְפָּ֨ ם גַּם זְהָבָ֜ ם לֹֽא יוּכַ֣ל לְ הַצִּילָ֗ ם בְּ יוֹם֙ עֶבְרַ֣ת יְהוָ֔ה",
+        "LXX": "καὶ τὸ ἀργύριον αὐτῶν καὶ τὸ χρυσίον αὐτῶν οὐ μὴ δύνηται ἐξελέσθαι αὐτοὺς ἐν ἡμέρᾳ ὀργῆς Κυρίου .",
+        "VUL": "Sed et argéntum eórum , et aurum eórum non póterit liberáre eos in die iræ Dómini :",
+        "SP": null,
+        "KJV": "Neither their silver nor their gold shall be able to deliver them in the day of the LORD ’S wrath ;",
+        "DSS": "ג?ם# כספ׳ם גמ זה#ב##׳[ ם לא יוכל ל הציל׳ם ב יום ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the whole land shall be devoured by the fire of his jealousy",
+      "traditions": {
+        "WLC": "וּ בְ אֵשׁ֙ קִנְאָת֔ וֹ תֵּאָכֵ֖ל כָּל הָ אָ֑רֶץ",
+        "LXX": "καὶ ἐν πυρί ζήλους αὐτοῦ καταναλωθήσεται πᾶσα ἡ γῆ ,",
+        "VUL": "in igne zeli eius devorábitur omnis terra ,",
+        "SP": null,
+        "KJV": "but the whole land shall be devoured by the fire of his jealousy :",
+        "DSS": "[ עבר ]ת## י?ה#ו?ה# ו ב א##ש ק##נאת׳ו תא##[ כ ]ל כל ה ארץ"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for he shall make even a speedy riddance of all them that dwell in the land",
+      "traditions": {
+        "WLC": "כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י הָ אָֽרֶץ",
+        "LXX": "διότι συντέλειαν καὶ σπουδὴν ποιήσει ἐπὶ πάντας τούς κατοικοῦντας τὴν γῆν .",
+        "VUL": "quia consummatiónem cum festinatióne fáciet cunctis habitántibus terram .",
+        "SP": null,
+        "KJV": "for he shall make even a speedy riddance of all them that dwell in the land .",
+        "DSS": "כ##[ י כלה אך נבהלה יעשה ] את כל יש#ב#י ה אר#[ ץ ׃"
+      }
+    }
+  ]
+}

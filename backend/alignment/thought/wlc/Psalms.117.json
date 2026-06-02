@@ -1,0 +1,78 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "Ἁλληλουιά .",
+        "VUL": "Allelúia .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O praise the LORD , all ye nations",
+      "traditions": {
+        "WLC": "הַֽלְל֣וּ אֶת יְ֭הוָה כָּל גּוֹיִ֑ם",
+        "LXX": "Αἰνεῖτε τὸν κύριον , πάντα τὰ ἔθνη ,",
+        "VUL": "Laudáte Dóminum omnes gentes :",
+        "SP": null,
+        "KJV": "O praise the LORD , all ye nations :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "praise him , all ye people",
+      "traditions": {
+        "WLC": "שַׁ֝בְּח֗וּ הוּ כָּל הָ אֻמִּֽים",
+        "LXX": "αἰνεσάτωσαν αὐτὸν πάντες οἱ λαοί ·",
+        "VUL": "laudáte eum omnes pópuli :",
+        "SP": null,
+        "KJV": "praise him , all ye people .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "For his merciful kindness is great toward us",
+      "traditions": {
+        "WLC": "כִּ֥י גָ֘בַ֤ר עָלֵ֨י נוּ חַסְדּ֗ וֹ",
+        "LXX": "ὅτι ἐκραταιώθη τὸ ἔλεος αὐτοῦ ἐφ᾽ ἡμᾶς ,",
+        "VUL": "quóniam confirmáta est super nos misericórdia eius :",
+        "SP": null,
+        "KJV": "For his merciful kindness is great toward us :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the truth of the LORD [ endureth ] for ever",
+      "traditions": {
+        "WLC": "וֶֽ אֱמֶת יְהוָ֥ה לְ עוֹלָ֗ם",
+        "LXX": "καὶ ἡ ἀλήθεια τοῦ κυρίου μένει εἰς τὸν αἰῶνα .",
+        "VUL": "et véritas Dómini manet in ætérnum .",
+        "SP": null,
+        "KJV": "and the truth of the LORD [ endureth ] for ever .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Praise ye the LORD",
+      "traditions": {
+        "WLC": "הַֽלְלוּ יָֽהּ",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "Praise ye the LORD .",
+        "DSS": null
+      }
+    }
+  ]
+}

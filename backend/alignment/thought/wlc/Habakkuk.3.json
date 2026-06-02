@@ -1,0 +1,832 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "A prayer of Habakkuk the prophet upon Shigionoth .",
+      "traditions": {
+        "WLC": "תְּפִלָּ֖ה לַ חֲבַקּ֣וּק הַ נָּבִ֑יא עַ֖ל שִׁגְיֹנֽוֹת",
+        "LXX": "Προσευχὴ Ἁμβακοὺμ τοῦ προφήτου μετὰ ᾠδῆς .",
+        "VUL": "Orátio Hábacuc prophétæ , pro ignorántiis .",
+        "SP": null,
+        "KJV": "A prayer of Habakkuk the prophet upon Shigionoth .",
+        "DSS": "[Mur88] תפלה ל ח#בק##וק ה נ?ביא## ע#ל## [ שגי ]נ?ו#?ת## ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "O LORD , I have heard thy speech , [ and ] was afraid :",
+      "traditions": {
+        "WLC": "יְהוָ֗ה שָׁמַ֣עְתִּי שִׁמְעֲ ךָ֮ יָרֵאתִי֒",
+        "LXX": "Κύριε , εἰσακήκοα τὴν ἀκοήν σου , καὶ ἐφοβήθην ·",
+        "VUL": "Dómine audívi auditiónem tuam , et tímui .",
+        "SP": null,
+        "KJV": "O LORD , I have heard thy speech , [ and ] was afraid :",
+        "DSS": "[Mur88] י#?הוה שמעתי ש#מ##ע##׳ך# י?ראתי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O LORD , revive thy work in the midst of the years ,",
+      "traditions": {
+        "WLC": "יְהוָ֗ה פָּֽעָלְ ךָ֙ בְּ קֶ֤רֶב שָׁנִים֙ חַיֵּ֔י הוּ",
+        "LXX": "κατενόησα τὰ ἔργα σου , καὶ ἐξέστην .",
+        "VUL": "Dómine opus tuum in médio annórum vivífica illud :",
+        "SP": null,
+        "KJV": "O LORD , revive thy work in the midst of the years ,",
+        "DSS": "יהוה פע[ ל׳ך ] ב קרב שנים חיי׳הו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "in the midst of the years make known ;",
+      "traditions": {
+        "WLC": "בְּ קֶ֥רֶב שָׁנִ֖ים תּוֹדִ֑יעַ",
+        "LXX": "ἐν μέσῳ δύο ζῴων γνωσθήσῃ , ἐν τῷ ἐγγίζειν τὰ ἔτη ἐπιγνωσθήσῃ ·",
+        "VUL": "in médio annórum notum fácies :",
+        "SP": null,
+        "KJV": "in the midst of the years make known ;",
+        "DSS": "ב ק#רב שנים# ת#[ ודי ]ע##"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "in wrath remember mercy .",
+      "traditions": {
+        "WLC": "בְּ רֹ֖גֶז רַחֵ֥ם תִּזְכּֽוֹר",
+        "LXX": "ἐν τῷ παρεῖναι τὸν καιρὸν ἀναδειχθήσῃ · ἐν τῷ ταραχθῆναι τὴν ψυχήν μου ἐν ὀργῇ ἐλέους μνησθήσῃ .",
+        "VUL": "cum irátus fúeris , misericórdiæ recordáberis .",
+        "SP": null,
+        "KJV": "in wrath remember mercy .",
+        "DSS": "ב רג?ז [ ר ]חם# ת#ז(# כ #)[ ו ]ר# ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "God came from Teman ,",
+      "traditions": {
+        "WLC": "אֱל֨וֹהַ֙ מִ תֵּימָ֣ן",
+        "LXX": "ὁ θεὸς ἐκ Θαιμὰν ἥξει ,",
+        "VUL": "Deus ab austro véniet ,",
+        "SP": null,
+        "KJV": "God came from Teman ,",
+        "DSS": "[Mur88] אלוה מ תימן י#?[ ב ]ו(# א #)"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the Holy One from mount Paran .",
+      "traditions": {
+        "WLC": "יָב֔וֹא וְ קָד֥וֹשׁ מֵֽ הַר פָּארָ֖ן",
+        "LXX": "καὶ ὁ ἅγιος ἐξ ὄρους Φαρὰν κατασκίου δασέος .",
+        "VUL": "et sanctus de monte Pharan :",
+        "SP": null,
+        "KJV": "and the Holy One from mount Paran .",
+        "DSS": "ו קדוש מ הר פארן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Selah .",
+      "traditions": {
+        "WLC": "סֶ֑לָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": "סל#[ ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "His glory covered the heavens ,",
+      "traditions": {
+        "WLC": "כִּסָּ֤ה שָׁמַ֨יִם֙ הוֹד֔ וֹ",
+        "LXX": "ἐκάλυψεν οὐρανοὺς ἡ ἀρετὴ αὐτοῦ ,",
+        "VUL": "opéruit cælos glória eius :",
+        "SP": null,
+        "KJV": "His glory covered the heavens ,",
+        "DSS": "כס ]ה## שמים# ה##ו#?ד##׳ו?"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and the earth was full of his praise .",
+      "traditions": {
+        "WLC": "וּ תְהִלָּת֖ וֹ מָלְאָ֥ה הָ אָֽרֶץ",
+        "LXX": "καὶ αἰνέσεως αὐτοῦ πλήρης ἡ γῆ .",
+        "VUL": "et laudis eius plena est terra .",
+        "SP": null,
+        "KJV": "and the earth was full of his praise .",
+        "DSS": "ו תהלת##׳ו מלאה ה ארץ ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And [ his ] brightness was as the light ;",
+      "traditions": {
+        "WLC": "וְ נֹ֨גַהּ֙ כָּ א֣וֹר תִּֽהְיֶ֔ה",
+        "LXX": "καὶ φέγγος αὐτοῦ ὡς φῶς ἔσται ·",
+        "VUL": "Splendor eius ut lux erit :",
+        "SP": null,
+        "KJV": "And [ his ] brightness was as the light ;",
+        "DSS": "[Mur88] ו נג#?ה## כ## אור תהיה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he had horns [ coming ] out of his hand :",
+      "traditions": {
+        "WLC": "קַרְנַ֥יִם מִ יָּד֖ וֹ ל֑ וֹ",
+        "LXX": "κέρατα ἐν χερσὶν αὐτοῦ ,",
+        "VUL": "córnua in mánibus eius :",
+        "SP": null,
+        "KJV": "he had horns [ coming ] out of his hand :",
+        "DSS": "קר[ נ ]ים מ יד##׳[ ו ל׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and there [ was ] the hiding of his power .",
+      "traditions": {
+        "WLC": "וְ שָׁ֖ם חֶבְי֥וֹן עֻזֹּֽ ה",
+        "LXX": "καὶ ἔθετο ἀγάπησιν κραταιὰν ἰσχύος αὐτοῦ .",
+        "VUL": "ibi abscóndita est fortitúdo eius :",
+        "SP": null,
+        "KJV": "and there [ was ] the hiding of his power .",
+        "DSS": "ו שם חביו ]ן ע#ז(# ׳ה #) ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Before him went the pestilence ,",
+      "traditions": {
+        "WLC": "לְ פָנָ֖י ו יֵ֣לֶךְ דָּ֑בֶר",
+        "LXX": "πρὸ προσώπου αὐτοῦ πορεύσεται λόγος ,",
+        "VUL": "ante fáciem eius ibit mors .",
+        "SP": null,
+        "KJV": "Before him went the pestilence ,",
+        "DSS": "[Mur88] ל פני׳ו#? ילך דבר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and burning coals went forth at his feet .",
+      "traditions": {
+        "WLC": "וְ יֵצֵ֥א רֶ֖שֶׁף לְ רַגְלָֽי ו",
+        "LXX": "καὶ ἐξελεύσεται εἰς πεδία κατὰ πόδας αὐτοῦ .",
+        "VUL": "Et egrediétur diábolus ante pedes eius .",
+        "SP": null,
+        "KJV": "and burning coals went forth at his feet .",
+        "DSS": "ו יצא ר#שף ל## ר#גל[ י׳ו ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "He stood , and measured the earth :",
+      "traditions": {
+        "WLC": "עָמַ֣ד וַ יְמֹ֣דֶד אֶ֗רֶץ",
+        "LXX": "ἔστη , καὶ ἐσαλεύθη ἡ γῆ ·",
+        "VUL": "Stetit , et mensus est terram .",
+        "SP": null,
+        "KJV": "He stood , and measured the earth :",
+        "DSS": "[Mur88] ע ]מד# ו ימדד אר#[ ץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he beheld , and drove asunder the nations ;",
+      "traditions": {
+        "WLC": "רָאָה֙ וַ יַּתֵּ֣ר גּוֹיִ֔ם",
+        "LXX": "ἐπέβλεψεν , καὶ διετάκη ἔθνη ·",
+        "VUL": "Aspéxit , et dissólvit gentes :",
+        "SP": null,
+        "KJV": "he beheld , and drove asunder the nations ;",
+        "DSS": "ראה ו יתר גוים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the everlasting mountains were scattered ,",
+      "traditions": {
+        "WLC": "וַ יִּתְפֹּֽצְצוּ֙ הַרְרֵי עַ֔ד",
+        "LXX": "διεθρύβη τὰ ὄρη βίᾳ ,",
+        "VUL": "et contríti sunt montes sǽculi .",
+        "SP": null,
+        "KJV": "and the everlasting mountains were scattered ,",
+        "DSS": " ]ו יתפצצ##ו הרר#י ע##ד"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the perpetual hills did bow :",
+      "traditions": {
+        "WLC": "שַׁח֖וּ גִּבְע֣וֹת עוֹלָ֑ם",
+        "LXX": "ἐτάκησαν βουνοὶ αἰώνιοι",
+        "VUL": "Incurváti sunt colles mundi ,",
+        "SP": null,
+        "KJV": "the perpetual hills did bow :",
+        "DSS": "שחו גבעות עולם"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "his ways [ are ] everlasting .",
+      "traditions": {
+        "WLC": "הֲלִיכ֥וֹת עוֹלָ֖ם לֽ וֹ",
+        "LXX": "πορείας αἰωνίας αὐτοῦ .",
+        "VUL": "ab itinéribus æternitátis eius .",
+        "SP": null,
+        "KJV": "his ways [ are ] everlasting .",
+        "DSS": "ה[ לי ]כ##ות עולם#[  ל׳ו ] ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "I saw the tents of Cushan in affliction :",
+      "traditions": {
+        "WLC": "תַּ֣חַת אָ֔וֶן רָאִ֖יתִי אָהֳלֵ֣י כוּשָׁ֑ן",
+        "LXX": "ἀντὶ κόπων εἶδον σκηνώματα Αἰθιόπων ·",
+        "VUL": "Pro iniquitáte vidi tentória Æthiópiæ ,",
+        "SP": null,
+        "KJV": "I saw the tents of Cushan in affliction : [ and ]",
+        "DSS": "[Mur88] תח#[ ת ] א#ו?ן רא이?תי? א#ה##[ לי ] כ##ו#?ש##ן?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ and ] the curtains of the land of Midian did tremble .",
+      "traditions": {
+        "WLC": "יִרְגְּז֕וּ ן יְרִיע֖וֹת אֶ֥רֶץ מִדְיָֽן",
+        "LXX": "πτοηθήσονται καὶ αἱ σκηναὶ γῆς Μαδιάμ .",
+        "VUL": "turbabúntur pelles terræ Mádian .",
+        "SP": null,
+        "KJV": "the curtains of the land of Midian did tremble .",
+        "DSS": "ירג?ز?و?׳[ ן يريع ]و?ت ארץ מדין ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Was the LORD displeased against the rivers ?",
+      "traditions": {
+        "WLC": "הֲ בִ נְהָרִים֙ חָרָ֣ה יְהוָ֔ה",
+        "LXX": "μὴ ἐν ποταμοῖς ὠργίσθης , Κύριε ?",
+        "VUL": "Numquid in flumínibus irátus es Dómine ?",
+        "SP": null,
+        "KJV": "Was the LORD displeased against the rivers ? [ was ]",
+        "DSS": "[Mur88] ה ב נ[ ה ]רים חרה# י#?הו?ה##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ was ] thine anger against the rivers ?",
+      "traditions": {
+        "WLC": "אִ֤ם בַּ נְּהָרִים֙ אַפֶּ֔ ךָ",
+        "LXX": "ἢ ἐν ποταμοῖς ὁ θυμός σου ?",
+        "VUL": "aut in flumínibus furor tuus ?",
+        "SP": null,
+        "KJV": "thine anger against the rivers ? [ was ]",
+        "DSS": "[ אם ] ב# נ#?ה##רים## א##פ׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ was ] thy wrath against the sea ,",
+      "traditions": {
+        "WLC": "אִם בַּ יָּ֖ם עֶבְרָתֶ֑ ךָ",
+        "LXX": "ἢ ἐν θαλάσσῃ τὸ ὅρμημά σου ?",
+        "VUL": "vel in mari indignátio tua ?",
+        "SP": null,
+        "KJV": "thy wrath against the sea ,",
+        "DSS": "א#ם## ב ים עברת׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that thou didst ride upon thine horses [ and ] thy chariots of salvation ?",
+      "traditions": {
+        "WLC": "כִּ֤י תִרְכַּב֙ עַל סוּסֶ֔י ךָ מַרְכְּבֹתֶ֖י ךָ יְשׁוּעָֽה",
+        "LXX": "ὅτι ἐπιβήσῃ ἐπὶ τοὺς ἵππους σου , καὶ ἡ ἱππασία σου σωτηρία .",
+        "VUL": "Qui ascéndes super equos tuos : et quadrígæ tuæ salvátio .",
+        "SP": null,
+        "KJV": "that thou didst ride upon thine horses [ and ] thy chariots of salvation ?",
+        "DSS": "כי תرכב ع##ل## س##وסי׳ך מרכב##و?תי?׳ך## ישועה ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy bow was made quite naked , [ according ] to the oaths of the tribes , [ even thy ] word .",
+      "traditions": {
+        "WLC": "עֶרְיָ֤ה תֵעוֹר֙ קַשְׁתֶּ֔ ךָ שְׁבֻע֥וֹת מַטּ֖וֹת אֹ֣מֶר",
+        "LXX": "ἐντείνων ἐνέτεινας τόξον σου ἐπὶ σκῆπτρα , λέγει Κύριος .",
+        "VUL": "Súscitans suscitábis arcum tuum : iuraménta tríbubus quæ locútus es :",
+        "SP": null,
+        "KJV": "Thy bow was made quite naked , [ according ] to the oaths of the tribes , [ even thy ] word .",
+        "DSS": "[Mur88] ע##ر##[ יה תעو ]ر## קשת׳ך# שבעות מטות אמ##ر#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Selah .",
+      "traditions": {
+        "WLC": "סֶ֑לָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": "סלה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Thou didst cleave the earth with rivers .",
+      "traditions": {
+        "WLC": "נְהָר֖וֹת תְּבַקַּע אָֽרֶץ",
+        "LXX": "ποταμῶν ῥαγήσεται γῆ ,",
+        "VUL": "flúvios scindes terræ :",
+        "SP": null,
+        "KJV": "Thou didst cleave the earth with rivers .",
+        "DSS": "נהרות תבקע ארץ# ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "The mountains saw thee , [ and ] they trembled :",
+      "traditions": {
+        "WLC": "רָא֤וּ ךָ יָחִ֨ילוּ֙ הָרִ֔ים",
+        "LXX": "ὄψονταί σε καὶ ὠδινήσουσιν λαοί .",
+        "VUL": "vidérunt te , et doluérunt montes :",
+        "SP": null,
+        "KJV": "The mountains saw thee , [ and ] they trembled :",
+        "DSS": "[Mur88] [ ראו ]׳ך# יחילו הרים#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the overflowing of the water passed by :",
+      "traditions": {
+        "WLC": "זֶ֥רֶם מַ֖יִם עָבָ֑ר",
+        "LXX": "σκορπίζων ὕδατα πορείας ·",
+        "VUL": "gurges aquárum tránsiit .",
+        "SP": null,
+        "KJV": "the overflowing of the water passed by :",
+        "DSS": "זרמו מים עבות#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the deep uttered his voice ,",
+      "traditions": {
+        "WLC": "נָתַ֤ן תְּהוֹם֙ קוֹל֔ וֹ",
+        "LXX": "ἔδωκεν ἡ ἄβυσσος φωνὴν αὐτῆς ,",
+        "VUL": "Dedit abýssus vocem suam :",
+        "SP": null,
+        "KJV": "the deep uttered his voice , [ and ]",
+        "DSS": "נתן? תהו?ם קול׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ and ] lifted up his hands on high .",
+      "traditions": {
+        "WLC": "ר֖וֹם יָדֵ֥י הוּ נָשָֽׂא",
+        "LXX": "ὕψος φαντασίας αὐτῆς .",
+        "VUL": "altitúdo manus suas levávit .",
+        "SP": null,
+        "KJV": "lifted up his hands on high .",
+        "DSS": "רום יד##י?׳הו נשא ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "The sun [ and ] moon stood still in their habitation",
+      "traditions": {
+        "WLC": "שֶׁ֥מֶשׁ יָרֵ֖חַ עָ֣מַד זְבֻ֑לָ ה",
+        "LXX": "ἐπήρθη ὁ ἥλιος , καὶ ἡ σελήνη ἔστη ἐν τῇ τάξει αὐτῆς ·",
+        "VUL": "Sol , et luna stetérunt in habitáculo suo ,",
+        "SP": null,
+        "KJV": "The sun [ and ] moon stood still in their habitation :",
+        "DSS": "[Mur88] שמש [ יר ]ח## עמד זבו(# ל #)׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "at the light of thine arrows they went",
+      "traditions": {
+        "WLC": "לְ א֤וֹר חִצֶּ֨י ךָ֙ יְהַלֵּ֔כוּ",
+        "LXX": "εἰς φῶς βολίδες σου πορεὔσονται ,",
+        "VUL": "in luce sagittárum tuárum , ibunt",
+        "SP": null,
+        "KJV": "at the light of thine arrows they went , [",
+        "DSS": "ל# אור חצי׳ך י?הלכו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and at the shining of thy glittering spear",
+      "traditions": {
+        "WLC": "לְ נֹ֖גַהּ בְּרַ֥ק חֲנִיתֶֽ ךָ",
+        "LXX": "εἰς φέγγος ἀστραπῆς ὅπλων σου .",
+        "VUL": "in splendóre fulgurántis hastæ tuæ .",
+        "SP": null,
+        "KJV": "and ] at the shining of thy glittering spear .",
+        "DSS": "ל נגה ברק חנית׳ך ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou didst march through the land in indignation",
+      "traditions": {
+        "WLC": "בְּ זַ֖עַם תִּצְעַד אָ֑רֶץ",
+        "LXX": "ἐν ἀπειλῇ ὀλιγώσεις γῆν ,",
+        "VUL": "In frémitu conculcábis terram :",
+        "SP": null,
+        "KJV": "Thou didst march through the land in indignation ,",
+        "DSS": "[Mur88] ב## [ זע ]ם## [ ת ]צ##ע#ד אר#[ ץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou didst thresh the heathen in anger",
+      "traditions": {
+        "WLC": "בְּ אַ֖ף תָּד֥וּשׁ גּוֹיִֽם",
+        "LXX": "καὶ ἐν θυμῷ κατάξεις ἔθνη ·",
+        "VUL": "in furóre obstupefácies gentes .",
+        "SP": null,
+        "KJV": "thou didst thresh the heathen in anger .",
+        "DSS": "ב אף תד ]וש גו?י?ם# ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou wentest forth for the salvation of thy people",
+      "traditions": {
+        "WLC": "יָצָ֨אתָ֙ לְ יֵ֣שַׁע עַמֶּ֔ ךָ",
+        "LXX": "ἐξῆλθες εἰς σωτηρίαν λαοῦ σου ,",
+        "VUL": "Egréssus es in salútem pópuli tui :",
+        "SP": null,
+        "KJV": "Thou wentest forth for the salvation of thy people , [",
+        "DSS": "[Mur88] י?צ##את ל ישע עמ׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even for salvation with thine anointed",
+      "traditions": {
+        "WLC": "לְ יֵ֖שַׁע אֶת מְשִׁיחֶ֑ ךָ",
+        "LXX": "τοῦ σῶσαι τὸν χριστόν σου ·",
+        "VUL": "in salútem cum Christo tuo :",
+        "SP": null,
+        "KJV": "even ] for salvation with thine anointed ;",
+        "DSS": "[ ל י ]שע את משי#?ח##׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou woundedst the head out of the house of the wicked",
+      "traditions": {
+        "WLC": "מָחַ֤צְתָּ רֹּאשׁ֙ מִ בֵּ֣ית רָשָׁ֔ע",
+        "LXX": "βαλεῖς εἰς κεφαλὰς ἀνόμων θάνατον ,",
+        "VUL": "percussísti caput de domo ímpii :",
+        "SP": null,
+        "KJV": "thou woundedst the head out of the house of the wicked ,",
+        "DSS": "[ מחצת ] ר##אש מ## ב#[ ית רש ]ע"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "by discovering the foundation unto the neck",
+      "traditions": {
+        "WLC": "עָר֛וֹת יְס֥וֹד עַד צַוָּ֖אר",
+        "LXX": "ἐξήγειρας δεσμούς ἕως τραχήλου .",
+        "VUL": "denudásti fundaméntum eius usque ad collum .",
+        "SP": null,
+        "KJV": "by discovering the foundation unto the neck .",
+        "DSS": "ערות [ יסוד ] עד צ##ואר"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": "סלה ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou didst strike through with his staves the head of his villages",
+      "traditions": {
+        "WLC": "נָקַ֤בְתָּ בְ מַטָּי ו֙ רֹ֣אשׁ פרז",
+        "LXX": "διέκοψας ἐν ἐκστάσει κεφαλάς δυναστῶν ,",
+        "VUL": "Maledixísti sceptris eius , cápiti bellatórum eius ,",
+        "SP": null,
+        "KJV": "Thou didst strike through with his staves the head of his villages :",
+        "DSS": "[Mur88] נק##[ בת ב מטי ]׳ו#? ראש## פרז׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they came out as a whirlwind to scatter me",
+      "traditions": {
+        "WLC": "ו יִסְעֲר֖וּ לַ הֲפִיצֵ֑ נִי",
+        "LXX": "σεισθήσονται ἐν αὐτῇ · διανοίξουσιν χαλινοὺς αὐτῶν",
+        "VUL": "veniéntibus ut turbo ad dispergéndum me .",
+        "SP": null,
+        "KJV": "they came out as a whirlwind to scatter me :",
+        "DSS": "יס[ ער ]ו#? ל הפיצ׳ני"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "their rejoicing [ was ] as to devour the poor secretly",
+      "traditions": {
+        "WLC": "עֲלִ֣יצֻתָ֔ ם כְּמוֹ לֶ אֱכֹ֥ל עָנִ֖י בַּ מִּסְתָּֽר",
+        "LXX": "ὡς ἔσθων πτωχὸς λάθρα .",
+        "VUL": "Exsultátio eórum , sicut eius qui dévorat páuperem in abscóndito .",
+        "SP": null,
+        "KJV": "their rejoicing [ was ] as to devour the poor secretly .",
+        "DSS": "عלי(# צת׳ם #) כ#מ#ו? ל## [ אכו ]ל## ע##ני ב מסתר ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou didst walk through the sea with thine horses",
+      "traditions": {
+        "WLC": "דָּרַ֥כְתָּ בַ יָּ֖ם סוּסֶ֑י ךָ",
+        "LXX": "καὶ ἐπιβιβᾷς εἰς θάλασσαν τούς ἵππους σου",
+        "VUL": "Viam fecísti in mari equis tuis ,",
+        "SP": null,
+        "KJV": "Thou didst walk through the sea with thine horses , [",
+        "DSS": "[Mur88] ד#רכ##ת## [ ב ים סוסי׳ך ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "through the heap of great waters",
+      "traditions": {
+        "WLC": "חֹ֖מֶר מַ֥יִם רַבִּֽים",
+        "LXX": "ταράσσοντας ὕδωρ πολύ .",
+        "VUL": "in luto aquárum multárum .",
+        "SP": null,
+        "KJV": "through ] the heap of great waters .",
+        "DSS": "ח##מר [ מי ]ם# רבים ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "When I heard , my belly trembled",
+      "traditions": {
+        "WLC": "שָׁמַ֣עְתִּי וַ תִּרְגַּ֣ז בִּטְנִ֗ י",
+        "LXX": "ἐφυλαξάμην , καὶ ἐπτοήθη ἡ κοιλία μου",
+        "VUL": "Audívi , et conturbátus est venter meus :",
+        "SP": null,
+        "KJV": "When I heard , my belly trembled ;",
+        "DSS": "[Mur88] ש##מ#עת[ י ו תר ]ג?ز? בטנ׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "my lips quivered at the voice",
+      "traditions": {
+        "WLC": "לְ קוֹל֙ צָלֲל֣וּ שְׂפָתַ֔ י",
+        "LXX": "ἀπὸ φωνῆς προσευχῆς χειλέων μου ,",
+        "VUL": "a voce contremuérunt lábia mea .",
+        "SP": null,
+        "KJV": "my lips quivered at the voice :",
+        "DSS": "ل# [ קול ] צ##ללו שפת׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "rottenness entered into my bones",
+      "traditions": {
+        "WLC": "יָב֥וֹא רָקָ֛ב בַּ עֲצָמַ֖ י",
+        "LXX": "καὶ εἰσῆλθεν τρόμος εἰς τὰ ὀστᾶ μου ,",
+        "VUL": "Ingrediátur putrédo in óssibus meis ,",
+        "SP": null,
+        "KJV": "rottenness entered into my bones ,",
+        "DSS": "[ י ]בו[ א רקב ב עצמ ]׳ي"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and I trembled in myself",
+      "traditions": {
+        "WLC": "וְ תַחְתַּ֣ י אֶרְגָּ֑ז",
+        "LXX": "καὶ ὑποκάτωθέν μου ἐταράχθη ἡ ἕξις μου .",
+        "VUL": "et subter me scáteat .",
+        "SP": null,
+        "KJV": "and I trembled in myself ,",
+        "DSS": "و? ت#حت׳[ ي ] אר#ג[ ז"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "that I might rest in the day of trouble",
+      "traditions": {
+        "WLC": "אֲשֶׁ֤ר אָנ֨וּחַ֙ לְ י֣וֹם צָרָ֔ה",
+        "LXX": "ἀναπαύσομαι ἐν ἡμέρᾳ θλίψεως",
+        "VUL": "Ut requiéscam in die tribulatiónis :",
+        "SP": null,
+        "KJV": "that I might rest in the day of trouble :",
+        "DSS": "א ]שר א##נוח ل [ יום צרה"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "when he cometh up unto the people , he will invade them with his troops",
+      "traditions": {
+        "WLC": "לַ עֲל֖וֹת לְ עַ֥ם יְגוּדֶֽ נּוּ",
+        "LXX": "τοῦ ἀναβῆναι εἰς λαὸν παροικίας μου .",
+        "VUL": "ut ascéndam ad pópulum accínctum nostrum .",
+        "SP": null,
+        "KJV": "when he cometh up unto the people , he will invade them with his troops .",
+        "DSS": "ل עלות ]ل# ع#ם## [ يגו ]د׳نو ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Although the fig tree shall not blossom",
+      "traditions": {
+        "WLC": "כִּֽי תְאֵנָ֣ה לֹֽא תִפְרָ֗ח",
+        "LXX": "διότι συκῆ οὐ καρποφορήσει ,",
+        "VUL": "Ficus enim non florébit :",
+        "SP": null,
+        "KJV": "Although the fig tree shall not blossom ,",
+        "DSS": "[Mur88] [ כי ] ت#אנ[ ه ] ل#א## [ تفرח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither [ shall ] fruit [ be ] in the vines",
+      "traditions": {
+        "WLC": "וְ אֵ֤ין יְבוּל֙ בַּ גְּפָנִ֔ים",
+        "LXX": "καὶ οὐκ ἔσται γενήματα ἐν ταῖς ἀμπέλοις ·",
+        "VUL": "et non erit germen in víneis .",
+        "SP": null,
+        "KJV": "neither [ shall ] fruit [ be ] in the vines ;",
+        "DSS": "و اين يבול ب ] گ#?فن?[ ים ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the labour of the olive shall fail",
+      "traditions": {
+        "WLC": "כִּחֵשׁ֙ מַעֲשֵׂה זַ֔יִת",
+        "LXX": "ψεύσεται ἔργον ἐλαίας ,",
+        "VUL": "Mentiétur opus olívæ :",
+        "SP": null,
+        "KJV": "the labour of the olive shall fail ,",
+        "DSS": "ك#ح##ش## [ מעשה זית"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the fields shall yield no meat",
+      "traditions": {
+        "WLC": "וּ שְׁדֵמ֖וֹת לֹא עָ֣שָׂה אֹ֑כֶל",
+        "LXX": "καὶ τὰ πεδία οὐ ποιήσει βρῶσιν ·",
+        "VUL": "et arva non áfferent cibum .",
+        "SP": null,
+        "KJV": "and the fields shall yield no meat ;",
+        "DSS": "و שד ]م##و?ت# ل##א## עשה# אכל"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "the flock shall be cut off from the fold",
+      "traditions": {
+        "WLC": "גָּזַ֤ר מִ מִּכְלָה֙ צֹ֔אן",
+        "LXX": "ἐξέλιπεν ἀπὸ βρώσεως πρόβατα ,",
+        "VUL": "Abscindétur de ovíli pecus :",
+        "SP": null,
+        "KJV": "the flock shall be cut off from the fold ,",
+        "DSS": "گ#ز(# ر #) م# [ מכל ]ה## צאן#?"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and [ there shall be ] no herd in the stalls",
+      "traditions": {
+        "WLC": "וְ אֵ֥ין בָּקָ֖ר בָּ רְפָתִֽים",
+        "LXX": "καὶ οὐχ ὑπάρχουσιν βόες ἐπὶ φάτναις .",
+        "VUL": "et non erit arméntum in præsépibus .",
+        "SP": null,
+        "KJV": "and [ there shall be ] no herd in the stalls :",
+        "DSS": "[ و اين ب ]ك#ر ب ر#ف#ت#[ ים ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Yet I will rejoice in the LORD",
+      "traditions": {
+        "WLC": "וַ אֲנִ֖י בַּ יהוָ֣ה אֶעְל֑וֹזָה",
+        "LXX": "ἐγὼ δὲ ἐν τῷ κυρίῳ ἀγαλλιάσομαι ,",
+        "VUL": "Ego autem in Dómino gaudébo :",
+        "SP": null,
+        "KJV": "Yet I will rejoice in the LORD ,",
+        "DSS": "[Mur88] و אני ب יהוה אעלוזה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will joy in the God of my salvation",
+      "traditions": {
+        "WLC": "אָגִ֖ילָה בֵּ אלֹהֵ֥י יִשְׁעִֽ י",
+        "LXX": "χαρήσομαι ἐπὶ τῷ θεῷ τῷ σωτῆρί μου .",
+        "VUL": "et exsultábo in Deo Iesu meo .",
+        "SP": null,
+        "KJV": "I will joy in the God of my salvation .",
+        "DSS": "اگی ]לה# ب ا##[ ل ]הי ישע##׳ي#? ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD God [ is ] my strength",
+      "traditions": {
+        "WLC": "יְהוִ֤הּ אֲדֹנָ י֙ חֵילִ֔ י",
+        "LXX": "Κύριος ὁ θεὸς δύναμίς μου ,",
+        "VUL": "Deus Dóminus fortitúdo mea :",
+        "SP": null,
+        "KJV": "The LORD God [ is ] my strength ,",
+        "DSS": "[Mur88] יהוה א[ דני ] ח#ي#?ل׳ي?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he will make my feet like hinds ’ [ feet ]",
+      "traditions": {
+        "WLC": "וַ יָּ֤שֶׂם רַגְלַ י֙ כָּֽ אַיָּל֔וֹת",
+        "LXX": "καὶ τάξει τοὺς πόδας μου εἰς συντέλειαν ·",
+        "VUL": "et ponet pedes meos quasi cervórum .",
+        "SP": null,
+        "KJV": "and he will make my feet like hinds ’ [ feet ] ,",
+        "DSS": "و#? ישם# ر##[ גל׳ي ك اילות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he will make me to walk upon mine high places",
+      "traditions": {
+        "WLC": "וְ עַ֥ל בָּמוֹתַ֖ י יַדְרִכֵ֑ נִי",
+        "LXX": "ἐπὶ τὰ ὑψηλὰ ἐπιβιβᾷ με",
+        "VUL": "Et super excélsa mea dedúcet me",
+        "SP": null,
+        "KJV": "and he will make me to walk upon mine high places .",
+        "DSS": "و عل במות׳ي يدرכ׳ني ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "To the chief singer on my stringed instruments",
+      "traditions": {
+        "WLC": "לַ מְנַצֵּ֖חַ בִּ נְגִינוֹתָֽי",
+        "LXX": "τοῦ νικῆσαι ἐν τῇ ᾠδῇ αὐτοῦ .",
+        "VUL": "victor in psalmis canéntem .",
+        "SP": null,
+        "KJV": "To the chief singer on my stringed instruments .",
+        "DSS": "ل م##[ נצ ]ח ب نג#?[ ينو ]תי ׃ ε ׃"
+      }
+    }
+  ]
+}

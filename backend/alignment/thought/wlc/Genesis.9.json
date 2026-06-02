@@ -1,0 +1,996 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God blessed Noah and his sons ,",
+      "traditions": {
+        "WLC": "וַ יְבָ֣רֶךְ אֱלֹהִ֔ים אֶת נֹ֖חַ וְ אֶת בָּנָ֑י",
+        "LXX": "Καὶ ηὐλόγησεν ὁ θεὸς τὸν Νῶε καὶ τοὺς υἱοὺς αὐτοῦ ,",
+        "VUL": "Benedixítque Deus Noe et fíliis eius .",
+        "SP": "ו יברך אלהים את נח ו את בניו",
+        "KJV": "And God blessed Noah and his sons ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and said unto them ,",
+      "traditions": {
+        "WLC": "ו וַ יֹּ֧אמֶר לָ הֶ֛ם",
+        "LXX": "καὶ εἶπεν αὐτοῖς",
+        "VUL": "Et dixit ad eos :",
+        "SP": "ו יאמר להם",
+        "KJV": "and said unto them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Be fruitful ,",
+      "traditions": {
+        "WLC": "פְּר֥וּ",
+        "LXX": "Αὐξάνεσθε",
+        "VUL": "Créscite ,",
+        "SP": "פרו",
+        "KJV": "Be fruitful ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and multiply ,",
+      "traditions": {
+        "WLC": "וּ רְב֖וּ",
+        "LXX": "καὶ πληθύνεσθε ,",
+        "VUL": "et multiplicámini ,",
+        "SP": "ו רבו",
+        "KJV": "and multiply ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and replenish the earth .",
+      "traditions": {
+        "WLC": "וּ מִלְא֥וּ אֶת הָ אָֽרֶץ",
+        "LXX": "καὶ πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς .",
+        "VUL": "et repléte terram .",
+        "SP": "ו מלאו את ה ארץ",
+        "KJV": "and replenish the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the fear of you and the dread of you shall be",
+      "traditions": {
+        "WLC": "וּ מוֹרַאֲ כֶ֤ם וְ חִתְּ כֶם֙ יִֽהְיֶ֔ה",
+        "LXX": "καὶ ὁ τρόμος ὑμῶν καὶ ὁ φόβος ἔσται",
+        "VUL": "Et terror vester ac tremor sit",
+        "SP": "ו מראכם ו חתתכם יהיה",
+        "KJV": "And the fear of you and the dread of you shall be",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "upon every beast of the earth",
+      "traditions": {
+        "WLC": "עַ֚ל כָּל חַיַּ֣ת הָ אָ֔רֶץ",
+        "LXX": "ἐπὶ πᾶσιν τοῖς θηρίοις τῆς γῆς",
+        "VUL": "super cuncta animália terræ ,",
+        "SP": "על כל חית ה ארץ",
+        "KJV": "upon every beast of the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and upon every fowl of the air",
+      "traditions": {
+        "WLC": "וְ עַ֖ל כָּל ע֣וֹף הַ שָּׁמָ֑יִם",
+        "LXX": "καὶ ἐπὶ πάντα τὰ ὄρνεα τοῦ οὐρανοῦ",
+        "VUL": "et super omnes vólucres cæli ,",
+        "SP": "ו על כל עוף ה שׁמים",
+        "KJV": "and upon every fowl of the air ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "upon all that moveth [ upon ] the earth",
+      "traditions": {
+        "WLC": "בְּ כֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽ אֲדָמָ֛ה",
+        "LXX": "καὶ ἐπὶ πάντα τὰ κινούμενα ἐπὶ τῆς γῆς",
+        "VUL": "cum univérsis quæ movéntur super terram :",
+        "SP": "ו ב כל אשׁר תרמשׂ ה אדמה",
+        "KJV": "upon all that moveth [ upon ] the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and upon all the fishes of the sea",
+      "traditions": {
+        "WLC": "וּֽ בְ כָל דְּגֵ֥י הַ יָּ֖ם",
+        "LXX": "καὶ πάντας τοὺς ἰχθύας τῆς θαλάσσης ·",
+        "VUL": "omnes pisces maris",
+        "SP": "ו ב כל דגי ה ים",
+        "KJV": "and upon all the fishes of the sea ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "into your hand are they delivered",
+      "traditions": {
+        "WLC": "בְּ יֶדְ כֶ֥ם נִתָּֽנוּ",
+        "LXX": "ὑπὸ χεῖρας ὑμῖν δέδωκα .",
+        "VUL": "mánui vestræ tráditi sunt .",
+        "SP": "ב ידכם נתתיו",
+        "KJV": "into your hand are they delivered .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Every moving thing that liveth shall be meat for you",
+      "traditions": {
+        "WLC": "כָּל רֶ֨מֶשׂ֙ אֲשֶׁ֣ר הוּא חַ֔י לָ כֶ֥ם יִהְיֶ֖ה לְ אָכְלָ֑ה",
+        "LXX": "καὶ πᾶν ἑρπετὸν ὅ ἐστιν ζῶν ὑμῖν ἔσται εἰς βρῶσιν ·",
+        "VUL": "Et omne , quod movétur et vivit , erit vobis in cibum :",
+        "SP": "כל רמשׂ אשׁר הוא חי לכם יהיה ל אכלה",
+        "KJV": "Every moving thing that liveth shall be meat for you ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even as the green herb have I given you all things",
+      "traditions": {
+        "WLC": "כְּ יֶ֣רֶק עֵ֔שֶׂב נָתַ֥תִּי לָ כֶ֖ם אֶת כֹּֽל",
+        "LXX": "ὡς λάχανα χόρτου ἔδωκα ὑμῖν τὰ πάντα .",
+        "VUL": "quasi ólera viréntia trádidi vobis ómnia .",
+        "SP": "כ ירק עשׂב נתתי לכם את ה כל",
+        "KJV": "even as the green herb have I given you all things .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "But flesh with the life thereof ,",
+      "traditions": {
+        "WLC": "אַךְ בָּשָׂ֕ר בְּ נַפְשׁ֥ וֹ",
+        "LXX": "πλὴν κρέας ἐν αἵματι ψυχῆς",
+        "VUL": "Excépto , quod carnem cum sánguine",
+        "SP": "אך בשׂר ב נפשׁו",
+        "KJV": "But flesh with the life thereof , [ which is ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ which is ] the blood thereof ,",
+      "traditions": {
+        "WLC": "דָמ֖ וֹ",
+        "LXX": null,
+        "VUL": null,
+        "SP": "דמו",
+        "KJV": "the blood thereof ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "shall ye not eat .",
+      "traditions": {
+        "WLC": "לֹ֥א תֹאכֵֽלוּ",
+        "LXX": "οὐ φάγεσθε ·",
+        "VUL": "non comedétis .",
+        "SP": "לא תאכלו",
+        "KJV": "shall ye not eat .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And surely your blood of your lives will I require",
+      "traditions": {
+        "WLC": "וְ אַ֨ךְ אֶת דִּמְ כֶ֤ם לְ נַפְשֹֽׁתֵי כֶם֙ אֶדְרֹ֔שׁ",
+        "LXX": "καὶ γὰρ τὸ ὑμέτερον αἷμα τῶν ψυχῶν ὑμῶν ἐκζητήσω ·",
+        "VUL": "Sánguinem enim animárum vestrárum requíram",
+        "SP": "ו את דמכם ל נפשׁתיכם אדרשׁ",
+        "KJV": "And surely your blood of your lives will I require ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "at the hand of every beast will I require it",
+      "traditions": {
+        "WLC": "מִ יַּ֥ד כָּל חַיָּ֖ה אֶדְרְשֶׁ֑ נּוּ",
+        "LXX": "ἐκ χειρὸς πάντων τῶν θηρίων ἐκζητήσω αὐτό ,",
+        "VUL": "de manu cunctárum bestiárum :",
+        "SP": "מ יד כל חי אדרשׁנו",
+        "KJV": "at the hand of every beast will I require it ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and at the hand of man",
+      "traditions": {
+        "WLC": "וּ מִ יַּ֣ד הָֽ אָדָ֗ם",
+        "LXX": "καὶ ἐκ χειρὸς ἀνθρώπου",
+        "VUL": "et de manu hóminis ,",
+        "SP": "מ יד ה אדם",
+        "KJV": "and at the hand of man ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "at the hand of every man ’s brother will I require the life of man",
+      "traditions": {
+        "WLC": "מִ יַּד֙ אִ֣ישׁ אָחִ֔י ו אֶדְרֹ֖שׁ אֶת נֶ֥פֶשׁ הָֽ אָדָֽם",
+        "LXX": "ἀδελφοῦ ἐκζητήσω τὴν ψυχὴν τοῦ ἀνθρώπου .",
+        "VUL": "de manu viri , et fratris eius requíram ánimam hóminis .",
+        "SP": "מ יד אישׁ ו אחיו אדרשׁ את נפשׁ ה אדם",
+        "KJV": "at the hand of every man ’s brother will I require the life of man .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Whoso sheddeth man ’s blood, by man shall his blood be shed",
+      "traditions": {
+        "WLC": "שֹׁפֵךְ֙ דַּ֣ם הָֽ אָדָ֔ם בָּֽ אָדָ֖ם דָּמ֣ וֹ יִשָּׁפֵ֑ךְ",
+        "LXX": "ὁ ἐκχέων αἷμα ἀνθρώπου ἀντὶ τοῦ αἵματος αὐτοῦ ἐκχυθήσεται ,",
+        "VUL": "Quicúmque effúderit humánum sánguinem , fundétur sanguis illíus :",
+        "SP": "שׁפך דם ה אדם ב אדם דמו ישׁפך",
+        "KJV": "Whoso sheddeth man ’s blood , by man shall his blood be shed :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for in the image of God made he man",
+      "traditions": {
+        "WLC": "כִּ֚י בְּ צֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת הָ אָדָֽם",
+        "LXX": "ὅτι ἐν εἰκόνι θεοῦ ἐποίησα τὸν ἄνθρωπον .",
+        "VUL": "ad imáginem quippe Dei factus est homo .",
+        "SP": "כי ב צלם אלהים עשׂה את ה אדם",
+        "KJV": "for in the image of God made he man .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And you, be ye fruitful, and multiply",
+      "traditions": {
+        "WLC": "וְ אַתֶּ֖ם פְּר֣וּ וּ רְב֑וּ",
+        "LXX": "ὑμεῖς δὲ αὐξάνεσθε καὶ πληθύνεσθε ,",
+        "VUL": "Vos autem créscite et multiplicámini ,",
+        "SP": "ו אתם פרו ו רבו",
+        "KJV": "And you , be ye fruitful , and multiply ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "bring forth abundantly in the earth, and multiply therein",
+      "traditions": {
+        "WLC": "שִׁרְצ֥וּ בָ אָ֖רֶץ וּ רְבוּ בָֽ הּ",
+        "LXX": "καὶ πληρώσατε τὴν γῆν καὶ πληθύνεσθε ἐπὶ τῆς γῆς .",
+        "VUL": "et ingredímini super terram , et impléte eam .",
+        "SP": "ו שׁרצו ב ארץ ו רבו בה",
+        "KJV": "bring forth abundantly in the earth , and multiply therein .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God spake unto Noah, and to his sons with him, saying",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר אֱלֹהִים֙ אֶל נֹ֔חַ וְ אֶל בָּנָ֥י ו אִתּ֖ וֹ לֵ אמֹֽר",
+        "LXX": "Καὶ εἶπεν ὁ θεὸς τῷ Νῶε καὶ τοῖς υἱοῖς αὐτοῦ μετ᾽ αὐτοῦ λέγων",
+        "VUL": "Hæc quoque dixit Deus ad Noe , et ad fílios eius cum eo :",
+        "SP": "ו יאמר אלהים אל נח ו אל בניו אתו ל אמר",
+        "KJV": "And God spake unto Noah , and to his sons with him , saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I, behold, I establish my covenant with you",
+      "traditions": {
+        "WLC": "וַ אֲנִ֕י הִנְנִ֥ י מֵקִ֛ים אֶת בְּרִיתִ֖ י אִתְּ כֶ֑ם",
+        "LXX": "Ἐγὼ ἰδοὺ ἀνίστημι τὴν διαθήκην μου ὑμῖν",
+        "VUL": "Ecce ego státuam pactum meum vobíscum ,",
+        "SP": "ו אני הנני מקים את בריתי אתכם",
+        "KJV": "And I , behold , I establish my covenant with you ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and with your seed after you",
+      "traditions": {
+        "WLC": "וְ אֶֽת זַרְעֲ כֶ֖ם אַֽחֲרֵי כֶֽם",
+        "LXX": "καὶ τῷ σπέρματι ὑμῶν μεθ᾽ ὑμᾶς ,",
+        "VUL": "et cum sémine vestro post vos :",
+        "SP": "ו את זרעכם אחריכם",
+        "KJV": "and with your seed after you ;",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And with every living creature that [ is ] with you",
+      "traditions": {
+        "WLC": "וְ אֵ֨ת כָּל נֶ֤פֶשׁ הַֽ חַיָּה֙ אֲשֶׁ֣ר אִתְּ כֶ֔ם",
+        "LXX": "καὶ πάσῃ ψυχῇ ζώσῃ μεθ᾽ ὑμῶν ,",
+        "VUL": "et ad omnem ánimam vivéntem , quæ est vobíscum ,",
+        "SP": "ו את כל נפשׁ ה חיה אשׁר אתכם",
+        "KJV": "And with every living creature that [ is ] with you ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "of the fowl, of the cattle, and of every beast of the earth with you",
+      "traditions": {
+        "WLC": "בָּ ע֧וֹף בַּ בְּהֵמָ֛ה וּֽ בְ כָל חַיַּ֥ת הָ אָ֖רֶץ אִתְּ כֶ֑ם",
+        "LXX": "ἀπὸ ὀρνέων καὶ ἀπὸ κτηνῶν , καὶ πᾶσι τοῖς θηρίοις τῆς γῆς ὅσα μεθ᾽ ὑμῶν",
+        "VUL": "tam in volúcribus quam in iuméntis et pecúdibus terræ cunctis ,",
+        "SP": "ב עוף ו ב בהמה ו ב כל חית ה ארץ אתכם",
+        "KJV": "of the fowl , of the cattle , and of every beast of the earth with you ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "from all that go out of the ark, to every beast of the earth",
+      "traditions": {
+        "WLC": "מִ כֹּל֙ יֹצְאֵ֣י הַ תֵּבָ֔ה לְ כֹ֖ל חַיַּ֥ת הָ אָֽרֶץ",
+        "LXX": "ἀπὸ πάντων τῶν ἐξελθόντων ἐκ τῆς κιβωτοῦ .",
+        "VUL": "quæ egréssa sunt de arca , et univérsis béstiis terræ .",
+        "SP": "מ כל יצאי ה תבה ל כל חית ה ארץ",
+        "KJV": "from all that go out of the ark , to every beast of the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will establish my covenant with you",
+      "traditions": {
+        "WLC": "וַ הֲקִמֹתִ֤י אֶת בְּרִיתִ י֙ אִתְּ כֶ֔ם",
+        "LXX": "καὶ στήσω τὴν διαθήκην μου πρὸς ὑμᾶς ,",
+        "VUL": "Státuam pactum meum vobíscum ,",
+        "SP": "ו הקמתי את בריתי אתכם",
+        "KJV": "And I will establish my covenant with you ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shall all flesh be cut off any more by the waters of a flood",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִכָּרֵ֧ת כָּל בָּשָׂ֛ר ע֖וֹד מִ מֵּ֣י הַ מַּבּ֑וּל",
+        "LXX": "καὶ οὐκ ἀποθανεῖται πᾶσα σὰρξ ἔτι ἀπὸ τοῦ ὕδατος τοῦ κατακλυσμοῦ ,",
+        "VUL": "et nequáquam ultra interficiétur omnis caro aquis dilúvii ,",
+        "SP": "ו לא יכרת עוד כל בשׂר מ מי ה מבול",
+        "KJV": "neither shall all flesh be cut off any more by the waters of a flood ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither shall there any more be a flood to destroy the earth",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִהְיֶ֥ה ע֛וֹד מַבּ֖וּל לְ שַׁחֵ֥ת הָ אָֽרֶץ",
+        "LXX": "καὶ οὐκ ἔσται ἔτι κατακλυσμὸς ὕδατος τοῦ καταφθεῖραι πᾶσαν τὴν γῆν .",
+        "VUL": "neque erit deínceps dilúvium díssipans terram .",
+        "SP": "ו לא יהיה עוד ה מבול ל השׁחית ה ארץ",
+        "KJV": "neither shall there any more be a flood to destroy the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֗ים",
+        "LXX": "καὶ εἶπεν Κύριος ὁ θεὸς πρὸς Νῶε",
+        "VUL": "Dixítque Deus :",
+        "SP": "ו יאמר אלהים",
+        "KJV": "And God said ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "This [ is ] the token of the covenant which I make",
+      "traditions": {
+        "WLC": "זֹ֤את אֽוֹת הַ בְּרִית֙ אֲשֶׁר אֲנִ֣י נֹתֵ֗ן",
+        "LXX": "Τοῦτο τὸ σημεῖον τῆς διαθήκης ὃ ἐγὼ δίδωμι",
+        "VUL": "Hoc signum fœ́deris quod do",
+        "SP": "זאת אות ה ברית אשׁר אני נתן",
+        "KJV": "This [ is ] the token of the covenant which I make",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "between me and you and every living creature that [ is ] with you",
+      "traditions": {
+        "WLC": "בֵּינִ י֙ וּ בֵ֣ינֵי כֶ֔ם וּ בֵ֛ין כָּל נֶ֥פֶשׁ חַיָּ֖ה אֲשֶׁ֣ר אִתְּ כֶ֑ם",
+        "LXX": "ἀνὰ μέσον ἐμοῦ καὶ ὑμῶν καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης ἥ ἐστιν μεθ᾽ ὑμῶν",
+        "VUL": "inter me et vos , et ad omnem ánimam vivéntem , quæ est vobíscum",
+        "SP": "ביני ו בינכם ו בין כל נפשׁ ה חיה אשׁר אתכם",
+        "KJV": "between me and you and every living creature that [ is ] with you ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for perpetual generations",
+      "traditions": {
+        "WLC": "לְ דֹרֹ֖ת עוֹלָֽם",
+        "LXX": "εἰς γενεὰς αἰωνίους ·",
+        "VUL": "in generatiónes sempitérnas :",
+        "SP": "ל דרות עולם",
+        "KJV": "for perpetual generations :",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "I do set my bow in the cloud",
+      "traditions": {
+        "WLC": "אֶת קַשְׁתִּ֕ י נָתַ֖תִּי בֶּֽ עָנָ֑ן",
+        "LXX": "τὸ τόξον μου τίθημι ἐν τῇ νεφέλῃ ,",
+        "VUL": "arcum meum ponam in núbibus ,",
+        "SP": "את קשׁתי נתתי ב ענן",
+        "KJV": "I do set my bow in the cloud ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and it shall be for a token of a covenant between me and the earth",
+      "traditions": {
+        "WLC": "וְ הָֽיְתָה֙ לְ א֣וֹת בְּרִ֔ית בֵּינִ֖ י וּ בֵ֥ין הָ אָֽרֶץ",
+        "LXX": "καὶ ἔσται εἰς σημεῖον διαθήκης ἀνὰ μέσον ἐμοῦ καὶ τῆς γῆς .",
+        "VUL": "et erit signum fœ́deris inter me , et inter terram .",
+        "SP": "ו היתה ל אות ברית ביני ו בין ה ארץ",
+        "KJV": "and it shall be for a token of a covenant between me and the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass , when I bring a cloud over the earth",
+      "traditions": {
+        "WLC": "וְ הָיָ֕ה בְּ עַֽנְנִ֥ י עָנָ֖ן עַל הָ אָ֑רֶץ",
+        "LXX": "καὶ ἔσται ἐν τῷ συννεφεῖν με νεφέλας ἐπὶ τὴν γῆν",
+        "VUL": "Cumque obdúxero núbibus cælum ,",
+        "SP": "ו היה ב ענני ענן על ה ארץ",
+        "KJV": "And it shall come to pass , when I bring a cloud over the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that the bow shall be seen in the cloud",
+      "traditions": {
+        "WLC": "וְ נִרְאֲתָ֥ה הַ קֶּ֖שֶׁת בֶּ עָנָֽן",
+        "LXX": "ὀφθήσεται τὸ τόξον μου ἐν τῇ νεφέλῃ ,",
+        "VUL": "apparébit arcus meus in núbibus :",
+        "SP": "ו נראתה ה קשׁת ב ענן",
+        "KJV": "that the bow shall be seen in the cloud :",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will remember my covenant",
+      "traditions": {
+        "WLC": "וְ זָכַרְתִּ֣י אֶת בְּרִיתִ֗ י",
+        "LXX": "καὶ μνησθήσομαι τῆς διαθήκης μου ,",
+        "VUL": "et recordábor fœ́deris mei",
+        "SP": "ו זכרתי את בריתי",
+        "KJV": "And I will remember my covenant ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which [ is ] between me and you and every living creature of all flesh",
+      "traditions": {
+        "WLC": "אֲשֶׁ֤ר בֵּינִ י֙ וּ בֵ֣ינֵי כֶ֔ם וּ בֵ֛ין כָּל נֶ֥פֶשׁ חַיָּ֖ה בְּ כָל בָּשָׂ֑ר",
+        "LXX": "ἥ ἐστιν ἀνὰ μέσον ἐμοῦ καὶ ὑμῶν καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης ἐν πάσῃ σαρκί ·",
+        "VUL": "vobíscum , et cum omni ánima vivénte quæ carnem végetat :",
+        "SP": "אשׁר ביני ו בינכם ו בין כל נפשׁ ה חיה אשׁר אתכם ב כל בשׂר",
+        "KJV": "which [ is ] between me and you and every living creature of all flesh ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the waters shall no more become a flood to destroy all flesh",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִֽהְיֶ֨ה ע֤וֹד הַ מַּ֨יִם֙ לְ מַבּ֔וּל לְ שַׁחֵ֖ת כָּל בָּשָֽׂר",
+        "LXX": "καὶ οὐκ ἔσται ἔτι τὸ ὕδωρ εἰς κατακλυσμόν , ὥστε ἐξαλεῖψαι πᾶσαν σάρκα .",
+        "VUL": "et non erunt ultra aquæ dilúvii ad deléndum univérsam carnem .",
+        "SP": "ו לא יהיה עוד ה מים ל מבול ל השׁחית כל בשׂר",
+        "KJV": "and the waters shall no more become a flood to destroy all flesh .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the bow shall be in the cloud",
+      "traditions": {
+        "WLC": "וְ הָיְתָ֥ה הַ קֶּ֖שֶׁת בֶּֽ עָנָ֑ן",
+        "LXX": "καὶ ἔσται τὸ τόξον μου ἐν τῇ νεφέλῃ ,",
+        "VUL": "Erítque arcus in núbibus ,",
+        "SP": "ו היתה ה קשׁת ב ענן",
+        "KJV": "And the bow shall be in the cloud ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will look upon it , that I may remember the everlasting covenant",
+      "traditions": {
+        "WLC": "וּ רְאִיתִ֗י הָ לִ זְכֹּר֙ בְּרִ֣ית עוֹלָ֔ם",
+        "LXX": "καὶ ὄψομαι τοῦ μνησθῆναι διαθήκην αἰώνιον",
+        "VUL": "et vidébo illum , et recordábor fœ́deris sempitérni",
+        "SP": "ו ראיתה ל אזכרה ברית עולם",
+        "KJV": "and I will look upon it , that I may remember the everlasting covenant",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "between God and every living creature of all flesh that [ is ] upon the earth",
+      "traditions": {
+        "WLC": "בֵּ֣ין אֱלֹהִ֔ים וּ בֵין֙ כָּל נֶ֣פֶשׁ חַיָּ֔ה בְּ כָל בָּשָׂ֖ר אֲשֶׁ֥ר עַל הָ אָֽרֶץ",
+        "LXX": "ἀνὰ μέσον ἐμοῦ καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης ἐν πάσῃ σαρκὶ ἥ ἐστιν ἐπὶ τῆς γῆς .",
+        "VUL": "quod pactum est inter Deum et omnem ánimam vivéntem univérsæ carnis quæ est super terram .",
+        "SP": "בין אלהים ו בין כל נפשׁ ה חיה ב כל בשׂר אשׁר על ה ארץ",
+        "KJV": "between God and every living creature of all flesh that [ is ] upon the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said unto Noah",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר אֱלֹהִ֖ים אֶל נֹ֑חַ",
+        "LXX": "καὶ εἶπεν ὁ θεὸς τῷ Νῶε",
+        "VUL": "Dixítque Deus ad Noe :",
+        "SP": "ו יאמר אלהים אל נח",
+        "KJV": "And God said unto Noah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "This [ is ] the token of the covenant",
+      "traditions": {
+        "WLC": "זֹ֤את אֽוֹת הַ בְּרִית֙",
+        "LXX": "Τοῦτο τὸ σημεῖον τῆς διαθήκης",
+        "VUL": "Hoc erit signum fœ́deris ,",
+        "SP": "זאת אות ה ברית",
+        "KJV": "This [ is ] the token of the covenant ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which I have established between me and all flesh that [ is ] upon the earth",
+      "traditions": {
+        "WLC": "אֲשֶׁ֣ר הֲקִמֹ֔תִי בֵּינִ֕ י וּ בֵ֥ין כָּל בָּשָׂ֖ר אֲשֶׁ֥ר עַל הָ אָֽרֶץ",
+        "LXX": "ἧς διεθέμην ἀνὰ μέσον ἐμοῦ καὶ ἀνὰ μέσον πάσης σαρκὸς ἥ ἐστιν ἐπὶ τῆς γῆς .",
+        "VUL": "quod constítui inter me et omnem carnem super terram .",
+        "SP": "אשׁר הקמתי ביני ו בין כל בשׂר אשׁר על ה ארץ",
+        "KJV": "which I have established between me and all flesh that [ is ] upon the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the sons of Noah , that went forth of the ark",
+      "traditions": {
+        "WLC": "וַ יִּֽהְי֣וּ בְנֵי נֹ֗חַ הַ יֹּֽצְאִים֙ מִן הַ תֵּבָ֔ה",
+        "LXX": "Ἦσαν δὲ οἱ υἱοὶ Νῶε οἱ ἐξελθόντες ἐκ τῆς κιβωτοῦ",
+        "VUL": "Erant ergo fílii Noe , qui egréssi sunt de arca ,",
+        "SP": "ו יהיו בני נח ה יוצאים מן ה תבה",
+        "KJV": "And the sons of Noah , that went forth of the ark ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "were Shem , and Ham , and Japheth",
+      "traditions": {
+        "WLC": "שֵׁ֖ם וְ חָ֣ם וָ יָ֑פֶת",
+        "LXX": "Σήμ , Χάμ , Ἰάφεθ ·",
+        "VUL": "Sem , Cham et Iapheth :",
+        "SP": "שׁם חם ו יפת",
+        "KJV": "were Shem , and Ham , and Japheth :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and Ham [ is ] the father of Canaan",
+      "traditions": {
+        "WLC": "וְ חָ֕ם ה֖וּא אֲבִ֥י כְנָֽעַן",
+        "LXX": "Χὰμ ἦν πατὴρ Χανάαν .",
+        "VUL": "porro Cham ipse est pater Chánaan .",
+        "SP": "ו חם הוא אבי כנען",
+        "KJV": "and Ham [ is ] the father of Canaan .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "These [ are ] the three sons of Noah",
+      "traditions": {
+        "WLC": "שְׁלֹשָׁ֥ה אֵ֖לֶּה בְּנֵי נֹ֑חַ",
+        "LXX": "τρεῖς οὗτοί εἰσιν οἱ υἱοὶ Νῶε ·",
+        "VUL": "Tres isti fílii sunt Noe :",
+        "SP": "שׁלשׁה אלה בני נח",
+        "KJV": "These [ are ] the three sons of Noah :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and of them was the whole earth overspread",
+      "traditions": {
+        "WLC": "וּ מֵ אֵ֖לֶּה נָֽפְצָ֥ה כָל הָ אָֽרֶץ",
+        "LXX": "ἀπὸ τούτων διεσπάρησαν ἐπὶ πᾶσαν τὴν γῆν .",
+        "VUL": "et ab his disseminátum est omne genus hóminum super univérsam terram .",
+        "SP": "מ אלה נפצה כל ה ארץ",
+        "KJV": "and of them was the whole earth overspread .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Noah began [ to be ] an husbandman",
+      "traditions": {
+        "WLC": "וַ יָּ֥חֶל נֹ֖חַ אִ֣ישׁ הָֽ אֲדָמָ֑ה",
+        "LXX": "Καὶ ἤρξατο Νῶε ἄνθρωπος γεωργὸς γῆς ,",
+        "VUL": "Cœpítque Noe vir agrícola exercére terram ,",
+        "SP": "ו יחל נח אישׁ ה אדמה",
+        "KJV": "And Noah began [ to be ] an husbandman ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he planted a vineyard",
+      "traditions": {
+        "WLC": "וַ יִּטַּ֖ע כָּֽרֶם",
+        "LXX": "καὶ ἐφύτευσεν ἀμπελῶνα .",
+        "VUL": "et plantávit víneam .",
+        "SP": "ו יטע כרם",
+        "KJV": "and he planted a vineyard :",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he drank of the wine",
+      "traditions": {
+        "WLC": "וַ יֵּ֥שְׁתְּ מִן הַ יַּ֖יִן",
+        "LXX": "καὶ ἔπιεν ἐκ τοῦ οἴνου",
+        "VUL": "Bibénsque vinum",
+        "SP": "ו ישׁת מן ה יין",
+        "KJV": "And he drank of the wine ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and was drunken",
+      "traditions": {
+        "WLC": "וַ יִּשְׁכָּ֑ר",
+        "LXX": "καὶ ἐμεθύσθη ,",
+        "VUL": "inebriátus est ,",
+        "SP": "ו ישׁכר",
+        "KJV": "and was drunken ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he was uncovered within his tent",
+      "traditions": {
+        "WLC": "וַ יִּתְגַּ֖ל בְּ ת֥וֹךְ אָהֳלֹֽ ה",
+        "LXX": "καὶ ἐγυμνώθη ἐν τῷ οἴκῳ αὐτοῦ .",
+        "VUL": "et nudátus in tabernáculo suo .",
+        "SP": "ו יתגל ב תוך אהלו",
+        "KJV": "and he was uncovered within his tent .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Ham , the father of Canaan , saw the nakedness of his father",
+      "traditions": {
+        "WLC": "וַ יַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑י",
+        "LXX": "καὶ εἶδεν Χὰμ ὁ πατὴρ Χανάαν τὴν γύμνωσιν τοῦ πατρὸς αὐτοῦ ,",
+        "VUL": "Quod cum vidísset Cham , pater Chánaan , verénda scílicet patris sui esse nudáta ,",
+        "SP": "ו ירא חם אבי כנען את ערות אביו",
+        "KJV": "And Ham , the father of Canaan , saw the nakedness of his father ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and told his two brethren without",
+      "traditions": {
+        "WLC": "ו וַ יַּגֵּ֥ד לִ שְׁנֵֽי אֶחָ֖י ו בַּ חֽוּץ",
+        "LXX": "καὶ ἐξελθὼν ἀνήγγειλεν τοῖς δυσὶν ἀδελφοῖς αὐτοῦ ἔξω .",
+        "VUL": "nuntiávit duóbus frátribus suis foras .",
+        "SP": "ו יגד ל שׁני אחיו ב חוץ",
+        "KJV": "and told his two brethren without .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Shem and Japheth took a garment , and laid [ it ] upon both their shoulders",
+      "traditions": {
+        "WLC": "וַ יִּקַּח֩ שֵׁ֨ם וָ יֶ֜פֶת אֶת הַ שִּׂמְלָ֗ה וַ יָּשִׂ֨ימוּ֙ עַל שְׁכֶ֣ם שְׁנֵי הֶ֔ם",
+        "LXX": "καὶ λαβόντες Σὴμ καὶ Ἰάφεθ τὸ ἱμάτιον ἐπέθηκαν ἐπὶ τὰ δύο νῶτα αὐτῶν ,",
+        "VUL": "At vero Sem et Iapheth pállium imposuérunt húmeris suis ,",
+        "SP": "ו יקח שׁם ו יפת את ה שׂמלה ו ישׂמו על שׁכם שׁניהם",
+        "KJV": "And Shem and Japheth took a garment , and laid [ it ] upon both their shoulders ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and went backward",
+      "traditions": {
+        "WLC": "וַ יֵּֽלְכוּ֙ אֲחֹ֣רַנִּ֔ית",
+        "LXX": "καὶ ἐπορεύθησαν ὀπισθοφανῶς",
+        "VUL": "et incedéntes retrórsum ,",
+        "SP": "ו ילכו אחרנית",
+        "KJV": "and went backward ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and covered the nakedness of their father",
+      "traditions": {
+        "WLC": "וַ יְכַסּ֕וּ אֵ֖ת עֶרְוַ֣ת אֲבִי הֶ֑ם",
+        "LXX": "καὶ συνεκάλυψαν τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν ·",
+        "VUL": "operuérunt verénda patris sui :",
+        "SP": "ו יכסו את ערות אביהם",
+        "KJV": "and covered the nakedness of their father ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and their faces [ were ] backward , and they saw not their father ’s nakedness",
+      "traditions": {
+        "WLC": "וּ פְנֵי הֶם֙ אֲחֹ֣רַנִּ֔ית וְ עֶרְוַ֥ת אֲבִי הֶ֖ם לֹ֥א רָאֽוּ",
+        "LXX": "καὶ τὸ πρόσωπον αὐτῶν ὀπισθοφανές , καὶ τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν οὐκ ἴδον .",
+        "VUL": "faciésque eórum avérsæ erant , et patris virília non vidérunt .",
+        "SP": "ו פניהם אחרנית ו ערות אביהם לא ראו",
+        "KJV": "and their faces [ were ] backward , and they saw not their father ’s nakedness .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Noah awoke from his wine",
+      "traditions": {
+        "WLC": "וַ יִּ֥יקֶץ נֹ֖חַ מִ יֵּינ֑ וֹ",
+        "LXX": "ἐξένηψεν δὲ Νῶε ἀπὸ τοῦ οἴνου ,",
+        "VUL": "Evígilans autem Noe ex vino ,",
+        "SP": "ו יקץ נח מ יינו",
+        "KJV": "And Noah awoke from his wine ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and knew what his younger son had done unto him",
+      "traditions": {
+        "WLC": "וַ יֵּ֕דַע אֵ֛ת אֲשֶׁר עָ֥שָׂה ל֖ וֹ בְּנ֥ וֹ הַ קָּטָֽן",
+        "LXX": "καὶ ἔγνω ὅσα ἐποίησεν αὐτῷ ὁ υἱὸς αὐτοῦ ὁ νεώτερος .",
+        "VUL": "cum didicísset quæ fécerat ei fílius suus minor ,",
+        "SP": "ו ידע את אשׁר עשׂה לו בנו ה קטן",
+        "KJV": "and knew what his younger son had done unto him .",
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said , Cursed [ be ] Canaan",
+      "traditions": {
+        "WLC": "וַ יֹּ֖אמֶר אָר֣וּר כְּנָ֑עַן",
+        "LXX": "καὶ εἶπεν Ἐπικατάρατος Χανάαν ·",
+        "VUL": "ait : Maledíctus Chánaan ,",
+        "SP": "ו יאמר ארור כנען",
+        "KJV": "And he said , Cursed [ be ] Canaan ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "a servant of servants shall he be unto his brethren",
+      "traditions": {
+        "WLC": "עֶ֥בֶד עֲבָדִ֖ים יִֽהְיֶ֥ה לְ אֶחָֽי ו",
+        "LXX": "παῖς οἰκέτης ἔσται τοῖς ἀδελφοῖς αὐτοῦ .",
+        "VUL": "servus servórum erit frátribus suis .",
+        "SP": "עבד עבדים יהיה ל אחיו",
+        "KJV": "a servant of servants shall he be unto his brethren .",
+        "DSS": null
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said , Blessed [ be ] the LORD God of Shem",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם",
+        "LXX": "καὶ εἶπεν Εὐλογητὸς Κύριος ὁ θεὸς τοῦ Σήμ ,",
+        "VUL": "Dixítque : Benedíctus Dóminus Deus Sem ,",
+        "SP": "ו יאמר ברוך יהוה אלהי שׁם",
+        "KJV": "And he said , Blessed [ be ] the LORD God of Shem ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Canaan shall be his servant",
+      "traditions": {
+        "WLC": "וִ יהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽ מוֹ",
+        "LXX": "καὶ ἔσται Χανάαν παῖς αὐτοῦ .",
+        "VUL": "sit Chánaan servus eius .",
+        "SP": "ו יהי כנען עבד למו",
+        "KJV": "and Canaan shall be his servant .",
+        "DSS": null
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "God shall enlarge Japheth",
+      "traditions": {
+        "WLC": "יַ֤פְתְּ אֱלֹהִים֙ לְ יֶ֔פֶת",
+        "LXX": "πλατύναι ὁ θεὸς τῷ Ἰάφεθ ,",
+        "VUL": "Dilátet Deus Iapheth ,",
+        "SP": "יפת אלהים ל יפת",
+        "KJV": "God shall enlarge Japheth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he shall dwell in the tents of Shem",
+      "traditions": {
+        "WLC": "וְ יִשְׁכֹּ֖ן בְּ אָֽהֳלֵי שֵׁ֑ם",
+        "LXX": "καὶ κατοικησάτω ἐν τοῖς οἴκοις τοῦ Σήμ ·",
+        "VUL": "et hábitet in tabernáculis Sem ,",
+        "SP": "ו ישׁכן ב אהלי שׁם",
+        "KJV": "and he shall dwell in the tents of Shem ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and Canaan shall be his servant",
+      "traditions": {
+        "WLC": "וִ יהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽ מוֹ",
+        "LXX": "καὶ γενηθήτω Χανάαν παῖς αὐτῶν .",
+        "VUL": "sitque Chánaan servus eius .",
+        "SP": "ו יהי כנען עבד למו",
+        "KJV": "and Canaan shall be his servant .",
+        "DSS": null
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Noah lived after the flood three hundred and fifty years",
+      "traditions": {
+        "WLC": "וַֽ יְחִי נֹ֖חַ אַחַ֣ר הַ מַּבּ֑וּל שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽ חֲמִשִּׁ֖ים שָׁנָֽה",
+        "LXX": "Ἔζησεν δὲ Νῶε μετὰ τὸν κατακλυσμὸν τριακόσια πεντήκοντα ἔτη .",
+        "VUL": "Vixit autem Noe post dilúvium trecéntis quinquagínta annis .",
+        "SP": "ו יחי נח אחרי ה מבול שׁלשׁ מאות שׁנה ו חמשׁים שׁנה",
+        "KJV": "And Noah lived after the flood three hundred and fifty years .",
+        "DSS": null
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "And all the days of Noah were nine hundred and fifty years",
+      "traditions": {
+        "WLC": "וַ יִּֽהְיוּ֙ כָּל יְמֵי נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַ חֲמִשִּׁ֖ים שָׁנָ֑ה",
+        "LXX": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Νῶε ἐννακόσια πεντήκοντα ἔτη ,",
+        "VUL": "Et impléti sunt omnes dies eius nongentórum quinquagínta annórum :",
+        "SP": "ו יהיו כל ימי נח תשׁע מאות שׁנה ו חמשׁים שׁנה",
+        "KJV": "And all the days of Noah were nine hundred and fifty years :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he died",
+      "traditions": {
+        "WLC": "וַ יָּמֹֽת",
+        "LXX": "καὶ ἀπέθανεν .",
+        "VUL": "et mórtuus est .",
+        "SP": "ו ימת",
+        "KJV": "and he died .",
+        "DSS": null
+      }
+    }
+  ]
+}

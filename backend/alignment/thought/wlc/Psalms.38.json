@@ -1,0 +1,624 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": null,
+      "traditions": {
+        "WLC": "מִזְמ֖וֹר לְ דָוִ֣ד לְ הַזְכִּֽיר",
+        "LXX": "Ψαλμὸς τῷ Δαυείδ · εἰς ἀνάμνησιν περὶ σαββάτου .",
+        "VUL": "Psalmus David , in rememoratiónem de sábbato .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "A Psalm of David , to bring to remembrance .",
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "A Psalm of David , to bring to remembrance .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O LORD , rebuke me not in thy wrath :",
+      "traditions": {
+        "WLC": "יְֽהוָ֗ה אַל בְּ קֶצְפְּ ךָ֥ תוֹכִיחֵ֑ נִי",
+        "LXX": "Κύριε , μὴ τῷ θυμῷ σου ἐλέγξῃς με ,",
+        "VUL": "Dómine ne in furóre tuo árguas me ,",
+        "SP": null,
+        "KJV": "O LORD , rebuke me not in thy wrath :",
+        "DSS": "[4Q83] [ יהוה אל ב קצפ׳ך תוכיח׳ני"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither chasten me in thy hot displeasure .",
+      "traditions": {
+        "WLC": "וּֽ בַ חֲמָתְ ךָ֥ תְיַסְּרֵֽ נִי",
+        "LXX": "μηδὲ τῇ ὀργῇ σου παιδεύσῃς με .",
+        "VUL": "neque in ira tua corrípias me :",
+        "SP": null,
+        "KJV": "neither chasten me in thy hot displeasure .",
+        "DSS": "ו ב ח ]מ#ת׳כה# ת##[ יסר׳ני ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thine arrows stick fast in me ,",
+      "traditions": {
+        "WLC": "כִּֽי חִ֭צֶּי ךָ נִ֣חֲתוּ בִ֑ י",
+        "LXX": "ὅτι τὰ βέλη σου ἐνεπάγησάν μοι ,",
+        "VUL": "quóniam sagíttæ tuæ infíxæ sunt mihi :",
+        "SP": null,
+        "KJV": "For thine arrows stick fast in me ,",
+        "DSS": "[4Q83] כי חצי׳ך נחתו ב׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thy hand presseth me sore .",
+      "traditions": {
+        "WLC": "וַ תִּנְחַ֖ת עָלַ֣ י יָדֶֽ ךָ",
+        "LXX": "καὶ ἐπεστήρισας ἐπ᾽ ἐμὲ τὴν χεῖρά σου ·",
+        "VUL": "et confirmásti super me manum tuam .",
+        "SP": null,
+        "KJV": "and thy hand presseth me sore .",
+        "DSS": "ו תנחת ] [ על׳י יד׳ך ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "There is no soundness in my flesh because of thine anger ;",
+      "traditions": {
+        "WLC": "אֵין מְתֹ֣ם בִּ֭ בְשָׂרִ י מִ פְּנֵ֣י זַעְמֶ֑ ךָ",
+        "LXX": "καὶ οὐκ ἔστιν ἴασις ἐν τῇ σαρκί μου ἀπὸ προσώπου τῆς ὀργῆς σου ,",
+        "VUL": "Non est sánitas in carne mea a fácie iræ tuæ :",
+        "SP": null,
+        "KJV": "[ There is ] no soundness in my flesh because of thine anger ;",
+        "DSS": "[4Q83] אין מתם ב בשר׳י מ ] פ#ני ז?עמ׳כה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither is there any rest in my bones because of my sin .",
+      "traditions": {
+        "WLC": "אֵין שָׁל֥וֹם בַּ֝ עֲצָמַ֗ י מִ פְּנֵ֥י חַטָּאתִֽ י",
+        "LXX": "οὐκ ἔστιν εἰρήνη τοῖς ὀστέοις μου ἀπὸ προσώπου τῶν ἁμαρτιῶν μου .",
+        "VUL": "non est pax óssibus meis a fácie peccatórum meórum .",
+        "SP": null,
+        "KJV": "neither [ is there any ] rest in my bones because of my sin .",
+        "DSS": "# [ ין ש ]לו?ם# ב עצמ׳י מ# [ פני חטאת׳י ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "For mine iniquities are gone over mine head :",
+      "traditions": {
+        "WLC": "כִּ֣י עֲ֭וֺנֹתַ י עָבְר֣וּ רֹאשִׁ֑ י",
+        "LXX": "ὅτι αἱ ἀνομίαι μου ὑπερῆραν τὴν κεφαλήν μου ,",
+        "VUL": "Quóniam iniquitátes meæ supergréssæ sunt caput meum :",
+        "SP": null,
+        "KJV": "For mine iniquities are gone over mine head :",
+        "DSS": "[4Q83] כי עונת׳י ] [ עברו ראש׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as an heavy burden they are too heavy for me .",
+      "traditions": {
+        "WLC": "כְּ מַשָּׂ֥א כָ֝בֵ֗ד יִכְבְּד֥וּ מִמֶּֽ נִּי",
+        "LXX": "ὡσεὶ φορτίον βαρὺ ἐβαρύνθησαν ἐπ᾽ ἐμέ .",
+        "VUL": "et sicut onus grave gravátæ sunt super me .",
+        "SP": null,
+        "KJV": "as an heavy burden they are too heavy for me .",
+        "DSS": "כ משא כבד יכבדו ממ׳ני ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "My wounds stink and are corrupt because of my foolishness .",
+      "traditions": {
+        "WLC": "הִבְאִ֣ישׁוּ נָ֭מַקּוּ חַבּוּרֹתָ֑ י מִ֝ פְּנֵ֗י אִוַּלְתִּֽ י",
+        "LXX": "προσώζεσαν καὶ ἐσάπησαν οἱ μώλωπές μου ἀπὸ προσώπου τῆς ἀφροσύνης μου ·",
+        "VUL": "Putruérunt et corrúptæ sunt cicatríces meæ , a fácie insipiéntiæ meæ .",
+        "SP": null,
+        "KJV": "My wounds stink [ and ] are corrupt because of my foolishness .",
+        "DSS": "[4Q83] הבאי ]ש##ו#? ו#? נ?מקו ח##[ בורו ]ת׳י מ פני אולת#׳[ י ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "I am troubled ;",
+      "traditions": {
+        "WLC": "נַעֲוֵ֣יתִי",
+        "LXX": "ἐταλαιπώρησα",
+        "VUL": "Miser factus sum",
+        "SP": null,
+        "KJV": "I am troubled ;",
+        "DSS": "[4Q83] נעויתי ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I am bowed down greatly ;",
+      "traditions": {
+        "WLC": "שַׁחֹ֣תִי עַד מְאֹ֑ד",
+        "LXX": "καὶ κατεκάμφθην ἕως τέλους ,",
+        "VUL": "et curvátus sum usque in finem :",
+        "SP": null,
+        "KJV": "I am bowed down greatly ;",
+        "DSS": "[ שחתי עד מאד"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I go mourning all the day long .",
+      "traditions": {
+        "WLC": "כָּל הַ֝ יּ֗וֹם קֹדֵ֥ר הִלָּֽכְתִּי",
+        "LXX": "ὅλην τὴν ἡμέραν σκυθρωπάζων ἐπορευόμην ·",
+        "VUL": "tota die contristátus ingrediébar .",
+        "SP": null,
+        "KJV": "I go mourning all the day long .",
+        "DSS": "כל ה יום קדר הלכתי ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "For my loins are filled with a loathsome disease :",
+      "traditions": {
+        "WLC": "כִּֽי כְ֭סָלַ י מָלְא֣וּ נִקְלֶ֑ה",
+        "LXX": "ὅτι ἡ ψυχή μου ἐπλήσθη ἐνπαιγμῶν ,",
+        "VUL": "Quóniam lumbi mei impléti sunt illusiónibus :",
+        "SP": null,
+        "KJV": "For my loins are filled with a loathsome [ disease ] :",
+        "DSS": "[4Q83] ε  ] # [  ε"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and there is no soundness in my flesh .",
+      "traditions": {
+        "WLC": "וְ אֵ֥ין מְ֝תֹ֗ם בִּ בְשָׂרִֽ י",
+        "LXX": "καὶ οὐκ ἔστιν ἴασις ἐν τῇ σαρκί μου .",
+        "VUL": "et non est sánitas in carne mea .",
+        "SP": null,
+        "KJV": "and [ there is ] no soundness in my flesh .",
+        "DSS": "ו אין  ]מ##ת#ם ב# ב#ש#ר#׳י ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "I am feeble and sore broken :",
+      "traditions": {
+        "WLC": "נְפוּג֣וֹתִי וְ נִדְכֵּ֣יתִי עַד מְאֹ֑ד",
+        "LXX": "ἐκακώθην καὶ ἐταπεινώθην ἕως σφόδρα ,",
+        "VUL": "Afflíctus sum , et humiliátus sum nimis :",
+        "SP": null,
+        "KJV": "I am feeble and sore broken :",
+        "DSS": "[4Q83] נפ#ג?א # [  ו נדכיתי ] [ עד מאד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I have roared by reason of the disquietness of my heart .",
+      "traditions": {
+        "WLC": "שָׁ֝אַ֗גְתִּי מִֽ נַּהֲמַ֥ת לִבִּֽ י",
+        "LXX": "ὠρυόμην ἀπὸ στεναγμοῦ τῆς καρδίας μου .",
+        "VUL": "rugiébam a gémitu cordis mei .",
+        "SP": null,
+        "KJV": "I have roared by reason of the disquietness of my heart .",
+        "DSS": "שאגתי מ נהמת לב׳י ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Lord , all my desire is before thee ;",
+      "traditions": {
+        "WLC": "אֲֽדֹנָ י נֶגְדְּ ךָ֥ כָל תַּאֲוָתִ֑ י",
+        "LXX": "καὶ ἐναντίον σου πᾶσα ἡ ἐπιθυμία μου ,",
+        "VUL": "Dómine ante te omne desidérium meum :",
+        "SP": null,
+        "KJV": "Lord , all my desire [ is ] before thee ;",
+        "DSS": "[4Q83] אדני נגד׳ך כל תאות׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and my groaning is not hid from thee .",
+      "traditions": {
+        "WLC": "וְ֝ אַנְחָתִ֗ י מִמְּ ךָ֥ לֹא נִסְתָּֽרָה",
+        "LXX": "καὶ ὁ στεναγμός μου οὐκ ἐκρύβη ἀπὸ σοῦ .",
+        "VUL": "et gémitus meus a te non est abscónditus .",
+        "SP": null,
+        "KJV": "and my groaning is not hid from thee .",
+        "DSS": "ו אנחת׳י  ]ממ׳כה לוא# נסתר ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "My heart panteth",
+      "traditions": {
+        "WLC": "לִבִּ֣ י סְ֭חַרְחַר",
+        "LXX": "ἡ καρδία μου ἐταράχθη ,",
+        "VUL": "Cor meum conturbátum est ,",
+        "SP": null,
+        "KJV": "My heart panteth ,",
+        "DSS": "[ לב׳י ] [ סחרחר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "my strength faileth me",
+      "traditions": {
+        "WLC": "עֲזָבַ֣ נִי כֹחִ֑ י",
+        "LXX": "ἐνκατέλιπέν με ἡ ἰσχύς μου ,",
+        "VUL": "derelíquit me virtus mea :",
+        "SP": null,
+        "KJV": "my strength faileth me :",
+        "DSS": "עזב׳ני כח׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "as for the light of mine eyes , it also is gone from me",
+      "traditions": {
+        "WLC": "וְֽ אוֹר עֵינַ֥ י גַּם הֵ֝֗ם אֵ֣ין אִתִּֽ י",
+        "LXX": "καὶ τὸ φῶς τῶν ὀφθαλμῶν μου οὐκ ἔστιν μετ᾽ ἐμοῦ .",
+        "VUL": "et lumen oculórum meórum , et ipsum non est mecum .",
+        "SP": null,
+        "KJV": "as for the light of mine eyes , it also is gone from me .",
+        "DSS": "ו אור עינ׳י גם הם אין את׳י ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "My lovers and my friends stand aloof from my sore",
+      "traditions": {
+        "WLC": "אֹֽהֲבַ֨ י וְ רֵעַ֗ י מִ נֶּ֣גֶד נִגְעִ֣ י יַעֲמֹ֑דוּ",
+        "LXX": "οἱ φίλοι μου καὶ οἱ πλησίον μου ἐξ ἐναντίας μου ἤγγισαν καὶ ἔστησαν ,",
+        "VUL": "Amíci mei , et próximi mei advérsum me appropinquavérunt , et stetérunt .",
+        "SP": null,
+        "KJV": "My lovers and my friends stand aloof from my sore ;",
+        "DSS": "ε מ נ ]גד ר#ע׳י ו מיוד##[ ע׳י ε ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and my kinsmen stand afar off",
+      "traditions": {
+        "WLC": "וּ֝ קְרוֹבַ֗ י מֵ רָחֹ֥ק עָמָֽדוּ",
+        "LXX": "καὶ οἱ ἔγγιστά μου μακρόθεν ἔστησαν ·",
+        "VUL": "Et qui iuxta me erant , de longe stetérunt :",
+        "SP": null,
+        "KJV": "and my kinsmen stand afar off .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "They also that seek after my life lay snares",
+      "traditions": {
+        "WLC": "וַ יְנַקְשׁ֤וּ מְבַקְשֵׁ֬י נַפְשִׁ֗ י",
+        "LXX": "καὶ ἐξεβιάσαντο οἱ ζητοῦντες τὴν ψυχήν μου ,",
+        "VUL": "et vim faciébant , qui quærébant ánimam meam .",
+        "SP": null,
+        "KJV": "They also that seek after my life lay snares [ for me ] :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they that seek my hurt speak mischievous things",
+      "traditions": {
+        "WLC": "וְ דֹרְשֵׁ֣י רָ֭עָתִ י דִּבְּר֣וּ הַוּ֑וֹת",
+        "LXX": "καὶ οἱ ζητοῦντες τὰ κακά μοι ἐλάλησαν ματαιότητας ,",
+        "VUL": "Et qui inquirébant mala mihi , locúti sunt vanitátes :",
+        "SP": null,
+        "KJV": "and they that seek my hurt speak mischievous things ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and imagine deceits all the day long",
+      "traditions": {
+        "WLC": "וּ֝ מִרְמ֗וֹת כָּל הַ יּ֥וֹם יֶהְגּֽוּ",
+        "LXX": "καὶ δολιότητας ὅλην τὴν ἡμέραν ἐμελέτησαν .",
+        "VUL": "et dolos tota die meditabántur .",
+        "SP": null,
+        "KJV": "and imagine deceits all the day long .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "But I , as a deaf man , heard not",
+      "traditions": {
+        "WLC": "וַ אֲנִ֣י כְ֭ חֵרֵשׁ לֹ֣א אֶשְׁמָ֑ע",
+        "LXX": "ἐγὼ δὲ ὡσεὶ κωφὸς οὐκ ἤκουον ,",
+        "VUL": "Ego autem tamquam surdus non audiébam :",
+        "SP": null,
+        "KJV": "But I , as a deaf [ man ] , heard not ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I was as a dumb man that openeth not his mouth",
+      "traditions": {
+        "WLC": "וּ֝ כְ אִלֵּ֗ם לֹ֣א יִפְתַּח פִּֽי ו",
+        "LXX": "καὶ ὡσεὶ ἄλαλος οὐκ ἀνοίγων τὸ στόμα αὐτοῦ ·",
+        "VUL": "et sicut mutus non apériens os suum .",
+        "SP": null,
+        "KJV": "and [ I was ] as a dumb man [ that ] openeth not his mouth .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus I was as a man that heareth not",
+      "traditions": {
+        "WLC": "וָ אֱהִ֗י כְּ֭ אִישׁ אֲשֶׁ֣ר לֹא שֹׁמֵ֑עַ",
+        "LXX": "καὶ ἐγενόμην ὡσεὶ ἄνθρωπος οὐκ ἀκούων",
+        "VUL": "Et factus sum sicut homo non áudiens ,",
+        "SP": null,
+        "KJV": "Thus I was as a man that heareth not ,",
+        "DSS": "ε  ] # ["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and in whose mouth are no reproofs",
+      "traditions": {
+        "WLC": "וְ אֵ֥ין בְּ֝ פִ֗י ו תּוֹכָחֽוֹת",
+        "LXX": "καὶ οὐκ ἔχων ἐν στόματι αὐτοῦ ἐλεγμούς .",
+        "VUL": "et non habens in ore suo redargutiónes .",
+        "SP": null,
+        "KJV": "and in whose mouth [ are ] no reproofs .",
+        "DSS": "ε ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "For in thee , O LORD , do I hope",
+      "traditions": {
+        "WLC": "כִּֽי לְ ךָ֣ יְהוָ֣ה הוֹחָ֑לְתִּי",
+        "LXX": "ὅτι ἐπὶ σὲ ἤλπισα , Κύριε ·",
+        "VUL": "Quóniam in te Dómine sperávi :",
+        "SP": null,
+        "KJV": "For in thee , O LORD , do I hope :",
+        "DSS": "כי ל׳ך יהוה הוחלתי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou wilt hear , O Lord my God",
+      "traditions": {
+        "WLC": "אַתָּ֥ה תַ֝עֲנֶ֗ה אֲדֹנָ֥ י אֱלֹהָֽ י",
+        "LXX": "σὺ εἰσακούσῃ , κύριε ὁ θεός μου .",
+        "VUL": "tu exáudies me Dómine Deus meus .",
+        "SP": null,
+        "KJV": "thou wilt hear , O Lord my God .",
+        "DSS": "] אדני אתה תענ׳ני כי אלה#׳י? ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I said , lest they should rejoice over me",
+      "traditions": {
+        "WLC": "כִּֽי אָ֭מַרְתִּי פֶּן יִשְׂמְחוּ לִ֑ י",
+        "LXX": "ὅτι εἶπα Μή ποτε ἐπιχαρῶσίν μοι οἱ ἐχθροί μου ,",
+        "VUL": "Quia dixi : Nequándo supergáudeant mihi inimíci mei :",
+        "SP": null,
+        "KJV": "For I said , [ Hear me ] , lest [ otherwise ] they should rejoice over me :",
+        "DSS": "[ אמרתי פן ישמחו ל׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when my foot slippeth , they magnify themselves against me",
+      "traditions": {
+        "WLC": "בְּ מ֥וֹט רַ֝גְלִ֗ י עָלַ֥ י הִגְדִּֽילוּ",
+        "LXX": "καὶ ἐν τῷ σαλευθῆναι πόδας μου ἐπ᾽ ἐμὲ ἐμεγαλορημόνησαν .",
+        "VUL": "et dum commovéntur pedes mei , super me magna locúti sunt .",
+        "SP": null,
+        "KJV": "when my foot slippeth , they magnify [ themselves ] against me .",
+        "DSS": "ב מוט רגל׳י על׳י  ]יג?דילו ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I am ready to halt",
+      "traditions": {
+        "WLC": "כִּֽי אֲ֭נִי לְ צֶ֣לַע נָכ֑וֹן",
+        "LXX": "ὅτι ἐγὼ εἰς μάστιγας ἕτοιμος ,",
+        "VUL": "Quóniam ego in flagélla parátus sum :",
+        "SP": null,
+        "KJV": "For I [ am ] ready to halt ,",
+        "DSS": "כי אני ל צ##[ לע נכון ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and my sorrow is continually before me",
+      "traditions": {
+        "WLC": "וּ מַכְאוֹבִ֖ י נֶגְדִּ֣ י תָמִֽיד",
+        "LXX": "καὶ ἡ ἀλγηδών μου ἐνώπιόν μου διὰ παντός .",
+        "VUL": "et dolor meus in conspéctu meo semper .",
+        "SP": null,
+        "KJV": "and my sorrow [ is ] continually before me .",
+        "DSS": "ו מכאב׳י נגד׳י תמיד ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I will declare mine iniquity",
+      "traditions": {
+        "WLC": "כִּֽי עֲוֺנִ֥ י אַגִּ֑יד",
+        "LXX": "ὅτι τὴν ἀνομίαν μου ἀναγγελῶ ,",
+        "VUL": "Quóniam iniquitátem meam annuntiábo :",
+        "SP": null,
+        "KJV": "For I will declare mine iniquity ;",
+        "DSS": "כה ע#ונת׳י [ אגיד ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will be sorry for my sin",
+      "traditions": {
+        "WLC": "אֶ֝דְאַ֗ג מֵֽ חַטָּאתִֽ י",
+        "LXX": "καὶ μεριμνήσω ὑπὲρ τῆς ἁμαρτίας μου .",
+        "VUL": "et cogitábo pro peccáto meo .",
+        "SP": null,
+        "KJV": "I will be sorry for my sin .",
+        "DSS": "אדאג מן ח##ט#אות׳י ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "But mine enemies are lively , and they are strong",
+      "traditions": {
+        "WLC": "וְֽ֭ אֹיְבַ י חַיִּ֣ים עָצֵ֑מוּ",
+        "LXX": "οἱ δὲ ἐχθροί μου ζῶσιν καὶ κεκραταίωνται ὑπὲρ ἐμέ ,",
+        "VUL": "Inimíci autem mei vivunt , et confirmáti sunt super me :",
+        "SP": null,
+        "KJV": "But mine enemies [ are ] lively , [ and ] they are strong :",
+        "DSS": "ו איב׳י ח##נם ע##צמ#ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they that hate me wrongfully are multiplied",
+      "traditions": {
+        "WLC": "וְ רַבּ֖וּ שֹׂנְאַ֣ י שָֽׁקֶר",
+        "LXX": "καὶ ἐπληθύνθησαν οἱ μισοῦντές με ἀδίκως ·",
+        "VUL": "et multiplicáti sunt qui odérunt me iníque .",
+        "SP": null,
+        "KJV": "and they that hate me wrongfully are multiplied .",
+        "DSS": "ו#? ר##[ בו שנא׳י ] שק#ר׳י ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "They also that render evil for good are mine adversaries",
+      "traditions": {
+        "WLC": "וּ מְשַׁלְּמֵ֣י רָ֭עָה תַּ֣חַת טוֹבָ֑ה יִ֝שְׂטְנ֗וּ נִי",
+        "LXX": "οἱ ἀνταποδιδόντες κακὰ ἀντὶ ἀγαθῶν ἐνδιέβαλλόν με ,",
+        "VUL": "Qui retríbuunt mala pro bonis detrahébant mihi :",
+        "SP": null,
+        "KJV": "They also that render evil for good are mine adversaries ;",
+        "DSS": "[4Q83] משלימי ר#ע##ה# תחת טו?בה י#?שס׳ני"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because I follow [ the thing that ] good [ is ]",
+      "traditions": {
+        "WLC": "תַּ֣חַת רדופ י טֽוֹב",
+        "LXX": "ἐπεὶ κατεδίωκον δικαιοσύνην .",
+        "VUL": "quóniam sequébar bonitátem .",
+        "SP": null,
+        "KJV": "because I follow [ the thing that ] good [ is ] .",
+        "DSS": "תחת דבר טוב ׃"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "Forsake me not , O LORD",
+      "traditions": {
+        "WLC": "אַל תַּֽעַזְבֵ֥ נִי יְהוָ֑ה",
+        "LXX": "μὴ ἐνκαταλίπῃς με , Κύριε ·",
+        "VUL": "Ne derelínquas me Dómine",
+        "SP": null,
+        "KJV": "Forsake me not , O LORD :",
+        "DSS": "[4Q83] אל תעז?וב׳ני"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O my God , be not far from me",
+      "traditions": {
+        "WLC": "אֱ֝לֹהַ֗ י אַל תִּרְחַ֥ק מִמֶּֽ נִּי",
+        "LXX": "ὁ θεός μου , μὴ ἀποστῇς ἀπ᾽ ἐμοῦ ·",
+        "VUL": "Deus meus : ne discésseris a me .",
+        "SP": null,
+        "KJV": "O my God , be not far from me .",
+        "DSS": "אלה##[ ׳י אל תרחק ] [ מ ]מ##׳נ?י ׃"
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "Make haste to help me",
+      "traditions": {
+        "WLC": "ח֥וּשָׁ ה לְ עֶזְרָתִ֑ י",
+        "LXX": "πρόσχες εἰς τὴν βοήθειάν μου ,",
+        "VUL": "Inténde in adiutórium meum ,",
+        "SP": null,
+        "KJV": "Make haste to help me ,",
+        "DSS": "[4Q83] חיש׳ה ל׳י ל עזרת׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O Lord my salvation",
+      "traditions": {
+        "WLC": "אֲ֝דֹנָ֗ י תְּשׁוּעָתִֽ י",
+        "LXX": "κύριε τῆς σωτηρίας μου .",
+        "VUL": "Dómine Deus salútis meæ .",
+        "SP": null,
+        "KJV": "O Lord my salvation .",
+        "DSS": "אדני תשוע#ת׳י ׃"
+      }
+    }
+  ]
+}

@@ -1,0 +1,890 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass on the eighth day",
+      "traditions": {
+        "WLC": "וַ יְהִי֙ בַּ יּ֣וֹם הַ שְּׁמִינִ֔י",
+        "LXX": "Καὶ ἐγενήθη τῇ ἡμέρᾳ τῇ ὀγδόῃ",
+        "VUL": "Facto autem octávo die ,",
+        "SP": "ו יהי ב יום ה שׁמיני",
+        "KJV": "And it came to pass on the eighth day , [ that ]",
+        "DSS": "ו יהי ב יו ]ם# ה ש##[ מיני"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Moses called Aaron and his sons",
+      "traditions": {
+        "WLC": "קָרָ֣א מֹשֶׁ֔ה לְ אַהֲרֹ֖ן וּ לְ בָנָ֑י",
+        "LXX": "ἐκάλεσεν Μωσῆς Ἀαρὼν καὶ τοὺς υἱοὺς αὐτοῦ",
+        "VUL": "vocávit Móyses Aaron , et fílios eius ,",
+        "SP": "קרא משׁה ל אהרן ו ל בניו",
+        "KJV": "Moses called Aaron and his sons ,",
+        "DSS": "קרא משה ל אהרן [ ו ל בני׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the elders of Israel",
+      "traditions": {
+        "WLC": "ו וּ לְ זִקְנֵ֖י יִשְׂרָאֵֽל",
+        "LXX": "καὶ τὴν γερουσίαν Ἰσραήλ .",
+        "VUL": "ac maióres natu Israel ,",
+        "SP": "ו ל זקני ישׂראל",
+        "KJV": "and the elders of Israel ;",
+        "DSS": "ו ל זקני ישר ]א#ל"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "dixítque ad Aaron :",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said unto Aaron",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֶֽל אַהֲרֹ֗ן",
+        "LXX": "καὶ εἶπεν Μωυσῆς πρὸς Ἀαρών",
+        "VUL": null,
+        "SP": "ו יאמר אל אהרן",
+        "KJV": "And he said unto Aaron ,",
+        "DSS": "ו יאמר [ אל אהרן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Take thee a young calf for a sin offering",
+      "traditions": {
+        "WLC": "קַח לְ֠ ךָ עֵ֣גֶל בֶּן בָּקָ֧ר לְ חַטָּ֛את",
+        "LXX": "Λάβε σεαυτῷ μοσχάριον ἁπαλὸν ἐκ βοῶν περὶ ἁμαρτίας",
+        "VUL": "Tolle de arménto vítulum pro peccáto ,",
+        "SP": "קח לך עגל בן בקר ל חטאת",
+        "KJV": "Take thee a young calf for a sin offering ,",
+        "DSS": "קח ל׳ך עגל בן ] [ בקר ל חט ]א##ת#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and a ram for a burnt offering, without blemish",
+      "traditions": {
+        "WLC": "וְ אַ֥יִל לְ עֹלָ֖ה תְּמִימִ֑ם",
+        "LXX": "καὶ κριὸν εἰς ὁλοκαύτωμα , ἄμωμα ,",
+        "VUL": "et aríetem in holocáustum , utrúmque immaculátum ,",
+        "SP": "ו איל ל עלה תמימם",
+        "KJV": "and a ram for a burnt offering , without blemish ,",
+        "DSS": "ו#? א#יל ל עלה# [ תמי ]מם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and offer [them] before the LORD",
+      "traditions": {
+        "WLC": "וְ הַקְרֵ֖ב לִ פְנֵ֥י יְהוָֽה",
+        "LXX": "καὶ προσένεγκε αὐτὰ ἔναντι Κυρίου ·",
+        "VUL": "et offer illos coram Dómino .",
+        "SP": "ו הקריב ל פני יהוה",
+        "KJV": "and offer [ them ] before the LORD .",
+        "DSS": "ו [ הקרב ל פני יהוה ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And unto the children of Israel thou shalt speak, saying",
+      "traditions": {
+        "WLC": "וְ אֶל בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵ אמֹ֑ר",
+        "LXX": "καὶ τῇ γερουσίᾳ Ἰσραὴλ λάλησον λέγων",
+        "VUL": "Et ad fílios Israel loquéris :",
+        "SP": "ו אל זקני ישׂראל תדבר ל אמר",
+        "KJV": "And unto the children of Israel thou shalt speak , saying ,",
+        "DSS": "ו אל ] [ בני ישרא ]ל# תדב#[ ר ] ל אמר##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Take ye a kid of the goats for a sin offering",
+      "traditions": {
+        "WLC": "קְח֤וּ שְׂעִיר עִזִּים֙ לְ חַטָּ֔את",
+        "LXX": "Λάβετε χίμαρον ἐξ αἰγῶν ἕνα περὶ ἁμαρτίας ,",
+        "VUL": "Tóllite hircum pro peccáto ,",
+        "SP": "קחו שׂעיר עזים ל חטאת",
+        "KJV": "Take ye a kid of the goats for a sin offering ;",
+        "DSS": "[ קחו ] ש#עיר עזים ל##[  חטאת ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and a calf and a lamb, [both] of the first year, without blemish, for a burnt offering",
+      "traditions": {
+        "WLC": "וְ עֵ֨גֶל וָ כֶ֧בֶשׂ בְּנֵי שָׁנָ֛ה תְּמִימִ֖ם לְ עֹלָֽה",
+        "LXX": "καὶ μοσχάριον καὶ ἀμνὸν ἐνιαύσιον εἰς ὁλοκάρπωσιν , ἄμωμα ,",
+        "VUL": "et vítulum atque agnum annículos et sine mácula , in holocáustum ,",
+        "SP": "ו עגל ו כבשׂ בני שׁנה תמימם ל עלה",
+        "KJV": "and a calf and a lamb , [ both ] of the first year , without blemish , for a burnt offering ;",
+        "DSS": "[ ו עגל ו כב ]ש## בני ש##[ נה תמי ]מ##ם## [ ל על ]ה ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Also a bullock and a ram for peace offerings, to sacrifice before the LORD",
+      "traditions": {
+        "WLC": "וְ שׁ֨וֹר וָ אַ֜יִל לִ שְׁלָמִ֗ים לִ זְבֹּ֨חַ֙ לִ פְנֵ֣י יְהוָ֔ה",
+        "LXX": "καὶ μόσχον καὶ κριὸν εἰς θυσίαν σωτηρίου ἔναντι Κυρίου ,",
+        "VUL": "bovem et aríetem pro pacíficis : et immoláte eos coram Dómino ,",
+        "SP": "ו שׁור ו איל ל שׁלמים ל זבח ל פני יהוה",
+        "KJV": "Also a bullock and a ram for peace offerings , to sacrifice before the LORD ;",
+        "DSS": "ו שור ו א##[ יל ל שלמים ] [ ל זבח ל פני י ]הוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a meat offering mingled with oil",
+      "traditions": {
+        "WLC": "וּ מִנְחָ֖ה בְּלוּלָ֣ה בַ שָּׁ֑מֶן",
+        "LXX": "καὶ σεμίδαλιν πεφυραμένην ἐν ἐλαίῳ ·",
+        "VUL": "in sacrifício singulórum símilam conspérsam óleo offeréntes :",
+        "SP": "ו מנחה בלולה ב שׁמן",
+        "KJV": "and a meat offering mingled with oil :",
+        "DSS": "ו?[  מנחה ] ב##ל#ול#ה# ב שמן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for to day the LORD will appear unto you",
+      "traditions": {
+        "WLC": "כִּ֣י הַ יּ֔וֹם יְהוָ֖ה נִרְאָ֥ה אֲלֵי כֶֽם",
+        "LXX": "ὅτι σήμερον Κύριος ὀφθήσεται ἐν ὑμῖν .",
+        "VUL": "hódie enim Dóminus apparébit vobis .",
+        "SP": "כי ה יום יהוה נראה אליכם",
+        "KJV": "for to day the LORD will appear unto you .",
+        "DSS": "כי ה יום יהוה# [ נראה ] [ אלי׳כם ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they brought [that] which Moses commanded before the tabernacle of the congregation",
+      "traditions": {
+        "WLC": "וַ יִּקְח֗וּ אֵ֚ת אֲשֶׁ֣ר צִוָּ֣ה מֹשֶׁ֔ה אֶל פְּנֵ֖י אֹ֣הֶל מוֹעֵ֑ד",
+        "LXX": "καὶ ἔλαβον καθὸ ἐνετείλατο Μωυσῆς ἀπέναντι τῆς σκηνῆς τοῦ μαρτυρίου ·",
+        "VUL": "Tulérunt ergo cuncta quæ iússerat Móyses ad óstium tabernáculi :",
+        "SP": "ו יקחו את אשׁר צוה משׁה אל פני אהל מועד",
+        "KJV": "And they brought [ that ] which Moses commanded before the tabernacle of the congregation :",
+        "DSS": "ו יקחו את אשר צוה משה ] א##ל# פני אהל מ##ו#?עד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and all the congregation drew near and stood before the LORD",
+      "traditions": {
+        "WLC": "וַֽ יִּקְרְבוּ֙ כָּל הָ֣ עֵדָ֔ה וַ יַּֽעַמְד֖וּ לִ פְנֵ֥י יְהוָֽה",
+        "LXX": "καὶ προσῆλθεν πᾶσα συναγωγή , καὶ ἔστησαν ἔναντι Κυρίου .",
+        "VUL": "ubi cum omnis multitúdo astáret ,",
+        "SP": "ו יקרבו כל ה עדה ו יעמדו ל פני יהוה",
+        "KJV": "and all the congregation drew near and stood before the LORD .",
+        "DSS": "[ ו יקרבו ] [ כל ה עדה ו יעמדו ל פני יהוה ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses said, This [is] the thing which the LORD commanded that ye should do",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר מֹשֶׁ֔ה זֶ֧ה הַ דָּבָ֛ר אֲשֶׁר צִוָּ֥ה יְהוָ֖ה תַּעֲשׂ֑וּ",
+        "LXX": "καὶ εἶπεν Μωσῆς Τοῦτο τὸ ῥῆμα ὃ εἶπεν Κύριος ποιήσατε ,",
+        "VUL": "ait Móyses : Iste est sermo , quem præcépit Dóminus : fácite ,",
+        "SP": "ו יאמר משׁה זה ה דבר אשׁר צוה יהוה תעשׂון",
+        "KJV": "And Moses said , This [ is ] the thing which the LORD commanded that ye should do :",
+        "DSS": "ו יאמר מש ]ה זה ה ד[ בר אשר ] [ צוה יהוה תעשו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the glory of the LORD shall appear unto you",
+      "traditions": {
+        "WLC": "וְ יֵרָ֥א אֲלֵי כֶ֖ם כְּב֥וֹד יְהוָֽה",
+        "LXX": "καὶ ὀφθήσεται ἐν ὑμῖν δόξα Κυρίου .",
+        "VUL": "et apparébit vobis glória eius .",
+        "SP": "ו יראה אליכם כבוד יהוה",
+        "KJV": "and the glory of the LORD shall appear unto you .",
+        "DSS": "ו ירא אלי׳כם כבוד יהוה ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses said unto Aaron, Go unto the altar",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל אַהֲרֹ֗ן קְרַ֤ב אֶל הַ מִּזְבֵּ֨חַ֙",
+        "LXX": "καὶ εἶπεν Μωυσῆς τῷ Ἀαρών Πρόσελθε πρὸς τὸ θυσιαστήριον ,",
+        "VUL": "Et dixit ad Aaron : Accéde ad altáre ,",
+        "SP": "ו יאמר משׁה אל אהרן קרב אל ה מזבח",
+        "KJV": "And Moses said unto Aaron , Go unto the altar ,",
+        "DSS": "ו יאמר משה ] [ אל אהרן קר ]ב## א##[ ל ה מזבח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and offer thy sin offering, and thy burnt offering",
+      "traditions": {
+        "WLC": "וַ עֲשֵׂ֞ה אֶת חַטָּֽאתְ ךָ֙ וְ אֶת עֹ֣לָתֶ֔ ךָ",
+        "LXX": "καὶ ποίησον τὸ περὶ τῆς ἁμαρτίας σου καὶ τὸ ὁλοκαύτωμά σου ,",
+        "VUL": "et ímmola pro peccáto tuo : offer holocáustum ,",
+        "SP": "ו עשׂה את חטאתך ו את עלתך",
+        "KJV": "and offer thy sin offering , and thy burnt offering ,",
+        "DSS": "ו עשה את חטא ]ת##׳ך## [ ו את עלת׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and make an atonement for thyself, and for the people",
+      "traditions": {
+        "WLC": "וְ כַפֵּ֥ר בַּֽעַדְ ךָ֖ וּ בְעַ֣ד הָ עָ֑ם",
+        "LXX": "καὶ ἐξίλασαι περὶ σεαυτοῦ καὶ τοῦ οἴκου σου ·",
+        "VUL": "et deprecáre pro te et pro pópulo :",
+        "SP": "ו כפר בעדך ו בעד ה עם",
+        "KJV": "and make an atonement for thyself , and for the people :",
+        "DSS": "ו כפר ] [ בעד׳ך ו בעד ] ה עם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and offer the offering of the people, and make an atonement for them",
+      "traditions": {
+        "WLC": "וַ עֲשֵׂ֞ה אֶת קָרְבַּ֤ן הָ עָם֙ וְ כַפֵּ֣ר בַּֽעֲדָ֔ ם",
+        "LXX": "καὶ ποίησον τὰ δῶρα τοῦ λαοῦ , καὶ ἐξίλασαι περὶ αὐτῶν ,",
+        "VUL": "cumque mactáveris hóstiam pópuli , ora pro eo ,",
+        "SP": "ו עשׂה את קרבן ה עם ו כפר בעדם",
+        "KJV": "and offer the offering of the people , and make an atonement for them ;",
+        "DSS": "ו ע##[ שה ] א#ת [ קרבן ] ה עם ו כ#פ##[ ר ] בעד׳ם"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "as the LORD commanded",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֖ר צִוָּ֥ה יְהוָֽה",
+        "LXX": "καθάπερ ἐνετείλατο Κύριος τῷ Μωυσῇ .",
+        "VUL": "sicut præcépit Dóminus .",
+        "SP": "כ אשׁר צוה יהוה",
+        "KJV": "as the LORD commanded .",
+        "DSS": "[ כ אשר צוה יהו ]ה ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Aaron therefore went unto the altar",
+      "traditions": {
+        "WLC": "וַ יִּקְרַ֥ב אַהֲרֹ֖ן אֶל הַ מִּזְבֵּ֑חַ",
+        "LXX": "Καὶ προσῆλθεν Ἀαρὼν πρὸς τὸ θυσιαστήριον ,",
+        "VUL": "Statímque Aaron accédens ad altáre ,",
+        "SP": "ו יקרב אהרן אל ה מזבח",
+        "KJV": "Aaron therefore went unto the altar ,",
+        "DSS": "ו יקרב אהרן? אל ה מז[ ב ]ח#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and slew the calf of the sin offering, which [was] for himself",
+      "traditions": {
+        "WLC": "וַ יִּשְׁחַ֛ט אֶת עֵ֥גֶל הַ חַטָּ֖את אֲשֶׁר לֽ וֹ",
+        "LXX": "καὶ ἔσφαξεν τὸ μοσχάριον τὸ περὶ τῆς ἁμαρτίας ·",
+        "VUL": "immolávit vítulum pro peccáto suo :",
+        "SP": "ו ישׁחט את עגל ה חטאת אשׁר לו",
+        "KJV": "and slew the calf of the sin offering , which [ was ] for himself .",
+        "DSS": "ו יש#ח#ט את עגל [ ה חטאת אש ]ר## ל׳ו ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the sons of Aaron brought the blood unto him",
+      "traditions": {
+        "WLC": "וַ֠ יַּקְרִבוּ בְּנֵ֨י אַהֲרֹ֣ן אֶת הַ דָּם֮ אֵלָי",
+        "LXX": "καὶ προσήνεγκαν οἱ υἱοὶ Ἀαρὼν τὸ αἷμα πρὸς αὐτόν ,",
+        "VUL": "cuius sánguinem obtulérunt ei fílii sui :",
+        "SP": "ו יקריבו בני אהרן את ה דם אליו",
+        "KJV": "And the sons of Aaron brought the blood unto him :",
+        "DSS": "ו יקרבו ב[ ני אהרן את ה דם אל ]י׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he dipped his finger in the blood, and put [it] upon the horns of the altar",
+      "traditions": {
+        "WLC": "ו֒ וַ יִּטְבֹּ֤ל אֶצְבָּע וֹ֙ בַּ דָּ֔ם וַ יִּתֵּ֖ן עַל קַרְנ֣וֹת הַ מִּזְבֵּ֑חַ",
+        "LXX": "καὶ ἔβαψεν τὸν δάκτυλον εἰς τὸ αἷμα καὶ ἐπέθηκεν ἐπὶ τὰ κέρατα τοῦ θυσιαστηρίου ,",
+        "VUL": "in quo tingens dígitum , tétigit córnua altáris ,",
+        "SP": "ו יטבל אצבעו ב דם ו יתן על קרנות ה מזבח",
+        "KJV": "and he dipped his finger in the blood , and put [ it ] upon the horns of the altar ,",
+        "DSS": "ו י[ טב ]ל אצבע׳ו [ ב דם ו יתן על קרנו ]ת ה## [ מ ]ז#?בח"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and poured out the blood at the bottom of the altar",
+      "traditions": {
+        "WLC": "וְ אֶת הַ דָּ֣ם יָצַ֔ק אֶל יְס֖וֹד הַ מִּזְבֵּֽחַ",
+        "LXX": "καὶ τὸ αἷμα ἐξέχεεν ἐπὶ τὴν βάσιν τοῦ θυσιαστηρίου ·",
+        "VUL": "et fudit resíduum ad basim eius .",
+        "SP": "ו את ה דם יצק אל יסוד ה מזבח",
+        "KJV": "and poured out the blood at the bottom of the altar :",
+        "DSS": "ו#?[  את ה דם יצק אל יסוד ה מזבח ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "But the fat, and the kidneys, and the caul above the liver of the sin offering, he burnt upon the altar",
+      "traditions": {
+        "WLC": "וְ אֶת הַ חֵ֨לֶב וְ אֶת הַ כְּלָיֹ֜ת וְ אֶת הַ יֹּתֶ֤רֶת מִן הַ כָּבֵד֙ מִן הַ֣ חַטָּ֔את הִקְטִ֖יר הַ מִּזְבֵּ֑חָ",
+        "LXX": "καὶ τὸ στέαρ καὶ τοὺς νεφροὺς καὶ τὸν λοβὸν τοῦ ἥπατος τοῦ περὶ τῆς ἁμαρτίας ἀνήνεγκεν ἐπὶ τὸ θυσιαστήριον ,",
+        "VUL": "Adipémque , et renúnculos , ac retículum iécoris , quæ sunt pro peccáto , adolévit super altáre ,",
+        "SP": "ו את ה חלב ו את ה כליות ו את ה יותרת מן ה כבד מן ה חטאת הקטיר ה מזבחה",
+        "KJV": "But the fat , and the kidneys , and the caul above the liver of the sin offering , he burnt upon the altar ;",
+        "DSS": "[ ו את ה חלב ו את ה כ ]ל#ית [ ו את ה יתרת מן ה כבד מן ה חטאת ה ]קטיר [ ה מזבח׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as the LORD commanded Moses",
+      "traditions": {
+        "WLC": "ה כַּ אֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה",
+        "LXX": "ὃν τρόπον ἐνετείλατο Κύριος τῷ Μωσῇ ·",
+        "VUL": "sicut præcéperat Dóminus Móysi :",
+        "SP": "כ אשׁר צוה יהוה את משׁה",
+        "KJV": "as the LORD commanded Moses .",
+        "DSS": "כ אשר צוה יהוה את משה ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the flesh and the hide he burnt with fire without the camp .",
+      "traditions": {
+        "WLC": "וְ אֶת הַ בָּשָׂ֖ר וְ אֶת הָ ע֑וֹר שָׂרַ֣ף בָּ אֵ֔שׁ מִ ח֖וּץ לַֽ מַּחֲנֶֽה",
+        "LXX": "καὶ τὰ κρέα καὶ τὴν βύρσαν κατέκαυσεν αὐτὰ πυρὶ ἔξω τῆς παρεμβολῆς .",
+        "VUL": "carnes vero et pellem eius extra castra combússit igni .",
+        "SP": "ו את ה בשׂר ו את ה עור שׂרף ב אשׁ מ חוץ ל מחנה",
+        "KJV": "And the flesh and the hide he burnt with fire without the camp .",
+        "DSS": "[Mas1b] ε ε ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he slew the burnt offering ;",
+      "traditions": {
+        "WLC": "וַ יִּשְׁחַ֖ט אֶת הָ עֹלָ֑ה",
+        "LXX": "καὶ ἔσφαξεν τὸ ὁλοκαύτωμα ·",
+        "VUL": "Immolávit et holocáusti víctimam :",
+        "SP": "ו ישׁחט את ה עלה",
+        "KJV": "And he slew the burnt offering ;",
+        "DSS": "[Mas1b] ו ישחט את ה עלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Aaron ’s sons presented unto him the blood ,",
+      "traditions": {
+        "WLC": "וַ֠ יַּמְצִאוּ בְּנֵ֨י אַהֲרֹ֤ן אֵלָי ו֙ אֶת הַ דָּ֔ם",
+        "LXX": "καὶ προσήνεγκαν οἱ υἱοὶ Ἀαρὼν καὶ τὸ αἷμα πρὸς αὐτόν ,",
+        "VUL": "obtulerúntque ei fílii sui sánguinem eius ,",
+        "SP": "ו ימציאו בני אהרן אליו את ה דם",
+        "KJV": "and Aaron ’s sons presented unto him the blood ,",
+        "DSS": "ו ימצאו בני ] א##ה##[ ר ]ן? [ אלי׳ו א ]ת# ה[ דם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which he sprinkled round about upon the altar .",
+      "traditions": {
+        "WLC": "וַ יִּזְרְקֵ֥ הוּ עַל הַ מִּזְבֵּ֖חַ סָבִֽיב",
+        "LXX": "καὶ προσέχεεν ἐπὶ τὸ θυσιαστήριον κύκλῳ ·",
+        "VUL": "quem fudit per altáris circúitum .",
+        "SP": "ו יזרקהו על ה מזבח סביב",
+        "KJV": "which he sprinkled round about upon the altar .",
+        "DSS": "ו יזרק׳הו על ה מזבח סביב ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they presented the burnt offering unto him ,",
+      "traditions": {
+        "WLC": "וְ אֶת הָ עֹלָ֗ה הִמְצִ֧יאוּ אֵלָ֛י",
+        "LXX": "καὶ τὸ ὁλοκαύτωμα , προσήνεγκαν αὐτὸ",
+        "VUL": "Ipsam étiam hóstiam",
+        "SP": "ו את ה עלה המציאו אליו",
+        "KJV": "And they presented the burnt offering unto him ,",
+        "DSS": "[Mas1b] ו את ה עלה ] [ המצ ]יאו אלי׳ו?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with the pieces thereof , and the head :",
+      "traditions": {
+        "WLC": "ו לִ נְתָחֶ֖י הָ וְ אֶת הָ רֹ֑אשׁ",
+        "LXX": "κατὰ μέλη , αὐτὰ καὶ τὴν κεφαλήν ,",
+        "VUL": "in frusta concísam , cum cápite et membris síngulis obtulérunt :",
+        "SP": "ל נתחיה ו את ה ראשׁ",
+        "KJV": "with the pieces thereof , and the head :",
+        "DSS": "[ ל נתחי׳ה ו את ה ראש"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he burnt [ them ] upon the altar .",
+      "traditions": {
+        "WLC": "וַ יַּקְטֵ֖ר עַל הַ מִּזְבֵּֽחַ",
+        "LXX": "καὶ ἐπέθηκεν ἐπὶ τὸ θυσιαστήριον ·",
+        "VUL": "quæ ómnia super altáre cremávit igni ,",
+        "SP": "ו יקטר ה מזבחה",
+        "KJV": "and he burnt [ them ] upon the altar .",
+        "DSS": "ו יקטר על ה מזבח ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he did wash the inwards and the legs ,",
+      "traditions": {
+        "WLC": "וַ יִּרְחַ֥ץ אֶת הַ קֶּ֖רֶב וְ אֶת הַ כְּרָעָ֑יִם",
+        "LXX": "καὶ ἔπλυνεν τὴν κοιλίαν καὶ τοὺς πόδας ὕδατι",
+        "VUL": "lotis aqua prius intestínis et pédibus .",
+        "SP": "ו ירחץ את ה קרב ו את ה כרעים",
+        "KJV": "And he did wash the inwards and the legs ,",
+        "DSS": "[Mas1b] ו ירחץ ] [ את ה קרב ו את ה כרעים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and burnt [ them ] upon the burnt offering on the altar .",
+      "traditions": {
+        "WLC": "וַ יַּקְטֵ֥ר עַל הָ עֹלָ֖ה הַ מִּזְבֵּֽחָ ה",
+        "LXX": "καὶ ἐπέθηκεν ἐπὶ τὸ ὁλοκαύτωμα ἐπὶ τὸ θυσιαστήριον .",
+        "VUL": null,
+        "SP": "ו יקטר על ה עלה ה מזבחה",
+        "KJV": "and burnt [ them ] upon the burnt offering on the altar .",
+        "DSS": "ו יקטר על ה עלה ה מזבח׳ה ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he brought the people ’s offering ,",
+      "traditions": {
+        "WLC": "וַ יַּקְרֵ֕ב אֵ֖ת קָרְבַּ֣ן הָ עָ֑ם",
+        "LXX": "Καὶ προσήνεγκαν τὸ δῶρον τοῦ λαοῦ ·",
+        "VUL": "Et pro peccáto pópuli ófferens ,",
+        "SP": "ו יקריב את קרבן ה עם",
+        "KJV": "And he brought the people ’s offering ,",
+        "DSS": "[Mas1b] ו יקרב ] [ את קרבן ה עם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and took the goat ,",
+      "traditions": {
+        "WLC": "וַ יִּקַּ֞ח אֶת שְׂעִ֤יר",
+        "LXX": "καὶ ἔλαβεν τὸν χίμαρον",
+        "VUL": null,
+        "SP": "ו יקח את שׂעיר",
+        "KJV": "and took the goat ,",
+        "DSS": "ו יקח את שעיר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which [ was ] the sin offering for the people ,",
+      "traditions": {
+        "WLC": "הַֽ חַטָּאת֙ אֲשֶׁ֣ר לָ עָ֔ם",
+        "LXX": "τὸν περὶ τῆς ἁμαρτίας τοῦ λαοῦ ,",
+        "VUL": "mactávit hircum :",
+        "SP": "ה חטאת אשׁר ל עם",
+        "KJV": "which [ was ] the sin offering for the people ,",
+        "DSS": "ה חטאת אשר ל עם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and slew it ,",
+      "traditions": {
+        "WLC": "וַ יִּשְׁחָטֵ֥ הוּ",
+        "LXX": "καὶ ἔσφαξεν αὐτὸ",
+        "VUL": null,
+        "SP": "ו ישׁחטהו",
+        "KJV": "and slew it ,",
+        "DSS": "ו ישחט׳הו ]"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and offered it for sin ,",
+      "traditions": {
+        "WLC": "וַֽ יְחַטְּאֵ֖ הוּ",
+        "LXX": null,
+        "VUL": "expiatóque altári ,",
+        "SP": "ו יחטאהו",
+        "KJV": "and offered it for sin ,",
+        "DSS": "[ ו יחטא׳הו"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "as the first .",
+      "traditions": {
+        "WLC": "כָּ רִאשֽׁוֹן",
+        "LXX": "καθὰ καὶ τὸ πρῶτον .",
+        "VUL": null,
+        "SP": "כ ראישׁון",
+        "KJV": "as the first .",
+        "DSS": "כ ראשון ׃ ε"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he brought the burnt offering ,",
+      "traditions": {
+        "WLC": "וַ יַּקְרֵ֖ב אֶת הָ עֹלָ֑ה",
+        "LXX": "καὶ προσήνεγκεν τὸ ὁλοκαύτωμα ,",
+        "VUL": "fecit holocáustum ,",
+        "SP": "ו יקרב את ה עלה",
+        "KJV": "And he brought the burnt offering ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and offered it according to the manner .",
+      "traditions": {
+        "WLC": "וַֽ יַּעֲשֶׂ֖ הָ כַּ מִּשְׁפָּֽט",
+        "LXX": "καὶ ἐποίησεν αὐτὸ ὡς καθήκει .",
+        "VUL": null,
+        "SP": "ו יעשׂה כ משׁפט",
+        "KJV": "and offered it according to the manner .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he brought the meat offering ,",
+      "traditions": {
+        "WLC": "וַ יַּקְרֵב֮ אֶת הַ מִּנְחָה֒",
+        "LXX": "καὶ προσήνεγκεν τὴν θυσίαν ,",
+        "VUL": "addens in sacrifício libaménta ,",
+        "SP": "ו יקרב את ה מנחה",
+        "KJV": "And he brought the meat offering ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and took an handful thereof ,",
+      "traditions": {
+        "WLC": "וַ יְמַלֵּ֤א כַפּ וֹ֙ מִמֶּ֔ נָּה",
+        "LXX": "καὶ ἔπλησεν τὰς χεῖρας ἀπ᾽ αὐτῆς ,",
+        "VUL": "quæ páriter offerúntur ,",
+        "SP": "ו ימלא כפיו ממנה",
+        "KJV": "and took an handful thereof ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and burnt [ it ] upon the altar ,",
+      "traditions": {
+        "WLC": "וַ יַּקְטֵ֖ר עַל הַ מִּזְבֵּ֑חַ",
+        "LXX": "καὶ ἐπέθηκεν ἐπὶ τὸ θυσιαστήριον",
+        "VUL": "et ádolens ea super altáre ,",
+        "SP": "ו יקטר על ה מזבח",
+        "KJV": "and burnt [ it ] upon the altar ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "beside the burnt sacrifice of the morning .",
+      "traditions": {
+        "WLC": "מִ לְּ בַ֖ד עֹלַ֥ת הַ בֹּֽקֶר",
+        "LXX": "χωρὶς τοῦ ὁλοκαυτώματος τοῦ πρωινοῦ .",
+        "VUL": "absque cæremóniis holocáusti matutíni .",
+        "SP": "מ ל בד עלת ה בקר",
+        "KJV": "beside the burnt sacrifice of the morning .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "He slew also the bullock and the ram [ for ] a sacrifice of peace offerings , which [ was ] for the people :",
+      "traditions": {
+        "WLC": "וַ יִּשְׁחַ֤ט אֶת הַ שּׁוֹר֙ וְ אֶת הָ אַ֔יִל זֶ֥בַח הַ שְּׁלָמִ֖ים אֲשֶׁ֣ר לָ עָ֑ם",
+        "LXX": "καὶ ἔσφαξεν τὸν μόσχον καὶ τὸν κριὸν τῆς θυσίας τοῦ σωτηρίου τῆς τοῦ λαοῦ ·",
+        "VUL": "Immolávit et bovem atque aríetem , hóstias pacíficas pópuli :",
+        "SP": "ו ישׁחט את ה שׁור ו את ה איל זבח ה שׁלמים אשׁר ל עם",
+        "KJV": "He slew also the bullock and the ram [ for ] a sacrifice of peace offerings , which [ was ] for the people :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Aaron ’s sons presented unto him the blood ,",
+      "traditions": {
+        "WLC": "וַ֠ יַּמְצִאוּ בְּנֵ֨י אַהֲרֹ֤ן אֶת הַ דָּם֙ אֵלָ֔י ו",
+        "LXX": "καὶ προσήνεγκαν οἱ υἱοὶ Ἀαρὼν τὸ αἷμα πρὸς αὐτόν ,",
+        "VUL": "obtulerúntque ei fílii sui sánguinem ,",
+        "SP": "ו ימציאו בני אהרן את ה דם אליו",
+        "KJV": "and Aaron ’s sons presented unto him the blood ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which he sprinkled upon the altar round about ,",
+      "traditions": {
+        "WLC": "וַ יִּזְרְקֵ֥ הוּ עַל הַ מִּזְבֵּ֖חַ סָבִֽיב",
+        "LXX": "καὶ προσέχεεν πρὸς τὸ θυσιαστήριον κύκλῳ · ⸆",
+        "VUL": "quem fudit super altáre in circúitum .",
+        "SP": "ו יזרקהו על ה מזבח סביב",
+        "KJV": "which he sprinkled upon the altar round about ,",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the fat of the bullock and of the ram , the rump , and that which covereth [ the inwards ] , and the kidneys , and the caul [ above ] the liver :",
+      "traditions": {
+        "WLC": "וְ אֶת הַ חֲלָבִ֖ים מִן הַ שּׁ֑וֹר וּ מִן הָ אַ֔יִל הָֽ אַלְיָ֤ה וְ הַֽ מְכַסֶּה֙ וְ הַ כְּלָיֹ֔ת וְ יֹתֶ֖רֶת הַ כָּבֵֽד",
+        "LXX": "καὶ τὸ στέαρ τὸ ἀπὸ τοῦ μόσχου καὶ τοῦ κριοῦ , τὴν ὀσφὺν καὶ τὸ στέαρ τὸ κατακαλύπτον ἐπὶ τῆς κοιλίας καὶ τοὺς δύο νεφροὺς καὶ τὸ στέαρ τὸ ἐπ᾽ αὐτῶν καὶ τὸν λοβὸν τὸν ἐπὶ τοῦ ἥπατος ·",
+        "VUL": "Adipem autem bovis , et caudam aríetis , renunculósque cum adípibus suis , et retículum iécoris ,",
+        "SP": "ו את ה חלבים מן ה שׁור ו מן ה איל ה אליה ו ה מכסה ו ה כליות ו יותרת ה כבד",
+        "KJV": "And the fat of the bullock and of the ram , the rump , and that which covereth [ the inwards ] , and the kidneys , and the caul [ above ] the liver :",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they put the fat upon the breasts ,",
+      "traditions": {
+        "WLC": "וַ יָּשִׂ֥ימוּ אֶת הַ חֲלָבִ֖ים עַל הֶ חָז֑וֹת",
+        "LXX": "καὶ ἐπέθηκεν τὰ στέατα ἐπὶ τὰ στηθύνια ,",
+        "VUL": "posuérunt super péctora :",
+        "SP": "ו ישׂם את ה חלבים על ה חזות",
+        "KJV": "And they put the fat upon the breasts ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he burnt the fat upon the altar :",
+      "traditions": {
+        "WLC": "וַ יַּקְטֵ֥ר הַ חֲלָבִ֖ים הַ מִּזְבֵּֽחָ ה",
+        "LXX": "καὶ ἀνήνεγκαν τὰ στέατα ἐπὶ τὸ θυσιαστήριον ·",
+        "VUL": "cumque cremáti essent ádipes super altáre ,",
+        "SP": "ו יקטר ה חלבים ה מזבחה",
+        "KJV": "and he burnt the fat upon the altar :",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the breasts and the right shoulder",
+      "traditions": {
+        "WLC": "וְ אֵ֣ת הֶ חָז֗וֹת וְ אֵת֙ שׁ֣וֹק הַ יָּמִ֔ין",
+        "LXX": "καὶ τὸ στηθύνιον καὶ τὸν βραχίονα τὸν δεξιὸν",
+        "VUL": "péctora eórum , et armos dextros",
+        "SP": "ו את ה חזות ו את שׁוק ה ימין",
+        "KJV": "And the breasts and the right shoulder",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Aaron waved [ for ] a wave offering before the LORD",
+      "traditions": {
+        "WLC": "הֵנִ֧יף אַהֲרֹ֛ן תְּנוּפָ֖ה לִ פְנֵ֣י יְהוָ֑ה",
+        "LXX": "ἀφεῖλεν Ἀαρὼν ἀφαίρεμα ἔναντι Κυρίου ,",
+        "VUL": "separávit Aaron , élevans coram Dómino ,",
+        "SP": "הניף אהרן תנופה ל פני יהוה",
+        "KJV": "Aaron waved [ for ] a wave offering before the LORD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "as Moses commanded",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֖ר צִוָּ֥ה מֹשֶֽׁה",
+        "LXX": "ὃν τρόπον συνέταξεν Κύριος τῷ Μωυσῇ .",
+        "VUL": "sicut præcéperat Móyses .",
+        "SP": "כ אשׁר צוה יהוה את משׁה",
+        "KJV": "as Moses commanded .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Aaron lifted up his hand toward the people",
+      "traditions": {
+        "WLC": "וַ יִּשָּׂ֨א אַהֲרֹ֧ן אֶת יד ו אֶל הָ עָ֖ם",
+        "LXX": "Καὶ ἐξάρας Ἀαρὼν τὰς χεῖρας ἐπὶ τὸν λαὸν",
+        "VUL": "Et exténdens manus ad pópulum ,",
+        "SP": "ו ישׂא אהרן את ידו על ה עם",
+        "KJV": "And Aaron lifted up his hand toward the people ,",
+        "DSS": "[Mas1b] ε ו ישא אהרן את יד׳ו אל ה עם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and blessed them",
+      "traditions": {
+        "WLC": "וַֽ יְבָרְכֵ֑ ם",
+        "LXX": "εὐλόγησεν αὐτούς ,",
+        "VUL": "benedíxit ei .",
+        "SP": "ו יברכם",
+        "KJV": "and blessed them ,",
+        "DSS": "[Mas1b] ו יברכ׳ם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and came down from offering of the sin offering , and the burnt offering , and peace offerings",
+      "traditions": {
+        "WLC": "וַ יֵּ֗רֶד מֵ עֲשֹׂ֧ת הַֽ חַטָּ֛את וְ הָ עֹלָ֖ה וְ הַ שְּׁלָמִֽים",
+        "LXX": "καὶ κατέβη ποιήσας τὸ περὶ τῆς ἁμαρτίας καὶ τὰ ὁλοκαυτώματα καὶ τὰ τοῦ σωτηρίου .",
+        "VUL": "Sicque complétis hóstiis pro peccáto , et holocáustis , et pacíficis , descéndit .",
+        "SP": "ו ירד מ עשׂות ה חטאת ו ה עלה ו ה שׁלמים",
+        "KJV": "and came down from offering of the sin offering , and the burnt offering , and peace offerings .",
+        "DSS": "[Mas1b] ו ירד ] [ מ ע ]ש#ת ה ח#[ טאת ו ה עלה ו ה שלמים ׃"
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses and Aaron went into the tabernacle of the congregation",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֨א מֹשֶׁ֤ה וְ אַהֲרֹן֙ אֶל אֹ֣הֶל מוֹעֵ֔ד",
+        "LXX": "καὶ εἰσῆλθεν Μωσῆς καὶ Ἀαρὼν εἰς τὴν σκηνὴν τοῦ μαρτυρίου ,",
+        "VUL": "Ingréssi autem Móyses et Aaron in tabernáculum testimónii ,",
+        "SP": "ו יבא משׁה ו אהרן אל אהל מועד",
+        "KJV": "And Moses and Aaron went into the tabernacle of the congregation ,",
+        "DSS": "[Mas1b] ו יבא משה ו אהרן אל ] [ א ]הל מועד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and came out , and blessed the people",
+      "traditions": {
+        "WLC": "וַ יֵּ֣צְא֔וּ וַֽ יְבָרֲכ֖וּ אֶת הָ עָ֑ם",
+        "LXX": "καὶ ἐξελθόντες εὐλόγησαν πάντα τὸν λαόν ·",
+        "VUL": "et deínceps egréssi , benedixérunt pópulo .",
+        "SP": "ו יצאו ו יברכו את ה עם",
+        "KJV": "and came out , and blessed the people :",
+        "DSS": "[11Q2] ε ו יצאו ו יברכו ]את כו[ ל ]ה## ע#ם[ / [Mas1b] ו יצא##[ ו ו יברכו את ה עם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the glory of the LORD appeared unto all the people",
+      "traditions": {
+        "WLC": "וַ יֵּרָ֥א כְבוֹד יְהוָ֖ה אֶל כָּל הָ עָֽם",
+        "LXX": "καὶ ὤφθη ἡ δόξα Κυρίου παντὶ τῷ λαῷ .",
+        "VUL": "Apparuítque glória Dómini omni multitúdini :",
+        "SP": "ו ירא כבוד יהוה אל כל ה עם",
+        "KJV": "and the glory of the LORD appeared unto all the people .",
+        "DSS": "[11Q2] ו ירא כבוד יהוה ] [ אל כול ה עם ׃ / [Mas1b] ו ירא כבוד יהוה אל כל ] ה עם ׃"
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And there came a fire out from before the LORD",
+      "traditions": {
+        "WLC": "וַ תֵּ֤צֵא אֵשׁ֙ מִ לִּ פְנֵ֣י יְהוָ֔ה",
+        "LXX": "καὶ ἐξῆλθεν πῦρ παρὰ Κυρίου ,",
+        "VUL": "et ecce egréssus ignis a Dómino ,",
+        "SP": "ו תצא אשׁ מ ל פני יהוה",
+        "KJV": "And there came a fire out from before the LORD ,",
+        "DSS": "[11Q2] ו תצ ]א אש מ ל פנ#?י יהוה[ / [Mas1b] ו תצא אש [ מ ל פני יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and consumed upon the altar the burnt offering and the fat",
+      "traditions": {
+        "WLC": "וַ תֹּ֨אכַל֙ עַל הַ מִּזְבֵּ֔חַ אֶת הָ עֹלָ֖ה וְ אֶת הַ חֲלָבִ֑ים",
+        "LXX": "καὶ κατέφαγεν τὰ ἐπὶ τοῦ θυσιαστηρίου , τά τε ὁλοκαυτώματα καὶ τὰ στέατα ·",
+        "VUL": "devorávit holocáustum , et ádipes qui erant super altáre .",
+        "SP": "ו תאכל על ה מזבח את ה עלה ו את ה חלבים",
+        "KJV": "and consumed upon the altar the burnt offering and the fat : [",
+        "DSS": "[11Q2] ו ת아כל על ] [ ה מזבח את ה עו ]לה ו את ה חלב ה שלמ[ ים / [Mas1b] ו תאכל על ה מזבח את ] ה עלה [ ו ]א##ת## ה##[ חלבים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which when all the people saw , they shouted",
+      "traditions": {
+        "WLC": "וַ יַּ֤רְא כָּל הָ עָם֙ וַ יָּרֹ֔נּוּ",
+        "LXX": "καὶ εἶδεν πᾶς ὁ λαὸς καὶ ἐξέστη ,",
+        "VUL": "Quod cum vidíssent turbæ , laudavérunt Dóminum ,",
+        "SP": "ו יראו כל ה עם ו ירנו",
+        "KJV": "which ] when all the people saw , they shouted ,",
+        "DSS": "[11Q2] ו ירא כול ] [ ה עם ו ירנו / [Mas1b] ו ירא כל ה עם ו ירנו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and fell on their faces",
+      "traditions": {
+        "WLC": "וַֽ יִּפְּל֖וּ עַל פְּנֵי הֶֽם",
+        "LXX": "καὶ ἔπεσαν ἐπὶ πρόσωπον .",
+        "VUL": "ruéntes in fácies suas .",
+        "SP": "ו יפלו על פניהם",
+        "KJV": "and fell on their faces .",
+        "DSS": "[11Q2] ו יפולו ]על פני׳הם ׃ / [Mas1b] ו יפלו על פני׳הם ׃"
+      }
+    }
+  ]
+}

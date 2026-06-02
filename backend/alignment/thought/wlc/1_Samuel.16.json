@@ -1,0 +1,876 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto Samuel",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוָ֜ה אֶל שְׁמוּאֵ֗ל",
+        "LXX": "Καὶ εἶπεν Κύριος πρὸς Σαμουήλ",
+        "VUL": "Dixítque Dóminus ad Samuélem :",
+        "SP": null,
+        "KJV": "And the LORD said unto Samuel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "How long wilt thou mourn for Saul",
+      "traditions": {
+        "WLC": "עַד מָתַי֙ אַתָּה֙ מִתְאַבֵּ֣ל אֶל שָׁא֔וּל",
+        "LXX": "Ἕως πότε σὺ πενθεῖς ἐπὶ Σαούλ ,",
+        "VUL": "Usquequo tu luges Saul ,",
+        "SP": null,
+        "KJV": "How long wilt thou mourn for Saul ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "seeing I have rejected him from reigning over Israel",
+      "traditions": {
+        "WLC": "וַ אֲנִ֣י מְאַסְתִּ֔י ו מִ מְּלֹ֖ךְ עַל יִשְׂרָאֵ֑ל",
+        "LXX": "κἀγὼ ἐξουδένωκα αὐτὸν μὴ βασιλεύειν ἐπὶ Ἰσραήλ ;",
+        "VUL": "cum ego proiécerim eum ne regnet super Israel ?",
+        "SP": null,
+        "KJV": "seeing I have rejected him from reigning over Israel ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "fill thine horn with oil",
+      "traditions": {
+        "WLC": "מַלֵּ֨א קַרְנְ ךָ֜ שֶׁ֗מֶן",
+        "LXX": "πλῆσον τὸ κέρας σου ἐλαίου ,",
+        "VUL": "Imple cornu tuum óleo ,",
+        "SP": null,
+        "KJV": "fill thine horn with oil ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and go , I will send thee to Jesse the Bethlehemite",
+      "traditions": {
+        "WLC": "וְ לֵ֤ךְ אֶֽשְׁלָחֲ ךָ֙ אֶל יִשַׁ֣י בֵּֽית הַלַּחְמִ֔י",
+        "LXX": "καὶ δεῦρο ἀποστείλω σε πρὸς Ἰεσσαὶ ἕως εἰς Βηθλέεμ ,",
+        "VUL": "et veni , ut mittam te ad Isai Bethlehemítem :",
+        "SP": null,
+        "KJV": "and go , I will send thee to Jesse the Bethlehemite :",
+        "DSS": "[ אשלח ]׳ך# [ אל ישי בית לחם"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "for I have provided me a king among his sons",
+      "traditions": {
+        "WLC": "כִּֽי רָאִ֧יתִי בְּ בָנָ֛י ו לִ֖ י מֶֽלֶךְ",
+        "LXX": "ὅτι ἑόρακα ἐν τοῖς υἱοῖς αὐτοῦ ἐμοὶ βασιλεύειν .",
+        "VUL": "provídi enim in fíliis eius mihi regem .",
+        "SP": null,
+        "KJV": "for I have provided me a king among his sons .",
+        "DSS": "כי ראיתי ב בני׳ו ל׳י מלך ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Samuel said , How can I go",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר שְׁמוּאֵל֙ אֵ֣יךְ אֵלֵ֔ךְ",
+        "LXX": "καὶ εἶπεν Σαμουήλ Πῶς πορευθῶ ;",
+        "VUL": "Et ait Sámuel : Quómodo vadam ?",
+        "SP": null,
+        "KJV": "And Samuel said , How can I go ?",
+        "DSS": "ו יאמר שמואל איך אלך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "if Saul hear [ it ] , he will kill me",
+      "traditions": {
+        "WLC": "וְ שָׁמַ֥ע שָׁא֖וּל וַ הֲרָגָ֑ נִי",
+        "LXX": "καὶ ἀκούσεται Σαοὺλ καὶ ἀποκτενεῖ με .",
+        "VUL": "áudiet enim Saul , et interfíciet me .",
+        "SP": null,
+        "KJV": "if Saul hear [ it ] , he will kill me .",
+        "DSS": "ו שמע שאול ו הרג׳ני"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the LORD said , Take an heifer with thee",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר יְהוָ֗ה עֶגְלַ֤ת בָּקָר֙ תִּקַּ֣ח בְּ יָדֶ֔ ךָ",
+        "LXX": "καὶ εἶπεν Κύριος Δάμαλιν βοῶν λάβε ἐν τῇ χειρί σου",
+        "VUL": "Et ait Dóminus : Vítulum de arménto tollis in manu tua ,",
+        "SP": null,
+        "KJV": "And the LORD said , Take an heifer with thee ,",
+        "DSS": "ו יאמר יהוה עגלת ] בקר ק[ ח ב יד׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and say , I am come to sacrifice to the LORD",
+      "traditions": {
+        "WLC": "וְ אָ֣מַרְתָּ֔ לִ זְבֹּ֥חַ לַֽ יהוָ֖ה בָּֽאתִי",
+        "LXX": "καὶ ἐρεῖς Θῦσαι ἥκω τῷ κυρίῳ ·",
+        "VUL": "et dices : Ad immolándum Dómino veni .",
+        "SP": null,
+        "KJV": "and say , I am come to sacrifice to the LORD .",
+        "DSS": "ו אמרת ל זבח ל יהוה באתי ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And call Jesse to the sacrifice",
+      "traditions": {
+        "WLC": "וְ קָרָ֥אתָ לְ יִשַׁ֖י בַּ זָּ֑בַח",
+        "LXX": "καὶ καλέσεις τὸν Ἰεσσαὶ εἰς τὴν θυσίαν ,",
+        "VUL": "Et vocábis Isai ad víctimam ,",
+        "SP": null,
+        "KJV": "And call Jesse to the sacrifice ,",
+        "DSS": "ו קראת ל ישי ל זבח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will shew thee what thou shalt do",
+      "traditions": {
+        "WLC": "וְ אָֽנֹכִ֗י אוֹדִֽיעֲ ךָ֙ אֵ֣ת אֲשֶֽׁר תַּעֲשֶׂ֔ה",
+        "LXX": "καὶ γνωριῶ σοι ἃ ποιήσεις ,",
+        "VUL": "et ego osténdam tibi quid fácias ,",
+        "SP": null,
+        "KJV": "and I will shew thee what thou shalt do :",
+        "DSS": "ו אנכי אודיע׳ך את אשר תעשה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thou shalt anoint unto me [ him ] whom I name unto thee",
+      "traditions": {
+        "WLC": "וּ מָשַׁחְתָּ֣ לִ֔ י אֵ֥ת אֲשֶׁר אֹמַ֖ר אֵלֶֽי ךָ",
+        "LXX": "καὶ χρίσεις ὃν ἐὰν εἴπω πρὸς σέ .",
+        "VUL": "et unges quemcúmque monstrávero tibi .",
+        "SP": null,
+        "KJV": "and thou shalt anoint unto me [ him ] whom I name unto thee .",
+        "DSS": "ו משחת ל׳י את אשר ] אמר אלי׳ך ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Samuel did that which the LORD spake",
+      "traditions": {
+        "WLC": "וַ יַּ֣עַשׂ שְׁמוּאֵ֗ל אֵ֚ת אֲשֶׁ֣ר דִּבֶּ֣ר יְהוָ֔ה",
+        "LXX": "καὶ ἐποίησεν Σαμουὴλ πάντα ἃ ἐλάλησεν αὐτῷ Κύριος ,",
+        "VUL": "Fecit ergo Sámuel sicut locútus est ei Dóminus .",
+        "SP": null,
+        "KJV": "And Samuel did that which the LORD spake ,",
+        "DSS": "[ ו יעש שמואל את אשר דבר יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and came to Bethlehem",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֖א בֵּ֣ית לָ֑חֶם",
+        "LXX": "καὶ ἦλθεν εἰς Βηθλέεμ .",
+        "VUL": "Venítque in Béthlehem ,",
+        "SP": null,
+        "KJV": "and came to Bethlehem .",
+        "DSS": "ו יבא בית לחם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the elders of the town trembled at his coming",
+      "traditions": {
+        "WLC": "וַ יֶּחֶרְד֞וּ זִקְנֵ֤י הָ עִיר֙ לִ קְרָאת֔ וֹ",
+        "LXX": "καὶ ἐξέστησαν οἱ πρεσβύτεροι τῆς πόλεως τῇ ἀπαντήσει αὐτοῦ",
+        "VUL": "et admiráti sunt senióres civitátis occurréntes ei ,",
+        "SP": null,
+        "KJV": "And the elders of the town trembled at his coming ,",
+        "DSS": "ו יחרדו זקני ה עיר ל קראת׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and said , Comest thou peaceably",
+      "traditions": {
+        "WLC": "וַ יֹּ֖אמֶר שָׁלֹ֥ם בּוֹאֶֽ ךָ",
+        "LXX": "καὶ εἶπαν Ἢ εἰρήνη ἡ εἴσοδός σου , ὁ βλέπων ;",
+        "VUL": "dixerúntque : Pacificúsne est ingréssus tuus ?",
+        "SP": null,
+        "KJV": "and said , Comest thou peaceably ?",
+        "DSS": "ו יאמרו ה שלם בוא׳ך ] ה ראה ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said , Peaceably",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר שָׁל֗וֹם",
+        "LXX": "καὶ εἶπεν Εἰρήνη ·",
+        "VUL": "Et ait : Pacíficus :",
+        "SP": null,
+        "KJV": "And he said , Peaceably :",
+        "DSS": "ו יאמר [ שלם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I am come to sacrifice unto the LORD",
+      "traditions": {
+        "WLC": "לִ זְבֹּ֤חַ לַֽ יהוָה֙ בָּ֔אתִי",
+        "LXX": "θῦσαι τῷ κυρίῳ ἥκω ,",
+        "VUL": "ad immolándum Dómino veni ,",
+        "SP": null,
+        "KJV": "I am come to sacrifice unto the LORD :",
+        "DSS": "ל זבח ל יהוה באתי"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "sanctify yourselves , and come with me to the sacrifice",
+      "traditions": {
+        "WLC": "הִֽתְקַדְּשׁ֔וּ וּ בָאתֶ֥ם אִתִּ֖ י בַּ זָּ֑בַח",
+        "LXX": "ἁγιάσθητε καὶ εὐφράνθητε μετ᾽ ἐμοῦ σήμερον .",
+        "VUL": "sanctificámini , et veníte mecum ut ímmolem .",
+        "SP": null,
+        "KJV": "sanctify yourselves , and come with me to the sacrifice .",
+        "DSS": "התקדשו ו שמחו את׳י ה יום"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And he sanctified Jesse and his sons",
+      "traditions": {
+        "WLC": "וַ יְקַדֵּ֤שׁ אֶת יִשַׁי֙ וְ אֶת בָּנָ֔י",
+        "LXX": "καὶ ἡγίασεν τὸν Ἰεσσαὶ καὶ τοὺς υἱοὺς αὐτοῦ ,",
+        "VUL": "Sanctificávit ergo Isai et fílios eius ,",
+        "SP": null,
+        "KJV": "And he sanctified Jesse and his sons ,",
+        "DSS": "ו יקדש את ישי ו את בני׳ו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and called them to the sacrifice",
+      "traditions": {
+        "WLC": "ו וַ יִּקְרָ֥א לָ הֶ֖ם לַ זָּֽבַח",
+        "LXX": "καὶ ἐκάλεσεν αὐτοὺς εἰς τὴν θυσίαν .",
+        "VUL": "et vocávit eos ad sacrifícium .",
+        "SP": null,
+        "KJV": "and called them to the sacrifice .",
+        "DSS": "ו יקרא ל׳הם ל זבח ] ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass , when they were come",
+      "traditions": {
+        "WLC": "וַ יְהִ֣י בְּ בוֹאָ֔ ם",
+        "LXX": "καὶ ἐγενήθη ἐν τῷ αὐτοὺς εἰσιέναι",
+        "VUL": "Cumque ingréssi essent ,",
+        "SP": null,
+        "KJV": "And it came to pass , when they were come ,",
+        "DSS": "ו יהי ב בא׳ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that he looked on Eliab",
+      "traditions": {
+        "WLC": "וַ יַּ֖רְא אֶת אֱלִיאָ֑ב",
+        "LXX": "καὶ εἶδεν τὸν Ἐλιάβ ,",
+        "VUL": "vidit Eliab ,",
+        "SP": null,
+        "KJV": "that he looked on Eliab ,",
+        "DSS": "ו ירא את א##[ ליאב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and said , Surely the LORD ’S anointed [ is ] before him",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר אַ֛ךְ נֶ֥גֶד יְהוָ֖ה מְשִׁיחֽ וֹ",
+        "LXX": "καὶ εἶπεν Ἀλλὰ καὶ ἐνώπιον Κυρίου χριστὸς αὐτοῦ .",
+        "VUL": "et ait : Num coram Dómino est christus eius ?",
+        "SP": null,
+        "KJV": "and said , Surely the LORD ’S anointed [ is ] before him .",
+        "DSS": "ו יאמר אך נגד יהוה משיח׳ו ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "But the LORD said unto Samuel",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוָ֜ה אֶל שְׁמוּאֵ֗ל",
+        "LXX": "καὶ εἶπεν Κύριος πρὸς Σαμουήλ",
+        "VUL": "Et dixit Dóminus ad Samuélem :",
+        "SP": null,
+        "KJV": "But the LORD said unto Samuel ,",
+        "DSS": "ו יאמר יהוה אל שמואל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Look not on his countenance , or on the height of his stature",
+      "traditions": {
+        "WLC": "אַל תַּבֵּ֧ט אֶל מַרְאֵ֛ הוּ וְ אֶל גְּבֹ֥הַּ קוֹמָת֖ וֹ",
+        "LXX": "Μὴ ἐπιβλέψῃς ἐπὶ τὴν ὄψιν αὐτοῦ μηδὲ εἰς τὴν ἕξιν μεγέθους αὐτοῦ ,",
+        "VUL": "Ne respícias vultum eius , neque altitúdinem statúræ eius :",
+        "SP": null,
+        "KJV": "Look not on his countenance , or on the height of his stature ;",
+        "DSS": "אל תבט אל מרא׳הו ו אל גבה ] קמת׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because I have refused him",
+      "traditions": {
+        "WLC": "כִּ֣י מְאַסְתִּ֑י הוּ",
+        "LXX": "ὅτι ἐξουδένωκα αὐτόν ·",
+        "VUL": "quóniam abiéci eum ,",
+        "SP": null,
+        "KJV": "because I have refused him :",
+        "DSS": "כי מאסתי׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for [ the LORD seeth ] not as man seeth",
+      "traditions": {
+        "WLC": "כִּ֣י לֹ֗א אֲשֶׁ֤ר יִרְאֶה֙ הָ אָדָ֔ם",
+        "LXX": "ὅτι οὐχ ὡς ἐμβλέψεται ἄνθρωπος , ὄψεται ὁ θεός ·",
+        "VUL": "nec iuxta intúitum hóminis ego iúdico :",
+        "SP": null,
+        "KJV": "for [ the LORD seeth ] not as man seeth ;",
+        "DSS": "כ#[ י לא כ אשר יראה ה אדם"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "for man looketh on the outward appearance",
+      "traditions": {
+        "WLC": "כִּ֤י הָֽ אָדָם֙ יִרְאֶ֣ה לַ עֵינַ֔יִם",
+        "LXX": "ὅτι ἄνθρωπος ὄψεται εἰς πρόσωπον ,",
+        "VUL": "homo enim videt ea quæ parent ,",
+        "SP": null,
+        "KJV": "for man looketh on the outward appearance ,",
+        "DSS": "כן יראה אלהים כי ה אדם יראה ל עינים"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "but the LORD looketh on the heart",
+      "traditions": {
+        "WLC": "וַ יהוָ֖ה יִרְאֶ֥ה לַ לֵּבָֽב",
+        "LXX": "ὁ δὲ θεὸς ὄψεται εἰς καρδίαν .",
+        "VUL": "Dóminus autem intuétur cor .",
+        "SP": null,
+        "KJV": "but the LORD looketh on the heart .",
+        "DSS": "ו יהוה יראה ל לבב ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then Jesse called Abinadab",
+      "traditions": {
+        "WLC": "וַ יִּקְרָ֤א יִשַׁי֙ אֶל אֲבִ֣ינָדָ֔ב",
+        "LXX": "καὶ ἐκάλεσεν Ἰεσσαὶ τὸν Ἀμειναδάβ ,",
+        "VUL": "Et vocávit Isai Abínadab ,",
+        "SP": null,
+        "KJV": "Then Jesse called Abinadab ,",
+        "DSS": "ו יקרא ] ישי אל אבינדב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and made him pass before Samuel",
+      "traditions": {
+        "WLC": "וַ יַּעֲבִרֵ֖ הוּ לִ פְנֵ֣י שְׁמוּאֵ֑ל",
+        "LXX": "καὶ παρῆλθεν κατὰ πρόσωπον Σαμουήλ ,",
+        "VUL": "et addúxit eum coram Samuéle .",
+        "SP": null,
+        "KJV": "and made him pass before Samuel .",
+        "DSS": "[ ו יעבר ל פני שמואל"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And he said , Neither hath the LORD chosen this",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר גַּם בָּ זֶ֖ה לֹֽא בָחַ֥ר יְהוָֽה",
+        "LXX": "καὶ εἶπεν Οὐδὲ τοῦτον ἐξελέξατο ὁ θεός .",
+        "VUL": "Qui dixit : Nec hunc elégit Dóminus .",
+        "SP": null,
+        "KJV": "And he said , Neither hath the LORD chosen this .",
+        "DSS": "ו יאמר גם ב זה לא בחר אלהים ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then Jesse made Shammah to pass by",
+      "traditions": {
+        "WLC": "וַ יַּעֲבֵ֥ר יִשַׁ֖י שַׁמָּ֑ה",
+        "LXX": "καὶ παρήγαγεν Ἰεσσαὶ τὸν Σαμά ·",
+        "VUL": "Addúxit autem Isai Samma ,",
+        "SP": null,
+        "KJV": "Then Jesse made Shammah to pass by .",
+        "DSS": "ו יעבר ישי שמעא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And he said , Neither hath the LORD chosen this",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר גַּם בָּ זֶ֖ה לֹא בָחַ֥ר יְהוָֽה",
+        "LXX": "καὶ εἶπεν Καὶ ἐν τούτῳ οὐκ ἐξελέξατο Κύριος .",
+        "VUL": "de quo ait : Etiam hunc non elégit Dóminus .",
+        "SP": null,
+        "KJV": "And he said , Neither hath the LORD chosen this .",
+        "DSS": "ו יאמר גם ב זה לא בחר ] יהוה ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Again , Jesse made seven of his sons to pass before Samuel",
+      "traditions": {
+        "WLC": "וַ יַּעֲבֵ֥ר יִשַׁ֛י שִׁבְעַ֥ת בָּנָ֖י ו לִ פְנֵ֣י שְׁמוּאֵ֑ל",
+        "LXX": "καὶ παρήγαγεν Ἰεσσαὶ τοὺς ἑπτὰ υἱοὺς αὐτοῦ ἐνώπιον Σαμουήλ ·",
+        "VUL": "Addúxit ítaque Isai septem fílios suos coram Samuéle :",
+        "SP": null,
+        "KJV": "Again , Jesse made seven of his sons to pass before Samuel .",
+        "DSS": "ו יעבר יש##[ י שבעת בני׳ו ל פני שמואל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And Samuel said unto Jesse",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר שְׁמוּאֵל֙ אֶל יִשַׁ֔י",
+        "LXX": "καὶ εἶπεν Σαμουήλ",
+        "VUL": "et ait Sámuel ad Isai :",
+        "SP": null,
+        "KJV": "And Samuel said unto Jesse ,",
+        "DSS": "ו יאמר שמואל"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "The LORD hath not chosen these",
+      "traditions": {
+        "WLC": "לֹא בָחַ֥ר יְהוָ֖ה בָּ אֵֽלֶּה",
+        "LXX": "Οὐκ ἐξελέξατο Κύριος ἐν τούτοις .",
+        "VUL": "Non elégit Dóminus ex istis .",
+        "SP": null,
+        "KJV": "The LORD hath not chosen these .",
+        "DSS": "לא בחר יהוה ב אלה ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Samuel said unto Jesse , Are here all [ thy ] children ?",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר שְׁמוּאֵ֣ל אֶל יִשַׁי֮ הֲ תַ֣מּוּ הַ נְּעָרִים֒",
+        "LXX": "καὶ εἶπεν Σαμουὴλ πρὸς Ἰεσσαί Ἐκλελοίπασιν τὰ παιδάρια ;",
+        "VUL": "Dixítque Sámuel ad Isai : Numquid iam compléti sunt fílii ?",
+        "SP": null,
+        "KJV": "And Samuel said unto Jesse , Are here all [ thy ] children ?",
+        "DSS": "[4Q52] ו יאמר שמואל אל ] ישי ה## ת##[ מו ה נערים ε ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And he said , There remaineth yet the youngest , and , behold , he keepeth the sheep .",
+      "traditions": {
+        "WLC": "וַ יֹּ֗אמֶר ע֚וֹד שָׁאַ֣ר הַ קָּטָ֔ן וְ הִנֵּ֥ה רֹעֶ֖ה בַּ צֹּ֑אן",
+        "LXX": "καὶ εἶπεν Ἔτι ὁ μικρός · ἰδοὺ ποιμαίνει ἐν τῷ ποιμνίῳ ·",
+        "VUL": "Qui respóndit : Adhuc réliquus est párvulus , et pascit oves .",
+        "SP": null,
+        "KJV": "And he said , There remaineth yet the youngest , and , behold , he keepeth the sheep .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And Samuel said unto Jesse , Send and fetch him : for we will not sit down till he come hither .",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר שְׁמוּאֵ֤ל אֶל יִשַׁי֙ שִׁלְחָ֣ ה וְ קָחֶ֔ נּוּ כִּ֥י לֹא נָסֹ֖ב עַד בֹּא֥ וֹ פֹֽה",
+        "LXX": "καὶ εἶπεν Σαμουὴλ πρὸς Ἰεσσαί Ἀπόστειλον καὶ λάβε αὐτόν , ὅτι οὐ μὴ κατακλιθῶμεν ἕως τοῦ ἐλθεῖν αὐτόν .",
+        "VUL": "Et ait Sámuel ad Isai : Mitte , et adduc eum : nec enim discumbémus priúsquam huc ille véniat .",
+        "SP": null,
+        "KJV": "And Samuel said unto Jesse , Send and fetch him : for we will not sit down till he come hither .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he sent , and brought him in .",
+      "traditions": {
+        "WLC": "וַ יִּשְׁלַ֤ח וַ יְבִיאֵ֨ הוּ֙",
+        "LXX": "καὶ ἀπέστειλεν καὶ εἰσήγαγεν αὐτόν ·",
+        "VUL": "Misit ergo , et addúxit eum .",
+        "SP": null,
+        "KJV": "And he sent , and brought him in .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Now he [ was ] ruddy , [ and ] withal of a beautiful countenance , and goodly to look to .",
+      "traditions": {
+        "WLC": "וְ ה֣וּא אַדְמוֹנִ֔י עִם יְפֵ֥ה עֵינַ֖יִם וְ ט֣וֹב רֹ֑אִי",
+        "LXX": "καὶ οὗτος πυρράκης μετὰ κάλλους ὀφθαλμῶν , καὶ ἀγαθὸς ὁράσει Κυρίῳ ·",
+        "VUL": "Erat autem rufus , et pulcher aspéctu , decoráque fácie :",
+        "SP": null,
+        "KJV": "Now he [ was ] ruddy , [ and ] withal of a beautiful countenance , and goodly to look to .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the LORD said , Arise , anoint him : for this [ is ] he .",
+      "traditions": {
+        "WLC": "וַ יֹּ֧אמֶר יְהוָ֛ה ק֥וּם מְשָׁחֵ֖ הוּ כִּֽי זֶ֥ה הֽוּא",
+        "LXX": "καὶ εἶπεν Κύριος πρὸς Σαμουήλ Ἀνάστα καὶ χρίσον τὸν Δαυείδ , ὅτι οὗτος ἀγαθός ἐστιν .",
+        "VUL": "et ait Dóminus : Surge , unge eum , ipse est enim .",
+        "SP": null,
+        "KJV": "And the LORD said , Arise , anoint him : for this [ is ] he .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then Samuel took the horn of oil , and anointed him in the midst of his brethren :",
+      "traditions": {
+        "WLC": "וַ יִּקַּ֨ח שְׁמוּאֵ֜ל אֶת קֶ֣רֶן הַ שֶּׁ֗מֶן וַ יִּמְשַׁ֣ח אֹת וֹ֮ בְּ קֶ֣רֶב אֶחָי",
+        "LXX": "καὶ ἔλαβεν Σαμουὴλ τὸ κέρας τοῦ ἐλαίου καὶ ἔχρισεν αὐτὸν ἐν μέσῳ τῶν ἀδελφῶν αὐτοῦ ·",
+        "VUL": "Tulit ergo Sámuel cornu ólei , et unxit eum in médio fratrum eius :",
+        "SP": null,
+        "KJV": "Then Samuel took the horn of oil , and anointed him in the midst of his brethren :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the Spirit of the LORD came upon David from that day forward .",
+      "traditions": {
+        "WLC": "ו֒ וַ תִּצְלַ֤ח רֽוּחַ יְהוָה֙ אֶל דָּוִ֔ד מֵ הַ יּ֥וֹם הַ ה֖וּא וָ מָ֑עְלָ ה",
+        "LXX": "καὶ ἐφήλατο πνεῦμα Κυρίου ἐπὶ Δαυεὶδ ἀπὸ τῆς ἡμέρας ἐκείνης καὶ ἐπάνω ·",
+        "VUL": "et diréctus est Spíritus Dómini a die illa in David , et deínceps .",
+        "SP": null,
+        "KJV": "and the Spirit of the LORD came upon David from that day forward .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "So Samuel rose up , and went to Ramah .",
+      "traditions": {
+        "WLC": "וַ יָּ֣קָם שְׁמוּאֵ֔ל וַ יֵּ֖לֶךְ הָ רָמָֽתָ ה",
+        "LXX": "καὶ ἀνέστη Σαμουὴλ καὶ ἀπῆλθεν εἰς Ἁρμαθάιμ .",
+        "VUL": "Surgénsque Sámuel ábiit in Rámatha .",
+        "SP": null,
+        "KJV": "So Samuel rose up , and went to Ramah .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "But the Spirit of the LORD departed from Saul ,",
+      "traditions": {
+        "WLC": "וְ ר֧וּחַ יְהוָ֛ה סָ֖רָה מֵ עִ֣ם שָׁא֑וּל",
+        "LXX": "Καὶ πνεῦμα Κυρίου ἀπέστη ἀπὸ Σαούλ ,",
+        "VUL": "Spíritus autem Dómini recéssit a Saul ,",
+        "SP": null,
+        "KJV": "But the Spirit of the LORD departed from Saul ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and an evil spirit from the LORD troubled him .",
+      "traditions": {
+        "WLC": "וּ בִֽעֲתַ֥תּ וּ רֽוּחַ רָעָ֖ה מֵ אֵ֥ת יְהוָֽה",
+        "LXX": "καὶ ἔπνιγεν αὐτὸν πνεῦμα πονηρὸν παρὰ Κυρίου .",
+        "VUL": "et exagitábat eum spíritus nequam a Dómino .",
+        "SP": null,
+        "KJV": "and an evil spirit from the LORD troubled him .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Saul ’s servants said unto him , Behold now , an evil spirit from God troubleth thee .",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֥וּ עַבְדֵֽי שָׁא֖וּל אֵלָ֑י ו הִנֵּה נָ֧א רֽוּחַ אֱלֹהִ֛ים רָעָ֖ה מְבַעִתֶּֽ ךָ",
+        "LXX": "καὶ εἶπαν οἱ παῖδες Σαοὺλ πρὸς αὐτόν Ἰδοὺ δὴ πνεῦμα Κυρίου πονηρὸν πνίγει σε ·",
+        "VUL": "Dixerúntque servi Saul ad eum : Ecce spíritus Dei malus exágitat te .",
+        "SP": null,
+        "KJV": "And Saul ’s servants said unto him , Behold now , an evil spirit from God troubleth thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let our lord now command thy servants , [ which are ] before thee , to seek out a man , [ who is ] a cunning player on an harp :",
+      "traditions": {
+        "WLC": "יֹאמַר נָ֤א אֲדֹנֵ֨ נוּ֙ עֲבָדֶ֣י ךָ לְ פָנֶ֔י ךָ יְבַקְשׁ֕וּ אִ֕ישׁ יֹדֵ֖עַ מְנַגֵּ֣ן בַּ כִּנּ֑וֹר",
+        "LXX": "εἰπάτωσαν δὴ οἱ δοῦλοί σου ἐνώπιόν σου καὶ ζητησάτωσαν τῷ κυρίῳ ἡμῶν ἄνδρα εἰδότα ψάλλειν ἐν κινύρᾳ ·",
+        "VUL": "Iúbeat dóminus noster , et servi tui qui coram te sunt , quærent hóminem sciéntem psállere cíthara ,",
+        "SP": null,
+        "KJV": "Let our lord now command thy servants , [ which are ] before thee , to seek out a man , [ who is ] a cunning player on an harp :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and it shall come to pass , when the evil spirit from God is upon thee , that he shall play with his hand , and thou shalt be well .",
+      "traditions": {
+        "WLC": "וְ הָיָ֗ה בִּֽ הְי֨וֹת עָלֶ֤י ךָ רֽוּחַ אֱלֹהִים֙ רָעָ֔ה וְ נִגֵּ֥ן בְּ יָד֖ וֹ וְ ט֥וֹב לָֽ ךְ",
+        "LXX": "καὶ ἔσται ἐν τῷ εἶναι πνεῦμα πονηρὸν ἐπὶ σοὶ καὶ ψαλεῖ ἐν τῇ κινύρᾳ αὐτοῦ , καὶ ἀγαθόν σοι ἔσται καὶ ἀναπαύσει σε .",
+        "VUL": "ut quando arripúerit te spíritus Dómini malus , psallat manu sua , et lévius feras .",
+        "SP": null,
+        "KJV": "and it shall come to pass , when the evil spirit from God is upon thee , that he shall play with his hand , and thou shalt be well .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Saul said unto his servants , Provide me now a man that can play well , and bring [ him ] to me .",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר שָׁא֖וּל אֶל עֲבָדָ֑י ו רְאוּ נָ֣א לִ֗ י אִ֚ישׁ מֵיטִ֣יב לְ נַגֵּ֔ן וַ הֲבִיאוֹתֶ֖ם אֵלָֽ י",
+        "LXX": "καὶ εἶπεν Σαοὺλ πρὸς τοὺς παῖδας αὐτοῦ Ἴδετε δή μοι ἄνδρα ὀρθῶς ψάλλοντα , καὶ εἰσαγάγετε αὐτὸν πρὸς ἐμέ .",
+        "VUL": "Et ait Saul ad servos suos : Providéte ergo mihi áliquem bene psalléntem , et addúcite eum ad me .",
+        "SP": null,
+        "KJV": "And Saul said unto his servants , Provide me now a man that can play well , and bring [ him ] to me .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then answered one of the servants , and said , Behold , I have seen a son of Jesse the Bethlehemite , [ that is ] cunning in playing ,",
+      "traditions": {
+        "WLC": "וַ יַּעַן֩ אֶחָ֨ד מֵ הַ נְּעָרִ֜ים וַ יֹּ֗אמֶר הִנֵּ֨ה רָאִ֜יתִי בֵּ֣ן לְ יִשַׁי֮ בֵּ֣ית הַלַּחְמִי֒ יֹדֵ֣עַ נַ֠גֵּן",
+        "LXX": "καὶ ἀπεκρίθη εἷς τῶν παιδαρίων αὐτοῦ καὶ εἶπεν Ἰδοὺ ἑόρακα υἱὸν τῷ Ἰεσσαὶ Βηθλεεμείτην καὶ αὐτὸν εἰδότα ψαλμόν ,",
+        "VUL": "Et respóndens unus de púeris , ait : Ecce vidi fílium Isai Bethlehemítem sciéntem psállere ,",
+        "SP": null,
+        "KJV": "Then answered one of the servants , and said , Behold , I have seen a son of Jesse the Bethlehemite , [ that is ] cunning in playing ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a mighty valiant man , and a man of war , and prudent in matters , and a comely person , and the LORD [ is ] with him .",
+      "traditions": {
+        "WLC": "וְ גִבּ֨וֹר חַ֜יִל וְ אִ֧ישׁ מִלְחָמָ֛ה וּ נְב֥וֹן דָּבָ֖ר וְ אִ֣ישׁ תֹּ֑אַר וַ יהוָ֖ה עִמּֽ וֹ",
+        "LXX": "καὶ ὁ ἀνὴρ συνετὸς καὶ ὁ ἀνὴρ πολεμιστὴς καὶ σοφὸς λόγῳ , καὶ ἀνὴρ ἀγαθὸς τῷ εἴδει , καὶ Κύριος μετ᾽ αὐτοῦ .",
+        "VUL": "et fortíssimum róbore , et virum bellicósum , et prudéntem in verbis , et virum pulchrum : et Dóminus est cum eo .",
+        "SP": null,
+        "KJV": "and a mighty valiant man , and a man of war , and prudent in matters , and a comely person , and the LORD [ is ] with him .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wherefore Saul sent messengers unto Jesse ,",
+      "traditions": {
+        "WLC": "וַ יִּשְׁלַ֥ח שָׁא֛וּל מַלְאָכִ֖ים אֶל יִשָׁ֑י",
+        "LXX": "καὶ ἀπέστειλεν Σαοὺλ ἀγγέλους πρὸς Ἰεσσαὶ",
+        "VUL": "Misit ergo Saul núntios ad Isai ,",
+        "SP": null,
+        "KJV": "Wherefore Saul sent messengers unto Jesse ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and said , Send me David thy son , which [ is ] with the sheep .",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר שִׁלְחָ֥ ה אֵלַ֛ י אֶת דָּוִ֥ד בִּנְ ךָ֖ אֲשֶׁ֥ר בַּ צֹּֽאן",
+        "LXX": "λέγων Ἀπόστειλον πρὸς μὲ τὸν υἱόν σου Δαυεὶδ τὸν ἐν τῷ ποιμνίῳ σου .",
+        "VUL": "dicens : Mitte ad me David fílium tuum , qui est in páscuis .",
+        "SP": null,
+        "KJV": "and said , Send me David thy son , which [ is ] with the sheep .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jesse took an ass [ laden ] with bread , and a bottle of wine , and a kid ,",
+      "traditions": {
+        "WLC": "וַ יִּקַּ֨ח יִשַׁ֜י חֲמ֥וֹר לֶ֨חֶם֙ וְ נֹ֣אד יַ֔יִן וּ גְדִ֥י עִזִּ֖ים אֶחָ֑ד",
+        "LXX": "καὶ ἔλαβεν Ἰεσσαὶ γόμορ ἄρτων καὶ ἀσκὸν οἴνου καὶ ἔριφον αἰγῶν ἕνα ,",
+        "VUL": "Tulit ítaque Isai ásinum plenum pánibus , et lagénam vini , et hædum de capris unum ,",
+        "SP": null,
+        "KJV": "And Jesse took an ass [ laden ] with bread , and a bottle of wine , and a kid ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and sent [ them ] by David his son unto Saul .",
+      "traditions": {
+        "WLC": "וַ יִּשְׁלַ֛ח בְּ יַד דָּוִ֥ד בְּנ֖ וֹ אֶל שָׁאֽוּל",
+        "LXX": "καὶ ἐξαπέστειλεν ἐν χειρὶ Δαυεὶδ τοῦ υἱοῦ αὐτοῦ πρὸς Σαούλ .",
+        "VUL": "et misit per manum David fílii sui Sauli .",
+        "SP": null,
+        "KJV": "and sent [ them ] by David his son unto Saul .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And David came to Saul , and stood before him",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֤א דָוִד֙ אֶל שָׁא֔וּל וַֽ יַּעֲמֹ֖ד לְ פָנָ֑י",
+        "LXX": "καὶ εἰσῆλθεν · Δαυεὶδ πρὸς Σαούλ , καὶ παριστήκει ἐνώπιον αὐτοῦ ·",
+        "VUL": "Et venit David ad Saul , et stetit coram eo :",
+        "SP": null,
+        "KJV": "And David came to Saul , and stood before him :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he loved him greatly",
+      "traditions": {
+        "WLC": "ו וַ יֶּאֱהָבֵ֣ הֽוּ מְאֹ֔ד",
+        "LXX": "καὶ ἠγάπησεν αὐτὸν σφόδρα ,",
+        "VUL": "at ille diléxit eum nimis ,",
+        "SP": null,
+        "KJV": "and he loved him greatly ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he became his armourbearer",
+      "traditions": {
+        "WLC": "וַֽ יְהִי ל֖ וֹ נֹשֵׂ֥א כֵלִֽים",
+        "LXX": "καὶ ἐγενήθη αὐτῷ αἴρων τὰ σκεύη αὐτοῦ .",
+        "VUL": "et factus est eius ármiger .",
+        "SP": null,
+        "KJV": "and he became his armourbearer .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Saul sent to Jesse , saying , Let David , I pray thee , stand before me",
+      "traditions": {
+        "WLC": "וַ יִּשְׁלַ֣ח שָׁא֔וּל אֶל יִשַׁ֖י לֵ אמֹ֑ר יַעֲמָד נָ֤א דָוִד֙ לְ פָנַ֔ י",
+        "LXX": "καὶ ἀπέστειλεν Σαοὺλ πρὸς Ἰεσσαὶ λέγων Παριστάσθω δὴ Δαυεὶδ ἐνώπιον ἐμοῦ ,",
+        "VUL": "Misítque Saul ad Isai , dicens : Stet David in conspéctu meo :",
+        "SP": null,
+        "KJV": "And Saul sent to Jesse , saying , Let David , I pray thee , stand before me ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for he hath found favour in my sight",
+      "traditions": {
+        "WLC": "כִּֽי מָ֥צָא חֵ֖ן בְּ עֵינָֽ י",
+        "LXX": "ὅτι εὗρεν χάριν ἐν ὀφθαλμοῖς μου .",
+        "VUL": "invénit enim grátiam in óculis meis .",
+        "SP": null,
+        "KJV": "for he hath found favour in my sight .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass , when the [ evil ] spirit from God was upon Saul",
+      "traditions": {
+        "WLC": "וְ הָיָ֗ה בִּֽ הְי֤וֹת רֽוּחַ אֱלֹהִים֙ אֶל שָׁא֔וּל",
+        "LXX": "καὶ ἐγενήθη ἐν τῷ εἶναι πνεῦμα πονηρὸν ἐπὶ Σαοὺλ",
+        "VUL": "Igitur quandocúmque spíritus Dómini malus arripiébat Saul ,",
+        "SP": null,
+        "KJV": "And it came to pass , when the [ evil ] spirit from God was upon Saul ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that David took an harp , and played with his hand",
+      "traditions": {
+        "WLC": "וְ לָקַ֥ח דָּוִ֛ד אֶת הַ כִּנּ֖וֹר וְ נִגֵּ֣ן בְּ יָד֑ וֹ",
+        "LXX": "καὶ ἐλάμβανεν Δαυεὶδ τὴν κινύραν καὶ ἔψαλλεν ἐν τῇ χειρὶ αὐτοῦ ,",
+        "VUL": "David tollébat cítharam , et percutiébat manu sua ,",
+        "SP": null,
+        "KJV": "that David took an harp , and played with his hand :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "so Saul was refreshed , and was well",
+      "traditions": {
+        "WLC": "וְ רָוַ֤ח לְ שָׁאוּל֙ וְ ט֣וֹב ל֔ וֹ",
+        "LXX": "καὶ ἀνέψυχεν Σαοὺλ καὶ ἀγαθόν αὐτῷ ,",
+        "VUL": "et refocillabátur Saul , et lévius habébat :",
+        "SP": null,
+        "KJV": "so Saul was refreshed , and was well ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the evil spirit departed from him",
+      "traditions": {
+        "WLC": "וְ סָ֥רָה מֵ עָלָ֖י ו ר֥וּחַ הָ רָעָֽה",
+        "LXX": "καὶ ἀφίστατο ἀπ᾽ αὐτοῦ τὸ πνεῦμα τὸ πονηρόν .",
+        "VUL": "recedébat enim ab eo spíritus malus .",
+        "SP": null,
+        "KJV": "and the evil spirit departed from him .",
+        "DSS": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1396 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the beginning",
+      "traditions": {
+        "WLC": "בְּ רֵאשִׁ֖ית",
+        "LXX": "ΕΝ ΑΡΧΗ",
+        "VUL": "In princípio",
+        "SP": "ב ראשׁית",
+        "KJV": "In the beginning",
+        "DSS": "[4Q2] ב ראשית / [4Q7] ב ר#אש#[ ית / [4Q8d] ב רשית##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "God created the heaven and the earth",
+      "traditions": {
+        "WLC": "בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַ שָּׁמַ֖יִם וְ אֵ֥ת הָ אָֽרֶץ",
+        "LXX": "ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν .",
+        "VUL": "creávit Deus cælum , et terram .",
+        "SP": "ברא אלהים את ה שׁמים ו את ה ארץ",
+        "KJV": "God created the heaven and the earth .",
+        "DSS": "[4Q2] ברא אלהי[ ם את ה שמים ו את ה ארץ ׃ / [4Q7] ברא ]אלהים את ה שמים ו את ה ארץ ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the earth was without form , and void",
+      "traditions": {
+        "WLC": "וְ הָ אָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָ בֹ֔הוּ",
+        "LXX": "ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος ,",
+        "VUL": "Terra autem erat inánis et vácua ,",
+        "SP": "ו ה ארץ היתה תהו ו בהו",
+        "KJV": "And the earth was without form , and void ;",
+        "DSS": "[4Q2] ו ] ה## ארץ[ היתה ] תהו ו בהו#? / [4Q7] [ ו ה ארץ היתה תהו ו בהו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and darkness [ was ] upon the face of the deep",
+      "traditions": {
+        "WLC": "וְ חֹ֖שֶׁךְ עַל פְּנֵ֣י תְה֑וֹם",
+        "LXX": "καὶ σκότος ἐπάνω τῆς ἀβύσσου ·",
+        "VUL": "et ténebræ erant super fáciem abýssi :",
+        "SP": "ו חשׁך על פני תהום",
+        "KJV": "and darkness [ was ] upon the face of the deep .",
+        "DSS": "[4Q2] ו חשך על פנ[ י תהום / [4Q7] ו חשך ] [ ע ]ל#[ פני תהו ]ם##"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the Spirit of God moved upon the face of the waters",
+      "traditions": {
+        "WLC": "וְ ר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל פְּנֵ֥י הַ מָּֽיִם",
+        "LXX": "καὶ πνεῦμα θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος .",
+        "VUL": "et Spíritus Dei ferebátur super aquas .",
+        "SP": "ו רוח אלהים מרחפת על פני ה מים",
+        "KJV": "And the Spirit of God moved upon the face of the waters .",
+        "DSS": "[4Q2] ו רוח אלהים מר ]חפת[ על פני ה מים ׃ / [4Q7] ו רוח אלהים מרחפת על פני ה מים[ ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said , Let there be light",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר",
+        "LXX": "καὶ εἶπεν ὁ θεός Γενηθήτω φῶς ·",
+        "VUL": "Dixítque Deus : Fiat lux .",
+        "SP": "ו יאמר אלהים יהי אור",
+        "KJV": "And God said , Let there be light :",
+        "DSS": "[4Q2] ו יאמר אלהים יהי אור[ / [4Q7] ו יאמר אלהים יהי אור ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and there was light",
+      "traditions": {
+        "WLC": "וַֽ יְהִי אֽוֹר",
+        "LXX": "καὶ ἐγένετο φῶς .",
+        "VUL": "Et facta est lux .",
+        "SP": "ו יהי אור",
+        "KJV": "and there was light .",
+        "DSS": "[4Q2] ו יהי אור ׃ / [4Q7] [ ו יהי אור ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God saw the light , that [ it was ] good",
+      "traditions": {
+        "WLC": "וַ יַּ֧רְא אֱלֹהִ֛ים אֶת הָ א֖וֹר כִּי ט֑וֹב",
+        "LXX": "καὶ ἴδεν ὁ θεὸς τὸ φῶς ὅτι καλόν ·",
+        "VUL": "Et vidit Deus lucem quod esset bona :",
+        "SP": "ו ירא אלהים את ה אור כי טוב",
+        "KJV": "And God saw the light , that [ it was ] good :",
+        "DSS": "[4Q2] ו ירא אלהים ]את ה א#[ ור כי טוב / [4Q7] ו י ]ר##א א##ל#הים את ה אור כי טוב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and God divided the light from the darkness",
+      "traditions": {
+        "WLC": "וַ יַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָ א֖וֹר וּ בֵ֥ין הַ חֹֽשֶׁךְ",
+        "LXX": "καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους .",
+        "VUL": "et divísit lucem a ténebris .",
+        "SP": "ו יבדל אלהים בין ה אור ו בין ה חשׁך",
+        "KJV": "and God divided the light from the darkness .",
+        "DSS": "[4Q2] ו יבדל אלהים בין ה אור[ ו בין ה חשך ׃ / [4Q7] ו יבדל אלה[ ים בין ה אור ו בין ה חשך ] ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God called the light Day",
+      "traditions": {
+        "WLC": "וַ יִּקְרָ֨א אֱלֹהִ֤ים לָ אוֹר֙ י֔וֹם",
+        "LXX": "καὶ ἐκάλεσεν ὁ θεὸς τὸ φῶς ἡμέραν ,",
+        "VUL": "Appellavítque lucem Diem ,",
+        "SP": "ו יקרא אלהים ל אור יום",
+        "KJV": "And God called the light Day ,",
+        "DSS": "[4Q2] ו יקרא א ]להים ל או#?[ ר יום / [4Q7] ו יקרא אלהים ל אור יומם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the darkness he called Night",
+      "traditions": {
+        "WLC": "וְ לַ חֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה",
+        "LXX": "καὶ τὸ σκότος ἐκάλεσεν νύκτα .",
+        "VUL": "et ténebras Noctem :",
+        "SP": "ו ל חשׁך קרא לילה",
+        "KJV": "and the darkness he called Night .",
+        "DSS": "[4Q2] ו ל חשך ] ק[ רא לי ]לה / [4Q7] ו ל חשך קר[ א לילה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the evening and the morning were the first day",
+      "traditions": {
+        "WLC": "וַֽ יְהִי עֶ֥רֶב וַֽ יְהִי בֹ֖קֶר י֥וֹם אֶחָֽד",
+        "LXX": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί , ἡμέρα μία .",
+        "VUL": "factúmque est véspere et mane , dies unus .",
+        "SP": "ו יהי ערב ו יהי בקר יום אחד",
+        "KJV": "And the evening and the morning were the first day .",
+        "DSS": "[4Q2] ו יהי ערב[ ו יהי בקר יום אחד ׃ / [4Q7] ו יהי ערב ו יהי בקר ] יום אחד ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said , Let there be a firmament in the midst of the waters",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּ ת֣וֹךְ הַ מָּ֑יִם",
+        "LXX": "Καὶ εἶπεν ὁ θεός Γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος ,",
+        "VUL": "Dixit quoque Deus : Fiat firmaméntum in médio aquárum :",
+        "SP": "ו יאמר אלהים יהי רקיע ב תוך ה מים",
+        "KJV": "And God said , Let there be a firmament in the midst of the waters ,",
+        "DSS": "[4Q2] [ ו יאמר א ]להים# י#?[ הי רקיע ב תוך ה מים / [4Q7] ו יאמר# אלהים יהי רקיע ב תוך ה מים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and let it divide the waters from the waters",
+      "traditions": {
+        "WLC": "וִ יהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָ מָֽיִם",
+        "LXX": "καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος ·",
+        "VUL": "et dívidat aquas ab aquis .",
+        "SP": "ו יהי מבדיל בין מים ל מים",
+        "KJV": "and let it divide the waters from the waters .",
+        "DSS": "[4Q2] ו יהי מב ]ד##이#?ל בין [ מים ל מים ׃ / [4Q7] ו יהי מב[ דיל בין מים ל מים ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ ἐγένετο οὕτως .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God made the firmament",
+      "traditions": {
+        "WLC": "וַ יַּ֣עַשׂ אֱלֹהִים֮ אֶת הָ רָקִיעַ֒",
+        "LXX": "καὶ ἐποίησεν ὁ θεὸς τὸ στερέωμα ·",
+        "VUL": "Et fecit Deus firmaméntum ,",
+        "SP": "ו יעשׂ אלהים את ה רקיע",
+        "KJV": "And God made the firmament ,",
+        "DSS": "[4Q2] ו יעש ] [ אלהים את ה רקיע / [4Q7] ו יעש ] אלהים את ה רקיע"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and divided the waters which [ were ] under the firmament from the waters which [ were ] above the firmament",
+      "traditions": {
+        "WLC": "וַ יַּבְדֵּ֗ל בֵּ֤ין הַ מַּ֨יִם֙ אֲשֶׁר֙ מִ תַּ֣חַת לָ רָקִ֔יעַ וּ בֵ֣ין הַ מַּ֔יִם אֲשֶׁ֖ר מֵ עַ֣ל לָ רָקִ֑יעַ",
+        "LXX": "καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ ὕδατος ὃ ἦν ὑποκάτω τοῦ στερεώματος , καὶ ἀνὰ μέσον τοῦ ὕδατος τοῦ ἐπάνω τοῦ στερεώματος .",
+        "VUL": "divisítque aquas , quæ erant sub firmaménto , ab his , quæ erant super firmaméntum .",
+        "SP": "ו יבדל בין ה מים אשׁר מ תחת ל רקיע ו בין ה מים אשׁר מ על ל רקיע",
+        "KJV": "and divided the waters which [ were ] under the firmament from the waters which [ were ] above the firmament :",
+        "DSS": "[4Q2] ו י ]ב##ד##[ ל ]ב##[ י ]ן ה מים אשר מ תחת ל רק[ יע ו בין ה מים ] א##שר מ על ל רקיע / [4Q7] ו יבדל בין ה מים אשר מ תח[ ת ל רקיע ו בין ה מים אשר ] מ על ל רקיע"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and it was so",
+      "traditions": {
+        "WLC": "וַֽ יְהִי כֵֽן",
+        "LXX": null,
+        "VUL": "Et factum est ita .",
+        "SP": "ו יהי כן",
+        "KJV": "and it was so .",
+        "DSS": "[4Q2] ו יהי כן ׃ / [4Q7] ו יהי כן ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God called the firmament Heaven",
+      "traditions": {
+        "WLC": "וַ יִּקְרָ֧א אֱלֹהִ֛ים לָֽ רָקִ֖יעַ שָׁמָ֑יִם",
+        "LXX": "καὶ ἐκάλεσεν ὁ θεὸς τὸ στερέωμα οὐρανόν ·",
+        "VUL": "Vocavítque Deus firmaméntum , Cælum :",
+        "SP": "ו יקרא אלהים ל רקיע שׁמים",
+        "KJV": "And God called the firmament Heaven .",
+        "DSS": "[4Q2] ו יקרא אלהים ל רקיע שמ[ ים / [4Q7] ו יקרא אלהים ל רקיע ש##[ מים / [4Q8a] ש#[ ε"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ ἴδεν ὁ θεὸς ὅτι καλόν .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the evening and the morning were the second day",
+      "traditions": {
+        "WLC": "וַֽ יְהִי עֶ֥רֶב וַֽ יְהִי בֹ֖קֶר י֥וֹם שֵׁנִֽי",
+        "LXX": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί , ἡμέρα δευτέρα .",
+        "VUL": "et factum est véspere et mane , dies secúndus .",
+        "SP": "ו יהי ערב ו יהי בקר יום שׁני",
+        "KJV": "And the evening and the morning were the second day .",
+        "DSS": "[4Q2] ו יהי ערב ] [ ו ]י?ה#י בקר יום שני ׃ / [4Q7] ו יהי ערב ו יהי בקר ] יום שני ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said , Let the waters under the heaven be gathered together unto one place",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַ מַּ֜יִם מִ תַּ֤חַת הַ שָּׁמַ֨יִם֙ אֶל מָק֣וֹם אֶחָ֔ד",
+        "LXX": "Καὶ εἶπεν ὁ θεός Συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς συναγωγὴν μίαν ,",
+        "VUL": "Dixit vero Deus : Congregéntur aquæ , quæ sub cælo sunt , in locum unum :",
+        "SP": "ו יאמר אלהים יקוו ה מים מ תחת ה שׁמים אל מקום אחד",
+        "KJV": "And God said , Let the waters under the heaven be gathered together unto one place ,",
+        "DSS": "[4Q2] ו יאמר א##להים יקוו ה מים מ תחת ה שמים אל מקום אחד / [4Q483] [ מ תחת ה שמים אל מקום א ]חד[ / [4Q7] ו יאמר אלהים יקאו ה מים מ תחת ל שמים [ אל מקום אחד / [4Q8a] ו יאמר#[ אלהים יקוו ה מים מ תחת ה שמים אל ] מקוה [ אחד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and let the dry [ land ] appear",
+      "traditions": {
+        "WLC": "וְ תֵרָאֶ֖ה הַ יַּבָּשָׁ֑ה",
+        "LXX": "καὶ ὀφθήτω ἡ ξηρά ·",
+        "VUL": "et appáreat árida .",
+        "SP": "ו תראה ה יבשׁה",
+        "KJV": "and let the dry [ land ] appear :",
+        "DSS": "[4Q10] ו תרא ה יב##[ שה / [4Q2] ו תראה ה י?ב##[ שה ] / [4Q483] ו תראה ה יבשה / [4Q7] ו תראה ] [ ה יבשה ] / [4Q8a] ו תראה ה יבשה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and it was so",
+      "traditions": {
+        "WLC": "וַֽ יְהִי כֵֽן",
+        "LXX": "καὶ ἐγένετο οὕτως .",
+        "VUL": "Et factum est ita .",
+        "SP": "ו יהי כן",
+        "KJV": "and it was so .",
+        "DSS": "[4Q10] ו יהי כן ׃ / [4Q2] ו יהי כן ׃ / [4Q483] ו יהי כן ׃ / [4Q7] ו? י?ה##י#? כ##ן#? ׃ / [4Q8a] ו יהי כן ׃"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ συνήχθη τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν , ὤφθη ἡ ξηρά .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God called the dry [ land ] Earth",
+      "traditions": {
+        "WLC": "וַ יִּקְרָ֨א אֱלֹהִ֤ים לַ יַּבָּשָׁה֙ אֶ֔רֶץ",
+        "LXX": "καὶ ἐκάλεσεν ὁ θεὸς τὴν ξηρὰν γῆν ,",
+        "VUL": "Et vocávit Deus áridam Terram ,",
+        "SP": "ו יקרא אלהים ל יבשׁה ארץ",
+        "KJV": "And God called the dry [ land ] Earth ;",
+        "DSS": "[4Q10] ו יקרא אלהים ל יבשה ארץ ׃ / [4Q2] ו יקרא אלהים ל יבשה ארץ / [4Q483] ו יקרא ] [ אלוהים ל יבשה ארץ / [4Q7] ו יקרא א##להים ל י?ב#שה א##[ רץ / [4Q8a] ו יקרא אלהים ] ל יבשה##[ ארץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the gathering together of the waters called he Seas",
+      "traditions": {
+        "WLC": "וּ לְ מִקְוֵ֥ה הַ מַּ֖יִם קָרָ֣א יַמִּ֑ים",
+        "LXX": "καὶ τὰ συστέματα τῶν ὑδάτων ἐκάλεσεν θαλάσσας ·",
+        "VUL": "congregationésque aquárum appellávit Mária .",
+        "SP": "ו ל מקוה ה מים קרא ימים",
+        "KJV": "and the gathering together of the waters called he Seas :",
+        "DSS": "[4Q2] ו ל מקוה ה מים קרא# ימים / [4Q483] ו ל ]מק[ וה ה מים קרא ימים / [4Q7] ו ל מקוה ה מים קרא ] [ ימים / [4Q8a] ו ל מקוה ה מים קרא ימים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and God saw that [ it was ] good",
+      "traditions": {
+        "WLC": "וַ יַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+        "LXX": "καὶ ἴδεν ὁ θεὸς ὅτι καλόν .",
+        "VUL": "Et vidit Deus quod esset bonum .",
+        "SP": "ו ירא אלהים כי טוב",
+        "KJV": "and God saw that [ it was ] good .",
+        "DSS": "[4Q2] ו ירא אלהים כי ט#וב ׃ / [4Q483] ו ירא אלוהים ] ׃ / [4Q7] ו ירא אלהים ] כי טוב ׃ / [4Q8a] ו ירא אלהים ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֗ים",
+        "LXX": "καὶ εἶπεν ὁ θεός",
+        "VUL": "Et ait :",
+        "SP": "ו יאמר אלהים",
+        "KJV": "And God said ,",
+        "DSS": "[4Q2] ו יאמר א#ל#ה#ים / [4Q7] ו יאמ##[ ר אלהים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Let the earth bring forth grass",
+      "traditions": {
+        "WLC": "תַּֽדְשֵׁ֤א הָ אָ֨רֶץ֙ דֶּ֔שֶׁא",
+        "LXX": "Βλαστησάτω ἡ γῆ βοτάνην χόρτου ,",
+        "VUL": "Gérminet terra herbam viréntem ,",
+        "SP": "תדשׁא ה ארץ דשׁא",
+        "KJV": "Let the earth bring forth grass ,",
+        "DSS": "[4Q2] ת#ד#ש#א# ה ארץ# ד##ש#א# / [4Q7] תדשא ה ארץ דשא ε"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the herb yielding seed",
+      "traditions": {
+        "WLC": "עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע",
+        "LXX": "σπεῖρον σπέρμα κατὰ γένος καὶ καθ᾽ ὁμοιότητα ,",
+        "VUL": "et faciéntem semen ,",
+        "SP": "עשׂב מזריע זרע",
+        "KJV": "the herb yielding seed , [ and ]",
+        "DSS": "[4Q2] עשב מזריע זרע"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the fruit tree yielding fruit after his kind",
+      "traditions": {
+        "WLC": "עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְ מִינ֔ וֹ",
+        "LXX": "καὶ ξύλον κάρπιμον ποιοῦν καρπόν ,",
+        "VUL": "et lignum pomíferum fáciens fructum iuxta genus suum ,",
+        "SP": "ו עץ פרי עשׂה פרי ל מינו",
+        "KJV": "the fruit tree yielding fruit after his kind ,",
+        "DSS": "[4Q2] עץ## פרי עשה פרי ל מ#י?נ#?׳ו?"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "whose seed is in itself, upon the earth",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר זַרְע וֹ ב֖ וֹ עַל הָ אָ֑רֶץ",
+        "LXX": "οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος εἰς ὁμοιότητα ἐπὶ τῆς γῆς ·",
+        "VUL": "cuius semen in semetípso sit super terram .",
+        "SP": "אשׁר זרעו בו על ה ארץ",
+        "KJV": "whose seed [ is ] in itself , upon the earth :",
+        "DSS": "[4Q2] אשר ז?ר#ע#׳ו? ב#׳ו? ע#ל ה ארץ"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and it was so",
+      "traditions": {
+        "WLC": "וַֽ יְהִי כֵֽן",
+        "LXX": "καὶ ἐγένετο οὕτως .",
+        "VUL": "Et factum est ita .",
+        "SP": "ו יהי כן",
+        "KJV": "and it was so .",
+        "DSS": "[4Q2] ו? י?ה#י? כ#ן ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the earth brought forth grass",
+      "traditions": {
+        "WLC": "וַ תּוֹצֵ֨א הָ אָ֜רֶץ דֶּ֠שֶׁא",
+        "LXX": "καὶ ἐξήνεγκεν ἡ γῆ βοτάνην χόρτου ,",
+        "VUL": "Et prótulit terra herbam viréntem ,",
+        "SP": "ו תוצא ה ארץ דשׁא",
+        "KJV": "And the earth brought forth grass , [ and ]",
+        "DSS": "[4Q2] ו תוצ#א ה ארץ ד#ש##[ א ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "herb yielding seed after his kind",
+      "traditions": {
+        "WLC": "עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֨רַע֙ לְ מִינֵ֔ הוּ",
+        "LXX": "σπεῖρον σπέρμα κατὰ γένος καὶ καθ᾽ ὁμοιότητα ,",
+        "VUL": "et faciéntem semen iuxta genus suum ,",
+        "SP": "עשׂב מזריע זרע ל מינהו",
+        "KJV": "herb yielding seed after his kind ,",
+        "DSS": "[4Q2] עשב מז?[ ריע זרע ל מינ׳הו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the tree yielding fruit",
+      "traditions": {
+        "WLC": "וְ עֵ֧ץ עֹֽשֶׂה פְּרִ֛י",
+        "LXX": "καὶ ξύλον κάρπιμον ποιοῦν καρπόν ,",
+        "VUL": "lignúmque fáciens fructum ,",
+        "SP": "ו עץ עשׂה פרי",
+        "KJV": "and the tree yielding fruit ,",
+        "DSS": "[4Q2] ו ] עץ ע#ש#ה# פרי"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "whose seed was in itself, after his kind",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר זַרְע וֹ ב֖ וֹ לְ מִינֵ֑ הוּ",
+        "LXX": "οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς .",
+        "VUL": "et habens unumquódque seméntem secúndum spéciem suam .",
+        "SP": "אשׁר זרעו בו ל מינהו",
+        "KJV": "whose seed [ was ] in itself , after his kind :",
+        "DSS": "[4Q2] א#ש#ר# ז?ר#ע#׳ו ב׳ו ל מי#?נ׳הו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and God saw that it was good",
+      "traditions": {
+        "WLC": "וַ יַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+        "LXX": "καὶ ἴδεν ὁ θεὸς ὅτι καλόν .",
+        "VUL": "Et vidit Deus quod esset bonum .",
+        "SP": "ו ירא אלהים כי טוב",
+        "KJV": "and God saw that [ it was ] good .",
+        "DSS": "[4Q2] ו יר#א## אל##הים כי טו?ב# ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the evening and the morning",
+      "traditions": {
+        "WLC": "וַֽ יְהִי עֶ֥רֶב וַֽ יְהִי בֹ֖קֶר",
+        "LXX": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί ,",
+        "VUL": "Et factum est véspere et mane ,",
+        "SP": "ו יהי ערב ו יהי בקר",
+        "KJV": "And the evening and the morning",
+        "DSS": "[4Q2] ו#? [ יהי ערב ] ו יהי בקר / [4Q7] ו יהי ב#ק#ר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "were the third day",
+      "traditions": {
+        "WLC": "י֥וֹם שְׁלִישִֽׁי",
+        "LXX": "ἡμέρα τρίτη .",
+        "VUL": "dies tértius .",
+        "SP": "יום שׁלישׁי",
+        "KJV": "were the third day .",
+        "DSS": "[4Q2] יום שלישי ׃ / [4Q7] י?ום ש#ל#שי ε ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֗ים",
+        "LXX": "Καὶ εἶπεν ὁ θεός",
+        "VUL": "Dixit autem Deus :",
+        "SP": "ו יאמר אלהים",
+        "KJV": "And God said ,",
+        "DSS": "[4Q10] [ ו יאמר אלה ]י#?ם / [4Q2] ו יאמר אלהים / [4Q7] ו יאמר (^ אלהים ^)"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Let there be lights in the firmament of the heaven",
+      "traditions": {
+        "WLC": "יְהִ֤י מְאֹרֹת֙ בִּ רְקִ֣יעַ הַ שָּׁמַ֔יִם",
+        "LXX": "Γενηθήτωσαν φωστῆρες ἐν τῷ στερεώματι τοῦ οὐρανοῦ εἰς φαῦσιν τῆς γῆς ,",
+        "VUL": "Fiant luminária in firmaménto cæli ,",
+        "SP": "יהי מאורות ב רקיע ה שׁמים ל האיר על ה ארץ",
+        "KJV": "Let there be lights in the firmament of the heaven",
+        "DSS": "[4Q10] יהי מארות ב רקיע ה שמים / [4Q2] יהי#? [ מא ]ר##ת ב# ר#קיע ה שמים / [4Q7] יהי מארות ב רקי#?[ ע ה שמים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to divide the day from the night",
+      "traditions": {
+        "WLC": "לְ הַבְדִּ֕יל בֵּ֥ין הַ יּ֖וֹם וּ בֵ֣ין הַ לָּ֑יְלָה",
+        "LXX": "ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτὸς καὶ διαχωρίζειν ἀνὰ μέσον τῆς ἡμέρας καὶ ἀνὰ μέσον τῆς νυκτός ·",
+        "VUL": "et dívidant diem ac noctem ,",
+        "SP": "ו ל הבדיל בין ה יום ו בין ה לילה",
+        "KJV": "to divide the day from the night ;",
+        "DSS": "[4Q10] ל הבדיל##[ בין ] [ ה יום ו ב ]י#?ן ה לילה / [4Q2] ל הבדיל בין ה יום ו#? ב##[ ין ] ה## ל#י(# ל #)ה# / [4Q7] ל הבדיל בין ה יום ] ו בין ה לילה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and let them be for signs",
+      "traditions": {
+        "WLC": "וְ הָי֤וּ לְ אֹתֹת֙",
+        "LXX": "καὶ ἔστωσαν εἰς σημεῖα",
+        "VUL": "et sint in signa",
+        "SP": "ו היו ל אתות",
+        "KJV": "and let them be for signs ,",
+        "DSS": "[4Q10] ו? ה#י?ו? ל אתות / [4Q2] ו? היו ל את#ת# / [4Q7] ו יהיו ל א#תות#"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and for seasons",
+      "traditions": {
+        "WLC": "וּ לְ מ֣וֹעֲדִ֔ים",
+        "LXX": "καὶ εἰς καιροὺς",
+        "VUL": "et témpora ,",
+        "SP": "ו ל מועדים",
+        "KJV": "and for seasons ,",
+        "DSS": "[4Q10] ו ל מעדים / [4Q2] ו? ל## [ מועדים / [4Q7] ו ל מעדים"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and for days, and years",
+      "traditions": {
+        "WLC": "וּ לְ יָמִ֖ים וְ שָׁנִֽים",
+        "LXX": "καὶ εἰς ἡμέρας καὶ εἰς ἐνιαυτούς ·",
+        "VUL": "et dies et annos :",
+        "SP": "ו ל ימים ו שׁנים",
+        "KJV": "and for days , and years :",
+        "DSS": "[4Q10] ו ל ימים ו ל ש##[ נים ׃ / [4Q2] ו ל ימים ו ש ]נ#?י#?ם## ׃ / [4Q7] ל## [ ימים ו שנים ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And let them be for lights in the firmament of the heaven",
+      "traditions": {
+        "WLC": "וְ הָי֤וּ לִ מְאוֹרֹת֙ בִּ רְקִ֣יעַ הַ שָּׁמַ֔יִם",
+        "LXX": "καὶ ἔστωσαν εἰς φαῦσιν ἐν τῷ στερεώματι τοῦ οὐρανοῦ ,",
+        "VUL": "ut lúceant in firmaménto cæli ,",
+        "SP": "ו היו ל מאורות ב רקיע ה שׁמים",
+        "KJV": "And let them be for lights in the firmament of the heaven",
+        "DSS": "[4Q10] [ ו היו ל ] מארות ב# ר#ק#י?ע# [ ה ] ש#מ#י#?ם / [4Q2] ו#? ה#י?ו? ל# מ#א#רת# ב# ר#ק#יע ה שמים / [4Q7] ו היו ל מאורת ] ב רקיע ה שמים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to give light upon the earth",
+      "traditions": {
+        "WLC": "לְ הָאִ֖יר עַל הָ אָ֑רֶץ",
+        "LXX": "ὥστε φαίνειν ἐπὶ τῆς γῆς .",
+        "VUL": "et illúminent terram .",
+        "SP": "ל האיר על ה ארץ",
+        "KJV": "to give light upon the earth :",
+        "DSS": "[4Q10] ל ה#איר על ה ארץ# / [4Q2] ל הא#이?ר# ע##ל# ה אר##[ ץ / [4Q7] ל האיר על ה ארץ"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and it was so",
+      "traditions": {
+        "WLC": "וַֽ יְהִי כֵֽן",
+        "LXX": "καὶ ἐγένετο οὕτως .",
+        "VUL": "Et factum est ita .",
+        "SP": "ו יהי כן",
+        "KJV": "and it was so .",
+        "DSS": "[4Q10] ו יהי כן ׃ / [4Q2] ו יהי כן ׃ / [4Q7] ו יהי כ##[ ן ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God made two great lights",
+      "traditions": {
+        "WLC": "וַ יַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַ מְּאֹרֹ֖ת הַ גְּדֹלִ֑ים",
+        "LXX": "καὶ ἐποίησεν ὁ θεὸς τοὺς δύο φωστῆρας τοὺς μεγάλους ,",
+        "VUL": "Fecítque Deus duo luminária magna :",
+        "SP": "ו יעשׂ אלהים את שׁני ה מאורות ה גדלים",
+        "KJV": "And God made two great lights ;",
+        "DSS": "[4Q10] ו#? י#?[ עש ] / [4Q2] ו יעש אלהים את שני ]ה## מא#רת ה (^ ג ^)דלים / [4Q7] ו יעש אלהים ] את שנ?이 ה מארות ה ג?[ ד ]ל#ים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the greater light to rule the day",
+      "traditions": {
+        "WLC": "אֶת הַ מָּא֤וֹר הַ גָּדֹל֙ לְ מֶמְשֶׁ֣לֶת הַ יּ֔וֹם",
+        "LXX": "τὸν φωστῆρα τὸν μέγαν εἰς ἀρχὰς τῆς ἡμέρας",
+        "VUL": "lumináre maius , ut præésset diéi :",
+        "SP": "את ה מאור ה גדול ל ממשׁלת ה יום",
+        "KJV": "the greater light to rule the day ,",
+        "DSS": "[4Q2] את ה# מ#א#ו?ר# ה# גדל ל## מ##[ משלת ה יום / [4Q7] את ה מאור ה## [ גדול ל ממשלת ה יום"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the lesser light to rule the night",
+      "traditions": {
+        "WLC": "וְ אֶת הַ מָּא֤וֹר הַ קָּטֹן֙ לְ מֶמְשֶׁ֣לֶת הַ לַּ֔יְלָה",
+        "LXX": "καὶ τὸν φωστῆρα τὸν ἐλάσσω εἰς ἀρχὰς τῆς νυκτός ,",
+        "VUL": "et lumináre minus , ut præésset nocti :",
+        "SP": "ו את ה מאור ה קטן ל ממשׁלת ה לילה",
+        "KJV": "and the lesser light to rule the night : [ he made ]",
+        "DSS": "[4Q2] ו את ה מאור ]ה# קטן ל ממשלת ה לילה / [4Q7] ו את ] [ ה מ ]אור ה קטו#?ן#? ל ממשל#[ ת ]ה לילה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the stars also",
+      "traditions": {
+        "WLC": "וְ אֵ֖ת הַ כּוֹכָבִֽים",
+        "LXX": "καὶ τοὺς ἀστέρας .",
+        "VUL": "et stellas .",
+        "SP": "ו את ה כוכבים",
+        "KJV": "the stars also .",
+        "DSS": "[4Q2] ו את ה כוכבים ׃ / [4Q7] ו את ה כוכב##[ ים ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God set them in the firmament of the heaven",
+      "traditions": {
+        "WLC": "וַ יִּתֵּ֥ן אֹתָ֛ ם אֱלֹהִ֖ים בִּ רְקִ֣יעַ הַ שָּׁמָ֑יִם",
+        "LXX": "καὶ ἔθετο αὐτοὺς ὁ θεὸς ἐν τῷ στερεώματι τοῦ οὐρανοῦ ,",
+        "VUL": "Et pósuit eas in firmaménto cæli ,",
+        "SP": "ו יתן אתם אלהים ב רקיע ה שׁמים",
+        "KJV": "And God set them in the firmament of the heaven",
+        "DSS": "[4Q2] ו יתן?[ את׳ם אלהים ב רקיע ה ] ש##מים / [4Q7] ו יתן את׳ם אלהים ] [ ב רקיע ]ה שמים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to give light upon the earth",
+      "traditions": {
+        "WLC": "לְ הָאִ֖יר עַל הָ אָֽרֶץ",
+        "LXX": "ὥστε φαίνειν ἐπὶ τῆς γῆς ,",
+        "VUL": "ut lucérent super terram ,",
+        "SP": "ל האיר על ה ארץ",
+        "KJV": "to give light upon the earth ,",
+        "DSS": "[4Q2] ל האיר על ה א##ר##ץ ׃ / [4Q7] ל## [ האיר ] על ה ארץ ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And to rule over the day and over the night",
+      "traditions": {
+        "WLC": "וְ לִ מְשֹׁל֙ בַּ יּ֣וֹם וּ בַ לַּ֔יְלָה",
+        "LXX": "καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτός ,",
+        "VUL": "et præéssent diéi ac nocti ,",
+        "SP": "ו ל משׁל ב יום ו ב לילה",
+        "KJV": "And to rule over the day and over the night ,",
+        "DSS": "[4Q2] ו ל משל ב יום ו? ב לי(# ל #)ה## / [4Q7] ו ל משול ב# [ יום ו ב לילה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and to divide the light from the darkness",
+      "traditions": {
+        "WLC": "וּֽ לֲ הַבְדִּ֔יל בֵּ֥ין הָ א֖וֹר וּ בֵ֣ין הַ חֹ֑שֶׁךְ",
+        "LXX": "καὶ διαχωρίζειν ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους ·",
+        "VUL": "et divíderent lucem ac ténebras .",
+        "SP": "ו ל הבדיל בין ה אור ו בין ה חשׁך",
+        "KJV": "and to divide the light from the darkness :",
+        "DSS": "[4Q2] [ ו ל הבדיל בי ]ן#? ה# א#ו(# ר #) ו#? בין ה חשך / [4Q4] [ ו ב לילה ו ל הבדיل بين ]ה## אור ו ב##[ י ]ן ה חושך / [4Q7] ו ל הבדיל ] [ بين ה او ]ر و بين [ ה חש ]ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and God saw that it was good",
+      "traditions": {
+        "WLC": "וַ יַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+        "LXX": "καὶ ἴδεν ὁ θεὸς ὅτι καλόν .",
+        "VUL": "Et vidit Deus quod esset bonum .",
+        "SP": "ו ירא אלהים כי טוב",
+        "KJV": "and God saw that [ it was ] good .",
+        "DSS": "[1Q1] [ ו يرا ال ]הים כי [ טוב ׃ / [4Q2] ו يرا אלהים כי טוב ׃ / [4Q4] و يرا אלהים כ##[ ي ]ט#و#?ب ׃ / [4Q7] و يرا א##להים כי טוב ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the evening and the morning",
+      "traditions": {
+        "WLC": "וַֽ יְהִי עֶ֥רֶב וַֽ יְהִי בֹ֖קֶר",
+        "LXX": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί ,",
+        "VUL": "Et factum est véspere et mane ,",
+        "SP": "ו יהי ערב ו יהי בקר",
+        "KJV": "And the evening and the morning",
+        "DSS": "[1Q1] ו יהي ערב ו יהي בקר / [4Q2] ו יהي ערב# ו יהي ב#ק##ر / [4Q4] و יהي [ ع ]ر##ب و יה[ ي ] [ بكر / [4Q7] [ و יהي ערב ו יהي בקר ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "were the fourth day",
+      "traditions": {
+        "WLC": "י֥וֹם רְבִיעִֽי",
+        "LXX": "ἡμέρα τετάρτη . ⸆",
+        "VUL": "dies quartus .",
+        "SP": "יום רביעי",
+        "KJV": "were the fourth day .",
+        "DSS": "[1Q1] يום רביعي ׃ / [4Q2] يום רביع##ي ׃ / [4Q4] يום רביعي ׃ / [4Q7] [ يום רבי ]ع##ي ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֔ים",
+        "LXX": "Καὶ εἶπεν ὁ θεός",
+        "VUL": "Dixit étiam Deus :",
+        "SP": "ו יאמר אלהים",
+        "KJV": "And God said ,",
+        "DSS": "[1Q1] و يאמר ] [ אלהים / [4Q2] و يאמר אלהים / [4Q4] و ي#ا##ر אלהים / [4Q7] [ و يאמר א ]ל#[ הים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Let the waters bring forth abundantly the moving creature that hath life",
+      "traditions": {
+        "WLC": "יִשְׁרְצ֣וּ הַ מַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה",
+        "LXX": "Ἐξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζωσῶν",
+        "VUL": "Prodúcant aquæ réptile ánimæ vivéntis ,",
+        "SP": "ישׁרצו ה מים שׁרץ נפשׁ חיה",
+        "KJV": "Let the waters bring forth abundantly the moving creature that hath life ,",
+        "DSS": "[1Q1] יש ]روצו ה مים שر#[ ץ נפש حية / [4Q2] يشرצו ה مים شרץ# ن?فش ح#ي?ة# / [4Q4] ي#?[ שר ]צ##و ה مים ش#רץ [ נפש حية / [4Q7] يشرצו ] ה مים# شרץ נפش حية"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and fowl may fly above the earth",
+      "traditions": {
+        "WLC": "וְ עוֹף֙ יְעוֹפֵ֣ף עַל הָ אָ֔רֶץ",
+        "LXX": "καὶ πετεινὰ πετόμενα ἐπὶ τῆς γῆς",
+        "VUL": "et volátile super terram",
+        "SP": "ו עוף יעפף על ה ארץ",
+        "KJV": "and fowl [ that ] may fly above the earth",
+        "DSS": "[1Q1] و عوف יעوفף על ה ארץ / [4Q2] و#? ع##و#?ף ي#?عو#?فف על ה ארץ / [4Q4] و عوف יעوفף ع ]ل ה ארץ / [4Q7] و ع#[ وף יעوفף על ה ארץ ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "in the open firmament of heaven",
+      "traditions": {
+        "WLC": "עַל פְּנֵ֖י רְקִ֥יעַ הַ שָּׁמָֽיִם",
+        "LXX": "κατὰ στερέωμα οὐρανοῦ · καὶ ἐγένετο οὕτως .",
+        "VUL": "sub firmaménto cæli .",
+        "SP": "על פני רקיע ה שׁמים",
+        "KJV": "in the open firmament of heaven .",
+        "DSS": "[1Q1] على פني رקיע ה شמים ׃ / [4Q2] على فني رקיע ה شמים ׃ / [4Q4] على فني ر##ק##يע ה شמים[ ׃ / [4Q7] [ على فني رקיע ה شמים ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God created great whales",
+      "traditions": {
+        "WLC": "וַ יִּבְרָ֣א אֱלֹהִ֔ים אֶת הַ תַּנִּינִ֖ם הַ גְּדֹלִ֑ים",
+        "LXX": "καὶ ἐποίησεν ὁ θεὸς τὰ κήτη μεγάλα",
+        "VUL": "Creavítque Deus Cete grándia ,",
+        "SP": "ו יברא אלהים את ה תנינים ה גדלים",
+        "KJV": "And God created great whales ,",
+        "DSS": "[1Q1] [ ו יברא א ]ל[ הים את ה תנינם ה גדלים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and every living creature that moveth , which the waters brought forth abundantly , after their kind",
+      "traditions": {
+        "WLC": "וְ אֵ֣ת כָּל נֶ֣פֶשׁ הַֽ חַיָּ֣ה הָֽ רֹמֶ֡שֶׂת אֲשֶׁר֩ שָׁרְצ֨וּ הַ מַּ֜יִם לְ מִֽינֵ הֶ֗ם",
+        "LXX": "καὶ πᾶσαν ψυχὴν ἑρπετῶν , ἃ ἐξήγαγεν ,",
+        "VUL": "et omnem ánimam vivéntem atque motábilem , quam prodúxerant aquæ in spécies suas ,",
+        "SP": "ו את כל נפשׁ ה חיה ה רמשׂת אשׁר שׁרצו ה מים ל מיניהם",
+        "KJV": "and every living creature that moveth , which the waters brought forth abundantly , after their kind ,",
+        "DSS": "[4Q2] ו#? א##ת# כל נפש ה חיה ה רמשת אש#ר שרצו ה# מים ל מינ׳הם#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and every winged fowl after his kind",
+      "traditions": {
+        "WLC": "וְ אֵ֨ת כָּל ע֤וֹף כָּנָף֙ לְ מִינֵ֔ הוּ",
+        "LXX": "καὶ πᾶν πετεινὸν πτερωτὸν κατὰ γένος ·",
+        "VUL": "et omne volátile secúndum genus suum .",
+        "SP": "ו את כל עוף כנף ל מינהו",
+        "KJV": "and every winged fowl after his kind :",
+        "DSS": "[4Q2] ו את כל עוף##[ כנף ] ל מינ׳הו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and God saw that [ it was ] good",
+      "traditions": {
+        "WLC": "וַ יַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+        "LXX": "καὶ ἴδεν ὁ .",
+        "VUL": "Et vidit Deus quod esset bonum .",
+        "SP": "ו ירא אלהים כי טוב",
+        "KJV": "and God saw that [ it was ] good .",
+        "DSS": "[4Q2] ו ירא אלהים כי טו#?ב"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God blessed them , saying",
+      "traditions": {
+        "WLC": "וַ יְבָ֧רֶךְ אֹתָ֛ ם אֱלֹהִ֖ים לֵ אמֹ֑ר",
+        "LXX": "καὶ ηὐλόγησεν αὐτὰ ὁ θεὸς λέγων",
+        "VUL": "Benedixítque eis , dicens :",
+        "SP": "ו יברך אתם אלהים ל אמר",
+        "KJV": "And God blessed them , saying ,",
+        "DSS": "[4Q2] ו יברך א#ת׳ם אלהים ל# א##[ מ ]ר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Be fruitful , and multiply",
+      "traditions": {
+        "WLC": "פְּר֣וּ וּ רְב֗וּ",
+        "LXX": "Αὐξάνεσθε καὶ πληθύνεσθε",
+        "VUL": "Créscite , et multiplicámini ,",
+        "SP": "פרו ו רבו",
+        "KJV": "Be fruitful , and multiply ,",
+        "DSS": "[4Q2] [ פרו ו רבו ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and fill the waters in the seas",
+      "traditions": {
+        "WLC": "וּ מִלְא֤וּ אֶת הַ מַּ֨יִם֙ בַּ יַּמִּ֔ים",
+        "LXX": "πληρώσατε τὰ ὕδατα θαλάσσαις ,",
+        "VUL": "et repléte aquas maris :",
+        "SP": "ו מלאו את ה מים ב ימים",
+        "KJV": "and fill the waters in the seas ,",
+        "DSS": "[4Q2] ו מלאו את ה מים ב ימים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and let fowl multiply in the earth",
+      "traditions": {
+        "WLC": "וְ הָ ע֖וֹף יִ֥רֶב בָּ אָֽרֶץ",
+        "LXX": "καὶ τὰ πετεινὰ πληθυνέσθωσαν ἐπὶ τῆς γῆς",
+        "VUL": "avésque multiplicéntur super terram .",
+        "SP": "ו ה עוף ירבה ב ארץ",
+        "KJV": "and let fowl multiply in the earth .",
+        "DSS": "[4Q2] ו ה עוף י?ר#ב# ב ארץ#"
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the evening and the morning were the fifth day",
+      "traditions": {
+        "WLC": "וַֽ יְהִי עֶ֥רֶב וַֽ יְהִי בֹ֖קֶר י֥וֹם חֲמִישִֽׁי",
+        "LXX": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωΐ , ἡμέρα πέμπτη .",
+        "VUL": "Et factum est véspere et mane , dies quintus .",
+        "SP": "ו יהי ערב ו יהי בקר יום חמישׁי",
+        "KJV": "And the evening and the morning were the fifth day .",
+        "DSS": "[4Q2] ו? י[ הי ערב ו יהי בקר יום חמישי"
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֗ים",
+        "LXX": "Καὶ εἶπεν ὁ θεός",
+        "VUL": "Dixit quoque Deus :",
+        "SP": "ו יאמר אלהים",
+        "KJV": "And God said ,",
+        "DSS": "[4Q2] ו יאמר אלהי?ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Let the earth bring forth the living creature after his kind , cattle , and creeping thing , and beast of the earth after his kind",
+      "traditions": {
+        "WLC": "תּוֹצֵ֨א הָ אָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְ מִינָ֔ הּ בְּהֵמָ֥ה וָ רֶ֛מֶשׂ וְ חַֽיְתוֹ אֶ֖רֶץ לְ מִינָ֑ הּ",
+        "LXX": "Ἐξαγαγέτω ἡ γῆ ψυχὴν ζῶσαν κατὰ γένος , καὶ ἑρπετὰ καὶ θηρία γένος ,",
+        "VUL": "Prodúcat terra ánimam vivéntem in génere suo , iuménta , et reptília , et béstias terræ secúndum spécies suas .",
+        "SP": "תוצא ה ארץ נפשׁ חיה ל מינה בהמה ו רמשׂ ו חית ה ארץ ל מינה",
+        "KJV": "Let the earth bring forth the living creature after his kind , cattle , and creeping thing , and beast of the earth after his kind :",
+        "DSS": "[4Q2] תוצא##[ ה ארץ נפש חיה ל מינ׳ה בהמה ו רמש ו חיתו ארץ ] ל מינ׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and it was so",
+      "traditions": {
+        "WLC": "וַֽ יְהִי כֵֽן",
+        "LXX": "καὶ ἐγένετο .",
+        "VUL": "Factúmque est ita .",
+        "SP": "ו יהי כן",
+        "KJV": "and it was so .",
+        "DSS": "[4Q2] [ ו יהי כן"
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God made the beast of the earth after his kind",
+      "traditions": {
+        "WLC": "וַ יַּ֣עַשׂ אֱלֹהִים֩ אֶת חַיַּ֨ת הָ אָ֜רֶץ לְ מִינָ֗ הּ",
+        "LXX": "καὶ ἐποίησεν ὁ θεὸς τὰ κατὰ γένος",
+        "VUL": "Et fecit Deus béstias terræ iuxta spécies suas ,",
+        "SP": "ו יעשׂ אלהים את חית ה ארץ ל מינה",
+        "KJV": "And God made the beast of the earth after his kind ,",
+        "DSS": "[4Q2] ו י#?ע##[ ש אלהים את חית ה ארץ ל מינ׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and cattle after their kind",
+      "traditions": {
+        "WLC": "וְ אֶת הַ בְּהֵמָה֙ לְ מִינָ֔ הּ",
+        "LXX": "καὶ τὰ κτήνη γένος",
+        "VUL": "et iuménta ,",
+        "SP": "ו את ה בהמה ל מינה",
+        "KJV": "and cattle after their kind ,",
+        "DSS": "[4Q2] ו את ה בהמה ל מינ׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and every thing that creepeth upon the earth after his kind",
+      "traditions": {
+        "WLC": "וְ אֵ֛ת כָּל רֶ֥מֶשׂ הָֽ אֲדָמָ֖ה לְ מִינֵ֑ הוּ",
+        "LXX": "καὶ πάντα τὰ ἑρπετὰ κατὰ γένος αὐτῶν ·",
+        "VUL": "et omne réptile terræ in génere suo .",
+        "SP": "ו את כל רמשׂ ה אדמה ל מינהו",
+        "KJV": "and every thing that creepeth upon the earth after his kind :",
+        "DSS": "[4Q2] ε [ ה אדמה ל מינ׳הו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and God saw that [ it was ] good",
+      "traditions": {
+        "WLC": "וַ יַּ֥רְא אֱלֹהִ֖ים כִּי טֽוֹב",
+        "LXX": "καὶ ἴδεν ὁ θεὸς ὅτι καλά .",
+        "VUL": "Et vidit Deus quod esset bonum ,",
+        "SP": "ו ירא אלהים כי טוב",
+        "KJV": "and God saw that [ it was ] good .",
+        "DSS": "[4Q2] ו ירא אלהי ]ם#[ כי טוב"
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֔ים",
+        "LXX": "καὶ εἶπεν ὁ θεός",
+        "VUL": "et ait :",
+        "SP": "ו יאמר אלהים",
+        "KJV": "And God said ,",
+        "DSS": "[4Q2] ו יאמר אלהים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Let us make man in our image , after our likeness",
+      "traditions": {
+        "WLC": "נַֽעֲשֶׂ֥ה אָדָ֛ם בְּ צַלְמֵ֖ נוּ כִּ דְמוּתֵ֑ נוּ",
+        "LXX": "Ποιήσωμεν ἄνθρωπον κατ᾽ εἰκόνα ἡμετέραν καὶ καθ᾽ ὁμοίωσιν ·",
+        "VUL": "Faciámus Hóminem ad imáginem , et similitúdinem nostram :",
+        "SP": "נעשׂה אדם ב צלמנו ו כ דמותנו",
+        "KJV": "Let us make man in our image , after our likeness :",
+        "DSS": "[4Q2] נעשה אדם ב צלמ׳נו ] [ כ דמות׳נו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and let them have dominion over the fish of the sea",
+      "traditions": {
+        "WLC": "וְ יִרְדּוּ֩ בִ דְגַ֨ת הַ יָּ֜ם",
+        "LXX": "καὶ ἀρχέτωσαν τῶν ἰχθύων τῆς θαλάσσης",
+        "VUL": "et præsit píscibus maris ,",
+        "SP": "ו ירדו ב דגת ה ים",
+        "KJV": "and let them have dominion over the fish of the sea ,",
+        "DSS": "[4Q2] ו ירדו ב דגת ה ] י#?ם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and over the fowl of the air",
+      "traditions": {
+        "WLC": "וּ בְ ע֣וֹף הַ שָּׁמַ֗יִם",
+        "LXX": "καὶ τῶν πετεινῶν τοῦ οὐρανοῦ",
+        "VUL": "et volatílibus cæli ,",
+        "SP": "ו ב עוף ה שׁמים",
+        "KJV": "and over the fowl of the air ,",
+        "DSS": "[4Q2] ו ב ע#ו?ף##[ ה שמים"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and over the cattle , and over all the earth",
+      "traditions": {
+        "WLC": "וּ בַ בְּהֵמָה֙ וּ בְ כָל הָ אָ֔רֶץ",
+        "LXX": "καὶ τῶν κτηνῶν καὶ πάσης τῆς γῆς",
+        "VUL": "et béstiis , universǽque terræ ,",
+        "SP": "ו ב בהמה ו ב כל ה ארץ",
+        "KJV": "and over the cattle , and over all the earth ,",
+        "DSS": "[4Q2] ו ב בהמה ו ב כל ה ארץ"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and over every creeping thing that creepeth upon the earth",
+      "traditions": {
+        "WLC": "וּ בְ כָל הָ רֶ֖מֶשׂ הָֽ רֹמֵ֥שׂ עַל הָ אָֽרֶץ",
+        "LXX": "καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς .",
+        "VUL": "omníque réptili , quod movétur in terra .",
+        "SP": "ו ב כל ה רמשׂ ה רמשׂ על ה ארץ",
+        "KJV": "and over every creeping thing that creepeth upon the earth .",
+        "DSS": "[4Q2] ו ב כל ה רמש ] [ ה רמש על ה ארץ"
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "So God created man in his [ own ] image",
+      "traditions": {
+        "WLC": "וַ יִּבְרָ֨א אֱלֹהִ֤ים אֶת הָֽ אָדָם֙ בְּ צַלְמ֔ וֹ",
+        "LXX": "καὶ ἐποίησεν ὁ θεὸς τὸν ἄνθρωπον , κατ᾽ εἰκόνα",
+        "VUL": "Et creávit Deus hóminem ad imáginem suam :",
+        "SP": "ו יברא אלהים את ה אדם ב צלמו",
+        "KJV": "So God created man in his [ own ] image ,",
+        "DSS": "[4Q10] ו יברא ] [ אלהים את ]ה אדם {{ # # # # # }} [ ב צלמ׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in the image of God created he him",
+      "traditions": {
+        "WLC": "בְּ צֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑ וֹ",
+        "LXX": "θεοῦ ἐποίησεν αὐτόν ·",
+        "VUL": "ad imáginem Dei creávit illum ,",
+        "SP": "ב צלם אלהים ברא אתו",
+        "KJV": "in the image of God created he him ;",
+        "DSS": "[4Q10] ב צלם אלהים ברא ] [ את׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "male and female created he them",
+      "traditions": {
+        "WLC": "זָכָ֥ר וּ נְקֵבָ֖ה בָּרָ֥א אֹתָֽ ם",
+        "LXX": "ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς .",
+        "VUL": "másculum et féminam creávit eos .",
+        "SP": "זכר ו נקבה ברא אתם",
+        "KJV": "male and female created he them .",
+        "DSS": "[4Q10] זכר ו נ ]קבה ב##רא א##[ ת׳ם"
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God blessed them",
+      "traditions": {
+        "WLC": "וַ יְבָ֣רֶךְ אֹתָ ם֮ אֱלֹהִים֒",
+        "LXX": "καὶ ηὐλόγησεν αὐτοὺς ὁ θεὸς",
+        "VUL": "Benedixítque illis Deus ,",
+        "SP": "ו יברך אתם אלהים",
+        "KJV": "And God blessed them ,",
+        "DSS": "[4Q10] ו יברך את׳ם אלהים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and God said unto them , Be fruitful , and multiply",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר לָ הֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּ רְב֛וּ",
+        "LXX": "λέγων Αὐξάνεσθε καὶ πληθύνεσθε ,",
+        "VUL": "et ait : Créscite et multiplicámini ,",
+        "SP": "ו יאמר להם אלהים פרו ו רבו",
+        "KJV": "and God said unto them , Be fruitful , and multiply ,",
+        "DSS": "[4Q10] ו יאמר ל׳הם ] [ אלהים פרו ו רבו ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and replenish the earth , and subdue it",
+      "traditions": {
+        "WLC": "וּ מִלְא֥וּ אֶת הָ אָ֖רֶץ וְ כִבְשֻׁ֑ הָ",
+        "LXX": "καὶ πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς ,",
+        "VUL": "et repléte terram , et subícite eam ,",
+        "SP": "ו מלאו את ה ארץ ו כבשׁוה",
+        "KJV": "and replenish the earth , and subdue it :",
+        "DSS": "[4Q10] ו מל[ או את ה ארץ ו כבש׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and have dominion over the fish of the sea",
+      "traditions": {
+        "WLC": "וּ רְד֞וּ בִּ דְגַ֤ת הַ יָּם֙",
+        "LXX": "καὶ ἄρχετε τῶν ἰχθύων τῆς θαλάσσης",
+        "VUL": "et dominámini píscibus maris ,",
+        "SP": "ו רדו ב דגת ה ים",
+        "KJV": "and have dominion over the fish of the sea ,",
+        "DSS": "[4Q10] ו רדו ב דגת ה ים ]"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and over the fowl of the air",
+      "traditions": {
+        "WLC": "וּ בְ ע֣וֹף הַ שָּׁמַ֔יִם",
+        "LXX": "καὶ τῶν πετεινῶν τοῦ οὐρανοῦ",
+        "VUL": "et volatílibus cæli ,",
+        "SP": "ו ב עוף ה שׁמים",
+        "KJV": "and over the fowl of the air ,",
+        "DSS": "[4Q483] ו ב עוף ה שמים"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and over every living thing that moveth upon the earth",
+      "traditions": {
+        "WLC": "וּ בְ כָל חַיָּ֖ה הָֽ רֹמֶ֥שֶׂת עַל הָ אָֽרֶץ",
+        "LXX": "καὶ πάντων τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς .",
+        "VUL": "et univérsis animántibus , quæ movéntur super terram .",
+        "SP": "ו ב כל ה חיה ה רמשׂת על ה ארץ",
+        "KJV": "and over every living thing that moveth upon the earth .",
+        "DSS": "[4Q483] ו ב כול חיה ה רומשת ע ]ל ה ארץ"
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God said ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֱלֹהִ֗ים",
+        "LXX": "καὶ εἶπεν ὁ θεός",
+        "VUL": "Dixítque Deus :",
+        "SP": "ו יאמר אלהים",
+        "KJV": "And God said ,",
+        "DSS": "[4Q483] [ ו יואמר אלוהים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Behold , I have given you every herb bearing seed ,",
+      "traditions": {
+        "WLC": "הִנֵּה֩ נָתַ֨תִּי לָ כֶ֜ם אֶת כָּל עֵ֣שֶׂב זֹרֵ֣עַ זֶ֗רַע",
+        "LXX": "Ἰδοὺ δέδωκα ὑμῖν πᾶν χόρτον σπόριμον σπεῖρον σπέρμα ,",
+        "VUL": "Ecce dedi vobis omnem herbam afferéntem semen",
+        "SP": "הנה נתתי לכם את כל עשׂב זרע זרע",
+        "KJV": "Behold , I have given you every herb bearing seed ,",
+        "DSS": "הנה נתתי ל׳כם את כול עשב זורע ז ]ר[ ע  ]אש[ ר ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which [ is ] upon the face of all the earth ,",
+      "traditions": {
+        "WLC": "אֲשֶׁר֙ עַל פְּנֵ֣י כָל הָ אָ֔רֶץ",
+        "LXX": "ὅ ἐστιν ἐπάνω πάσης τῆς γῆς ·",
+        "VUL": "super terram ,",
+        "SP": "אשׁר על פני כל ה ארץ",
+        "KJV": "which [ is ] upon the face of all the earth ,",
+        "DSS": "[ על פני כול ה ארץ ε ׃"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and every tree ,",
+      "traditions": {
+        "WLC": "וְ אֶת כָּל הָ עֵ֛ץ",
+        "LXX": "καὶ πᾶν ξύλον ,",
+        "VUL": "et univérsa ligna",
+        "SP": "ו את כל עץ",
+        "KJV": "and every tree ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "in the which [ is ] the fruit of a tree yielding seed ;",
+      "traditions": {
+        "WLC": "אֲשֶׁר בּ֥ וֹ פְרִי עֵ֖ץ זֹרֵ֣עַ זָ֑רַע",
+        "LXX": "ὃ ἔχει ἐν ἑαυτῷ καρπὸν σπέρματος σπορίμου ·",
+        "VUL": "quæ habent in semetípsis seméntem géneris sui ,",
+        "SP": "אשׁר בו פרי עץ זרע זרע",
+        "KJV": "in the which [ is ] the fruit of a tree yielding seed ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "to you it shall be for meat .",
+      "traditions": {
+        "WLC": "לָ כֶ֥ם יִֽהְיֶ֖ה לְ אָכְלָֽה",
+        "LXX": "ὑμῖν ἔσται εἰς βρῶσιν ,",
+        "VUL": "ut sint vobis in escam :",
+        "SP": "לכם יהיה ל אכלה",
+        "KJV": "to you it shall be for meat .",
+        "DSS": null
+      }
+    }
+  ],
+  "30": [
+    {
+      "thought_id": 1,
+      "english_reference": "And to every beast of the earth",
+      "traditions": {
+        "WLC": "וּֽ לְ כָל חַיַּ֣ת הָ֠ אָרֶץ",
+        "LXX": "καὶ πᾶσι τοῖς θηρίοις τῆς γῆς",
+        "VUL": "et cunctis animántibus terræ ,",
+        "SP": "ו ל כל חית ה ארץ",
+        "KJV": "And to every beast of the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and to every fowl of the air",
+      "traditions": {
+        "WLC": "וּ לְ כָל ע֨וֹף הַ שָּׁמַ֜יִם",
+        "LXX": "καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ",
+        "VUL": "omníque vólucri cæli ,",
+        "SP": "ו ל כל עוף ה שׁמים",
+        "KJV": "and to every fowl of the air ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and to every thing that creepeth upon the earth",
+      "traditions": {
+        "WLC": "וּ לְ כֹ֣ל רוֹמֵ֣שׂ עַל הָ אָ֗רֶץ",
+        "LXX": "παντὶ ἑρπετῷ τῷ ἕρποντι γῆς ,",
+        "VUL": "et univérsis quæ movéntur in terra ,",
+        "SP": "ו ל כל ה רמשׂ על ה ארץ",
+        "KJV": "and to every thing that creepeth upon the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "wherein [ there is ] life",
+      "traditions": {
+        "WLC": "אֲשֶׁר בּ וֹ֙ נֶ֣פֶשׁ חַיָּ֔ה",
+        "LXX": "ὃ ἔχει ἐν ἑαυτῷ ψυχὴν ζωῆς ·",
+        "VUL": "et in quibus est ánima vivens ,",
+        "SP": "אשׁר בו נפשׁ חיה",
+        "KJV": "wherein [ there is ] life , [ I have given ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "[ I have given ] every green herb for meat",
+      "traditions": {
+        "WLC": "אֶת כָּל יֶ֥רֶק עֵ֖שֶׂב לְ אָכְלָ֑ה",
+        "LXX": "καὶ πάντα χόρτον χλωρὸν εἰς βρῶσιν .",
+        "VUL": "ut hábeant ad vescéndum .",
+        "SP": "את כל ירק עשׂב ל אכלה",
+        "KJV": "every green herb for meat :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and it was so",
+      "traditions": {
+        "WLC": "וַֽ יְהִי כֵֽן",
+        "LXX": "καὶ ἐγένετο οὕτως .",
+        "VUL": "Et factum est ita .",
+        "SP": "ו יהי כן",
+        "KJV": "and it was so .",
+        "DSS": null
+      }
+    }
+  ],
+  "31": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God saw every thing that he had made",
+      "traditions": {
+        "WLC": "וַ יַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה",
+        "LXX": "θεὸς τὰ πάντα ὅσα ἐποίησεν",
+        "VUL": "Vidítque Deus cuncta quæ fécerat :",
+        "SP": "ו ירא אלהים את כל אשׁר עשׂה",
+        "KJV": "And God saw every thing that he had made ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and , behold , [ it was ] very good",
+      "traditions": {
+        "WLC": "וְ הִנֵּה ט֖וֹב מְאֹ֑ד",
+        "LXX": "ἰδοὺ καλὰ λίαν .",
+        "VUL": "et erant valde bona .",
+        "SP": "ו הנה טוב מאד",
+        "KJV": "and , behold , [ it was ] very good .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the evening and the morning were the sixth day",
+      "traditions": {
+        "WLC": "וַֽ יְהִי עֶ֥רֶב וַֽ יְהִי בֹ֖קֶר י֥וֹם הַ שִּׁשִּֽׁי",
+        "LXX": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί , ἕκτη . ⸆",
+        "VUL": "Et factum est véspere et mane , dies sextus .",
+        "SP": "ו יהי ערב ו יהי בקר יום ה שׁשׁי",
+        "KJV": "And the evening and the morning were the sixth day .",
+        "DSS": null
+      }
+    }
+  ]
+}

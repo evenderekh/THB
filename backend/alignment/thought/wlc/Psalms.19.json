@@ -1,0 +1,500 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician, A Psalm of David",
+      "traditions": {
+        "WLC": "לַ מְנַצֵּ֗חַ מִזְמ֥וֹר לְ דָוִֽד",
+        "LXX": "Εἰς τὸ τέλος · ψαλμὸς τῷ Δαυείδ .",
+        "VUL": "In finem . Psalmus David .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician , A Psalm of David .",
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "To the chief Musician , A Psalm of David .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The heavens declare the glory of God ;",
+      "traditions": {
+        "WLC": "הַ שָּׁמַ֗יִם מְֽסַפְּרִ֥ים כְּבֽוֹד אֵ֑ל",
+        "LXX": "Οἱ οὐρανοὶ διηγοῦνται δόξαν θεοῦ ,",
+        "VUL": "Cæli enárrant glóriam Dei ,",
+        "SP": null,
+        "KJV": "The heavens declare the glory of God ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the firmament sheweth his handywork .",
+      "traditions": {
+        "WLC": "וּֽ מַעֲשֵׂ֥ה יָ֝דָ֗י ו מַגִּ֥יד הָ רָקִֽיעַ",
+        "LXX": "ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα .",
+        "VUL": "et ópera mánuum eius annúntiat firmaméntum .",
+        "SP": null,
+        "KJV": "and the firmament sheweth his handywork .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Day unto day uttereth speech",
+      "traditions": {
+        "WLC": "י֣וֹם לְ֭ יוֹם יַבִּ֣יעַֽ אֹ֑מֶר",
+        "LXX": "ἡμέρα τῇ ἡμέρᾳ ἐρεύγεται ῥῆμα ,",
+        "VUL": "Dies diéi erúctat verbum ,",
+        "SP": null,
+        "KJV": "Day unto day uttereth speech ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and night unto night sheweth knowledge",
+      "traditions": {
+        "WLC": "וְ לַ֥יְלָה לְּ֝ לַ֗יְלָה יְחַוֶּה דָּֽעַת",
+        "LXX": "καὶ νὺξ νυκτὶ ἀναγγέλλει γνῶσιν .",
+        "VUL": "et nox nocti índicat sciéntiam .",
+        "SP": null,
+        "KJV": "and night unto night sheweth knowledge .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "There is no speech nor language",
+      "traditions": {
+        "WLC": "אֵֽין אֹ֭מֶר וְ אֵ֣ין דְּבָרִ֑ים",
+        "LXX": "οὐκ εἰσὶν λαλιαὶ οὐδὲ λόγοι",
+        "VUL": "Non sunt loquélæ , neque sermónes ,",
+        "SP": null,
+        "KJV": "[ There is ] no speech nor language , [",
+        "DSS": "[11Q7] ε אין אומר ו אין דברים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "where their voice is not heard",
+      "traditions": {
+        "WLC": "בְּ֝לִ֗י נִשְׁמָ֥ע קוֹלָֽ ם",
+        "LXX": "ὧν οὐχὶ ἀκούονται αἱ φωναὶ αὐτῶν ·",
+        "VUL": "quorum non audiántur voces eórum .",
+        "SP": null,
+        "KJV": "where ] their voice is not heard .",
+        "DSS": "בלי  ]נ#?[ שמע קול׳מה ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Their line is gone out through all the earth ,",
+      "traditions": {
+        "WLC": "בְּ כָל הָ אָ֨רֶץ יָ֘צָ֤א קַוָּ֗ ם",
+        "LXX": "εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν ,",
+        "VUL": "In omnem terram exívit sonus eórum :",
+        "SP": null,
+        "KJV": "Their line is gone out through all the earth ,",
+        "DSS": "[11Q7] ב כול ה ארץ יצא ] [ קו׳ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and their words to the end of the world .",
+      "traditions": {
+        "WLC": "וּ בִ קְצֵ֣ה תֵ֭בֵל מִלֵּי הֶ֑ם",
+        "LXX": "καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν . ⸆",
+        "VUL": "et in fines orbis terræ verba eórum .",
+        "SP": null,
+        "KJV": "and their words to the end of the world .",
+        "DSS": "ו ב קצי תבל מלי׳המה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "In them hath he set a tabernacle for the sun ,",
+      "traditions": {
+        "WLC": "לַ֝ שֶּׁ֗מֶשׁ שָֽׂם אֹ֥הֶל בָּ הֶֽם",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "In them hath he set a tabernacle for the sun ,",
+        "DSS": "ל שמש  ]ש#ם או?ה##[ ל ב׳המה ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Which [ is ] as a bridegroom coming out of his chamber ,",
+      "traditions": {
+        "WLC": "וְ ה֗וּא כְּ֭ חָתָן יֹצֵ֣א מֵ חֻפָּת֑ וֹ",
+        "LXX": "ἐν τῷ ἡλίῳ ἔθετο τὸ σκήνωμα αὐτοῦ · καὶ αὐτὸς ὡς νυμφίος ἐκπορευόμενος ἐκ παστοῦ αὐτοῦ ,",
+        "VUL": "In sole pósuit tabernáculum suum : et ipse tamquam sponsus procédens de thálamo suo :",
+        "SP": null,
+        "KJV": "Which [ is ] as a bridegroom coming out of his chamber , [ and ]",
+        "DSS": "[11Q7] ו הוא כ חתן יוצא ] [ מ חופת׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ and ] rejoiceth as a strong man to run a race .",
+      "traditions": {
+        "WLC": "יָשִׂ֥ישׂ כְּ֝ גִבּ֗וֹר לָ ר֥וּץ אֹֽרַח",
+        "LXX": "ἀγαλλιάσεται ὡς γίγας δραμεῖν ὁδὸν αὐτοῦ .",
+        "VUL": "exsultávit ut gigas ad curréndam viam ,",
+        "SP": null,
+        "KJV": "rejoiceth as a strong man to run a race .",
+        "DSS": "ישיש כ גבור ל רוץ אורח ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "His going forth is from the end of the heaven",
+      "traditions": {
+        "WLC": "מִ קְצֵ֤ה הַ שָּׁמַ֨יִם מֽוֹצָא֗ וֹ",
+        "LXX": "ἀπ᾽ ἄκρου τοῦ οὐρανοῦ ἡ ἔξοδος αὐτοῦ ,",
+        "VUL": "a summo cælo egréssio eius :",
+        "SP": null,
+        "KJV": "His going forth [ is ] from the end of the heaven ,",
+        "DSS": "[11Q7] מ ] ק##צי ה [ שמים מוצא׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and his circuit unto the ends of it",
+      "traditions": {
+        "WLC": "וּ תְקוּפָת֥ וֹ עַל קְצוֹתָ֑ ם",
+        "LXX": "καὶ τὸ κατάντημα αὐτοῦ ἕως ἄκρου τοῦ οὐρανοῦ ·",
+        "VUL": "et occúrsus eius usque ad summum eius :",
+        "SP": null,
+        "KJV": "and his circuit unto the ends of it :",
+        "DSS": "ו תקופת׳ו ] [ על קצות׳מה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and there is nothing hid from the heat thereof",
+      "traditions": {
+        "WLC": "וְ אֵ֥ין נִ֝סְתָּ֗ר מֵֽ חַמָּת וֹ",
+        "LXX": "καὶ οὐκ ἔστιν ὃς ἀποκρυβήσεται τὴν θέρμην αὐτοῦ .",
+        "VUL": "nec est qui se abscóndat a calóre eius .",
+        "SP": null,
+        "KJV": "and there is nothing hid from the heat thereof .",
+        "DSS": "ו אין נסתר מ חמת׳ו ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "The law of the LORD is perfect",
+      "traditions": {
+        "WLC": "תּ֘וֹרַ֤ת יְהוָ֣ה תְּ֭מִימָה",
+        "LXX": "ὁ νόμος τοῦ κυρίου ἄμωμος ,",
+        "VUL": "Lex Dómini immaculáta ,",
+        "SP": null,
+        "KJV": "The law of the LORD [ is ] perfect ,",
+        "DSS": "[11Q7] תור ]ו#?ת יה[ וה תמימה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "converting the soul",
+      "traditions": {
+        "WLC": "מְשִׁ֣יבַת נָ֑פֶשׁ",
+        "LXX": "ἐπιστρέφων ψυχάς ·",
+        "VUL": "convértens ánimas :",
+        "SP": null,
+        "KJV": "converting the soul :",
+        "DSS": "משיבת נפש ] ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the testimony of the LORD is sure",
+      "traditions": {
+        "WLC": "עֵד֥וּת יְהוָ֥ה נֶ֝אֱמָנָ֗ה",
+        "LXX": "ἡ μαρτυρία Κυρίου πιστή ,",
+        "VUL": "testimónium Dómini fidéle ,",
+        "SP": null,
+        "KJV": "the testimony of the LORD [ is ] sure ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "making wise the simple",
+      "traditions": {
+        "WLC": "מַחְכִּ֥ימַת פֶּֽתִי",
+        "LXX": "σοφίζουσα νήπια .",
+        "VUL": "sapiéntiam præstans párvulis .",
+        "SP": null,
+        "KJV": "making wise the simple .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The statutes of the LORD are right",
+      "traditions": {
+        "WLC": "פִּקּ֘וּדֵ֤י יְהוָ֣ה יְ֭שָׁרִים",
+        "LXX": "τὰ δικαιώματα Κυρίου εὐθεῖα ,",
+        "VUL": "Iustítiæ Dómini rectæ ,",
+        "SP": null,
+        "KJV": "The statutes of the LORD [ are ] right ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "rejoicing the heart",
+      "traditions": {
+        "WLC": "מְשַׂמְּחֵי לֵ֑ב",
+        "LXX": "εὐφραίνοντα καρδίαν ·",
+        "VUL": "lætificántes corda :",
+        "SP": null,
+        "KJV": "rejoicing the heart :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the commandment of the LORD is pure",
+      "traditions": {
+        "WLC": "מִצְוַ֥ת יְהוָ֥ה בָּ֝רָ֗ה",
+        "LXX": "ἡ ἐντολὴ Κυρίου τηλαυγής ,",
+        "VUL": "præcéptum Dómini lúcidum ,",
+        "SP": null,
+        "KJV": "the commandment of the LORD [ is ] pure ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "enlightening the eyes",
+      "traditions": {
+        "WLC": "מְאִירַ֥ת עֵינָֽיִם",
+        "LXX": "φωτίζουσα ὀφθαλμούς .",
+        "VUL": "illúminans óculos .",
+        "SP": null,
+        "KJV": "enlightening the eyes .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "The fear of the LORD is clean",
+      "traditions": {
+        "WLC": "יִרְאַ֤ת יְהוָ֨ה טְהוֹרָה֮",
+        "LXX": "ὁ φόβος Κυρίου ἁγνός ,",
+        "VUL": "Timor Dómini sanctus ,",
+        "SP": null,
+        "KJV": "The fear of the LORD [ is ] clean ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "enduring for ever",
+      "traditions": {
+        "WLC": "עוֹמֶ֪דֶת לָ֫ עַ֥ד",
+        "LXX": "διαμένων εἰς αἰῶνα αἰῶνος ·",
+        "VUL": "pérmanens in sǽculum sǽculi :",
+        "SP": null,
+        "KJV": "enduring for ever :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the judgments of the LORD are true",
+      "traditions": {
+        "WLC": "מִֽשְׁפְּטֵי יְהוָ֥ה אֱמֶ֑ת",
+        "LXX": "τὰ κρίματα Κυρίου ἀληθινά ,",
+        "VUL": "iudícia Dómini vera ,",
+        "SP": null,
+        "KJV": "the judgments of the LORD [ are ] true [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "righteous altogether",
+      "traditions": {
+        "WLC": "צָֽדְק֥וּ יַחְדָּֽו",
+        "LXX": "δεδικαιωμένα ἐπὶ τὸ αὐτό .",
+        "VUL": "iustificáta in semetípsa .",
+        "SP": null,
+        "KJV": "righteous altogether .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "More to be desired [ are they ] than gold , yea , than much fine gold",
+      "traditions": {
+        "WLC": "הַֽ נֶּחֱמָדִ֗ים מִ֭ זָּהָב וּ מִ פַּ֣ז רָ֑ב",
+        "LXX": "ἐπιθυμητὰ ὑπὲρ χρυσίον καὶ λίθον τίμιον πολὺν",
+        "VUL": "Desiderabília super aurum et lápidem pretiósum multum :",
+        "SP": null,
+        "KJV": "More to be desired [ are they ] than gold , yea , than much fine gold :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "sweeter also than honey and the honeycomb",
+      "traditions": {
+        "WLC": "וּ מְתוּקִ֥ים מִ֝ דְּבַ֗שׁ וְ נֹ֣פֶת צוּפִֽים",
+        "LXX": "καὶ γλυκύτερα ὑπὲρ μέλι καὶ κηρίον .",
+        "VUL": "et dulcióra super mel et favum .",
+        "SP": null,
+        "KJV": "sweeter also than honey and the honeycomb .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Moreover by them is thy servant warned",
+      "traditions": {
+        "WLC": "גַּֽם עַ֭בְדְּ ךָ נִזְהָ֣ר בָּ הֶ֑ם",
+        "LXX": "καὶ γὰρ ὁ δοῦλός σου φυλάσσει αὐτά ·",
+        "VUL": "Etenim servus tuus custódit ea :",
+        "SP": null,
+        "KJV": "Moreover by them is thy servant warned : [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in keeping of them [ there is ] great reward",
+      "traditions": {
+        "WLC": "בְּ֝ שָׁמְרָ֗ ם עֵ֣קֶב רָֽב",
+        "LXX": "ἐν τῷ φυλάσσειν αὐτὰ ἀνταπόδοσις πολλή .",
+        "VUL": "in custodiéndis illis retribútio multa .",
+        "SP": null,
+        "KJV": "in keeping of them [ there is ] great reward .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who can understand [ his ] errors ?",
+      "traditions": {
+        "WLC": "שְׁגִיא֥וֹת מִֽי יָבִ֑ין",
+        "LXX": "παραπτώματα τίς συνήσει ;",
+        "VUL": "Delícta quis intélligit ?",
+        "SP": null,
+        "KJV": "Who can understand [ his ] errors ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "cleanse thou me from secret [ faults ]",
+      "traditions": {
+        "WLC": "מִֽ נִּסְתָּר֥וֹת נַקֵּֽ נִי",
+        "LXX": "ἐκ τῶν κρυφίων μου καθάρισόν με ,",
+        "VUL": "ab occúltis meis munda me :",
+        "SP": null,
+        "KJV": "cleanse thou me from secret [ faults ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Keep back thy servant also from presumptuous [ sins ]",
+      "traditions": {
+        "WLC": "גַּ֤ם מִ זֵּדִ֨ים חֲשֹׂ֬ךְ עַבְדֶּ֗ ךָ",
+        "LXX": "καὶ ἀπὸ ἀλλοτρίων φεῖσαι τοῦ δούλου σου ·",
+        "VUL": "et ab aliénis parce servo tuo .",
+        "SP": null,
+        "KJV": "Keep back thy servant also from presumptuous [ sins ] ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "let them not have dominion over me",
+      "traditions": {
+        "WLC": "אַֽל יִמְשְׁלוּ בִ֣ י אָ֣ז אֵיתָ֑ם",
+        "LXX": "ἐὰν μή μου κατακυριεύσουσιν ,",
+        "VUL": "Si mei non fúerint domináti ,",
+        "SP": null,
+        "KJV": "let them not have dominion over me :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "then shall I be upright , and I shall be innocent from the great transgression",
+      "traditions": {
+        "WLC": "וְ֝ נִקֵּ֗יתִי מִ פֶּ֥שַֽׁע רָֽב",
+        "LXX": "τότε ἄμωμος ἔσομαι καὶ καθαρισθήσομαι ἀπὸ ἁμαρτίας μεγάλης .",
+        "VUL": "tunc immaculátus ero : et emundábor a delícto máximo .",
+        "SP": null,
+        "KJV": "then shall I be upright , and I shall be innocent from the great transgression .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let the words of my mouth , and the meditation of my heart , be acceptable in thy sight",
+      "traditions": {
+        "WLC": "יִֽהְי֥וּ לְ רָצ֨וֹן אִמְרֵי פִ֡ י וְ הֶגְי֣וֹן לִבִּ֣ י לְ פָנֶ֑י ךָ",
+        "LXX": "καὶ ἔσονται εἰς εὐδοκίαν τὰ λόγια τοῦ στόματός μου καὶ ἡ μελέτη τῆς καρδίας μου ἐνώπιόν σου διὰ παντός ,",
+        "VUL": "Et erunt ut compláceant elóquia oris mei , et meditátio cordis mei in conspéctu tuo semper .",
+        "SP": null,
+        "KJV": "Let the words of my mouth , and the meditation of my heart , be acceptable in thy sight ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O LORD , my strength , and my redeemer",
+      "traditions": {
+        "WLC": "יְ֝הוָ֗ה צוּרִ֥ י וְ גֹאֲלִֽ י",
+        "LXX": "Κύριε , βοηθέ μου καὶ λυτρωτά μου .",
+        "VUL": "Dómine adiútor meus , et redémptor meus .",
+        "SP": null,
+        "KJV": "O LORD , my strength , and my redeemer .",
+        "DSS": null
+      }
+    }
+  ]
+}

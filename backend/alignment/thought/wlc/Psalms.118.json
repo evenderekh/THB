@@ -1,0 +1,814 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "O give thanks unto the LORD",
+      "traditions": {
+        "WLC": "הוֹד֣וּ לַ יהוָ֣ה",
+        "LXX": "Ἁλληλουιά Ἐξομολογεῖσθε τῷ κυρίῳ ,",
+        "VUL": "Allelúia . Confitémini Dómino",
+        "SP": null,
+        "KJV": "O give thanks unto the LORD ;",
+        "DSS": "[11Q5] הודו ל יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for he is good",
+      "traditions": {
+        "WLC": "כִּי ט֑וֹב",
+        "LXX": "ὅτι ἀγαθός ,",
+        "VUL": "quóniam bonus :",
+        "SP": null,
+        "KJV": "for [ he is ] good :",
+        "DSS": "[11Q5] כי טוב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because his mercy endureth for ever",
+      "traditions": {
+        "WLC": "כִּ֖י לְ עוֹלָ֣ם חַסְדּֽ וֹ",
+        "LXX": "ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ .",
+        "VUL": "quóniam in sǽculum misericórdia eius .",
+        "SP": null,
+        "KJV": "because his mercy [ endureth ] for ever .",
+        "DSS": "[11Q5] כי ל עולם חסד׳ו"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let Israel now say",
+      "traditions": {
+        "WLC": "יֹֽאמַר נָ֥א יִשְׂרָאֵ֑ל",
+        "LXX": "εἰπάτω δὴ οἶκος Ἰσραὴλ",
+        "VUL": "Dicat nunc Israel",
+        "SP": null,
+        "KJV": "Let Israel now say ,",
+        "DSS": "[4Q84] [ יאמר נא י ]שראל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that his mercy endureth for ever",
+      "traditions": {
+        "WLC": "כִּ֖י לְ עוֹלָ֣ם חַסְדּֽ וֹ",
+        "LXX": "ὅτι ἀγαθός , ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ ·",
+        "VUL": "quóniam bonus : quóniam in sǽculum misericórdia eius .",
+        "SP": null,
+        "KJV": "that his mercy [ endureth ] for ever .",
+        "DSS": "[4Q84] כי ל עולם חסד׳ו"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let the house of Aaron now say",
+      "traditions": {
+        "WLC": "יֹֽאמְרוּ נָ֥א בֵֽית אַהֲרֹ֑ן",
+        "LXX": "εἰπάτω δὴ οἶκος Ἀαρὼν",
+        "VUL": "Dicat nunc domus Aaron :",
+        "SP": null,
+        "KJV": "Let the house of Aaron now say ,",
+        "DSS": "[4Q84] [ יאמרו נא בית אהרן ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that his mercy endureth for ever",
+      "traditions": {
+        "WLC": "כִּ֖י לְ עוֹלָ֣ם חַסְדּֽ וֹ",
+        "LXX": "ὅτι ἀγαθός , ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ .",
+        "VUL": "quóniam in sǽculum misericórdia eius .",
+        "SP": null,
+        "KJV": "that his mercy [ endureth ] for ever .",
+        "DSS": "[4Q84] כי [ ל# [ עו ]ל#ם##[ חסד׳ו ]"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let them now that fear the LORD say",
+      "traditions": {
+        "WLC": "יֹֽאמְרוּ נָ֭א יִרְאֵ֣י יְהוָ֑ה",
+        "LXX": null,
+        "VUL": "Dicant nunc qui timent Dóminum :",
+        "SP": null,
+        "KJV": "Let them now that fear the LORD say ,",
+        "DSS": "[4Q84] [ יאמרו נא יראי יהוה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that his mercy endureth for ever",
+      "traditions": {
+        "WLC": "כִּ֖י לְ עוֹלָ֣ם חַסְדּֽ וֹ",
+        "LXX": null,
+        "VUL": "quóniam in sǽculum misericórdia eius .",
+        "SP": null,
+        "KJV": "that his mercy [ endureth ] for ever .",
+        "DSS": "[4Q84] [ כי ל עולם חסד׳ו ]"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "I called upon the LORD in distress",
+      "traditions": {
+        "WLC": "מִֽן הַ֭ מֵּצַ֥ר קָרָ֣אתִי יָּ֑הּ",
+        "LXX": "ἐν θλίψει ἐπεκαλεσάμην τὸν κύριον ,",
+        "VUL": "De tribulatióne invocávi Dóminum :",
+        "SP": null,
+        "KJV": "I called upon the LORD in distress :",
+        "DSS": "[4Q84] [ מן ה מצר קראתי יה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the LORD answered me",
+      "traditions": {
+        "WLC": "עָנָ֖ נִי",
+        "LXX": "καὶ ἐπήκουσέν μοι",
+        "VUL": "et exaudívit me",
+        "SP": null,
+        "KJV": "the LORD answered me , [ and set me ]",
+        "DSS": "[4Q84] [ ענ׳ני ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and set me in a large place",
+      "traditions": {
+        "WLC": "בַ מֶּרְחָ֣ב יָֽהּ",
+        "LXX": "εἰς πλατυσμόν .",
+        "VUL": "in latitúdine Dóminus .",
+        "SP": null,
+        "KJV": "in a large place .",
+        "DSS": "[4Q84] [ ב מרח ]ב## י#?ה##"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD is on my side",
+      "traditions": {
+        "WLC": "יְהוָ֣ה לִ֭ י",
+        "LXX": "Κύριος ἐμοὶ βοηθός ,",
+        "VUL": "Dóminus mihi adiútor :",
+        "SP": null,
+        "KJV": "The LORD [ is ] on my side ;",
+        "DSS": "[4Q84] [ י ]ה#וה ל׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will not fear",
+      "traditions": {
+        "WLC": "לֹ֣א אִירָ֑א",
+        "LXX": "οὐ φοβηθήσομαι ·",
+        "VUL": "non timébo",
+        "SP": null,
+        "KJV": "I will not fear :",
+        "DSS": "[4Q84] לא[ אירא ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "what can man do unto me",
+      "traditions": {
+        "WLC": "מַה יַּעֲשֶׂ֖ה לִ֣ י אָדָֽם",
+        "LXX": "τί ποιήσει μοι ἄνθρωπος ;",
+        "VUL": "quid fáciat mihi homo .",
+        "SP": null,
+        "KJV": "what can man do unto me ?",
+        "DSS": "[4Q84] [ מ ]ה י?ע#שה ל׳י אדם"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD taketh my part with them that help me",
+      "traditions": {
+        "WLC": "יְהוָ֣ה לִ֭ י בְּ עֹזְרָ֑ י",
+        "LXX": "Κύριος ἐμοὶ βοηθός ,",
+        "VUL": "Dóminus mihi adiútor :",
+        "SP": null,
+        "KJV": "The LORD taketh my part with them that help me :",
+        "DSS": "[4Q84] יהוה ל׳י ב עזר׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "therefore shall I see upon them that hate me",
+      "traditions": {
+        "WLC": "וַ֝ אֲנִ֗י אֶרְאֶ֥ה בְ שֹׂנְאָֽ י",
+        "LXX": "κἀγὼ ἐπόψομαι τοὺς ἐχθρούς μου .",
+        "VUL": "et ego despíciam inimícos meos .",
+        "SP": null,
+        "KJV": "therefore shall I see [ my desire ] upon them that hate me .",
+        "DSS": "[4Q84] אני אראה ב# ש##נ(# א #)׳י?"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "It is better to trust in the LORD",
+      "traditions": {
+        "WLC": "ט֗וֹב לַ חֲס֥וֹת בַּ יהוָ֑ה",
+        "LXX": "ἀγαθὸν πεποιθέναι ἐπὶ Κύριον",
+        "VUL": "Bonum est confídere in Dómino ,",
+        "SP": null,
+        "KJV": "[ It is ] better to trust in the LORD",
+        "DSS": "[11Q5] טוב ל בטוח ב יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "than to put confidence in man",
+      "traditions": {
+        "WLC": "מִ֝ בְּטֹ֗חַ בָּ אָדָֽם",
+        "LXX": "ἢ πεποιθέναι ἐπ᾽ ἄνθρωπον ·",
+        "VUL": "quam confídere in hómine :",
+        "SP": null,
+        "KJV": "than to put confidence in man .",
+        "DSS": "[11Q5] מ בטוח ב אדם"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "It is better to trust in the LORD",
+      "traditions": {
+        "WLC": "ט֗וֹב לַ חֲס֥וֹת בַּ יהוָ֑ה",
+        "LXX": "ἀγαθὸν ἐλπίζειν ἐπὶ Κύριον",
+        "VUL": "bonum est speráre in Dómino ,",
+        "SP": null,
+        "KJV": "[ It is ] better to trust in the LORD",
+        "DSS": "[4Q84] טוב ל חסות ב יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "than to put confidence in princes",
+      "traditions": {
+        "WLC": "מִ֝ בְּטֹ֗חַ בִּ נְדִיבִֽים",
+        "LXX": "ἢ ἐλπίζειν ἐπ᾽ ἄρχοντας .",
+        "VUL": "quam speráre in princípibus .",
+        "SP": null,
+        "KJV": "than to put confidence in princes .",
+        "DSS": "[4Q84] מ בטח## ב## [ נדיבים ]"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "All nations compassed me about",
+      "traditions": {
+        "WLC": "כָּל גּוֹיִ֥ם סְבָב֑וּ נִי",
+        "LXX": "πάντα τὰ ἔθνη ἐκύκλωσάν με ,",
+        "VUL": "Omnes gentes circuiérunt me :",
+        "SP": null,
+        "KJV": "All nations compassed me about :",
+        "DSS": "[4Q84] כל גוים סבב׳ני"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but in the name of the LORD will I destroy them",
+      "traditions": {
+        "WLC": "בְּ שֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽ ם",
+        "LXX": "καὶ τῷ ὀνόματι Κυρίου ἠμυνάμην αὐτούς ·",
+        "VUL": "et in nómine Dómini quia ultus sum in eos .",
+        "SP": null,
+        "KJV": "but in the name of the LORD will I destroy them .",
+        "DSS": "[4Q84] ב שם יה[ וה כי אמיל׳ם ]"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "They compassed me about ; yea , they compassed me about",
+      "traditions": {
+        "WLC": "סַבּ֥וּ נִי גַם סְבָב֑וּ נִי",
+        "LXX": "κυκλώσαντες ἐκύκλωσάν με ,",
+        "VUL": "Circumdántes circumdedérunt me :",
+        "SP": null,
+        "KJV": "They compassed me about ; yea , they compassed me about :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but in the name of the LORD I will destroy them .",
+      "traditions": {
+        "WLC": "בְּ שֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽ ם",
+        "LXX": "καὶ τῷ ὀνόματι Κυρίου ἠμυνάμην αὐτούς ·",
+        "VUL": "et in nómine Dómini quia ultus sum in eos .",
+        "SP": null,
+        "KJV": "but in the name of the LORD I will destroy them .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "They compassed me about like bees",
+      "traditions": {
+        "WLC": "סַבּ֤וּ נִי כִ דְבוֹרִ֗ים",
+        "LXX": "ἐκύκλωσάν με ὡσεὶ μέλισσαι κηρίον ,",
+        "VUL": "Circumdedérunt me sicut apes ,",
+        "SP": null,
+        "KJV": "They compassed me about like bees ;",
+        "DSS": "סבו׳ני כ דברים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they are quenched as the fire of thorns",
+      "traditions": {
+        "WLC": "דֹּ֭עֲכוּ כְּ אֵ֣שׁ קוֹצִ֑ים",
+        "LXX": "καὶ ἐξεκαύθησαν ὡσεὶ πῦρ ἐν ἀκάνθαις ,",
+        "VUL": "et exarsérunt sicut ignis in spinis :",
+        "SP": null,
+        "KJV": "they are quenched as the fire of thorns :",
+        "DSS": "דעכו כ אש קצים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for in the name of the LORD I will destroy them .",
+      "traditions": {
+        "WLC": "בְּ שֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽ ם",
+        "LXX": "καὶ τῷ ὀνόματι Κυρίου ἠμυνάμην αὐτούς .",
+        "VUL": "et in nómine Dómini quia ultus sum in eos .",
+        "SP": null,
+        "KJV": "for in the name of the LORD I will destroy them .",
+        "DSS": "ב ש##[ ם יהוה ] כי אמיל׳ם ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou hast thrust sore at me that I might fall",
+      "traditions": {
+        "WLC": "דַּחֹ֣ה דְחִיתַ֣ נִי לִ נְפֹּ֑ל",
+        "LXX": "ὠσθεὶς ἀνετράπην τοῦ πεσεῖν ,",
+        "VUL": "Impúlsus evérsus sum ut cáderem :",
+        "SP": null,
+        "KJV": "Thou hast thrust sore at me that I might fall :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the LORD helped me .",
+      "traditions": {
+        "WLC": "וַ֖ יהוָ֣ה עֲזָרָֽ נִי",
+        "LXX": "καὶ Κύριος ἀντελάβετό μου .",
+        "VUL": "et Dóminus suscépit me .",
+        "SP": null,
+        "KJV": "but the LORD helped me .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD [ is ] my strength and song",
+      "traditions": {
+        "WLC": "עָזִּ֣ י וְ זִמְרָ֣ת יָ֑הּ",
+        "LXX": "ἰσχύς μου καὶ ὕμνησίς μου ὁ κύριος ,",
+        "VUL": "Fortitúdo mea , et laus mea Dóminus :",
+        "SP": null,
+        "KJV": "The LORD [ is ] my strength and song ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and is become my salvation .",
+      "traditions": {
+        "WLC": "וַֽ יְהִי לִ֝֗ י לִֽ ישׁוּעָֽה",
+        "LXX": "καὶ ἐγένετό μοι εἰς σωτηρίαν .",
+        "VUL": "et factus est mihi in salútem .",
+        "SP": null,
+        "KJV": "and is become my salvation .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "The voice of rejoicing and salvation [ is ] in the tabernacles of the righteous",
+      "traditions": {
+        "WLC": "ק֤וֹל רִנָּ֬ה וִֽ ישׁוּעָ֗ה בְּ אָהֳלֵ֥י צַדִּיקִ֑ים",
+        "LXX": "φωνὴ ἀγαλλιάσεως καὶ σωτηρίας ἐν σκηναῖς δικαίων .",
+        "VUL": "Vox exsultatiónis et salútis in tabernáculis iustórum .",
+        "SP": null,
+        "KJV": "The voice of rejoicing and salvation [ is ] in the tabernacles of the righteous :",
+        "DSS": "[11Q5] קול רנה ו ישועה ב אהלי צדיקים / [11Q6] ק#[ ול רנה ו ישועה ] [ ב אהלי צדיקים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the right hand of the LORD doeth valiantly .",
+      "traditions": {
+        "WLC": "יְמִ֥ין יְ֝הוָה עֹ֣שָׂה חָֽיִל",
+        "LXX": "δεξιὰ Κυρίου ἐποίησεν δύναμιν ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "the right hand of the LORD doeth valiantly .",
+        "DSS": "[11Q5] ימין יהוה עשה חיל ׃ / [11Q6] ימין יהוה ע]ש#ה חיל ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "I shall not die , but live",
+      "traditions": {
+        "WLC": "לֹֽא אָמ֥וּת כִּי אֶֽחְיֶ֑ה",
+        "LXX": "οὐκ ἀποθανοῦμαι ἀλλὰ ζήσομαι ,",
+        "VUL": "Non móriar , sed vivam :",
+        "SP": null,
+        "KJV": "I shall not die , but live ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and declare the works of the LORD .",
+      "traditions": {
+        "WLC": "וַ֝ אֲסַפֵּ֗ר מַֽעֲשֵׂ֥י יָֽהּ",
+        "LXX": "καὶ ἐκδιηγήσομαι τὰ ἔργα Κυρίου .",
+        "VUL": "et narrábo ópera Dómini .",
+        "SP": null,
+        "KJV": "and declare the works of the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD hath chastened me sore",
+      "traditions": {
+        "WLC": "יַסֹּ֣ר יִסְּרַ֣ נִּי יָּ֑הּ",
+        "LXX": "παιδεύων ἐπαίδευσέν με Κύριος ,",
+        "VUL": "Castígans castigávit me Dóminus :",
+        "SP": null,
+        "KJV": "The LORD hath chastened me sore :",
+        "DSS": "[4Q84] יסור י?ס##ר׳ני יה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but he hath not given me over unto death .",
+      "traditions": {
+        "WLC": "וְ֝ לַ מָּ֗וֶת לֹ֣א נְתָנָֽ נִי",
+        "LXX": "καὶ τῷ θανάτῳ οὐ παρέδωκέν με .",
+        "VUL": "et morti non trádidit me .",
+        "SP": null,
+        "KJV": "but he hath not given me over unto death .",
+        "DSS": "[4Q84] ו ל מות[  לא ] נתנ׳ני ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Open to me the gates of righteousness",
+      "traditions": {
+        "WLC": "פִּתְחוּ לִ֥ י שַׁעֲרֵי צֶ֑דֶק",
+        "LXX": "ἀνοίξατέ μοι πύλας δικαιοσύνης ·",
+        "VUL": "Aperíte mihi portas iustítiæ ,",
+        "SP": null,
+        "KJV": "Open to me the gates of righteousness :",
+        "DSS": "[4Q84] פתחו ל׳י שערי צדק"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will go into them",
+      "traditions": {
+        "WLC": "אָֽבֹא בָ֝ ם",
+        "LXX": "εἰσελθὼν ἐν αὐταῖς",
+        "VUL": "ingréssus in eas",
+        "SP": null,
+        "KJV": "I will go into them , [ and ]",
+        "DSS": "[4Q84] אבוא׳ם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I will praise the LORD",
+      "traditions": {
+        "WLC": "אוֹדֶ֥ה יָֽהּ",
+        "LXX": "ἐξομολογήσομαι τῷ κυρίῳ .",
+        "VUL": "confitébor Dómino :",
+        "SP": null,
+        "KJV": "I will praise the LORD :",
+        "DSS": "[4Q84] אודה יה ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "This gate of the LORD",
+      "traditions": {
+        "WLC": "זֶֽה הַ שַּׁ֥עַר לַ יהוָ֑ה",
+        "LXX": "αὕτη ἡ πύλη τοῦ κυρίου ,",
+        "VUL": "hæc porta Dómini ,",
+        "SP": null,
+        "KJV": "This gate of the LORD ,",
+        "DSS": "[4Q84] [ זה ה שער  ]ל [ יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "into which the righteous shall enter .",
+      "traditions": {
+        "WLC": "צַ֝דִּיקִ֗ים יָבֹ֥אוּ בֽ וֹ",
+        "LXX": "δίκαιοι εἰσελεύσονται ἐν αὐτῇ .",
+        "VUL": "iusti intrábunt in eam .",
+        "SP": null,
+        "KJV": "into which the righteous shall enter .",
+        "DSS": "[4Q84] צדיקים יבאו ב׳ו ] ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will praise thee",
+      "traditions": {
+        "WLC": "א֭וֹדְ ךָ",
+        "LXX": "ἐξομολογήσομαί σοι ,",
+        "VUL": "Confitébor tibi",
+        "SP": null,
+        "KJV": "I will praise thee :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for thou hast heard me",
+      "traditions": {
+        "WLC": "כִּ֣י עֲנִיתָ֑ נִי",
+        "LXX": "ὅτι ἐπήκουσάς μου",
+        "VUL": "quóniam exaudísti me :",
+        "SP": null,
+        "KJV": "for thou hast heard me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and art become my salvation",
+      "traditions": {
+        "WLC": "וַ תְּהִי לִ֝֗ י לִֽ ישׁוּעָֽה",
+        "LXX": "καὶ ἐγένου μοι εἰς σωτηρίαν .",
+        "VUL": "et factus es mihi in salútem .",
+        "SP": null,
+        "KJV": "and art become my salvation .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "The stone [ which ] the builders refused",
+      "traditions": {
+        "WLC": "אֶ֭בֶן מָאֲס֣וּ הַ בּוֹנִ֑ים",
+        "LXX": "λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες ,",
+        "VUL": "Lápidem quem reprobavérunt ædificántes ,",
+        "SP": null,
+        "KJV": "The stone [ which ] the builders refused",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "is become the head [ stone ] of the corner",
+      "traditions": {
+        "WLC": "הָ֝יְתָ֗ה לְ רֹ֣אשׁ פִּנָּֽה",
+        "LXX": "οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας ·",
+        "VUL": "hic factus est in caput ánguli .",
+        "SP": null,
+        "KJV": "is become the head [ stone ] of the corner .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "This is the LORD ’S doing",
+      "traditions": {
+        "WLC": "מֵ אֵ֣ת יְ֭הוָה הָ֣יְתָה זֹּ֑את",
+        "LXX": "παρὰ Κυρίου ἐγένετο αὕτη ,",
+        "VUL": "A Dómino factum est istud :",
+        "SP": null,
+        "KJV": "This is the LORD ’S doing ;",
+        "DSS": "[4Q84] מ את יהוה הי[ תה זאת ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] marvellous in our eyes",
+      "traditions": {
+        "WLC": "הִ֖יא נִפְלָ֣את בְּ עֵינֵֽי נוּ",
+        "LXX": "καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν .",
+        "VUL": "et est mirábile in óculis nostris .",
+        "SP": null,
+        "KJV": "it [ is ] marvellous in our eyes .",
+        "DSS": "[4Q84] היא נפלאת ב עיני׳נו ] ׃"
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "This [ is ] the day [ which ] the LORD hath made",
+      "traditions": {
+        "WLC": "זֶה הַ֭ יּוֹם עָשָׂ֣ה יְהוָ֑ה",
+        "LXX": "αὕτη ἡμέρα ἣν ἐποίησεν Κύριος ·",
+        "VUL": "Hæc est dies , quam fecit Dóminus :",
+        "SP": null,
+        "KJV": "This [ is ] the day [ which ] the LORD hath made ;",
+        "DSS": "[4Q84] זה##[  ה יום עשה י ]ה##ו?ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "we will rejoice and be glad in it",
+      "traditions": {
+        "WLC": "נָגִ֖ילָה וְ נִשְׂמְחָ֣ה בֽ וֹ",
+        "LXX": "ἀγαλλιασώμεθα καὶ εὐφρανθῶμεν ἐν αὐτῇ .",
+        "VUL": "exsultémus , et lætémur in ea .",
+        "SP": null,
+        "KJV": "we will rejoice and be glad in it .",
+        "DSS": "[4Q84] נגיל#ה##[  ו נשמחה ב׳ו ] ׃"
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "Save now , I beseech thee , O LORD",
+      "traditions": {
+        "WLC": "אָנָּ֣א יְ֭הוָה הוֹשִׁ֘יעָ֥ ה נָּ֑א",
+        "LXX": "ὦ Κύριε , σῶσον δή ,",
+        "VUL": "O Dómine salvum me fac ,",
+        "SP": null,
+        "KJV": "Save now , I beseech thee , O LORD :",
+        "DSS": "[11Q5] ε אנא יהוה  ]הושיע׳ה נא / [4Q84] [ אנא יהוה ה ]ו#?שיע׳ה נא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O LORD , I beseech thee , send now prosperity",
+      "traditions": {
+        "WLC": "אָֽנָּ֥א יְ֝הוָ֗ה הַצְלִ֘יחָ֥ ה נָּֽא",
+        "LXX": "ὦ Κύριε , εὐόδωσον δή .",
+        "VUL": "o Dómine bene prosperáre :",
+        "SP": null,
+        "KJV": "O LORD , I beseech thee , send now prosperity .",
+        "DSS": "[11Q5] אנא יהוה [ הצליח׳ה נ ]א## ׃ / [4Q84] [ אנא  ]י#?הוה הצליח׳ה נא ׃"
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "Blessed [ be ] he that cometh in the name of the LORD",
+      "traditions": {
+        "WLC": "בָּר֣וּךְ הַ֭ בָּא בְּ שֵׁ֣ם יְהוָ֑ה",
+        "LXX": "εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι Κυρίου ·",
+        "VUL": "benedíctus qui venit in nómine Dómini .",
+        "SP": null,
+        "KJV": "Blessed [ be ] he that cometh in the name of the LORD :",
+        "DSS": "[11Q5] בר#ו#?ך##[  ה  ]בא## ב# שם יהוה / [4Q84] [ ב ]רוך ה בא ב שם יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "we have blessed you out of the house of the LORD",
+      "traditions": {
+        "WLC": "בֵּ֝רַֽכְנוּ כֶ֗ם מִ בֵּ֥ית יְהוָֽה",
+        "LXX": "εὐλογήκαμεν ὑμᾶς ἐξ οἴκου Κυρίου .",
+        "VUL": "Benedíximus vobis de domo Dómini :",
+        "SP": null,
+        "KJV": "we have blessed you out of the house of the LORD .",
+        "DSS": "[11Q5] ברכנו׳כם {{ ב שם }} [ מ בית  ]י#?הוה ׃ / [4Q84] [ ב ]ר##כ##נ?ו את׳כ#ם מ בית יהוה ׃"
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "God [ is ] the LORD , which hath shewed us light",
+      "traditions": {
+        "WLC": "אֵ֤ל יְהוָה֮ וַ יָּ֪אֶר לָ֥ נוּ",
+        "LXX": "θεὸς Κύριος καὶ ἐπέφανεν ἡμῖν ·",
+        "VUL": "Deus Dóminus , et illúxit nobis .",
+        "SP": null,
+        "KJV": "God [ is ] the LORD , which hath shewed us light :",
+        "DSS": "[11Q5] אל יהוה ו יאר ל׳נו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "bind the sacrifice with cords , [ even ] unto the horns of the altar",
+      "traditions": {
+        "WLC": "אִסְרוּ חַ֥ג בַּ עֲבֹתִ֑ים עַד קַ֝רְנ֗וֹת הַ מִּזְבֵּֽחַ",
+        "LXX": "συστήσασθε ἑορτὴν ἐν τοῖς πυκάζουσιν ἕως τῶν κεράτων τοῦ θυσιαστηρίου .",
+        "VUL": "Constitúite diem solémnem in condénsis , usque ad cornu altáris .",
+        "SP": null,
+        "KJV": "bind the sacrifice with cords , [ even ] unto the horns of the altar .",
+        "DSS": "[11Q5] אסורי? חג ב עבותים [ עד קר ]נות ה מזבח ׃"
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou [ art ] my God , and I will praise thee",
+      "traditions": {
+        "WLC": "אֵלִ֣ י אַתָּ֣ה וְ אוֹדֶ֑ ךָּ",
+        "LXX": "θεός μου εἶ σύ , καὶ ἐξομολογήσομαί σοι ·",
+        "VUL": "Deus meus es tu , et confitébor tibi :",
+        "SP": null,
+        "KJV": "Thou [ art ] my God , and I will praise thee : [ thou art ]",
+        "DSS": "[11Q5] אל׳י אתה ו אוד׳כה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ thou art ] my God , I will exalt thee",
+      "traditions": {
+        "WLC": "אֱ֝לֹהַ֗ י אֲרוֹמְמֶֽ ךָּ",
+        "LXX": "θεός μου εἶ σύ , καὶ ὑψώσω σε ·",
+        "VUL": "Deus meus es tu , et exaltábo te .",
+        "SP": null,
+        "KJV": "my God , I will exalt thee .",
+        "DSS": "[11Q5] אלוה׳י ארוממ׳כה ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "ἐξομολογήσομαί σοι , ὅτι ἐπήκουσάς μου καὶ ἐγένου μοι εἰς σωτηρίαν .",
+        "VUL": "Confitébor tibi quóniam exaudísti me : et factus es mihi in salútem .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "O give thanks unto the LORD ; for [ he is ] good",
+      "traditions": {
+        "WLC": "הוֹד֣וּ לַ יהוָ֣ה כִּי ט֑וֹב",
+        "LXX": "ἐξομολογεῖσθε τῷ κυρίῳ , ὅτι ἀγαθός ,",
+        "VUL": "Confitémini Dómino quóniam bonus :",
+        "SP": null,
+        "KJV": "O give thanks unto the LORD ; for [ he is ] good :",
+        "DSS": "[11Q5] הודו ל יהוה כי טוב / [ הודו  ]ל# יהוה כי טוב / [4Q84] [ הודו ל יהוה כי טוב ] / [4Q87] [ ל יהוה כי  ]ט##ו#?ב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for his mercy [ endureth ] for ever",
+      "traditions": {
+        "WLC": "כִּ֖י לְ עוֹלָ֣ם חַסְדּֽ וֹ",
+        "LXX": "ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ .",
+        "VUL": "quóniam in sǽculum misericórdia eius .",
+        "SP": null,
+        "KJV": "for his mercy [ endureth ] for ever .",
+        "DSS": "[11Q5] כי ל עולם חסד׳ו / [ הודו  ]ל# יהוה כי טוב כי ל עולם חסד׳ו ׃ / [4Q84] כי [ ל עולם חסד׳ו ] ׃ ׃ / [4Q87] כי ל## ע[ ולם חסד׳ו ׃"
+      }
+    }
+  ]
+}

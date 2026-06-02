@@ -1,0 +1,748 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hear this word",
+      "traditions": {
+        "WLC": "שִׁמְע֞וּ הַ דָּבָ֣ר הַ זֶּ֗ה",
+        "LXX": "Ἀκούσατε τὸν λόγον τοῦτον ,",
+        "VUL": "Audíte verbum hoc",
+        "SP": null,
+        "KJV": "Hear this word ,",
+        "DSS": "[4Q78] שמ ]ע##ו ה דבר ה זה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "ye kine of Bashan",
+      "traditions": {
+        "WLC": "פָּר֤וֹת הַ בָּשָׁן֙",
+        "LXX": "δαμάλεις τῆς Βασανίτιδος",
+        "VUL": "vaccæ pingues ,",
+        "SP": null,
+        "KJV": "ye kine of Bashan ,",
+        "DSS": "פרו#?[ ת ] [ ה בשן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that [ are ] in the mountain of Samaria",
+      "traditions": {
+        "WLC": "אֲשֶׁר֙ בְּ הַ֣ר שֹֽׁמְר֔וֹן",
+        "LXX": "αἱ ἐν τῷ ὄρει τῆς Σαμαρείας ,",
+        "VUL": "quæ estis in monte Samaríæ :",
+        "SP": null,
+        "KJV": "that [ are ] in the mountain of Samaria ,",
+        "DSS": "אשר ב הר שמרון"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "which oppress the poor",
+      "traditions": {
+        "WLC": "הָ עֹשְׁק֣וֹת דַּלִּ֔ים",
+        "LXX": "αἱ καταδυναστεύουσαι πτωχοὺς",
+        "VUL": "quæ calúmniam fácitis egénis ,",
+        "SP": null,
+        "KJV": "which oppress the poor ,",
+        "DSS": "ה עוש ]ק##ו?ת דלים"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "which crush the needy",
+      "traditions": {
+        "WLC": "הָ רֹצְצ֖וֹת אֶבְיוֹנִ֑ים",
+        "LXX": "καὶ καταπατοῦσαι πένητας ,",
+        "VUL": "et confríngitis páuperes :",
+        "SP": null,
+        "KJV": "which crush the needy ,",
+        "DSS": "[ ה רוצצות אביונים"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "which say to their masters",
+      "traditions": {
+        "WLC": "הָ אֹמְרֹ֥ת לַ אֲדֹֽנֵי הֶ֖ם",
+        "LXX": "αἱ λέγουσαι τοῖς κυρίοις αὐτῶν",
+        "VUL": "quæ dícitis dóminis vestris :",
+        "SP": null,
+        "KJV": "which say to their masters ,",
+        "DSS": "ה אומרות ל אדוני׳ה ]מ##ה"
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "Bring , and let us drink",
+      "traditions": {
+        "WLC": "הָבִ֥יאָ ה וְ נִשְׁתֶּֽה",
+        "LXX": "Ἐπίδοτε ἡμῖν ὅπως πίωμεν .",
+        "VUL": "Afférte , et bibémus .",
+        "SP": null,
+        "KJV": "Bring , and let us drink .",
+        "DSS": "הביאו ו נשת##[ ה"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "The Lord GOD hath sworn by his holiness",
+      "traditions": {
+        "WLC": "נִשְׁבַּ֨ע אֲדֹנָ֤ י יְהוִה֙ בְּ קָדְשׁ֔ וֹ",
+        "LXX": "ὀμνύει Κύριος κατὰ τῶν ἁγίων αὐτοῦ",
+        "VUL": "Iurávit Dóminus Deus in sancto suo :",
+        "SP": null,
+        "KJV": "The Lord GOD hath sworn by his holiness ,",
+        "DSS": "[4Q78] [ נשבע אדוני יהוה ב קד ]ש׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that , lo , the days shall come upon you",
+      "traditions": {
+        "WLC": "כִּ֛י הִנֵּ֥ה יָמִ֖ים בָּאִ֣ים עֲלֵי כֶ֑ם",
+        "LXX": "διότι Ἰδοὺ ἡμέραι ἔρχονται ἐφ᾽ ὑμᾶς",
+        "VUL": "quia ecce dies vénient super vos ,",
+        "SP": null,
+        "KJV": "that , lo , the days shall come upon you ,",
+        "DSS": "כי הנ[ ה ימים בואים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that he will take you away with hooks",
+      "traditions": {
+        "WLC": "וְ נִשָּׂ֤א אֶתְ כֶם֙ בְּ צִנּ֔וֹת",
+        "LXX": "καὶ λήμψονται ὑμᾶς ἐν ὅπλοις ,",
+        "VUL": "et levábunt vos in contis ,",
+        "SP": null,
+        "KJV": "that he will take you away with hooks ,",
+        "DSS": "ו נשא את׳כמה ב צנות"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and your posterity with fishhooks",
+      "traditions": {
+        "WLC": "וְ אַחֲרִיתְ כֶ֖ן בְּ סִיר֥וֹת דּוּגָֽה",
+        "LXX": "καὶ τούς μεθ᾽ ὑμῶν εἰς λέβητας ὑποκαιομένους ἐμβαλοῦσιν ἔμπυροι λοιμοί ,",
+        "VUL": "et relíquias vestras in ollis fervéntibus .",
+        "SP": null,
+        "KJV": "and your posterity with fishhooks .",
+        "DSS": "ו אחרי ]ת##׳כמה ב סופוד דוג#?[ ה"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And ye shall go out at the breaches",
+      "traditions": {
+        "WLC": "וּ פְרָצִ֥ים תֵּצֶ֖אנָה",
+        "LXX": "καὶ ἐξενεχθήσεσθε",
+        "VUL": "Et per apertúras exíbitis",
+        "SP": null,
+        "KJV": "And ye shall go out at the breaches ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "every [ cow at that which is ] before her",
+      "traditions": {
+        "WLC": "אִשָּׁ֣ה נֶגְדָּ֑ הּ",
+        "LXX": "γυμναὶ κατέναντι ἀλλήλων ,",
+        "VUL": "áltera contra álteram ,",
+        "SP": null,
+        "KJV": "every [ cow at that which is ] before her ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and ye shall cast [ them ] into the palace",
+      "traditions": {
+        "WLC": "וְ הִשְׁלַכְתֶּ֥נָה הַ הַרְמ֖וֹנָ",
+        "LXX": "καὶ ἀποριφήσεσθε εἰς τὸ ὄρος τὸ Ῥομμάν ,",
+        "VUL": "et proiciémini in Armon ,",
+        "SP": null,
+        "KJV": "and ye shall cast [ them ] into the palace ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "ה נְאֻם יְהוָֽה",
+        "LXX": "λέγει Κύριος .",
+        "VUL": "dicit Dóminus .",
+        "SP": null,
+        "KJV": "saith the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Come to Bethel , and transgress",
+      "traditions": {
+        "WLC": "בֹּ֤אוּ בֵֽית אֵל֙ וּ פִשְׁע֔וּ",
+        "LXX": "Εἰσήλθατε εἰς Βαιθὴλ καὶ ἠσεβήσατε ,",
+        "VUL": "Veníte ad Bethel , et ímpie ágite :",
+        "SP": null,
+        "KJV": "Come to Bethel , and transgress ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "at Gilgal multiply transgression",
+      "traditions": {
+        "WLC": "הַ גִּלְגָּ֖ל הַרְבּ֣וּ לִ פְשֹׁ֑עַ",
+        "LXX": "καὶ εἰς Γάλγαλα ἐπληθύνατε τοῦ ἀσεβῆσαι ,",
+        "VUL": "ad Gálgalam , et multiplicáte prævaricatiónem :",
+        "SP": null,
+        "KJV": "at Gilgal multiply transgression ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and bring your sacrifices every morning",
+      "traditions": {
+        "WLC": "וְ הָבִ֤יאוּ לַ בֹּ֨קֶר֙ זִבְחֵי כֶ֔ם",
+        "LXX": "καὶ ἠνέγκατε εἰς τὸ πρωὶ θυσίας ὑμῶν ,",
+        "VUL": "et afférte mane víctimas vestras ,",
+        "SP": null,
+        "KJV": "and bring your sacrifices every morning , [ and ]",
+        "DSS": "[4Q82] ז#?[ ב ]ח##"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "your tithes after three years",
+      "traditions": {
+        "WLC": "לִ שְׁלֹ֥שֶׁת יָמִ֖ים מַעְשְׂרֹֽתֵי כֶֽם",
+        "LXX": "εἰς τὴν τριημερίαν τὰ ἐπιδέκατα ὑμῶν ·",
+        "VUL": "tribus diébus décimas vestras .",
+        "SP": null,
+        "KJV": "your tithes after three years :",
+        "DSS": "[ י׳כם ל שלשת ימים מעשרתי׳כם"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And offer a sacrifice of thanksgiving with leaven",
+      "traditions": {
+        "WLC": "וְ קַטֵּ֤ר מֵֽ חָמֵץ֙ תּוֹדָ֔ה",
+        "LXX": "καὶ ἀνέγνωσαν ἔξω νόμον ,",
+        "VUL": "Et sacrificáte de fermentáto laudem :",
+        "SP": null,
+        "KJV": "And offer a sacrifice of thanksgiving with leaven ,",
+        "DSS": "[4Q82] ו קטר מ חמץ תודה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and proclaim [ and ] publish the free offerings",
+      "traditions": {
+        "WLC": "וְ קִרְא֥וּ נְדָב֖וֹת הַשְׁמִ֑יעוּ",
+        "LXX": "καὶ ἐπεκαλέσαντο ὁμολογίας ·",
+        "VUL": "et vocáte voluntárias oblatiónes , et annuntiáte :",
+        "SP": null,
+        "KJV": "and proclaim [ and ] publish the free offerings :",
+        "DSS": "]ו#? ק##[ רא ]ו#? נדב[ ות השמיעו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for this liketh you , O ye children of Israel",
+      "traditions": {
+        "WLC": "כִּ֣י כֵ֤ן אֲהַבְתֶּם֙ בְּנֵ֣י יִשְׂרָאֵ֔ל",
+        "LXX": "ἀναγγείλατε ὅτι ταῦτα ἠγάπησαν οἱ υἱοὶ Ἰσραήλ ,",
+        "VUL": "sic enim voluístis fílii Israel ,",
+        "SP": null,
+        "KJV": "for this liketh you , O ye children of Israel ,",
+        "DSS": "כי כן אהבתם בני ישראל"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "saith the Lord GOD",
+      "traditions": {
+        "WLC": "נְאֻ֖ם אֲדֹנָ֥ י יְהוִֽה",
+        "LXX": "λέγει Κύριος ὁ θεός .",
+        "VUL": "dicit Dóminus Deus .",
+        "SP": null,
+        "KJV": "saith the Lord GOD .",
+        "DSS": "נאם אדני יהוה"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I also have given you cleanness of teeth in all your cities",
+      "traditions": {
+        "WLC": "וְ גַם אֲנִי֩ נָתַ֨תִּי לָ כֶ֜ם נִקְי֤וֹן שִׁנַּ֨יִם֙ בְּ כָל עָ֣רֵי כֶ֔ם",
+        "LXX": "καὶ ἐγὼ δώσω ὑμῖν γομφιασμὸν ὀδόντων ἐν πάσαις ταῖς πόλεσιν ὑμῶν ,",
+        "VUL": "Unde et ego dedi vobis stupórem déntium in cunctis úrbibus vestris ,",
+        "SP": null,
+        "KJV": "And I also have given you cleanness of teeth in all your cities ,",
+        "DSS": "[4Q82] ו גם ] אנוכי [ נתתי ל׳כם נקיון שנים ב כול ערי׳כם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and want of bread in all your places",
+      "traditions": {
+        "WLC": "וְ חֹ֣סֶר לֶ֔חֶם בְּ כֹ֖ל מְקוֹמֹֽתֵי כֶ֑ם",
+        "LXX": "καὶ ἔνδειαν ἄρτων ἐν πᾶσι τοῖς τόποις ὑμῶν ,",
+        "VUL": "et indigéntiam panum in ómnibus locis vestris :",
+        "SP": null,
+        "KJV": "and want of bread in all your places :",
+        "DSS": "ו חסר לחם ב כול מ ]ק##ו?מ##ת##י?׳כ#ם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "yet have ye not returned unto me",
+      "traditions": {
+        "WLC": "וְ לֹֽא שַׁבְתֶּ֥ם עָדַ֖ י",
+        "LXX": "καὶ οὐκ ἐπεστρέψατε πρὸς μέ ,",
+        "VUL": "et non estis revérsi ad me ,",
+        "SP": null,
+        "KJV": "yet have ye not returned unto me ,",
+        "DSS": "ו לא ש#ב#[ תם עד׳י"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "נְאֻם יְהוָֽה",
+        "LXX": "λέγει Κύριος .",
+        "VUL": "dicit Dóminus .",
+        "SP": null,
+        "KJV": "saith the LORD .",
+        "DSS": "נאם יהוה"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And also I have withholden the rain from you",
+      "traditions": {
+        "WLC": "וְ גַ֣ם אָנֹכִי֩ מָנַ֨עְתִּי מִ כֶּ֜ם אֶת הַ גֶּ֗שֶׁם",
+        "LXX": "καὶ ἐγὼ ἀνέσχον ἐξ ὑμῶν τὸν ὑετὸν",
+        "VUL": "Ego quoque prohíbui a vobis imbrem ,",
+        "SP": null,
+        "KJV": "And also I have withholden the rain from you ,",
+        "DSS": "[4Q82] ו גם אנכי מנעתי מ׳כם את ה גשם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when [ there were ] yet three months to the harvest",
+      "traditions": {
+        "WLC": "בְּ ע֨וֹד שְׁלֹשָׁ֤ה חֳדָשִׁים֙ לַ קָּצִ֔יר",
+        "LXX": "πρὸ τριῶν μηνῶν τοῦ τρυγητοῦ ,",
+        "VUL": "cum adhuc tres menses superéssent usque ad messem :",
+        "SP": null,
+        "KJV": "when [ there were ] yet three months to the harvest :",
+        "DSS": "ב ] ע##ו#?ד## שלושה ח[ דשים ל קציר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and I caused it to rain upon one city",
+      "traditions": {
+        "WLC": "וְ הִמְטַרְתִּי֙ עַל עִ֣יר אֶחָ֔ת",
+        "LXX": "καὶ βρέξω ἐπὶ πόλιν μίαν ,",
+        "VUL": "et plui super unam civitátem ,",
+        "SP": null,
+        "KJV": "and I caused it to rain upon one city ,",
+        "DSS": "ו המטרתי על עיר אחת"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and caused it not to rain upon another city",
+      "traditions": {
+        "WLC": "וְ עַל עִ֥יר אַחַ֖ת לֹ֣א אַמְטִ֑יר",
+        "LXX": "ἐπὶ δὲ πόλιν μίαν οὐ βρέξω ·",
+        "VUL": "et super álteram civitátem non plui :",
+        "SP": null,
+        "KJV": "and caused it not to rain upon another city :",
+        "DSS": "ו על עיר אחת  ]ל##א## אמטיר"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "one piece was rained upon",
+      "traditions": {
+        "WLC": "חֶלְקָ֤ה אַחַת֙ תִּמָּטֵ֔ר",
+        "LXX": "μερὶς μία βραχήσεται ,",
+        "VUL": "pars una complúta est :",
+        "SP": null,
+        "KJV": "one piece was rained upon ,",
+        "DSS": "חל##[ קה אחת תמטר"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and the piece whereupon it rained not withered",
+      "traditions": {
+        "WLC": "וְ חֶלְקָ֛ה אֲשֶֽׁר לֹֽא תַמְטִ֥יר עָלֶ֖י הָ תִּיבָֽשׁ",
+        "LXX": "καὶ μερὶς ἐφ᾽ ἣν οὐ βρέξω ξηρανθήσεται .",
+        "VUL": "et pars , super quam non plui , árruit .",
+        "SP": null,
+        "KJV": "and the piece whereupon it rained not withered .",
+        "DSS": "ו חלקה אשר לא תמטיר עלי׳ה תיבש"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "So two [ or ] three cities wandered unto one city",
+      "traditions": {
+        "WLC": "וְ נָע֡וּ שְׁתַּיִם֩ שָׁלֹ֨שׁ עָרִ֜ים אֶל עִ֥יר אַחַ֛ת",
+        "LXX": "καὶ συναθροισθήσονται δύο καὶ τρεῖς πόλεις εἰς πόλιν μίαν",
+        "VUL": "Et venérunt duæ et tres civitátes ad unam civitátem",
+        "SP": null,
+        "KJV": "So two [ or ] three cities wandered unto one city ,",
+        "DSS": "[4Q82] ]ו נעו שתים של[ ש ערים אל עיר אחת"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to drink water",
+      "traditions": {
+        "WLC": "לִ שְׁתּ֥וֹת מַ֖יִם",
+        "LXX": "τοῦ πιεῖν ὕδωρ",
+        "VUL": "ut bíberent aquam ,",
+        "SP": null,
+        "KJV": "to drink water ;",
+        "DSS": "ל שתות מים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "but they were not satisfied",
+      "traditions": {
+        "WLC": "וְ לֹ֣א יִשְׂבָּ֑עוּ",
+        "LXX": "καὶ οὐ μὴ ἐμπλησθῶσιν ,",
+        "VUL": "et non sunt satiátæ :",
+        "SP": null,
+        "KJV": "but they were not satisfied :",
+        "DSS": "ו לא ישבעו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "yet have ye not returned unto me",
+      "traditions": {
+        "WLC": "וְ לֹֽא שַׁבְתֶּ֥ם עָדַ֖ י",
+        "LXX": "καὶ οὐκ ἐπεστράφητε πρὸς μέ ,",
+        "VUL": "et non redístis ad me ,",
+        "SP": null,
+        "KJV": "yet have ye not returned unto me ,",
+        "DSS": "ו ] ל##א## שבת##[ ם ] עד##׳[ י"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "נְאֻם יְהוָֽה",
+        "LXX": "λέγει Κύριος .",
+        "VUL": "dicit Dóminus .",
+        "SP": null,
+        "KJV": "saith the LORD .",
+        "DSS": "נאם יהוה"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "I have smitten you with blasting and mildew",
+      "traditions": {
+        "WLC": "הִכֵּ֣יתִי אֶתְ כֶם֮ בַּ שִּׁדָּפ֣וֹן וּ בַ יֵּרָקוֹן֒",
+        "LXX": "ἐπάταξα ὑμᾶς ἐν πυρώσει καὶ ἐν ἰκτέρῳ ·",
+        "VUL": "Percússi vos in vento urénte , et in aurúgine :",
+        "SP": null,
+        "KJV": "I have smitten you with blasting and mildew :",
+        "DSS": "[4Q82] הכיתי את׳כם ב שדפון ו ב ירקון"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when your gardens and your vineyards and your fig trees and your olive trees increased",
+      "traditions": {
+        "WLC": "הַרְבּ֨וֹת גַּנּוֹתֵי כֶ֧ם וְ כַרְמֵי כֶ֛ם וּ תְאֵנֵי כֶ֥ם וְ זֵיתֵי כֶ֖ם",
+        "LXX": "ἐπληθύνατε κήπους ὑμῶν , ἀμπελῶνας ὑμῶν καὶ συκῶνας ὑμῶν καὶ ἐλαιῶνας ὑμῶν",
+        "VUL": "multitúdinem hortórum vestrórum , et vineárum vestrárum : olivéta vestra , et ficéta vestra",
+        "SP": null,
+        "KJV": "when your gardens and your vineyards and your fig trees and your olive trees increased ,",
+        "DSS": "הרבות גנותי׳כם ] [ ו כ ]ר##מי׳כם[  ו תאני׳כם ו זיתי׳כם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the palmerworm devoured [ them ]",
+      "traditions": {
+        "WLC": "יֹאכַ֣ל הַ גָּזָ֑ם",
+        "LXX": "κατέφαγεν ἡ κάμπη ,",
+        "VUL": "comédit erúca :",
+        "SP": null,
+        "KJV": "the palmerworm devoured [ them ] :",
+        "DSS": "יאכל ה גזם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "yet have ye not returned unto me",
+      "traditions": {
+        "WLC": "וְ לֹֽא שַׁבְתֶּ֥ם עָדַ֖ י",
+        "LXX": "καὶ οὐδ᾽ ὣς ἐπεστρέψατε πρὸς μέ ,",
+        "VUL": "et non redístis ad me ,",
+        "SP": null,
+        "KJV": "yet have ye not returned unto me ,",
+        "DSS": "ו לא שבתם עדי"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "נְאֻם יְהוָֽה",
+        "LXX": "λέγει Κύριος .",
+        "VUL": "dicit Dóminus .",
+        "SP": null,
+        "KJV": "saith the LORD .",
+        "DSS": "נאם יהוה"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "I have sent among you the pestilence after the manner of Egypt",
+      "traditions": {
+        "WLC": "שִׁלַּ֨חְתִּי בָ כֶ֥ם דֶּ֨בֶר֙ בְּ דֶ֣רֶךְ מִצְרַ֔יִם",
+        "LXX": "ἐξαπέστειλα εἰς ὑμᾶς θάνατον ἐν ὁδῷ Αἰγύπτου ,",
+        "VUL": "Misi in vos mortem in via Ægýpti ,",
+        "SP": null,
+        "KJV": "I have sent among you the pestilence after the manner of Egypt :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "your young men have I slain with the sword",
+      "traditions": {
+        "WLC": "הָרַ֤גְתִּי בַ חֶ֨רֶב֙ בַּח֣וּרֵי כֶ֔ם",
+        "LXX": "καὶ ἀπέκτεινα ἐν ῥομφαίᾳ τοὺς νεανίσκους ὑμῶν",
+        "VUL": "percússi in gládio iúvenes vestros ,",
+        "SP": null,
+        "KJV": "your young men have I slain with the sword ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and have taken away your horses",
+      "traditions": {
+        "WLC": "עִ֖ם שְׁבִ֣י סֽוּסֵי כֶ֑ם",
+        "LXX": "μετὰ αἰχμαλωσίας ἵππων σου ,",
+        "VUL": "usque ad captivitátem equórum vestrórum :",
+        "SP": null,
+        "KJV": "and have taken away your horses ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and I have made the stink of your camps to come up unto your nostrils",
+      "traditions": {
+        "WLC": "וָ אַעֲלֶ֞ה בְּאֹ֤שׁ מַחֲנֵי כֶם֙ וּֽ בְ אַפְּ כֶ֔ם",
+        "LXX": "καὶ ἀνήγαγον ἐν πυρὶ τὰς παρεμβολὰς ὑμῶν ἐν τῇ ὀργῇ ὑμῶν ,",
+        "VUL": "et ascéndere feci putrédinem castrórum vestrórum in nares vestras :",
+        "SP": null,
+        "KJV": "and I have made the stink of your camps to come up unto your nostrils :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "yet have ye not returned unto me",
+      "traditions": {
+        "WLC": "וְ לֹֽא שַׁבְתֶּ֥ם עָדַ֖ י",
+        "LXX": "καὶ οὐδ᾽ ὣς ἐπεστρέψατε πρὸς μέ ,",
+        "VUL": "et non redístis ad me ,",
+        "SP": null,
+        "KJV": "yet have ye not returned unto me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "נְאֻם יְהוָֽה",
+        "LXX": "λέγει Κύριος .",
+        "VUL": "dicit Dóminus .",
+        "SP": null,
+        "KJV": "saith the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "I have overthrown [ some ] of you , as God overthrew Sodom and Gomorrah",
+      "traditions": {
+        "WLC": "הָפַ֣כְתִּי בָ כֶ֗ם כְּ מַהְפֵּכַ֤ת אֱלֹהִים֙ אֶת סְדֹ֣ם וְ אֶת עֲמֹרָ֔ה",
+        "LXX": "κατέστρεψα ὑμᾶς καθὼς κατέστρεψεν ὁ θεὸς Σόδομα καὶ Γόμορρα ,",
+        "VUL": "Subvérti vos , sicut subvértit Deus Sódomam , et Gomórrham ,",
+        "SP": null,
+        "KJV": "I have overthrown [ some ] of you , as God overthrew Sodom and Gomorrah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and ye were as a firebrand plucked out of the burning",
+      "traditions": {
+        "WLC": "וַ תִּהְי֕וּ כְּ א֖וּד מֻצָּ֣ל מִ שְׂרֵפָ֑ה",
+        "LXX": "καὶ ἐγένεσθε ὡς δαλὸς ἐξεσπασμένος ἐκ πυρός ,",
+        "VUL": "et facti estis quasi torris raptus ab incéndio :",
+        "SP": null,
+        "KJV": "and ye were as a firebrand plucked out of the burning :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "yet have ye not returned unto me , saith the LORD",
+      "traditions": {
+        "WLC": "וְ לֹֽא שַׁבְתֶּ֥ם עָדַ֖ י נְאֻם יְהוָֽה",
+        "LXX": "καὶ οὐδ᾽ ὣς ἐπεστρέψατε πρὸς μέ , λέγει Κύριος .",
+        "VUL": "et non redístis ad me , dicit Dóminus .",
+        "SP": null,
+        "KJV": "yet have ye not returned unto me , saith the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore thus will I do unto thee , O Israel",
+      "traditions": {
+        "WLC": "לָ כֵ֕ן כֹּ֥ה אֶעֱשֶׂה לְּ ךָ֖ יִשְׂרָאֵ֑ל",
+        "LXX": "διὰ τοῦτο οὕτως ποιήσω σοι , Ἰσραήλ ·",
+        "VUL": "Quaprópter hæc fáciam tibi Israel :",
+        "SP": null,
+        "KJV": "Therefore thus will I do unto thee , O Israel : [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ and ] because I will do this unto thee",
+      "traditions": {
+        "WLC": "עֵ֚קֶב כִּֽי זֹ֣את אֶֽעֱשֶׂה לָּ֔ ךְ",
+        "LXX": "πλὴν ὅτι οὕτως ποιήσω σοι ,",
+        "VUL": "postquam autem hæc fécero tibi ,",
+        "SP": null,
+        "KJV": "because I will do this unto thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "prepare to meet thy God , O Israel",
+      "traditions": {
+        "WLC": "הִכּ֥וֹן לִ קְרַאת אֱלֹהֶ֖י ךָ יִשְׂרָאֵֽל",
+        "LXX": "ἑτοιμάζου τοῦ ἐπικαλεῖσθαι τὸν θεόν σου , Ἰσραήλ .",
+        "VUL": "præparáre in occúrsum Dei tui Israel .",
+        "SP": null,
+        "KJV": "prepare to meet thy God , O Israel .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "For , lo , he that formeth the mountains , and createth the wind",
+      "traditions": {
+        "WLC": "כִּ֡י הִנֵּה֩ יוֹצֵ֨ר הָרִ֜ים וּ בֹרֵ֣א ר֗וּחַ",
+        "LXX": "διότι στερεῶν βροντὴν καὶ κτίζων πνεῦμα",
+        "VUL": "Quia ecce formans montes , et creans ventum ,",
+        "SP": null,
+        "KJV": "For , lo , he that formeth the mountains , and createth the wind ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and declareth unto man what [ is ] his thought",
+      "traditions": {
+        "WLC": "וּ מַגִּ֤יד לְ אָדָם֙ מַה שֵּׂח֔ וֹ",
+        "LXX": "καὶ ἀπαγγέλλων εἰς ἀνθρώπους τὸν χριστὸν αὐτοῦ ,",
+        "VUL": "et annúntians hómini elóquium suum ,",
+        "SP": null,
+        "KJV": "and declareth unto man what [ is ] his thought ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that maketh the morning darkness",
+      "traditions": {
+        "WLC": "עֹשֵׂ֥ה שַׁ֨חַר֙ עֵיפָ֔ה",
+        "LXX": "ὁ ποιῶν ὄρθρον καὶ ὁμίχλην ,",
+        "VUL": "fáciens matutínam nébulam ,",
+        "SP": null,
+        "KJV": "that maketh the morning darkness ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and treadeth upon the high places of the earth",
+      "traditions": {
+        "WLC": "וְ דֹרֵ֖ךְ עַל בָּ֣מֳתֵי אָ֑רֶץ",
+        "LXX": "ἐπιβαίνων ἐπὶ τὰ ὕψη τῆς γῆς ·",
+        "VUL": "et grádiens super excélsa terræ :",
+        "SP": null,
+        "KJV": "and treadeth upon the high places of the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "The LORD , The God of hosts , [ is ] his name",
+      "traditions": {
+        "WLC": "יְהוָ֥ה אֱלֹהֵֽי צְבָא֖וֹת שְׁמֽ וֹ",
+        "LXX": "Κύριος ὁ θεὸς ὁ παντοκράτωρ ὄνομα αὐτῷ .",
+        "VUL": "Dóminus Deus exercítuum nomen eius .",
+        "SP": null,
+        "KJV": "The LORD , The God of hosts , [ is ] his name .",
+        "DSS": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass in the eleventh year",
+      "traditions": {
+        "WLC": "וַ יְהִ֛י בְּ עַשְׁתֵּֽי עֶשְׂרֵ֥ה שָׁנָ֖ה",
+        "LXX": null,
+        "VUL": "Et factum est in undécimo anno ,",
+        "SP": null,
+        "KJV": "And it came to pass in the eleventh year ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in the first [ day ] of the month",
+      "traditions": {
+        "WLC": "בְּ אֶחָ֣ד לַ חֹ֑דֶשׁ",
+        "LXX": null,
+        "VUL": "prima mensis ,",
+        "SP": null,
+        "KJV": "in the first [ day ] of the month , [ that ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ that ] the word of the LORD came unto me , saying ,",
+      "traditions": {
+        "WLC": "הָיָ֥ה דְבַר יְהוָ֖ה אֵלַ֥ י לֵ אמֹֽר",
+        "LXX": null,
+        "VUL": "factus est sermo Dómini ad me , dicens :",
+        "SP": null,
+        "KJV": "the word of the LORD came unto me , saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Son of man",
+      "traditions": {
+        "WLC": "בֶּן אָדָ֗ם",
+        "LXX": null,
+        "VUL": "Fili hóminis ,",
+        "SP": null,
+        "KJV": "Son of man ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because that Tyrus hath said against Jerusalem",
+      "traditions": {
+        "WLC": "יַ֠עַן אֲשֶׁר אָ֨מְרָה צֹּ֤ר עַל יְרוּשָׁלִַ֨ם֙",
+        "LXX": null,
+        "VUL": "pro eo quod dixit Tyrus de Ierúsalem :",
+        "SP": null,
+        "KJV": "because that Tyrus hath said against Jerusalem ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Aha , she is broken [ that was ] the gates of the people",
+      "traditions": {
+        "WLC": "הֶאָ֔ח נִשְׁבְּרָ֛ה דַּלְת֥וֹת הָ עַמִּ֖ים",
+        "LXX": null,
+        "VUL": "Euge , confráctæ sunt portæ populórum ,",
+        "SP": null,
+        "KJV": "Aha , she is broken [ that was ] the gates of the people :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "she is turned unto me",
+      "traditions": {
+        "WLC": "נָסֵ֣בָּה אֵלָ֑ י",
+        "LXX": null,
+        "VUL": "convérsa est ad me :",
+        "SP": null,
+        "KJV": "she is turned unto me :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "I shall be replenished",
+      "traditions": {
+        "WLC": "אִמָּלְאָ֖ה",
+        "LXX": null,
+        "VUL": "implébor ,",
+        "SP": null,
+        "KJV": "I shall be replenished , [ now ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "[ now ] she is laid waste",
+      "traditions": {
+        "WLC": "הָחֳרָֽבָה",
+        "LXX": null,
+        "VUL": "desérta est .",
+        "SP": null,
+        "KJV": "she is laid waste :",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore thus saith the Lord GOD",
+      "traditions": {
+        "WLC": "לָ כֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣ י יְהוִ֔ה",
+        "LXX": null,
+        "VUL": "Proptérea hæc dicit Dóminus Deus :",
+        "SP": null,
+        "KJV": "Therefore thus saith the Lord GOD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Behold , I [ am ] against thee , O Tyrus",
+      "traditions": {
+        "WLC": "הִנְ נִ֥י עָלַ֖יִ ךְ צֹ֑ר",
+        "LXX": null,
+        "VUL": "Ecce ego super te Tyre ,",
+        "SP": null,
+        "KJV": "Behold , I [ am ] against thee , O Tyrus ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and will cause many nations to come up against thee",
+      "traditions": {
+        "WLC": "וְ הַעֲלֵיתִ֤י עָלַ֨יִ ךְ֙ גּוֹיִ֣ם רַבִּ֔ים",
+        "LXX": null,
+        "VUL": "et ascéndere fáciam ad te gentes multas ,",
+        "SP": null,
+        "KJV": "and will cause many nations to come up against thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as the sea causeth his waves to come up",
+      "traditions": {
+        "WLC": "כְּ הַעֲל֥וֹת הַ יָּ֖ם לְ גַלָּֽי ו",
+        "LXX": null,
+        "VUL": "sicut ascéndit mare flúctuans .",
+        "SP": null,
+        "KJV": "as the sea causeth his waves to come up .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they shall destroy the walls of Tyrus",
+      "traditions": {
+        "WLC": "וְ שִׁחֲת֞וּ חֹמ֣וֹת צֹ֗ר",
+        "LXX": null,
+        "VUL": "Et dissipábunt muros Tyri ,",
+        "SP": null,
+        "KJV": "And they shall destroy the walls of Tyrus ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and break down her towers",
+      "traditions": {
+        "WLC": "וְ הָֽרְסוּ֙ מִגְדָּלֶ֔י הָ",
+        "LXX": null,
+        "VUL": "et déstruent turres eius :",
+        "SP": null,
+        "KJV": "and break down her towers :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I will also scrape her dust from her",
+      "traditions": {
+        "WLC": "וְ סִֽחֵיתִ֥י עֲפָרָ֖ הּ מִמֶּ֑ נָּה",
+        "LXX": null,
+        "VUL": "et radam púlverem eius de ea ,",
+        "SP": null,
+        "KJV": "I will also scrape her dust from her ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and make her like the top of a rock",
+      "traditions": {
+        "WLC": "וְ נָתַתִּ֥י אוֹתָ֖ הּ לִ צְחִ֥יחַ סָֽלַע",
+        "LXX": null,
+        "VUL": "et dabo eam in limpidíssimam petram .",
+        "SP": null,
+        "KJV": "and make her like the top of a rock .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "It shall be [ a place for ] the spreading of nets in the midst of the sea",
+      "traditions": {
+        "WLC": "מִשְׁטַ֨ח חֲרָמִ֤ים תִּֽהְיֶה֙ בְּ ת֣וֹךְ הַ יָּ֔ם",
+        "LXX": null,
+        "VUL": "Siccátio sagenárum erit in médio maris ,",
+        "SP": null,
+        "KJV": "It shall be [ a place for ] the spreading of nets in the midst of the sea :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for I have spoken [ it ] , saith the Lord GOD",
+      "traditions": {
+        "WLC": "כִּ֚י אֲנִ֣י דִבַּ֔רְתִּי נְאֻ֖ם אֲדֹנָ֣ י יְהוִ֑ה",
+        "LXX": null,
+        "VUL": "quia ego locútus sum , ait Dóminus Deus :",
+        "SP": null,
+        "KJV": "for I have spoken [ it ] , saith the Lord GOD :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and it shall become a spoil to the nations",
+      "traditions": {
+        "WLC": "וְ הָיְתָ֥ה לְ בַ֖ז לַ גּוֹיִֽם",
+        "LXX": null,
+        "VUL": "et erit in direptiónem géntibus .",
+        "SP": null,
+        "KJV": "and it shall become a spoil to the nations .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And her daughters which [ are ] in the field shall be slain by the sword",
+      "traditions": {
+        "WLC": "וּ בְנוֹתֶ֨י הָ֙ אֲשֶׁ֣ר בַּ שָּׂדֶ֔ה בַּ חֶ֖רֶב תֵּהָרַ֑גְנָה",
+        "LXX": null,
+        "VUL": "Fíliæ quoque eius , quæ sunt in agro , gládio interficiéntur :",
+        "SP": null,
+        "KJV": "And her daughters which [ are ] in the field shall be slain by the sword ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they shall know that I [ am ] the LORD",
+      "traditions": {
+        "WLC": "וְ יָדְע֖וּ כִּי אֲנִ֥י יְהוָֽה",
+        "LXX": null,
+        "VUL": "et scient quia ego Dóminus .",
+        "SP": null,
+        "KJV": "and they shall know that I [ am ] the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thus saith the Lord GOD",
+      "traditions": {
+        "WLC": "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣ י יְהוִ֔ה",
+        "LXX": null,
+        "VUL": "Quia hæc dicit Dóminus Deus :",
+        "SP": null,
+        "KJV": "For thus saith the Lord GOD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Behold , I will bring upon Tyrus Nebuchadrezzar king of Babylon",
+      "traditions": {
+        "WLC": "הִנְ נִ֧י מֵבִ֣יא אֶל צֹ֗ר נְבוּכַדְרֶאצַּ֧ר מֶֽלֶךְ בָּבֶ֛ל",
+        "LXX": null,
+        "VUL": "Ecce ego addúcam ad Tyrum Nabuchodónosor regem Babylónis",
+        "SP": null,
+        "KJV": "Behold , I will bring upon Tyrus Nebuchadrezzar king of Babylon ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a king of kings , from the north",
+      "traditions": {
+        "WLC": "מִ צָּפ֖וֹן מֶ֣לֶךְ מְלָכִ֑ים",
+        "LXX": null,
+        "VUL": "ab aquilóne , regem regum ,",
+        "SP": null,
+        "KJV": "a king of kings , from the north ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "with horses , and with chariots , and with horsemen , and companies , and much people",
+      "traditions": {
+        "WLC": "בְּ ס֛וּס וּ בְ רֶ֥כֶב וּ בְ פָרָשִׁ֖ים וְ קָהָ֥ל וְ עַם רָֽב",
+        "LXX": null,
+        "VUL": "cum equis , et cúrribus , et equítibus , et cœtu , populóque magno .",
+        "SP": null,
+        "KJV": "with horses , and with chariots , and with horsemen , and companies , and much people .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "He shall slay with the sword thy daughters in the field",
+      "traditions": {
+        "WLC": "בְּנוֹתַ֥יִ ךְ בַּ שָּׂדֶ֖ה בַּ חֶ֣רֶב יַהֲרֹ֑ג",
+        "LXX": null,
+        "VUL": "Fílias tuas , quæ sunt in agro , gládio interfíciet :",
+        "SP": null,
+        "KJV": "He shall slay with the sword thy daughters in the field :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he shall make a fort against thee",
+      "traditions": {
+        "WLC": "וְ נָתַ֨ן עָלַ֜יִ ךְ דָּיֵ֗ק",
+        "LXX": null,
+        "VUL": "et circúmdabit te munitiónibus ,",
+        "SP": null,
+        "KJV": "and he shall make a fort against thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and cast a mount against thee",
+      "traditions": {
+        "WLC": "וְ שָׁפַ֤ךְ עָלַ֨יִ ךְ֙ סֹֽלְלָ֔ה",
+        "LXX": null,
+        "VUL": "et comportábit ággerem in gyro ,",
+        "SP": null,
+        "KJV": "and cast a mount against thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and lift up the buckler against thee",
+      "traditions": {
+        "WLC": "וְ הֵקִ֥ים עָלַ֖יִ ךְ צִנָּֽה",
+        "LXX": null,
+        "VUL": "et elevábit contra te clýpeum .",
+        "SP": null,
+        "KJV": "and lift up the buckler against thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he shall set engines of war against thy walls",
+      "traditions": {
+        "WLC": "וּ מְחִ֣י קָֽבָלּ֔ וֹ יִתֵּ֖ן בְּ חֹֽמוֹתָ֑יִ ךְ",
+        "LXX": null,
+        "VUL": "Et víneas , et aríetes temperábit in muros tuos ,",
+        "SP": null,
+        "KJV": "And he shall set engines of war against thy walls ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and with his axes he shall break down thy towers",
+      "traditions": {
+        "WLC": "וּ מִ֨גְדְּלֹתַ֔יִ ךְ יִתֹּ֖ץ בְּ חַרְבוֹתָֽי ו",
+        "LXX": null,
+        "VUL": "et turres tuas déstruet in armatúra sua .",
+        "SP": null,
+        "KJV": "and with his axes he shall break down thy towers .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "By reason of the abundance of his horses their dust shall cover thee",
+      "traditions": {
+        "WLC": "מִ שִּׁפְעַ֥ת סוּסָ֖י ו יְכַסֵּ֣ ךְ אֲבָקָ֑ ם",
+        "LXX": null,
+        "VUL": "Inundatióne equórum eius opériet te pulvis eórum :",
+        "SP": null,
+        "KJV": "By reason of the abundance of his horses their dust shall cover thee :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thy walls shall shake at the noise of the horsemen , and of the wheels , and of the chariots",
+      "traditions": {
+        "WLC": "מִ קּוֹל֩ פָּרַ֨שׁ וְ גַלְגַּ֜ל וָ רֶ֗כֶב תִּרְעַ֨שְׁנָה֙ חֽוֹמוֹתַ֔יִ ךְ",
+        "LXX": null,
+        "VUL": "a sónitu équitum , et rotárum , et cúrruum movebúntur muri tui ,",
+        "SP": null,
+        "KJV": "thy walls shall shake at the noise of the horsemen , and of the wheels , and of the chariots ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "when he shall enter into thy gates",
+      "traditions": {
+        "WLC": "בְּ בֹא וֹ֙ בִּ שְׁעָרַ֔יִ ךְ",
+        "LXX": null,
+        "VUL": "cum ingréssus fúerit portas tuas",
+        "SP": null,
+        "KJV": "when he shall enter into thy gates ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as men enter into a city wherein is made a breach",
+      "traditions": {
+        "WLC": "כִּ מְבוֹאֵ֖י עִ֥יר מְבֻקָּעָֽה",
+        "LXX": null,
+        "VUL": "quasi per intróitum urbis dissipátæ .",
+        "SP": null,
+        "KJV": "as men enter into a city wherein is made a breach .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "With the hoofs of his horses shall he tread down all thy streets",
+      "traditions": {
+        "WLC": "בְּ פַרְס֣וֹת סוּסָ֔י ו יִרְמֹ֖ס אֶת כָּל חֽוּצוֹתָ֑יִ ךְ",
+        "LXX": null,
+        "VUL": "Ungulis equórum suórum conculcábit omnes platéas tuas :",
+        "SP": null,
+        "KJV": "With the hoofs of his horses shall he tread down all thy streets :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he shall slay thy people by the sword",
+      "traditions": {
+        "WLC": "עַמֵּ ךְ֙ בַּ חֶ֣רֶב יַהֲרֹ֔ג",
+        "LXX": null,
+        "VUL": "pópulum tuum gládio cædet ,",
+        "SP": null,
+        "KJV": "he shall slay thy people by the sword ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thy strong garrisons shall go down to the ground",
+      "traditions": {
+        "WLC": "וּ מַצְּב֥וֹת עֻזֵּ֖ ךְ לָ אָ֥רֶץ תֵּרֵֽד",
+        "LXX": null,
+        "VUL": "et státuæ tuæ nóbiles in terram córruent .",
+        "SP": null,
+        "KJV": "and thy strong garrisons shall go down to the ground .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they shall make a spoil of thy riches",
+      "traditions": {
+        "WLC": "וְ שָׁלְל֣וּ חֵילֵ֗ ךְ",
+        "LXX": null,
+        "VUL": "Vastábunt opes tuas ,",
+        "SP": null,
+        "KJV": "And they shall make a spoil of thy riches ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and make a prey of thy merchandise",
+      "traditions": {
+        "WLC": "וּ בָֽזְזוּ֙ רְכֻלָּתֵ֔ ךְ",
+        "LXX": null,
+        "VUL": "dirípient negotiatiónes tuas :",
+        "SP": null,
+        "KJV": "and make a prey of thy merchandise :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they shall break down thy walls",
+      "traditions": {
+        "WLC": "וְ הָֽרְסוּ֙ חוֹמוֹתַ֔יִ ךְ",
+        "LXX": null,
+        "VUL": "et déstruent muros tuos ,",
+        "SP": null,
+        "KJV": "and they shall break down thy walls ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and destroy thy pleasant houses",
+      "traditions": {
+        "WLC": "וּ בָתֵּ֥י חֶמְדָּתֵ֖ ךְ יִתֹּ֑צוּ",
+        "LXX": null,
+        "VUL": "et domos tuas præcláras subvértent :",
+        "SP": null,
+        "KJV": "and destroy thy pleasant houses :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and they shall lay thy stones and thy timber and thy dust in the midst of the water",
+      "traditions": {
+        "WLC": "וַ אֲבָנַ֤יִ ךְ וְ עֵצַ֨יִ ךְ֙ וַֽ עֲפָרֵ֔ ךְ בְּ ת֥וֹךְ מַ֖יִם יָשִֽׂימוּ",
+        "LXX": null,
+        "VUL": "et lápides tuos , et ligna tua , et púlverem tuum in médio aquárum ponent .",
+        "SP": null,
+        "KJV": "and they shall lay thy stones and thy timber and thy dust in the midst of the water .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will cause the noise of thy songs to cease",
+      "traditions": {
+        "WLC": "וְ הִשְׁבַּתִּ֖י הֲמ֣וֹן שִׁירָ֑יִ ךְ",
+        "LXX": null,
+        "VUL": "Et quiéscere fáciam multitúdinem canticórum tuórum :",
+        "SP": null,
+        "KJV": "And I will cause the noise of thy songs to cease ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the sound of thy harps shall be no more heard",
+      "traditions": {
+        "WLC": "וְ ק֣וֹל כִּנּוֹרַ֔יִ ךְ לֹ֥א יִשָּׁמַ֖ע עֽוֹד",
+        "LXX": null,
+        "VUL": "et sónitus citharárum tuárum non audiétur ámplius .",
+        "SP": null,
+        "KJV": "and the sound of thy harps shall be no more heard .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will make thee like the top of a rock",
+      "traditions": {
+        "WLC": "וּ נְתַתִּ֞י ךְ לִ צְחִ֣יחַ סֶ֗לַע",
+        "LXX": null,
+        "VUL": "Et dabo te in limpidíssimam petram ,",
+        "SP": null,
+        "KJV": "And I will make thee like the top of a rock :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt be [ a place ] to spread nets upon",
+      "traditions": {
+        "WLC": "מִשְׁטַ֤ח חֲרָמִים֙ תִּֽהְיֶ֔ה",
+        "LXX": null,
+        "VUL": "siccátio sagenárum eris ,",
+        "SP": null,
+        "KJV": "thou shalt be [ a place ] to spread nets upon ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou shalt be built no more",
+      "traditions": {
+        "WLC": "לֹ֥א תִבָּנֶ֖ה ע֑וֹד",
+        "LXX": null,
+        "VUL": "nec ædificáberis ultra :",
+        "SP": null,
+        "KJV": "thou shalt be built no more :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for I the LORD have spoken [ it ] , saith the Lord GOD",
+      "traditions": {
+        "WLC": "כִּ֣י אֲנִ֤י יְהוָה֙ דִּבַּ֔רְתִּי נְאֻ֖ם אֲדֹנָ֥ י יְהוִֽה",
+        "LXX": null,
+        "VUL": "quia ego locútus sum , ait Dóminus Deus .",
+        "SP": null,
+        "KJV": "for I the LORD have spoken [ it ] , saith the Lord GOD .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then all the princes of the sea shall come down from their thrones",
+      "traditions": {
+        "WLC": "וְֽ יָרְד֞וּ מֵ עַ֣ל כִּסְאוֹתָ֗ ם כֹּ֚ל נְשִׂיאֵ֣י הַ יָּ֔ם",
+        "LXX": null,
+        "VUL": "Et descéndent de sédibus suis omnes príncipes maris :",
+        "SP": null,
+        "KJV": "Then all the princes of the sea shall come down from their thrones ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and lay away their robes , and put off their broidered garments",
+      "traditions": {
+        "WLC": "וְ הֵסִ֨ירוּ֙ אֶת מְעִ֣ילֵי הֶ֔ם וְ אֶת בִּגְדֵ֥י רִקְמָתָ֖ ם יִפְשֹׁ֑טוּ",
+        "LXX": null,
+        "VUL": "et áuferent exúvias suas , et vestiménta sua vária abícient ,",
+        "SP": null,
+        "KJV": "and lay away their robes , and put off their broidered garments :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they shall clothe themselves with trembling",
+      "traditions": {
+        "WLC": "חֲרָד֤וֹת יִלְבָּ֨שׁוּ֙",
+        "LXX": null,
+        "VUL": "et induéntur stupóre :",
+        "SP": null,
+        "KJV": "they shall clothe themselves with trembling ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "they shall sit upon the ground",
+      "traditions": {
+        "WLC": "עַל הָ אָ֣רֶץ יֵשֵׁ֔בוּ",
+        "LXX": null,
+        "VUL": "in terra sedébunt ,",
+        "SP": null,
+        "KJV": "they shall sit upon the ground ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and shall tremble at [ every ] moment , and be astonished at thee",
+      "traditions": {
+        "WLC": "וְ חָֽרְדוּ֙ לִ רְגָעִ֔ים וְ שָׁמְמ֖וּ עָלָֽיִ ךְ",
+        "LXX": null,
+        "VUL": "et attóniti super repentíno casu tuo admirabúntur .",
+        "SP": null,
+        "KJV": "and shall tremble at [ every ] moment , and be astonished at thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they shall take up a lamentation for thee",
+      "traditions": {
+        "WLC": "וְ נָשְׂא֨וּ עָלַ֤יִ ךְ קִינָה֙",
+        "LXX": null,
+        "VUL": "Et assuméntes super te laméntum ,",
+        "SP": null,
+        "KJV": "And they shall take up a lamentation for thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and say to thee , How art thou destroyed , [ that wast ] inhabited of seafaring men",
+      "traditions": {
+        "WLC": "וְ אָ֣מְרוּ לָ֔ ךְ אֵ֣יךְ אָבַ֔דְתְּ נוֹשֶׁ֖בֶת מִ יַּמִּ֑ים",
+        "LXX": null,
+        "VUL": "dicent tibi : Quómodo perísti , quæ hábitas in mari ,",
+        "SP": null,
+        "KJV": "and say to thee , How art thou destroyed , [ that wast ] inhabited of seafaring men ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the renowned city , which wast strong in the sea , she and her inhabitants",
+      "traditions": {
+        "WLC": "הָ עִ֣יר הַ הֻלָּ֗לָה אֲשֶׁר֩ הָיְתָ֨ה חֲזָקָ֤ה בַ יָּם֙ הִ֣יא וְ יֹשְׁבֶ֔י הָ",
+        "LXX": null,
+        "VUL": "urbs ínclyta , quæ fuísti fortis in mari cum habitatóribus tuis ,",
+        "SP": null,
+        "KJV": "the renowned city , which wast strong in the sea , she and her inhabitants ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "which cause their terror [ to be ] on all that haunt it",
+      "traditions": {
+        "WLC": "אֲשֶׁר נָתְנ֥וּ חִתִּיתָ֖ ם לְ כָל יוֹשְׁבֶֽי הָ",
+        "LXX": null,
+        "VUL": "quos formidábant univérsi ?",
+        "SP": null,
+        "KJV": "which cause their terror [ to be ] on all that haunt it !",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now shall the isles tremble in the day of thy fall",
+      "traditions": {
+        "WLC": "עַתָּה֙ יֶחְרְד֣וּ הָֽ אִיִּ֔ן י֖וֹם מַפַּלְתֵּ֑ ךְ",
+        "LXX": null,
+        "VUL": "Nunc stupébunt naves in die pavóris tui :",
+        "SP": null,
+        "KJV": "Now shall the isles tremble in the day of thy fall ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "yea , the isles that [ are ] in the sea shall be troubled at thy departure",
+      "traditions": {
+        "WLC": "וְ נִבְהֲל֛וּ הָ אִיִּ֥ים אֲשֶׁר בַּ יָּ֖ם מִ צֵּאתֵֽ ךְ",
+        "LXX": null,
+        "VUL": "et turbabúntur ínsulæ in mari , eo quod nullus egrediátur ex te .",
+        "SP": null,
+        "KJV": "yea , the isles that [ are ] in the sea shall be troubled at thy departure .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thus saith the Lord GOD",
+      "traditions": {
+        "WLC": "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣ י יְהוִ֔ה",
+        "LXX": null,
+        "VUL": "Quia hæc dicit Dóminus Deus :",
+        "SP": null,
+        "KJV": "For thus saith the Lord GOD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "When I shall make thee a desolate city , like the cities that are not inhabited",
+      "traditions": {
+        "WLC": "בְּ תִתִּ֤ י אֹתָ ךְ֙ עִ֣יר נֶחֱרֶ֔בֶת כֶּ עָרִ֖ים אֲשֶׁ֣ר לֹֽא נוֹשָׁ֑בוּ",
+        "LXX": null,
+        "VUL": "Cum dédero te urbem desolátam sicut civitátes , quæ non habitántur :",
+        "SP": null,
+        "KJV": "When I shall make thee a desolate city , like the cities that are not inhabited ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "when I shall bring up the deep upon thee , and great waters shall cover thee",
+      "traditions": {
+        "WLC": "בְּ הַעֲל֤וֹת עָלַ֨יִ ךְ֙ אֶת תְּה֔וֹם וְ כִסּ֖וּ ךְ הַ מַּ֥יִם הָ רַבִּֽים",
+        "LXX": null,
+        "VUL": "et addúxero super te abýssum , et operúerint te aquæ multæ :",
+        "SP": null,
+        "KJV": "when I shall bring up the deep upon thee , and great waters shall cover thee ;",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "When I shall bring thee down with them that descend into the pit , with the people of old time",
+      "traditions": {
+        "WLC": "וְ הוֹרַדְתִּי ךְ֩ אֶת י֨וֹרְדֵי ב֜וֹר אֶל עַ֣ם עוֹלָ֗ם",
+        "LXX": null,
+        "VUL": "et detráxero te cum his , qui descéndunt in lacum ad pópulum sempitérnum ,",
+        "SP": null,
+        "KJV": "When I shall bring thee down with them that descend into the pit , with the people of old time ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall set thee in the low parts of the earth , in places desolate of old , with them that go down to the pit",
+      "traditions": {
+        "WLC": "וְ֠ הוֹשַׁבְתִּי ךְ בְּ אֶ֨רֶץ תַּחְתִּיּ֜וֹת כָּ חֳרָב֤וֹת מֵֽ עוֹלָם֙ אֶת י֣וֹרְדֵי ב֔וֹר",
+        "LXX": null,
+        "VUL": "et collocávero te in terra novíssima sicut solitúdines véteres cum his , qui deducúntur in lacum ,",
+        "SP": null,
+        "KJV": "and shall set thee in the low parts of the earth , in places desolate of old , with them that go down to the pit ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that thou be not inhabited",
+      "traditions": {
+        "WLC": "לְמַ֖עַן לֹ֣א תֵשֵׁ֑בִי",
+        "LXX": null,
+        "VUL": "ut non habitéris :",
+        "SP": null,
+        "KJV": "that thou be not inhabited ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and I shall set glory in the land of the living",
+      "traditions": {
+        "WLC": "וְ נָתַתִּ֥י צְבִ֖י בְּ אֶ֥רֶץ חַיִּֽים",
+        "LXX": null,
+        "VUL": "porro cum dédero glóriam in terra vivéntium ,",
+        "SP": null,
+        "KJV": "and I shall set glory in the land of the living ;",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will make thee a terror",
+      "traditions": {
+        "WLC": "בַּלָּה֥וֹת אֶתְּנֵ֖ ךְ",
+        "LXX": "ἀπώλειάν σε δώσω ,",
+        "VUL": "in níhilum rédigam te ,",
+        "SP": null,
+        "KJV": "I will make thee a terror ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou [ shalt be ] no [ more ]",
+      "traditions": {
+        "WLC": "וְ אֵינֵ֑ ךְ",
+        "LXX": "καὶ οὐχ ὑπάρξεις ἔτι εἰς τὸν αἰῶνα ,",
+        "VUL": "et non eris ,",
+        "SP": null,
+        "KJV": "and thou [ shalt be ] no [ more ] :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "though thou be sought for , yet shalt thou never be found again",
+      "traditions": {
+        "WLC": "וּֽ תְבֻקְשִׁ֗י וְ לֹֽא תִמָּצְאִ֥י עוֹד֙ לְ עוֹלָ֔ם",
+        "LXX": null,
+        "VUL": "et requisíta non inveniéris ultra in sempitérnum ,",
+        "SP": null,
+        "KJV": "though thou be sought for , yet shalt thou never be found again ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "saith the Lord GOD",
+      "traditions": {
+        "WLC": "נְאֻ֖ם אֲדֹנָ֥ י יְהֹוִֽה",
+        "LXX": "λέγει κύριος Κύριος .",
+        "VUL": "dicit Dóminus Deus .",
+        "SP": null,
+        "KJV": "saith the Lord GOD .",
+        "DSS": null
+      }
+    }
+  ]
+}

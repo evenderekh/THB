@@ -1,0 +1,694 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , thou [ art ] fair , my love",
+      "traditions": {
+        "WLC": "הִנָּ֨ ךְ יָפָ֤ה רַעְיָתִ י֙",
+        "LXX": "Ἰδοὺ εἶ καλὴ πλησίον μου ,",
+        "VUL": "Quam pulchra es amíca mea ,",
+        "SP": null,
+        "KJV": "Behold , thou [ art ] fair , my love ;",
+        "DSS": "[4Q106] [ הנ׳ך יפה רעית׳י ] / [4Q107] הנ׳ך יפה ר ]ע##이#?ת##׳י#? ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "behold , thou [ art ] fair",
+      "traditions": {
+        "WLC": "הִנָּ֣ ךְ יָפָ֔ה",
+        "LXX": "ἰδοὺ εἶ καλή .",
+        "VUL": "quam pulchra es !",
+        "SP": null,
+        "KJV": "behold , thou [ art ] fair ;",
+        "DSS": "[4Q106] הנ׳ך יפ ]ה / [4Q107] [ הנ ]׳ך#[ יפה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou [ hast ] doves ’ eyes within thy locks",
+      "traditions": {
+        "WLC": "עֵינַ֣יִ ךְ יוֹנִ֔ים מִ בַּ֖עַד לְ צַמָּתֵ֑ ךְ",
+        "LXX": "ὀφθαλμοί σου περιστεραὶ ἐκτὸς τῆς σιωπήσεώς σου .",
+        "VUL": "Oculi tui columbárum , absque eo quod intrínsecus latet .",
+        "SP": null,
+        "KJV": "thou [ hast ] doves ’ eyes within thy locks :",
+        "DSS": "[4Q106] עיני׳ך י?ו?נ?י?ם## [ מ ] ב##ע##ד## ל צ#מ#ת׳ך / [4Q107] עיני׳ך יונים  ]מ## ב##ע##ד##[  ל צמת׳ך ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "thy hair [ is ] as a flock of goats , that appear from mount Gilead",
+      "traditions": {
+        "WLC": "שַׂעְרֵ ךְ֙ כְּ עֵ֣דֶר הָֽ עִזִּ֔ים שֶׁ גָּלְשׁ֖וּ מֵ הַ֥ר גִּלְעָֽד",
+        "LXX": "τρίχωμά σου ὡς ἀγέλαι τῶν αἰγῶν αἳ ἀπεκαλύφθησαν ἀπὸ τοῦ Γαλαάδ .",
+        "VUL": "Capílli tui sicut greges caprárum , quæ ascendérunt de monte Gálaad .",
+        "SP": null,
+        "KJV": "thy hair [ is ] as a flock of goats , that appear from mount Gilead .",
+        "DSS": "[4Q106] כ עדר [ ה עזים שער׳ך ש גלש ]ו#?ת מ הר גלעד ׃ / [4Q107] שער׳ך כ ע#[ ד ]ר# ה## ע#[ זים ש גלשו מן הר גלעד ] ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy teeth [ are ] like a flock [ of sheep that are even ] shorn",
+      "traditions": {
+        "WLC": "שִׁנַּ֨יִ ךְ֙ כְּ עֵ֣דֶר הַ קְּצוּב֔וֹת",
+        "LXX": "ὀδόντες σου ὡς ἀγέλαι τῶν κεκαρμένων",
+        "VUL": "Dentes tui sicut greges tonsárum ,",
+        "SP": null,
+        "KJV": "Thy teeth [ are ] like a flock [ of sheep that are even ] shorn ,",
+        "DSS": "[4Q106] כ ע#ד##ר## ה קצ##ו#?ב##ו#?ת## ש##נ#?י#?׳ך / [4Q107] שני׳ך כ עדר ה ק#צ##[ ובות"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which came up from the washing",
+      "traditions": {
+        "WLC": "שֶׁ עָל֖וּ מִן הָ רַחְצָ֑ה",
+        "LXX": "αἳ ἀνέβησαν ἀπὸ τοῦ λουτροῦ ,",
+        "VUL": "quæ ascendérunt de lavácro :",
+        "SP": null,
+        "KJV": "which came up from the washing ;",
+        "DSS": "[4Q106] [ מן ה רחצה / [4Q107] ש עלו  ]מ##ן#? ה## [ רחצה ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "whereof every one bear twins",
+      "traditions": {
+        "WLC": "שֶׁ כֻּלָּ ם֙ מַתְאִימ֔וֹת",
+        "LXX": "αἱ πᾶσαι διδυμεύουσαι ,",
+        "VUL": "omnes geméllis fœ́tibus ,",
+        "SP": null,
+        "KJV": "whereof every one bear twins ,",
+        "DSS": "[4Q106] ש כל׳ם מת ]א#이מות / [4Q107] ש כל׳ם מתאמות"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and none [ is ] barren among them",
+      "traditions": {
+        "WLC": "וְ שַׁכֻּלָ֖ה אֵ֥ין בָּ הֶֽם",
+        "LXX": "ἀτεκνοῦσα οὐκ ἔστιν ἐν αὐταῖς .",
+        "VUL": "et stérilis non est inter eas .",
+        "SP": null,
+        "KJV": "and none [ is ] barren among them .",
+        "DSS": "[4Q106] ו שכלה אינ׳ה ב׳הם ׃ / [4Q107] ו [ שכלה אין  ]ב׳הם ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy lips [ are ] like a thread of scarlet",
+      "traditions": {
+        "WLC": "כְּ ח֤וּט הַ שָּׁנִי֙ שִׂפְתֹתַ֔יִ ךְ",
+        "LXX": "ὡς σπαρτίον τὸ κόκκινον χείλη σου ,",
+        "VUL": "Sicut vitta coccínea lábia tua ,",
+        "SP": null,
+        "KJV": "Thy lips [ are ] like a thread of scarlet ,",
+        "DSS": "[4Q106] כ חוט [ ה ] שני [ שפתתי׳ך / [4Q107] כ חוט ה שני שפתותי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thy speech [ is ] comely",
+      "traditions": {
+        "WLC": "וּ מִדְבָּרֵ֖י ךְ נָאוֶ֑ה",
+        "LXX": "καὶ ἡ λαλιά σου ὡραία ·",
+        "VUL": "et elóquium tuum dulce .",
+        "SP": null,
+        "KJV": "and thy speech [ is ] comely :",
+        "DSS": "[4Q106] ו מדברי׳ך נאוה / [4Q107] ו מדבר׳ך נאוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thy temples [ are ] like a piece of a pomegranate within thy locks",
+      "traditions": {
+        "WLC": "כְּ פֶ֤לַח הָֽ רִמּוֹן֙ רַקָּתֵ֔ ךְ מִ בַּ֖עַד לְ צַמָּתֵֽ ךְ",
+        "LXX": "ὡς λέπυρον ῥόας μῆλόν σου ἐκτὸς τῆς σιωπήσεώς σου .",
+        "VUL": "Sicut fragmen mali púnici , ita genæ tuæ , absque eo quod intrínsecus latet .",
+        "SP": null,
+        "KJV": "thy temples [ are ] like a piece of a pomegranate within thy locks .",
+        "DSS": "[4Q106] כ## פ##לח ה# רמון מזקנת׳ך מ בע#ד ל צ#מ[ ת ]׳ך# ׃ / [4Q107] כ פלח ה# רמון רקת׳ך ו מ בעד ל# צ#מ##ת׳ך ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy neck [ is ] like the tower of David builded for an armoury",
+      "traditions": {
+        "WLC": "כְּ מִגְדַּ֤ל דָּוִיד֙ צַוָּארֵ֔ ךְ בָּנ֖וּי לְ תַלְפִּיּ֑וֹת",
+        "LXX": "ὡς πύργος Δαυεὶδ τράχηλός σου , ὁ ᾠκοδομημένος εἰς Θαλπιώθ .",
+        "VUL": "Sicut turris David collum tuum , quæ ædificáta est cum propugnáculis :",
+        "SP": null,
+        "KJV": "Thy neck [ is ] like the tower of David builded for an armoury ,",
+        "DSS": "[4Q106] [ כ מגדל דויד צואר׳ך בנוי ל תלפיות ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "whereon there hang a thousand bucklers",
+      "traditions": {
+        "WLC": "אֶ֤לֶף הַ מָּגֵן֙ תָּל֣וּי עָלָ֔י",
+        "LXX": "χίλιοι θυρεοὶ κρέμανται ἐπ᾽ αὐτόν ,",
+        "VUL": "mille clýpei pendent ex ea ,",
+        "SP": null,
+        "KJV": "whereon there hang a thousand bucklers ,",
+        "DSS": "[4Q106] אלף ה מגן תלוי ב׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "all shields of mighty men",
+      "traditions": {
+        "WLC": "ו כֹּ֖ל שִׁלְטֵ֥י הַ גִּבּוֹרִֽים",
+        "LXX": "πᾶσαι βολίδες τῶν δυνατῶν .",
+        "VUL": "omnis armatúra fórtium .",
+        "SP": null,
+        "KJV": "all shields of mighty men .",
+        "DSS": "[4Q106] כל שלטי ה ג#?בורים ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy two breasts [ are ] like two young roes that are twins",
+      "traditions": {
+        "WLC": "שְׁנֵ֥י שָׁדַ֛יִ ךְ כִּ שְׁנֵ֥י עֳפָרִ֖ים תְּאוֹמֵ֣י צְבִיָּ֑ה",
+        "LXX": "δύο μαστοί σου ὡς δύο νεβροὶ δίδυμοι δορκάδος",
+        "VUL": "Duo úbera tua , sicut duo hínnuli cápreæ gemélli ,",
+        "SP": null,
+        "KJV": "Thy two breasts [ are ] like two young roes that are twins ,",
+        "DSS": "[4Q106] [ שני שדי׳ך כ שני עפרים תאומי צביה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which feed among the lilies",
+      "traditions": {
+        "WLC": "הָ רוֹעִ֖ים בַּ שּׁוֹשַׁנִּֽים",
+        "LXX": "οἱ νεμόμενοι ἐν κρίνοις .",
+        "VUL": "qui pascúntur in líliis .",
+        "SP": null,
+        "KJV": "which feed among the lilies .",
+        "DSS": "[4Q106] # רעים ב שושנים ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Until the day break",
+      "traditions": {
+        "WLC": "עַ֤ד שֶׁ יָּפ֨וּחַ֙ הַ יּ֔וֹם",
+        "LXX": "ἕως οὗ διαπνεύσῃ ἡ ἡμέρα",
+        "VUL": "Donec aspíret dies ,",
+        "SP": null,
+        "KJV": "Until the day break ,",
+        "DSS": "[4Q106] עד ש## י?פוח [ ה יום"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the shadows flee away",
+      "traditions": {
+        "WLC": "וְ נָ֖סוּ הַ צְּלָלִ֑ים",
+        "LXX": "καὶ κινηθῶσιν αἱ σκιαί ,",
+        "VUL": "et inclinéntur umbræ ,",
+        "SP": null,
+        "KJV": "and the shadows flee away ,",
+        "DSS": "[4Q106] ו נסו ה צללים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I will get me to the mountain of myrrh",
+      "traditions": {
+        "WLC": "אֵ֤לֶךְ לִ י֙ אֶל הַ֣ר הַ מּ֔וֹר",
+        "LXX": "πορεύσομαι ἐμαυτῷ πρὸς τὸ ὄρος τῆς σμύρνης",
+        "VUL": "vadam ad montem myrrhæ ,",
+        "SP": null,
+        "KJV": "I will get me to the mountain of myrrh ,",
+        "DSS": "[4Q106] אלך ל׳י אל הר ה מו ]ר#"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and to the hill of frankincense",
+      "traditions": {
+        "WLC": "וְ אֶל גִּבְעַ֖ת הַ לְּבוֹנָֽה",
+        "LXX": "καὶ πρὸς τὸν βουνὸν τοῦ Λιβάνου .",
+        "VUL": "et ad collem thuris .",
+        "SP": null,
+        "KJV": "and to the hill of frankincense .",
+        "DSS": "[4Q106] אל גבעת ה לבונה ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou [ art ] all fair , my love",
+      "traditions": {
+        "WLC": "כֻּלָּ֤ ךְ יָפָה֙ רַעְיָתִ֔ י",
+        "LXX": "ὅλη καλὴ εἶ πλησίον μου ,",
+        "VUL": "Tota pulchra es amíca mea ,",
+        "SP": null,
+        "KJV": "Thou [ art ] all fair , my love ; [",
+        "DSS": "[4Q106] כל׳[ ך יפה רעית׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "there is no spot in thee",
+      "traditions": {
+        "WLC": "וּ מ֖וּם אֵ֥ין בָּֽ ךְ",
+        "LXX": "καὶ μῶμος οὐκ ἔστιν ἐν σοί .",
+        "VUL": "et mácula non est in te .",
+        "SP": null,
+        "KJV": "there is ] no spot in thee .",
+        "DSS": "[4Q106] ו מום אין ב׳ך ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Come with me from Lebanon , [ my ] spouse",
+      "traditions": {
+        "WLC": "אִתִּ֤ י מִ לְּבָנוֹן֙ כַּלָּ֔ה",
+        "LXX": "δεῦρο ἀπὸ Λιβάνου , νύμφη ,",
+        "VUL": "Veni de Líbano sponsa mea :",
+        "SP": null,
+        "KJV": "Come with me from Lebanon , [ my ] spouse ,",
+        "DSS": "[4Q107] את מן לבנון כלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with me from Lebanon",
+      "traditions": {
+        "WLC": "אִתִּ֖ י מִ לְּבָנ֣וֹן תָּב֑וֹאִי",
+        "LXX": "δεῦρο ἀπὸ Λιβάνου ·",
+        "VUL": "veni de Líbano , veni :",
+        "SP": null,
+        "KJV": "with me from Lebanon :",
+        "DSS": "[4Q107] את מן לבנון"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "look from the top of Amana",
+      "traditions": {
+        "WLC": "תָּשׁ֣וּרִי מֵ רֹ֣אשׁ אֲמָנָ֗ה",
+        "LXX": "ἐλεύσῃ καὶ διελεύσῃ ἀπὸ ἀρχῆς πίστεως ,",
+        "VUL": "coronáberis de cápite Amana ,",
+        "SP": null,
+        "KJV": "look from the top of Amana ,",
+        "DSS": "[4Q107] אבאי תשורי מן ראשי אומנון"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "from the top of Shenir and Hermon",
+      "traditions": {
+        "WLC": "מֵ רֹ֤אשׁ שְׂנִיר֙ וְ חֶרְמ֔וֹן",
+        "LXX": "ἀπὸ κεφαλῆς Σανεὶρ καὶ Ἑρμών ,",
+        "VUL": "de vértice Sanir et Hermon ,",
+        "SP": null,
+        "KJV": "from the top of Shenir and Hermon ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "from the lions ’ dens",
+      "traditions": {
+        "WLC": "מִ מְּעֹנ֣וֹת אֲרָי֔וֹת",
+        "LXX": "ἀπὸ μανδρῶν λεόντων ,",
+        "VUL": "de cubílibus leónum ,",
+        "SP": null,
+        "KJV": "from the lions ’ dens ,",
+        "DSS": "[4Q107] מ מענ?ות אר#이#?ו#?ת##"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "from the mountains of the leopards",
+      "traditions": {
+        "WLC": "מֵֽ הַרְרֵ֖י נְמֵרִֽים",
+        "LXX": "ἀπὸ ὀρέων παρδάλεων .",
+        "VUL": "de móntibus pardórum .",
+        "SP": null,
+        "KJV": "from the mountains of the leopards .",
+        "DSS": "[4Q107] מן הררי נמרים ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou hast ravished my heart , my sister , [ my ] spouse",
+      "traditions": {
+        "WLC": "לִבַּבְתִּ֖ נִי אֲחֹתִ֣ י כַלָּ֑ה",
+        "LXX": "ἐκαρδίωσας ἡμᾶς , ἀδελφή μου νύμφη ·",
+        "VUL": "Vulnerásti cor meum soror mea sponsa ,",
+        "SP": null,
+        "KJV": "Thou hast ravished my heart , my sister , [ my ] spouse ;",
+        "DSS": "[4Q107] כלה / לבבת׳ני אח##ו#?ת##׳이#? "
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou hast ravished my heart with one of thine eyes",
+      "traditions": {
+        "WLC": "לִבַּבְתִּ֨י נִי֙ ב אחד מֵ עֵינַ֔יִ ךְ",
+        "LXX": "ἐκαρδίωσας ἡμᾶς ἑνὶ ἀπὸ ὀφθαλμῶν σου ,",
+        "VUL": "vulnerásti cor meum in uno oculórum tuórum ,",
+        "SP": null,
+        "KJV": "thou hast ravished my heart with one of thine eyes ,",
+        "DSS": "[4Q107] לבבת׳ני ב אחד מ## ע##이נ?이?׳ך##"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "with one chain of thy neck",
+      "traditions": {
+        "WLC": "בְּ אַחַ֥ד עֲנָ֖ק מִ צַּוְּרֹנָֽיִ ךְ",
+        "LXX": "ἐν μιᾷ , ἐν θέματι τραχήλων σου .",
+        "VUL": "et in uno crine colli tui .",
+        "SP": null,
+        "KJV": "with one chain of thy neck .",
+        "DSS": "[4Q107] ב אחד[  ענק ] [ מ צו ]ר##נ#?이׳ך ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "How fair is thy love , my sister , [ my ] spouse !",
+      "traditions": {
+        "WLC": "מַה יָּפ֥וּ דֹדַ֖יִ ךְ אֲחֹתִ֣ י כַלָּ֑ה",
+        "LXX": "τί ἐκαλλιώθησαν μαστοί σου",
+        "VUL": "Quam pulchræ sunt mammæ tuæ soror mea sponsa !",
+        "SP": null,
+        "KJV": "How fair is thy love , my sister , [ my ] spouse !",
+        "DSS": "[4Q107] מה יפו דדי׳ך אחות׳이 ה# # # ו?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "how much better is thy love than wine !",
+      "traditions": {
+        "WLC": "מַה טֹּ֤בוּ דֹדַ֨יִ ךְ֙ מִ יַּ֔יִן",
+        "LXX": "ἀπὸ οἴνου ,",
+        "VUL": "pulchrióra sunt úbera tua vino ,",
+        "SP": null,
+        "KJV": "how much better is thy love than wine !",
+        "DSS": "[4Q107] מה טב##[ ו ] דדי׳ך מן יין"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the smell of thine ointments than all spices !",
+      "traditions": {
+        "WLC": "וְ רֵ֥יחַ שְׁמָנַ֖יִ ךְ מִ כָּל בְּשָׂמִֽים",
+        "LXX": "καὶ ὀσμὴ ἱματίων σου ὑπὲρ πάντα ἀρώματα ;",
+        "VUL": "et odor unguentórum tuórum super ómnia arómata .",
+        "SP": null,
+        "KJV": "and the smell of thine ointments than all spices !",
+        "DSS": "[4Q107] ו ר##[ 이ח ] שמנ׳ך מן כל בשמין ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy lips , O [ my ] spouse , drop [ as ] the honeycomb",
+      "traditions": {
+        "WLC": "נֹ֛פֶת תִּטֹּ֥פְנָה שִׂפְתוֹתַ֖יִ ךְ כַּלָּ֑ה",
+        "LXX": "κηρίον ἀποστάζουσιν χείλη σου , νύμφη ·",
+        "VUL": "Favus distíllans lábia tua sponsa :",
+        "SP": null,
+        "KJV": "Thy lips , O [ my ] spouse , drop [ as ] the honeycomb :",
+        "DSS": "נפת תטפנה שפתותי׳ך אחות׳י כלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "honey and milk [ are ] under thy tongue",
+      "traditions": {
+        "WLC": "דְּבַ֤שׁ וְ חָלָב֙ תַּ֣חַת לְשׁוֹנֵ֔ ךְ",
+        "LXX": "μέλι καὶ γάλα ὑπὸ τὴν γλῶσσάν σου ,",
+        "VUL": "mel et lac sub lingua tua :",
+        "SP": null,
+        "KJV": "honey and milk [ are ] under thy tongue ;",
+        "DSS": "דבש [ ו חלב ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the smell of thy garments [ is ] like the smell of Lebanon",
+      "traditions": {
+        "WLC": "וְ רֵ֥יחַ שַׂלְמֹתַ֖יִ ךְ כְּ רֵ֥יחַ לְבָנֽוֹן",
+        "LXX": "καὶ ὀσμὴ ἱματίων σου ὡς ὀσμὴ Λιβάνου .",
+        "VUL": "et odor vestimentórum tuórum sicut odor thuris .",
+        "SP": null,
+        "KJV": "and the smell of thy garments [ is ] like the smell of Lebanon .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "A garden inclosed [ is ] my sister , [ my ] spouse",
+      "traditions": {
+        "WLC": "גַּ֥ן נָע֖וּל אֲחֹתִ֣ י כַלָּ֑ה",
+        "LXX": "κῆπος κεκλεισμένος ἀδελφή μου νύμφη ,",
+        "VUL": "Hortus conclúsus soror mea sponsa ,",
+        "SP": null,
+        "KJV": "A garden inclosed [ is ] my sister , [ my ] spouse ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": "גַּ֥ל נָע֖וּל",
+        "LXX": "κῆπος κεκλεισμένος ,",
+        "VUL": "hortus conclúsus ,",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a spring shut up , a fountain sealed",
+      "traditions": {
+        "WLC": "מַעְיָ֥ן חָתֽוּם",
+        "LXX": "πηγὴ ἐσφραγισμένη ·",
+        "VUL": "fons signátus .",
+        "SP": null,
+        "KJV": "a spring shut up , a fountain sealed .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy plants [ are ] an orchard of pomegranates",
+      "traditions": {
+        "WLC": "שְׁלָחַ֨יִ ךְ֙ פַּרְדֵּ֣ס רִמּוֹנִ֔ים",
+        "LXX": "ἀποστολαί σου παράδεισος",
+        "VUL": "Emissiónes tuæ paradísus malórum punicórum",
+        "SP": null,
+        "KJV": "Thy plants [ are ] an orchard of pomegranates ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with pleasant fruits",
+      "traditions": {
+        "WLC": "עִ֖ם פְּרִ֣י מְגָדִ֑ים",
+        "LXX": "μετὰ καρποῦ ἀκροδρύων ,",
+        "VUL": "cum pomórum frúctibus .",
+        "SP": null,
+        "KJV": "with pleasant fruits ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "camphire , with spikenard",
+      "traditions": {
+        "WLC": "כְּפָרִ֖ים עִם נְרָדִֽים",
+        "LXX": "κύπροι μετὰ νάρδων ·",
+        "VUL": "Cypri cum nardo ,",
+        "SP": null,
+        "KJV": "camphire , with spikenard ,",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Spikenard and saffron",
+      "traditions": {
+        "WLC": "נֵ֣רְדְּ וְ כַרְכֹּ֗ם",
+        "LXX": "νάρδος καὶ κρόκος ,",
+        "VUL": "nardus et crocus ,",
+        "SP": null,
+        "KJV": "Spikenard and saffron ;",
+        "DSS": "[ ו כרכם ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "calamus and cinnamon , with all trees of frankincense",
+      "traditions": {
+        "WLC": "קָנֶה֙ וְ קִנָּמ֔וֹן עִ֖ם כָּל עֲצֵ֣י לְבוֹנָ֑ה",
+        "LXX": "κάλαμος καὶ κιννάμωμον μετὰ πάντων ξύλων τοῦ Λιβάνου ,",
+        "VUL": "fístula et cinnamómum cum univérsis lignis Líbani ,",
+        "SP": null,
+        "KJV": "calamus and cinnamon , with all trees of frankincense ;",
+        "DSS": "קנה ו קנ]מ#[ ון עם כל עצי לבונה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "myrrh and aloes",
+      "traditions": {
+        "WLC": "מֹ֚ר וַ אֲהָל֔וֹת",
+        "LXX": "σμύρνα ἀλὼθ",
+        "VUL": "myrrha et áloe",
+        "SP": null,
+        "KJV": "myrrh and aloes ,",
+        "DSS": "מר ] [ ו אהלות"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "with all the chief spices",
+      "traditions": {
+        "WLC": "עִ֖ם כָּל רָאשֵׁ֥י בְשָׂמִֽים",
+        "LXX": "μετὰ πάντων πρώτων μύρων ·",
+        "VUL": "cum ómnibus primis unguéntis .",
+        "SP": null,
+        "KJV": "with all the chief spices :",
+        "DSS": "עם כל  ]ר##אשי בש#[ מין"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "A fountain of gardens",
+      "traditions": {
+        "WLC": "מַעְיַ֣ן גַּנִּ֔ים",
+        "LXX": "πηγὴ κήπου",
+        "VUL": "Fons hortórum :",
+        "SP": null,
+        "KJV": "A fountain of gardens ,",
+        "DSS": "מעין גנים ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "a well of living waters",
+      "traditions": {
+        "WLC": "בְּאֵ֖ר מַ֣יִם חַיִּ֑ים",
+        "LXX": "καὶ φρέαρ ὕδατος ζῶντος",
+        "VUL": "púteus aquárum vivéntium ,",
+        "SP": null,
+        "KJV": "a well of living waters ,",
+        "DSS": "[ באר מים חיי ]ם#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and streams from Lebanon",
+      "traditions": {
+        "WLC": "וְ נֹזְלִ֖ים מִן לְבָנֽוֹן",
+        "LXX": "καὶ ῥοιζοῦντος ἀπὸ τοῦ Λιβάνου .",
+        "VUL": "quæ fluunt ímpetu de Líbano .",
+        "SP": null,
+        "KJV": "and streams from Lebanon .",
+        "DSS": "ו נוזלים מ[ ן לבנון"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Awake , O north wind",
+      "traditions": {
+        "WLC": "ע֤וּרִי צָפוֹן֙",
+        "LXX": "Ἐξεγέρθητι , βορρᾶ ·",
+        "VUL": "Surge áquilo ,",
+        "SP": null,
+        "KJV": "Awake , O north wind ;",
+        "DSS": "עורי צפון ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and come , thou south",
+      "traditions": {
+        "WLC": "וּ ב֣וֹאִי תֵימָ֔ן",
+        "LXX": "καὶ ἔρχου , νότε ,",
+        "VUL": "et veni auster :",
+        "SP": null,
+        "KJV": "and come , thou south ;",
+        "DSS": "[ ו בואי תימן ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "blow upon my garden",
+      "traditions": {
+        "WLC": "הָפִ֥יחִי גַנִּ֖ י",
+        "LXX": "καὶ διάπνευσον κῆπόν μου ,",
+        "VUL": "perfla hortum meum ,",
+        "SP": null,
+        "KJV": "blow upon my garden , [ that ]",
+        "DSS": "ה##פיח#י גנ׳י"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ that ] the spices thereof may flow out",
+      "traditions": {
+        "WLC": "יִזְּל֣וּ בְשָׂמָ֑י",
+        "LXX": "καὶ ῥευσάτωσαν ἀρώματά μου .",
+        "VUL": "et fluant arómata illíus .",
+        "SP": null,
+        "KJV": "the spices thereof may flow out .",
+        "DSS": "י#?[ זלו בשמי׳ו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "Let my beloved come into his garden , and eat his pleasant fruits",
+      "traditions": {
+        "WLC": "ו יָבֹ֤א דוֹדִ י֙ לְ גַנּ֔ וֹ וְ יֹאכַ֖ל פְּרִ֥י מְגָדָֽי ו",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "Let my beloved come into his garden , and eat his pleasant fruits .",
+        "DSS": "יבא דוד׳י ] [ ל ] ג#?נ׳ו ו יאכל מן ג[ די׳ו"
+      }
+    }
+  ]
+}

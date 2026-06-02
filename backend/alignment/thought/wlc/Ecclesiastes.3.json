@@ -1,0 +1,862 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "To every thing there is a season",
+      "traditions": {
+        "WLC": "לַ כֹּ֖ל זְמָ֑ן",
+        "LXX": "Τοῖς πᾶσιν ὁ χρόνος ,",
+        "VUL": "Omnia tempus habent ,",
+        "SP": null,
+        "KJV": "To every [ thing there is ] a season ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a time to every purpose under the heaven",
+      "traditions": {
+        "WLC": "וְ עֵ֥ת לְ כָל חֵ֖פֶץ תַּ֥חַת הַ שָּׁמָֽיִם",
+        "LXX": "καὶ καιρὸς παντὶ πράγματι τῷ ὑπὸ τὸν οὐρανόν .",
+        "VUL": "et suis spátiis tránseunt univérsa sub cælo .",
+        "SP": null,
+        "KJV": "and a time to every purpose under the heaven :",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "A time to be born",
+      "traditions": {
+        "WLC": "עֵ֥ת לָ לֶ֖דֶת",
+        "LXX": "καιρὸς τοῦ τεκεῖν",
+        "VUL": "Tempus nascéndi ,",
+        "SP": null,
+        "KJV": "A time to be born ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a time to die",
+      "traditions": {
+        "WLC": "וְ עֵ֣ת לָ מ֑וּת",
+        "LXX": "καὶ καιρὸς τοῦ ἀποθανεῖν ,",
+        "VUL": "et tempus moriéndi .",
+        "SP": null,
+        "KJV": "and a time to die ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a time to plant",
+      "traditions": {
+        "WLC": "עֵ֣ת לָ טַ֔עַת",
+        "LXX": "καιρὸς τοῦ φυτεῦσαι",
+        "VUL": "Tempus plantándi ,",
+        "SP": null,
+        "KJV": "a time to plant ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and a time to pluck up that which is planted",
+      "traditions": {
+        "WLC": "וְ עֵ֖ת לַ עֲק֥וֹר נָטֽוּעַ",
+        "LXX": "καὶ καιρὸς τοῦ ἐκτῖλαι πεφυτευμένον ,",
+        "VUL": "et tempus evelléndi quod plantátum est .",
+        "SP": null,
+        "KJV": "and a time to pluck up [ that which is ] planted ;",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "A time to kill",
+      "traditions": {
+        "WLC": "עֵ֤ת לַ הֲרוֹג֙",
+        "LXX": "καιρὸς τοῦ ἀποκτεῖναι",
+        "VUL": "Tempus occidéndi ,",
+        "SP": null,
+        "KJV": "A time to kill ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a time to heal",
+      "traditions": {
+        "WLC": "וְ עֵ֣ת לִ רְפּ֔וֹא",
+        "LXX": "καὶ καιρὸς τοῦ ἰάσασθαι ,",
+        "VUL": "et tempus sanándi .",
+        "SP": null,
+        "KJV": "and a time to heal ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a time to break down",
+      "traditions": {
+        "WLC": "עֵ֥ת לִ פְר֖וֹץ",
+        "LXX": "καιρὸς τοῦ καθελεῖν",
+        "VUL": "Tempus destruéndi ,",
+        "SP": null,
+        "KJV": "a time to break down ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and a time to build up",
+      "traditions": {
+        "WLC": "וְ עֵ֥ת לִ בְנֽוֹת",
+        "LXX": "καὶ καιρὸς τοῦ οἰκοδομεῖν ,",
+        "VUL": "et tempus ædificándi .",
+        "SP": null,
+        "KJV": "and a time to build up ;",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "A time to weep",
+      "traditions": {
+        "WLC": "עֵ֤ת לִ בְכּוֹת֙",
+        "LXX": "καιρὸς τοῦ κλαῦσαι",
+        "VUL": "Tempus flendi ,",
+        "SP": null,
+        "KJV": "A time to weep ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a time to laugh",
+      "traditions": {
+        "WLC": "וְ עֵ֣ת לִ שְׂח֔וֹק",
+        "LXX": "καὶ καιρὸς τοῦ γελάσαι ,",
+        "VUL": "et tempus ridéndi .",
+        "SP": null,
+        "KJV": "and a time to laugh ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a time to mourn",
+      "traditions": {
+        "WLC": "עֵ֥ת סְפ֖וֹד",
+        "LXX": "καιρὸς τοῦ κόψασθαι",
+        "VUL": "Tempus plangéndi ,",
+        "SP": null,
+        "KJV": "a time to mourn ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and a time to dance",
+      "traditions": {
+        "WLC": "וְ עֵ֥ת רְקֽוֹד",
+        "LXX": "καὶ καιρὸς τοῦ ὀρχήσασθαι ,",
+        "VUL": "et tempus saltándi .",
+        "SP": null,
+        "KJV": "and a time to dance ;",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "A time to cast away stones",
+      "traditions": {
+        "WLC": "עֵ֚ת לְ הַשְׁלִ֣יךְ אֲבָנִ֔ים",
+        "LXX": "καιρὸς τοῦ βαλεῖν λίθους",
+        "VUL": "Tempus spargéndi lápides ,",
+        "SP": null,
+        "KJV": "A time to cast away stones ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a time to gather stones together",
+      "traditions": {
+        "WLC": "וְ עֵ֖ת כְּנ֣וֹס אֲבָנִ֑ים",
+        "LXX": "καὶ καιρὸς τοῦ συναγαγεῖν λίθους ,",
+        "VUL": "et tempus colligéndi .",
+        "SP": null,
+        "KJV": "and a time to gather stones together ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a time to embrace",
+      "traditions": {
+        "WLC": "עֵ֣ת לַ חֲב֔וֹק",
+        "LXX": "καιρὸς τοῦ περιλαβεῖν",
+        "VUL": "Tempus amplexándi ,",
+        "SP": null,
+        "KJV": "a time to embrace ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and a time to refrain from embracing",
+      "traditions": {
+        "WLC": "וְ עֵ֖ת לִ רְחֹ֥ק מֵ חַבֵּֽק",
+        "LXX": "καὶ καιρὸς τοῦ μακρυνθῆναι ἀπὸ περιλήμψεως ,",
+        "VUL": "et tempus longe fíeri ab ampléxibus .",
+        "SP": null,
+        "KJV": "and a time to refrain from embracing ;",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "A time to get",
+      "traditions": {
+        "WLC": "עֵ֤ת לְ בַקֵּשׁ֙",
+        "LXX": "καιρὸς τοῦ ζητῆσαι",
+        "VUL": "Tempus acquiréndi ,",
+        "SP": null,
+        "KJV": "A time to get ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a time to lose",
+      "traditions": {
+        "WLC": "וְ עֵ֣ת לְ אַבֵּ֔ד",
+        "LXX": "καὶ καιρὸς τοῦ ἀπολέσαι ,",
+        "VUL": "et tempus perdéndi .",
+        "SP": null,
+        "KJV": "and a time to lose ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a time to keep",
+      "traditions": {
+        "WLC": "עֵ֥ת לִ שְׁמ֖וֹר",
+        "LXX": "καιρὸς τοῦ φυλάξαι",
+        "VUL": "Tempus custodiéndi ,",
+        "SP": null,
+        "KJV": "a time to keep ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and a time to cast away",
+      "traditions": {
+        "WLC": "וְ עֵ֥ת לְ הַשְׁלִֽיךְ",
+        "LXX": "καὶ καιρὸς τοῦ ἐκβαλεῖν ,",
+        "VUL": "et tempus abiciéndi .",
+        "SP": null,
+        "KJV": "and a time to cast away ;",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "A time to rend",
+      "traditions": {
+        "WLC": "עֵ֤ת לִ קְר֨וֹעַ֙",
+        "LXX": "καιρὸς τοῦ ῥῆξαι",
+        "VUL": "Tempus scindéndi ,",
+        "SP": null,
+        "KJV": "A time to rend ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a time to sew",
+      "traditions": {
+        "WLC": "וְ עֵ֣ת לִ תְפּ֔וֹר",
+        "LXX": "καὶ καιρὸς τοῦ ῥάψαι ,",
+        "VUL": "et tempus consuéndi .",
+        "SP": null,
+        "KJV": "and a time to sew ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a time to keep silence",
+      "traditions": {
+        "WLC": "עֵ֥ת לַ חֲשׁ֖וֹת",
+        "LXX": "καιρὸς τοῦ σιγᾷν",
+        "VUL": "Tempus tacéndi ,",
+        "SP": null,
+        "KJV": "a time to keep silence ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and a time to speak",
+      "traditions": {
+        "WLC": "וְ עֵ֥ת לְ דַבֵּֽר",
+        "LXX": "καὶ καιρὸς τοῦ λαλεῖν ,",
+        "VUL": "et tempus loquéndi .",
+        "SP": null,
+        "KJV": "and a time to speak ;",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "A time to love",
+      "traditions": {
+        "WLC": "עֵ֤ת לֶֽ אֱהֹב֙",
+        "LXX": "καιρὸς τοῦ φιλῆσαι",
+        "VUL": "Tempus dilectiónis ,",
+        "SP": null,
+        "KJV": "A time to love ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a time to hate",
+      "traditions": {
+        "WLC": "וְ עֵ֣ת לִ שְׂנֹ֔א",
+        "LXX": "καὶ καιρὸς τοῦ μισῆσαι ,",
+        "VUL": "et tempus ódii .",
+        "SP": null,
+        "KJV": "and a time to hate ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a time of war",
+      "traditions": {
+        "WLC": "עֵ֥ת מִלְחָמָ֖ה",
+        "LXX": "καιρὸς πολέμου",
+        "VUL": "Tempus belli ,",
+        "SP": null,
+        "KJV": "a time of war ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and a time of peace",
+      "traditions": {
+        "WLC": "וְ עֵ֥ת שָׁלֽוֹם",
+        "LXX": "καὶ καιρὸς εἰρήνης .",
+        "VUL": "et tempus pacis .",
+        "SP": null,
+        "KJV": "and a time of peace .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "What profit hath he that worketh in that wherein he laboureth",
+      "traditions": {
+        "WLC": "מַה יִּתְרוֹן֙ הָֽ עוֹשֶׂ֔ה בַּ אֲשֶׁ֖ר ה֥וּא עָמֵֽל",
+        "LXX": "τίς περισσεία τοῦ ποιοῦντος ἐν οἷς αὐτὸς μοχθεῖ ;",
+        "VUL": "Quid habet ámplius homo de labóre suo ?",
+        "SP": null,
+        "KJV": "What profit hath he that worketh in that wherein he laboureth ?",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "I have seen the travail",
+      "traditions": {
+        "WLC": "רָאִ֣יתִי אֶת הָֽ עִנְיָ֗ן",
+        "LXX": "εἶδον σὺν πάντα τὸν περισπασμὸν",
+        "VUL": "Vidi afflictiónem ,",
+        "SP": null,
+        "KJV": "I have seen the travail ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which God hath given to the sons of men",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר נָתַ֧ן אֱלֹהִ֛ים לִ בְנֵ֥י הָ אָדָ֖ם",
+        "LXX": "ὃν ἔδωκεν ὁ θεὸς τοῖς υἱοῖς τῶν ἀνθρώπων",
+        "VUL": "quam dedit Deus fíliis hóminum ,",
+        "SP": null,
+        "KJV": "which God hath given to the sons of men",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to be exercised in it",
+      "traditions": {
+        "WLC": "לַ עֲנ֥וֹת בּֽ וֹ",
+        "LXX": "τοῦ περισπᾶσθαι ἐν αὐτῷ .",
+        "VUL": "ut distendántur in ea .",
+        "SP": null,
+        "KJV": "to be exercised in it .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "He hath made every [ thing ] beautiful in his time",
+      "traditions": {
+        "WLC": "אֶת הַ כֹּ֥ל עָשָׂ֖ה יָפֶ֣ה בְ עִתּ֑ וֹ",
+        "LXX": "τὰ σύμπαντα ἃ ἐποίησεν καλὰ ἐν καιρῷ αὐτοῦ ·",
+        "VUL": "Cuncta fecit bona in témpore suo ,",
+        "SP": null,
+        "KJV": "He hath made every [ thing ] beautiful in his time :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "also he hath set the world in their heart",
+      "traditions": {
+        "WLC": "גַּ֤ם אֶת הָ עֹלָם֙ נָתַ֣ן בְּ לִבָּ֔ ם",
+        "LXX": "καί γε σύμπαντα τὸν αἰῶνα ἔδωκεν ἐν καρδίᾳ αὐτῶν",
+        "VUL": "et mundum trádidit disputatióni eórum ,",
+        "SP": null,
+        "KJV": "also he hath set the world in their heart ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "so that no man can find out the work that God maketh from the beginning to the end",
+      "traditions": {
+        "WLC": "מִ בְּלִ֞י אֲשֶׁ֧ר לֹא יִמְצָ֣א הָ אָדָ֗ם אֶת הַֽ מַּעֲשֶׂ֛ה אֲשֶׁר עָשָׂ֥ה הָ אֱלֹהִ֖ים מֵ רֹ֥אשׁ וְ עַד סֽוֹף",
+        "LXX": "ὅπως μὴ εὕρῃ ὁ ἄνθρωπος τὸ ποίημα ὃ ἐποίησεν ὁ θεὸς ἀπ᾽ ἀρχῆς καὶ μέχρι τέλους .",
+        "VUL": "ut non invéniat homo opus , quod operátus est Deus ab inítio usque ad finem .",
+        "SP": null,
+        "KJV": "so that no man can find out the work that God maketh from the beginning to the end .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "I know that [ there is ] no good in them",
+      "traditions": {
+        "WLC": "יָדַ֕עְתִּי כִּ֛י אֵ֥ין ט֖וֹב בָּ֑ ם",
+        "LXX": "ἔγνων ὅτι οὐκ ἔστιν ἀγαθὸν ἐν αὐτοῖς",
+        "VUL": "Et cognóvi quod non esset mélius",
+        "SP": null,
+        "KJV": "I know that [ there is ] no good in them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but for [ a man ] to rejoice , and to do good in his life",
+      "traditions": {
+        "WLC": "כִּ֣י אִם לִ שְׂמ֔וֹחַ וְ לַ עֲשׂ֥וֹת ט֖וֹב בְּ חַיָּֽי ו",
+        "LXX": "εἰ μὴ τοῦ εὐφρανθῆναι καὶ τοῦ ποιεῖν ἀγαθὸν ἐν ζωῇ αὐτοῦ ·",
+        "VUL": "nisi lætári , et fácere bene in vita sua .",
+        "SP": null,
+        "KJV": "but for [ a man ] to rejoice , and to do good in his life .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And also that every man should eat and drink , and enjoy the good of all his labour",
+      "traditions": {
+        "WLC": "וְ גַ֤ם כָּל הָ אָדָם֙ שֶׁ יֹּאכַ֣ל וְ שָׁתָ֔ה וְ רָאָ֥ה ט֖וֹב בְּ כָל עֲמָל֑ וֹ",
+        "LXX": "καί γε πᾶς ὁ ἄνθρωπος ὃς φάγεται καὶ πίεται καὶ ἴδῃ ἀγαθὸν ἐν παντὶ μόχθῳ αὐτοῦ ,",
+        "VUL": "Omnis enim homo , qui cómedit et bibit , et videt bonum de labóre suo ,",
+        "SP": null,
+        "KJV": "And also that every man should eat and drink , and enjoy the good of all his labour ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] the gift of God",
+      "traditions": {
+        "WLC": "מַתַּ֥ת אֱלֹהִ֖ים הִֽיא",
+        "LXX": "δόμα θεοῦ ἐστιν .",
+        "VUL": "hoc donum Dei est .",
+        "SP": null,
+        "KJV": "it [ is ] the gift of God .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "I know that , whatsoever God doeth , it shall be for ever",
+      "traditions": {
+        "WLC": "יָדַ֗עְתִּי כִּ֠י כָּל אֲשֶׁ֨ר יַעֲשֶׂ֤ה הָ אֱלֹהִים֙ ה֚וּא יִהְיֶ֣ה לְ עוֹלָ֔ם",
+        "LXX": "ἔγνων ὅτι πάντα ὅσα ἐποίησεν ὁ θεὸς αὐτὰ ἔσται εἰς τὸν αἰῶνα ·",
+        "VUL": "Dídici quod ómnia ópera , quæ fecit Deus persevérent in perpétuum :",
+        "SP": null,
+        "KJV": "I know that , whatsoever God doeth , it shall be for ever :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "nothing can be put to it , nor any thing taken from it",
+      "traditions": {
+        "WLC": "עָלָי ו֙ אֵ֣ין לְ הוֹסִ֔יף וּ מִמֶּ֖ נּוּ אֵ֣ין לִ גְרֹ֑עַ",
+        "LXX": "ἐπ᾽ αὐτῷ οὐκ ἔστιν προσθεῖναι , καὶ ἀπ᾽ αὐτοῦ οὐκ ἔστιν ἀφελεῖν",
+        "VUL": "non póssumus eis quidquam áddere , nec auférre ,",
+        "SP": null,
+        "KJV": "nothing can be put to it , nor any thing taken from it :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and God doeth [ it ] , that [ men ] should fear before him",
+      "traditions": {
+        "WLC": "וְ הָ אֱלֹהִ֣ים עָשָׂ֔ה שֶׁ יִּֽרְא֖וּ מִ לְּ פָנָֽי ו",
+        "LXX": "καὶ ὁ θεὸς ἐποίησεν ἵνα φοβηθῶσιν ἀπὸ προσώπου αὐτοῦ .",
+        "VUL": "quæ fecit Deus ut timeátur .",
+        "SP": null,
+        "KJV": "and God doeth [ it ] , that [ men ] should fear before him .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "That which hath been is now",
+      "traditions": {
+        "WLC": "מַה שֶּֽׁ הָיָה֙ כְּבָ֣ר ה֔וּא",
+        "LXX": "τὸ γενόμενον ἤδη ἐστίν ,",
+        "VUL": "Quod factum est , ipsum pérmanet :",
+        "SP": null,
+        "KJV": "That which hath been is now ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and that which is to be hath already been",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֥ר לִ הְי֖וֹת כְּבָ֣ר הָיָ֑ה",
+        "LXX": "καὶ ὅσα τοῦ γίνεσθαι ἤδη γέγονεν ,",
+        "VUL": "quæ futúra sunt , iam fuérunt :",
+        "SP": null,
+        "KJV": "and that which is to be hath already been ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and God requireth that which is past",
+      "traditions": {
+        "WLC": "וְ הָ אֱלֹהִ֖ים יְבַקֵּ֥שׁ אֶת נִרְדָּֽף",
+        "LXX": "καὶ ὁ θεὸς ζητήσει τὸν διωκόμενον .",
+        "VUL": "et Deus instáurat quod ábiit .",
+        "SP": null,
+        "KJV": "and God requireth that which is past .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And moreover I saw under the sun the place of judgment , [ that ] wickedness [ was ] there",
+      "traditions": {
+        "WLC": "וְ ע֥וֹד רָאִ֖יתִי תַּ֣חַת הַ שָּׁ֑מֶשׁ מְק֤וֹם הַ מִּשְׁפָּט֙ שָׁ֣מָּ ה הָ רֶ֔שַׁע",
+        "LXX": "Καὶ ἔτι εἶδον ὑπὸ τὸν ἥλιον τόπον τῆς κρίσεως , ἐκεῖ ὁ ἀσεβής ·",
+        "VUL": "Vidi sub sole in loco iudícii impietátem ,",
+        "SP": null,
+        "KJV": "And moreover I saw under the sun the place of judgment , [ that ] wickedness [ was ] there ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the place of righteousness , [ that ] iniquity [ was ] there",
+      "traditions": {
+        "WLC": "וּ מְק֥וֹם הַ צֶּ֖דֶק שָׁ֥מָּ ה הָ רָֽשַׁע",
+        "LXX": "καὶ τόπον τοῦ δικαίου , ἐκεῖ ὁ εὐσεβής .",
+        "VUL": "et in loco iustítiæ iniquitátem .",
+        "SP": null,
+        "KJV": "and the place of righteousness , [ that ] iniquity [ was ] there .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "I said in mine heart , God shall judge the righteous and the wicked",
+      "traditions": {
+        "WLC": "אָמַ֤רְתִּֽי אֲנִי֙ בְּ לִבִּ֔ י אֶת הַ צַּדִּיק֙ וְ אֶת הָ֣ רָשָׁ֔ע יִשְׁפֹּ֖ט הָ אֱלֹהִ֑ים",
+        "LXX": "καὶ εἶπα ἐγὼ ἐν καρδίᾳ μου Σὺν τὸν δίκαιον καὶ σὺν τὸν ἀσεβῆ κρινεῖ ὁ θεός ·",
+        "VUL": "Et dixi in corde meo : Iustum , et ímpium iudicábit Deus ,",
+        "SP": null,
+        "KJV": "I said in mine heart , God shall judge the righteous and the wicked :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for [ there is ] a time there for every purpose and for every work",
+      "traditions": {
+        "WLC": "כִּי עֵ֣ת לְ כָל חֵ֔פֶץ וְ עַ֥ל כָּל הַֽ מַּעֲשֶׂ֖ה שָֽׁם",
+        "LXX": "ὅτι καιρὸς τῷ παντὶ πράγματι καὶ ἐπὶ παντὶ τῷ ποιήματι .",
+        "VUL": "et tempus omnis rei tunc erit .",
+        "SP": null,
+        "KJV": "for [ there is ] a time there for every purpose and for every work .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "I said in mine heart concerning the estate of the sons of men",
+      "traditions": {
+        "WLC": "אָמַ֤רְתִּֽי אֲנִי֙ בְּ לִבִּ֔ י עַל דִּבְרַת֙ בְּנֵ֣י הָ אָדָ֔ם",
+        "LXX": "καὶ εἶπα ἐγὼ ἐν καρδίᾳ μου περὶ λαλιᾶς υἱῶν τοῦ ἀνθρώπου ,",
+        "VUL": "Dixi in corde meo de fíliis hóminum ,",
+        "SP": null,
+        "KJV": "I said in mine heart concerning the estate of the sons of men ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that God might manifest them",
+      "traditions": {
+        "WLC": "לְ בָרָ֖ ם הָ אֱלֹהִ֑ים",
+        "LXX": "ὅτι διακρινεῖ αὐτοὺς ὁ θεός ,",
+        "VUL": "ut probáret eos Deus ,",
+        "SP": null,
+        "KJV": "that God might manifest them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and that they might see that they themselves are beasts",
+      "traditions": {
+        "WLC": "וְ לִ רְא֕וֹת שְׁ הֶם בְּהֵמָ֥ה הֵ֖מָּה לָ הֶֽם",
+        "LXX": "τοῦ δεῖξαι ὅτι αὐτοὶ κτήνη εἰσίν .",
+        "VUL": "et osténderet símiles esse béstiis .",
+        "SP": null,
+        "KJV": "and that they might see that they themselves are beasts .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "For that which befalleth the sons of men befalleth beasts ; even one thing befalleth them",
+      "traditions": {
+        "WLC": "כִּי֩ מִקְרֶ֨ה בְֽנֵי הָ אָדָ֜ם וּ מִקְרֶ֣ה הַ בְּהֵמָ֗ה וּ מִקְרֶ֤ה אֶחָד֙ לָ הֶ֔ם",
+        "LXX": "καί γε αὐτοῖς οὐ συνάντημα υἱῶν τοῦ ἀνθρώπου καὶ συνάντημα τοῦ κτήνους ; συνάντημα ἓν αὐτοῖς ·",
+        "VUL": "Idcírco unus intéritus est hóminis et iumentórum , et æqua utriúsque condítio :",
+        "SP": null,
+        "KJV": "For that which befalleth the sons of men befalleth beasts ; even one thing befalleth them :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as the one dieth , so dieth the other",
+      "traditions": {
+        "WLC": "כְּ מ֥וֹת זֶה֙ כֵּ֣ן מ֣וֹת זֶ֔ה",
+        "LXX": "ὡς ὁ θάνατος τούτου , οὕτως ὁ θάνατος τούτου ,",
+        "VUL": "sicut móritur homo , sic et illa moriúntur :",
+        "SP": null,
+        "KJV": "as the one dieth , so dieth the other ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "yea , they have all one breath",
+      "traditions": {
+        "WLC": "וְ ר֥וּחַ אֶחָ֖ד לַ כֹּ֑ל",
+        "LXX": "καὶ πνεῦμα ἓν τοῖς πᾶσιν .",
+        "VUL": "simíliter spirant ómnia ,",
+        "SP": null,
+        "KJV": "yea , they have all one breath ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "so that a man hath no preeminence above a beast",
+      "traditions": {
+        "WLC": "וּ מוֹתַ֨ר הָ אָדָ֤ם מִן הַ בְּהֵמָה֙ אָ֔יִן",
+        "LXX": "καὶ τί ἐπερίσσευσεν ὁ ἄνθρωπος παρὰ τὸ κτῆνος ; οὐδέν ,",
+        "VUL": "et nihil habet homo iuménto ámplius :",
+        "SP": null,
+        "KJV": "so that a man hath no preeminence above a beast :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "for all [ is ] vanity",
+      "traditions": {
+        "WLC": "כִּ֥י הַ כֹּ֖ל הָֽבֶל",
+        "LXX": "ὅτι πάντα ματαιότης .",
+        "VUL": "cuncta súbiacent vanitáti ,",
+        "SP": null,
+        "KJV": "for all [ is ] vanity .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "All go unto one place",
+      "traditions": {
+        "WLC": "הַ כֹּ֥ל הוֹלֵ֖ךְ אֶל מָק֣וֹם אֶחָ֑ד",
+        "LXX": "τὰ πάντα εἰς τόπον ἕνα ,",
+        "VUL": "et ómnia pergunt ad unum locum :",
+        "SP": null,
+        "KJV": "All go unto one place ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "all are of the dust",
+      "traditions": {
+        "WLC": "הַ כֹּל֙ הָיָ֣ה מִן הֶֽ עָפָ֔ר",
+        "LXX": "τὰ πάντα ἐγένετο ἀπὸ τοῦ χόος ,",
+        "VUL": "de terra facta sunt ,",
+        "SP": null,
+        "KJV": "all are of the dust ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and all turn to dust again",
+      "traditions": {
+        "WLC": "וְ הַ כֹּ֖ל שָׁ֥ב אֶל הֶ עָפָֽר",
+        "LXX": "καὶ τὰ πάντα ἐπιστρέψει εἰς τὸν χοῦν .",
+        "VUL": "et in terram páriter revertúntur .",
+        "SP": null,
+        "KJV": "and all turn to dust again .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who knoweth the spirit of man that goeth upward ,",
+      "traditions": {
+        "WLC": "מִ֣י יוֹדֵ֗עַ ר֚וּחַ בְּנֵ֣י הָ אָדָ֔ם הָ עֹלָ֥ה הִ֖יא לְ מָ֑עְלָ",
+        "LXX": "καὶ τίς οἶδεν πνεῦμα υἱῶν τοῦ ἀνθρώπου , εἰ ἀναβαίνει αὐτὸ εἰς ἄνω ;",
+        "VUL": "Quis novit si spíritus filiórum Adam ascéndat sursum ,",
+        "SP": null,
+        "KJV": "Who knoweth the spirit of man that goeth upward ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the spirit of the beast that goeth downward to the earth ?",
+      "traditions": {
+        "WLC": "ה וְ ר֨וּחַ֙ הַ בְּהֵמָ֔ה הַ יֹּרֶ֥דֶת הִ֖יא לְ מַ֥טָּה לָ אָֽרֶץ",
+        "LXX": "καὶ πνεῦμα τοῦ κτήνους , εἰ καταβαίνει αὐτὸ κάτω εἰς γῆν ;",
+        "VUL": "et si spíritus iumentórum descéndat deórsum ?",
+        "SP": null,
+        "KJV": "and the spirit of the beast that goeth downward to the earth ?",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wherefore I perceive that [ there is ] nothing better",
+      "traditions": {
+        "WLC": "וְ רָאִ֗יתִי כִּ֣י אֵ֥ין טוֹב֙",
+        "LXX": "καὶ εἶδον ὅτι οὐκ ἔστιν ἀγαθόν",
+        "VUL": "Et deprehéndi nihil esse mélius",
+        "SP": null,
+        "KJV": "Wherefore I perceive that [ there is ] nothing better ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "than that a man should rejoice in his own works",
+      "traditions": {
+        "WLC": "מֵ אֲשֶׁ֨ר יִשְׂמַ֤ח הָ אָדָם֙ בְּֽ מַעֲשָׂ֔י",
+        "LXX": "εἰ μὴ ὃ εὐφρανθήσεται ὁ ἄνθρωπος ἐν ποιήμασιν αὐτοῦ ,",
+        "VUL": "quam lætári hóminem in ópere suo ,",
+        "SP": null,
+        "KJV": "than that a man should rejoice in his own works ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for that [ is ] his portion",
+      "traditions": {
+        "WLC": "ו כִּי ה֖וּא חֶלְק֑ וֹ",
+        "LXX": "ὅτι αὐτὸ μερὶς αὐτοῦ ·",
+        "VUL": "et hanc esse partem illíus .",
+        "SP": null,
+        "KJV": "for that [ is ] his portion :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for who shall bring him to see what shall be after him ?",
+      "traditions": {
+        "WLC": "כִּ֣י מִ֤י יְבִיאֶ֨ נּוּ֙ לִ רְא֔וֹת בְּ מֶ֖ה שֶׁ יִּהְיֶ֥ה אַחֲרָֽי ו",
+        "LXX": "ὅτι τίς ἄξει αὐτὸν τοῦ ἰδεῖν ἐν ᾧ ἐὰν γένηται μετ᾽ αὐτόν ;",
+        "VUL": "Quis enim eum addúcet , ut post se futúra cognóscat ?",
+        "SP": null,
+        "KJV": "for who shall bring him to see what shall be after him ?",
+        "DSS": null
+      }
+    }
+  ]
+}

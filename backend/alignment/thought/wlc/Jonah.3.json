@@ -1,0 +1,586 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the word of the LORD came unto Jonah",
+      "traditions": {
+        "WLC": "וַ יְהִ֧י דְבַר יְהוָ֛ה אֶל יוֹנָ֖ה",
+        "LXX": "Καὶ ἐγένετο λόγος Κυρίου πρὸς Ἰωνᾶν",
+        "VUL": "Et factum est verbum Dómini ad Ionam",
+        "SP": null,
+        "KJV": "And the word of the LORD came unto Jonah",
+        "DSS": "[4Q82] ו יהי דבר [ יהוה אל יונה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the second time",
+      "traditions": {
+        "WLC": "שֵׁנִ֥ית",
+        "LXX": "ἐκ δευτέρου",
+        "VUL": "secúndo ,",
+        "SP": null,
+        "KJV": "the second time ,",
+        "DSS": "שנית ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "לֵ אמֹֽר",
+        "LXX": "λέγων",
+        "VUL": "dicens :",
+        "SP": null,
+        "KJV": "saying ,",
+        "DSS": "ל# [ אמר ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Arise, go unto Nineveh",
+      "traditions": {
+        "WLC": "ק֛וּם לֵ֥ךְ אֶל נִֽינְוֵ֖ה",
+        "LXX": "Ἀνάστηθι πορεύθητι εἰς Νινευὴ",
+        "VUL": "Surge , et vade in Níniven ,",
+        "SP": null,
+        "KJV": "Arise , go unto Nineveh ,",
+        "DSS": "[4Q82] קום ]ל[ כ ]׳ה## אל נינוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that great city",
+      "traditions": {
+        "WLC": "הָ עִ֣יר הַ גְּדוֹלָ֑ה",
+        "LXX": "τὴν πόλιν τὴν μεγάλην ,",
+        "VUL": "civitátem magnam :",
+        "SP": null,
+        "KJV": "that great city ,",
+        "DSS": "ה עיר ה גדולה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and preach unto it the preaching",
+      "traditions": {
+        "WLC": "וִּ קְרָ֤א אֵלֶ֨י הָ֙ אֶת הַ קְּרִיאָ֔ה",
+        "LXX": "καὶ κήρυξον ἐν αὐτῇ κατὰ τὸ κήρυγμα",
+        "VUL": "et prǽdica in ea prædicatiónem ,",
+        "SP": null,
+        "KJV": "and preach unto it the preaching",
+        "DSS": "[ ו קרא אלי׳ה את ה קריאה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that I bid thee",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר אָנֹכִ֖י דֹּבֵ֥ר אֵלֶֽי ךָ",
+        "LXX": "τὸ ἔμπροσθεν ὃ ἐγὼ ἐλάλησα πρὸς σὲ .",
+        "VUL": "quam ego loquor ad te .",
+        "SP": null,
+        "KJV": "that I bid thee .",
+        "DSS": "אשר אנוכי ]דובר א##לי#?׳כ##ה## ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "So Jonah arose ,",
+      "traditions": {
+        "WLC": "וַ יָּ֣קָם יוֹנָ֗ה",
+        "LXX": "καὶ ἀνέστη Ἰωνᾶς",
+        "VUL": "Et surréxit Ionas ,",
+        "SP": null,
+        "KJV": "So Jonah arose ,",
+        "DSS": "[4Q82] ו#? י#?קו[ ם ] [ יונה / [Mur88] ו י?קם [ י ]ונה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and went unto Nineveh ,",
+      "traditions": {
+        "WLC": "וַ יֵּ֛לֶךְ אֶל נִֽינְוֶ֖ה",
+        "LXX": "καὶ ἐπορεύθη εἰς Νινευή ,",
+        "VUL": "et ábiit in Níniven",
+        "SP": null,
+        "KJV": "and went unto Nineveh ,",
+        "DSS": "[4Q82] ו ילך אל נינוה / [Mur88] ו ילך אל נ[ י ]נו?ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "according to the word of the LORD .",
+      "traditions": {
+        "WLC": "כִּ דְבַ֣ר יְהוָ֑ה",
+        "LXX": "καθὰ ἐλάλησεν Κύριος ·",
+        "VUL": "iuxta verbum Dómini :",
+        "SP": null,
+        "KJV": "according to the word of the LORD .",
+        "DSS": "[4Q82] כ דבר יהוה ε ] # [ ε ׃ / [Mur88] כ## ד#ב#[ ר ] יהוה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Now Nineveh was an exceeding great city",
+      "traditions": {
+        "WLC": "וְ נִֽינְוֵ֗ה הָיְתָ֤ה עִיר גְּדוֹלָה֙ לֵֽ אלֹהִ֔ים",
+        "LXX": "ἡ δὲ Νινευὴ ἦν πόλις μεγάλη τῷ θεῷ ,",
+        "VUL": "et Nínive erat cívitas magna",
+        "SP": null,
+        "KJV": "Now Nineveh was an exceeding great city",
+        "DSS": "[Mur88] ו נ[ י ]נוה היתה עיר גד#ולה ל אלהים"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "of three days ’ journey .",
+      "traditions": {
+        "WLC": "מַהֲלַ֖ךְ שְׁלֹ֥שֶׁת יָמִֽים",
+        "LXX": "ὡσεὶ πορείας ὁδοῦ ἡμερῶν τριῶν .",
+        "VUL": "itínere trium diérum .",
+        "SP": null,
+        "KJV": "of three days ’ journey .",
+        "DSS": "[Mur88] מהלך שלשת ימים ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jonah began to enter into the city a day ’s journey ,",
+      "traditions": {
+        "WLC": "וַ יָּ֤חֶל יוֹנָה֙ לָ ב֣וֹא בָ עִ֔יר מַהֲלַ֖ךְ י֣וֹם אֶחָ֑ד",
+        "LXX": "καὶ ἤρξατο Ἰωνᾶς τοῦ εἰσελθεῖν εἰς τὴν πόλιν ὡσεὶ πορείαν ἡμέρας μιᾶς ,",
+        "VUL": "Et cœpit Ionas introíre in civitátem itínere diéi uníus :",
+        "SP": null,
+        "KJV": "And Jonah began to enter into the city a day ’s journey ,",
+        "DSS": "[Mur88] ו#? יח#ל# י?ו#?נ#?ה## ל בוא ב# עיר מהלך יום אחד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he cried ,",
+      "traditions": {
+        "WLC": "וַ יִּקְרָא֙",
+        "LXX": "καὶ ἐκήρυξεν",
+        "VUL": "et clamávit ,",
+        "SP": null,
+        "KJV": "and he cried ,",
+        "DSS": "[Mur88] ו יקרא"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and said ,",
+      "traditions": {
+        "WLC": "וַ יֹּאמַ֔ר",
+        "LXX": "καὶ εἶπεν",
+        "VUL": "et dixit :",
+        "SP": null,
+        "KJV": "and said ,",
+        "DSS": "[Mur88] ו יאמר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Yet forty days ,",
+      "traditions": {
+        "WLC": "ע֚וֹד אַרְבָּעִ֣ים י֔וֹם",
+        "LXX": "Ἔτι τρεῖς ἡμέραι",
+        "VUL": "Adhuc quadragínta dies ,",
+        "SP": null,
+        "KJV": "Yet forty days ,",
+        "DSS": "[Mur88] עוד# ארבעים יום"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and Nineveh shall be overthrown .",
+      "traditions": {
+        "WLC": "וְ נִֽינְוֵ֖ה נֶהְפָּֽכֶת",
+        "LXX": "καὶ Νινευὴ καταστραφήσεται .",
+        "VUL": "et Nínive subvertétur .",
+        "SP": null,
+        "KJV": "and Nineveh shall be overthrown .",
+        "DSS": "[Mur88] ו נינוה [ נהפכ ]ת## ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "So the people of Nineveh believed God ,",
+      "traditions": {
+        "WLC": "וַֽ יַּאֲמִ֛ינוּ אַנְשֵׁ֥י נִֽינְוֵ֖ה בֵּֽ אלֹהִ֑ים",
+        "LXX": "καὶ ἐνεπίστευσαν οἱ ἄνδρες Νινευὴ τῷ θεῷ ,",
+        "VUL": "Et credidérunt viri Ninivítæ in Deum :",
+        "SP": null,
+        "KJV": "So the people of Nineveh believed God ,",
+        "DSS": "[Mur88] ו יאמי?[ נ ]ו? אנשי נינוה ב אלהים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and proclaimed a fast ,",
+      "traditions": {
+        "WLC": "וַ יִּקְרְאוּ צוֹם֙",
+        "LXX": "καὶ ἐκήρυξαν νηστίαν ,",
+        "VUL": "et prædicavérunt ieiúnium ,",
+        "SP": null,
+        "KJV": "and proclaimed a fast ,",
+        "DSS": "[Mur88] ו יקר#א##ו#? צ#ום"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and put on sackcloth ,",
+      "traditions": {
+        "WLC": "וַ יִּלְבְּשׁ֣וּ שַׂקִּ֔ים",
+        "LXX": "καὶ ἐνεδύσαντο σάκκους",
+        "VUL": "et vestíti sunt saccis ,",
+        "SP": null,
+        "KJV": "and put on sackcloth ,",
+        "DSS": "[Mur88] ו ילבשו שקים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "from the greatest of them even to the least of them .",
+      "traditions": {
+        "WLC": "מִ גְּדוֹלָ֖ ם וְ עַד קְטַנָּֽ ם",
+        "LXX": "ἀπὸ μεγάλου αὐτῶν ἕως μικροῦ αὐτῶν .",
+        "VUL": "a maióre usque ad minórem .",
+        "SP": null,
+        "KJV": "from the greatest of them even to the least of them .",
+        "DSS": "[Mur88] מ גד#ו?ל׳ם ו עד## [ ק ]טנ׳ם ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "For word came unto the king of Nineveh ,",
+      "traditions": {
+        "WLC": "וַ יִּגַּ֤ע הַ דָּבָר֙ אֶל מֶ֣לֶך נִֽינְוֵ֔ה",
+        "LXX": "καὶ ἤγγισεν ὁ λόγος πρὸς τὸν βασιλέα τῆς Νινευή ·",
+        "VUL": "Et pervénit verbum ad regem Nínive :",
+        "SP": null,
+        "KJV": "For word came unto the king of Nineveh ,",
+        "DSS": "[Mur88] ו#? [ יגע ] ה## דבר אל מלך נינוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he arose from his throne ,",
+      "traditions": {
+        "WLC": "וַ יָּ֨קָם֙ מִ כִּסְא֔ וֹ",
+        "LXX": "καὶ ἐξανέστη ἀπὸ τοῦ θρόνου αὐτοῦ ,",
+        "VUL": "et surréxit de sólio suo ,",
+        "SP": null,
+        "KJV": "and he arose from his throne ,",
+        "DSS": "[Mur88] ו יקם מ כסא׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he laid his robe from him ,",
+      "traditions": {
+        "WLC": "וַ יַּעֲבֵ֥ר אַדַּרְתּ֖ וֹ מֵֽ עָלָ֑י",
+        "LXX": "καὶ περιείλατο τὴν στολὴν αὐτοῦ ἀφ᾽ ἑαυτοῦ",
+        "VUL": "et abiécit vestiméntum suum a se ,",
+        "SP": null,
+        "KJV": "and he laid his robe from him ,",
+        "DSS": "[Mur88] ו י#?עבר אדרת׳ו מ על##י#?׳ו#?"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and covered [ him ] with sackcloth ,",
+      "traditions": {
+        "WLC": "ו וַ יְכַ֣ס שַׂ֔ק",
+        "LXX": "καὶ περιεβάλετο σάκκον ,",
+        "VUL": "et indútus est sacco ,",
+        "SP": null,
+        "KJV": "and covered [ him ] with sackcloth ,",
+        "DSS": "[Mur88] ו יכס שק"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and sat in ashes .",
+      "traditions": {
+        "WLC": "וַ יֵּ֖שֶׁב עַל הָ אֵֽפֶר",
+        "LXX": "καὶ ἐκάθισεν ἐπὶ σποδοῦ .",
+        "VUL": "et sedit in cínere .",
+        "SP": null,
+        "KJV": "and sat in ashes .",
+        "DSS": "[Mur88] [ ו ישב ] על ה אפר ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he caused [ it ] to be proclaimed and published through Nineveh",
+      "traditions": {
+        "WLC": "וַ יַּזְעֵ֗ק וַ יֹּ֨אמֶר֙ בְּ נִֽינְוֵ֔ה",
+        "LXX": "καὶ ἐκηρύχθη καὶ ἐρρέθη ἐν τῇ Νινευὴ",
+        "VUL": "Et clamávit , et dixit in Nínive",
+        "SP": null,
+        "KJV": "And he caused [ it ] to be proclaimed and published through Nineveh",
+        "DSS": "[Mur88] ו יזעק ו יאמר# ב נינוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "by the decree of the king and his nobles ,",
+      "traditions": {
+        "WLC": "מִ טַּ֧עַם הַ מֶּ֛לֶךְ וּ גְדֹלָ֖י",
+        "LXX": "παρὰ τοῦ βασιλέως καὶ παρὰ τῶν μεγιστάνων αὐτοῦ",
+        "VUL": "ex ore regis et príncipum eius ,",
+        "SP": null,
+        "KJV": "by the decree of the king and his nobles ,",
+        "DSS": "[Mur88] מ טעם ה מלך ו גדל[ י׳ו ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "saying ,",
+      "traditions": {
+        "WLC": "ו לֵ אמֹ֑ר",
+        "LXX": "λέγων",
+        "VUL": "dicens :",
+        "SP": null,
+        "KJV": "saying ,",
+        "DSS": "[Mur88] ל אמר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Let neither man nor beast ,",
+      "traditions": {
+        "WLC": "הָ אָדָ֨ם וְ הַ בְּהֵמָ֜ה",
+        "LXX": "Οἱ ἄνθρωποι καὶ τὰ κτήνη",
+        "VUL": "Hómines , et iuménta ,",
+        "SP": null,
+        "KJV": "Let neither man nor beast ,",
+        "DSS": "[Mur88] ה## א##[ דם ] ו ה בהמה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "herd nor flock ,",
+      "traditions": {
+        "WLC": "הַ בָּקָ֣ר וְ הַ צֹּ֗אן",
+        "LXX": "καὶ οἱ βόες καὶ τὰ πρόβατα",
+        "VUL": "et boves , et pécora",
+        "SP": null,
+        "KJV": "herd nor flock ,",
+        "DSS": "[Mur88] ה# ב##ק#ר ו ה צ##[ א ]ן"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "taste any thing :",
+      "traditions": {
+        "WLC": "אַֽל יִטְעֲמוּ֙ מְא֔וּמָה",
+        "LXX": "μὴ γευσάσθωσαν μηδὲν",
+        "VUL": "non gustent quidquam :",
+        "SP": null,
+        "KJV": "taste any thing :",
+        "DSS": "[Mur88] אל יטעמו מאומה"
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "let them not feed ,",
+      "traditions": {
+        "WLC": "אַ֨ל יִרְע֔וּ",
+        "LXX": "μηδὲ νεμέσθωσαν",
+        "VUL": "nec pascántur ,",
+        "SP": null,
+        "KJV": "let them not feed ,",
+        "DSS": "[Mur88] אל ירעו"
+      }
+    },
+    {
+      "thought_id": 8,
+      "english_reference": "nor drink water :",
+      "traditions": {
+        "WLC": "וּ מַ֖יִם אַל יִשְׁתּֽוּ",
+        "LXX": "μηδὲ ὕδωρ πιέτωσαν .",
+        "VUL": "et aquam non bibant .",
+        "SP": null,
+        "KJV": "nor drink water :",
+        "DSS": "[Mur88] ו מי?ם א[ ל ישת ]ו#? ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "But let man and beast be covered with sackcloth",
+      "traditions": {
+        "WLC": "וְ יִתְכַּסּ֣וּ שַׂקִּ֗ים הָֽ אָדָם֙ וְ הַ בְּהֵמָ֔ה",
+        "LXX": "καὶ περιεβάλοντο σάκκους οἱ ἄνθρωποι καὶ τὰ κτήνη ,",
+        "VUL": "Et operiántur saccis hómines , et iuménta ,",
+        "SP": null,
+        "KJV": "But let man and beast be covered with sackcloth ,",
+        "DSS": "[Mur88] ו יתכסו ש##קים ה א#ד#ם ו ה ב#ה#מה#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and cry mightily unto God :",
+      "traditions": {
+        "WLC": "וְ יִקְרְא֥וּ אֶל אֱלֹהִ֖ים בְּ חָזְקָ֑ה",
+        "LXX": "καὶ ἀνεβόησαν πρὸς τὸν θεὸν ἐκτενῶς ·",
+        "VUL": "et clament ad Dóminum in fortitúdine :",
+        "SP": null,
+        "KJV": "and cry mightily unto God :",
+        "DSS": "[ ו ] י?קראו ע##ל אלהים# [ ב ח ]זק##"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "yea , let them turn every one from his evil way ,",
+      "traditions": {
+        "WLC": "וְ יָשֻׁ֗בוּ אִ֚ישׁ מִ דַּרְכּ֣ וֹ הָֽ רָעָ֔ה",
+        "LXX": "καὶ ἀπέστρεψαν ἕκαστος ἀπὸ τῆς ὁδοῦ αὐτοῦ τῆς πονηρᾶς",
+        "VUL": "et convertátur vir a via sua mala ,",
+        "SP": null,
+        "KJV": "yea , let them turn every one from his evil way ,",
+        "DSS": "[ ה ו ישבו ] איש מ דרכ׳ו ה# ר##ע##"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and from the violence that [ is ] in their hands .",
+      "traditions": {
+        "WLC": "וּ מִן הֶ חָמָ֖ס אֲשֶׁ֥ר בְּ כַפֵּי הֶֽם",
+        "LXX": "καὶ ἀπὸ τῆς ἀδικίας τῆς ἐν χερσὶν αὐτῶν ,",
+        "VUL": "et ab iniquitáte , quæ est in mánibus eórum .",
+        "SP": null,
+        "KJV": "and from the violence that [ is ] in their hands .",
+        "DSS": "[ ה ] ו? מן ה חמס אשר## ב## כ##פ##[ י ]׳ה#ם ׃"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": null,
+        "LXX": "λέγοντες",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who can tell [ if ] God will turn and repent ,",
+      "traditions": {
+        "WLC": "מִֽי יוֹדֵ֣עַ יָשׁ֔וּב וְ נִחַ֖ם הָ אֱלֹהִ֑ים",
+        "LXX": "Τίς οἶδεν εἰ μετανοήσει ὁ θεὸς",
+        "VUL": "Quis scit si convertátur , et ignóscat Deus :",
+        "SP": null,
+        "KJV": "Who can tell [ if ] God will turn and repent ,",
+        "DSS": "יודע [ ישוב ו נ ]חם ה אלהי?ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and turn away from his fierce anger ,",
+      "traditions": {
+        "WLC": "וְ שָׁ֛ב מֵ חֲר֥וֹן אַפּ֖ וֹ",
+        "LXX": "καὶ ἀποστρέψει ἐξ ὀργῆς θυμοῦ αὐτοῦ ,",
+        "VUL": "et revertátur a furóre iræ suæ ,",
+        "SP": null,
+        "KJV": "and turn away from his fierce anger ,",
+        "DSS": "ו שב# מ# ח#רון אפ׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that we perish not ?",
+      "traditions": {
+        "WLC": "וְ לֹ֥א נֹאבֵֽד",
+        "LXX": "καὶ οὐ μὴ ἀπολώμεθα ;",
+        "VUL": "et non períbimus ?",
+        "SP": null,
+        "KJV": "that we perish not ?",
+        "DSS": "ו לא נאבד ׃ מ##י"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God saw their works ,",
+      "traditions": {
+        "WLC": "וַ יַּ֤רְא הָֽ אֱלֹהִים֙ אֶֽת מַ֣עֲשֵׂי הֶ֔ם",
+        "LXX": "καὶ εἶδεν ὁ θεὸς τὰ ἔργα αὐτῶν ,",
+        "VUL": "Et vidit Deus ópera eórum ,",
+        "SP": null,
+        "KJV": "And God saw their works ,",
+        "DSS": "[Mur88] ו ירא ה אלהי?ם את מע##[ שי׳הם ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that they turned from their evil way ;",
+      "traditions": {
+        "WLC": "כִּי שָׁ֖בוּ מִ דַּרְכָּ֣ ם הָ רָעָ֑ה",
+        "LXX": "ὅτι ἀπέστρεψαν ἀπὸ τῶν ὁδῶν αὐτῶν τῶν πονηρῶν ·",
+        "VUL": "quia convérsi sunt de via sua mala :",
+        "SP": null,
+        "KJV": "that they turned from their evil way ;",
+        "DSS": "כי שבו מ דרכ׳ם ה## ר##ע##ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and God repented of the evil ,",
+      "traditions": {
+        "WLC": "וַ יִּנָּ֣חֶם הָ אֱלֹהִ֗ים עַל הָ רָעָ֛ה",
+        "LXX": "καὶ μετενόησεν ὁ θεὸς ἐπὶ τῇ κακίᾳ",
+        "VUL": "et misértus est Deus super malítiam ,",
+        "SP": null,
+        "KJV": "and God repented of the evil ,",
+        "DSS": "ו ינחם ה אלהים על ה רעה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that he had said that he would do unto them ;",
+      "traditions": {
+        "WLC": "אֲשֶׁר דִּבֶּ֥ר לַ עֲשׂוֹת לָ הֶ֖ם",
+        "LXX": "ᾗ ἐλάλησεν τοῦ ποιῆσαι αὐτοῖς ,",
+        "VUL": "quam locútus fúerat ut fáceret eis ,",
+        "SP": null,
+        "KJV": "that he had said that he would do unto them ;",
+        "DSS": "אשר[  דבר ] ל## ע##שות ל׳הם"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and he did [ it ] not .",
+      "traditions": {
+        "WLC": "וְ לֹ֥א עָשָֽׂה",
+        "LXX": "καὶ οὐκ ἐποίησεν .",
+        "VUL": "et non fecit .",
+        "SP": null,
+        "KJV": "and he did [ it ] not .",
+        "DSS": "ו לא עשה ׃"
+      }
+    }
+  ]
+}

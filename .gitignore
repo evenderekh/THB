@@ -25,6 +25,22 @@ __pycache__/
 *.pyc
 .search_build/
 
+# Pretty-printed tradition files — for human inspection only
+backend/*.prettyprint.json
+
 # Local scripts
 deploy.bat
 .wrangler/
+
+# Removed source/cache directories
+backend/sources/
+backend/uxlc_cache/
+backend/oshb_cache/
+
+# Alignment working files
+backend/alignment/word/wlc/*.md
+backend/alignment/word/wlc/*.txt
+backend/alignment/word/wlc/*.py
+backend/alignment/thought/wlc/*.md
+backend/alignment/thought/wlc/*.txt
+backend/alignment/thought/wlc/*.py

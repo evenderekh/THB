@@ -1,0 +1,656 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise ye the LORD",
+      "traditions": {
+        "WLC": "הַ֥לְלוּ יָ֨הּ",
+        "LXX": "Ἁλληλουιά .",
+        "VUL": "Allelúia .",
+        "SP": null,
+        "KJV": "Praise ye the LORD .",
+        "DSS": "הללו יה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Praise ye the name of the LORD",
+      "traditions": {
+        "WLC": "הַֽ֭לְלוּ אֶת שֵׁ֣ם יְהוָ֑ה",
+        "LXX": "Αἰνεῖτε τὸ ὄνομα Κυρίου ,",
+        "VUL": "Laudáte nomen Dómini ,",
+        "SP": null,
+        "KJV": "Praise ye the name of the LORD ;",
+        "DSS": "הללו את שם יהוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "praise [ him ] , O ye servants of the LORD",
+      "traditions": {
+        "WLC": "הַֽ֝לְלוּ עַבְדֵ֥י יְהוָֽה",
+        "LXX": "αἰνεῖτε δοῦλοι Κύριον ,",
+        "VUL": "laudáte servi Dóminum .",
+        "SP": null,
+        "KJV": "praise [ him ] , O ye servants of the LORD .",
+        "DSS": "הללו עבדי יהוה"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ye that stand in the house of the LORD",
+      "traditions": {
+        "WLC": "שֶׁ֣֭ עֹֽמְדִים בְּ בֵ֣ית יְהוָ֑ה",
+        "LXX": "οἱ ἑστῶτες ἐν οἴκῳ Κυρίου ,",
+        "VUL": "Qui statis in domo Dómini ,",
+        "SP": null,
+        "KJV": "Ye that stand in the house of the LORD ,",
+        "DSS": "ש עומדים ב בית יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in the courts of the house of our God",
+      "traditions": {
+        "WLC": "בְּ֝ חַצְר֗וֹת בֵּ֣ית אֱלֹהֵֽי נוּ",
+        "LXX": "ἐν αὐλαῖς οἴκου θεοῦ ἡμῶν .",
+        "VUL": "in átriis domus Dei nostri .",
+        "SP": null,
+        "KJV": "in the courts of the house of our God ,",
+        "DSS": "ב חצרות בית אלוהי׳נו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": "ו רוממו יה ... ו ב תוכ׳ך ירושלים"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise the LORD",
+      "traditions": {
+        "WLC": "הַֽ֭לְלוּ יָהּ",
+        "LXX": "αἰνεῖτε τὸν κύριον ,",
+        "VUL": "Laudáte Dóminum ,",
+        "SP": null,
+        "KJV": "Praise the LORD ;",
+        "DSS": "הללו את יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for the LORD [ is ] good",
+      "traditions": {
+        "WLC": "כִּי ט֣וֹב יְהוָ֑ה",
+        "LXX": "ὅτι ἀγαθὸς Κύριος ·",
+        "VUL": "quia bonus Dóminus :",
+        "SP": null,
+        "KJV": "for the LORD [ is ] good :",
+        "DSS": "כי טוב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "sing praises unto his name",
+      "traditions": {
+        "WLC": "זַמְּר֥וּ לִ֝ שְׁמ֗ וֹ",
+        "LXX": "ψάλατε τῷ ὀνόματι αὐτοῦ ,",
+        "VUL": "psállite nómini eius ,",
+        "SP": null,
+        "KJV": "sing praises unto his name ;",
+        "DSS": "זמרו שמ׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for [ it is ] pleasant",
+      "traditions": {
+        "WLC": "כִּ֣י נָעִֽים",
+        "LXX": "ὅτι καλόν ·",
+        "VUL": "quóniam suáve .",
+        "SP": null,
+        "KJV": "for [ it is ] pleasant .",
+        "DSS": "כי נעים"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the LORD hath chosen Jacob unto himself",
+      "traditions": {
+        "WLC": "כִּֽי יַעֲקֹ֗ב בָּחַ֣ר ל֣ וֹ יָ֑הּ",
+        "LXX": "ὅτι τὸν Ἰακὼβ ἐξελέξατο ἑαυτῷ ὁ κύριος ,",
+        "VUL": "Quóniam Iacob elégit sibi Dóminus ,",
+        "SP": null,
+        "KJV": "For the LORD hath chosen Jacob unto himself , [ and ]",
+        "DSS": "כי יעקוב בחר ל׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ and ] Israel for his peculiar treasure",
+      "traditions": {
+        "WLC": "יִ֝שְׂרָאֵ֗ל לִ סְגֻלָּתֽ וֹ",
+        "LXX": "Ἰσραὴλ εἰς περιουσιασμὸν αὐτοῦ .",
+        "VUL": "Israel in possessiónem sibi .",
+        "SP": null,
+        "KJV": "Israel for his peculiar treasure .",
+        "DSS": "ו ישראל ל סגולה ל׳ו"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I know that the LORD [ is ] great",
+      "traditions": {
+        "WLC": "כִּ֤י אֲנִ֣י יָ֭דַעְתִּי כִּי גָד֣וֹל יְהוָ֑ה",
+        "LXX": "ὅτι ἔγνων ὅτι μέγας Κύριος ,",
+        "VUL": "Quia ego cognóvi quod magnus est Dóminus ,",
+        "SP": null,
+        "KJV": "For I know that the LORD [ is ] great ,",
+        "DSS": "אני ידעתי כי גדול יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ that ] our Lord [ is ] above all gods",
+      "traditions": {
+        "WLC": "וַ֝ אֲדֹנֵ֗י נוּ מִ כָּל אֱלֹהִֽים",
+        "LXX": "καὶ ὁ κύριος ἡμῶν παρὰ πάντας τοὺς θεούς ·",
+        "VUL": "et Deus noster præ ómnibus diis .",
+        "SP": null,
+        "KJV": "and [ that ] our Lord [ is ] above all gods .",
+        "DSS": "ו אלוהי׳נו מ כול אלוהים"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Whatsoever the LORD pleased , [ that ] did he",
+      "traditions": {
+        "WLC": "כֹּ֤ל אֲשֶׁר חָפֵ֥ץ יְהוָ֗ה עָ֫שָׂ֥ה",
+        "LXX": "πάντα ὅσα ἠθέλησεν ἐποίησεν ὁ κύριος",
+        "VUL": "Omnia quæcúmque vóluit , Dóminus fecit ,",
+        "SP": null,
+        "KJV": "Whatsoever the LORD pleased , [ that ] did he",
+        "DSS": "אשר חפץ יהוה עשה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in heaven , and in earth",
+      "traditions": {
+        "WLC": "בַּ שָּׁמַ֥יִם וּ בָ אָ֑רֶץ",
+        "LXX": "ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ ,",
+        "VUL": "in cælo , in terra ,",
+        "SP": null,
+        "KJV": "in heaven , and in earth ,",
+        "DSS": "ב שמים ו ב ארץ"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "in the seas , and all deep places",
+      "traditions": {
+        "WLC": "בַּ֝ יַּמִּ֗ים וְ כָל תְּהוֹמֽוֹת",
+        "LXX": "ἐν ταῖς θαλάσσαις καὶ ἐν ταῖς ἀβύσσοις ·",
+        "VUL": "in mari et in ómnibus abýssis .",
+        "SP": null,
+        "KJV": "in the seas , and all deep places .",
+        "DSS": "ב ימים ו ב כול ת#הומות"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": "ל עשות יעשה אין כיה אין כ יהוה ו אין ש יעשה כ מלך אלוהים"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "He causeth the vapours to ascend from the ends of the earth",
+      "traditions": {
+        "WLC": "מַֽעֲלֶ֣ה נְשִׂאִים֮ מִ קְצֵ֪ה הָ֫ אָ֥רֶץ",
+        "LXX": "ἀνάγων νεφέλας ἐξ ἐσχάτου γῆς ,",
+        "VUL": "Edúcens nubes ab extrémo terræ :",
+        "SP": null,
+        "KJV": "He causeth the vapours to ascend from the ends of the earth ;",
+        "DSS": "מעלה נשי?א##[ ים מ ]ק#צ#ה ה ארץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he maketh lightnings for the rain",
+      "traditions": {
+        "WLC": "בְּרָקִ֣ים לַ מָּטָ֣ר עָשָׂ֑ה",
+        "LXX": "ἀστραπὰς εἰς ὑετὸν ἐποίησεν ·",
+        "VUL": "fúlgura in plúviam fecit .",
+        "SP": null,
+        "KJV": "he maketh lightnings for the rain ;",
+        "DSS": "ברקים ל מטר עשה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he bringeth the wind out of his treasuries",
+      "traditions": {
+        "WLC": "מֽוֹצֵא ר֝וּחַ מֵ אֽוֹצְרוֹתָֽי ו",
+        "LXX": "ὁ ἐξάγων ἀνέμους ἐκ θησαυρῶν αὐτοῦ .",
+        "VUL": "Qui prodúcit ventos de thesáuris suis :",
+        "SP": null,
+        "KJV": "he bringeth the wind out of his treasuries .",
+        "DSS": "מוציא רוח [ מ אוצרותי׳ו"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who smote the firstborn of Egypt",
+      "traditions": {
+        "WLC": "שֶֽׁ֭ הִכָּה בְּכוֹרֵ֣י מִצְרָ֑יִם",
+        "LXX": "ὃς ἐπάταξεν τὰ πρωτότοκα Αἰγύπτου",
+        "VUL": "qui percússit primogénita Ægýpti",
+        "SP": null,
+        "KJV": "Who smote the firstborn of Egypt ,",
+        "DSS": "ש הכה בכורי מצרים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "both of man and beast",
+      "traditions": {
+        "WLC": "מֵ֝ אָדָ֗ם עַד בְּהֵמָֽה",
+        "LXX": "ἀπὸ ἀνθρώπου ἕως κτήνους ·",
+        "VUL": "ab hómine usque ad pecus .",
+        "SP": null,
+        "KJV": "both of man and beast .",
+        "DSS": "מ אדם עד בהמה"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ Who ] sent tokens and wonders into the midst of thee , O Egypt",
+      "traditions": {
+        "WLC": "שָׁלַ֤ח אֹת֣וֹת וּ֭ מֹפְתִים בְּ תוֹכֵ֣ כִי מִצְרָ֑יִם",
+        "LXX": "ἐξαπέστειλεν σημεῖα καὶ τέρατα ἐν μέσῳ σου , Αἴγυπτε ,",
+        "VUL": "Et misit signa et prodígia in médio tui Ægýpte :",
+        "SP": null,
+        "KJV": "[ Who ] sent tokens and wonders into the midst of thee , O Egypt ,",
+        "DSS": "שלח אותות ו מופתים ב תוכ׳כי מצרים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "upon Pharaoh , and upon all his servants",
+      "traditions": {
+        "WLC": "בְּ֝ פַרְעֹ֗ה וּ בְ כָל עֲבָדָֽי ו",
+        "LXX": "ἐν Φαραὼ καὶ ἐν πᾶσι τοῖς δούλοις αὐτοῦ .",
+        "VUL": "in Pharaónem , et in omnes servos eius .",
+        "SP": null,
+        "KJV": "upon Pharaoh , and upon all his servants .",
+        "DSS": "ב פרעה ו ב כל עבדי׳ו"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who smote great nations",
+      "traditions": {
+        "WLC": "שֶֽׁ֭ הִכָּה גּוֹיִ֣ם רַבִּ֑ים",
+        "LXX": "ἐπάταξεν ἔθνη πολλά ,",
+        "VUL": "Qui percússit gentes multas :",
+        "SP": null,
+        "KJV": "Who smote great nations ,",
+        "DSS": "ש הכה גו ]י(# ם #) רבים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and slew mighty kings",
+      "traditions": {
+        "WLC": "וְ֝ הָרַ֗ג מְלָכִ֥ים עֲצוּמִֽים",
+        "LXX": "καὶ ἀπέκτεινεν βασιλεῖς κραταιούς ,",
+        "VUL": "et occídit reges fortes :",
+        "SP": null,
+        "KJV": "and slew mighty kings ;",
+        "DSS": "מלכים עצומים"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Sihon king of the Amorites",
+      "traditions": {
+        "WLC": "לְ סִיח֤וֹן מֶ֤לֶךְ הָ אֱמֹרִ֗י",
+        "LXX": "τὸν Σηὼν βασιλέα τῶν Ἀμορραίων ,",
+        "VUL": "Sehon regem Amorrhæórum ,",
+        "SP": null,
+        "KJV": "Sihon king of the Amorites ,",
+        "DSS": "את סיחון מלך ה## [ אמר ]י#?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Og king of Bashan",
+      "traditions": {
+        "WLC": "וּ֭ לְ עוֹג מֶ֣לֶךְ הַ בָּשָׁ֑ן",
+        "LXX": "καὶ τὸν Ὢγ βασιλέα τῆς Βασάν ,",
+        "VUL": "et Og regem Basan ,",
+        "SP": null,
+        "KJV": "and Og king of Bashan ,",
+        "DSS": "[ ו ל עוג מלך ה בשן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and all the kingdoms of Canaan",
+      "traditions": {
+        "WLC": "וּ֝ לְ כֹ֗ל מַמְלְכ֥וֹת כְּנָֽעַן",
+        "LXX": "καὶ πάσας τὰς βασιλείας Χανάαν ·",
+        "VUL": "et ómnia regna Chánaan .",
+        "SP": null,
+        "KJV": "and all the kingdoms of Canaan :",
+        "DSS": "ו ל כל ממלכות כנען ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And gave their land [ for ] an heritage",
+      "traditions": {
+        "WLC": "וְ נָתַ֣ן אַרְצָ֣ ם נַחֲלָ֑ה",
+        "LXX": "καὶ ἔδωκεν τὴν γῆν αὐτῶν κληρονομίαν ,",
+        "VUL": "Et dedit terram eórum hereditátem ,",
+        "SP": null,
+        "KJV": "And gave their land [ for ] an heritage ,",
+        "DSS": "ו נתן ארצ׳ם נחלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "an heritage unto Israel his people",
+      "traditions": {
+        "WLC": "נַ֝חֲלָ֗ה לְ יִשְׂרָאֵ֥ל עַמּֽ וֹ",
+        "LXX": "κληρονομίαν Ἰσραὴλ δούλῳ αὐτοῦ .",
+        "VUL": "hereditátem Israel pópulo suo .",
+        "SP": null,
+        "KJV": "an heritage unto Israel his people .",
+        "DSS": "נח ]ל[ ה  ]ל [ י ]ש##ר##אל עמ׳ו ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy name , O LORD , [ endureth ] for ever",
+      "traditions": {
+        "WLC": "יְ֭הוָה שִׁמְ ךָ֣ לְ עוֹלָ֑ם",
+        "LXX": "Κύριε , τὸ ὄνομά σου εἰς τὸν αἰῶνα ,",
+        "VUL": "Dómine nomen tuum in ætérnum :",
+        "SP": null,
+        "KJV": "Thy name , O LORD , [ endureth ] for ever ; [",
+        "DSS": "יהוה שמ׳ך ל עולם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thy memorial , O LORD , throughout all generations",
+      "traditions": {
+        "WLC": "יְ֝הוָ֗ה זִכְרְ ךָ֥ לְ דֹר וָ דֹֽר",
+        "LXX": "Κύριε , τὸ μνημόσυνόν σου εἰς γενεὰν καὶ γενεάν .",
+        "VUL": "Dómine memoriále tuum in generatiónem et generatiónem .",
+        "SP": null,
+        "KJV": "and ] thy memorial , O LORD , throughout all generations .",
+        "DSS": "[ יהוה זכר׳ך ל דר ו דר ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the LORD will judge his people",
+      "traditions": {
+        "WLC": "כִּֽי יָדִ֣ין יְהוָ֣ה עַמּ֑ וֹ",
+        "LXX": "οἰκτείρει Κύριος τὸν λαὸν αὐτοῦ ,",
+        "VUL": "Quia iudicábit Dóminus pópulum suum :",
+        "SP": null,
+        "KJV": "For the LORD will judge his people ,",
+        "DSS": "כי ידין יהוה עמ׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he will repent himself concerning his servants",
+      "traditions": {
+        "WLC": "וְ עַל עֲ֝בָדָ֗י ו יִתְנֶחָֽם",
+        "LXX": "καὶ ἐπὶ τοῖς δούλοις αὐτοῦ παρακληθήσεται .",
+        "VUL": "et in servis suis deprecábitur .",
+        "SP": null,
+        "KJV": "and he will repent himself concerning his servants .",
+        "DSS": "ו על עבדי׳ו יתנחם ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "The idols of the heathen [ are ] silver and gold",
+      "traditions": {
+        "WLC": "עֲצַבֵּ֣י הַ֭ גּוֹיִם כֶּ֣סֶף וְ זָהָ֑ב",
+        "LXX": "τὰ εἴδωλα τῶν ἐθνῶν ἀργύριον καὶ χρυσίον ,",
+        "VUL": "Simulácra géntium argéntum et aurum ,",
+        "SP": null,
+        "KJV": "The idols of the heathen [ are ] silver and gold ,",
+        "DSS": "עצבי ה גוים כסף ו זה ]ב##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the work of men ’s hands",
+      "traditions": {
+        "WLC": "מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם",
+        "LXX": "ἔργα χειρῶν ἀνθρώπων .",
+        "VUL": "ópera mánuum hóminum .",
+        "SP": null,
+        "KJV": "the work of men ’s hands .",
+        "DSS": "מעשי ידי אדם ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "They have mouths , but they speak not",
+      "traditions": {
+        "WLC": "פֶּֽה לָ֭ הֶם וְ לֹ֣א יְדַבֵּ֑רוּ",
+        "LXX": "στόμα ἔχουσιν καὶ οὐ λαλοῦσιν ,",
+        "VUL": "Os habent , et non loquéntur :",
+        "SP": null,
+        "KJV": "They have mouths , but they speak not ;",
+        "DSS": "פה ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "eyes have they , but they see not",
+      "traditions": {
+        "WLC": "עֵינַ֥יִם לָ֝ הֶ֗ם וְ לֹ֣א יִרְאֽוּ",
+        "LXX": "ὀφθαλμοὺς ἔχουσιν καὶ οὐκ ὄψονται ·",
+        "VUL": "óculos habent , et non vidébunt .",
+        "SP": null,
+        "KJV": "eyes have they , but they see not ;",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "They have ears , but they hear not",
+      "traditions": {
+        "WLC": "אָזְנַ֣יִם לָ֭ הֶם וְ לֹ֣א יַאֲזִ֑ינוּ",
+        "LXX": "ὦτα ἔχουσιν καὶ οὐκ ἐνωτισθήσονται ,",
+        "VUL": "Aures habent , et non áudient :",
+        "SP": null,
+        "KJV": "They have ears , but they hear not ;",
+        "DSS": "ל׳הם ו לוא יאזינו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither is there [ any ] breath in their mouths",
+      "traditions": {
+        "WLC": "אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּ פִי הֶֽם",
+        "LXX": "οὐδὲ γάρ ἐστιν πνεῦμα ἐν τῷ στόματι αὐτῶν .",
+        "VUL": "neque enim est spíritus in ore ipsórum .",
+        "SP": null,
+        "KJV": "neither is there [ any ] breath in their mouths .",
+        "DSS": "ו אין יש רוח ב פי׳הם ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "They that make them are like unto them",
+      "traditions": {
+        "WLC": "כְּ֭מוֹ הֶם יִהְי֣וּ עֹשֵׂי הֶ֑ם",
+        "LXX": "ὅμοιοι αὐτοῖς γένοιντο πάντες οἱ ποιοῦντες αὐτὰ",
+        "VUL": "Símiles illis fiant qui fáciunt ea :",
+        "SP": null,
+        "KJV": "They that make them are like unto them : [",
+        "DSS": "כמו׳הם יהיו עושי׳הם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "so is every one that trusteth in them",
+      "traditions": {
+        "WLC": "כֹּ֭ל אֲשֶׁר בֹּטֵ֣חַ בָּ הֶֽם",
+        "LXX": "καὶ πάντες οἱ πεποιθότες ἐν αὐτοῖς .",
+        "VUL": "et omnes , qui confídunt in eis .",
+        "SP": null,
+        "KJV": "so is ] every one that trusteth in them .",
+        "DSS": "ו כול אשר בטח ב׳הם ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Bless the LORD , O house of Israel",
+      "traditions": {
+        "WLC": "בֵּ֣ית יִ֭שְׂרָאֵל בָּרֲכ֣וּ אֶת יְהוָ֑ה",
+        "LXX": "οἶκος Ἰσραήλ , εὐλογήσατε τὸν κύριον ,",
+        "VUL": "Domus Israel benedícite Dómino :",
+        "SP": null,
+        "KJV": "Bless the LORD , O house of Israel :",
+        "DSS": "בית ישראל ברכו את יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "bless the LORD , O house of Aaron",
+      "traditions": {
+        "WLC": "בֵּ֥ית אַ֝הֲרֹ֗ן בָּרֲכ֥וּ אֶת יְהוָֽה",
+        "LXX": "οἶκος Ἀαρών , εὐλογήσατε τὸν κύριον ·",
+        "VUL": "domus Aaron benedícite Dómino .",
+        "SP": null,
+        "KJV": "bless the LORD , O house of Aaron :",
+        "DSS": "בית אהרון ברכו את יהוה ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Bless the LORD , O house of Levi",
+      "traditions": {
+        "WLC": "בֵּ֣ית הַ֭ לֵּוִי בָּרֲכ֣וּ אֶת יְהוָ֑ה",
+        "LXX": "οἶκος Λευεί , εὐλογήσατε τὸν κύριον ,",
+        "VUL": "Domus Levi benedícite Dómino :",
+        "SP": null,
+        "KJV": "Bless the LORD , O house of Levi :",
+        "DSS": "בית ה לוי ברכו את יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "ye that fear the LORD , bless the LORD",
+      "traditions": {
+        "WLC": "יִֽרְאֵ֥י יְ֝הוָ֗ה בָּרֲכ֥וּ אֶת יְהוָֽה",
+        "LXX": "οἱ φοβούμενοι τὸν κύριον , εὐλογήσατε τὸν κύριον .",
+        "VUL": "qui timétis Dóminum , benedícite Dómino .",
+        "SP": null,
+        "KJV": "ye that fear the LORD , bless the LORD .",
+        "DSS": "יראי יהוה ברכו את יהוה ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Blessed be the LORD out of Zion",
+      "traditions": {
+        "WLC": "בָּ֘ר֤וּךְ יְהוָ֨ה מִ צִּיּ֗וֹן",
+        "LXX": "εὐλογητὸς Κύριος ἐκ Σιών ,",
+        "VUL": "Benedíctus Dóminus ex Sion ,",
+        "SP": null,
+        "KJV": "Blessed be the LORD out of Zion ,",
+        "DSS": "יברכ׳כה יהוה מ ציון"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which dwelleth at Jerusalem",
+      "traditions": {
+        "WLC": "שֹׁ֘כֵ֤ן יְֽרוּשָׁלִָ֗ם",
+        "LXX": "ὁ κατοικῶν Ἰερουσαλήμ .",
+        "VUL": "qui hábitat in Ierúsalem .",
+        "SP": null,
+        "KJV": "which dwelleth at Jerusalem .",
+        "DSS": "שוכן ירושלים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Praise ye the LORD",
+      "traditions": {
+        "WLC": "הַֽלְלוּ יָֽהּ",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "Praise ye the LORD .",
+        "DSS": "הללו יה ׃"
+      }
+    }
+  ]
+}

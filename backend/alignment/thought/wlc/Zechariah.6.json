@@ -1,0 +1,534 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I turned",
+      "traditions": {
+        "WLC": "וָ אָשֻׁ֗ב",
+        "LXX": "Καὶ ἐπέστρεψα",
+        "VUL": "Et convérsus sum ,",
+        "SP": null,
+        "KJV": "And I turned ,",
+        "DSS": "[ ו אשב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and lifted up mine eyes",
+      "traditions": {
+        "WLC": "וָ אֶשָּׂ֤א עֵינַ י֙",
+        "LXX": "καὶ ἦρα τοὺς ὀφθαλμούς μου",
+        "VUL": "et levávi óculos meos ,",
+        "SP": null,
+        "KJV": "and lifted up mine eyes ,",
+        "DSS": "ו אשא עינ׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and looked",
+      "traditions": {
+        "WLC": "וָֽ אֶרְאֶ֔ה",
+        "LXX": "καὶ εἶδον ,",
+        "VUL": "et vidi :",
+        "SP": null,
+        "KJV": "and looked ,",
+        "DSS": "ו אראה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and , behold , there came four chariots out from between two mountains",
+      "traditions": {
+        "WLC": "וְ הִנֵּ֨ה אַרְבַּ֤ע מַרְכָּבוֹת֙ יֹֽצְא֔וֹת מִ בֵּ֖ין שְׁנֵ֣י הֶֽ הָרִ֑ים",
+        "LXX": "καὶ ἰδοὺ τέσσαρα ἅρματα ἐκπορευόμενα ἐκ μέσου δύο ὀρέων ,",
+        "VUL": "et ecce quátuor quadrígæ egrediéntes de médio duórum móntium :",
+        "SP": null,
+        "KJV": "and , behold , there came four chariots out from between two mountains ;",
+        "DSS": "ו הנה ארבע מרכבות יצאות מ בין שני ה הרים"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and the mountains [ were ] mountains of brass",
+      "traditions": {
+        "WLC": "וְ הֶ הָרִ֖ים הָרֵ֥י נְחֹֽשֶׁת",
+        "LXX": "καὶ τὰ ὄρη ἦν ὄρη χαλκᾶ .",
+        "VUL": "et montes , montes ǽrei .",
+        "SP": null,
+        "KJV": "and the mountains [ were ] mountains of brass .",
+        "DSS": "ו ה הרים הרי נחו]ש"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the first chariot [ were ] red horses",
+      "traditions": {
+        "WLC": "בַּ מֶּרְכָּבָ֥ה הָ רִֽאשֹׁנָ֖ה סוּסִ֣ים אֲדֻמִּ֑ים",
+        "LXX": "ἐν τῷ ἅρματι τῷ πρώτῳ ἵπποι πυρροί ,",
+        "VUL": "In quadríga prima equi rufi ,",
+        "SP": null,
+        "KJV": "In the first chariot [ were ] red horses ;",
+        "DSS": "ב מר##[ כבה ה ראשנה סוסים אדמים ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and in the second chariot black horses",
+      "traditions": {
+        "WLC": "וּ בַ מֶּרְכָּבָ֥ה הַ שֵּׁנִ֖ית סוּסִ֥ים שְׁחֹרִֽים",
+        "LXX": "καὶ ἐν τῷ ἅρματι τῷ δευτέρῳ ἵπποι μέλανες ,",
+        "VUL": "et in quadríga secúnda equi nigri ,",
+        "SP": null,
+        "KJV": "and in the second chariot black horses ;",
+        "DSS": "[ ו ב מרכבה ה שנית סוסים שחרים"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And in the third chariot white horses",
+      "traditions": {
+        "WLC": "וּ בַ מֶּרְכָּבָ֥ה הַ שְּׁלִשִׁ֖ית סוּסִ֣ים לְבָנִ֑ים",
+        "LXX": "καὶ ἐν τῷ ἅρματι τῷ τρίτῳ ἵπποι λευκοί ,",
+        "VUL": "et in quadríga tértia equi albi ,",
+        "SP": null,
+        "KJV": "And in the third chariot white horses ;",
+        "DSS": "ו ב מרכ[ בה ה שלשית סוסים ] לבנים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and in the fourth chariot grisled and bay horses",
+      "traditions": {
+        "WLC": "וּ בַ מֶּרְכָּבָה֙ הָ רְבִעִ֔ית סוּסִ֥ים בְּרֻדִּ֖ים אֲמֻצִּֽים",
+        "LXX": "καὶ ἐν τῷ ἅρματι τῷ τετάρτῳ ἵπποι ποικίλοι ψαροί .",
+        "VUL": "et in quadríga quarta equi várii , et fortes .",
+        "SP": null,
+        "KJV": "and in the fourth chariot grisled and bay horses .",
+        "DSS": "ו ב מרכבה ה רבעית סוסים ברדי]ם אמיצ[ ים"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then I answered and said unto the angel that talked with me",
+      "traditions": {
+        "WLC": "וָ אַ֨עַן֙ וָֽ אֹמַ֔ר אֶל הַ מַּלְאָ֖ךְ הַ דֹּבֵ֣ר בִּ֑ י",
+        "LXX": "καὶ ἀπεκρίθην καὶ εἶπα πρὸς τὸν ἄγγελον τὸν λαλοῦντα ἐν ἐμοί",
+        "VUL": "Et respóndi , et dixi ad ángelum , qui loquebátur in me :",
+        "SP": null,
+        "KJV": "Then I answered and said unto the angel that talked with me ,",
+        "DSS": "ו אען ו אמר ] [ אל ה מלאך ה דבר ב׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "What [ are ] these , my lord ?",
+      "traditions": {
+        "WLC": "מָה אֵ֖לֶּה אֲדֹנִֽ י",
+        "LXX": "Τί ἐστιν ταῦτα , κύριε ;",
+        "VUL": "Quid sunt hæc , dómine mi ?",
+        "SP": null,
+        "KJV": "What [ are ] these , my lord ?",
+        "DSS": "מה אלה אדנ׳י"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the angel answered and said unto me",
+      "traditions": {
+        "WLC": "וַ יַּ֥עַן הַ מַּלְאָ֖ךְ וַ יֹּ֣אמֶר אֵלָ֑ י",
+        "LXX": "καὶ ἀπεκρίθη ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοὶ καὶ εἶπεν",
+        "VUL": "Et respóndit ángelus , et ait ad me :",
+        "SP": null,
+        "KJV": "And the angel answered and said unto me ,",
+        "DSS": "ו יען ה מלאכ ו יומ[ ר אל׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "These [ are ] the four spirits of the heavens",
+      "traditions": {
+        "WLC": "אֵ֗לֶּה אַרְבַּע֙ רֻח֣וֹת הַ שָּׁמַ֔יִם",
+        "LXX": "Ταῦτά ἐστιν οἱ τέσσαρες ἄνεμοι τοῦ οὐρανοῦ ,",
+        "VUL": "Isti sunt quátuor venti cæli ,",
+        "SP": null,
+        "KJV": "These [ are ] the four spirits of the heavens ,",
+        "DSS": "אלה ארבע רחות ה שמים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which go forth from standing before the Lord of all the earth",
+      "traditions": {
+        "WLC": "יוֹצְא֕וֹת מֵֽ הִתְיַצֵּ֖ב עַל אֲד֥וֹן כָּל הָ אָֽרֶץ",
+        "LXX": "ἐκπορεύονται παραστῆναι τῷ κυρίῳ πάσης τῆς γῆς .",
+        "VUL": "qui egrediúntur ut stent coram Dominatóre omnis terræ .",
+        "SP": null,
+        "KJV": "which go forth from standing before the Lord of all the earth .",
+        "DSS": "יוצאות ε # אדון כול ה אר[ ץ"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "The black horses which [ are ] therein go forth into the north country",
+      "traditions": {
+        "WLC": "אֲשֶׁר בָּ֞ הּ הַ סּוּסִ֣ים הַ שְּׁחֹרִ֗ים יֹֽצְאִים֙ אֶל אֶ֣רֶץ צָפ֔וֹן",
+        "LXX": "ἐν ᾧ ἦσαν οἱ ἵπποι οἱ μέλανες , ἐξεπορεύοντο ἐπὶ γῆν βορρᾶ ,",
+        "VUL": "In qua erant equi nigri , egrediebántur in terram aquilónis :",
+        "SP": null,
+        "KJV": "The black horses which [ are ] therein go forth into the north country ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the white go forth after them",
+      "traditions": {
+        "WLC": "וְ הַ לְּבָנִ֔ים יָצְא֖וּ אֶל אַֽחֲרֵי הֶ֑ם",
+        "LXX": "καὶ οἱ λευκοὶ ἐξεπορεύοντο κατόπισθεν αὐτῶν ,",
+        "VUL": "et albi egréssi sunt post eos :",
+        "SP": null,
+        "KJV": "and the white go forth after them ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the grisled go forth toward the south country",
+      "traditions": {
+        "WLC": "וְ הַ֨ בְּרֻדִּ֔ים יָצְא֖וּ אֶל אֶ֥רֶץ הַ תֵּימָֽן",
+        "LXX": "καὶ οἱ ποικίλοι ἐξεπορεύοντο ἐπὶ γῆν νότου ,",
+        "VUL": "et várii egréssi sunt ad terram austri .",
+        "SP": null,
+        "KJV": "and the grisled go forth toward the south country .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the bay went forth , and sought to go that they might walk to and fro through the earth",
+      "traditions": {
+        "WLC": "וְ הָ אֲמֻצִּ֣ים יָצְא֗וּ וַ יְבַקְשׁוּ֙ לָ לֶ֨כֶת֙ לְ הִתְהַלֵּ֣ך בָּ אָ֔רֶץ",
+        "LXX": "καὶ οἱ ψαροὶ ἐξεπορεύοντο καὶ ἐπέβλεπον τοῦ πορεύεσθαι τοῦ περιοδεῦσαι τὴν γῆν .",
+        "VUL": "Qui autem erant robustíssimi , exiérunt , et quærébant ire , et discúrrere per omnem terram .",
+        "SP": null,
+        "KJV": "And the bay went forth , and sought to go that they might walk to and fro through the earth :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he said , Get you hence , walk to and fro through the earth",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר לְכ֖וּ הִתְהַלְּכ֣וּ בָ אָ֑רֶץ",
+        "LXX": "καὶ εἶπεν Πορεύεσθε καὶ περιοδεύσατε τὴν γῆν ·",
+        "VUL": "Et dixit : Ite , perambuláte terram :",
+        "SP": null,
+        "KJV": "and he said , Get you hence , walk to and fro through the earth .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "So they walked to and fro through the earth",
+      "traditions": {
+        "WLC": "וַ תִּתְהַלַּ֖כְנָה בָּ אָֽרֶץ",
+        "LXX": "καὶ περιώδευσαν τὴν γῆν .",
+        "VUL": "et perambulavérunt terram .",
+        "SP": null,
+        "KJV": "So they walked to and fro through the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then cried he upon me , and spake unto me , saying",
+      "traditions": {
+        "WLC": "וַ יַּזְעֵ֣ק אֹתִ֔ י וַ יְדַבֵּ֥ר אֵלַ֖ י לֵ אמֹ֑ר",
+        "LXX": "καὶ ἀνεβόησαν , καὶ ἐλάλησεν πρὸς μὲ λέγων",
+        "VUL": "Et vocávit me , et locútus est ad me , dicens :",
+        "SP": null,
+        "KJV": "Then cried he upon me , and spake unto me , saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Behold , these that go toward the north country",
+      "traditions": {
+        "WLC": "רְאֵ֗ה הַ יּֽוֹצְאִים֙ אֶל אֶ֣רֶץ צָפ֔וֹן",
+        "LXX": "Ἰδοὺ οἱ ἐκπορευόμενοι ἐπὶ γῆν βορρᾶ ,",
+        "VUL": "Ecce qui egrediúntur in terram aquilónis ,",
+        "SP": null,
+        "KJV": "Behold , these that go toward the north country",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "have quieted my spirit in the north country",
+      "traditions": {
+        "WLC": "הֵנִ֥יחוּ אֶת רוּחִ֖ י בְּ אֶ֥רֶץ צָפֽוֹן",
+        "LXX": "καὶ ἀνέπαυσαν τὸν θυμόν μου ἐν γῇ βορρᾶ .",
+        "VUL": "requiéscere fecérunt spíritum meum in terra aquilónis .",
+        "SP": null,
+        "KJV": "have quieted my spirit in the north country .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the word of the LORD came unto me , saying",
+      "traditions": {
+        "WLC": "וַ יְהִ֥י דְבַר יְהוָ֖ה אֵלַ֥ י לֵ אמֹֽר",
+        "LXX": "Καὶ ἐγένετο λόγος Κυρίου πρὸς μὲ λέγων",
+        "VUL": "Et factum est verbum Dómini ad me , dicens :",
+        "SP": null,
+        "KJV": "And the word of the LORD came unto me , saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then take silver and gold",
+      "traditions": {
+        "WLC": "וְ לָקַחְתָּ֥ כֶֽסֶף וְ זָהָ֖ב",
+        "LXX": "καὶ λήψῃ ἀργύριον καὶ χρυσίον",
+        "VUL": "Et sumes aurum , et argéntum :",
+        "SP": null,
+        "KJV": "Then take silver and gold ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and make crowns",
+      "traditions": {
+        "WLC": "וְ עָשִׂ֣יתָ עֲטָר֑וֹת",
+        "LXX": "καὶ ποιήσεις στεφάνους ,",
+        "VUL": "et fácies corónas ,",
+        "SP": null,
+        "KJV": "and make crowns ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and set [ them ] upon the head of Joshua the son of Josedech , the high priest",
+      "traditions": {
+        "WLC": "וְ שַׂמְתָּ֗ בְּ רֹ֛אשׁ יְהוֹשֻׁ֥עַ בֶּן יְהוֹצָדָ֖ק הַ כֹּהֵ֥ן הַ גָּדֽוֹל",
+        "LXX": "καὶ ἐπιθήσεις ἐπὶ τὴν κεφαλὴν Ἰησοῦ τοῦ Ἰωσεδὲκ τοῦ ἱερέως τοῦ μεγάλου ,",
+        "VUL": "et pones in cápite Iesu fílii Iósedec , sacerdótis magni ,",
+        "SP": null,
+        "KJV": "and set [ them ] upon the head of Joshua the son of Josedech , the high priest ;",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And speak unto him , saying",
+      "traditions": {
+        "WLC": "וְ אָמַרְתָּ֤ אֵלָי ו֙ לֵ אמֹ֔ר",
+        "LXX": "καὶ ἐρεῖς πρὸς αὐτόν",
+        "VUL": "et loquéris ad eum , dicens :",
+        "SP": null,
+        "KJV": "And speak unto him , saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Thus speaketh the LORD of hosts , saying",
+      "traditions": {
+        "WLC": "כֹּ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת לֵ אמֹ֑ר",
+        "LXX": "Τάδε λέγει Κύριος Παντοκράτωρ",
+        "VUL": "Hæc ait Dóminus exercítuum , dicens :",
+        "SP": null,
+        "KJV": "Thus speaketh the LORD of hosts , saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Behold the man whose name [ is ] The BRANCH",
+      "traditions": {
+        "WLC": "הִנֵּה אִ֞ישׁ צֶ֤מַח שְׁמ וֹ֙",
+        "LXX": "Ἰδοὺ ἀνήρ , Ἀνατολὴ ὄνομα αὐτῷ ,",
+        "VUL": "Ecce vir Oriens nomen eius :",
+        "SP": null,
+        "KJV": "Behold the man whose name [ is ] The BRANCH ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and he shall grow up out of his place",
+      "traditions": {
+        "WLC": "וּ מִ תַּחְתָּ֣י ו יִצְמָ֔ח",
+        "LXX": "καὶ ὑποκάτωθεν αὐτοῦ ἀνατελεῖ ,",
+        "VUL": "et subter eum oriétur ,",
+        "SP": null,
+        "KJV": "and he shall grow up out of his place ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and he shall build the temple of the LORD",
+      "traditions": {
+        "WLC": "וּ בָנָ֖ה אֶת הֵיכַ֥ל יְהוָֽהּ",
+        "LXX": "καὶ οἰκοδομήσει τὸν οἶκον Κυρίου ·",
+        "VUL": "et ædificábit templum Dómino .",
+        "SP": null,
+        "KJV": "and he shall build the temple of the LORD :",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Even he shall build the temple of the LORD",
+      "traditions": {
+        "WLC": "וְ֠ הוּא יִבְנֶ֞ה אֶת הֵיכַ֤ל יְהוָה֙",
+        "LXX": null,
+        "VUL": "Et ipse éxstruet templum Dómino :",
+        "SP": null,
+        "KJV": "Even he shall build the temple of the LORD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he shall bear the glory",
+      "traditions": {
+        "WLC": "וְ הֽוּא יִשָּׂ֣א ה֔וֹד",
+        "LXX": "καὶ αὐτὸς λήμψεται ἀρετήν ,",
+        "VUL": "et ipse portábit glóriam ,",
+        "SP": null,
+        "KJV": "and he shall bear the glory ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and shall sit and rule upon his throne",
+      "traditions": {
+        "WLC": "וְ יָשַׁ֥ב וּ מָשַׁ֖ל עַל כִּסְא֑ וֹ",
+        "LXX": "καὶ καθιεῖται καὶ κατάρξει ἐπὶ τοῦ θρόνου αὐτοῦ ,",
+        "VUL": "et sedébit , et dominábitur super sólio suo :",
+        "SP": null,
+        "KJV": "and shall sit and rule upon his throne ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and he shall be a priest upon his throne",
+      "traditions": {
+        "WLC": "וְ הָיָ֤ה כֹהֵן֙ עַל כִּסְא֔ וֹ",
+        "LXX": "καὶ ἔσται ὁ ἱερεὺς ἐκ δεξιῶν αὐτοῦ ,",
+        "VUL": "et erit sacérdos super sólio suo :",
+        "SP": null,
+        "KJV": "and he shall be a priest upon his throne :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and the counsel of peace shall be between them both",
+      "traditions": {
+        "WLC": "וַ עֲצַ֣ת שָׁל֔וֹם תִּהְיֶ֖ה בֵּ֥ין שְׁנֵי הֶֽם",
+        "LXX": "καὶ βουλὴ εἰρηνικὴ ἔσται ἀνὰ μέσον ἀμφοτέρων .",
+        "VUL": "et consílium pacis erit inter illos duos .",
+        "SP": null,
+        "KJV": "and the counsel of peace shall be between them both .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the crowns shall be to Helem , and to Tobijah , and to Jedaiah , and to Hen the son of Zephaniah",
+      "traditions": {
+        "WLC": "וְ הָ עֲטָרֹ֗ת תִּֽהְיֶה֙ לְ חֵ֨לֶם֙ וּ לְ טוֹבִיָּ֣ה וְ לִ ידַֽעְיָ֔ה וּ לְ חֵ֖ן בֶּן צְפַנְיָ֑ה",
+        "LXX": "ὁ δὲ στέφανος ἔσται τοῖς ὑπομένουσιν καὶ τοῖς χρησίμοις αὐτῆς καὶ τοῖς ἐπεγνωκόσιν αὐτήν , καὶ εἰς χάριτα υἱοῦ Σοφονίου ,",
+        "VUL": "Et corónæ erunt Helem , et Tobíæ , et Idaíæ , et Hem fílio Sophoníæ ,",
+        "SP": null,
+        "KJV": "And the crowns shall be to Helem , and to Tobijah , and to Jedaiah , and to Hen the son of Zephaniah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for a memorial in the temple of the LORD",
+      "traditions": {
+        "WLC": "לְ זִכָּר֖וֹן בְּ הֵיכַ֥ל יְהוָֽה",
+        "LXX": "καὶ εἰς ψαλμὸν ἐν οἴκῳ Κυρίου .",
+        "VUL": "memoriále in templo Dómini .",
+        "SP": null,
+        "KJV": "for a memorial in the temple of the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they [ that are ] far off shall come and build in the temple of the LORD",
+      "traditions": {
+        "WLC": "וּ רְחוֹקִ֣ים יָבֹ֗אוּ וּ בָנוּ֙ בְּ הֵיכַ֣ל יְהוָ֔ה",
+        "LXX": "καὶ οἱ μακρὰν ἀπ᾽ αὐτῶν ἥξουσιν καὶ οἰκοδομήσουσιν ἐν τῷ οἴκῳ Κυρίου ,",
+        "VUL": "Et qui procul sunt , vénient , et ædificábunt in templo Dómini :",
+        "SP": null,
+        "KJV": "And they [ that are ] far off shall come and build in the temple of the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and ye shall know that the LORD of hosts hath sent me unto you",
+      "traditions": {
+        "WLC": "וִ ידַעְתֶּ֕ם כִּֽי יְהוָ֥ה צְבָא֖וֹת שְׁלָחַ֣ נִי אֲלֵי כֶ֑ם",
+        "LXX": "καὶ γνώσεσθε διότι Κύριος Παντοκράτωρ ἀπέσταλκέν με πρὸς ὑμᾶς ·",
+        "VUL": "et sciétis quia Dóminus exercítuum misit me ad vos .",
+        "SP": null,
+        "KJV": "and ye shall know that the LORD of hosts hath sent me unto you .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And [ this ] shall come to pass , if ye will diligently obey the voice of the LORD your God",
+      "traditions": {
+        "WLC": "וְ הָיָה֙ אִם שָׁמ֣וֹעַ תִּשְׁמְע֔וּ ן בְּ ק֖וֹל יְהוָ֥ה אֱלֹהֵי כֶֽם",
+        "LXX": "καὶ ἔσται ἐὰν εἰσακούοντες εἰσακούσητε τῆς φωνῆς Κυρίου τοῦ θεοῦ ὑμῶν .",
+        "VUL": "Erit autem hoc , si audítu audiéritis vocem Dómini Dei vestri .",
+        "SP": null,
+        "KJV": "And [ this ] shall come to pass , if ye will diligently obey the voice of the LORD your God .",
+        "DSS": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,872 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the ark of the LORD was in the country of the Philistines seven months .",
+      "traditions": {
+        "WLC": "וַ יְהִ֧י אֲרוֹן יְהוָ֛ה בִּ שְׂדֵ֥ה פְלִשְׁתִּ֖ים שִׁבְעָ֥ה חֳדָשִֽׁים",
+        "LXX": "Καὶ ἦν ἡ κιβωτὸς ἐν ἀγρῷ τῶν ἀλλοφύλων ἑπτὰ μῆνας ,",
+        "VUL": "Fuit ergo arca Dómini in regióne Philisthinórum septem ménsibus .",
+        "SP": null,
+        "KJV": "And the ark of the LORD was in the country of the Philistines seven months .",
+        "DSS": "[4Q51] [ ו יהי ה ארון ב שדה פלשתיים ש ]בעה חודשים ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ ἐξέζεσεν ἡ γῆ αὐτῶν μύας .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the Philistines called for the priests and the diviners , saying ,",
+      "traditions": {
+        "WLC": "וַ יִּקְרְא֣וּ פְלִשְׁתִּ֗ים לַ כֹּהֲנִ֤ים וְ לַ קֹּֽסְמִים֙ לֵ אמֹ֔ר",
+        "LXX": "καὶ καλοῦσιν ἀλλόφυλοι τοὺς ἱερεῖς καὶ τοὺς μάντεις καὶ τοὺς ἐπαοιδοὺς αὐτῶν λέγοντες",
+        "VUL": "Et vocavérunt Philísthiim sacerdótes et divínos , dicéntes :",
+        "SP": null,
+        "KJV": "And the Philistines called for the priests and the diviners , saying ,",
+        "DSS": "[4Q51] ו י?[ ק ]ר##א#ו פלשתי[ ים ] [ ל כוהנים ו ל קוסמים ו ל חרטמים ] ו ל מעונ#?[ ני ]ם ל אמור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "What shall we do to the ark of the LORD ?",
+      "traditions": {
+        "WLC": "מַֽה נַּעֲשֶׂ֖ה לַ אֲר֣וֹן יְהוָ֑ה",
+        "LXX": "Τί ποιήσωμεν κιβωτῷ Κυρίου ?",
+        "VUL": "Quid faciémus de arca Dómini ?",
+        "SP": null,
+        "KJV": "What shall we do to the ark of the LORD ?",
+        "DSS": "מה# נעשה [ ל ארון יהוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "tell us wherewith we shall send it to his place .",
+      "traditions": {
+        "WLC": "הוֹדִעֻ֕ נוּ בַּ מֶּ֖ה נְשַׁלְּחֶ֥ נּוּ לִ מְקוֹמֽ וֹ",
+        "LXX": "γνωρίσατε ἡμῖν ἐν τίνι ἀποστελοῦμεν αὐτὴν εἰς τὸν τόπον αὐτῆς .",
+        "VUL": "indicáte nobis quómodo remittámus eam in locum suum . Qui dixérunt :",
+        "SP": null,
+        "KJV": "tell us wherewith we shall send it to his place .",
+        "DSS": "הודיעו׳נו ב מה נ ]שלח׳נו אל מקומ׳ו ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they said , If ye send away the ark of the God of Israel , send it not empty ;",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֗וּ אִֽם מְשַׁלְּחִ֞ים אֶת אֲר֨וֹן אֱלֹהֵ֤י יִשְׂרָאֵל֙ אַל תְּשַׁלְּח֤וּ אֹת וֹ֙ רֵיקָ֔ם",
+        "LXX": "καὶ εἶπαν Εἰ ἐξαποστέλλετε ὑμεῖς τὴν κιβωτὸν διαθήκης θεοῦ Κυρίου Ἰσραήλ , μὴ δὴ ἐξαποστείλητε αὐτὴν κενήν ,",
+        "VUL": "Si remíttitis arcam Dei Israel , nolíte dimíttere eam vácuam ,",
+        "SP": null,
+        "KJV": "And they said , If ye send away the ark of the God of Israel , send it not empty ;",
+        "DSS": "[ ם ] [ משלחים אתם את ארון ] ב#רית## יהוה אלוהי ישראל## אל תשל#[ חו ] [ אות׳ו ריקם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but in any wise return him a trespass offering :",
+      "traditions": {
+        "WLC": "כִּֽי הָשֵׁ֥ב תָּשִׁ֛יבוּ ל֖ וֹ אָשָׁ֑ם",
+        "LXX": "ἀλλὰ ἀποδιδόντες ἀπόδοτε αὐτῇ τῆς βασάνου ,",
+        "VUL": "sed quod debétis , réddite ei pro peccáto ,",
+        "SP": null,
+        "KJV": "but in any wise return him a trespass offering :",
+        "DSS": "כי השב ת ]שיב[ ו ] ל׳ו#? א[ ש ]ם#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "then ye shall be healed ,",
+      "traditions": {
+        "WLC": "אָ֤ז תֵּרָֽפְאוּ֙",
+        "LXX": "καὶ τότε ἰαθήσεσθε ,",
+        "VUL": "et tunc curabímini :",
+        "SP": null,
+        "KJV": "then ye shall be healed ,",
+        "DSS": "אז תרפא#[ ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and it shall be known to you why his hand is not removed from you .",
+      "traditions": {
+        "WLC": "וְ נוֹדַ֣ע לָ כֶ֔ם לָ֛ מָּה לֹא תָס֥וּר יָד֖ וֹ מִ כֶּֽם",
+        "LXX": "καὶ ἐξιλασθήσεται ὑμῖν · μὴ οὐκ ἀποστῇ ἡ χεὶρ αὐτοῦ ἀφ᾽ ὑμῶν ?",
+        "VUL": "et sciétis quare non recédat manus eius a vobis .",
+        "SP": null,
+        "KJV": "and it shall be known to you why his hand is not removed from you .",
+        "DSS": "ו ] נ?כפר ל##׳[ כם ] [ ה לוא תסור יד׳ו מ׳כם ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then said they , What [ shall be ] the trespass offering which we shall return to him ?",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֗וּ מָ֣ה הָ אָשָׁם֮ אֲשֶׁ֣ר נָשִׁ֣יב ל וֹ֒",
+        "LXX": "καὶ λέγουσιν Τί τὸ τῆς βασάνου ἀποδώσομεν αὐτῇ ?",
+        "VUL": "Qui dixérunt : Quid est quod pro delícto réddere debeámus ei ?",
+        "SP": null,
+        "KJV": "Then said they , What [ shall be ] the trespass offering which we shall return to him ?",
+        "DSS": "ו יאמרו מ ]ה## ה# אשם [ א ]ש##ר נש[ י ]ב ל׳[ ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "They answered , Five golden emerods , and five golden mice , [ according to ] the number of the lords of the Philistines :",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֗וּ מִסְפַּר֙ סַרְנֵ֣י פְלִשְׁתִּ֔ים חֲמִשָּׁה֙ עפלי זָהָ֔ב וַ חֲמִשָּׁ֖ה עַכְבְּרֵ֣י זָהָ֑ב",
+        "LXX": "καὶ εἶπαν Κατ᾽ ἀριθμὸν τῶν σατραπῶν τῶν ἀλλοφύλων πέντε ἕδρας χρυσᾶς ,",
+        "VUL": "Responderúntque illi :",
+        "SP": null,
+        "KJV": "They answered , Five golden emerods , and five golden mice , [ according to ] the number of the lords of the Philistines :",
+        "DSS": "ו יאמרו ] [ כ מספר סרני פלשתיים חמשה ] ע##פלי זהב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for one plague [ was ] on you all , and on your lords .",
+      "traditions": {
+        "WLC": "כִּֽי מַגֵּפָ֥ה אַחַ֛ת לְ כֻלָּ֖ ם וּ לְ סַרְנֵי כֶֽם",
+        "LXX": "ὅτι πταῖσμα ἓν ὑμῖν καὶ τοῖς ἄρχουσιν ὑμῶν καὶ τῷ λαῷ ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": "for one plague [ was ] on you all , and on your lords .",
+        "DSS": "כי מגפה אח#ת ל##׳[ כם ] [ ו ל סרני׳כם ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "VUL Plus",
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "Iuxta númerum provinciárum Philisthinórum quinque anos áureos faciétis , et quinque mures áureos : quia plaga una fuit ómnibus vobis , et sátrapis vestris .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Wherefore ye shall make images of your emerods ,",
+      "traditions": {
+        "WLC": "וַ עֲשִׂיתֶם֩ צַלְמֵ֨י עפלי כם",
+        "LXX": null,
+        "VUL": "Facietísque similitúdines anórum vestrórum ,",
+        "SP": null,
+        "KJV": "Wherefore ye shall make images of your emerods ,",
+        "DSS": "[4Q51] ו עשיתם צלמי ה עפ ]ל##[ י ]ם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and images of your mice that mar the land ;",
+      "traditions": {
+        "WLC": "וְ צַלְמֵ֣י עַכְבְּרֵי כֶ֗ם הַ מַּשְׁחִיתִם֙ אֶת הָ אָ֔רֶץ",
+        "LXX": "καὶ μῦς χρυσοῦς ὁμοίωμα τῶν μυῶν ὑμῶν τῶν διαφθειρόντων τὴν γῆν .",
+        "VUL": "et similitúdines múrium , qui demolíti sunt terram :",
+        "SP": null,
+        "KJV": "and images of your mice that mar the land ;",
+        "DSS": "ו צלמי ה עכברים ה# [ משחיתים ] [ את ה ארץ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and ye shall give glory unto the God of Israel :",
+      "traditions": {
+        "WLC": "וּ נְתַתֶּ֛ם לֵ אלֹהֵ֥י יִשְׂרָאֵ֖ל כָּב֑וֹד",
+        "LXX": "καὶ δώσετε τῷ κυρίῳ δόξαν ,",
+        "VUL": "et dábitis Deo Israel glóriam ,",
+        "SP": null,
+        "KJV": "and ye shall give glory unto the God of Israel :",
+        "DSS": "ו נתתם ל יהוה כבוד ]"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "peradventure he will lighten his hand from off you ,",
+      "traditions": {
+        "WLC": "אוּלַ֗י יָקֵ֤ל אֶת יָד וֹ֙ מֵֽ עֲלֵי כֶ֔ם",
+        "LXX": "ὅπως κουφίσῃ τὴν χεῖρα αὐτοῦ ἀφ᾽ ὑμῶν",
+        "VUL": "si forte rélevet manum suam a vobis ,",
+        "SP": null,
+        "KJV": "peradventure he will lighten his hand from off you ,",
+        "DSS": "ו#? א##[ ו ]לי? יקל את י#?[ ד׳ו מ עלי׳כם"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and from off your gods ,",
+      "traditions": {
+        "WLC": "וּ מֵ עַ֥ל אֱלֹהֵי כֶ֖ם",
+        "LXX": "καὶ ἀπὸ τῶν θεῶν ὑμῶν",
+        "VUL": "et a diis vestris ,",
+        "SP": null,
+        "KJV": "and from off your gods ,",
+        "DSS": "ו מ על ] [ אלוהי׳כם"
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "and from off your land .",
+      "traditions": {
+        "WLC": "וּ מֵ עַ֥ל אַרְצְ כֶֽם",
+        "LXX": "καὶ ἀπὸ τῆς γῆς ὑμῶν .",
+        "VUL": "et a terra vestra .",
+        "SP": null,
+        "KJV": "and from off your land .",
+        "DSS": "ו מ על ארצ׳כם ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wherefore then do ye harden your hearts , as the Egyptians and Pharaoh hardened their hearts ?",
+      "traditions": {
+        "WLC": "וְ לָ֤ מָּה תְכַבְּדוּ֙ אֶת לְבַבְ כֶ֔ם כַּ אֲשֶׁ֧ר כִּבְּד֛וּ מִצְרַ֥יִם וּ פַרְעֹ֖ה אֶת לִבָּ֑ ם",
+        "LXX": "καὶ ἵνα τί βαρύνετε τὰς καρδίας ὑμῶν , ὡς ἐβάρυνεν Αἴγυπτος καὶ Φαραὼ τὴν καρδίαν αὐτῶν ?",
+        "VUL": "Quare aggravátis corda vestra , sicut aggravávit Ægýptus et Phárao cor suum ?",
+        "SP": null,
+        "KJV": "Wherefore then do ye harden your hearts , as the Egyptians and Pharaoh hardened their hearts ?",
+        "DSS": "[4Q51] ו למה תכבדו את ] לבב##׳[ כם כ אשר כבדו ] [ מצרים ו פרעה את לב׳ם ה לוא ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when he had wrought wonderfully among them , did they not let the people go , and they departed ?",
+      "traditions": {
+        "WLC": "הֲ לוֹא֙ כַּ אֲשֶׁ֣ר הִתְעַלֵּ֣ל בָּ הֶ֔ם וַֽ יְשַׁלְּח֖וּ ם וַ יֵּלֵֽכוּ",
+        "LXX": "οὐχὶ ὅτε ἐνέπαιξεν αὐτοῖς , ἐξαπέστειλαν αὐτοὺς καὶ ἀπῆλθον ?",
+        "VUL": "nonne postquam percússus est , tunc dimísit eos , et abiérunt ?",
+        "SP": null,
+        "KJV": "when he had wrought wonderfully among them , did they not let the people go , and they departed ?",
+        "DSS": "כ# אשר התע##ל##[ ל ב׳הם ו ישלחו׳ם ו ילכו ] ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now therefore make a new cart ,",
+      "traditions": {
+        "WLC": "וְ עַתָּ֗ה קְח֨וּ וַ עֲשׂ֜וּ עֲגָלָ֤ה חֲדָשָׁה֙ אֶחָ֔ת",
+        "LXX": "καὶ νῦν λάβετε καὶ ποιήσατε ἅμαξαν καινὴν",
+        "VUL": "Nunc ergo arrípite et fácite plaustrum novum unum :",
+        "SP": null,
+        "KJV": "Now therefore make a new cart ,",
+        "DSS": "[ ו עתה קחו ו עשו עגלה חדשה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and take two milch kine , on which there hath come no yoke ,",
+      "traditions": {
+        "WLC": "וּ שְׁתֵּ֤י פָרוֹת֙ עָל֔וֹת אֲשֶׁ֛ר לֹא עָלָ֥ה עֲלֵי הֶ֖ם עֹ֑ל",
+        "LXX": "καὶ δύο βόας πρωτοτοκούσας ἄνευ τῶν τέκνων ·",
+        "VUL": "et duas vaccas fœtas , quibus non est impósitum iugum ,",
+        "SP": null,
+        "KJV": "and take two milch kine , on which there hath come no yoke ,",
+        "DSS": "ו ש##[ תי ] פ##רו#?ת ע##ל##ו(# ת #) א##[ ין עוללים אשר ] [ לא עלה עלי׳הם על"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and tie the kine to the cart ,",
+      "traditions": {
+        "WLC": "וַ אֲסַרְתֶּ֤ם אֶת הַ פָּרוֹת֙ בָּ עֲגָלָ֔ה",
+        "LXX": "καὶ ζεύξατε τὰς βόας ἐν τῇ ἁμάξῃ ,",
+        "VUL": "iúngite in plaustro ,",
+        "SP": null,
+        "KJV": "and tie the kine to the cart ,",
+        "DSS": "ו אסרתם את ה פרו ]ת ב# ע##ג#?ל##ה##"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and bring their calves home from them :",
+      "traditions": {
+        "WLC": "וַ הֲשֵׁיבֹתֶ֧ם בְּנֵי הֶ֛ם מֵ אַחֲרֵי הֶ֖ם הַ בָּֽיְתָ ה",
+        "LXX": "καὶ ἀπαγάγετε τὰ τὲκνα ἀπὸ ὄπισθεν αὐτῶν εἰς οἶκον .",
+        "VUL": "et reclúdite vítulos eárum domi .",
+        "SP": null,
+        "KJV": "and bring their calves home from them :",
+        "DSS": "[ ו השיבותם בני׳הם ] [ מ אחרי׳הם ה בית׳ה ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And take the ark of the LORD , and lay it upon the cart ;",
+      "traditions": {
+        "WLC": "וּ לְקַחְתֶּ֞ם אֶת אֲר֣וֹן יְהוָ֗ה וּ נְתַתֶּ֤ם אֹת וֹ֙ אֶל הָ֣ עֲגָלָ֔ה",
+        "LXX": "καὶ λήμψεσθε τὴν κιβωτὸν καὶ θήσετε αὐτὴν ἐπὶ τὴν ἅμαξαν ,",
+        "VUL": "Tolletísque arcam Dómini , et ponétis in plaustro ,",
+        "SP": null,
+        "KJV": "And take the ark of the LORD , and lay it upon the cart ;",
+        "DSS": "ו לקחתם את ארון י ]ה[ וה ו נתתם אות׳ו אל ה עגלה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and put the jewels of gold , which ye return him [ for ] a trespass offering , in a coffer by the side thereof ;",
+      "traditions": {
+        "WLC": "וְ אֵ֣ת כְּלֵ֣י הַ זָּהָ֗ב אֲשֶׁ֨ר הֲשֵׁבֹתֶ֥ם ל וֹ֙ אָשָׁ֔ם תָּשִׂ֥ימוּ בָ אַרְגַּ֖ז מִ צִּדּ֑ וֹ",
+        "LXX": "καὶ τὰ σκεύη τὰ χρυσᾶ ἀποδώσετε αὐτῇ τῆς βασάνου καὶ οὐ θήσετε ἐν θέματι βερεχθὰν ἐκ μέρους αὐτῆς ,",
+        "VUL": "et vasa áurea , quæ exsolvístis ei pro delícto , ponétis in capséllam ad latus eius :",
+        "SP": null,
+        "KJV": "and put the jewels of gold , which ye return him [ for ] a trespass offering , in a coffer by the side thereof ;",
+        "DSS": "[ ו את כלי ה זהב אשר השיבותם ל׳ו א ]ש#ם ת##ש##[ ימו ב ארגז מ צד׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and send it away , that it may go .",
+      "traditions": {
+        "WLC": "וְ שִׁלַּחְתֶּ֥ם אֹת֖ וֹ וְ הָלָֽךְ",
+        "LXX": "καὶ ἐξαποστελεῖτε αὐτὴν καὶ ἀπελάσατε αὐτήν , καὶ ἀπελεύσεσθε .",
+        "VUL": "et dimíttite eam ut vadat .",
+        "SP": null,
+        "KJV": "and send it away , that it may go .",
+        "DSS": "ו שלחתם ] [ את׳ו ו הלך הלכתם ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And see , if it goeth up by the way of his own coast to Bethshemesh , [ then ] he hath done us this great evil :",
+      "traditions": {
+        "WLC": "וּ רְאִיתֶ֗ם אִם דֶּ֨רֶךְ גְּבוּל֤ וֹ יַֽעֲלֶה֙ בֵּ֣ית שֶׁ֔מֶשׁ ה֚וּא עָ֣שָׂה לָ֔ נוּ אֶת הָ רָעָ֥ה הַ גְּדוֹלָ֖ה הַ זֹּ֑את",
+        "LXX": "καὶ ὄψεσθε , εἰ εἰς ὁδὸν ὅριον αὐτῆς πορεύσεται κατὰ Βαιθσάμυς , αὐτὸς πεποίηκεν ἡμῖν τὴν κακίαν ταύτην τὴν μεγάλην ·",
+        "VUL": "Et aspiciétis : et si quidem per viam fínium suórum ascénderit contra Béthsames , ipse fecit nobis hoc malum grande :",
+        "SP": null,
+        "KJV": "And see , if it goeth up by the way of his own coast to Bethshemesh , [ then ] he hath done us this great evil :",
+        "DSS": "ו ראיתם אם דרך גבו ]ל׳ו י[ עלה בית שמש הוא ] ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but if not , then we shall know that [ it is ] not his hand [ that ] smote us ; it [ was ] a chance [ that ] happened to us .",
+      "traditions": {
+        "WLC": "וְ אִם לֹ֗א וְ יָדַ֨עְנוּ֙ כִּ֣י לֹ֤א יָד וֹ֙ נָ֣גְעָה בָּ֔ נוּ מִקְרֶ֥ה ה֖וּא הָ֥יָה לָֽ נוּ",
+        "LXX": "καὶ ἐὰν μή , καὶ γνωσόμεθα ὅτι οὐ χεὶρ αὐτοῦ ἧπται ἡμῶν , ἀλλὰ σύνπτωμα τοῦτο γέγονεν ἡμῖν .",
+        "VUL": "sin autem , mínime : sciémus quia nequáquam manus eius tétigit nos , sed casu áccidit .",
+        "SP": null,
+        "KJV": "but if not , then we shall know that [ it is ] not his hand [ that ] smote us ; it [ was ] a chance [ that ] happened to us .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the men did so ;",
+      "traditions": {
+        "WLC": "וַ יַּעֲשׂ֤וּ הָ אֲנָשִׁים֙ כֵּ֔ן",
+        "LXX": "καὶ ἐποίησαν οἱ ἀλλόφυλοι οὕτως ,",
+        "VUL": "Fecérunt ergo illi hoc modo :",
+        "SP": null,
+        "KJV": "And the men did so ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and took two milch kine , and tied them to the cart ,",
+      "traditions": {
+        "WLC": "וַ יִּקְח֗וּ שְׁתֵּ֤י פָרוֹת֙ עָל֔וֹת וַ יַּאַסְר֖וּ ם בָּ עֲגָלָ֑ה",
+        "LXX": "καὶ ἔλαβον δύο βόας πρωτοτοκούσας καὶ ἔζευξαν αὐτὰς ἐν τῇ ἁμάξῃ ,",
+        "VUL": "et tolléntes duas vaccas , quæ lactábant vítulos , iunxérunt ad plaustrum ,",
+        "SP": null,
+        "KJV": "and took two milch kine , and tied them to the cart ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and shut up their calves at home :",
+      "traditions": {
+        "WLC": "וְ אֶת בְּנֵי הֶ֖ם כָּל֥וּ בַ בָּֽיִת",
+        "LXX": "καὶ τὰ τέκνα αὐτῶν ἀπεκώλυσαν εἰς οἶκον ·",
+        "VUL": "vitulósque eárum conclusérunt domi .",
+        "SP": null,
+        "KJV": "and shut up their calves at home :",
+        "DSS": "[4Q51] ε ב  ]ב#ית[  ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they laid the ark of the LORD upon the cart",
+      "traditions": {
+        "WLC": "וַ יָּשִׂ֛מוּ אֶת אֲר֥וֹן יְהוָ֖ה אֶל הָ עֲגָלָ֑ה",
+        "LXX": "καὶ ἔθεντο τὴν κιβωτὸν ἐπὶ τὴν ἅμαξαν ,",
+        "VUL": "Et posuérunt arcam Dei super plaustrum ,",
+        "SP": null,
+        "KJV": "And they laid the ark of the LORD upon the cart ,",
+        "DSS": "[4Q51] ו ישימו את ארון ה אלוהים אל ה עגלה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the coffer with the mice of gold",
+      "traditions": {
+        "WLC": "וְ אֵ֣ת הָ אַרְגַּ֗ז וְ אֵת֙ עַכְבְּרֵ֣י הַ זָּהָ֔ב",
+        "LXX": "καὶ τὸ θέμα ἐργὰβ καὶ τοὺς μῦς τοὺς χρυσοῦς .",
+        "VUL": "et capséllam , quæ habébat mures áureos",
+        "SP": null,
+        "KJV": "and the coffer with the mice of gold",
+        "DSS": "[ ו את ה ארגז ו את עכבר ]י ה ז#?ה##["
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the images of their emerods",
+      "traditions": {
+        "WLC": "וְ אֵ֖ת צַלְמֵ֥י טְחֹרֵי הֶֽם",
+        "LXX": null,
+        "VUL": "et similitúdines anórum .",
+        "SP": null,
+        "KJV": "and the images of their emerods .",
+        "DSS": "ב ε ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the kine took the straight way to the way of Bethshemesh",
+      "traditions": {
+        "WLC": "וַ יִשַּׁ֨רְנָה הַ פָּר֜וֹת בַּ דֶּ֗רֶךְ עַל דֶּ֨רֶךְ֙ בֵּ֣ית שֶׁ֔מֶשׁ",
+        "LXX": "καὶ κατεύθυναν αἱ βόες ἐν τῇ ὁδῷ εἰς ὁδὸν Βαιθσάμυς ,",
+        "VUL": "Ibant autem in diréctum vaccæ per viam , quæ ducit Béthsames ,",
+        "SP": null,
+        "KJV": "And the kine took the straight way to the way of Bethshemesh , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "went along the highway , lowing as they went",
+      "traditions": {
+        "WLC": "בִּ מְסִלָּ֣ה אַחַ֗ת הָלְכ֤וּ הָלֹךְ֙ וְ גָע֔וֹ",
+        "LXX": "ἐν τρίβῳ ἑνὶ ἐπορεύοντο καὶ ἐκοπίων ,",
+        "VUL": "et itínere uno gradiebántur , pergéntes et mugiéntes :",
+        "SP": null,
+        "KJV": "went along the highway , lowing as they went ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and turned not aside to the right hand or to the left",
+      "traditions": {
+        "WLC": "וְ לֹא סָ֖רוּ יָמִ֣ין וּ שְׂמֹ֑אול",
+        "LXX": "καὶ οὐ μεθίσταντο δεξιὰ οὐδὲ ἀριστερά ·",
+        "VUL": "et non declinábant neque ad dextram neque ad sinístram :",
+        "SP": null,
+        "KJV": "and turned not aside [ to ] the right hand or [ to ] the left ;",
+        "DSS": "[4Q51] ε ו לוא סרו י ]מ#ין [ ו לוא שמאול ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the lords of the Philistines went after them unto the border of Bethshemesh",
+      "traditions": {
+        "WLC": "וְ סַרְנֵ֤י פְלִשְׁתִּים֙ הֹלְכִ֣ים אַחֲרֵי הֶ֔ם עַד גְּב֖וּל בֵּ֥ית שָֽׁמֶשׁ",
+        "LXX": "καὶ οἱ σατράπαι τῶν ἀλλοφύλων ἐπορεύοντο ὀπίσω αὐτῆς ἕως ὁρίων Βαιθσάμυς .",
+        "VUL": "sed et sátrapæ Philísthiim sequebántur usque ad términes Béthsames .",
+        "SP": null,
+        "KJV": "and the lords of the Philistines went after them unto the border of Bethshemesh .",
+        "DSS": "[ ו סרני פלשתיים הולכים אחרי׳ה עד גבו ]ל# בית ש##[ מש ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they of Bethshemesh were reaping their wheat harvest in the valley",
+      "traditions": {
+        "WLC": "וּ בֵ֣ית שֶׁ֔מֶשׁ קֹצְרִ֥ים קְצִיר חִטִּ֖ים בָּ עֵ֑מֶק",
+        "LXX": "καὶ οἱ ἐν Βαιθσάμυς ἐθέριζον θερισμὸν πυρῶν ἐν κοιλάδι ,",
+        "VUL": "Porro Bethsamítæ metébant tríticum in valle :",
+        "SP": null,
+        "KJV": "And [ they of ] Bethshemesh [ were ] reaping their wheat harvest in the valley :",
+        "DSS": "[4Q51] ו בית ] [ שמש קוצרים קציר חטים ב עמק"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they lifted up their eyes , and saw the ark",
+      "traditions": {
+        "WLC": "וַ יִּשְׂא֣וּ אֶת עֵינֵי הֶ֗ם וַ יִּרְאוּ֙ אֶת הָ֣ אָר֔וֹן",
+        "LXX": "καὶ ἦραν ὀφθαλμοὺς αὐτῶν καὶ εἶδον κιβωτὸν Κυρίου ,",
+        "VUL": "et elevántes óculos suos , vidérunt arcam ,",
+        "SP": null,
+        "KJV": "and they lifted up their eyes , and saw the ark ,",
+        "DSS": "ו ישאו את עי ]ני׳ה##ם# [ ו יראו ] ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and rejoiced to see it",
+      "traditions": {
+        "WLC": "וַֽ יִּשְׂמְח֖וּ לִ רְאֽוֹת",
+        "LXX": "καὶ ηὐφράνθησαν εἰς ἀπάντησιν αὐτῆς .",
+        "VUL": "et gavísi sunt cum vidíssent .",
+        "SP": null,
+        "KJV": "and rejoiced to see [ it ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the cart came into the field of Joshua , a Bethshemite , and stood there",
+      "traditions": {
+        "WLC": "וְ הָ עֲגָלָ֡ה בָּ֠אָה אֶל שְׂדֵ֨ה יְהוֹשֻׁ֤עַ בֵּֽית הַשִּׁמְשִׁי֙ וַ תַּעֲמֹ֣ד שָׁ֔ם",
+        "LXX": "καὶ ἡ ἅμαξα εἰσῆλθεν εἰς ἀγρὸν Ὡσῆε τὸν ἐν Βαιθσάμυς , καὶ ἔστησαν ἐκεῖ",
+        "VUL": "Et plaustrum venit in agrum Iósue Bethsamítæ , et stetit ibi .",
+        "SP": null,
+        "KJV": "And the cart came into the field of Joshua , a Bethshemite , and stood there ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "where there was a great stone",
+      "traditions": {
+        "WLC": "וְ שָׁ֖ם אֶ֣בֶן גְּדוֹלָ֑ה",
+        "LXX": "παρ᾽ αὐτῇ λίθον μέγαν ·",
+        "VUL": "Erat autem ibi lapis magnus ,",
+        "SP": null,
+        "KJV": "where [ there was ] a great stone :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they clave the wood of the cart",
+      "traditions": {
+        "WLC": "וַֽ יְבַקְּעוּ֙ אֶת עֲצֵ֣י הָ עֲגָלָ֔ה",
+        "LXX": "καὶ σχίζουσιν τὰ ξύλα τῆς ἁμάξης ,",
+        "VUL": "et concidérunt ligna plaustri ,",
+        "SP": null,
+        "KJV": "and they clave the wood of the cart ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and offered the kine a burnt offering unto the LORD",
+      "traditions": {
+        "WLC": "וְ אֶת הַ֨ פָּר֔וֹת הֶעֱל֥וּ עֹלָ֖ה לַ יהוָֽה",
+        "LXX": "καὶ τὰς βόας ἀνήνεγκαν εἰς ὁλοκαύτωσιν τῷ κυρίῳ .",
+        "VUL": "vaccásque imposuérunt super ea holocáustum Dómino .",
+        "SP": null,
+        "KJV": "and offered the kine a burnt offering unto the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the Levites took down the ark of the LORD , and the coffer that was with it , wherein the jewels of gold were",
+      "traditions": {
+        "WLC": "וְ הַ לְוִיִּ֞ם הוֹרִ֣ידוּ אֶת אֲר֣וֹן יְהוָ֗ה וְ אֶת הָ אַרְגַּ֤ז אֲשֶׁר אִתּ וֹ֙ אֲשֶׁר בּ֣ וֹ כְלֵֽי זָהָ֔ב",
+        "LXX": "καὶ οἱ Λευεῖται ἀνήνεγκαν τὴν κιβωτὸν τοῦ κυρίου καὶ τὸ θέμα ἐργὰβ μετ᾽ αὐτῆς καὶ τὰ ἐπ᾽ αὐτῆς σκεύη τὰ χρυσᾶ ,",
+        "VUL": "Levítæ autem deposuérunt arcam Dei , et capséllam , quæ erat iuxta eam , in qua erant vasa áurea ,",
+        "SP": null,
+        "KJV": "And the Levites took down the ark of the LORD , and the coffer that [ was ] with it , wherein the jewels of gold [ were ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and put them on the great stone",
+      "traditions": {
+        "WLC": "וַ יָּשִׂ֖מוּ אֶל הָ אֶ֣בֶן הַ גְּדוֹלָ֑ה",
+        "LXX": "καὶ ἔθεντο ἐπὶ τοῦ λίθου τοῦ μεγάλου ·",
+        "VUL": "et posuérunt super lápidem grandem .",
+        "SP": null,
+        "KJV": "and put [ them ] on the great stone :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD",
+      "traditions": {
+        "WLC": "וְ אַנְשֵׁ֣י בֵֽית שֶׁ֗מֶשׁ הֶעֱל֨וּ עֹל֜וֹת וַֽ יִּזְבְּח֧וּ זְבָחִ֛ים בַּ יּ֥וֹם הַ ה֖וּא לַֽ יהוָֽה",
+        "LXX": "καὶ οἱ ἄνδρες Βαιθσάμυς ἀνήνεγκαν ὁλοκαυτώσεις καὶ θυσίας ἐν τῇ ἡμέρᾳ ἐκείνῃ τῷ κυρίῳ .",
+        "VUL": "Viri autem Bethsamítæ obtulérunt holocáusta , et immolavérunt víctimas in die illa Dómino .",
+        "SP": null,
+        "KJV": "and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And when the five lords of the Philistines had seen it",
+      "traditions": {
+        "WLC": "וַ חֲמִשָּׁ֥ה סַרְנֵֽי פְלִשְׁתִּ֖ים רָא֑וּ",
+        "LXX": "καὶ οἱ πέντε σατράπαι τῶν ἀλλοφύλων ἑώρων ,",
+        "VUL": "Et quinque sátrapæ Philisthinórum vidérunt ,",
+        "SP": null,
+        "KJV": "And when the five lords of the Philistines had seen [ it ] ,",
+        "DSS": "[4Q51] ε ו חמשה סרני פלשתיים ראו ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they returned to Ekron the same day",
+      "traditions": {
+        "WLC": "וַ יָּשֻׁ֥בוּ עֶקְר֖וֹן בַּ יּ֥וֹם הַ הֽוּא",
+        "LXX": "καὶ ἀνέστρεψαν εἰς Ἀσκάλωνα τῇ ἡμέρᾳ ἐκείνῃ .",
+        "VUL": "et revérsi sunt in Accaron in die illa .",
+        "SP": null,
+        "KJV": "they returned to Ekron the same day .",
+        "DSS": "ו? י?ש[ ובו ] [ עקרון ב יום ה הוא ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And these are the golden emerods which the Philistines returned for a trespass offering unto the LORD",
+      "traditions": {
+        "WLC": "וְ אֵ֨לֶּה֙ טְחֹרֵ֣י הַ זָּהָ֔ב אֲשֶׁ֨ר הֵשִׁ֧יבוּ פְלִשְׁתִּ֛ים אָשָׁ֖ם לַֽ יהוָ֑ה",
+        "LXX": "καὶ αὗται αἱ ἕδραι αἱ χρυσαῖ ἃς ἀπέδωκαν οἱ ἀλλόφυλοι τῆς βασάνου τῷ κυρίῳ ·",
+        "VUL": "Hi sunt autem ani áurei , quos reddidérunt Philísthiim pro delícto , Dómino :",
+        "SP": null,
+        "KJV": "And these [ are ] the golden emerods which the Philistines returned [ for ] a trespass offering unto the LORD ;",
+        "DSS": "[4Q51] ו אלה עפלי ה זהב אשר השי ]בו פלשת[ יים ] [ אשם ל יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for Ashdod one , for Gaza one , for Askelon one , for Gath one , for Ekron one",
+      "traditions": {
+        "WLC": "לְ אַשְׁדּ֨וֹד אֶחָ֜ד לְ עַזָּ֤ה אֶחָד֙ לְ אַשְׁקְל֣וֹן אֶחָ֔ד לְ גַ֥ת אֶחָ֖ד לְ עֶקְר֥וֹן אֶחָֽד",
+        "LXX": "τῆς Ἀζώτου μίαν , τῆς Γάζης μίαν , τῆς Ἀσκάλωνος μίαν , τῆς Γὲθ μίαν , τῆς Ἀκκαρὼν μίαν .",
+        "VUL": "Azótus unum , Gaza unum , Ascalon unum , Geth unum , Accaron unum :",
+        "SP": null,
+        "KJV": "for Ashdod one , for Gaza one , for Askelon one , for Gath one , for Ekron one ;",
+        "DSS": "ל אשדוד אחד ל עזה אחד ל אשקלון אח ]ד ל גת## [ אחד ל עקרון אח ]ד## ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the golden mice , according to the number of all the cities of the Philistines belonging to the five lords",
+      "traditions": {
+        "WLC": "וְ עַכְבְּרֵ֣י הַ זָּהָ֗ב מִסְפַּ֞ר כָּל עָרֵ֤י פְלִשְׁתִּים֙ לַ חֲמֵ֣שֶׁת הַ סְּרָנִ֔ים",
+        "LXX": "καὶ μῦς οἱ χρυσοῖ κατ᾽ ἀριθμὸν πασῶν πόλεων τῶν ἀλλοφύλων τῶν πέντε σατραπῶν",
+        "VUL": "et mures áureos secúndum númerum úrbium Philísthiim , quinque provinciárum ,",
+        "SP": null,
+        "KJV": "And the golden mice , [ according to ] the number of all the cities of the Philistines [ belonging ] to the five lords , [",
+        "DSS": "[4Q51] ו עכב##ר##[ י ה זהב כ מספר ערי פל ]שת#[ יי ]ם [ ל חמשת ה סרני ]ם##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "both of fenced cities , and of country villages",
+      "traditions": {
+        "WLC": "מֵ עִ֣יר מִבְצָ֔ר וְ עַ֖ד כֹּ֣פֶר הַ פְּרָזִ֑י",
+        "LXX": "ἐκ πόλεως ἐστερεωμένης καὶ ἕως κώμης τοῦ Φερεζαίου",
+        "VUL": "ab urbe muráta usque ad villam , quæ erat absque muro ,",
+        "SP": null,
+        "KJV": "both ] of fenced cities , and of country villages ,",
+        "DSS": "מ עיר מבצר## [ ו עד כפר ה פרזי"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "even unto the great stone of Abel , whereon they set down the ark of the LORD",
+      "traditions": {
+        "WLC": "וְ עַ֣ד אָבֵ֣ל הַ גְּדוֹלָ֗ה אֲשֶׁ֨ר הִנִּ֤יחוּ עָלֶ֨י הָ֙ אֵ֚ת אֲר֣וֹן יְהוָ֔ה",
+        "LXX": "καὶ ἕως λίθου τοῦ μεγάλου , οὗ ἐπέθηκαν ἐπ᾽ αὐτοῦ τὴν κιβωτὸν διαθήκης Κυρίου ,",
+        "VUL": "et usque ad Abelmágnum , super quem posuérunt arcam Dómini ,",
+        "SP": null,
+        "KJV": "even unto the great [ stone of ] Abel , whereon they set down the ark of the LORD : [",
+        "DSS": "ו עד ה אבן ] [ ה גדולה אשר ה ]נ?י?חו עלי׳ה [ את ארון יהוה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "which stone remaineth unto this day in the field of Joshua , the Bethshemite",
+      "traditions": {
+        "WLC": "עַ֚ד הַ יּ֣וֹם הַ זֶּ֔ה בִּ שְׂדֵ֥ה יְהוֹשֻׁ֖עַ בֵּֽית הַשִּׁמְשִֽׁי",
+        "LXX": "τοῦ ἐν ἀγρῷ Ὡσῆε τοῦ Βαιθσαμυσείτου .",
+        "VUL": "quæ erat usque in illum diem in agro Iósue Bethsamítis .",
+        "SP": null,
+        "KJV": "which stone remaineth ] unto this day in the field of Joshua , the Bethshemite .",
+        "DSS": "ב שדה יהושע בית ] ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he smote the men of Bethshemesh , because they had looked into the ark of the LORD",
+      "traditions": {
+        "WLC": "וַ יַּ֞ךְ בְּ אַנְשֵׁ֣י בֵֽית שֶׁ֗מֶשׁ כִּ֤י רָאוּ֙ בַּ אֲר֣וֹן יְהוָ֔ה",
+        "LXX": "Καὶ οὐκ ἠσμένισαν οἱ υἱοὶ Ἰεχονίου ἐν τοῖς ἀνδράσιν Βαιθσάμυς , ὅτι εἶδαν κιβωτὸν Κυρίου ·",
+        "VUL": "Percússit autem de viris Bethsamítibus , eo quod vidíssent arcam Dómini :",
+        "SP": null,
+        "KJV": "And he smote the men of Bethshemesh , because they had looked into the ark of the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even he smote of the people fifty thousand and threescore and ten men",
+      "traditions": {
+        "WLC": "וַ יַּ֤ךְ בָּ עָם֙ שִׁבְעִ֣ים אִ֔ישׁ חֲמִשִּׁ֥ים אֶ֖לֶף אִ֑ישׁ",
+        "LXX": "καὶ ἐπάταξεν ἐν αὐτοῖς ἑβδομήκοντα ἄνδρας καὶ πεντήκοντα χιλιάδας ἀνδρῶν .",
+        "VUL": "et percússit de pópulo septuagínta viros , et quinquagínta míllia plebis .",
+        "SP": null,
+        "KJV": "even he smote of the people fifty thousand and threescore and ten men :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the people lamented , because the LORD had smitten many of the people with a great slaughter",
+      "traditions": {
+        "WLC": "וַ יִּֽתְאַבְּל֣וּ הָ עָ֔ם כִּֽי הִכָּ֧ה יְהוָ֛ה בָּ עָ֖ם מַכָּ֥ה גְדוֹלָֽה",
+        "LXX": "καὶ ἐπένθησεν ὁ λαός , ὅτι ἐπάταξεν Κύριος ἐν τῷ λαῷ πληγὴν μεγάλην σφόδρα .",
+        "VUL": "Luxítque pópulus , eo quod Dóminus percussísset plebem plaga magna .",
+        "SP": null,
+        "KJV": "and the people lamented , because the LORD had smitten [ many ] of the people with a great slaughter .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the men of Bethshemesh said",
+      "traditions": {
+        "WLC": "וַ יֹּֽאמְרוּ֙ אַנְשֵׁ֣י בֵֽית שֶׁ֔מֶשׁ",
+        "LXX": "καὶ εἶπαν οἱ ἄνδρες οἱ ἐκ Βαιθσάμυς",
+        "VUL": "Et dixérunt viri Bethsamítæ :",
+        "SP": null,
+        "KJV": "And the men of Bethshemesh said ,",
+        "DSS": "[4Q51] [ ו יאמרו אנשי בית שמש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Who is able to stand before this holy LORD God ?",
+      "traditions": {
+        "WLC": "מִ֚י יוּכַ֣ל לַ עֲמֹ֔ד לִ פְנֵ֨י יְהוָ֧ה הָ אֱלֹהִ֛ים הַ קָּד֖וֹשׁ הַ זֶּ֑ה",
+        "LXX": "Τίς δυνήσεται διελθεῖν ἐνώπιον τοῦ ἁγίου τούτου ?",
+        "VUL": "Quis póterit stare in conspéctu Dómini Dei sancti huius ?",
+        "SP": null,
+        "KJV": "Who is able to stand before this holy LORD God ?",
+        "DSS": "מי יוכל ל עבור ל פני ] י?הוה ה קדוש ה זה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and to whom shall he go up from us ?",
+      "traditions": {
+        "WLC": "וְ אֶל מִ֖י יַעֲלֶ֥ה מֵ עָלֵֽי נוּ",
+        "LXX": "καὶ πρὸς τίνα ἀναβήσηται κιβωτὸς Κυρίου ἀφ᾽ ἡμῶν ?",
+        "VUL": "et ad quem ascéndet a nobis ?",
+        "SP": null,
+        "KJV": "and to whom shall he go up from us ?",
+        "DSS": "ו אל מי [ יעלה ארון יהוה מ עלי׳נו ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they sent messengers to the inhabitants of Kirjathjearim",
+      "traditions": {
+        "WLC": "וַֽ יִּשְׁלְחוּ֙ מַלְאָכִ֔ים אֶל יוֹשְׁבֵ֥י קִרְיַת יְעָרִ֖ים",
+        "LXX": "καὶ ἀποστέλλουσιν ἀγγέλους πρὸς τοὺς κατοικοῦντας Καριαθιαρεὶμ",
+        "VUL": "Miserúntque núntios ad habitatóres Cariathíarim ,",
+        "SP": null,
+        "KJV": "And they sent messengers to the inhabitants of Kirjathjearim ,",
+        "DSS": "[4Q51] ו ישלחו מלאכים ] א#ל יושבי קר#י?[ ת י ]ערים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "לֵ אמֹ֑ר",
+        "LXX": "λέγοντες",
+        "VUL": "dicéntes :",
+        "SP": null,
+        "KJV": "saying ,",
+        "DSS": "ל אמור#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "The Philistines have brought again the ark of the LORD",
+      "traditions": {
+        "WLC": "הֵשִׁ֤בוּ פְלִשְׁתִּים֙ אֶת אֲר֣וֹן יְהוָ֔ה",
+        "LXX": "Ἀπεστρόφασιν ἀλλόφυλοι τὴν κιβωτὸν Κυρίου ·",
+        "VUL": "Reduxérunt Philísthiim arcam Dómini :",
+        "SP": null,
+        "KJV": "The Philistines have brought again the ark of the LORD ;",
+        "DSS": "[ השיבו פלשתיים את ארון יהוה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "come ye down",
+      "traditions": {
+        "WLC": "רְד֕וּ",
+        "LXX": "κατάβητε",
+        "VUL": "descéndite ,",
+        "SP": null,
+        "KJV": "come ye down , [ and ]",
+        "DSS": "רדו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "fetch it up to you",
+      "traditions": {
+        "WLC": "הַעֲל֥וּ אֹת֖ וֹ אֲלֵי כֶֽם",
+        "LXX": "καὶ ἀναγάγετε αὐτὴν πρὸς ἑαυτούς .",
+        "VUL": "et redúcite eam ad vos .",
+        "SP": null,
+        "KJV": "fetch it up to you .",
+        "DSS": "ו העלו ] א##ו(# ת #)׳ו אלי׳כם ׃"
+      }
+    }
+  ]
+}

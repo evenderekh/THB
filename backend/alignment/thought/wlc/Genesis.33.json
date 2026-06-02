@@ -1,0 +1,906 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jacob lifted up his eyes",
+      "traditions": {
+        "WLC": "וַ יִּשָּׂ֨א יַעֲקֹ֜ב עֵינָ֗י",
+        "LXX": "Ἀναβλέψας δὲ Ἰακὼβ",
+        "VUL": "Elevans autem Iacob óculos suos ,",
+        "SP": "ו ישׂא יעקב עיניו",
+        "KJV": "And Jacob lifted up his eyes ,",
+        "DSS": "[Mur1] ו ישא יעקב עיני׳ו ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and looked",
+      "traditions": {
+        "WLC": "ו וַ יַּרְא֙",
+        "LXX": "ἴδεν ,",
+        "VUL": "vidit",
+        "SP": "ו ירא",
+        "KJV": "and looked ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and , behold , Esau came",
+      "traditions": {
+        "WLC": "וְ הִנֵּ֣ה עֵשָׂ֣ו בָּ֔א",
+        "LXX": "καὶ ἰδοὺ Ἠσαὺ ὁ ἀδελφὸς αὐτοῦ ἐρχόμενος ,",
+        "VUL": "veniéntem Esau ,",
+        "SP": "ו הנה עשׂו בא",
+        "KJV": "and , behold , Esau came ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and with him four hundred men .",
+      "traditions": {
+        "WLC": "וְ עִמּ֕ וֹ אַרְבַּ֥ע מֵא֖וֹת אִ֑ישׁ",
+        "LXX": "αὐτὸς καὶ τετρακόσιοι ἄνδρες μετ᾽ αὐτοῦ ·",
+        "VUL": "et cum eo quadringéntos viros :",
+        "SP": "ו עמו ארבע מאות אישׁ",
+        "KJV": "and with him four hundred men .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "And he divided the children unto Leah",
+      "traditions": {
+        "WLC": "וַ יַּ֣חַץ אֶת הַ יְלָדִ֗ים עַל לֵאָה֙",
+        "LXX": "καὶ ἐπιδιεῖλεν Ἰακὼβ τὰ παιδία ἐπὶ Λείαν",
+        "VUL": "divisítque fílios Liæ",
+        "SP": "ו יחץ את ה ילדים על לאה",
+        "KJV": "And he divided the children unto Leah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and unto Rachel",
+      "traditions": {
+        "WLC": "וְ עַל רָחֵ֔ל",
+        "LXX": "καὶ ἐπὶ Ῥαχὴλ",
+        "VUL": "et Rachel ,",
+        "SP": "ו על רחל",
+        "KJV": "and unto Rachel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "and unto the two handmaids .",
+      "traditions": {
+        "WLC": "וְ עַ֖ל שְׁתֵּ֥י הַ שְּׁפָחֽוֹת",
+        "LXX": "καὶ τὰς δύο παιδίσκας ·",
+        "VUL": "ambarúmque famulárum :",
+        "SP": "ו על שׁתי ה שׁפחות",
+        "KJV": "and unto the two handmaids .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he put the handmaids and their children foremost",
+      "traditions": {
+        "WLC": "וַ יָּ֧שֶׂם אֶת הַ שְּׁפָח֛וֹת וְ אֶת יַלְדֵי הֶ֖ן רִֽאשֹׁנָ֑ה",
+        "LXX": "καὶ ἐποίησεν τὰς δύο παιδίσκας καὶ τοὺς υἱοὺς αὐτῶν ἐν πρώτοις ,",
+        "VUL": "et pósuit utrámque ancíllam , et líberos eárum , in princípio :",
+        "SP": "ו ישׂם את ה שׁפחות ו את ילדיהן ראישׁונה",
+        "KJV": "And he put the handmaids and their children foremost ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Leah and her children after",
+      "traditions": {
+        "WLC": "וְ אֶת לֵאָ֤ה וִֽ ילָדֶ֨י הָ֙ אַחֲרֹנִ֔ים",
+        "LXX": "καὶ Λείαν καὶ τὰ παιδία αὐτῆς ὀπίσω ,",
+        "VUL": "Liam vero , et fílios eius , in secúndo loco :",
+        "SP": "ו את לאה ו ילדיה אחרנים",
+        "KJV": "and Leah and her children after ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and Rachel and Joseph hindermost",
+      "traditions": {
+        "WLC": "וְ אֶת רָחֵ֥ל וְ אֶת יוֹסֵ֖ף אַחֲרֹנִֽים",
+        "LXX": "καὶ Ῥαχὴλ καὶ Ἰωσὴφ ἐσχάτους .",
+        "VUL": "Rachel autem et Ioseph novíssimos .",
+        "SP": "ו את רחל ו את יוסף אחרנים",
+        "KJV": "and Rachel and Joseph hindermost .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he passed over before them",
+      "traditions": {
+        "WLC": "וְ ה֖וּא עָבַ֣ר לִ פְנֵי הֶ֑ם",
+        "LXX": "αὐτὸς δὲ παρῆλθεν ἔμπροσθεν αὐτῶν ·",
+        "VUL": "Et ipse progrédiens",
+        "SP": "ו הוא עבר ל פניהם",
+        "KJV": "And he passed over before them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and bowed himself to the ground seven times",
+      "traditions": {
+        "WLC": "וַ יִּשְׁתַּ֤חוּ אַ֨רְצָ ה֙ שֶׁ֣בַע פְּעָמִ֔ים",
+        "LXX": "καὶ προσεκύνησεν ἐπὶ τὴν γῆν ἑπτάκις",
+        "VUL": "adorávit pronus in terram sépties ,",
+        "SP": "ו ישׁתחוי ארצה שׁבע פעמים",
+        "KJV": "and bowed himself to the ground seven times ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "until he came near to his brother",
+      "traditions": {
+        "WLC": "עַד גִּשְׁתּ֖ וֹ עַד אָחִֽי ו",
+        "LXX": "ἕως τοῦ ἐγγίσαι τοῦ ἀδελφοῦ αὐτοῦ .",
+        "VUL": "donec appropinquáret frater eius .",
+        "SP": "עד גשׁתו עד אחיו",
+        "KJV": "until he came near to his brother .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Esau ran to meet him",
+      "traditions": {
+        "WLC": "וַ יָּ֨רָץ עֵשָׂ֤ו לִ קְרָאת וֹ֙",
+        "LXX": "καὶ προσέδραμεν Ἠσαὺ εἰς συνάντησιν αὐτῷ ,",
+        "VUL": "Currens ítaque Esau óbviam fratri suo ,",
+        "SP": "ו ירץ עשׂו ל קראתו",
+        "KJV": "And Esau ran to meet him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and embraced him",
+      "traditions": {
+        "WLC": "וַֽ יְחַבְּקֵ֔ הוּ",
+        "LXX": "καὶ περιλαβὼν αὐτὸν",
+        "VUL": "amplexátus est eum :",
+        "SP": "ו יחבקהו",
+        "KJV": "and embraced him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and fell on his neck",
+      "traditions": {
+        "WLC": "וַ יִּפֹּ֥ל עַל צַוָּארָ֖ ו",
+        "LXX": "ἐφίλησεν καὶ προσέπεσεν ἐπὶ τὸν τράχηλον αὐτοῦ ·",
+        "VUL": "stringénsque collum eius ,",
+        "SP": "ו יפל על צוארו",
+        "KJV": "and fell on his neck ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and kissed him",
+      "traditions": {
+        "WLC": "וַׄ יִּׄשָּׁׄקֵ֑ׄ הׄוּׄ",
+        "LXX": null,
+        "VUL": "et ósculans",
+        "SP": "ו ישׁקהו",
+        "KJV": "and kissed him :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and they wept",
+      "traditions": {
+        "WLC": "וַ יִּבְכּֽוּ",
+        "LXX": "καὶ ἔκλαυσαν ἀμφότεροι .",
+        "VUL": "flevit .",
+        "SP": "ו יבכו",
+        "KJV": "and they wept .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he lifted up his eyes",
+      "traditions": {
+        "WLC": "וַ יִּשָּׂ֣א אֶת עֵינָ֗י",
+        "LXX": "καὶ ἀναβλέψας",
+        "VUL": "Levatísque óculis ,",
+        "SP": "ו ישׂא עיניו",
+        "KJV": "And he lifted up his eyes ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and saw the women and the children",
+      "traditions": {
+        "WLC": "ו וַ יַּ֤רְא אֶת הַ נָּשִׁים֙ וְ אֶת הַ יְלָדִ֔ים",
+        "LXX": "ἴδεν τὰς γυναῖκας καὶ τὰ παιδία ,",
+        "VUL": "vidit mulíeres et párvulos eárum ,",
+        "SP": "ו ירא את ה נשׁים ו את ה ילדים",
+        "KJV": "and saw the women and the children ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and said, Who [ are ] those with thee ?",
+      "traditions": {
+        "WLC": "וַ יֹּ֖אמֶר מִי אֵ֣לֶּה לָּ֑ ךְ",
+        "LXX": "καὶ εἶπεν Τί ταῦτά σοί ἐστιν ;",
+        "VUL": "et ait : Quid sibi volunt isti ? et si ad te pértinent ?",
+        "SP": "ו יאמר מי אלה לך",
+        "KJV": "and said , Who [ are ] those with thee ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And he said, The children which God hath graciously given thy servant",
+      "traditions": {
+        "WLC": "וַ יֹּאמַ֕ר הַ יְלָדִ֕ים אֲשֶׁר חָנַ֥ן אֱלֹהִ֖ים אֶת עַבְדֶּֽ ךָ",
+        "LXX": "ὁ δὲ εἶπεν Τὰ παιδία οἷς ἠλέησεν ὁ θεὸς τὸν παῖδά σου .",
+        "VUL": "Respóndit : Párvuli sunt , quos donávit mihi Deus servo tuo .",
+        "SP": "ו יאמר ה ילדים אשׁר חנן אלהים את עבדך",
+        "KJV": "And he said , The children which God hath graciously given thy servant .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then the handmaidens came near",
+      "traditions": {
+        "WLC": "וַ תִּגַּ֧שְׁןָ הַ שְּׁפָח֛וֹת הֵ֥נָּה",
+        "LXX": "καὶ προσήγγισαν αἱ παιδίσκαι",
+        "VUL": "Et appropinquántes ancíllæ",
+        "SP": "ו תגשׁנה ה שׁפחות הנה",
+        "KJV": "Then the handmaidens came near ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they and their children",
+      "traditions": {
+        "WLC": "וְ יַלְדֵי הֶ֖ן",
+        "LXX": "καὶ τὰ παιδία αὐτῶν ,",
+        "VUL": "et fílii eárum ,",
+        "SP": "ו ילדיהן",
+        "KJV": "they and their children ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they bowed themselves",
+      "traditions": {
+        "WLC": "וַ תִּֽשְׁתַּחֲוֶֽיןָ",
+        "LXX": "καὶ προσεκύνησαν ·",
+        "VUL": "incurváti sunt .",
+        "SP": "ו תשׁתחוינה",
+        "KJV": "and they bowed themselves .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Leah also with her children came near",
+      "traditions": {
+        "WLC": "וַ תִּגַּ֧שׁ גַּם לֵאָ֛ה וִ ילָדֶ֖י הָ",
+        "LXX": "καὶ προσήγγισεν Λεία καὶ τὰ τέκνα αὐτῆς ,",
+        "VUL": "Accéssit quoque Lia cum púeris suis :",
+        "SP": "ו תגשׁ גם לאה ו ילדיה",
+        "KJV": "And Leah also with her children came near ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and bowed themselves",
+      "traditions": {
+        "WLC": "וַ יִּֽשְׁתַּחֲו֑וּ",
+        "LXX": "καὶ προσεκύνησαν ·",
+        "VUL": "et cum simíliter adorássent ,",
+        "SP": "ו ישׁתחוו",
+        "KJV": "and bowed themselves :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and after came Joseph near and Rachel",
+      "traditions": {
+        "WLC": "וְ אַחַ֗ר נִגַּ֥שׁ יוֹסֵ֛ף וְ רָחֵ֖ל",
+        "LXX": "καὶ μετὰ ταῦτα προσήγγισεν Ῥαχὴλ καὶ Ἰωσήφ ,",
+        "VUL": "extrémi Ioseph et Rachel",
+        "SP": "ו אחר נגשׁ יוסף ו רחל",
+        "KJV": "and after came Joseph near and Rachel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they bowed themselves",
+      "traditions": {
+        "WLC": "וַ יִּֽשְׁתַּחֲוֽוּ",
+        "LXX": "καὶ προσεκύνησαν .",
+        "VUL": "adoravérunt .",
+        "SP": "ו ישׁתחוו",
+        "KJV": "and they bowed themselves .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said, What [ meanest ] thou by all this drove which I met ?",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר מִ֥י לְ ךָ֛ כָּל הַ מַּחֲנֶ֥ה הַ זֶּ֖ה אֲשֶׁ֣ר פָּגָ֑שְׁתִּי",
+        "LXX": "καὶ εἶπεν Τί ταῦτά σοί ἐστιν , πᾶσαι αἱ παρεμβολαὶ αὗται αἷς ἀπήντηκα ;",
+        "VUL": "Dixítque Esau : Quænam sunt istæ turmæ quas óbviam hábui ?",
+        "SP": "ו יאמר מי לך כל ה מחנה ה זה אשׁר פגשׁתי",
+        "KJV": "And he said , What [ meanest ] thou by all this drove which I met ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And he said, [ These are ] to find grace in the sight of my lord",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר לִ מְצֹא חֵ֖ן בְּ עֵינֵ֥י אֲדֹנִֽ י",
+        "LXX": "ὁ δὲ εἶπεν Ἵνα εὕρῃ ὁ παῖς σου χάριν ἐν ὀφθαλμοῖς σου , κύριε .",
+        "VUL": "Respóndit : Ut invenírem grátiam coram dómino meo .",
+        "SP": "ו יאמר ל מצא חן ב עיני אדני",
+        "KJV": "And he said , [ These are ] to find grace in the sight of my lord .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Esau said, I have enough, my brother",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר עֵשָׂ֖ו יֶשׁ לִ֣ י רָ֑ב אָחִ֕ י",
+        "LXX": "εἶπεν δὲ Ἠσαύ Ἔστιν μοι πολλά , ἀδελφέ ·",
+        "VUL": "At ille ait : Hábeo plúrima , frater mi ,",
+        "SP": "ו יאמר עשׂו ישׁ לי רב אחי",
+        "KJV": "And Esau said , I have enough , my brother ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "keep that thou hast unto thyself",
+      "traditions": {
+        "WLC": "יְהִ֥י לְ ךָ֖ אֲשֶׁר לָֽ ךְ",
+        "LXX": "ἔστω σοι τὰ σά .",
+        "VUL": "sint tua tibi .",
+        "SP": "ו יהי לך אשׁר לך",
+        "KJV": "keep that thou hast unto thyself .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jacob said, Nay, I pray thee",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר יַעֲקֹ֗ב אַל נָא֙",
+        "LXX": "εἶπεν δὲ Ἰακώβ",
+        "VUL": "Dixítque Iacob : Noli ita , óbsecro :",
+        "SP": "ו יאמר יעקב אל נא",
+        "KJV": "And Jacob said , Nay , I pray thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "if now I have found grace in thy sight",
+      "traditions": {
+        "WLC": "אִם נָ֨א מָצָ֤אתִי חֵן֙ בְּ עֵינֶ֔י ךָ",
+        "LXX": "Εἰ εὕρηκα χάριν ἐναντίον σου ,",
+        "VUL": "sed si invéni grátiam in óculis tuis ,",
+        "SP": "אם נא מצאתי חן ב עיניך",
+        "KJV": "if now I have found grace in thy sight ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "then receive my present at my hand",
+      "traditions": {
+        "WLC": "וְ לָקַחְתָּ֥ מִנְחָתִ֖ י מִ יָּדִ֑ י",
+        "LXX": "δέξαι τὰ δῶρα διὰ τῶν ἐμῶν χειρῶν ·",
+        "VUL": "áccipe munúsculum de mánibus meis .",
+        "SP": "ו לקחת מנחתי מ ידי",
+        "KJV": "then receive my present at my hand :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for therefore I have seen thy face",
+      "traditions": {
+        "WLC": "כִּ֣י עַל כֵּ֞ן רָאִ֣יתִי פָנֶ֗י ךָ",
+        "LXX": "ἕνεκεν τούτου ἴδον τὸ πρόσωπόν σου",
+        "VUL": "Sic enim vidi fáciem tuam ,",
+        "SP": "כי על כן ראיתי פניך",
+        "KJV": "for therefore I have seen thy face ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "as though I had seen the face of God",
+      "traditions": {
+        "WLC": "כִּ רְאֹ֛ת פְּנֵ֥י אֱלֹהִ֖ים",
+        "LXX": "ὡς ἄν τις ἴδοι πρόσωπον θεοῦ ,",
+        "VUL": "quasi víderim vultum Dei :",
+        "SP": "כ ראות פני אלהים",
+        "KJV": "as though I had seen the face of God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and thou wast pleased with me",
+      "traditions": {
+        "WLC": "וַ תִּרְצֵֽ נִי",
+        "LXX": "καὶ εὐδοκήσεις με ·",
+        "VUL": "esto mihi propítius ,",
+        "SP": "ו תרצני",
+        "KJV": "and thou wast pleased with me .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Take , I pray thee , my blessing that is brought to thee",
+      "traditions": {
+        "WLC": "קַח נָ֤א אֶת בִּרְכָתִ י֙ אֲשֶׁ֣ר הֻבָ֣את לָ֔ ךְ",
+        "LXX": "λάβε τὰς εὐλογίας μου ἃς ἤνεγκά σοι ,",
+        "VUL": "et súscipe benedictiónem quam áttuli tibi ,",
+        "SP": "קח נא את ברכתי אשׁר הבאתי לך",
+        "KJV": "Take , I pray thee , my blessing that is brought to thee ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because God hath dealt graciously with me",
+      "traditions": {
+        "WLC": "כִּֽי חַנַּ֥ נִי אֱלֹהִ֖ים",
+        "LXX": "ὅτι ἠλέησέν με ὁ θεὸς",
+        "VUL": "et quam donávit mihi Deus",
+        "SP": "כי חנני אלהים",
+        "KJV": "because God hath dealt graciously with me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and because I have enough",
+      "traditions": {
+        "WLC": "וְ כִ֣י יֶשׁ לִ י כֹ֑ל",
+        "LXX": "καὶ ἔστιν μοι πάντα .",
+        "VUL": "tríbuens ómnia .",
+        "SP": "ו כי ישׁ לי כל",
+        "KJV": "and because I have enough .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And he urged him , and he took [ it ]",
+      "traditions": {
+        "WLC": "וַ יִּפְצַר בּ֖ וֹ וַ יִּקָּֽח",
+        "LXX": "καὶ ἐβιάσατο αὐτόν , καὶ ἔλαβεν .",
+        "VUL": "Vix fratre compellénte , suscípiens ,",
+        "SP": "ו יפצר בו ו יקח",
+        "KJV": "And he urged him , and he took [ it ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said , Let us take our journey",
+      "traditions": {
+        "WLC": "וַ יֹּ֖אמֶר נִסְעָ֣ה",
+        "LXX": "καὶ εἶπεν Ἀπάραντες",
+        "VUL": "ait : Gradiámur simul ,",
+        "SP": "ו יאמר נסעה",
+        "KJV": "And he said , Let us take our journey ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and let us go",
+      "traditions": {
+        "WLC": "וְ נֵלֵ֑כָה",
+        "LXX": "πορευθῶμεν",
+        "VUL": null,
+        "SP": "ו נלכה",
+        "KJV": "and let us go ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and I will go before thee",
+      "traditions": {
+        "WLC": "וְ אֵלְכָ֖ה לְ נֶגְדֶּֽ ךָ",
+        "LXX": "ἐπ᾽ εὐθεῖαν .",
+        "VUL": "eróque sócius itíneris tui .",
+        "SP": "ו אלכה ל נגדך",
+        "KJV": "and I will go before thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said unto him , My lord knoweth that the children [ are ] tender",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֵלָ֗י ו אֲדֹנִ֤ י יֹדֵ֨עַ֙ כִּֽי הַ יְלָדִ֣ים רַכִּ֔ים",
+        "LXX": "εἶπεν δὲ αὐτῷ Ὁ κύριός μου γινώσκει ὅτι τὰ παιδία ἁπαλώτερα ,",
+        "VUL": "Dixítque Iacob : Nosti dómine mi quod párvulos hábeam téneros ,",
+        "SP": "ו יאמר אליו אדני ידע כי ה ילדים רכים",
+        "KJV": "And he said unto him , My lord knoweth that the children [ are ] tender ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the flocks and herds with young [ are ] with me",
+      "traditions": {
+        "WLC": "וְ הַ צֹּ֥אן וְ הַ בָּקָ֖ר עָל֣וֹת עָלָ֑ י",
+        "LXX": "καὶ τὰ πρόβατα καὶ αἱ βόες λοχεύονται ἐπ᾽ ἐμέ ·",
+        "VUL": "et oves , et boves fœtas mecum :",
+        "SP": "ו ה צאן ו ה בקר אעלת עלי",
+        "KJV": "and the flocks and herds with young [ are ] with me :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and if men should overdrive them one day",
+      "traditions": {
+        "WLC": "וּ דְפָקוּ ם֙ י֣וֹם אֶחָ֔ד",
+        "LXX": "ἐὰν οὖν καταδιώξω αὐτοὺς ἡμέραν μίαν ,",
+        "VUL": "quas si plus in ambulándo fécero laboráre ,",
+        "SP": "ו דפקתים יום אחד",
+        "KJV": "and if men should overdrive them one day ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "all the flock will die",
+      "traditions": {
+        "WLC": "וָ מֵ֖תוּ כָּל הַ צֹּֽאן",
+        "LXX": "ἀποθανοῦνται πάντα τὰ κτήνη .",
+        "VUL": "moriéntur una die cuncti greges .",
+        "SP": "ו מתו כל ה צאן",
+        "KJV": "all the flock will die .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let my lord , I pray thee , pass over before his servant",
+      "traditions": {
+        "WLC": "יַעֲבָר נָ֥א אֲדֹנִ֖ י לִ פְנֵ֣י עַבְדּ֑ וֹ",
+        "LXX": "προελθάτω ὁ κύριός μου ἔμπροσθεν τοῦ παιδός ·",
+        "VUL": "Præcédat dóminus meus ante servum suum :",
+        "SP": "יעבר נא אדני ל פני עבדו",
+        "KJV": "Let my lord , I pray thee , pass over before his servant :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will lead on softly",
+      "traditions": {
+        "WLC": "וַ אֲנִ֞י אֶֽתְנָהֲלָ֣ה לְ אִטִּ֗ י",
+        "LXX": "ἐγὼ δὲ ἐνισχύσω ἐν τῇ ὁδῷ κατὰ σχολὴν τῆς πορεύσεως",
+        "VUL": "et ego sequar paulátim vestígia eius ,",
+        "SP": "ו אני אתנהלה ל אטי",
+        "KJV": "and I will lead on softly ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "according as the cattle that goeth before me and the children be able to endure",
+      "traditions": {
+        "WLC": "לְ רֶ֨גֶל הַ מְּלָאכָ֤ה אֲשֶׁר לְ פָנַ י֙ וּ לְ רֶ֣גֶל הַ יְלָדִ֔ים",
+        "LXX": "τῆς ἐναντίον μου καὶ κατὰ πόδα τῶν παιδαρίων ,",
+        "VUL": "sicut vídero párvulos meos posse ,",
+        "SP": "ל רגל ה מלאכה אשׁר ל פני ו ל רגל ה ילדים",
+        "KJV": "according as the cattle that goeth before me and the children be able to endure ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "until I come unto my lord unto Seir",
+      "traditions": {
+        "WLC": "עַ֛ד אֲשֶׁר אָבֹ֥א אֶל אֲדֹנִ֖ י שֵׂעִֽירָ ה",
+        "LXX": "ἕως τοῦ με ἐλθεῖν πρὸς τὸν κύριόν μου εἰς Σηείρ .",
+        "VUL": "donec véniam ad dóminum meum in Seir .",
+        "SP": "עד אשׁר אבוא אל אדני שׂעירה",
+        "KJV": "until I come unto my lord unto Seir .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Esau said , Let me now leave with thee [ some ] of the folk that [ are ] with me",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר עֵשָׂ֔ו אַצִּֽיגָה נָּ֣א עִמְּ ךָ֔ מִן הָ עָ֖ם אֲשֶׁ֣ר אִתִּ֑ י",
+        "LXX": "εἶπεν δὲ Ἠσαύ Καταλείψω μετὰ σοῦ ἀπὸ τοῦ λαοῦ τοῦ μετ᾽ ἐμοῦ .",
+        "VUL": "Respóndit Esau : Oro te , ut de pópulo qui mecum est , saltem sócii remáneant viæ tuæ .",
+        "SP": "ו יאמר עשׂו אציגה נא עמך מן ה עם אשׁר אתי",
+        "KJV": "And Esau said , Let me now leave with thee [ some ] of the folk that [ are ] with me .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And he said , What needeth it ?",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר֙ לָ֣ מָּה זֶּ֔ה",
+        "LXX": "ὁ δὲ εἶπεν Ἵνα τί τοῦτο ;",
+        "VUL": "Non est , inquit , necésse :",
+        "SP": "ו יאמר למה זה",
+        "KJV": "And he said , What needeth it ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "let me find grace in the sight of my lord",
+      "traditions": {
+        "WLC": "אֶמְצָא חֵ֖ן בְּ עֵינֵ֥י אֲדֹנִֽ י",
+        "LXX": "ἱκανὸν ὅτι εὗρον χάριν ἐναντίον σου , κύριε .",
+        "VUL": "hoc uno tantum indígeo , ut invéniam grátiam in conspéctu tuo dómine mi .",
+        "SP": "אמצא חן ב עיני אדני",
+        "KJV": "let me find grace in the sight of my lord .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "So Esau returned that day on his way unto Seir",
+      "traditions": {
+        "WLC": "וַ יָּשָׁב֩ בַּ יּ֨וֹם הַ ה֥וּא עֵשָׂ֛ו לְ דַרְכּ֖ וֹ שֵׂעִֽירָ ה",
+        "LXX": "ἀπέστρεψεν δὲ Ἠσαὺ ἐν τῇ ἡμέρᾳ ἐκείνῃ εἰς τὴν ὁδὸν αὐτοῦ εἰς Σηείρ .",
+        "VUL": "Revérsus est ítaque illo die Esau itínere quo vénerat in Seir .",
+        "SP": "ו ישׁב ב יום ה הוא עשׂו ל דרכו שׂעירה",
+        "KJV": "So Esau returned that day on his way unto Seir .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jacob journeyed to Succoth",
+      "traditions": {
+        "WLC": "וְ יַעֲקֹב֙ נָסַ֣ע סֻכֹּ֔תָ ה",
+        "LXX": "καὶ Ἰακὼβ ἀπαίρει εἰς Σκηνάς ·",
+        "VUL": "Et Iacob venit in Socoth :",
+        "SP": "ו יעקב נסע סכותה",
+        "KJV": "And Jacob journeyed to Succoth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and built him an house",
+      "traditions": {
+        "WLC": "וַ יִּ֥בֶן ל֖ וֹ בָּ֑יִת",
+        "LXX": "καὶ ἐποίησεν αὐτῷ ἐκεῖ οἰκίας ,",
+        "VUL": "ubi ædificáta domo",
+        "SP": "ו יבן לו בית",
+        "KJV": "and built him an house ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and made booths for his cattle",
+      "traditions": {
+        "WLC": "וּ לְ מִקְנֵ֨ הוּ֙ עָשָׂ֣ה סֻכֹּ֔ת",
+        "LXX": "καὶ τοῖς κτήνεσιν αὐτοῦ ἐποίησεν σκηνάς ·",
+        "VUL": "et fixis tentóriis",
+        "SP": "ו ל מקנהו עשׂה סכות",
+        "KJV": "and made booths for his cattle :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "therefore the name of the place is called Succoth",
+      "traditions": {
+        "WLC": "עַל כֵּ֛ן קָרָ֥א שֵׁם הַ מָּק֖וֹם סֻכּֽוֹת",
+        "LXX": "διὰ τοῦτο ἐκάλεσεν τὸ ὄνομα τοῦ τόπου ἐκείνου Σκηναί .",
+        "VUL": "appellávit nomen loci illíus Socoth , id est , Tabernácula .",
+        "SP": "על כן קרא שׁם ה מקום סכות",
+        "KJV": "therefore the name of the place is called Succoth .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jacob came to Shalem , a city of Shechem",
+      "traditions": {
+        "WLC": "וַ יָּבֹא֩ יַעֲקֹ֨ב שָׁלֵ֜ם עִ֣יר שְׁכֶ֗ם",
+        "LXX": "Καὶ ἦλθεν Ἰακὼβ εἰς Σαλὴμ πόλιν Σικίμων ,",
+        "VUL": "Transivítque in Salem urbem Sichimórum ,",
+        "SP": "ו יבא יעקב שׁלום עיר שׁכם",
+        "KJV": "And Jacob came to Shalem , a city of Shechem ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which [ is ] in the land of Canaan",
+      "traditions": {
+        "WLC": "אֲשֶׁר֙ בְּ אֶ֣רֶץ כְּנַ֔עַן",
+        "LXX": "ἥ ἐστιν ἐν γῇ Χανάαν ,",
+        "VUL": "quæ est in terra Chánaan ,",
+        "SP": "אשׁר ב ארץ כנען",
+        "KJV": "which [ is ] in the land of Canaan ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "when he came from Padanaram",
+      "traditions": {
+        "WLC": "בְּ בֹא֖ וֹ מִ פַּדַּ֣ן אֲרָ֑ם",
+        "LXX": "ὅτε ἦλθεν ἐκ τῆς Μεσοποταμίας Συρίας ·",
+        "VUL": "postquam revérsus est de Mesopotámia Sýriæ :",
+        "SP": "ב באו מ פדן ארם",
+        "KJV": "when he came from Padanaram ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and pitched his tent before the city",
+      "traditions": {
+        "WLC": "וַ יִּ֖חַן אֶת פְּנֵ֥י הָ עִֽיר",
+        "LXX": "καὶ παρενέβαλεν κατὰ πρόσωπον τῆς πόλεως .",
+        "VUL": "et habitávit iuxta óppidum .",
+        "SP": "ו יחן את פני ה עיר",
+        "KJV": "and pitched his tent before the city .",
+        "DSS": "[Murx] פ##נ?[ י ה עיר ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he bought a parcel of a field",
+      "traditions": {
+        "WLC": "וַ יִּ֜קֶן אֶת חֶלְקַ֣ת הַ שָּׂדֶ֗ה",
+        "LXX": "καὶ ἐκτήσατο τὴν μερίδα τοῦ ἀγροῦ ,",
+        "VUL": "Emítque partem agri ,",
+        "SP": "ו יקן את חלקת ה שׂדה",
+        "KJV": "And he bought a parcel of a field ,",
+        "DSS": "[Murx] ו יקן את חלקת ה שדה אשר ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "where he had spread his tent",
+      "traditions": {
+        "WLC": "אֲשֶׁ֤ר נָֽטָה שָׁם֙ אָהֳל֔ וֹ",
+        "LXX": "οὗ ἔστησεν ἐκεῖ τὴν σκηνὴν αὐτοῦ ,",
+        "VUL": "in qua fíxerat tabernácula ,",
+        "SP": "אשׁר נטה שׁם אהלו",
+        "KJV": "where he had spread his tent ,",
+        "DSS": "נטה [ שם אהל׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "at the hand of the children of Hamor , Shechem ’s father",
+      "traditions": {
+        "WLC": "מִ יַּ֥ד בְּנֵֽי חֲמ֖וֹר אֲבִ֣י שְׁכֶ֑ם",
+        "LXX": "παρὰ Ἐμμὼρ πατρὸς Συχὲμ",
+        "VUL": "a fíliis Hemor patris Sichem",
+        "SP": "מ יד בני חמור אבי שׁכם",
+        "KJV": "at the hand of the children of Hamor , Shechem ’s father ,",
+        "DSS": "מ יד בני חמור אבי שכם ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for an hundred pieces of money",
+      "traditions": {
+        "WLC": "בְּ מֵאָ֖ה קְשִׂיטָֽה",
+        "LXX": "ἑκατὸν ἀμνῶν ·",
+        "VUL": "centum agnis .",
+        "SP": "ב מאה קשׂיטה",
+        "KJV": "for an hundred pieces of money .",
+        "DSS": "[4Q6] [ שכם ב מאה ] קשיטה ׃ / [Murx] ב מאה ק##[ שיטה ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he erected there an altar",
+      "traditions": {
+        "WLC": "וַ יַּצֶּב שָׁ֖ם מִזְבֵּ֑חַ",
+        "LXX": "καὶ ἔστησεν ἐκεῖ θυσιαστήριον",
+        "VUL": "Et erécto ibi altári ,",
+        "SP": "ו יצב שׁם מזבח",
+        "KJV": "And he erected there an altar ,",
+        "DSS": "[4Q6] ו יצ##ב## ש##ם# מ#ז#?ב##ח## / [Murx] ו יצב שם מזבח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and called it EleloheIsrael",
+      "traditions": {
+        "WLC": "וַ יִּ֨קְרָא ל֔ וֹ אֵ֖ל אֱלֹהֵ֥י יִשְׂרָאֵֽל",
+        "LXX": "καὶ ἐπεκαλέσατο τὸν θεὸν Ἰσραήλ .",
+        "VUL": "invocávit super illud fortíssimum Deum Israel .",
+        "SP": "ו יקרא לו אל אלהי ישׂראל",
+        "KJV": "and called it EleloheIsrael .",
+        "DSS": "[4Q6] ו י?ק#[ רא ] [ ל׳ו ] א##ל אלהי ישראל ׃ / [Murx] ו יקרא ל׳ו ] אל אלהי י[ שראל ׃"
+      }
+    }
+  ]
+}

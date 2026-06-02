@@ -1,0 +1,2938 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בְּנֵ֖י",
+          "LXX": "Υἱοὶ",
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "The sons",
+          "DSS": null
+        },
+        {
+          "token": "לֵוִ֑י",
+          "LXX": "Λευεί",
+          "VUL": "ergo Levi",
+          "SP": null,
+          "KJV": "of Levi",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "גֵּרְשֹׁ֕ם",
+          "LXX": "Γεδσών",
+          "VUL": "Gerson",
+          "SP": null,
+          "KJV": "Gershom",
+          "DSS": null
+        },
+        {
+          "token": "קְהָ֖ת",
+          "LXX": "Καὰθ",
+          "VUL": "Caath",
+          "SP": null,
+          "KJV": "Kohath",
+          "DSS": null
+        },
+        {
+          "token": "וּ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": null
+        },
+        {
+          "token": "מְרָרִֽי",
+          "LXX": "Μαραρεί",
+          "VUL": "Merári",
+          "SP": null,
+          "KJV": "Merari",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "καὶ",
+          "VUL": "Et",
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "אֵ֛לֶּה",
+          "LXX": null,
+          "VUL": "hæc",
+          "SP": null,
+          "KJV": "these [ be ]",
+          "DSS": null
+        },
+        {
+          "token": "שְׁמ֥וֹת",
+          "LXX": null,
+          "VUL": "nómina",
+          "SP": null,
+          "KJV": "the names",
+          "DSS": null
+        },
+        {
+          "token": "בְּֽנֵי",
+          "LXX": "υἱοὶ",
+          "VUL": "filiórum",
+          "SP": null,
+          "KJV": "of the sons",
+          "DSS": null
+        },
+        {
+          "token": "גֵרְשׁ֖וֹם",
+          "LXX": "Καάθ",
+          "VUL": "Gerson",
+          "SP": null,
+          "KJV": "of Gershom",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "לִבְנִ֥י",
+          "LXX": "Ἀμβρὰμ",
+          "VUL": "Lobni",
+          "SP": null,
+          "KJV": "Libni",
+          "DSS": null
+        },
+        {
+          "token": "וְ",
+          "LXX": "καὶ Ἰσσάαρ , Χεβρὼν καὶ Ὀζειήל",
+          "VUL": "et",
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "שִׁמְעִֽי",
+          "LXX": null,
+          "VUL": "Sémei",
+          "SP": null,
+          "KJV": "Shimei",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וּ",
+          "LXX": "καὶ",
+          "VUL": null,
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "בְנֵ֖י",
+          "LXX": "υἱοὶ",
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "the sons",
+          "DSS": null
+        },
+        {
+          "token": "קְהָ֑ת",
+          "LXX": "Ἀμβράν",
+          "VUL": "Caath",
+          "SP": null,
+          "KJV": "of Kohath [ were ]",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "עַמְרָ֣ם",
+          "LXX": "Ἀαρὼν καὶ Μωυσῆς καὶ Μαριάμ",
+          "VUL": "Amram",
+          "SP": null,
+          "KJV": "Amram",
+          "DSS": null
+        },
+        {
+          "token": "וְ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "יִצְהָ֔ר",
+          "LXX": "υἱοὶ Ἀαρών",
+          "VUL": "Isaar",
+          "SP": null,
+          "KJV": "Izhar",
+          "DSS": null
+        },
+        {
+          "token": "וְ",
+          "LXX": "Ναδὰβ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "חֶבְר֖וֹן",
+          "LXX": "καὶ Ἀβιούδ",
+          "VUL": "Hebron",
+          "SP": null,
+          "KJV": "Hebron",
+          "DSS": null
+        },
+        {
+          "token": "וְ",
+          "LXX": "Ἐλεαζὰρ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "עֻזִּיאֵֽל",
+          "LXX": "καὶ Ἰθαμάρ",
+          "VUL": "Oziel",
+          "SP": null,
+          "KJV": "Uzziel",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בְּנֵ֥י",
+          "LXX": "Ἐλεαζὰρ ἐγέννησεν τὸν Φεινεές",
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "The sons",
+          "DSS": null
+        },
+        {
+          "token": "מְרָרִ֖י",
+          "LXX": "Φεινεὲς ἐγέννησεν τὸν Ἀβεισού",
+          "VUL": "Merári",
+          "SP": null,
+          "KJV": "of Merari",
+          "DSS": null
+        },
+        {
+          "token": "מַחְלִ֣י",
+          "LXX": null,
+          "VUL": "Móholi",
+          "SP": null,
+          "KJV": "; Mahli",
+          "DSS": null
+        },
+        {
+          "token": "וּ",
+          "LXX": null,
+          "VUL": "et",
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "מֻשִׁ֑י",
+          "LXX": null,
+          "VUL": "Musi",
+          "SP": null,
+          "KJV": "Mushi",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": null,
+          "VUL": "Hæ",
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "אֵ֛לֶּה",
+          "LXX": null,
+          "VUL": "autem",
+          "SP": null,
+          "KJV": "these [ are ]",
+          "DSS": null
+        },
+        {
+          "token": "מִשְׁפְּח֥וֹת",
+          "LXX": null,
+          "VUL": "cognatiónes",
+          "SP": null,
+          "KJV": "the families",
+          "DSS": null
+        },
+        {
+          "token": "הַ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "of",
+          "DSS": null
+        },
+        {
+          "token": "לֵּוִ֖י",
+          "LXX": null,
+          "VUL": "Levi",
+          "SP": null,
+          "KJV": "the Levites",
+          "DSS": null
+        },
+        {
+          "token": "לַ",
+          "LXX": null,
+          "VUL": "secúndum",
+          "SP": null,
+          "KJV": "according",
+          "DSS": null
+        },
+        {
+          "token": "אֲבוֹתֵי",
+          "LXX": null,
+          "VUL": "famílias",
+          "SP": null,
+          "KJV": "to their",
+          "DSS": null
+        },
+        {
+          "token": "הֶֽם",
+          "LXX": null,
+          "VUL": "eórum",
+          "SP": null,
+          "KJV": "fathers",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "לְֽ",
+          "LXX": "Ἀβεισοὺ",
+          "VUL": null,
+          "SP": null,
+          "KJV": "Of",
+          "DSS": null
+        },
+        {
+          "token": "גֵרְשׁ֑וֹם",
+          "LXX": "ἐγέννησεν τὸν Βωέ",
+          "VUL": "Gersom",
+          "SP": null,
+          "KJV": "Gershom",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "לִבְנִ֥י",
+          "LXX": "καὶ",
+          "VUL": "Lobni",
+          "SP": null,
+          "KJV": "Libni",
+          "DSS": null
+        },
+        {
+          "token": "בְנ֛",
+          "LXX": "Βωὲ",
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "יַ֥חַת",
+          "LXX": "ἐγέννησεν",
+          "VUL": "Iahath",
+          "SP": null,
+          "KJV": ", Jahath",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "זִמָּ֥ה",
+          "LXX": "τὸν",
+          "VUL": "Zamma",
+          "SP": null,
+          "KJV": ", Zimmah",
+          "DSS": null
+        },
+        {
+          "token": "בְנֽ",
+          "LXX": "Ὀζεί",
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "יוֹאָ֤ח",
+          "LXX": "Ὀζεὶ",
+          "VUL": "Ioah",
+          "SP": null,
+          "KJV": "Joah",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ",
+          "LXX": "ἐγέννησε",
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ֙",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "עִדּ֣וֹ",
+          "LXX": "τὸν Ζαραιά",
+          "VUL": "Addo",
+          "SP": null,
+          "KJV": ", Iddo",
+          "DSS": null
+        },
+        {
+          "token": "בְנ֔",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "זֶ֥רַח",
+          "LXX": "Ζαραιὰ",
+          "VUL": "Zara",
+          "SP": null,
+          "KJV": ", Zerah",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֖",
+          "LXX": "ἐγέννησεν",
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "יְאָתְרַ֥י",
+          "LXX": "τὸν Μαρειήλ",
+          "VUL": "Iéthrai",
+          "SP": null,
+          "KJV": ", Jeaterai",
+          "DSS": null
+        },
+        {
+          "token": "בְּנֽ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בְּנֵ֖י",
+          "LXX": "καὶ Μαρειὴλ ἐγέννησεν τὸν Ἀμαρειά",
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "The sons",
+          "DSS": null
+        },
+        {
+          "token": "קְהָ֑ת",
+          "LXX": null,
+          "VUL": "Caath",
+          "SP": null,
+          "KJV": "of Kohath",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "עַמִּינָדָ֣ב",
+          "LXX": "καὶ Ἀμαρειὰ ἐγέννησεν τὸν Ἀχειτώβ",
+          "VUL": "Amínadab",
+          "SP": null,
+          "KJV": "Amminadab",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֔",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "קֹ֥רַח",
+          "LXX": null,
+          "VUL": "Core",
+          "SP": null,
+          "KJV": ", Korah",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "אַסִּ֥יר",
+          "LXX": null,
+          "VUL": "Asir",
+          "SP": null,
+          "KJV": ", Assir",
+          "DSS": null
+        },
+        {
+          "token": "בְּנֽ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אֶלְקָנָ֥ה",
+          "LXX": "καὶ Ἀχειτὼβ ἐγέννησεν τὸν Σαδώκ",
+          "VUL": "Elcana",
+          "SP": null,
+          "KJV": "Elkanah",
+          "DSS": null
+        },
+        {
+          "token": "בְנ֛",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "וְ",
+          "LXX": "καὶ Σαδὼκ ἐγέννησεν τὸν Ἀχειμάας",
+          "VUL": null,
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "אֶבְיָסָ֥ף",
+          "LXX": null,
+          "VUL": "Abíasaph",
+          "SP": null,
+          "KJV": "Ebiasaph",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "וְ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "אַסִּ֥יר",
+          "LXX": null,
+          "VUL": "Asir",
+          "SP": null,
+          "KJV": "Assir",
+          "DSS": null
+        },
+        {
+          "token": "בְּנֽ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "תַּ֤חַת",
+          "LXX": "καὶ Ἀχειμάας ἐγέννησεν τὸν Ἀζαριά",
+          "VUL": "Thahath",
+          "SP": null,
+          "KJV": "Tahath",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ֙",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "אוּרִיאֵ֣ל",
+          "LXX": "καὶ Ἀζαρίας ἐγέννησεν τὸν Ἰωανάς",
+          "VUL": "Uriel",
+          "SP": null,
+          "KJV": ", Uriel",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֔",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "עֻזִּיָּ֥ה",
+          "LXX": null,
+          "VUL": "Ozías",
+          "SP": null,
+          "KJV": ", Uzziah",
+          "DSS": null
+        },
+        {
+          "token": "בְנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "וְ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "שָׁא֥וּל",
+          "LXX": null,
+          "VUL": "Saul",
+          "SP": null,
+          "KJV": "Shaul",
+          "DSS": null
+        },
+        {
+          "token": "בְּנֽ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וּ",
+          "LXX": "καὶ Ἰωανὰς",
+          "VUL": null,
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "בְנֵי֙",
+          "LXX": "ἐγέννησεν τὸν Ἀζαρίαν",
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "the sons",
+          "DSS": null
+        },
+        {
+          "token": "אֶלְקָנָ֔ה",
+          "LXX": null,
+          "VUL": "Elcana",
+          "SP": null,
+          "KJV": "of Elkanah",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "עֲמָשַׂ֖י",
+          "LXX": "οὗτος ἱεράτευσεν ἐν τῷ οἴκῳ ᾧ ᾠκοδόμησεν Σαλωμὼν ἐν Ἰερουσαλήμ",
+          "VUL": "Amásai",
+          "SP": null,
+          "KJV": "Amasai",
+          "DSS": null
+        },
+        {
+          "token": "וַ",
+          "LXX": null,
+          "VUL": "et",
+          "SP": null,
+          "KJV": ", and",
+          "DSS": null
+        },
+        {
+          "token": "אֲחִימֽוֹת",
+          "LXX": null,
+          "VUL": "Achimoth",
+          "SP": null,
+          "KJV": "Ahimoth",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אֶלְקָנָ֑ה",
+          "LXX": "καὶ ἐγέννησεν Ἀζαριὰ τὸν Ἀμαριά",
+          "VUL": "et Elcana",
+          "SP": null,
+          "KJV": "Elkanah",
+          "DSS": null
+        },
+        {
+          "token": "בנ",
+          "LXX": null,
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "the sons",
+          "DSS": null
+        },
+        {
+          "token": "ו",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "of",
+          "DSS": null
+        },
+        {
+          "token": "אֶלְקָנָ֔ה",
+          "LXX": null,
+          "VUL": "Elcana",
+          "SP": null,
+          "KJV": "Elkanah",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בנ",
+          "LXX": "καὶ Ἀμαριὰ ἐγέννησεν τὸν Ἀχειτώβ",
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "the sons",
+          "DSS": null
+        },
+        {
+          "token": "ו",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "of",
+          "DSS": null
+        },
+        {
+          "token": "אֶלְקָנָ֔ה",
+          "LXX": null,
+          "VUL": "Elcana",
+          "SP": null,
+          "KJV": "Elkanah",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "צוֹפַ֥י",
+          "LXX": null,
+          "VUL": "Sóphai",
+          "SP": null,
+          "KJV": "Zophai",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "and",
+          "DSS": null
+        },
+        {
+          "token": "נַ֥חַת",
+          "LXX": null,
+          "VUL": "Nahath",
+          "SP": null,
+          "KJV": "Nahath",
+          "DSS": null
+        },
+        {
+          "token": "בְּנֽ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אֱלִיאָ֥ב",
+          "LXX": "καὶ Ἀχειτὼβ ἐγέννησεν τὸν Σαδώκ",
+          "VUL": "Eliab",
+          "SP": null,
+          "KJV": "Eliab",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "יְרֹחָ֥ם",
+          "LXX": "καὶ Σαδὼκ ἐγέννησεν τὸν Σαλώμ",
+          "VUL": "Iéroham",
+          "SP": null,
+          "KJV": "Jeroham",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אֶלְקָנָ֥ה",
+          "LXX": null,
+          "VUL": "Elcana",
+          "SP": null,
+          "KJV": "Elkanah",
+          "DSS": null
+        },
+        {
+          "token": "בְנֽ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וּ",
+          "LXX": "καὶ Σαλὼμ ἐγέννησεν τὸν Χελκείαν",
+          "VUL": null,
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "בְנֵ֧י",
+          "LXX": null,
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "the sons",
+          "DSS": null
+        },
+        {
+          "token": "שְׁמוּאֵ֛ל",
+          "LXX": null,
+          "VUL": "Sámuel",
+          "SP": null,
+          "KJV": "of Samuel",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הַ",
+          "LXX": "καὶ Χελκείας ἐγέννησεν τὸν Ἀζαριά",
+          "VUL": "primogénitus",
+          "SP": null,
+          "KJV": "the",
+          "DSS": null
+        },
+        {
+          "token": "בְּכֹ֥ר",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "firstborn",
+          "DSS": null
+        },
+        {
+          "token": "וַשְׁנִ֖י",
+          "LXX": null,
+          "VUL": "Vásseni",
+          "SP": null,
+          "KJV": "Vashni",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וַ",
+          "LXX": null,
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": null
+        },
+        {
+          "token": "אֲבִיָּֽה",
+          "LXX": null,
+          "VUL": "Abía",
+          "SP": null,
+          "KJV": "Abiah",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בְּנֵ֥י",
+          "LXX": "καὶ Ἀζαρίας ἐγέννησεν τὸν Σαραιά",
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "The sons",
+          "DSS": null
+        },
+        {
+          "token": "מְרָרִ֖י",
+          "LXX": null,
+          "VUL": "Merári",
+          "SP": null,
+          "KJV": "of Merari",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "מַחְלִ֑י",
+          "LXX": "καὶ Σαραίας ἐγέννησεν τὸν Ἰωσαδάκ",
+          "VUL": "Móholi",
+          "SP": null,
+          "KJV": "Mahli",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "לִבְנִ֥י",
+          "LXX": null,
+          "VUL": "Lobni",
+          "SP": null,
+          "KJV": "Libni",
+          "DSS": null
+        },
+        {
+          "token": "בְנ֛",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "שִׁמְעִ֥י",
+          "LXX": null,
+          "VUL": "Sémei",
+          "SP": null,
+          "KJV": "Shimei",
+          "DSS": null
+        },
+        {
+          "token": "בְנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 5,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "עֻזָּ֥ה",
+          "LXX": null,
+          "VUL": "Oza",
+          "SP": null,
+          "KJV": "Uzza",
+          "DSS": null
+        },
+        {
+          "token": "בְנֽ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "שִׁמְעָ֥א",
+          "LXX": "καὶ Ἰωσαδὰκ ἐπορεύθη ἐν τῇ μετοικίᾳ μετὰ Ἰούδα καὶ Ἰερουσαλὴμ ἐν χειρὶ Ναβουχοδονοσόρ",
+          "VUL": "Sámmaa",
+          "SP": null,
+          "KJV": "Shimea",
+          "DSS": null
+        },
+        {
+          "token": "בְנ֛",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "חַגִּיָּ֥ה",
+          "LXX": null,
+          "VUL": "Haggía",
+          "SP": null,
+          "KJV": "Haggiah",
+          "DSS": null
+        },
+        {
+          "token": "בְנ֖",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "עֲשָׂיָ֥ה",
+          "LXX": null,
+          "VUL": "Asaía",
+          "SP": null,
+          "KJV": "Asaiah",
+          "DSS": null
+        },
+        {
+          "token": "בְנֽ",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "his son",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "Υἱοὶ",
+          "VUL": null,
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "אֵ֗לֶּה",
+          "LXX": "Λευεὶ",
+          "VUL": "Isti",
+          "SP": null,
+          "KJV": "these",
+          "DSS": null
+        },
+        {
+          "token": "אֲשֶׁ֨ר",
+          "LXX": null,
+          "VUL": "quos",
+          "SP": null,
+          "KJV": "whom",
+          "DSS": null
+        },
+        {
+          "token": "הֶעֱמִ֥יד",
+          "LXX": null,
+          "VUL": "constítuit",
+          "SP": null,
+          "KJV": "set",
+          "DSS": null
+        },
+        {
+          "token": "דָּוִ֛יד",
+          "LXX": null,
+          "VUL": "David",
+          "SP": null,
+          "KJV": "David",
+          "DSS": null
+        },
+        {
+          "token": "עַל",
+          "LXX": null,
+          "VUL": "super",
+          "SP": null,
+          "KJV": "over",
+          "DSS": null
+        },
+        {
+          "token": "יְדֵי",
+          "LXX": null,
+          "VUL": "cantóres",
+          "SP": null,
+          "KJV": "the service",
+          "DSS": null
+        },
+        {
+          "token": "שִׁ֖יר",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "of song",
+          "DSS": null
+        },
+        {
+          "token": "בֵּ֣ית",
+          "LXX": null,
+          "VUL": "domus",
+          "SP": null,
+          "KJV": "in the house",
+          "DSS": null
+        },
+        {
+          "token": "יְהוָ֑ה",
+          "LXX": null,
+          "VUL": "Dómini",
+          "SP": null,
+          "KJV": "of the LORD",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "מִ",
+          "LXX": null,
+          "VUL": "ex",
+          "SP": null,
+          "KJV": "after",
+          "DSS": null
+        },
+        {
+          "token": "מְּנ֖וֹחַ",
+          "LXX": null,
+          "VUL": "quo collocáta est",
+          "SP": null,
+          "KJV": "that the ark had rest",
+          "DSS": null
+        },
+        {
+          "token": "הָ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "the",
+          "DSS": null
+        },
+        {
+          "token": "אָרֽוֹן",
+          "LXX": null,
+          "VUL": "arca",
+          "SP": null,
+          "KJV": "ark",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וַ",
+          "LXX": "καὶ ταῦτα τὰ ὀνόματα τῶν υἱῶν Γεδσών",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "יִּהְי֨וּ",
+          "LXX": null,
+          "VUL": "ministrábant",
+          "SP": null,
+          "KJV": "they ministered",
+          "DSS": null
+        },
+        {
+          "token": "מְשָׁרְתִ֜ים",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "לִ",
+          "LXX": null,
+          "VUL": "coram",
+          "SP": null,
+          "KJV": "before",
+          "DSS": null
+        },
+        {
+          "token": "פְנֵ֨י",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "the dwelling place",
+          "DSS": null
+        },
+        {
+          "token": "מִשְׁכַּ֤ן",
+          "LXX": null,
+          "VUL": "tabernáculo",
+          "SP": null,
+          "KJV": "of the tabernacle",
+          "DSS": null
+        },
+        {
+          "token": "אֹֽהֶל",
+          "LXX": null,
+          "VUL": "testimónii",
+          "SP": null,
+          "KJV": "of the congregation",
+          "DSS": null
+        },
+        {
+          "token": "מוֹעֵד֙",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "בַּ",
+          "LXX": "Λοβενεὶ",
+          "VUL": "canéntes",
+          "SP": null,
+          "KJV": "with",
+          "DSS": null
+        },
+        {
+          "token": "שִׁ֔יר",
+          "LXX": "καὶ Σεμεεί",
+          "VUL": null,
+          "SP": null,
+          "KJV": "singing",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "עַד",
+          "LXX": null,
+          "VUL": "donec",
+          "SP": null,
+          "KJV": "until",
+          "DSS": null
+        },
+        {
+          "token": "בְּנ֧וֹת",
+          "LXX": null,
+          "VUL": "ædificáret",
+          "SP": null,
+          "KJV": "Solomon had built",
+          "DSS": null
+        },
+        {
+          "token": "שְׁלֹמֹ֛ה",
+          "LXX": null,
+          "VUL": "Sálomon",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "אֶת",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "בֵּ֥ית",
+          "LXX": null,
+          "VUL": "domum",
+          "SP": null,
+          "KJV": "the house",
+          "DSS": null
+        },
+        {
+          "token": "יְהוָ֖ה",
+          "LXX": null,
+          "VUL": "Dómini",
+          "SP": null,
+          "KJV": "of the LORD",
+          "DSS": null
+        },
+        {
+          "token": "בִּ",
+          "LXX": null,
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": null
+        },
+        {
+          "token": "ירוּשָׁלִָ֑ם",
+          "LXX": null,
+          "VUL": "Ierúsalem",
+          "SP": null,
+          "KJV": "Jerusalem",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וַ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "and",
+          "DSS": null
+        },
+        {
+          "token": "יַּעַמְד֥וּ",
+          "LXX": null,
+          "VUL": "stabant",
+          "SP": null,
+          "KJV": "they waited",
+          "DSS": null
+        },
+        {
+          "token": "כְ",
+          "LXX": null,
+          "VUL": "iuxta",
+          "SP": null,
+          "KJV": "on",
+          "DSS": null
+        },
+        {
+          "token": "מִשְׁפָּטָ֖",
+          "LXX": null,
+          "VUL": "órdinem",
+          "SP": null,
+          "KJV": "their office",
+          "DSS": null
+        },
+        {
+          "token": "ם",
+          "LXX": null,
+          "VUL": "suum",
+          "SP": null,
+          "KJV": "according to their order",
+          "DSS": null
+        },
+        {
+          "token": "עַל",
+          "LXX": null,
+          "VUL": "in",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "עֲבוֹדָתָֽ",
+          "LXX": null,
+          "VUL": "ministério",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "ם",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "υἱοὶ Καάθ · Ἀμβρὰμ καὶ Ἰσσαάρ , Χεβρὼν καὶ Ὀζειήλ",
+          "VUL": "Hi",
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "אֵ֥לֶּה",
+          "LXX": null,
+          "VUL": "vero",
+          "SP": null,
+          "KJV": "these",
+          "DSS": null
+        },
+        {
+          "token": "הָ",
+          "LXX": null,
+          "VUL": "sunt",
+          "SP": null,
+          "KJV": "they",
+          "DSS": null
+        },
+        {
+          "token": "עֹמְדִ֖ים",
+          "LXX": null,
+          "VUL": "qui assistébant",
+          "SP": null,
+          "KJV": "that waited",
+          "DSS": null
+        },
+        {
+          "token": "וּ",
+          "LXX": null,
+          "VUL": "cum",
+          "SP": null,
+          "KJV": "with",
+          "DSS": null
+        },
+        {
+          "token": "בְנֵי",
+          "LXX": null,
+          "VUL": "fíliis",
+          "SP": null,
+          "KJV": "their children",
+          "DSS": null
+        },
+        {
+          "token": "הֶ֑ם",
+          "LXX": null,
+          "VUL": "suis",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "מִ",
+          "LXX": null,
+          "VUL": "de",
+          "SP": null,
+          "KJV": "Of",
+          "DSS": null
+        },
+        {
+          "token": "בְּנֵי֙",
+          "LXX": null,
+          "VUL": "fíliis",
+          "SP": null,
+          "KJV": "the sons",
+          "DSS": null
+        },
+        {
+          "token": "הַ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "of the",
+          "DSS": null
+        },
+        {
+          "token": "קְּהָתִ֔י",
+          "LXX": null,
+          "VUL": "Caath",
+          "SP": null,
+          "KJV": "Kohathites",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הֵימָן֙",
+          "LXX": null,
+          "VUL": "Heman",
+          "SP": null,
+          "KJV": "Heman",
+          "DSS": null
+        },
+        {
+          "token": "הַ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "a",
+          "DSS": null
+        },
+        {
+          "token": "מְשׁוֹרֵ֔ר",
+          "LXX": null,
+          "VUL": "cantor",
+          "SP": null,
+          "KJV": "singer",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "יוֹאֵ֖ל",
+          "LXX": null,
+          "VUL": "Iohel",
+          "SP": null,
+          "KJV": "of Joel",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 5,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "שְׁמוּאֵֽל",
+          "LXX": null,
+          "VUL": "Sámuel",
+          "SP": null,
+          "KJV": "of Shemuel",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "υἱοὶ Μαραρεί · Μοολεὶ καὶ Ὀμουσεί . καὶ αὗται αἱ πατριαὶ τοῦ Λευεὶ κατὰ πατριὰς αὐτῶν",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "The son",
+          "DSS": null
+        },
+        {
+          "token": "אֶלְקָנָה֙",
+          "LXX": null,
+          "VUL": "Elcana",
+          "SP": null,
+          "KJV": "of Elkanah",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "יְרֹחָ֔ם",
+          "LXX": null,
+          "VUL": "Iéroham",
+          "SP": null,
+          "KJV": "of Jeroham",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "אֱלִיאֵ֖ל",
+          "LXX": null,
+          "VUL": "Eliel",
+          "SP": null,
+          "KJV": "of Eliel",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "תּֽוֹחַ",
+          "LXX": null,
+          "VUL": "Thohu",
+          "SP": null,
+          "KJV": "of Toah",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "τῷ Γεδσών , τῷ Λοβενεὶ υἱῷ αὐτοῦ , Ἰέεθ υἱὸς αὐτοῦ , Ζεμμὰ υἱὸς αὐτοῦ",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "The son",
+          "DSS": null
+        },
+        {
+          "token": "ציף",
+          "LXX": null,
+          "VUL": "Suph",
+          "SP": null,
+          "KJV": "of Zuph",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "אֶלְקָנָ֔ה",
+          "LXX": null,
+          "VUL": "Elcana",
+          "SP": null,
+          "KJV": "of Elkanah",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "מַ֖חַת",
+          "LXX": null,
+          "VUL": "Mahath",
+          "SP": null,
+          "KJV": "of Mahath",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "עֲמָשָֽׂי",
+          "LXX": null,
+          "VUL": "Amásai",
+          "SP": null,
+          "KJV": "of Amasai",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "אֶלְקָנָה֙",
+          "LXX": null,
+          "VUL": "Elcana",
+          "SP": null,
+          "KJV": "Elkanah",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "יוֹאֵ֔ל",
+          "LXX": null,
+          "VUL": "Iohel",
+          "SP": null,
+          "KJV": "Joel",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "עֲזַרְיָ֖ה",
+          "LXX": null,
+          "VUL": "Azaríæ",
+          "SP": null,
+          "KJV": "Azariah",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "צְפַנְיָֽה",
+          "LXX": null,
+          "VUL": "Sophoníæ",
+          "SP": null,
+          "KJV": "Zephaniah",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "תַּ֨חַת֙",
+          "LXX": null,
+          "VUL": "Thahath",
+          "SP": null,
+          "KJV": "Tahath",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "אַסִּ֔יר",
+          "LXX": null,
+          "VUL": "Asir",
+          "SP": null,
+          "KJV": "Assir",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "אֶבְיָסָ֖ף",
+          "LXX": null,
+          "VUL": "Abíasaph",
+          "SP": null,
+          "KJV": "Ebiasaph",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "קֹֽרַח",
+          "LXX": null,
+          "VUL": "Core",
+          "SP": null,
+          "KJV": "Korah",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "יִצְהָ֣ר",
+          "LXX": null,
+          "VUL": "Isaar",
+          "SP": null,
+          "KJV": "Izhar",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "קְהָ֔ת",
+          "LXX": null,
+          "VUL": "Caath",
+          "SP": null,
+          "KJV": "Kohath",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "לֵוִ֖י",
+          "LXX": null,
+          "VUL": "Levi",
+          "SP": null,
+          "KJV": "Levi",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "יִשְׂרָאֵֽל",
+          "LXX": null,
+          "VUL": "Israel",
+          "SP": null,
+          "KJV": "Israel",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": null,
+          "VUL": "Et",
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "אָחִ֣י",
+          "LXX": null,
+          "VUL": "frater",
+          "SP": null,
+          "KJV": "brother",
+          "DSS": null
+        },
+        {
+          "token": "ו",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        },
+        {
+          "token": "אָסָ֔ף",
+          "LXX": null,
+          "VUL": "Asaph",
+          "SP": null,
+          "KJV": "Asaph",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הָ",
+          "LXX": null,
+          "VUL": "qui",
+          "SP": null,
+          "KJV": "who",
+          "DSS": null
+        },
+        {
+          "token": "עֹמֵ֖ד",
+          "LXX": null,
+          "VUL": "stabat",
+          "SP": null,
+          "KJV": "stood",
+          "DSS": null
+        },
+        {
+          "token": "עַל",
+          "LXX": null,
+          "VUL": "a",
+          "SP": null,
+          "KJV": "on",
+          "DSS": null
+        },
+        {
+          "token": "יְמִינ֑",
+          "LXX": null,
+          "VUL": "dextris",
+          "SP": null,
+          "KJV": "right hand",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "his",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אָסָ֥ף",
+          "LXX": null,
+          "VUL": "Asaph",
+          "SP": null,
+          "KJV": "Asaph",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "בֶּרֶכְיָ֖הוּ",
+          "LXX": null,
+          "VUL": "Barachíæ",
+          "SP": null,
+          "KJV": "of Berachiah",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "שִׁמְעָֽא",
+          "LXX": null,
+          "VUL": "Sámaa",
+          "SP": null,
+          "KJV": "of Shimea",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "υἱοὶ",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "מִיכָאֵ֥ל",
+          "LXX": null,
+          "VUL": "Míchael",
+          "SP": null,
+          "KJV": "Michael",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "בַּעֲשֵׂיָ֖ה",
+          "LXX": null,
+          "VUL": "Basaíæ",
+          "SP": null,
+          "KJV": "Baaseiah",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "מַלְכִּיָּֽה",
+          "LXX": null,
+          "VUL": "Melchíæ",
+          "SP": null,
+          "KJV": "Malchiah",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "אֶתְנִ֥י",
+          "LXX": null,
+          "VUL": "Athánai",
+          "SP": null,
+          "KJV": "Ethni",
+          "DSS": null
+        },
+        {
+          "token": "בֶן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "זֶ֖רַח",
+          "LXX": null,
+          "VUL": "Zara",
+          "SP": null,
+          "KJV": "Zerah",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "עֲדָיָֽה",
+          "LXX": null,
+          "VUL": "Adaía",
+          "SP": null,
+          "KJV": "Adaiah",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "אֵיתָ֥ן",
+          "LXX": null,
+          "VUL": "Ethan",
+          "SP": null,
+          "KJV": "Ethan",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "זִמָּ֖ה",
+          "LXX": null,
+          "VUL": "Zamma",
+          "SP": null,
+          "KJV": "Zimmah",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "שִׁמְעִֽי",
+          "LXX": null,
+          "VUL": "Sémei",
+          "SP": null,
+          "KJV": "Shimei",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "יַ֥חַת",
+          "LXX": null,
+          "VUL": "Ieth",
+          "SP": null,
+          "KJV": "Jahath",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "גֵּרְשֹׁ֖ם",
+          "LXX": null,
+          "VUL": "Gersom",
+          "SP": null,
+          "KJV": "Gershom",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": null,
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "לֵוִֽי",
+          "LXX": null,
+          "VUL": "Levi",
+          "SP": null,
+          "KJV": "Levi",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וּ",
+          "LXX": null,
+          "VUL": "autem",
+          "SP": null,
+          "KJV": "And",
+          "DSS": null
+        },
+        {
+          "token": "בְנֵ֧י",
+          "LXX": "υἱοὶ",
+          "VUL": "Fílii",
+          "SP": null,
+          "KJV": "sons",
+          "DSS": null
+        },
+        {
+          "token": "מְרָרִ֛י",
+          "LXX": null,
+          "VUL": "Merári",
+          "SP": null,
+          "KJV": "Merari",
+          "DSS": null
+        },
+        {
+          "token": "אֲחֵי",
+          "LXX": null,
+          "VUL": "fratres",
+          "SP": null,
+          "KJV": "brethren",
+          "DSS": null
+        },
+        {
+          "token": "הֶ֖ם",
+          "LXX": null,
+          "VUL": "eórum",
+          "SP": null,
+          "KJV": "their",
+          "DSS": null
+        },
+        {
+          "token": "עַֽל",
+          "LXX": null,
+          "VUL": "ad",
+          "SP": null,
+          "KJV": "on",
+          "DSS": null
+        },
+        {
+          "token": "הַ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "the",
+          "DSS": null
+        },
+        {
+          "token": "שְּׂמֹ֑אול",
+          "LXX": null,
+          "VUL": "sinístram",
+          "SP": null,
+          "KJV": "left hand",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אֵיתָן֙",
+          "LXX": null,
+          "VUL": "Ethan",
+          "SP": null,
+          "KJV": "Ethan",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílius",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "קִישִׁ֔י",
+          "LXX": null,
+          "VUL": "Cusi",
+          "SP": null,
+          "KJV": "of Kishi",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "עַבְדִּ֖י",
+          "LXX": null,
+          "VUL": "Abdi",
+          "SP": null,
+          "KJV": "of Abdi",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "the son",
+          "DSS": null
+        },
+        {
+          "token": "מַלּֽוּךְ",
+          "LXX": null,
+          "VUL": "Maloch",
+          "SP": null,
+          "KJV": "of Malluch",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "30": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "חֲשַׁבְיָ֥ה",
+          "LXX": null,
+          "VUL": "Hasabíæ",
+          "SP": null,
+          "KJV": "Hashabiah",
+          "DSS": null
+        },
+        {
+          "token": "בֶן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "אֲמַצְיָ֖ה",
+          "LXX": null,
+          "VUL": "Amasíæ",
+          "SP": null,
+          "KJV": "Amaziah",
+          "DSS": null
+        },
+        {
+          "token": "בֶּן",
+          "LXX": "υἱὸς",
+          "VUL": "fílii",
+          "SP": null,
+          "KJV": "son",
+          "DSS": null
+        },
+        {
+          "token": "חִלְקִיָּֽה",
+          "LXX": null,
+          "VUL": "Helcíæ",
+          "SP": null,
+          "KJV": "Hilkiah",
+          "DSS": null
+        }
+      ]
+    }
+  ]
+}

@@ -301,6 +301,7 @@
         <div class="header">
             <h1>About the Translator's Hebrew Bible</h1>
             <p>Interactive Digital Hexapla for Biblical Scholarship</p>
+            <p style="margin-top:0.75rem;"><span style="display:inline-block;background:rgba(201,176,55,0.15);border:1px solid rgba(201,176,55,0.4);color:#c9b037;font-family:monospace;font-size:0.8rem;padding:0.2rem 0.6rem;border-radius:4px;letter-spacing:0.05em;">v1.5</span></p>
         </div>
 
         <div class="content">
@@ -318,7 +319,24 @@
 
             <p><strong>English (KJV):</strong> The King James Version (1611), translated from the Masoretic Text for the Old Testament with reference to earlier English and Latin versions.</p>
 
-            <p><strong>Qumran (Dead Sea Scrolls):</strong> Biblical manuscripts from Qumran (c. 250 BCE – 70 CE), the oldest surviving witnesses to many books of the Hebrew Bible.</p>
+            <p><strong>Qumran (Dead Sea Scrolls):</strong> Biblical manuscripts from Qumran (c. 250 BCE – 70 CE), the oldest surviving witnesses to many books of the Hebrew Bible. Because the scrolls are physically damaged, the transcription data encodes the condition of each letter — and the site renders that encoding as color:</p>
+            <ul>
+                <li><strong style="color:#786860;opacity:0.85;">Greyed out</strong> — reconstructed letters (lacuna; text restored from context inside [ ])</li>
+                <li><strong style="color:#c8b040;">Muted gold</strong> — uncertain reading (?)</li>
+                <li><strong style="color:#c07830;">Amber</strong> — damaged letter (#)</li>
+                <li><strong style="color:#b05020;">Orange</strong> — damaged and uncertain (#?)</li>
+                <li><strong style="color:#a03018;">Red-orange</strong> — severely damaged (##)</li>
+                <li><strong style="color:#786860;text-decoration:line-through;opacity:0.85;">Strikethrough</strong> — scribal cancellation (deleted by the original scribe)</li>
+                <li><strong style="color:#7aaccc;">Blue superscript</strong> — supralinear insertion (added above the line)</li>
+                <li><strong style="color:#6a9860;">Green</strong> — ancient correction</li>
+                <li><strong style="color:#7878b8;">Purple</strong> — modern editorial correction</li>
+            </ul>
+
+            <h2>Cross-Tradition Alignment</h2>
+
+            <p>Hover any word and two layers of semantic highlighting activate simultaneously across all six columns. A <strong>light gold</strong> background marks the thought unit — the same semantic idea as it appears in each tradition. A <strong>full gold</strong> background marks the exact word-level counterpart across traditions. Both layers are baked into the page DOM at build time; no network request is made at hover time.</p>
+
+            <p>Where traditions diverge structurally — additions, omissions, word-order inversions — words with no direct counterpart still receive thought-level highlighting. Words in verses without alignment data render normally.</p>
 
             <h2>Development Philosophy</h2>
 
@@ -326,11 +344,9 @@
 
             <p><strong>Technical Simplicity:</strong> Runs entirely in the browser. No server-side processing, no plugins, no installation.</p>
 
-            <p><strong>Honest Representation:</strong> Sources are cited as they are, not as we wish they were. Where the data has gaps or limitations, we note them.</p>
+            <p><strong>Transparent Sourcing:</strong> Every text and dataset is attributed to its origin. Coverage gaps and known limitations are documented. See the <a href="/license" style="color:#c9b037;text-decoration:none;">license page</a> for full attribution and upstream terms.</p>
 
-            <h2>Future Development</h2>
 
-            <p>Planned work includes expanded DSS coverage, additional morphological features, and improved cross-tradition navigation.</p>
 
             <h2>About the Author</h2>
 

@@ -1,0 +1,596 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician",
+      "traditions": {
+        "WLC": "לַ מְנַצֵּ֗חַ",
+        "LXX": "Εἰς τὸ τέλος ·",
+        "VUL": "In finem ,",
+        "SP": null,
+        "KJV": "To the chief Musician ,",
+        "DSS": "ל מנצח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "A Psalm of David",
+      "traditions": {
+        "WLC": "מִזְמ֥וֹר לְ דָוִֽד",
+        "LXX": "ψαλμὸς τῷ Δαυείδ",
+        "VUL": "Psalmus David ,",
+        "SP": null,
+        "KJV": "A Psalm of David , when Nathan the prophet came unto him , after he had gone in to Bathsheba . Have mercy upon me , O God , according to thy lovingkindness : according unto the multitude of thy tender mercies blot out my transgressions .",
+        "DSS": "מ#זמור ל דוד ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "When Nathan the prophet came to him",
+      "traditions": {
+        "WLC": "בְּֽ בוֹא אֵ֭לָי ו נָתָ֣ן הַ נָּבִ֑יא",
+        "LXX": "ἐν τῷ ἐλθεῖν πρὸς αὐτὸν Ναθὰν τὸν προφήτην ,",
+        "VUL": "Cum venit ad eum Nathan prophéta ,",
+        "SP": null,
+        "KJV": null,
+        "DSS": "[4Q85] ב בוא אלי׳ו נתן ה נב#יא / [4Q91] ε ב בוא אלי׳ו נתן ה נביא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "after he had gone in to Bathsheba",
+      "traditions": {
+        "WLC": "כַּֽ אֲשֶׁר בָּ֝֗א אֶל בַּת שָֽׁבַע",
+        "LXX": "ἡνίκα εἰσῆλθεν πρὸς Βηρσάβεε .",
+        "VUL": "quando intrávit ad Bethsabée .",
+        "SP": null,
+        "KJV": null,
+        "DSS": "[4Q85] כ אשר בא# [ אל ] בת שבע ׃ / [4Q91] כ אשר בא אל ]ב##ת## [ שבע ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician , A Psalm of David , when Nathan the prophet came unto him , after he had gone in to Bathsheba .",
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "To the chief Musician , A Psalm of David , when Nathan the prophet came unto him , after he had gone in to Bathsheba .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Have mercy upon me , O God , according to thy lovingkindness :",
+      "traditions": {
+        "WLC": "חָנֵּ֣ נִי אֱלֹהִ֣ים כְּ חַסְדֶּ֑ ךָ",
+        "LXX": "Ἐλέησόν με , ὁ θεός , κατὰ τὸ μέγα ἔλεός σου ,",
+        "VUL": "Miserére mei Deus , secúndum magnam misericórdiam tuam :",
+        "SP": null,
+        "KJV": "Have mercy upon me , O God , according to thy lovingkindness :",
+        "DSS": "[4Q85] חנ׳ני אלהים כ חסד#׳ך## / [4Q91] חנ׳ני אלוהים כ חסד׳כה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "according unto the multitude of thy tender mercies blot out my transgressions .",
+      "traditions": {
+        "WLC": "כְּ רֹ֥ב רַ֝חֲמֶ֗י ךָ מְחֵ֣ה פְשָׁעָֽ י",
+        "LXX": "καὶ κατὰ τὸ πλῆθος τῶν οἰκτιρμῶν σου ἐξάλειψον τὸ ἀνόμημά μου ·",
+        "VUL": "et secúndum multitúdinem miseratiónum tuárum , dele iniquitátem meam .",
+        "SP": null,
+        "KJV": "according unto the multitude of thy tender mercies blot out my transgressions .",
+        "DSS": "[4Q85] כ# רב# רחמי׳ך מח##[ ה ]פ##שע׳י ׃ / [4Q91] כ רוב רחמי׳כה ]מ##ח#ה## [ פ ]שע׳י ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wash me throughly from mine iniquity ,",
+      "traditions": {
+        "WLC": "הרבה כַּבְּסֵ֣ נִי מֵ עֲוֺנִ֑ י",
+        "LXX": "ἐπὶ πλεῖον πλῦνόν με ἀπὸ τῆς ἀνομίας μου ,",
+        "VUL": "Amplius lava me ab iniquitáte mea :",
+        "SP": null,
+        "KJV": "Wash me throughly from mine iniquity ,",
+        "DSS": "[4Q85] הרבה כבס׳ני מ עונ׳י / [4Q91] הרבה [ כבס׳ני מ עוונ׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and cleanse me from my sin .",
+      "traditions": {
+        "WLC": "וּֽ מֵ חַטָּאתִ֥ י טַהֲרֵֽ נִי",
+        "LXX": "καὶ ἀπὸ τῆς ἁμαρτίας μου καθάρισόν με .",
+        "VUL": "et a peccáto meo munda me .",
+        "SP": null,
+        "KJV": "and cleanse me from my sin .",
+        "DSS": "[4Q85] ו מ חטאת׳י טה#ר#׳[ נ ]י#? ׃ / [4Q91] ו מ חטאת׳י טהר׳ני ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I acknowledge my transgressions",
+      "traditions": {
+        "WLC": "כִּֽי פְ֭שָׁעַ י אֲנִ֣י אֵדָ֑ע",
+        "LXX": "ὅτι τὴν ἀνομίαν μου ἐγὼ γινώσκω ,",
+        "VUL": "Quóniam iniquitátem meam ego cognósco :",
+        "SP": null,
+        "KJV": "For I acknowledge my transgressions :",
+        "DSS": "כי פשע׳י אני אדע"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and my sin [ is ] ever before me",
+      "traditions": {
+        "WLC": "וְ חַטָּאתִ֖ י נֶגְדִּ֣ י תָמִֽיד",
+        "LXX": "καὶ ἡ ἁμαρτία μου ἐνώπιόν μού ἐστιν διὰ παντός .",
+        "VUL": "et peccátum meum contra me est semper .",
+        "SP": null,
+        "KJV": "and my sin [ is ] ever before me .",
+        "DSS": "ו חט ]א##ת##׳[ י נ ]גד׳י#? [ תמיד ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Against thee , thee only , have I sinned",
+      "traditions": {
+        "WLC": "לְ ךָ֤ לְ בַדְּ ךָ֨ חָטָאתִי֮",
+        "LXX": "σοὶ μόνῳ ἥμαρτον ,",
+        "VUL": "Tibi soli peccávi ,",
+        "SP": null,
+        "KJV": "Against thee , thee only , have I sinned ,",
+        "DSS": "ל׳כה ל בד׳כה חטאתי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and done [ this ] evil in thy sight",
+      "traditions": {
+        "WLC": "וְ הָ רַ֥ע בְּ עֵינֶ֗י ךָ עָ֫שִׂ֥יתִי",
+        "LXX": "καὶ τὸ πονηρὸν ἐνώπιον σοῦ ἐποίησα ·",
+        "VUL": "et malum coram te feci :",
+        "SP": null,
+        "KJV": "and done [ this ] evil in thy sight :",
+        "DSS": "ו ה רע ב עיני׳כה עשית ]י?"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that thou mightest be justified when thou speakest",
+      "traditions": {
+        "WLC": "לְ֭מַעַן תִּצְדַּ֥ק בְּ דָבְרֶ֗ ךָ",
+        "LXX": "ὅπως ἄν δικαιωθῇς ἐν τοῖς λόγοις σου ,",
+        "VUL": "ut iustificéris in sermónibus tuis ,",
+        "SP": null,
+        "KJV": "that thou mightest be justified when thou speakest , [ and ]",
+        "DSS": "ל##[ מען ]ת##צ##ד##ק##"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "be clear when thou judgest",
+      "traditions": {
+        "WLC": "תִּזְכֶּ֥ה בְ שָׁפְטֶֽ ךָ",
+        "LXX": "καὶ νικήσῃς ἐν τῷ κρίνεσθαί σε .",
+        "VUL": "et vincas cum iudicáris .",
+        "SP": null,
+        "KJV": "be clear when thou judgest .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , I was shapen in iniquity",
+      "traditions": {
+        "WLC": "הֵן בְּ עָו֥וֹן חוֹלָ֑לְתִּי",
+        "LXX": "ἰδοὺ γὰρ ἐν ἀνομίαις συνελήμφθην ,",
+        "VUL": "Ecce enim in iniquitátibus concéptus sum :",
+        "SP": null,
+        "KJV": "Behold , I was shapen in iniquity ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and in sin did my mother conceive me",
+      "traditions": {
+        "WLC": "וּ֝ בְ חֵ֗טְא יֶֽחֱמַ֥תְ נִי אִמִּֽ י",
+        "LXX": "καὶ ἐν ἁμαρτίαις ἐκίσσησέν με ἡ μήτηρ μου .",
+        "VUL": "et in peccátis concépit me mater mea .",
+        "SP": null,
+        "KJV": "and in sin did my mother conceive me .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , thou desirest truth in the inward parts",
+      "traditions": {
+        "WLC": "הֵן אֱ֭מֶת חָפַ֣צְתָּ בַ טֻּח֑וֹת",
+        "LXX": "ἰδοὺ γὰρ ἀλήθειαν ἠγάπησας ,",
+        "VUL": "Ecce enim veritátem dilexísti :",
+        "SP": null,
+        "KJV": "Behold , thou desirest truth in the inward parts :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and in the hidden [ part ] thou shalt make me to know wisdom",
+      "traditions": {
+        "WLC": "וּ֝ בְ סָתֻ֗ם חָכְמָ֥ה תוֹדִיעֵֽ נִי",
+        "LXX": "τὰ ἄδηλα καὶ τὰ κρύφια τῆς σοφίας σου ἐδήλωσάς μοι .",
+        "VUL": "incérta et occúlta sapiéntiæ tuæ manifestásti mihi .",
+        "SP": null,
+        "KJV": "and in the hidden [ part ] thou shalt make me to know wisdom .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Purge me with hyssop , and I shall be clean",
+      "traditions": {
+        "WLC": "תְּחַטְּאֵ֣ נִי בְ אֵז֣וֹב וְ אֶטְהָ֑ר",
+        "LXX": "ῥαντιεῖς με ὑσσώπῳ καὶ καθαρισθήσομαι ,",
+        "VUL": "Aspérges me hyssópo , et mundábor :",
+        "SP": null,
+        "KJV": "Purge me with hyssop , and I shall be clean :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "wash me , and I shall be whiter than snow",
+      "traditions": {
+        "WLC": "תְּ֝כַבְּסֵ֗ נִי וּ מִ שֶּׁ֥לֶג אַלְבִּֽין",
+        "LXX": "πλυνεῖς με καὶ ὑπὲρ χιόνα λευκανθήσομαι .",
+        "VUL": "lavábis me , et super nivem dealbábor .",
+        "SP": null,
+        "KJV": "wash me , and I shall be whiter than snow .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Make me to hear joy and gladness",
+      "traditions": {
+        "WLC": "תַּ֭שְׁמִיעֵ נִי שָׂשׂ֣וֹן וְ שִׂמְחָ֑ה",
+        "LXX": "ἀκουτιεῖς με ἀγαλλίασιν καὶ εὐφροσύνην ·",
+        "VUL": "Audítui meo dabis gáudium et lætítiam :",
+        "SP": null,
+        "KJV": "Make me to hear joy and gladness ; [ that ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ that ] the bones [ which ] thou hast broken may rejoice",
+      "traditions": {
+        "WLC": "תָּ֝גֵ֗לְנָה עֲצָמ֥וֹת דִּכִּֽיתָ",
+        "LXX": "ἀγαλλιάσονται ὀστᾶ τεταπεινωμένα .",
+        "VUL": "et exsultábunt ossa humiliáta .",
+        "SP": null,
+        "KJV": "the bones [ which ] thou hast broken may rejoice .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hide thy face from my sins",
+      "traditions": {
+        "WLC": "הַסְתֵּ֣ר פָּ֭נֶי ךָ מֵ חֲטָאָ֑ י",
+        "LXX": "ἀπόστρεψον τὸ πρόσωπόν σου ἀπὸ τῶν ἁμαρτιῶν μου ,",
+        "VUL": "Avérte fáciem tuam a peccátis meis :",
+        "SP": null,
+        "KJV": "Hide thy face from my sins ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and blot out all mine iniquities",
+      "traditions": {
+        "WLC": "וְֽ כָל עֲוֺ֖נֹתַ֣ י מְחֵֽה",
+        "LXX": "καὶ πάσας τὰς ἀνομίας μου ἐξάλειψον .",
+        "VUL": "et omnes iniquitátes meas dele .",
+        "SP": null,
+        "KJV": "and blot out all mine iniquities .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Create in me a clean heart, O God",
+      "traditions": {
+        "WLC": "לֵ֣ב טָ֭הוֹר בְּרָא לִ֣ י אֱלֹהִ֑ים",
+        "LXX": "καρδίαν καθαρὰν κτίσον ἐν ἐμοί , ὁ θεός ,",
+        "VUL": "Cor mundum crea in me Deus :",
+        "SP": null,
+        "KJV": "Create in me a clean heart , O God ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and renew a right spirit within me",
+      "traditions": {
+        "WLC": "וְ ר֥וּחַ נָ֝כ֗וֹן חַדֵּ֥שׁ בְּ קִרְבִּֽ י",
+        "LXX": "καὶ πνεῦμα εὐθὲς ἐνκαίνισον ἐν τοῖς ἐγκάτοις μου .",
+        "VUL": "et spíritum rectum ínnova in viscéribus meis .",
+        "SP": null,
+        "KJV": "and renew a right spirit within me .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cast me not away from thy presence",
+      "traditions": {
+        "WLC": "אַל תַּשְׁלִיכֵ֥ נִי מִ לְּ פָנֶ֑י ךָ",
+        "LXX": "μὴ ἀπορρίψῃς με ἀπὸ τοῦ προσώπου σου ,",
+        "VUL": "Ne proícias me a fácie tua :",
+        "SP": null,
+        "KJV": "Cast me not away from thy presence ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and take not thy holy spirit from me",
+      "traditions": {
+        "WLC": "וְ ר֥וּחַ קָ֝דְשְׁ ךָ֗ אַל תִּקַּ֥ח מִמֶּֽ נִּי",
+        "LXX": "καὶ τὸ πνεῦμα τὸ ἅγιόν σου μὴ ἀντανέλῃς ἀπ᾽ ἐμοῦ .",
+        "VUL": "et spíritum sanctum tuum ne áuferas a me .",
+        "SP": null,
+        "KJV": "and take not thy holy spirit from me .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Restore unto me the joy of thy salvation",
+      "traditions": {
+        "WLC": "הָשִׁ֣יבָ ה לִּ֭ י שְׂשׂ֣וֹן יִשְׁעֶ֑ ךָ",
+        "LXX": "ἀπόδος μοι τὴν ἀγαλλίασιν τοῦ σωτηρίου σου ,",
+        "VUL": "Redde mihi lætítiam salutáris tui :",
+        "SP": null,
+        "KJV": "Restore unto me the joy of thy salvation ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and uphold me [ with thy ] free spirit",
+      "traditions": {
+        "WLC": "וְ ר֖וּחַ נְדִיבָ֣ה תִסְמְכֵֽ נִי",
+        "LXX": "καὶ πνεύματι ἡγεμονικῷ στήρισόν με .",
+        "VUL": "et spíritu principáli confírma me .",
+        "SP": null,
+        "KJV": "and uphold me [ with thy ] free spirit .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ Then ] will I teach transgressors thy ways",
+      "traditions": {
+        "WLC": "אֲלַמְּדָ֣ה פֹשְׁעִ֣ים דְּרָכֶ֑י ךָ",
+        "LXX": "διδάξω ἀνόμους τὰς ὁδούς σου ,",
+        "VUL": "Docébo iníquos vias tuas :",
+        "SP": null,
+        "KJV": "[ Then ] will I teach transgressors thy ways ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and sinners shall be converted unto thee",
+      "traditions": {
+        "WLC": "וְ֝ חַטָּאִ֗ים אֵלֶ֥י ךָ יָשֽׁוּבוּ",
+        "LXX": "καὶ ἀσεβεῖς ἐπὶ σὲ ἐπιστρέψουσιν .",
+        "VUL": "et ímpii ad te converténtur .",
+        "SP": null,
+        "KJV": "and sinners shall be converted unto thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Deliver me from bloodguiltiness , O God , thou God of my salvation",
+      "traditions": {
+        "WLC": "הַצִּ֘ילֵ֤ נִי מִ דָּמִ֨ים אֱֽלֹהִ֗ים אֱלֹהֵ֥י תְּשׁוּעָתִ֑ י",
+        "LXX": "ῥῦσαί με ἐξ αἱμάτων , ὁ θεὸς ὁ θεὸς τῆς σωτηρίας μου ·",
+        "VUL": "Líbera me de sanguínibus Deus , Deus salútis meæ :",
+        "SP": null,
+        "KJV": "Deliver me from bloodguiltiness , O God , thou God of my salvation : [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ and ] my tongue shall sing aloud of thy righteousness",
+      "traditions": {
+        "WLC": "תְּרַנֵּ֥ן לְ֝שׁוֹנִ֗ י צִדְקָתֶֽ ךָ",
+        "LXX": "ἀγαλλιάσεται ἡ γλῶσσά μου τὴν δικαιοσύνην σου ,",
+        "VUL": "et exsultábit lingua mea iustítiam tuam .",
+        "SP": null,
+        "KJV": "my tongue shall sing aloud of thy righteousness .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "O Lord , open thou my lips",
+      "traditions": {
+        "WLC": "אֲ֭דֹנָ י שְׂפָתַ֣ י תִּפְתָּ֑ח",
+        "LXX": "κύριε . τὰ χείλη μου ἀνοίξεις ,",
+        "VUL": "Dómine , lábia mea apéries :",
+        "SP": null,
+        "KJV": "O Lord , open thou my lips ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and my mouth shall shew forth thy praise",
+      "traditions": {
+        "WLC": "וּ֝ פִ֗ י יַגִּ֥יד תְּהִלָּתֶֽ ךָ",
+        "LXX": "καὶ τὸ στόμα μου ἀναγγελεῖ τὴν αἴνεσίν σου .",
+        "VUL": "et os meum annuntiábit laudem tuam .",
+        "SP": null,
+        "KJV": "and my mouth shall shew forth thy praise .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thou desirest not sacrifice ; else would I give [ it ]",
+      "traditions": {
+        "WLC": "כִּ֤י לֹא תַחְפֹּ֣ץ זֶ֣בַח וְ אֶתֵּ֑נָה",
+        "LXX": "ὅτι εἰ ἠθέλησας θυσίαν , ἔδωκα ἄν ·",
+        "VUL": "Quóniam si voluísses sacrifícium , dedíssem útique :",
+        "SP": null,
+        "KJV": "For thou desirest not sacrifice ; else would I give [ it ] :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou delightest not in burnt offering",
+      "traditions": {
+        "WLC": "ע֝וֹלָ֗ה לֹ֣א תִרְצֶֽה",
+        "LXX": "ὁλοκαυτώματα οὐκ εὐδοκήσεις .",
+        "VUL": "holocáustis non delectáberis .",
+        "SP": null,
+        "KJV": "thou delightest not in burnt offering .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "The sacrifices of God [ are ] a broken spirit",
+      "traditions": {
+        "WLC": "זִֽבְחֵ֣י אֱלֹהִים֮ ר֪וּחַ נִשְׁבָּ֫רָ֥ה",
+        "LXX": "θυσία τῷ θεῷ πνεῦμα συντετριμμένον ,",
+        "VUL": "Sacrifícium Deo spíritus contribulátus :",
+        "SP": null,
+        "KJV": "The sacrifices of God [ are ] a broken spirit :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "a broken and a contrite heart , O God , thou wilt not despise",
+      "traditions": {
+        "WLC": "לֵב נִשְׁבָּ֥ר וְ נִדְכֶּ֑ה אֱ֝לֹהִ֗ים לֹ֣א תִבְזֶֽה",
+        "LXX": "καρδίαν συντετριμμένην καὶ τεταπεινωμένην ὁ θεὸς οὐκ ἐξουθενώσει .",
+        "VUL": "cor contrítum et humiliátum Deus non despícies .",
+        "SP": null,
+        "KJV": "a broken and a contrite heart , O God , thou wilt not despise .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Do good in thy good pleasure unto Zion",
+      "traditions": {
+        "WLC": "הֵיטִ֣יבָ ה בִ֭ רְצוֹנְ ךָ אֶת צִיּ֑וֹן",
+        "LXX": "ἀγάθυνον , Κύριε , ἐν τῇ εὐδοκίᾳ σου τὴν Σιών ,",
+        "VUL": "Benígne fac Dómine in bona voluntáte tua Sion :",
+        "SP": null,
+        "KJV": "Do good in thy good pleasure unto Zion :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "build thou the walls of Jerusalem",
+      "traditions": {
+        "WLC": "תִּ֝בְנֶ֗ה חוֹמ֥וֹת יְרוּשָׁלִָֽם",
+        "LXX": "καὶ οἰκοδομηθήτω τὰ τείχη Ἰερουσαλήμ .",
+        "VUL": "ut ædificéntur muri Ierúsalem .",
+        "SP": null,
+        "KJV": "build thou the walls of Jerusalem .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then shalt thou be pleased with the sacrifices of righteousness",
+      "traditions": {
+        "WLC": "אָ֤ז תַּחְפֹּ֣ץ זִבְחֵי צֶ֭דֶק",
+        "LXX": "τότε εὐδοκήσεις θυσίαν δικαιοσύνης ,",
+        "VUL": "Tunc acceptábis sacrifícium iustítiæ ,",
+        "SP": null,
+        "KJV": "Then shalt thou be pleased with the sacrifices of righteousness ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with burnt offering and whole burnt offering",
+      "traditions": {
+        "WLC": "עוֹלָ֣ה וְ כָלִ֑יל",
+        "LXX": "ἀναφορὰν καὶ ὁλοκαυτώματα ·",
+        "VUL": "oblatiónes et holocáusta :",
+        "SP": null,
+        "KJV": "with burnt offering and whole burnt offering :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "then shall they offer bullocks upon thine altar",
+      "traditions": {
+        "WLC": "אָ֤ז יַעֲל֖וּ עַל מִזְבַּחֲ ךָ֣ פָרִֽים",
+        "LXX": "τότε ἀνοίσουσιν ἐπὶ τὸ θυσιαστήριόν σου μόσχους .",
+        "VUL": "tunc impónent super altáre tuum vítulos .",
+        "SP": null,
+        "KJV": "then shall they offer bullocks upon thine altar .",
+        "DSS": null
+      }
+    }
+  ]
+}

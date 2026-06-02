@@ -1,0 +1,994 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "The word which came unto Jeremiah from the LORD",
+      "traditions": {
+        "WLC": "הַ דָּבָ֛ר אֲשֶׁר הָיָ֥ה אֶֽל יִרְמְיָ֖הוּ מֵ אֵ֣ת יְהוָ֑ה",
+        "LXX": "Ὁ λόγος ὁ γενόμενος πρὸς Ἰερεμίαν παρὰ Κυρίου ·",
+        "VUL": "Verbum , quod factum est ad Ieremíam a Dómino ,",
+        "SP": null,
+        "KJV": "The word which came unto Jeremiah from the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when Nebuchadnezzar king of Babylon , and all his army , and all the kingdoms of the earth of his dominion , and all the people",
+      "traditions": {
+        "WLC": "וּ נְבוּכַדְרֶאצַּ֣ר מֶֽלֶךְ בָּבֶ֣ל וְ כָל חֵיל֡ וֹ וְ כָל מַמְלְכ֣וֹת אֶרֶץ֩ מֶמְשֶׁ֨לֶת יָד֜ וֹ וְ כָל הָ עַמִּ֗ים",
+        "LXX": "καὶ Ναβουχοδονοσὸρ βασιλεὺς Βαβυλῶνος καὶ πᾶν τὸ στρατόπεδον αὐτοῦ καὶ πᾶσα ἡ γῆ ἀρχῆς αὐτοῦ",
+        "VUL": "quando Nabuchodónosor rex Babylónis , et omnis exércitus eius , universáque regna terræ , quæ erant sub potestáte manus eius , et omnes pópuli ,",
+        "SP": null,
+        "KJV": "when Nebuchadnezzar king of Babylon , and all his army , and all the kingdoms of the earth of his dominion , and all the people ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "fought against Jerusalem , and against all the cities thereof",
+      "traditions": {
+        "WLC": "נִלְחָמִ֧ים עַל יְרוּשָׁלִַ֛ם וְ עַל כָּל עָרֶ֖י הָ לֵ",
+        "LXX": "ἐπολέμουν αὐτὸν ἐπὶ Ἰερουσαλὴμ καὶ ἐπὶ πάσας τὰς πόλεις Ἰούδα ,",
+        "VUL": "bellábant contra Ierúsalem , et contra omnes urbes eius ,",
+        "SP": null,
+        "KJV": "fought against Jerusalem , and against all the cities thereof ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "אמֹֽר",
+        "LXX": "λέγων",
+        "VUL": "dicens :",
+        "SP": null,
+        "KJV": "saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus saith the LORD , the God of Israel",
+      "traditions": {
+        "WLC": "כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל",
+        "LXX": "Οὕτως εἶπεν Κύριος",
+        "VUL": "Hæc dicit Dóminus Deus Israel :",
+        "SP": null,
+        "KJV": "Thus saith the LORD , the God of Israel ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Go and speak to Zedekiah king of Judah , and tell him",
+      "traditions": {
+        "WLC": "הָלֹךְ֙ וְ אָ֣מַרְתָּ֔ אֶל צִדְקִיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה וְ אָמַרְתָּ֣ אֵלָ֗י",
+        "LXX": "Βάδισον πρὸς Σεδεκίαν βασιλέα Ἰούδα καὶ ἐρεῖς αὐτῷ",
+        "VUL": "Vade , et lóquere ad Sedecíam regem Iuda , et dices ad eum :",
+        "SP": null,
+        "KJV": "Go and speak to Zedekiah king of Judah , and tell him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Thus saith the LORD",
+      "traditions": {
+        "WLC": "ו כֹּ֚ה אָמַ֣ר יְהוָ֔ה",
+        "LXX": "Οὕτως εἶπεν Κύριος",
+        "VUL": "Hæc dicit Dóminus :",
+        "SP": null,
+        "KJV": "Thus saith the LORD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Behold , I will give this city into the hand of the king of Babylon",
+      "traditions": {
+        "WLC": "הִנְ נִ֨י נֹתֵ֜ן אֶת הָ עִ֤יר הַ זֹּאת֙ בְּ יַ֣ד מֶֽלֶךְ בָּבֶ֔ל",
+        "LXX": "Παραδόσει παραδοθήσεται ἡ πόλις αὕτη εἰς χεῖρας βασιλέως Βαβυλῶνος ,",
+        "VUL": "Ecce ego tradam civitátem hanc in manus regis Babylónis ,",
+        "SP": null,
+        "KJV": "Behold , I will give this city into the hand of the king of Babylon ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and he shall burn it with fire",
+      "traditions": {
+        "WLC": "וּ שְׂרָפָ֖ הּ בָּ אֵֽשׁ",
+        "LXX": "καὶ συλλήμψεται αὐτὴν καὶ καύσει αὐτὴν ἐν πυρί ,",
+        "VUL": "et succéndet eam igni .",
+        "SP": null,
+        "KJV": "and he shall burn it with fire :",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt not escape out of his hand",
+      "traditions": {
+        "WLC": "וְ אַתָּ֗ה לֹ֚א תִמָּלֵט֙ מִ יָּד֔ וֹ",
+        "LXX": "καὶ σὺ οὐ μὴ σωθῇς ἐκ χειρὸς αὐτοῦ ,",
+        "VUL": "Et tu non effúgies de manu eius ,",
+        "SP": null,
+        "KJV": "And thou shalt not escape out of his hand ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but shalt surely be taken , and delivered into his hand",
+      "traditions": {
+        "WLC": "כִּ֚י תָּפֹ֣שׂ תִּתָּפֵ֔שׂ וּ בְ יָד֖ וֹ תִּנָּתֵ֑ן",
+        "LXX": "καὶ συλλήμψει συλλημφθήσει καὶ εἰς χεῖρας αὐτοῦ δοθήσει ,",
+        "VUL": "sed comprehensióne capiéris , et in manu eius tradéris :",
+        "SP": null,
+        "KJV": "but shalt surely be taken , and delivered into his hand ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thine eyes shall behold the eyes of the king of Babylon",
+      "traditions": {
+        "WLC": "וְֽ֠ עֵינֶי ךָ אֶת עֵינֵ֨י מֶֽלֶךְ בָּבֶ֜ל תִּרְאֶ֗ינָה",
+        "LXX": "καὶ ὀφθαλμοί σου τοὺς ὀφθαλμοὺς αὐτοῦ ὄψονται ,",
+        "VUL": "et óculi tui óculos regis Babylónis vidébunt ,",
+        "SP": null,
+        "KJV": "and thine eyes shall behold the eyes of the king of Babylon ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and he shall speak with thee mouth to mouth",
+      "traditions": {
+        "WLC": "וּ פִ֛י הוּ אֶת פִּ֥י ךָ יְדַבֵּ֖ר",
+        "LXX": null,
+        "VUL": "et os eius cum ore tuo loquétur ,",
+        "SP": null,
+        "KJV": "and he shall speak with thee mouth to mouth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and thou shalt go to Babylon",
+      "traditions": {
+        "WLC": "וּ בָבֶ֥ל תָּבֽוֹא",
+        "LXX": "καὶ εἰς Βαβυλῶνα εἰσελεύσει .",
+        "VUL": "et Babylónem introíbis .",
+        "SP": null,
+        "KJV": "and thou shalt go to Babylon .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Yet hear the word of the LORD , O Zedekiah king of Judah",
+      "traditions": {
+        "WLC": "אַ֚ךְ שְׁמַ֣ע דְּבַר יְהוָ֔ה צִדְקִיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה",
+        "LXX": "ἀλλὰ ἄκουσον τὸν λόγον Κυρίου , Σεδεκία βασιλεῦ Ἰούδα",
+        "VUL": "Attamen audi verbum Dómini Sedecía rex Iuda :",
+        "SP": null,
+        "KJV": "Yet hear the word of the LORD , O Zedekiah king of Judah ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Thus saith the LORD of thee",
+      "traditions": {
+        "WLC": "כֹּֽה אָמַ֤ר יְהוָה֙ עָלֶ֔י ךָ",
+        "LXX": "Οὕτως λέγει Κύριος .",
+        "VUL": "Hæc dicit Dóminus ad te :",
+        "SP": null,
+        "KJV": "Thus saith the LORD of thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Thou shalt not die by the sword",
+      "traditions": {
+        "WLC": "לֹ֥א תָמ֖וּת בֶּ חָֽרֶב",
+        "LXX": null,
+        "VUL": "Non moriéris in gládio ,",
+        "SP": null,
+        "KJV": "Thou shalt not die by the sword :",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "thou shalt die in peace",
+      "traditions": {
+        "WLC": "בְּ שָׁל֣וֹם תָּמ֗וּת",
+        "LXX": "Ἐν εἰρήνῃ ἀποθανῇ ·",
+        "VUL": "sed in pace moriéris :",
+        "SP": null,
+        "KJV": "[ But ] thou shalt die in peace :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and with the burnings of thy fathers , the former kings which were before thee , so shall they burn for thee",
+      "traditions": {
+        "WLC": "וּֽ כְ מִשְׂרְפ֣וֹת אֲ֠בוֹתֶי ךָ הַ מְּלָכִ֨ים הָ רִֽאשֹׁנִ֜ים אֲשֶׁר הָי֣וּ לְ פָנֶ֗י ךָ כֵּ֚ן יִשְׂרְפוּ לָ֔ ךְ",
+        "LXX": "καὶ ὡς ἔκλαυσαν τοὺς πατέρας σου τοὺς βασιλεύσαντας πρότερόν σου , κλαύσονται καὶ σέ ,",
+        "VUL": "et secúndum combustiónes patrum tuórum , regum priórum qui fuérunt ante te , sic combúrent te :",
+        "SP": null,
+        "KJV": "and with the burnings of thy fathers , the former kings which were before thee , so shall they burn [ odours ] for thee ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they will lament thee , saying , Ah lord !",
+      "traditions": {
+        "WLC": "וְ ה֥וֹי אָד֖וֹן יִסְפְּדוּ לָ֑ ךְ",
+        "LXX": "καὶ ἕως ᾅδου κόψονταί σε ·",
+        "VUL": "et væ dómine , plangent te :",
+        "SP": null,
+        "KJV": "and they will lament thee , [ saying ] , Ah lord !",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for I have pronounced the word , saith the LORD",
+      "traditions": {
+        "WLC": "כִּֽי דָבָ֥ר אֲנִֽי דִבַּ֖רְתִּי נְאֻם יְהוָֽה",
+        "LXX": "ὅτι λόγον ἐγὼ ἐλάλησα , εἶπεν Κύριος .",
+        "VUL": "quia verbum ego locútus sum , dicit Dóminus .",
+        "SP": null,
+        "KJV": "for I have pronounced the word , saith the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah",
+      "traditions": {
+        "WLC": "וַ יְדַבֵּר֙ יִרְמְיָ֣הוּ הַ נָּבִ֔יא אֶל צִדְקִיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה אֵ֛ת כָּל הַ דְּבָרִ֥ים הָ אֵ֖לֶּה",
+        "LXX": "καὶ ἐλάλησεν Ἰερεμίας πρὸς τὸν βασιλέα Σεδεκίαν πάντας τοὺς λόγους τούτους",
+        "VUL": "Et locútus est Ieremías prophéta ad Sedecíam regem Iuda univérsa verba hæc",
+        "SP": null,
+        "KJV": "Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in Jerusalem",
+      "traditions": {
+        "WLC": "בִּ ירוּשָׁלִָֽם",
+        "LXX": "ἐν Ἰερουσαλήμ .",
+        "VUL": "in Ierúsalem .",
+        "SP": null,
+        "KJV": "in Jerusalem ,",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "When the king of Babylon ’s army fought against Jerusalem , and against all the cities of Judah that were left",
+      "traditions": {
+        "WLC": "וְ חֵ֣יל מֶֽלֶךְ בָּבֶ֗ל נִלְחָמִים֙ עַל יְר֣וּשָׁלִַ֔ם וְ עַ֛ל כָּל עָרֵ֥י יְהוּדָ֖ה הַ נּֽוֹתָר֑וֹת",
+        "LXX": "καὶ ἡ δύναμις βασιλέως Βαβυλῶνος ἐπολέμει ἐπὶ Ἰερουσαλήμ καὶ ἐπὶ τὰς πόλεις Ἰούδα",
+        "VUL": "Et exércitus regis Babylónis pugnábat contra Ierúsalem , et contra omnes civitátes Iuda , quæ réliquæ erant ,",
+        "SP": null,
+        "KJV": "When the king of Babylon ’s army fought against Jerusalem , and against all the cities of Judah that were left ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "against Lachish , and against Azekah",
+      "traditions": {
+        "WLC": "אֶל לָכִישׁ֙ וְ אֶל עֲזֵקָ֔ה",
+        "LXX": "καὶ ἐπὶ Λαχεὶς καὶ ἐπὶ Ἀζηκά ,",
+        "VUL": "contra Lachis et contra Azécha :",
+        "SP": null,
+        "KJV": "against Lachish , and against Azekah :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for these defenced cities remained of the cities of Judah",
+      "traditions": {
+        "WLC": "כִּ֣י הֵ֗נָּה נִשְׁאֲר֛וּ בְּ עָרֵ֥י יְהוּדָ֖ה עָרֵ֥י מִבְצָֽר",
+        "LXX": "ὅτι αὗται κατελείφθησαν ἐν πόλεσιν Ἰούδα πόλεις ὀχυραί .",
+        "VUL": "hæ enim supérerant de civitátibus Iuda , urbes munítæ .",
+        "SP": null,
+        "KJV": "for these defenced cities remained of the cities of Judah .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "the word that came unto Jeremiah from the LORD",
+      "traditions": {
+        "WLC": "הַ דָּבָ֛ר אֲשֶׁר הָיָ֥ה אֶֽל יִרְמְיָ֖הוּ מֵ אֵ֣ת יְהוָ֑ה",
+        "LXX": "Ὁ λόγος ὁ γενόμενος πρὸς Ἰερεμίαν παρὰ Κυρίου",
+        "VUL": "Verbum , quod factum est ad Ieremíam a Dómino ,",
+        "SP": null,
+        "KJV": "[ This is ] the word that came unto Jeremiah from the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "after that the king Zedekiah had made a covenant with all the people which were at Jerusalem",
+      "traditions": {
+        "WLC": "אַחֲרֵ֡י כְּרֹת֩ הַ מֶּ֨לֶךְ צִדְקִיָּ֜הוּ בְּרִ֗ית אֶת כָּל הָ עָם֙ אֲשֶׁ֣ר בִּ ירֽוּשָׁלִַ֔ם",
+        "LXX": "μετὰ τὸ συντελέσαι τὸν βασιλέα Σεδεκίαν διαθήκην πρὸς τὸν λαὸν",
+        "VUL": "postquam percússit rex Sedecías fœdus cum omni pópulo in Ierúsalem ,",
+        "SP": null,
+        "KJV": "after that the king Zedekiah had made a covenant with all the people which [ were ] at Jerusalem ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to proclaim liberty unto them",
+      "traditions": {
+        "WLC": "לִ קְרֹ֥א לָ הֶ֖ם דְּרֽוֹר",
+        "LXX": "τοῦ καλέσαι ἄφεσιν ,",
+        "VUL": "prǽdicans :",
+        "SP": null,
+        "KJV": "to proclaim liberty unto them ;",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "That every man should let his manservant , and every man his maidservant",
+      "traditions": {
+        "WLC": "לְ֠ שַׁלַּח אִ֣ישׁ אֶת עַבְדּ֞ וֹ וְ אִ֧ישׁ אֶת שִׁפְחָת֛ וֹ",
+        "LXX": "τοῦ ἐξαποστεῖλαι ἕκαστον τὸν παῖδα αὐτοῦ καὶ ἕκαστον τὴν παιδίσκην αὐτοῦ ,",
+        "VUL": "ut dimítteret unusquísque servum suum , et unusquísque ancíllam suam ,",
+        "SP": null,
+        "KJV": "That every man should let his manservant , and every man his maidservant , [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "being an Hebrew or an Hebrewess , go free",
+      "traditions": {
+        "WLC": "הָ עִבְרִ֥י וְ הָ עִבְרִיָּ֖ה חָפְשִׁ֑ים",
+        "LXX": "τὸν Ἐβραῖον καὶ τὴν Ἐβραίαν , ἐλευθέρους ,",
+        "VUL": "Hebrǽum et Hebrǽam líberos :",
+        "SP": null,
+        "KJV": "being ] an Hebrew or an Hebrewess , go free ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that none should serve himself of them , to wit , of a Jew his brother",
+      "traditions": {
+        "WLC": "לְ בִלְתִּ֧י עֲבָד בָּ֛ ם בִּ יהוּדִ֥י אָחִ֖י הוּ אִֽישׁ",
+        "LXX": "πρὸς τὸ μὴ δουλεύειν ἄνδρα ἐξ Ἰούδα .",
+        "VUL": "et nequáquam dominaréntur eis , id est in Iudǽo et fratre suo .",
+        "SP": null,
+        "KJV": "that none should serve himself of them , [ to wit ] , of a Jew his brother .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now when all the princes , and all the people , which had entered into the covenant , heard",
+      "traditions": {
+        "WLC": "וַ יִּשְׁמְעוּ֩ כָל הַ שָּׂרִ֨ים וְ כָל הָ עָ֜ם אֲשֶׁר בָּ֣אוּ בַ בְּרִ֗ית",
+        "LXX": "καὶ ἐπεστράφησαν πάντες οἱ μεγιστᾶνες καὶ πᾶς ὁ λαὸς οἱ εἰσελθόντες ἐν τῇ διαθήκῃ",
+        "VUL": "Audiérunt ergo omnes príncipes et univérsus pópulus , qui iníerant pactum",
+        "SP": null,
+        "KJV": "Now when all the princes , and all the people , which had entered into the covenant , heard",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that every one should let his manservant , and every one his maidservant , go free",
+      "traditions": {
+        "WLC": "לְ֠ שַׁלַּח אִ֣ישׁ אֶת עַבְדּ֞ וֹ וְ אִ֤ישׁ אֶת שִׁפְחָת וֹ֙ חָפְשִׁ֔ים",
+        "LXX": "τοῦ ἀποστεῖλαι ἕκαστον τὸν παῖδα αὐτοῦ καὶ τὴν παιδίσκην αὐτοῦ ,",
+        "VUL": "ut dimítteret unusquísque servum suum , et unusquísque ancíllam suam líberos ,",
+        "SP": null,
+        "KJV": "that every one should let his manservant , and every one his maidservant , go free ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that none should serve themselves of them any more",
+      "traditions": {
+        "WLC": "לְ בִלְתִּ֥י עֲבָד בָּ֖ ם ע֑וֹד",
+        "LXX": null,
+        "VUL": "et ultra non dominaréntur eis :",
+        "SP": null,
+        "KJV": "that none should serve themselves of them any more ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "then they obeyed , and let them go",
+      "traditions": {
+        "WLC": "וַֽ יִּשְׁמְע֖וּ וַ יְשַׁלֵּֽחוּ",
+        "LXX": "καὶ ἐῶσαν",
+        "VUL": "audiérunt ígitur , et dimisérunt .",
+        "SP": null,
+        "KJV": "then they obeyed , and let [ them ] go .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "But afterward they turned",
+      "traditions": {
+        "WLC": "וַ יָּשׁ֨וּבוּ֙ אַחֲרֵי כֵ֔ן",
+        "LXX": null,
+        "VUL": "Et convérsi sunt deínceps :",
+        "SP": null,
+        "KJV": "But afterward they turned ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and caused the servants and the handmaids, whom they had let go free, to return",
+      "traditions": {
+        "WLC": "וַ יָּשִׁ֗בוּ אֶת הָֽ עֲבָדִים֙ וְ אֶת הַ שְּׁפָח֔וֹת אֲשֶׁ֥ר שִׁלְּח֖וּ חָפְשִׁ֑ים",
+        "LXX": "αὐτοὺς εἰς παῖδας καὶ παιδίσκας .",
+        "VUL": "et retraxérunt servos et ancíllas suas , quos dimíserant líberos ,",
+        "SP": null,
+        "KJV": "and caused the servants and the handmaids , whom they had let go free , to return ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and brought them into subjection for servants and for handmaids",
+      "traditions": {
+        "WLC": "ו יכבישו ם לַ עֲבָדִ֖ים וְ לִ שְׁפָחֽוֹת",
+        "LXX": null,
+        "VUL": "et subiugavérunt in fámulos et fámulas .",
+        "SP": null,
+        "KJV": "and brought them into subjection for servants and for handmaids .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore the word of the LORD came to Jeremiah from the LORD",
+      "traditions": {
+        "WLC": "וַ יְהִ֤י דְבַר יְהוָה֙ אֶֽל יִרְמְיָ֔הוּ מֵ אֵ֥ת יְהוָ֖ה",
+        "LXX": "καὶ ἐγενήθη λόγος Κυρίου πρὸς Ἰερεμίαν",
+        "VUL": "Et factum est verbum Dómini ad Ieremíam a Dómino ,",
+        "SP": null,
+        "KJV": "Therefore the word of the LORD came to Jeremiah from the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "לֵ אמֹֽר",
+        "LXX": "λέγων",
+        "VUL": "dicens :",
+        "SP": null,
+        "KJV": "saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus saith the LORD, the God of Israel",
+      "traditions": {
+        "WLC": "כֹּֽה אָמַ֥ר יְהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל",
+        "LXX": "Οὕτως εἶπεν Κύριος",
+        "VUL": "Hæc dicit Dóminus Deus Israel :",
+        "SP": null,
+        "KJV": "Thus saith the LORD , the God of Israel ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I made a covenant with your fathers in the day that I brought them forth out of the land of Egypt, out of the house of bondmen",
+      "traditions": {
+        "WLC": "אָנֹכִ֗י כָּרַ֤תִּֽי בְרִית֙ אֶת אֲב֣וֹתֵי כֶ֔ם בְּ י֨וֹם הוֹצִאִ֤ י אוֹתָ ם֙ מֵ אֶ֣רֶץ מִצְרַ֔יִם מִ בֵּ֥ית עֲבָדִ֖ים",
+        "LXX": "Ἐγὼ ἐθέμην διαθήκην πρὸς τοὺς πατέρας ὑμῶν ἐν τῇ ἡμέρᾳ ᾗ ἐξειλάμην αὐτοὺς ἐκ γῆς Αἰγύπτου , ἐξ οἴκου δουλείας ,",
+        "VUL": "Ego percússi fœdus cum pátribus vestris in die , qua edúxi eos de terra Ægýpti , de domo servitútis ,",
+        "SP": null,
+        "KJV": "I made a covenant with your fathers in the day that I brought them forth out of the land of Egypt , out of the house of bondmen ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "לֵ אמֹֽר",
+        "LXX": "λέγων",
+        "VUL": "dicens :",
+        "SP": null,
+        "KJV": "saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "At the end of seven years let ye go every man his brother an Hebrew, which hath been sold unto thee",
+      "traditions": {
+        "WLC": "מִ קֵּ֣ץ שֶׁ֣בַע שָׁנִ֡ים תְּֽשַׁלְּח֡וּ אִישׁ֩ אֶת אָחִ֨י ו הָ עִבְרִ֜י אֲשֶֽׁר יִמָּכֵ֣ר לְ ךָ֗",
+        "LXX": "Ὅταν πληρωθῇ ἓξ ἔτη , ἀποστελεῖς τὸν ἀδελφόν σου τὸν Ἐβραῖον ὃς πραθήσεταί σοι",
+        "VUL": "Cum compléti fúerint septem anni , dimíttat unusquísque fratrem suum Hebrǽum , qui vénditus est ei :",
+        "SP": null,
+        "KJV": "At the end of seven years let ye go every man his brother an Hebrew , which hath been sold unto thee ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and when he hath served thee six years, thou shalt let him go free from thee",
+      "traditions": {
+        "WLC": "וַ עֲבָֽדְ ךָ֙ שֵׁ֣שׁ שָׁנִ֔ים וְ שִׁלַּחְתּ֥ וֹ חָפְשִׁ֖י מֵֽ עִמָּ֑ ךְ",
+        "LXX": "καὶ ἐργᾶταί σοι ἓξ ἔτη , καὶ ἐξαποστελεῖς αὐτὸν ἐλεύθερον ·",
+        "VUL": "et sérviet tibi sex annis , et dimíttes eum a te líberum :",
+        "SP": null,
+        "KJV": "and when he hath served thee six years , thou shalt let him go free from thee :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "but your fathers hearkened not unto me, neither inclined their ear",
+      "traditions": {
+        "WLC": "וְ לֹֽא שָׁמְע֤וּ אֲבֽוֹתֵי כֶם֙ אֵלַ֔ י וְ לֹ֥א הִטּ֖וּ אֶת אָזְנָֽ ם",
+        "LXX": "καὶ οὐκ ἤκουσάν μου καὶ οὐκ ἔκλιναν τὸ οὖς αὐτῶν .",
+        "VUL": "et non audiérunt patres vestri me , nec inclinavérunt aurem suam .",
+        "SP": null,
+        "KJV": "but your fathers hearkened not unto me , neither inclined their ear .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And ye were now turned, and had done right in my sight, in proclaiming liberty every man to his neighbour",
+      "traditions": {
+        "WLC": "וַ תָּשֻׁ֨בוּ אַתֶּ֜ם הַ יּ֗וֹם וַ תַּעֲשׂ֤וּ אֶת הַ יָּשָׁר֙ בְּ עֵינַ֔ י לִ קְרֹ֥א דְר֖וֹר אִ֣ישׁ לְ רֵעֵ֑ הוּ",
+        "LXX": "καὶ ἐπέστρεψαν σήμερον ποιῆσαι τὸ εὐθὲς πρὸ ὀφθαλμῶν μου τοῦ καλέσαι ἄφεσιν ἕκαστον τοῦ πλησίον αὐτοῦ ,",
+        "VUL": "Et convérsi estis vos hódie , et fecístis quod rectum est in óculis meis , ut prædicarétis libertátem unusquísque ad amícum suum :",
+        "SP": null,
+        "KJV": "And ye were now turned , and had done right in my sight , in proclaiming liberty every man to his neighbour ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and ye had made a covenant before me in the house which is called by my name",
+      "traditions": {
+        "WLC": "וַ תִּכְרְת֤וּ בְרִית֙ לְ פָנַ֔ י בַּ בַּ֕יִת אֲשֶׁר נִקְרָ֥א שְׁמִ֖ י עָלָֽי ו",
+        "LXX": "καὶ συνετέλεσαν διαθήκην κατά πρόσωπόν μου ἐν τῷ οἴκῳ οὗ ἐπεκλήθη τὸ ὄνομά μου ἐπ᾽ αὐτῷ .",
+        "VUL": "et inístis pactum in conspéctu meo , in domo , in qua invocátum est nomen meum super eam .",
+        "SP": null,
+        "KJV": "and ye had made a covenant before me in the house which is called by my name :",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "But ye turned and polluted my name",
+      "traditions": {
+        "WLC": "וַ תָּשֻׁ֨בוּ֙ וַ תְּחַלְּל֣וּ אֶת שְׁמִ֔ י",
+        "LXX": "καὶ ἐπεστρέψατε καὶ ἐβεβηλώσατε τὸ ὄνομά μου",
+        "VUL": "Et revérsi estis , et commaculástis nomen meum ,",
+        "SP": null,
+        "KJV": "But ye turned and polluted my name ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and caused every man his servant, and every man his handmaid, whom ye had set at liberty at their pleasure, to return",
+      "traditions": {
+        "WLC": "וַ תָּשִׁ֗בוּ אִ֤ישׁ אֶת עַבְדּ וֹ֙ וְ אִ֣ישׁ אֶת שִׁפְחָת֔ וֹ אֲשֶׁר שִׁלַּחְתֶּ֥ם חָפְשִׁ֖ים לְ נַפְשָׁ֑ ם",
+        "LXX": "τοῦ ἐπιστρέψαι ἕκαστον τὸν παῖδα αὐτοῦ καὶ ἕκαστον τὴν παιδίσκην αὐτοῦ , οὓς ἐξαποστείλατε ἐλευθέρους τῇ ψυχῇ αὐτῶν ,",
+        "VUL": "et reduxístis unusquísque servum suum et unusquísque ancíllam suam , quos dimiserátis ut essent líberi et suæ potestátis :",
+        "SP": null,
+        "KJV": "and caused every man his servant , and every man his handmaid , whom ye had set at liberty at their pleasure , to return ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and brought them into subjection, to be unto you for servants and for handmaids",
+      "traditions": {
+        "WLC": "וַ תִּכְבְּשׁ֣וּ אֹתָ֔ ם לִֽ הְי֣וֹת לָ כֶ֔ם לַ עֲבָדִ֖ים וְ לִ שְׁפָחֽוֹת",
+        "LXX": "ὑμῖν εἰς παῖδας καὶ παιδίσκας .",
+        "VUL": "et subiugástis eos ut sint vobis servi et ancíllæ .",
+        "SP": null,
+        "KJV": "and brought them into subjection , to be unto you for servants and for handmaids .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore thus saith the LORD ;",
+      "traditions": {
+        "WLC": "לָ כֵן֮ כֹּה אָמַ֣ר יְהוָה֒",
+        "LXX": "διὰ τοῦτο οὕτως εἶπεν Κύριος",
+        "VUL": "Proptérea hæc dicit Dóminus :",
+        "SP": null,
+        "KJV": "Therefore thus saith the LORD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Ye have not hearkened unto me ,",
+      "traditions": {
+        "WLC": "אַתֶּם֙ לֹֽא שְׁמַעְתֶּ֣ם אֵלַ֔ י",
+        "LXX": "Ὑμεῖς οὐκ ἠκούσατέ μου",
+        "VUL": "Vos non audístis me ,",
+        "SP": null,
+        "KJV": "Ye have not hearkened unto me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "in proclaiming liberty ,",
+      "traditions": {
+        "WLC": "לִ קְרֹ֣א דְר֔וֹר",
+        "LXX": "τοῦ καλέσαι ἄφεσιν",
+        "VUL": "ut prædicarétis libertátem",
+        "SP": null,
+        "KJV": "in proclaiming liberty ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "every one to his brother ,",
+      "traditions": {
+        "WLC": "אִ֥ישׁ לְ אָחִ֖י",
+        "LXX": "ἕκαστος πρὸς τὸν πλησίον αὐτοῦ ·",
+        "VUL": "unusquísque fratri suo ,",
+        "SP": null,
+        "KJV": "every one to his brother ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and every man to his neighbour :",
+      "traditions": {
+        "WLC": "ו וְ אִ֣ישׁ לְ רֵעֵ֑ הוּ",
+        "LXX": null,
+        "VUL": "et unusquísque amíco suo :",
+        "SP": null,
+        "KJV": "and every man to his neighbour :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "behold , I proclaim a liberty for you ,",
+      "traditions": {
+        "WLC": "הִנְ נִ֣י קֹרֵא֩ לָ כֶ֨ם דְּר֜וֹר",
+        "LXX": "ἰδοὺ ἐγὼ καλῶ ἄφεσιν ὑμῖν",
+        "VUL": "ecce ego prædíco vobis libertátem ,",
+        "SP": null,
+        "KJV": "behold , I proclaim a liberty for you ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "saith the LORD ,",
+      "traditions": {
+        "WLC": "נְאֻם יְהוָ֗ה",
+        "LXX": null,
+        "VUL": "ait Dóminus ,",
+        "SP": null,
+        "KJV": "saith the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 8,
+      "english_reference": "to the sword ,",
+      "traditions": {
+        "WLC": "אֶל הַ חֶ֨רֶב֙",
+        "LXX": "εἰς μάχαιραν",
+        "VUL": "ad gládium ,",
+        "SP": null,
+        "KJV": "to the sword ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 9,
+      "english_reference": "to the pestilence ,",
+      "traditions": {
+        "WLC": "אֶל הַ דֶּ֣בֶר",
+        "LXX": "καὶ εἰς τὸν θάνατον",
+        "VUL": "ad pestem ,",
+        "SP": null,
+        "KJV": "to the pestilence ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 10,
+      "english_reference": "and to the famine ;",
+      "traditions": {
+        "WLC": "וְ אֶל הָ רָעָ֔ב",
+        "LXX": "καὶ εἰς τὸν λιμόν ,",
+        "VUL": "et ad famem :",
+        "SP": null,
+        "KJV": "and to the famine ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 11,
+      "english_reference": "and I will make you to be removed into all the kingdoms of the earth .",
+      "traditions": {
+        "WLC": "וְ נָתַתִּ֤י אֶתְ כֶם֙ ל זועה לְ כֹ֖ל מַמְלְכ֥וֹת הָ אָֽרֶץ",
+        "LXX": "καὶ δώσω ὑμᾶς εἰς διασπορὰν πάσαις ταῖς βασιλείαις τῆς γῆς .",
+        "VUL": "et dabo vos in commotiónem cunctis regnis terræ .",
+        "SP": null,
+        "KJV": "and I will make you to be removed into all the kingdoms of the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will give the men that have transgressed my covenant, which have not performed the words of the covenant which they had made before me",
+      "traditions": {
+        "WLC": "וְ נָתַתִּ֣י אֶת הָ אֲנָשִׁ֗ים הָ עֹֽבְרִים֙ אֶת בְּרִתִ֔ י אֲשֶׁ֤ר לֹֽא הֵקִ֨ימוּ֙ אֶת דִּבְרֵ֣י הַ בְּרִ֔ית אֲשֶׁ֥ר כָּרְת֖וּ לְ פָנָ֑ י",
+        "LXX": "καὶ δώσω τοὺς ἄνδρας τοὺς παρεληλυθότας τὴν διαθήκην μου , τοὺς μὴ στήσαντας τὴν διαθήκην μου ἣν ἐποίησαν κατὰ πρόσωπόν μου ,",
+        "VUL": "Et dabo viros , qui prævaricántur fœdus meum , et non observavérunt verba fœ́deris , quibus assénsi sunt in conspéctu meo ,",
+        "SP": null,
+        "KJV": "And I will give the men that have transgressed my covenant , which have not performed the words of the covenant which they had made before me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when they cut the calf in twain, and passed between the parts thereof",
+      "traditions": {
+        "WLC": "הָ עֵ֨גֶל֙ אֲשֶׁ֣ר כָּרְת֣וּ לִ שְׁנַ֔יִם וַ יַּעַבְר֖וּ בֵּ֥ין בְּתָרָֽי ו",
+        "LXX": "τὸν μόσχον ὃν ἐποίησαν ἐργάζεσθαι αὐτῷ ,",
+        "VUL": "vítulum quem concidérunt in duas partes , et transiérunt inter divisiónes eius :",
+        "SP": null,
+        "KJV": "when they cut the calf in twain , and passed between the parts thereof ,",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "The princes of Judah, and the princes of Jerusalem, the eunuchs, and the priests, and all the people of the land, which passed between the parts of the calf",
+      "traditions": {
+        "WLC": "שָׂרֵ֨י יְהוּדָ֜ה וְ שָׂרֵ֣י יְרוּשָׁלִַ֗ם הַ סָּֽרִסִים֙ וְ הַ כֹּ֣הֲנִ֔ים וְ כֹ֖ל עַ֣ם הָ אָ֑רֶץ הָ עֹ֣בְרִ֔ים בֵּ֖ין בִּתְרֵ֥י הָ עֵֽגֶל",
+        "LXX": "τοὺς ἄρχοντας Ἰούδα καὶ τοὺς δυνάστας καὶ τοὺς ἱερεῖς καὶ τὸν λαόν ,",
+        "VUL": "príncipes Iuda et príncipes Ierúsalem , eunúchi et sacerdótes , et omnis pópulus terræ , qui transiérunt inter divisiónes vítuli :",
+        "SP": null,
+        "KJV": "The princes of Judah , and the princes of Jerusalem , the eunuchs , and the priests , and all the people of the land , which passed between the parts of the calf ;",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will even give them into the hand of their enemies, and into the hand of them that seek their life",
+      "traditions": {
+        "WLC": "וְ נָתַתִּ֤י אוֹתָ ם֙ בְּ יַ֣ד אֹֽיְבֵי הֶ֔ם וּ בְ יַ֖ד מְבַקְשֵׁ֣י נַפְשָׁ֑ ם",
+        "LXX": "καὶ δώσω αὐτοὺς τοῖς ἐχθροῖς αὐτῶν ,",
+        "VUL": "et dabo eos in manus inimicórum suórum , et in manus quæréntium ánimam eórum ,",
+        "SP": null,
+        "KJV": "I will even give them into the hand of their enemies , and into the hand of them that seek their life :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and their dead bodies shall be for meat unto the fowls of the heaven, and to the beasts of the earth",
+      "traditions": {
+        "WLC": "וְ הָיְתָ֤ה נִבְלָתָ ם֙ לְ מַֽאֲכָ֔ל לְ ע֥וֹף הַ שָּׁמַ֖יִם וּ לְ בֶהֱמַ֥ת הָ אָֽרֶץ",
+        "LXX": "καὶ ἔσται τὰ θνησιμαῖα αὐτῶν βρῶσις τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ τοῖς θηρίοις τῆς γῆς .",
+        "VUL": "et erit morticínum eórum in escam volatílibus cæli , et béstiis terræ .",
+        "SP": null,
+        "KJV": "and their dead bodies shall be for meat unto the fowls of the heaven , and to the beasts of the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Zedekiah king of Judah and his princes",
+      "traditions": {
+        "WLC": "וְ אֶת צִדְקִיָּ֨הוּ מֶֽלֶךְ יְהוּדָ֜ה וְ אֶת שָׂרָ֗י",
+        "LXX": "καὶ τὸν Σεδεκίαν βασιλέα τῆς Ἰουδαίας καὶ τοὺς ἄρχοντας αὐτῶν",
+        "VUL": "Et Sedecíam regem Iuda , et príncipes eius ,",
+        "SP": null,
+        "KJV": "And Zedekiah king of Judah and his princes",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "will I give into the hand of their enemies",
+      "traditions": {
+        "WLC": "ו אֶתֵּן֙ בְּ יַ֣ד אֹֽיְבֵי הֶ֔ם",
+        "LXX": "δώσω εἰς χεῖρας ἐχθρῶν αὐτῶν ,",
+        "VUL": "dabo in manus inimicórum suórum ,",
+        "SP": null,
+        "KJV": "will I give into the hand of their enemies ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and into the hand of them that seek their life",
+      "traditions": {
+        "WLC": "וּ בְ יַ֖ד מְבַקְשֵׁ֣י נַפְשָׁ֑ ם",
+        "LXX": null,
+        "VUL": "et in manus quæréntium ánimas eórum ,",
+        "SP": null,
+        "KJV": "and into the hand of them that seek their life ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and into the hand of the king of Babylon ’s army",
+      "traditions": {
+        "WLC": "וּ בְ יַד חֵ֚יל מֶ֣לֶךְ בָּבֶ֔ל",
+        "LXX": "καὶ δύναμις βασιλέως Βαβυλῶνος",
+        "VUL": "et in manus exercítuum regis Babylónis ,",
+        "SP": null,
+        "KJV": "and into the hand of the king of Babylon ’s army ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "which are gone up from you",
+      "traditions": {
+        "WLC": "הָ עֹלִ֖ים מֵ עֲלֵי כֶֽם",
+        "LXX": "τοῖς ἀποτρέχουσιν ἀπ᾽ αὐτῶν .",
+        "VUL": "qui recessérunt a vobis .",
+        "SP": null,
+        "KJV": "which are gone up from you .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , I will command , saith the LORD",
+      "traditions": {
+        "WLC": "הִנְ נִ֨י מְצַוֶּ֜ה נְאֻם יְהוָ֗ה",
+        "LXX": "ἰδοὺ ἐγὼ συντάσσω , φησὶν Κύριος ,",
+        "VUL": "Ecce ego præcípio , dicit Dóminus ,",
+        "SP": null,
+        "KJV": "Behold , I will command , saith the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and cause them to return to this city",
+      "traditions": {
+        "WLC": "וַ הֲשִׁ֨בֹתִ֜י ם אֶל הָ עִ֤יר הַ זֹּאת֙",
+        "LXX": "καὶ ἐπιστρέψω αὐτοὺς εἰς τὴν γῆν ταύτην ,",
+        "VUL": "et redúcam eos in civitátem hanc ,",
+        "SP": null,
+        "KJV": "and cause them to return to this city ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they shall fight against it",
+      "traditions": {
+        "WLC": "וְ נִלְחֲמ֣וּ עָלֶ֔י הָ",
+        "LXX": "καὶ πολεμήσουσιν ἐπ᾽ αὐτὴν",
+        "VUL": "et prœliabúntur advérsus eam ,",
+        "SP": null,
+        "KJV": "and they shall fight against it ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and take it",
+      "traditions": {
+        "WLC": "וּ לְכָד֖וּ הָ",
+        "LXX": "καὶ λήμψονται αὐτὴν",
+        "VUL": "et cápient eam ,",
+        "SP": null,
+        "KJV": "and take it ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and burn it with fire",
+      "traditions": {
+        "WLC": "וּ שְׂרָפֻ֣ הָ בָ אֵ֑שׁ",
+        "LXX": "καὶ κατακαύσουσιν αὐτὴν ἐν πυρὶ",
+        "VUL": "et incéndent igni :",
+        "SP": null,
+        "KJV": "and burn it with fire :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and I will make the cities of Judah a desolation without an inhabitant",
+      "traditions": {
+        "WLC": "וְ אֶת עָרֵ֧י יְהוּדָ֛ה אֶתֵּ֥ן שְׁמָמָ֖ה מֵ אֵ֥ין יֹשֵֽׁב",
+        "LXX": "καὶ τὰς πόλεις Ἰούδα , καὶ δώσω αὐτὰς ἐρήμους ἀπὸ κατοικούντων .",
+        "VUL": "et civitátes Iuda dabo in solitúdinem , eo quod non sit habitátor .",
+        "SP": null,
+        "KJV": "and I will make the cities of Judah a desolation without an inhabitant .",
+        "DSS": null
+      }
+    }
+  ]
+}

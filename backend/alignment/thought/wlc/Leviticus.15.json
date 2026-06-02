@@ -1,0 +1,1304 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD spake unto Moses and to Aaron , saying ,",
+      "traditions": {
+        "WLC": "וַ יְדַבֵּ֣ר יְהוָ֔ה אֶל מֹשֶׁ֥ה וְ אֶֽל אַהֲרֹ֖ן לֵ אמֹֽר",
+        "LXX": "Καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων καὶ Ἀαρών",
+        "VUL": "Locutúsque est Dóminus ad Móysen et Aaron , dicens :",
+        "SP": "ו ידבר יהוה אל משׁה ו אל אהרן ל אמר",
+        "KJV": "And the LORD spake unto Moses and to Aaron , saying ,",
+        "DSS": "[11Q1] [ ו ידבר יהוה אל משה ו אל אהרנ ל אמר ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Speak unto the children of Israel , and say unto them ,",
+      "traditions": {
+        "WLC": "דַּבְּרוּ֙ אֶל בְּנֵ֣י יִשְׂרָאֵ֔ל וַ אֲמַרְתֶּ֖ם אֲלֵ הֶ֑ם",
+        "LXX": "Λάλησον τοῖς υἱοῖς Ἰσραὴλ καὶ ἐρεῖς αὐτοῖς",
+        "VUL": "Loquímini fíliis Israel , et dícite eis :",
+        "SP": "דברו אל בני ישׂראל ו אמרתם אליהם",
+        "KJV": "Speak unto the children of Israel , and say unto them ,",
+        "DSS": "[11Q1] דברו אל בני ישר ]אל ו אמר#תמ אל׳המ#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "When any man hath a running issue out of his flesh ,",
+      "traditions": {
+        "WLC": "אִ֣ישׁ אִ֗ישׁ כִּ֤י יִהְיֶה֙ זָ֣ב מִ בְּשָׂר֔",
+        "LXX": "Ἀνδρὶ ἀνδρὶ ᾧ ἐὰν γένηται ῥύσις ἐκ τοῦ σώματος αὐτοῦ ,",
+        "VUL": "Vir , qui pátitur fluxum séminis ,",
+        "SP": "אישׁ אישׁ כי יהיה זב מ בשׂרו",
+        "KJV": "When any man hath a running issue out of his flesh , [ because of ]",
+        "DSS": "[ איש איש כי יהיה זב מ בשר׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ because of ] his issue he [ is ] unclean .",
+      "traditions": {
+        "WLC": "וֹ זוֹב֖ וֹ טָמֵ֥א הֽוּא",
+        "LXX": "ἡ ῥύσις αὐτοῦ ἀκάθαρτός ἐστιν .",
+        "VUL": "immúndus erit .",
+        "SP": "זובו טמא הוא",
+        "KJV": "his issue he [ is ] unclean .",
+        "DSS": "زוב׳و טמא הוא ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And this shall be his uncleanness in his issue :",
+      "traditions": {
+        "WLC": "וְ זֹ֛את תִּהְיֶ֥ה טֻמְאָת֖ וֹ בְּ זוֹב֑",
+        "LXX": "καὶ οὗτος ὁ νόμος τῆς ἀκαθαρσίας αὐτοῦ ·",
+        "VUL": "Et tunc iudicábitur huic vítio subiacére ,",
+        "SP": "ו זאת תהיה טמאתו ב זובו",
+        "KJV": "And this shall be his uncleanness in his issue :",
+        "DSS": "[11Q1] ו זאת תה ]י?ה טמאת׳ו ב זב ["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "whether his flesh run with his issue ,",
+      "traditions": {
+        "WLC": "וֹ רָ֣ר בְּשָׂר֞ וֹ אֶת זוֹב֗",
+        "LXX": "ῥέων γόνον ἐκ σώματος αὐτοῦ ἐκ τῆς ῥύσεως ἧς συνέστηκεν τὸ σῶμα αὐτοῦ διὰ τῆς ῥύσεως ,",
+        "VUL": "cum per síngula moménta adhǽserit carni eius ,",
+        "SP": "רר בשׂרו את זובו",
+        "KJV": "whether his flesh run with his issue ,",
+        "DSS": "׳ו רר בשר׳ו את זוב׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "or his flesh be stopped from his issue ,",
+      "traditions": {
+        "WLC": "וֹ אֽוֹ הֶחְתִּ֤ים בְּשָׂר וֹ֙ מִ זּוֹב֔",
+        "LXX": "αὕτη ἡ ἀκαθαρσία αὐτοῦ ἐν αὐτῷ ·",
+        "VUL": "atque concréverit fœdus humor .",
+        "SP": "או חתום בשׂרו מ זובו",
+        "KJV": "or his flesh be stopped from his issue ,",
+        "DSS": "או החתימ בשר׳ו מ זוב׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "it [ is ] his uncleanness .",
+      "traditions": {
+        "WLC": "וֹ טֻמְאָת֖ וֹ הִֽוא",
+        "LXX": "πᾶσαι αἱ ἡμέραι ῥύσεως σώματος αὐτοῦ ᾗ συνέστηκεν τὸ σῶμα αὐτοῦ διὰ τῆς ῥύσεως ἀκαθαρσία αὐτοῦ ἐστίν .",
+        "VUL": null,
+        "SP": "טמא הוא כל ימי זב בשׂרו או החתים בשׂרו מ זובו טמאתו היא",
+        "KJV": "it [ is ] his uncleanness .",
+        "DSS": "טמאת׳ו הוא ] ב׳ו כל ימי ז [ ב ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Every bed , whereon he lieth that hath the issue , is unclean :",
+      "traditions": {
+        "WLC": "כָּל הַ מִּשְׁכָּ֗ב אֲשֶׁ֨ר יִשְׁכַּ֥ב עָלָ֛י ו הַ זָּ֖ב יִטְמָ֑א",
+        "LXX": "πᾶσα κοίτη ἐφ᾽ ᾗ ἐὰν κοιμηθῇ ἐπ᾽ αὐτῆς ὁ γονορρυὴς ἀκάθαρτός ἐστιν ,",
+        "VUL": "Omne stratum , in quo dormíerit , immúndum erit ,",
+        "SP": "כל ה משׁכב אשׁר ישׁכב עליו ה זב יטמא",
+        "KJV": "Every bed , whereon he lieth that hath the issue , is unclean :",
+        "DSS": "כל ה משכב אשר  ]ישכב עלי׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and every thing , whereon he sitteth , shall be unclean .",
+      "traditions": {
+        "WLC": "וְ כָֽל הַ כְּלִ֛י אֲשֶׁר יֵשֵׁ֥ב עָלָ֖י ו יִטְמָֽא",
+        "LXX": "καὶ πᾶν σκεῦος ἐφ᾽ ὃ ἐὰν καθίσῃ ἐπ᾽ αὐτὸ ὁ γονορρυὴς ἀκάθαρτον ἔσται .",
+        "VUL": "et ubicúmque séderit .",
+        "SP": "ו כל ה כלי אשׁר ישׁב עליו יטמא",
+        "KJV": "and every thing , whereon he sitteth , shall be unclean .",
+        "DSS": "[ ה זב יטמא ו כל ה כלי אשר ישב עלי׳ו יטמא ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And whosoever toucheth his bed",
+      "traditions": {
+        "WLC": "וְ אִ֕ישׁ אֲשֶׁ֥ר יִגַּ֖ע בְּ מִשְׁכָּב֑",
+        "LXX": "καὶ ἄνθρωπος ὃς ἄν ἅψηται τῆς κοίτης αὐτοῦ",
+        "VUL": "Si quis hóminum tetígerit lectum eius ,",
+        "SP": "ו אישׁ אשׁר יגע ב משׁכבו",
+        "KJV": "And whosoever toucheth his bed",
+        "DSS": "[11Q1] ו איש אשר יג ]ע ב משכב׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall wash his clothes , and bathe [ himself ] in water ,",
+      "traditions": {
+        "WLC": "וֹ יְכַבֵּ֧ס בְּגָדָ֛י ו וְ רָחַ֥ץ בַּ מַּ֖יִם",
+        "LXX": "πλυνεῖ τὰ ἱμάτια αὐτοῦ καὶ λούσεται ὕδατι ,",
+        "VUL": "lavábit vestiménta sua : et ipse lotus aqua ,",
+        "SP": "יכבס בגדיו ו רחץ ב מים",
+        "KJV": "shall wash his clothes , and bathe [ himself ] in water ,",
+        "DSS": "יכבס ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and be unclean until the even .",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας ·",
+        "VUL": "immúndus erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he that sitteth on [ any ] thing whereon he sat that hath the issue",
+      "traditions": {
+        "WLC": "וְ הַ יֹּשֵׁב֙ עַֽל הַ כְּלִ֔י אֲשֶׁר יֵשֵׁ֥ב עָלָ֖י ו הַ זָּ֑ב",
+        "LXX": "καὶ ὁ καθήμενος ἐπὶ τοῦ σκεύους ἐφ᾽ ὃ ἐὰν καθίσῃ ὁ γονορρυὴς",
+        "VUL": "Si séderit ubi ille séderat ,",
+        "SP": "ו ה ישׁב על ה כלי אשׁר ישׁב עליו ה זב",
+        "KJV": "And he that sitteth on [ any ] thing whereon he sat that hath the issue",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall wash his clothes , and bathe [ himself ] in water ,",
+      "traditions": {
+        "WLC": "יְכַבֵּ֧ס בְּגָדָ֛י ו וְ רָחַ֥ץ בַּ מַּ֖יִם",
+        "LXX": "πλυνεῖ τὰ ἱμάτια αὐτοῦ καὶ λούσεται ὕδατι ,",
+        "VUL": "et ipse lavábit vestiménta sua : et lotus aqua ,",
+        "SP": "יכבס בגדיו ו רחץ ב מים",
+        "KJV": "shall wash his clothes , and bathe [ himself ] in water ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and be unclean until the even .",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας .",
+        "VUL": "immúndus erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he that toucheth the flesh of him that hath the issue",
+      "traditions": {
+        "WLC": "וְ הַ נֹּגֵ֖עַ בִּ בְשַׂ֣ר הַ זָּ֑ב",
+        "LXX": "καὶ ὁ ἁπτόμενος χρωτὸς τοῦ γονορρυοῦς",
+        "VUL": "Qui tetígerit carnem eius ,",
+        "SP": "ו ה נגע ב בשׂר ה זב",
+        "KJV": "And he that toucheth the flesh of him that hath the issue",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall wash his clothes , and bathe [ himself ] in water ,",
+      "traditions": {
+        "WLC": "יְכַבֵּ֧ס בְּגָדָ֛י ו וְ רָחַ֥ץ בַּ מַּ֖יִם",
+        "LXX": "πλυνεῖ τὰ ἱμάτια καὶ λούσεται ὕδατι ,",
+        "VUL": "lavábit vestiménta sua : et ipse lotus aqua ,",
+        "SP": "יכבס בגדיו ו רחץ ב מים",
+        "KJV": "shall wash his clothes , and bathe [ himself ] in water ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and be unclean until the even .",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας ·",
+        "VUL": "immúndus erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if he that hath the issue spit upon him that is clean ;",
+      "traditions": {
+        "WLC": "וְ כִֽי יָרֹ֛ק הַ זָּ֖ב בַּ טָּה֑וֹר",
+        "LXX": "ἐὰν δὲ προσσιελίσῃ ὁ γονορρυὴς ἐπὶ τὸν καθαρὸν ,",
+        "VUL": "Si salívam huiuscémodi homo iécerit super eum qui mundus est ,",
+        "SP": "ו כי ירק ה זב ב טהור",
+        "KJV": "And if he that hath the issue spit upon him that is clean ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then he shall wash his clothes , and bathe [ himself ] in water ,",
+      "traditions": {
+        "WLC": "וְ כִבֶּ֧ס בְּגָדָ֛י ו וְ רָחַ֥ץ בַּ מַּ֖יִם",
+        "LXX": "πλυνεῖ τὰ ἱμάτια καὶ λούσεται ὕδατι ,",
+        "VUL": "lavábit vestiménta sua : et lotus aqua ,",
+        "SP": "יכבס בגדיו ו רחץ ב מים",
+        "KJV": "then he shall wash his clothes , and bathe [ himself ] in water ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and be unclean until the even .",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας ·",
+        "VUL": "immúndus erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And what saddle soever he rideth upon that hath the issue shall be unclean .",
+      "traditions": {
+        "WLC": "וְ כָל הַ מֶּרְכָּ֗ב אֲשֶׁ֨ר יִרְכַּ֥ב עָלָ֛י ו הַ זָּ֖ב יִטְמָֽא",
+        "LXX": "καὶ πᾶν ἐπίσαγμα ὄνου ἐφ᾽ ὃ ἂν ἐπιβῇ ἐπ᾽ αὐτὸ ὁ γονορρυής , ἀκάθαρτον ἔσται ἕως ἑσπέρας .",
+        "VUL": "Sagma , super quo séderit , immúndum erit :",
+        "SP": "ו כל ה מרכב אשׁר ירכב עליו ה זב יטמא",
+        "KJV": "And what saddle soever he rideth upon that hath the issue shall be unclean .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And whosoever toucheth any thing that was under him",
+      "traditions": {
+        "WLC": "וְ כָל הַ נֹּגֵ֗עַ בְּ כֹל֙ אֲשֶׁ֣ר יִהְיֶ֣ה תַחְתָּ֔י",
+        "LXX": "καὶ πᾶς ὁ ἁπτόμενος ὅσα ἐὰν ᾖ ὑποκάτω αὐτοῦ",
+        "VUL": "et quidquid sub eo fúerit , qui fluxum séminis pátitur ,",
+        "SP": "ו כל ה נגע ב כל אשׁר יהיה תחתיו",
+        "KJV": "And whosoever toucheth any thing that was under him",
+        "DSS": "[4Q23] תחתי׳ו?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall be unclean until the even :",
+      "traditions": {
+        "WLC": "ו יִטְמָ֖א עַד הָ עָ֑רֶב",
+        "LXX": "ἀκάθαρτος ἔσται ἕως ἑσπέρας ·",
+        "VUL": "pollútum erit usque ad vésperum .",
+        "SP": "יטמא עד ה ערב",
+        "KJV": "shall be unclean until the even :",
+        "DSS": "יט#מ##[ א עד ה ערב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he that beareth [ any of ] those things",
+      "traditions": {
+        "WLC": "וְ הַ נּוֹשֵׂ֣א אוֹתָ֔ ם",
+        "LXX": "καὶ ὁ αἴρων αὐτὰ",
+        "VUL": "Qui portáverit horum áliquid ,",
+        "SP": "ו ה נושׂא אתם",
+        "KJV": "and he that beareth [ any of ] those things",
+        "DSS": "ו ה נושא אות׳ם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "shall wash his clothes , and bathe [ himself ] in water , and be unclean until the even .",
+      "traditions": {
+        "WLC": "יְכַבֵּ֧ס בְּגָדָ֛י ו וְ רָחַ֥ץ בַּ מַּ֖יִם וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "πλυνεῖ τὰ ἱμάτια αὐτοῦ καὶ λούσεται ὕδατι , καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας .",
+        "VUL": "lavábit vestiménta sua : et ipse lotus aqua , immúndus erit usque ad vésperum .",
+        "SP": "יכבס בגדיו ו רחץ ב מים ו טמא עד ה ערב",
+        "KJV": "shall wash his clothes , and bathe [ himself ] in water , and be unclean until the even .",
+        "DSS": "יכבס בגדי׳ו ו רחץ ב מים ו טמא עד ] ה ערב ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And whomsoever he toucheth that hath the issue",
+      "traditions": {
+        "WLC": "וְ כֹ֨ל אֲשֶׁ֤ר יִגַּע בּ וֹ֙ הַ זָּ֔ב",
+        "LXX": "καὶ ὅσων ἐὰν ἅψηται ὁ γονορρυὴς",
+        "VUL": "Omnis , quem tetígerit qui talis est ,",
+        "SP": "ו כל אשׁר יגע בו ה זב",
+        "KJV": "And whomsoever he toucheth that hath the issue ,",
+        "DSS": "[4Q23] ו כל אש[ ר יגע ב׳ו ה זב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and hath not rinsed his hands in water",
+      "traditions": {
+        "WLC": "וְ יָדָ֖י ו לֹא שָׁטַ֣ף בַּ מָּ֑יִם",
+        "LXX": "καὶ τὰς χεῖρας οὐ νένιπται ,",
+        "VUL": "non lotis ante mánibus ,",
+        "SP": "ו ידו לא שׁטף ב מים",
+        "KJV": "and hath not rinsed his hands in water ,",
+        "DSS": "ו ידי׳ו לא שטף ב מים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he shall wash his clothes",
+      "traditions": {
+        "WLC": "וְ כִבֶּ֧ס בְּגָדָ֛י ו",
+        "LXX": "πλυνεῖ τὰ ἱμάτια",
+        "VUL": "lavábit vestiménta sua :",
+        "SP": "יכבס בגדיו",
+        "KJV": "he shall wash his clothes ,",
+        "DSS": "ו כבס בגדי׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and bathe [ himself ] in water",
+      "traditions": {
+        "WLC": "וְ רָחַ֥ץ בַּ מַּ֖יִם",
+        "LXX": "καὶ λούσεται τὸ σῶμα ὕδατι ,",
+        "VUL": "et lotus aqua ,",
+        "SP": "ו רחץ ב מים",
+        "KJV": "and bathe [ himself ] in water ,",
+        "DSS": "ו רחץ"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and be unclean until the even",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας .",
+        "VUL": "immúndus erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the vessel of earth , that he toucheth which hath the issue , shall be broken",
+      "traditions": {
+        "WLC": "וּ כְלִי חֶ֛רֶשׂ אֲשֶׁר יִגַּע בּ֥ וֹ הַ זָּ֖ב יִשָּׁבֵ֑ר",
+        "LXX": "καὶ σκεῦος ὀστράκινον οὗ ἂν ἅψηται ὁ γονορρυὴς συντριβήσεται ·",
+        "VUL": "Vas fíctile quod tetígerit , confringétur :",
+        "SP": "ו כלי חרשׂ אשׁר יגע בו ה זב ישׁבר",
+        "KJV": "And the vessel of earth , that he toucheth which hath the issue , shall be broken :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and every vessel of wood shall be rinsed in water",
+      "traditions": {
+        "WLC": "וְ כָל כְּלִי עֵ֔ץ יִשָּׁטֵ֖ף בַּ מָּֽיִם",
+        "LXX": "καὶ σκεῦος ξύλινον νιφήσεται ὕδατι ,",
+        "VUL": "vas autem lígneum lavábitur aqua .",
+        "SP": "ו כל כלי עץ ישׁטף ב מים",
+        "KJV": "and every vessel of wood shall be rinsed in water .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ καθαρὸν ἔσται .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And when he that hath an issue is cleansed of his issue",
+      "traditions": {
+        "WLC": "וְ כִֽי יִטְהַ֤ר הַ זָּב֙ מִ זּוֹב֔ וֹ",
+        "LXX": "ἐὰν δὲ καθαρισθῇ ὁ γονορρυὴς ἐκ τῆς ῥύσεως αὐτοῦ ,",
+        "VUL": "Si sanátus fúerit qui huiuscémodi sústinet passiónem ,",
+        "SP": "ו כי יטהר ה זב מ זובו",
+        "KJV": "And when he that hath an issue is cleansed of his issue ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then he shall number to himself seven days for his cleansing",
+      "traditions": {
+        "WLC": "וְ סָ֨פַר ל֜ וֹ שִׁבְעַ֥ת יָמִ֛ים לְ טָהֳרָת֖ וֹ",
+        "LXX": "καὶ ἐξαριθμήσεται αὐτῷ ἑπτὰ ἡμέρας εἰς τὸν καθαρισμόν ,",
+        "VUL": "numerábit septem dies post emundatiónem sui ,",
+        "SP": "ו ספר לו שׁבעת ימים ל טהרתו",
+        "KJV": "then he shall number to himself seven days for his cleansing ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and wash his clothes",
+      "traditions": {
+        "WLC": "וְ כִבֶּ֣ס בְּגָדָ֑י ו",
+        "LXX": "καὶ πλυνεῖ τὰ ἱμάτια αὐτοῦ",
+        "VUL": "et lotis véstibus",
+        "SP": "ו כבס בגדיו",
+        "KJV": "and wash his clothes ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and bathe his flesh in running water",
+      "traditions": {
+        "WLC": "וְ רָחַ֧ץ בְּשָׂר֛ וֹ בְּ מַ֥יִם חַיִּ֖ים",
+        "LXX": "καὶ λούσεται τὸ σῶμα ὕδατι ,",
+        "VUL": "et toto córpore in aquis vivéntibus ,",
+        "SP": "ו רחץ את בשׂרו ב מים חיים",
+        "KJV": "and bathe his flesh in running water ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and shall be clean",
+      "traditions": {
+        "WLC": "וְ טָהֵֽר",
+        "LXX": "καὶ καθαρὸς ἔσται .",
+        "VUL": "erit mundus .",
+        "SP": "ו טהר",
+        "KJV": "and shall be clean .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And on the eighth day he shall take to him two turtledoves , or two young pigeons",
+      "traditions": {
+        "WLC": "וּ בַ יּ֣וֹם הַ שְּׁמִינִ֗י יִֽקַּֽח ל וֹ֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה",
+        "LXX": "καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ λήμψεται ἑαυτῷ δύο τρυγόνας ἢ δύο νοσσοὺς περιστερῶν",
+        "VUL": "Die autem octávo sumet duos túrtures , aut duos pullos colúmbæ ,",
+        "SP": "ו ב יום ה שׁמיני יקח לו שׁתי תרים או שׁני בני יונה",
+        "KJV": "And on the eighth day he shall take to him two turtledoves , or two young pigeons ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and come before the LORD unto the door of the tabernacle of the congregation",
+      "traditions": {
+        "WLC": "וּ בָ֣א לִ פְנֵ֣י יְהוָ֗ה אֶל פֶּ֨תַח֙ אֹ֣הֶל מוֹעֵ֔ד",
+        "LXX": "καὶ οἴσει αὐτὰ ἔναντι Κυρίου ἐπὶ τὰς θύρας τῆς σκηνῆς τοῦ μαρτυρίου ,",
+        "VUL": "et véniet in conspéctum Dómini ad óstium tabernáculi testimónii ,",
+        "SP": "ו בא ל פני יהוה אל פתח אהל מועד",
+        "KJV": "and come before the LORD unto the door of the tabernacle of the congregation ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and give them unto the priest",
+      "traditions": {
+        "WLC": "וּ נְתָנָ֖ ם אֶל הַ כֹּהֵֽן",
+        "LXX": "καὶ δώσει αὐτὰ τῷ ἱερεῖ ·",
+        "VUL": "dabítque eos sacerdóti :",
+        "SP": "ו נתנם אל ה כהן",
+        "KJV": "and give them unto the priest :",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the priest shall offer them , the one [ for ] a sin offering , and the other [ for ] a burnt offering",
+      "traditions": {
+        "WLC": "וְ עָשָׂ֤ה אֹתָ ם֙ הַ כֹּהֵ֔ן אֶחָ֣ד חַטָּ֔את וְ הָ אֶחָ֖ד עֹלָ֑ה",
+        "LXX": "καὶ ποιήσει αὐτὰ ὁ ἱερεὺς μίαν περὶ ἁμαρτίας καὶ μίαν εἰς ὁλοκαύτωμα ,",
+        "VUL": "qui fáciet unum pro peccáto et álterum in holocáustum :",
+        "SP": "ו עשׂה אתם ה כהן אחד חטאת ו אחד עלה",
+        "KJV": "And the priest shall offer them , the one [ for ] a sin offering , and the other [ for ] a burnt offering ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the priest shall make an atonement for him before the LORD for his issue",
+      "traditions": {
+        "WLC": "וְ כִפֶּ֨ר עָלָ֧י ו הַ כֹּהֵ֛ן לִ פְנֵ֥י יְהוָ֖ה מִ זּוֹבֽ וֹ",
+        "LXX": "καὶ ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς ἔναντι Κυρίου ἀπὸ τῆς ῥύσεως αὐτοῦ .",
+        "VUL": "rogabítque pro eo coram Dómino , ut emundétur a fluxu séminis sui .",
+        "SP": "ו כפר עליו ה כהן ל פני יהוה מ זובו",
+        "KJV": "and the priest shall make an atonement for him before the LORD for his issue .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if any man ’s seed of copulation go out from him",
+      "traditions": {
+        "WLC": "וְ אִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖ נּוּ שִׁכְבַת זָ֑רַע",
+        "LXX": "Καὶ ἄνθρωπος ᾧ ἐὰν ἐξέλθῃ ἐξ αὐτοῦ κοίτη σπέρματος ,",
+        "VUL": "Vir de quo egréditur semen cóitus ,",
+        "SP": "ו אישׁ כי תצא ממנו שׁכבת זרע",
+        "KJV": "And if any man ’s seed of copulation go out from him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then he shall wash all his flesh in water",
+      "traditions": {
+        "WLC": "וְ רָחַ֥ץ בַּ מַּ֛יִם אֶת כָּל בְּשָׂר֖ וֹ",
+        "LXX": "καὶ λούσεται ὕδατι πᾶν τὸ σῶμα αὐτοῦ",
+        "VUL": "lavábit aqua omne corpus suum :",
+        "SP": "ו רחץ ב מים את כל בשׂרו",
+        "KJV": "then he shall wash all his flesh in water ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and be unclean until the even",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας ·",
+        "VUL": "et immúndus erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And every garment , and every skin , whereon is the seed of copulation",
+      "traditions": {
+        "WLC": "וְ כָל בֶּ֣גֶד וְ כָל ע֔וֹר אֲשֶׁר יִהְיֶ֥ה עָלָ֖י ו שִׁכְבַת זָ֑רַע",
+        "LXX": "καὶ πᾶν ἱμάτιον καὶ πᾶν δέρμα ἐφ᾽ ὃ ἐὰν ᾖ ἐπ᾽ αὐτὸ κοίτη σπέρματος ,",
+        "VUL": "Vestem et pellem , quam habúerit ,",
+        "SP": "ו כל בגד ו כל עור אשׁר יהיה עליו שׁכבת זרע",
+        "KJV": "And every garment , and every skin , whereon is the seed of copulation ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall be washed with water",
+      "traditions": {
+        "WLC": "וְ כֻבַּ֥ס בַּ מַּ֖יִם",
+        "LXX": "καὶ πλυθήσεται ὕδατι",
+        "VUL": "lavábit aqua ,",
+        "SP": "ו כבס ב מים",
+        "KJV": "shall be washed with water ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and be unclean until the even",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτον ἔσται ἕως ἑσπέρας .",
+        "VUL": "et immúnda erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "The woman also with whom man shall lie [ with ] seed of copulation",
+      "traditions": {
+        "WLC": "וְ אִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖ הּ שִׁכְבַת זָ֑רַע",
+        "LXX": "καὶ γυνή , ἐὰν κοιμηθῇ ἀνὴρ μετ᾽ αὐτῆς κοίτην σπέρματος ,",
+        "VUL": "Múlier , cum qua coíerit ,",
+        "SP": "ו אשׁה אשׁר ישׁכב אישׁה אתה שׁכבת זרע",
+        "KJV": "The woman also with whom man shall lie [ with ] seed of copulation ,",
+        "DSS": "[11Q2] [ איש את׳ה שכבת זר ]ע"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they shall [ both ] bathe [ themselves ] in water",
+      "traditions": {
+        "WLC": "וְ רָחֲצ֣וּ בַ מַּ֔יִם",
+        "LXX": "καὶ λούσονται ὕδατι",
+        "VUL": "lavábitur aqua ,",
+        "SP": "ו רחצו ב מים",
+        "KJV": "they shall [ both ] bathe [ themselves ] in water ,",
+        "DSS": "[11Q2] ו#?[  רחצו ב מים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and be unclean until the even",
+      "traditions": {
+        "WLC": "וְ טָמְא֖וּ עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτοι ἔσονται ἕως ἑσπέρας .",
+        "VUL": "et immúnda erit usque ad vésperum .",
+        "SP": "ו טמאו עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": "[11Q2] ו טמאו עד ה ערב ׃ / [4Q23] [ ה ערב ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if a woman have an issue , [ and ] her issue in her flesh be blood",
+      "traditions": {
+        "WLC": "וְ אִשָּׁה֙ כִּֽי תִהְיֶ֣ה זָבָ֔ה דָּ֛ם יִהְיֶ֥ה זֹבָ֖ הּ בִּ בְשָׂרָ֑ הּ",
+        "LXX": "Καὶ γυνὴ ἥτις ἐὰν ᾖ ῥέουσα αἵματι , ἔσται ἡ ῥύσις αὐτῆς ἐν τῷ σώματι αὐτῆς ,",
+        "VUL": "Múlier , quæ redeúnte mense pátitur fluxum sánguinis ,",
+        "SP": "ו אשׁה כי תהיה זבה דם יהיה זובה ב בשׂרה",
+        "KJV": "And if a woman have an issue , [ and ] her issue in her flesh be blood ,",
+        "DSS": "[11Q2] ו אשה כ#יא##[  תהיה  ]زبة דם[  יהיה זב׳ה ב בשר׳ה ] ׃ / [4Q23] ו אשה כי תהיה זבה דם יהיה זב׳ה ב בשר׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "she shall be put apart seven days",
+      "traditions": {
+        "WLC": "שִׁבְעַ֤ת יָמִים֙ תִּהְיֶ֣ה בְ נִדָּתָ֔ הּ",
+        "LXX": "ἑπτά ἡμέρας ἔσται ἐν τῇ ἀφέδρῳ αὐτῆς ·",
+        "VUL": "septem diébus separábitur .",
+        "SP": "שׁבעת ימים תהיה ב נדתה",
+        "KJV": "she shall be put apart seven days :",
+        "DSS": "[4Q23] שבעת ימים תהי ]ה ב נדת׳ה#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and whosoever toucheth her shall be unclean until the even",
+      "traditions": {
+        "WLC": "וְ כָל הַ נֹּגֵ֥עַ בָּ֖ הּ יִטְמָ֥א עַד הָ עָֽרֶב",
+        "LXX": "πᾶς ὁ ἁπτόμενος αὐτῆς ἀκάθαρτος ἔσται ἕως ἑσπέρας ,",
+        "VUL": null,
+        "SP": "כל ה נגע בה יטמא עד ה ערב",
+        "KJV": "and whosoever toucheth her shall be unclean until the even .",
+        "DSS": "[4Q23] ו כל ה נגע ב׳ה יטמא עד ה ערב ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And every thing that she lieth upon in her separation shall be unclean",
+      "traditions": {
+        "WLC": "וְ כֹל֩ אֲשֶׁ֨ר תִּשְׁכַּ֥ב עָלָ֛י ו בְּ נִדָּתָ֖ הּ יִטְמָ֑א",
+        "LXX": "καὶ πᾶν ἐφ᾽ ὃ ἂν κοιτάζηται ἐπ᾽ αὐτὸ ἐν τῇ ἀφέδρῳ αὐτῆς ἀκάθαρτον ἔσται ,",
+        "VUL": "Omnis qui tetígerit eam , immúndus erit usque ad vésperum :",
+        "SP": "ו כל אשׁר תשׁכב עליו ב נדתה יטמא",
+        "KJV": "And every thing that she lieth upon in her separation shall be unclean :",
+        "DSS": "[4Q23] ו כל אשר תשכב עלי׳ו ב נדת׳ה י ]ט#מא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "every thing also that she sitteth upon shall be unclean",
+      "traditions": {
+        "WLC": "וְ כֹ֛ל אֲשֶׁר תֵּשֵׁ֥ב עָלָ֖י ו יִטְמָֽא",
+        "LXX": "καὶ πᾶν ἐφ᾽ ὃ ἂν ἐπικαθίσῃ ἐπ᾽ αὐτὸ ἀκάθαρτον ἔσται .",
+        "VUL": null,
+        "SP": "ו כל אשׁר תשׁב עליו יטמא",
+        "KJV": "every thing also that she sitteth upon shall be unclean .",
+        "DSS": "[4Q23] ו כל אש[ ר ] [ תשב עלי׳ו יטמא ׃ / [4Q26] [ יטמא ו כול  ]א##ש##[ ר תשב עלי׳ו יטמא ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And whosoever toucheth her bed",
+      "traditions": {
+        "WLC": "וְ כָל הַ נֹּגֵ֖עַ בְּ מִשְׁכָּבָ֑ הּ",
+        "LXX": "καὶ πᾶς ὃς ἐὰν ἅψηται τῆς κοίτης αὐτῆς",
+        "VUL": "et in quo dormíerit vel séderit diébus separatiónis suæ ,",
+        "SP": "ו כל ה נגע ב משׁכבה",
+        "KJV": "And whosoever toucheth her bed",
+        "DSS": "[4Q23] ו כל ה נגע ב משכב׳ה / [4Q26] ו כול ה נגע ב משכב׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall wash his clothes",
+      "traditions": {
+        "WLC": "יְכַבֵּ֧ס בְּגָדָ֛י",
+        "LXX": "πλυνεῖ τὰ ἱμάτια αὐτοῦ",
+        "VUL": "polluétur .",
+        "SP": "יכבס בגדיו",
+        "KJV": "shall wash his clothes ,",
+        "DSS": "[4Q23] יכבס בגדי׳ו / [4Q26] יכבס בגדי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and bathe [ himself ] in water",
+      "traditions": {
+        "WLC": "ו וְ רָחַ֥ץ בַּ מַּ֖יִם",
+        "LXX": "καὶ λούσεται τὸ σῶμα αὐτοῦ ὕδατι ,",
+        "VUL": null,
+        "SP": "ו רחץ ב מים",
+        "KJV": "and bathe [ himself ] in water ,",
+        "DSS": "[4Q23] ו רחץ ב מי ]ם / [4Q26] ו רחץ ב מים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and be unclean until the even",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας .",
+        "VUL": null,
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": "[4Q23] ו טמא עד ה ע[ רב ׃ / [4Q26] ו ט ]מ#א# עד ה ע#רב ׃"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And whosoever toucheth any thing that she sat upon",
+      "traditions": {
+        "WLC": "וְ כָל הַ נֹּגֵ֔עַ בְּ כָל כְּלִ֖י אֲשֶׁר תֵּשֵׁ֣ב עָלָ֑י ו",
+        "LXX": "καὶ πᾶς ὁ ἁπτόμενος παντὸς σκεύους οὗ ἐὰν καθίσῃ ἐπ᾽ αὐτὸ",
+        "VUL": "Qui tetígerit lectum eius ,",
+        "SP": "ו כל ה נגע ב כל ה כלי אשׁר תשׁב עליו",
+        "KJV": "And whosoever toucheth any thing that she sat upon",
+        "DSS": "[4Q23] [ ו כל ה נגע ב כל כלי אשר תשב עלי׳ו / [4Q26] ו? כול ה נ#?ג#?[ ע ב כול כלי אשר תשב עלי׳ו ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall wash his clothes",
+      "traditions": {
+        "WLC": "יְכַבֵּ֧ס בְּגָדָ֛י",
+        "LXX": "πλυνεῖ τὰ ἱμάτια αὐτοῦ",
+        "VUL": "lavábit vestiménta sua :",
+        "SP": "יכבס בגדיו",
+        "KJV": "shall wash his clothes ,",
+        "DSS": "[4Q23] יכבס בגדי׳ו / [4Q26] [ יכבס בג ]ד##[ י׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and bathe [ himself ] in water",
+      "traditions": {
+        "WLC": "ו וְ רָחַ֥ץ בַּ מַּ֖יִם",
+        "LXX": "καὶ λούσεται ὕδατι ,",
+        "VUL": "et ipse lotus aqua ,",
+        "SP": "ו רחץ ב מים",
+        "KJV": "and bathe [ himself ] in water ,",
+        "DSS": "[4Q23] ו רחץ ב מים / [4Q26] ו רחץ  ]ב מ[ ים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and be unclean until the even",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας .",
+        "VUL": "immúndus erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": "[4Q23] טמא עד ה ערב ׃ / [4Q26] ו#? ט##מ##א עד ה ע##[ רב ׃"
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if it [ be ] on [ her ] bed",
+      "traditions": {
+        "WLC": "וְ אִ֨ם עַֽל הַ מִּשְׁכָּ֜ב ה֗וּא",
+        "LXX": "ἐὰν δὲ ἐν τῇ κοίτῃ αὐτῆς οὔσης",
+        "VUL": "Omne vas ,",
+        "SP": "ו אם על ה משׁכבה היא",
+        "KJV": "And if it [ be ] on [ her ] bed ,",
+        "DSS": "[4Q23] [ ו אם על ה משכב הוא / [4Q26] ו אם על ה משכב הוא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or on any thing whereon she sitteth",
+      "traditions": {
+        "WLC": "א֧וֹ עַֽל הַ כְּלִ֛י אֲשֶׁר הִ֥וא יֹשֶֽׁבֶת עָלָ֖י ו",
+        "LXX": "ἢ ἐπὶ τοῦ σκεύους οὗ ἐὰν καθίσῃ ἐπ᾽ αὐτῷ",
+        "VUL": "super quo illa séderit ,",
+        "SP": "או על ה כלי אשׁר היא ישׁבת עליו",
+        "KJV": "or on any thing whereon she sitteth ,",
+        "DSS": "[4Q23] או על ה כלי אשר היא ישבת עלי׳ו / [4Q26] או על ] [ ה כלי אשר הוא ישבת עלי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "when he toucheth it",
+      "traditions": {
+        "WLC": "בְּ נָגְע וֹ ב֑ וֹ",
+        "LXX": "ἐν τῷ ἅπτεσθαι αὐτὸν αὐτῆς ,",
+        "VUL": "quisquis attígerit ,",
+        "SP": "ב נגעו בו",
+        "KJV": "when he toucheth it ,",
+        "DSS": "[4Q23] ב נגע׳ו  ]ב׳ו / [4Q26] ב נגע׳ו ב׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "he shall be unclean until the even",
+      "traditions": {
+        "WLC": "יִטְמָ֖א עַד הָ עָֽרֶב",
+        "LXX": "ἀκάθαρτον ἔσται ἕως ἑσπέρας .",
+        "VUL": "lavábit vestiménta sua : et ipse lotus aqua , pollútus erit usque ad vésperum .",
+        "SP": "יטמא עד ה ערב",
+        "KJV": "he shall be unclean until the even .",
+        "DSS": "[4Q23] יטמא עד [ ה ערב ׃ / [4Q26] יטמא עד ה ער ]ב## ׃"
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if any man lie with her at all",
+      "traditions": {
+        "WLC": "וְ אִ֡ם שָׁכֹב֩ יִשְׁכַּ֨ב אִ֜ישׁ אֹתָ֗ הּ",
+        "LXX": "ἐὰν δὲ κοίτῃ τις κοιμηθῇ μετ᾽ αὐτῆς ,",
+        "VUL": "Si coíerit cum ea vir",
+        "SP": "ו אם שׁכב ישׁכב אישׁה אתה",
+        "KJV": "And if any man lie with her at all ,",
+        "DSS": "[4Q23] ו אם שכב ישכב איש את׳ה / [4Q26] ו#? [ א ]ם ש#[ כב ישכב ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and her flowers be upon him",
+      "traditions": {
+        "WLC": "וּ תְהִ֤י נִדָּתָ הּ֙ עָלָ֔י",
+        "LXX": "καὶ γένηται ἡ ἀκαθαρσία αὐτῆς ἐπ᾽ αὐτῷ ,",
+        "VUL": "témpore sánguinis menstruális ,",
+        "SP": "ו תהי נדתה עליו",
+        "KJV": "and her flowers be upon him ,",
+        "DSS": "[4Q23] ו תהי נדת׳ה עלי׳ו / [4Q26] null"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he shall be unclean seven days",
+      "traditions": {
+        "WLC": "ו וְ טָמֵ֖א שִׁבְעַ֣ת יָמִ֑ים",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἑπτὰ ἡμέρας ·",
+        "VUL": "immúndus erit septem diébus :",
+        "SP": "יטמא שׁבעת ימים",
+        "KJV": "he shall be unclean seven days ;",
+        "DSS": "[4Q23] ו טמא שבעת  ]י#?מ##י#?[ ם / [4Q26] null"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and all the bed whereon he lieth shall be unclean",
+      "traditions": {
+        "WLC": "וְ כָל הַ מִּשְׁכָּ֛ב אֲשֶׁר יִשְׁכַּ֥ב עָלָ֖י ו יִטְמָֽא",
+        "LXX": "καὶ πᾶσα κοίτη ἐφ᾽ ᾗ ἂν κοιμηθῇ ἐπ᾽ αὐτῆς ἀκάθαρτος ἔσται .",
+        "VUL": "et omne stratum , in quo dormíerit , polluétur .",
+        "SP": "ו כל ה משׁכב אשׁר ישׁכב עליו יטמא",
+        "KJV": "and all the bed whereon he lieth shall be unclean .",
+        "DSS": "[4Q23] ו כ ]ל# / [4Q26] null"
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if a woman have an issue of her blood many days out of the time of her separation",
+      "traditions": {
+        "WLC": "וְ אִשָּׁ֡ה כִּֽי יָזוּב֩ ז֨וֹב דָּמָ֜ הּ יָמִ֣ים רַבִּ֗ים בְּ לֹא֙ עֶת נִדָּתָ֔ הּ",
+        "LXX": "Καὶ γυνὴ ἐὰν ῥέῃ ῥύσει αἵματος ἡμέρας πλείους οὐκ ἐν καιρῷ τῆς ἀφέδρου αὐτῆς ,",
+        "VUL": "Múlier , quæ pátitur multis diébus fluxum sánguinis non in témpore menstruáli ,",
+        "SP": "ו אשׁה כי יזוב זוב דמה ימים רבים ב לא עת נדתה",
+        "KJV": "And if a woman have an issue of her blood many days out of the time of her separation ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or if it run beyond the time of her separation",
+      "traditions": {
+        "WLC": "א֥וֹ כִֽי תָז֖וּב עַל נִדָּתָ֑ הּ",
+        "LXX": "ἐὰν καὶ ῥέῃ μετὰ τὴν ἄφεδρον αὐτῆς ,",
+        "VUL": "vel quæ post ménstruum sánguinem flúere non cessat ,",
+        "SP": "או כי תזוב על נדתה",
+        "KJV": "or if it run beyond the time of her separation ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "all the days of the issue of her uncleanness shall be as the days of her separation",
+      "traditions": {
+        "WLC": "כָּל יְמֵ֞י ז֣וֹב טֻמְאָתָ֗ הּ כִּ ימֵ֧י נִדָּתָ֛ הּ",
+        "LXX": "πᾶσαι αἱ ἡμέραι ῥύσεως ἀκαθαρσίας αὐτῆς καθάπερ αἱ ἡμέραι τῆς ἀφέδρου ,",
+        "VUL": "quámdiu súbiacet huic passióni , immúnda erit quasi sit in témpore ménstruo .",
+        "SP": "כל ימי זוב טמאתה כ ימי נדתה",
+        "KJV": "all the days of the issue of her uncleanness shall be as the days of her separation :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "she [ shall be ] unclean",
+      "traditions": {
+        "WLC": "תִּהְיֶ֖ה טְמֵאָ֥ה הִֽוא",
+        "LXX": "ἀκάθαρτος ἔσται .",
+        "VUL": null,
+        "SP": "תהיה טמאה היא",
+        "KJV": "she [ shall be ] unclean .",
+        "DSS": null
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation",
+      "traditions": {
+        "WLC": "כָּל הַ מִּשְׁכָּ֞ב אֲשֶׁר תִּשְׁכַּ֤ב עָלָי ו֙ כָּל יְמֵ֣י זוֹבָ֔ הּ כְּ מִשְׁכַּ֥ב נִדָּתָ֖ הּ יִֽהְיֶה לָּ֑ הּ",
+        "LXX": null,
+        "VUL": "Omne stratum , in quo dormíerit ,",
+        "SP": "כל ה משׁכב אשׁר תשׁכב עליו כל ימי זובה כ משׁכב נדתה יהיה לה",
+        "KJV": "Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and whatsoever she sitteth upon shall be unclean",
+      "traditions": {
+        "WLC": "וְ כָֽל הַ כְּלִי֙ אֲשֶׁ֣ר תֵּשֵׁ֣ב עָלָ֔י ו טָמֵ֣א יִהְיֶ֔ה",
+        "LXX": null,
+        "VUL": "et vas in quo séderit , pollútum erit .",
+        "SP": "ו כל ה כלי אשׁר תשׁב עליו טמא יהיה",
+        "KJV": "and whatsoever she sitteth upon shall be unclean ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "as the uncleanness of her separation",
+      "traditions": {
+        "WLC": "כְּ טֻמְאַ֖ת נִדָּתָֽ הּ",
+        "LXX": null,
+        "VUL": null,
+        "SP": "כ טמאת נדתה",
+        "KJV": "as the uncleanness of her separation .",
+        "DSS": null
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "And whosoever toucheth those things shall be unclean",
+      "traditions": {
+        "WLC": "וְ כָל הַ נּוֹגֵ֥עַ בָּ֖ ם יִטְמָ֑א",
+        "LXX": "πᾶς ὁ ἁπτόμενος αὐτῆς ἀκάθαρτος ἔσται ,",
+        "VUL": "Quicúmque tetígerit ea ,",
+        "SP": "כל ה נגע בם יטמא",
+        "KJV": "And whosoever toucheth those things shall be unclean ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall wash his clothes",
+      "traditions": {
+        "WLC": "וְ כִבֶּ֧ס בְּגָדָ֛י",
+        "LXX": "καὶ πλυνεῖ τὰ ἱμάτια",
+        "VUL": "lavábit vestiménta sua :",
+        "SP": "ו כבס בגדיו",
+        "KJV": "and shall wash his clothes ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and bathe [ himself ] in water",
+      "traditions": {
+        "WLC": "ו וְ רָחַ֥ץ בַּ מַּ֖יִם",
+        "LXX": "καὶ λούσεται τὸ σῶμα ὕδατι ,",
+        "VUL": "et ipse lotus aqua ,",
+        "SP": "ו רחץ ב מים",
+        "KJV": "and bathe [ himself ] in water ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and be unclean until the even",
+      "traditions": {
+        "WLC": "וְ טָמֵ֥א עַד הָ עָֽרֶב",
+        "LXX": "καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας .",
+        "VUL": "immúndus erit usque ad vésperum .",
+        "SP": "ו טמא עד ה ערב",
+        "KJV": "and be unclean until the even .",
+        "DSS": null
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "But if she be cleansed of her issue",
+      "traditions": {
+        "WLC": "וְ אִֽם טָהֲרָ֖ה מִ זּוֹבָ֑ הּ",
+        "LXX": "ἐὰν δὲ καθαρισθῇ ἀπὸ τῆς ῥύσεως ,",
+        "VUL": "Si stéterit sanguis , et flúere cessáverit ,",
+        "SP": "ו אם טהרה מ זובה",
+        "KJV": "But if she be cleansed of her issue ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then she shall number to herself seven days",
+      "traditions": {
+        "WLC": "וְ סָ֥פְרָה לָּ֛ הּ שִׁבְעַ֥ת יָמִ֖ים",
+        "LXX": "καὶ ἐξαριθμήσεται αὐτῇ ἑπτὰ ἡμέρας ,",
+        "VUL": "numerábit septem dies purificatiónis suæ :",
+        "SP": "ו ספרה לה שׁבעת ימים",
+        "KJV": "then she shall number to herself seven days ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and after that she shall be clean",
+      "traditions": {
+        "WLC": "וְ אַחַ֥ר תִּטְהָֽר",
+        "LXX": "καὶ μετὰ ταῦτα καθαρισθήσεται .",
+        "VUL": null,
+        "SP": "ו אחר תטהר",
+        "KJV": "and after that she shall be clean .",
+        "DSS": null
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "And on the eighth day she shall take unto her two turtles , or two young pigeons",
+      "traditions": {
+        "WLC": "וּ בַ יּ֣וֹם הַ שְּׁמִינִ֗י תִּֽקַּֽח לָ הּ֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה",
+        "LXX": "καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ λήμψεται αὑτῇ δύο τρυγόνας ἢ δύο νοσσοὺς περιστερῶν ,",
+        "VUL": "et die octávo ófferet pro se sacerdóti duos túrtures , aut duos pullos columbárum ,",
+        "SP": "ו ב יום ה שׁמיני תקח לה שׁתי תרים או שׁני בני יונה",
+        "KJV": "And on the eighth day she shall take unto her two turtles , or two young pigeons ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and bring them unto the priest",
+      "traditions": {
+        "WLC": "וְ הֵבִיאָ֤ה אוֹתָ ם֙ אֶל הַ כֹּהֵ֔ן",
+        "LXX": "καὶ οἴσει αὐτὰ πρὸς τὸν ἱερέα",
+        "VUL": "ad óstium tabernáculi testimónii :",
+        "SP": "ו הביאה אתם אל ה כהן",
+        "KJV": "and bring them unto the priest ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to the door of the tabernacle of the congregation",
+      "traditions": {
+        "WLC": "אֶל פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד",
+        "LXX": "ἐπὶ τὴν θύραν τῆς σκηνῆς τοῦ μαρτυρίου ·",
+        "VUL": null,
+        "SP": "אל פתח אהל מועד",
+        "KJV": "to the door of the tabernacle of the congregation .",
+        "DSS": null
+      }
+    }
+  ],
+  "30": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the priest shall offer the one [ for ] a sin offering",
+      "traditions": {
+        "WLC": "וְ עָשָׂ֤ה הַ כֹּהֵן֙ אֶת הָ אֶחָ֣ד חַטָּ֔את",
+        "LXX": "καὶ ποιήσει ὁ ἱερεὺς τὴν μίαν περὶ ἁμαρτίας",
+        "VUL": "qui unum fáciet pro peccáto ,",
+        "SP": "ו עשׂה ה כהן את ה אחד חטאת",
+        "KJV": "And the priest shall offer the one [ for ] a sin offering ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the other [ for ] a burnt offering",
+      "traditions": {
+        "WLC": "וְ אֶת הָ אֶחָ֖ד עֹלָ֑ה",
+        "LXX": "καὶ τὴν μίαν εἰς ὁλοκαύτωμα ,",
+        "VUL": "et álterum in holocáustum ,",
+        "SP": "ו את ה אחד עלה",
+        "KJV": "and the other [ for ] a burnt offering ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the priest shall make an atonement for her before the LORD for the issue of her uncleanness",
+      "traditions": {
+        "WLC": "וְ כִפֶּ֨ר עָלֶ֤י הָ הַ כֹּהֵן֙ לִ פְנֵ֣י יְהוָ֔ה מִ זּ֖וֹב טֻמְאָתָֽ הּ",
+        "LXX": "καὶ ἐξιλάσεται περὶ αὐτῆς ὁ ἱερεὺς ἔναντι Κυρίου ἀπὸ ῥύσεως ἀκαθαρσίας αὐτῆς .",
+        "VUL": "rogabítque pro ea coram Dómino , et pro fluxu immundítiæ eius .",
+        "SP": "ו כפר עליה ה כהן ל פני יהוה מ זוב טמאתה",
+        "KJV": "and the priest shall make an atonement for her before the LORD for the issue of her uncleanness .",
+        "DSS": null
+      }
+    }
+  ],
+  "31": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus shall ye separate the children of Israel from their uncleanness",
+      "traditions": {
+        "WLC": "וְ הִזַּרְתֶּ֥ם אֶת בְּנֵי יִשְׂרָאֵ֖ל מִ טֻּמְאָתָ֑ ם",
+        "LXX": "Καὶ εὐλαβεῖς ποιήσετε τοὺς υἱοὺς Ἰσραὴλ ἀπὸ τῶν ἀκαθαρσιῶν αὐτῶν ,",
+        "VUL": "Docébitis ergo fílios Israel ut cáveant immundítiam ,",
+        "SP": "ו הזהרתם את בני ישׂראל מ טמאתם",
+        "KJV": "Thus shall ye separate the children of Israel from their uncleanness ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that they die not in their uncleanness",
+      "traditions": {
+        "WLC": "וְ לֹ֤א יָמֻ֨תוּ֙ בְּ טֻמְאָתָ֔ ם",
+        "LXX": "καὶ οὐκ ἀποθανοῦνται διὰ τὴν ἀκαθαρσίαν αὐτῶν ,",
+        "VUL": "et non moriántur in sórdibus suis ,",
+        "SP": "ו לא ימותו ב טמאתם",
+        "KJV": "that they die not in their uncleanness ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "when they defile my tabernacle that [ is ] among them",
+      "traditions": {
+        "WLC": "בְּ טַמְּאָ֥ ם אֶת מִשְׁכָּנִ֖ י אֲשֶׁ֥ר בְּ תוֹכָֽ ם",
+        "LXX": "ἐν τῷ μιαίνειν αὐτοὺς τὴν σκηνήν μου τὴν ἐν αὐτοῖς .",
+        "VUL": "cum pollúerint tabernáculum meum quod est inter eos .",
+        "SP": "ב טמאם את משׁכני אשׁר ב תוכם",
+        "KJV": "when they defile my tabernacle that [ is ] among them .",
+        "DSS": null
+      }
+    }
+  ],
+  "32": [
+    {
+      "thought_id": 1,
+      "english_reference": "This [ is ] the law of him that hath an issue",
+      "traditions": {
+        "WLC": "זֹ֥את תּוֹרַ֖ת הַ זָּ֑ב",
+        "LXX": "οὗτος ὁ νόμος τοῦ γονορρυοῦς ,",
+        "VUL": "Ista est lex eius , qui pátitur fluxum séminis ,",
+        "SP": "זאת תורת ה זב",
+        "KJV": "This [ is ] the law of him that hath an issue ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ of him ] whose seed goeth from him , and is defiled therewith",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֨ר תֵּצֵ֥א מִמֶּ֛ נּוּ שִׁכְבַת זֶ֖רַע לְ טָמְאָה בָֽ הּ",
+        "LXX": "καὶ ἐάν τινι ἐξέλθῃ ἐξ αὐτοῦ κοίτη σπέρματος ὥστε μιανθῆναι ἐν αὐτῇ ·",
+        "VUL": "et qui pollúitur cóitu ,",
+        "SP": "ו אשׁר תצא ממנו שׁכבת זרע ל טמאה בה",
+        "KJV": "and [ of him ] whose seed goeth from him , and is defiled therewith ;",
+        "DSS": null
+      }
+    }
+  ],
+  "33": [
+    {
+      "thought_id": 1,
+      "english_reference": "And of her that is sick of her flowers",
+      "traditions": {
+        "WLC": "וְ הַ דָּוָה֙ בְּ נִדָּתָ֔ הּ",
+        "LXX": "καὶ τῇ αἱμορροούσῃ ἐν τῇ ἀφέδρῳ αὐτῆς ,",
+        "VUL": "et quæ ménstruis tempóribus separátur , vel quæ iugi fluit sánguine ,",
+        "SP": "ו ה דוה ב נדתה",
+        "KJV": "And of her that is sick of her flowers ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and of him that hath an issue , of the man , and of the woman",
+      "traditions": {
+        "WLC": "וְ הַ זָּב֙ אֶת זוֹב֔ וֹ לַ זָּכָ֖ר וְ לַ נְּקֵבָ֑ה",
+        "LXX": "καὶ ὁ γονορρυὴς ἐν τῇ ῥύσει αὐτοῦ , τῷ ἄρσενι ἢ τῇ θηλείᾳ ,",
+        "VUL": null,
+        "SP": "ו ה זב את זובו ל זכר ו ל נקבה",
+        "KJV": "and of him that hath an issue , of the man , and of the woman ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and of him that lieth with her that is unclean",
+      "traditions": {
+        "WLC": "וּ לְ אִ֕ישׁ אֲשֶׁ֥ר יִשְׁכַּ֖ב עִם טְמֵאָֽה",
+        "LXX": "καὶ τῷ ἀνδρὶ ὃς ἂν κοιμηθῇ μετὰ ἀποκαθημένης .",
+        "VUL": "et hóminis , qui dormíerit cum ea .",
+        "SP": "ו ל אישׁ אשׁר ישׁכב עם טמאה",
+        "KJV": "and of him that lieth with her that is unclean .",
+        "DSS": null
+      }
+    }
+  ]
+}

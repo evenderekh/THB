@@ -1,0 +1,854 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now these [ are ] the kings of the land",
+      "traditions": {
+        "WLC": "וְ אֵ֣לֶּה מַלְכֵ֣י הָ אָ֗רֶץ",
+        "LXX": "Καὶ οὗτοι οἱ βασιλεῖς τῆς γῆς",
+        "VUL": "Hi sunt reges ,",
+        "SP": null,
+        "KJV": "Now these [ are ] the kings of the land ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which the children of Israel smote",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר הִכּ֤וּ בְנֵֽי יִשְׂרָאֵל֙",
+        "LXX": "οὓς ἀνεῖλον οἱ υἱοὶ Ἰσρηὰλ",
+        "VUL": "quos percussérunt fílii Israel ,",
+        "SP": null,
+        "KJV": "which the children of Israel smote ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and possessed their land on the other side Jordan toward the rising of the sun",
+      "traditions": {
+        "WLC": "וַ יִּֽרְשׁ֣וּ אֶת אַרְצָ֔ ם בְּ עֵ֥בֶר הַ יַּרְדֵּ֖ן מִזְרְחָ֣ ה הַ שָּׁ֑מֶשׁ",
+        "LXX": "καὶ κατεκληρονόμησαν τὴν γῆν αὐτῶν πέραν τοῦ Ἰορδάνου ἀφ᾽ ἡλίου ἀνατολῶν ,",
+        "VUL": "et possedérunt terram eórum trans Iordánem ad solis ortum ,",
+        "SP": null,
+        "KJV": "and possessed their land on the other side Jordan toward the rising of the sun ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "from the river Arnon unto mount Hermon",
+      "traditions": {
+        "WLC": "מִ נַּ֤חַל אַרְנוֹן֙ עַד הַ֣ר חֶרְמ֔וֹן",
+        "LXX": "ἀπὸ φάραγγος Ἀρνὼν ἕως τοῦ ὄρους Ἁερμών ,",
+        "VUL": "a torrénte Arnon usque ad montem Hermon ,",
+        "SP": null,
+        "KJV": "from the river Arnon unto mount Hermon ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and all the plain on the east",
+      "traditions": {
+        "WLC": "וְ כָל הָ עֲרָבָ֖ה מִזְרָֽחָ ה",
+        "LXX": "καὶ πᾶσαν τὴν γῆν Ἁραβὰ ἀπ᾽ ἀνατολῶν ·",
+        "VUL": "et omnem orientálem plagam , quæ réspicit solitúdinem .",
+        "SP": null,
+        "KJV": "and all the plain on the east :",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Sihon king of the Amorites",
+      "traditions": {
+        "WLC": "סִיחוֹן֙ מֶ֣לֶךְ הָ אֱמֹרִ֔י",
+        "LXX": "Σηὼν τὸν βασιλέα τῶν Ἁμορραίων ,",
+        "VUL": "Sehon rex Amorrhæórum ,",
+        "SP": null,
+        "KJV": "Sihon king of the Amorites ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "who dwelt in Heshbon",
+      "traditions": {
+        "WLC": "הַ יּוֹשֵׁ֖ב בְּ חֶשְׁבּ֑וֹן",
+        "LXX": "ὃς κατῴκει ἐν Ἐσεβών ,",
+        "VUL": "qui habitávit in Hésebon ,",
+        "SP": null,
+        "KJV": "who dwelt in Heshbon , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "ruled from Aroer , which [ is ] upon the bank of the river Arnon",
+      "traditions": {
+        "WLC": "מֹשֵׁ֡ל מֵ עֲרוֹעֵ֡ר אֲשֶׁר֩ עַל שְׂפַת נַ֨חַל אַרְנ֜וֹן",
+        "LXX": "κυριεύων ἀπὸ Ἀρνών , ἥ ἐστιν ἐν τῇ φάραγγι κατὰ μέρος τῆς φάραγγος ,",
+        "VUL": "dominátus est ab Aroer , quæ sita est super ripam torréntis Arnon ,",
+        "SP": null,
+        "KJV": "ruled from Aroer , which [ is ] upon the bank of the river Arnon ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and from the middle of the river",
+      "traditions": {
+        "WLC": "וְ ת֤וֹךְ הַ נַּ֨חַל֙",
+        "LXX": null,
+        "VUL": "et médiæ partis in valle ,",
+        "SP": null,
+        "KJV": "and from the middle of the river ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and from half Gilead",
+      "traditions": {
+        "WLC": "וַ חֲצִ֣י הַ גִּלְעָ֔ד",
+        "LXX": "καὶ τὸ ἥμισυ τῆς Γαλαὰδ",
+        "VUL": "dimidiǽque Gálaad ,",
+        "SP": null,
+        "KJV": "and from half Gilead ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "even unto the river Jabbok , [ which is ] the border of the children of Ammon",
+      "traditions": {
+        "WLC": "וְ עַד֙ יַבֹּ֣ק הַ נַּ֔חַל גְּב֖וּל בְּנֵ֥י עַמּֽוֹן",
+        "LXX": "ἕως Ἰαβόκ , ὅρια υἱῶν Ἀμμών ,",
+        "VUL": "usque ad torréntem Iaboc , qui est términus filiórum Ammon .",
+        "SP": null,
+        "KJV": "even unto the river Jabbok , [ which is ] the border of the children of Ammon ;",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And from the plain to the sea of Chinneroth on the east",
+      "traditions": {
+        "WLC": "וְ הָ עֲרָבָה֩ עַד יָ֨ם כִּנְר֜וֹת מִזְרָ֗חָ ה",
+        "LXX": "καὶ Ἀραβὰ ἕως τῆς θαλάσσης Χενέρεθ κατ᾽ ἀνατολὰς",
+        "VUL": "Et a solitúdine usque ad mare Céneroth contra oriéntem ,",
+        "SP": null,
+        "KJV": "And from the plain to the sea of Chinneroth on the east ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and unto the sea of the plain , [ even ] the salt sea on the east",
+      "traditions": {
+        "WLC": "וְ֠ עַד יָ֣ם הָ עֲרָבָ֤ה יָם הַ מֶּ֨לַח֙ מִזְרָ֔חָ ה",
+        "LXX": "καὶ ἕως τῆς θαλάσσης Ἀραβά , θάλασσαν τῶν ἁλῶν ἀπὸ ἀνατολῶν",
+        "VUL": "et usque ad mare desérti , quod est mare salsíssimum , ad orientálem plagam",
+        "SP": null,
+        "KJV": "and unto the sea of the plain , [ even ] the salt sea on the east ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the way to Bethjeshimoth",
+      "traditions": {
+        "WLC": "דֶּ֖רֶךְ בֵּ֣ית הַיְשִׁמ֑וֹת",
+        "LXX": "ὁδὸν τὴν κατὰ Ἁσειμώθ ,",
+        "VUL": "per viam quæ ducit Béthsimoth :",
+        "SP": null,
+        "KJV": "the way to Bethjeshimoth ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and from the south , under Ashdothpisgah",
+      "traditions": {
+        "WLC": "וּ מִ֨ תֵּימָ֔ן תַּ֖חַת אַשְׁדּ֥וֹת הַ פִּסְגָּֽה",
+        "LXX": "ἀπὸ Θαιμὰν τὴν ὑπὸ Μηδὼθ Φασγά ·",
+        "VUL": "et ab austráli parte , quæ súbiacet Asedoth , Phasga .",
+        "SP": null,
+        "KJV": "and from the south , under Ashdothpisgah :",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the coast of Og king of Bashan",
+      "traditions": {
+        "WLC": "וּ גְב֗וּל ע֚וֹג מֶ֣לֶךְ הַ בָּשָׁ֔ן",
+        "LXX": "καὶ Ὢγ βασιλεὺς Βασὰ",
+        "VUL": "Términus Og regis Basan ,",
+        "SP": null,
+        "KJV": "And the coast of Og king of Bashan , [ which was ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ which was ] of the remnant of the giants",
+      "traditions": {
+        "WLC": "מִ יֶּ֖תֶר הָ רְפָאִ֑ים",
+        "LXX": "ὑπελείφθη ἐκ τῶν γιγάντων ,",
+        "VUL": "de relíquiis Ráphaim ,",
+        "SP": null,
+        "KJV": "of the remnant of the giants ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that dwelt at Ashtaroth and at Edrei",
+      "traditions": {
+        "WLC": "הַ יּוֹשֵׁ֥ב בְּ עַשְׁתָּר֖וֹת וּ בְ אֶדְרֶֽעִי",
+        "LXX": "ὁ κατοικῶν ἐν Ἀσταρὼθ καὶ ἐν Ἐδράειν ,",
+        "VUL": "qui habitávit in Astaroth , et in Edrai ,",
+        "SP": null,
+        "KJV": "that dwelt at Ashtaroth and at Edrei ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "et dominátus est in monte Hermon , et in Sálecha , atque in univérsa Basan , usque ad términes",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And reigned in mount Hermon",
+      "traditions": {
+        "WLC": "וּ֠ מֹשֵׁל בְּ הַ֨ר חֶרְמ֤וֹן",
+        "LXX": "ἄρχων ἀπὸ ὄρους Ἁερμὼν",
+        "VUL": null,
+        "SP": null,
+        "KJV": "And reigned in mount Hermon ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and in Salcah",
+      "traditions": {
+        "WLC": "וּ בְ סַלְכָה֙",
+        "LXX": "καὶ ἀπὸ Σεκχαί ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "and in Salcah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and in all Bashan",
+      "traditions": {
+        "WLC": "וּ בְ כָל הַ בָּשָׁ֔ן",
+        "LXX": "καὶ πᾶσαν τὴν Βασὰν",
+        "VUL": null,
+        "SP": null,
+        "KJV": "and in all Bashan ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "unto the border of the Geshurites and the Maachathites",
+      "traditions": {
+        "WLC": "עַד גְּב֥וּל הַ גְּשׁוּרִ֖י וְ הַ מַּעֲכָתִ֑י",
+        "LXX": "ἕως ὁρίων Γεργεσεὶ καὶ τὴν Μαχεὶ",
+        "VUL": "Géssuri , et Macháti ,",
+        "SP": null,
+        "KJV": "unto the border of the Geshurites and the Maachathites ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and half Gilead , the border of Sihon king of Heshbon",
+      "traditions": {
+        "WLC": "וַ חֲצִי֙ הַ גִּלְעָ֔ד גְּב֖וּל סִיח֥וֹן מֶֽלֶךְ חֶשְׁבּֽוֹן",
+        "LXX": "καὶ τὸ ἥμισυ Γαλαάδ , ὁρίων Σηὼν βασιλέως Ἑσεβών .",
+        "VUL": "et dimídiæ partis Gálaad : términes Sehon regis Hésebon .",
+        "SP": null,
+        "KJV": "and half Gilead , the border of Sihon king of Heshbon .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Them did Moses the servant of the LORD and the children of Israel smite",
+      "traditions": {
+        "WLC": "מֹשֶׁ֧ה עֶֽבֶד יְהוָ֛ה וּ בְנֵ֥י יִשְׂרָאֵ֖ל הִכּ֑וּ ם",
+        "LXX": "Μωυσῆς ὁ παῖς Κυρίου καὶ οἱ υἱοὶ Ἰσραὴλ ἐπάταξαν αὐτούς ·",
+        "VUL": "Móyses fámulus Dómini , et fílii Israel percussérunt eos ,",
+        "SP": null,
+        "KJV": "Them did Moses the servant of the LORD and the children of Israel smite :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Moses the servant of the LORD gave it [ for ] a possession unto the Reubenites , and the Gadites , and the half tribe of Manasseh",
+      "traditions": {
+        "WLC": "וַֽ֠ יִּתְּנָ הּ מֹשֶׁ֨ה עֶֽבֶד יְהוָ֜ה יְרֻשָּׁ֗ה לָ רֻֽאוּבֵנִי֙ וְ לַ גָּדִ֔י וְ לַ חֲצִ֖י שֵׁ֥בֶט הַֽ מְנַשֶּֽׁה",
+        "LXX": "καὶ ἔδωκεν αὐτὴν Μωυσῆς ἐν κληρονομίᾳ Ῥουβὴν καὶ Γὰδ καὶ τῷ ἡμίσει φυλῆς Μανασσή .",
+        "VUL": "tradidítque terram eórum Móyses in possessiónem Rubenítis , et Gadítis , et dimídiæ tríbui Manásse .",
+        "SP": null,
+        "KJV": "and Moses the servant of the LORD gave it [ for ] a possession unto the Reubenites , and the Gadites , and the half tribe of Manasseh .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And these [ are ] the kings of the country",
+      "traditions": {
+        "WLC": "וְ אֵ֣לֶּה מַלְכֵ֣י הָ אָ֡רֶץ",
+        "LXX": "Καὶ οὗτοι οἱ βασιλεῖς τῶν Ἀμορραίων",
+        "VUL": "Hi sunt reges terræ ,",
+        "SP": null,
+        "KJV": "And these [ are ] the kings of the country",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which Joshua and the children of Israel smote on this side Jordan on the west",
+      "traditions": {
+        "WLC": "אֲשֶׁר֩ הִכָּ֨ה יְהוֹשֻׁ֜עַ וּ בְנֵ֣י יִשְׂרָאֵ֗ל בְּ עֵ֤בֶר הַ יַּרְדֵּן֙ יָ֔מָּ ה",
+        "LXX": "οὓς ἀνεῖλεν Ἰησοῦς καὶ οἱ υἱοὶ Ἰσραὴλ ἐν τῷ πέραν τοῦ Ἰορδάνου παρὰ θάλασσαν",
+        "VUL": "quos percússit Iósue et fílii Israel trans Iordánem ad occidentálem plagam ,",
+        "SP": null,
+        "KJV": "which Joshua and the children of Israel smote on this side Jordan on the west ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "from Baalgad in the valley of Lebanon",
+      "traditions": {
+        "WLC": "מִ בַּ֤עַל גָּד֙ בְּ בִקְעַ֣ת הַ לְּבָנ֔וֹן",
+        "LXX": "Βαλαγαδὰ ἐν πεδίῳ Λιβάνῳ",
+        "VUL": "a Baálgad in campo Líbani ,",
+        "SP": null,
+        "KJV": "from Baalgad in the valley of Lebanon",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "even unto the mount Halak , that goeth up to Seir",
+      "traditions": {
+        "WLC": "וְ עַד הָ הָ֥ר הֶ חָלָ֖ק הָ עֹלֶ֣ה שֵׂעִ֑ירָ ה",
+        "LXX": "καὶ ἕως τοῦ ὄρους Χελχὰ ἀναβαινόντων εἰς Σηείρ ,",
+        "VUL": "usque ad montem , cuius pars ascéndit in Seir :",
+        "SP": null,
+        "KJV": "even unto the mount Halak , that goeth up to Seir ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "which Joshua gave unto the tribes of Israel [ for ] a possession according to their divisions",
+      "traditions": {
+        "WLC": "וַ יִּתְּנָ֨ הּ יְהוֹשֻׁ֜עַ לְ שִׁבְטֵ֧י יִשְׂרָאֵ֛ל יְרֻשָּׁ֖ה כְּ מַחְלְקֹתָֽ ם",
+        "LXX": "καὶ ἔδωκεν αὐτὸν Ἰησοῦς ταῖς φυλαῖς Ἰσραὴλ κληρονομεῖν κατὰ κλῆρον αὐτῶν ,",
+        "VUL": "tradidítque eam Iósue in possessiónem tríbubus Israel , síngulis partes suas ,",
+        "SP": null,
+        "KJV": "which Joshua gave unto the tribes of Israel [ for ] a possession according to their divisions ;",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the mountains , and in the valleys , and in the plains , and in the springs , and in the wilderness , and in the south country",
+      "traditions": {
+        "WLC": "בָּ הָ֣ר וּ בַ שְּׁפֵלָ֗ה וּ בָֽ עֲרָבָה֙ וּ בָ֣ אֲשֵׁד֔וֹת וּ בַ מִּדְבָּ֖ר וּ בַ נֶּ֑גֶב",
+        "LXX": "ἐν τῷ ὄρει καὶ ἐν τῷ πεδίῳ καὶ ἐν Ἀραβὰ καὶ ἐν Ἀσηδὼθ καὶ ἐν τῇ ἐρήμῳ καὶ Νάγεβ ,",
+        "VUL": "tam in montánis quam in planis atque campéstribus . In Asedoth , et in solitúdine , ac in merídie ,",
+        "SP": null,
+        "KJV": "In the mountains , and in the valleys , and in the plains , and in the springs , and in the wilderness , and in the south country ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the Hittites , the Amorites , and the Canaanites , the Perizzites , the Hivites , and the Jebusites",
+      "traditions": {
+        "WLC": "הַֽ חִתִּי֙ הָֽ אֱמֹרִ֔י וְ הַֽ כְּנַעֲנִי֙ הַ פְּרִזִּ֔י הַ חִוִּ֖י וְ הַ יְבוּסִֽי",
+        "LXX": "τὸν Χετταῖον καὶ τὸν Ἀμορραῖον καὶ τὸν Χαναναῖον καὶ τὸν Φερεζαῖον καὶ τὸν Εὑαῖον καὶ τὸν Ἰεβουσαῖον ·",
+        "VUL": "Hethǽus fuit et Amorrhǽus , Chananǽus , et Pherezǽus , Hevǽus et Iebusǽus .",
+        "SP": null,
+        "KJV": "the Hittites , the Amorites , and the Canaanites , the Perizzites , the Hivites , and the Jebusites :",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Jericho , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ יְרִיח֖וֹ אֶחָ֑ד",
+        "LXX": "καὶ τὸν βασιλέα Ἰερειχὼ",
+        "VUL": "Rex Iéricho unus :",
+        "SP": null,
+        "KJV": "The king of Jericho , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Ai , which [ is ] beside Bethel , one",
+      "traditions": {
+        "WLC": "מֶ֧לֶךְ הָ עַ֛י אֲשֶׁר מִ צַּ֥ד בֵּֽית אֵ֖ל אֶחָֽד",
+        "LXX": "καὶ τὸν βασιλέα τῆς Γαί , ἥ ἐστιν πλησίον Βαιθήλ ,",
+        "VUL": "rex Hai , quæ est ex látere Bethel , unus :",
+        "SP": null,
+        "KJV": "the king of Ai , which [ is ] beside Bethel , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Jerusalem , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ יְרוּשָׁלִַ֨ם֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Ἰερουσαλήμ ,",
+        "VUL": "rex Ierúsalem unus ,",
+        "SP": null,
+        "KJV": "The king of Jerusalem , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Hebron , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ חֶבְר֖וֹן אֶחָֽד",
+        "LXX": "βασιλέα Χεβρών ,",
+        "VUL": "rex Hebron unus ,",
+        "SP": null,
+        "KJV": "the king of Hebron , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Jarmuth , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ יַרְמוּת֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Ἰερειμούθ ,",
+        "VUL": "rex Iérimoth unus ,",
+        "SP": null,
+        "KJV": "The king of Jarmuth , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Lachish , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ לָכִ֖ישׁ אֶחָֽד",
+        "LXX": "βασιλέα Λαχείς ,",
+        "VUL": "rex Lachis unus ,",
+        "SP": null,
+        "KJV": "the king of Lachish , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Eglon , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ עֶגְלוֹן֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Αἰλάμ ,",
+        "VUL": "rex Eglon unus ,",
+        "SP": null,
+        "KJV": "The king of Eglon , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Gezer , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ גֶּ֖זֶר אֶחָֽד",
+        "LXX": "βασιλέα Γάζερ ,",
+        "VUL": "rex Gazer unus ,",
+        "SP": null,
+        "KJV": "the king of Gezer , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Debir , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ דְּבִר֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Δαβείρ ,",
+        "VUL": "rex Dabir unus ,",
+        "SP": null,
+        "KJV": "The king of Debir , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Geder , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ גֶּ֖דֶר אֶחָֽד",
+        "LXX": "βασιλέα Ἄσει ,",
+        "VUL": "rex Gader unus ,",
+        "SP": null,
+        "KJV": "the king of Geder , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Hormah , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ חָרְמָה֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Ἑρμάθ ,",
+        "VUL": "rex Herma unus ,",
+        "SP": null,
+        "KJV": "The king of Hormah , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Arad , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ עֲרָ֖ד אֶחָֽד",
+        "LXX": "βασιλέα Αἰράθ ,",
+        "VUL": "rex Hered unus ,",
+        "SP": null,
+        "KJV": "the king of Arad , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "βασιλέα Ἀράθ ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Libnah , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ לִבְנָה֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Λεβνά ,",
+        "VUL": "rex Lebna unus ,",
+        "SP": null,
+        "KJV": "The king of Libnah , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Adullam , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ עֲדֻלָּ֖ם אֶחָֽד",
+        "LXX": "βασιλέα Ὀδολλάμ ,",
+        "VUL": "rex Odúllam unus ,",
+        "SP": null,
+        "KJV": "the king of Adullam , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Makkedah , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ מַקֵּדָה֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Ἠλάδ ,",
+        "VUL": "rex Macéda unus ,",
+        "SP": null,
+        "KJV": "The king of Makkedah , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Bethel , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ בֵּֽית אֵ֖ל אֶחָֽד",
+        "LXX": null,
+        "VUL": "rex Bethel unus ,",
+        "SP": null,
+        "KJV": "the king of Bethel , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Tappuah , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ תַּפּ֨וּחַ֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Ἀταφόυτ ,",
+        "VUL": "rex Táphua unus ,",
+        "SP": null,
+        "KJV": "The king of Tappuah , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Hepher , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ חֵ֖פֶר אֶחָֽד",
+        "LXX": "βασιλέα Ὅφερ ,",
+        "VUL": "rex Opher unus ,",
+        "SP": null,
+        "KJV": "the king of Hepher , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Aphek , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ אֲפֵק֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Ὀφὲκ τῆς Ἀρώκ ,",
+        "VUL": "rex Aphec unus ,",
+        "SP": null,
+        "KJV": "The king of Aphek , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Lasharon , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ לַ שָּׁר֖וֹן אֶחָֽד",
+        "LXX": null,
+        "VUL": "rex Saron unus ,",
+        "SP": null,
+        "KJV": "the king of Lasharon , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Madon , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ מָדוֹן֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Ἁσόμ ,",
+        "VUL": "rex Madon unus ,",
+        "SP": null,
+        "KJV": "The king of Madon , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Hazor , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ חָצ֖וֹר אֶחָֽד",
+        "LXX": null,
+        "VUL": "rex Asor unus ,",
+        "SP": null,
+        "KJV": "the king of Hazor , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Shimronmeron , one ;",
+      "traditions": {
+        "WLC": "מֶ֣לֶךְ שִׁמְר֤וֹן מְראוֹן֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Συμοών ,",
+        "VUL": "rex Sémeron unus ,",
+        "SP": null,
+        "KJV": "The king of Shimronmeron , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Achshaph , one ;",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ אַכְשָׁ֖ף אֶחָֽד",
+        "LXX": "βασιλέα Μαμρώθ , βασιλέα Ἀζείφ ,",
+        "VUL": "rex Achsaph unus ,",
+        "SP": null,
+        "KJV": "the king of Achshaph , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Taanach , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ תַּעְנַךְ֙ אֶחָ֔ד",
+        "LXX": "βασιλέα Κάδης ,",
+        "VUL": "rex Thenac unus ,",
+        "SP": null,
+        "KJV": "The king of Taanach , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Megiddo , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ מְגִדּ֖וֹ אֶחָֽד",
+        "LXX": "βασιλέα Ζακάχ ,",
+        "VUL": "rex Magéddo unus ,",
+        "SP": null,
+        "KJV": "the king of Megiddo , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "βασιλέα Μαρεδὼθ καὶ βασιλέα Ἰεκὸμ τοῦ Χερμέλ ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Kedesh , one",
+      "traditions": {
+        "WLC": "מֶ֤לֶךְ קֶ֨דֶשׁ֙ אֶחָ֔ד",
+        "LXX": null,
+        "VUL": "rex Cades unus ,",
+        "SP": null,
+        "KJV": "The king of Kedesh , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of Jokneam of Carmel , one",
+      "traditions": {
+        "WLC": "מֶֽלֶךְ יָקְנֳעָ֥ם לַ כַּרְמֶ֖ל אֶחָֽד",
+        "LXX": null,
+        "VUL": "rex Iáchanan Carméli unus ,",
+        "SP": null,
+        "KJV": "the king of Jokneam of Carmel , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Dor in the coast of Dor , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ דּ֛וֹר לְ נָפַ֥ת דּ֖וֹר אֶחָ֑ד",
+        "LXX": "βασιλέα Ἐλδὼμ τοῦ Φεννεδδώρ ,",
+        "VUL": "rex Dor , et provínciæ Dor unus ,",
+        "SP": null,
+        "KJV": "The king of Dor in the coast of Dor , one ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the king of the nations of Gilgal , one",
+      "traditions": {
+        "WLC": "מֶֽלֶךְ גּוֹיִ֥ם לְ גִלְגָּ֖ל אֶחָֽד",
+        "LXX": "βασιλέα Γεεὶ τῆς Γαλειλαίας ,",
+        "VUL": "rex géntium Galgal unus ,",
+        "SP": null,
+        "KJV": "the king of the nations of Gilgal , one ;",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king of Tirzah , one",
+      "traditions": {
+        "WLC": "מֶ֥לֶךְ תִּרְצָ֖ה אֶחָ֑ד",
+        "LXX": "βασιλέα Θαρσά ·",
+        "VUL": "rex Thersa unus :",
+        "SP": null,
+        "KJV": "The king of Tirzah , one :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "all the kings thirty and one",
+      "traditions": {
+        "WLC": "כָּל מְלָכִ֖ים שְׁלֹשִׁ֥ים וְ אֶחָֽד",
+        "LXX": "πάντες οὗτοι βασιλεῖς εἴκοσι ἐννέα .",
+        "VUL": "omnes reges trigínta unus .",
+        "SP": null,
+        "KJV": "all the kings thirty and one .",
+        "DSS": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then said the LORD unto me",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר יְהוָה֙ אֵלַ֔ י",
+        "LXX": null,
+        "VUL": "Et dixit Dóminus ad me :",
+        "SP": null,
+        "KJV": "Then said the LORD unto me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Though Moses and Samuel stood before me",
+      "traditions": {
+        "WLC": "אִם יַעֲמֹ֨ד מֹשֶׁ֤ה וּ שְׁמוּאֵל֙ לְ פָנַ֔ י",
+        "LXX": null,
+        "VUL": "Si stéterit Móyses , et Sámuel coram me ,",
+        "SP": null,
+        "KJV": "Though Moses and Samuel stood before me , [ yet ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "my mind could not be toward this people",
+      "traditions": {
+        "WLC": "אֵ֥ין נַפְשִׁ֖ י אֶל הָ עָ֣ם הַ זֶּ֑ה",
+        "LXX": null,
+        "VUL": "non est ánima mea ad pópulum istum :",
+        "SP": null,
+        "KJV": "my mind [ could ] not [ be ] toward this people :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "cast them out of my sight",
+      "traditions": {
+        "WLC": "שַׁלַּ֥ח מֵֽ עַל פָּנַ֖ י",
+        "LXX": null,
+        "VUL": "éice illos a fácie mea ,",
+        "SP": null,
+        "KJV": "cast [ them ] out of my sight ,",
+        "DSS": "מ על פנ׳י"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and let them go forth",
+      "traditions": {
+        "WLC": "וְ יֵצֵֽאוּ",
+        "LXX": null,
+        "VUL": "et egrediántur .",
+        "SP": null,
+        "KJV": "and let them go forth .",
+        "DSS": "ו י[ צאו ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass , if they say unto thee , Whither shall we go forth ?",
+      "traditions": {
+        "WLC": "וְ הָיָ֛ה כִּֽי יֹאמְר֥וּ אֵלֶ֖י ךָ אָ֣נָה נֵצֵ֑א",
+        "LXX": null,
+        "VUL": "Quod si díxerint ad te : Quo egrediémur ?",
+        "SP": null,
+        "KJV": "And it shall come to pass , if they say unto thee , Whither shall we go forth ?",
+        "DSS": "ו היה כי יאמרו אלי׳ך אנ׳ה נצא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then thou shalt tell them , Thus saith the LORD",
+      "traditions": {
+        "WLC": "וְ אָמַרְתָּ֨ אֲלֵי הֶ֜ם כֹּֽה אָמַ֣ר יְהוָ֗ה",
+        "LXX": null,
+        "VUL": "dices ad eos : Hæc dicit Dóminus :",
+        "SP": null,
+        "KJV": "then thou shalt tell them , Thus saith the LORD ;",
+        "DSS": "ו אמרת אלי׳הם כה אמר יהוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Such as are for death , to death",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר לַ מָּ֤וֶת לַ מָּ֨וֶת֙",
+        "LXX": null,
+        "VUL": "Qui ad mortem , ad mortem :",
+        "SP": null,
+        "KJV": "Such as [ are ] for death , to death ;",
+        "DSS": "[ א ]ש##ר ל מות[ ל מות"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and such as are for the sword , to the sword",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֤ר לַ חֶ֨רֶב֙ לַ חֶ֔רֶב",
+        "LXX": null,
+        "VUL": "et qui ad gládium , ad gládium :",
+        "SP": null,
+        "KJV": "and such as [ are ] for the sword , to the sword ;",
+        "DSS": "ו אשר ל חרב ל חרב"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and such as are for the famine , to the famine",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֤ר לָֽ רָעָב֙ לָֽ רָעָ֔ב",
+        "LXX": null,
+        "VUL": "et qui ad famem , ad famem :",
+        "SP": null,
+        "KJV": "and such as [ are ] for the famine , to the famine ;",
+        "DSS": "ו אשר ל רעב ל רעב"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and such as are for the captivity , to the captivity",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֥ר לַ שְּׁבִ֖י לַ שֶּֽׁבִי",
+        "LXX": null,
+        "VUL": "et qui ad captivitátem , ad captivitátem .",
+        "SP": null,
+        "KJV": "and such as [ are ] for the captivity , to the captivity .",
+        "DSS": "ו אשר ל שבי ל שבי ] ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will appoint over them four kinds , saith the LORD",
+      "traditions": {
+        "WLC": "וּ פָקַדְתִּ֨י עֲלֵי הֶ֜ם אַרְבַּ֤ע מִשְׁפָּחוֹת֙ נְאֻם יְהוָ֔ה",
+        "LXX": null,
+        "VUL": "Et visitábo super eos quátuor spécies , dicit Dóminus :",
+        "SP": null,
+        "KJV": "And I will appoint over them four kinds , saith the LORD :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the sword to slay",
+      "traditions": {
+        "WLC": "אֶת הַ חֶ֣רֶב לַֽ הֲרֹ֔ג",
+        "LXX": null,
+        "VUL": "gládium ad occisiónem ,",
+        "SP": null,
+        "KJV": "the sword to slay ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the dogs to tear",
+      "traditions": {
+        "WLC": "וְ אֶת הַ כְּלָבִ֖ים לִ סְחֹ֑ב",
+        "LXX": null,
+        "VUL": "et canes ad lacerándum ,",
+        "SP": null,
+        "KJV": "and the dogs to tear ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the fowls of the heaven , and the beasts of the earth , to devour and destroy",
+      "traditions": {
+        "WLC": "וְ אֶת ע֧וֹף הַ שָּׁמַ֛יִם וְ אֶת בֶּהֱמַ֥ת הָ אָ֖רֶץ לֶ אֱכֹ֥ל וּ לְ הַשְׁחִֽית",
+        "LXX": null,
+        "VUL": "et volatília cæli et béstias terræ ad devorándum et dissipándum .",
+        "SP": null,
+        "KJV": "and the fowls of the heaven , and the beasts of the earth , to devour and destroy .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will cause them to be removed into all kingdoms of the earth",
+      "traditions": {
+        "WLC": "וּ נְתַתִּ֣י ם ל זועה לְ כֹ֖ל מַמְלְכ֣וֹת הָ אָ֑רֶץ",
+        "LXX": null,
+        "VUL": "Et dabo eos in fervórem univérsis regnis terræ ,",
+        "SP": null,
+        "KJV": "And I will cause them to be removed into all kingdoms of the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because of Manasseh the son of Hezekiah king of Judah",
+      "traditions": {
+        "WLC": "בִּ֠ גְלַל מְנַשֶּׁ֤ה בֶן יְחִזְקִיָּ֨הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה",
+        "LXX": null,
+        "VUL": "propter Manássen fílium Ezechíæ regis Iuda ,",
+        "SP": null,
+        "KJV": "because of Manasseh the son of Hezekiah king of Judah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for that which he did in Jerusalem",
+      "traditions": {
+        "WLC": "עַ֥ל אֲשֶׁר עָשָׂ֖ה בִּ ירוּשָׁלִָֽם",
+        "LXX": null,
+        "VUL": "super ómnibus quæ fecit in Ierúsalem .",
+        "SP": null,
+        "KJV": "for [ that ] which he did in Jerusalem .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "For who shall have pity upon thee , O Jerusalem ?",
+      "traditions": {
+        "WLC": "כִּ֠י מִֽי יַחְמֹ֤ל עָלַ֨יִ ךְ֙ יְר֣וּשָׁלִַ֔ם",
+        "LXX": null,
+        "VUL": "Quis enim miserébitur tui Ierúsalem ?",
+        "SP": null,
+        "KJV": "For who shall have pity upon thee , O Jerusalem ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or who shall bemoan thee ?",
+      "traditions": {
+        "WLC": "וּ מִ֖י יָנ֣וּד לָ֑ ךְ",
+        "LXX": null,
+        "VUL": "aut quis contristábitur pro te ?",
+        "SP": null,
+        "KJV": "or who shall bemoan thee ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "or who shall go aside to ask how thou doest ?",
+      "traditions": {
+        "WLC": "וּ מִ֣י יָס֔וּר לִ שְׁאֹ֥ל לְ שָׁלֹ֖ם לָֽ ךְ",
+        "LXX": null,
+        "VUL": "aut quis ibit ad rogándum pro pace tua ?",
+        "SP": null,
+        "KJV": "or who shall go aside to ask how thou doest ?",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou hast forsaken me , saith the LORD",
+      "traditions": {
+        "WLC": "אַ֣תְּ נָטַ֥שְׁתְּ אֹתִ֛ י נְאֻם יְהוָ֖ה",
+        "LXX": null,
+        "VUL": "Tu reliquísti me , dicit Dóminus ,",
+        "SP": null,
+        "KJV": "Thou hast forsaken me , saith the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou art gone backward",
+      "traditions": {
+        "WLC": "אָח֣וֹר תֵּלֵ֑כִי",
+        "LXX": null,
+        "VUL": "retrórsum abiísti :",
+        "SP": null,
+        "KJV": "thou art gone backward :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "therefore will I stretch out my hand against thee",
+      "traditions": {
+        "WLC": "וָ אַ֨ט אֶת יָדִ֤ י עָלַ֨יִ ךְ֙",
+        "LXX": null,
+        "VUL": "et exténdam manum meam super te ,",
+        "SP": null,
+        "KJV": "therefore will I stretch out my hand against thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and destroy thee",
+      "traditions": {
+        "WLC": "וָֽ אַשְׁחִיתֵ֔ ךְ",
+        "LXX": null,
+        "VUL": "et interfíciam te :",
+        "SP": null,
+        "KJV": "and destroy thee ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "I am weary with repenting",
+      "traditions": {
+        "WLC": "נִלְאֵ֖יתִי הִנָּחֵֽם",
+        "LXX": null,
+        "VUL": "laborávi rogans .",
+        "SP": null,
+        "KJV": "I am weary with repenting .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will fan them with a fan in the gates of the land",
+      "traditions": {
+        "WLC": "וָ אֶזְרֵ֥ ם בְּ מִזְרֶ֖ה בְּ שַׁעֲרֵ֣י הָ אָ֑רֶץ",
+        "LXX": null,
+        "VUL": "Et dispérgam eos ventilábro in portis terræ :",
+        "SP": null,
+        "KJV": "And I will fan them with a fan in the gates of the land ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will bereave them of children , I will destroy my people",
+      "traditions": {
+        "WLC": "שִׁכַּ֤לְתִּי אִבַּ֨דְתִּי֙ אֶת עַמִּ֔ י",
+        "LXX": null,
+        "VUL": "interféci et dispérdidi pópulum meum ,",
+        "SP": null,
+        "KJV": "I will bereave [ them ] of children , I will destroy my people , [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "since they return not from their ways",
+      "traditions": {
+        "WLC": "מִ דַּרְכֵי הֶ֖ם לוֹא שָֽׁבוּ",
+        "LXX": null,
+        "VUL": "et tamen a viis suis non sunt revérsi .",
+        "SP": null,
+        "KJV": "since ] they return not from their ways .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Their widows are increased to me above the sand of the seas",
+      "traditions": {
+        "WLC": "עָֽצְמוּ לִ֤ י אַלְמְנֹתָ ו֙ מֵ ח֣וֹל יַמִּ֔ים",
+        "LXX": "ἐπληθύνθησαν χῆραι αὐτῶν ὑπὲρ τὴν ἄμμον τῆς θαλάσσης ·",
+        "VUL": "Multiplicátæ sunt mihi víduæ eius super arénam maris :",
+        "SP": null,
+        "KJV": "Their widows are increased to me above the sand of the seas :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I have brought upon them against the mother of the young men a spoiler at noonday",
+      "traditions": {
+        "WLC": "הֵבֵ֨אתִי לָ הֶ֥ם עַל אֵ֛ם בָּח֖וּר שֹׁדֵ֣ד בַּֽ צָּהֳרָ֑יִם",
+        "LXX": "ἐπήγαγον ἐπὶ μητέρα νεανίσκους , ταλαιπωρίαν ἐν μεσημβρίᾳ ,",
+        "VUL": "indúxi eis super matrem adolescéntis vastatórem merídie :",
+        "SP": null,
+        "KJV": "I have brought upon them against the mother of the young men a spoiler at noonday :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I have caused him to fall upon it suddenly , and terrors upon the city",
+      "traditions": {
+        "WLC": "הִפַּ֤לְתִּי עָלֶ֨י הָ֙ פִּתְאֹ֔ם עִ֖יר וּ בֶהָלֽוֹת",
+        "LXX": "ἐπέριψαν ἐπ᾽ αὐτὴν ἐξέφνης τρόμον καὶ σπουδήν .",
+        "VUL": "misi super civitátes repénte terrórem .",
+        "SP": null,
+        "KJV": "I have caused [ him ] to fall upon it suddenly , and terrors upon the city .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "She that hath borne seven languisheth : she hath given up the ghost",
+      "traditions": {
+        "WLC": "אֻמְלְלָ֞ה יֹלֶ֣דֶת הַ שִּׁבְעָ֗ה נָפְחָ֥ה נַפְשָׁ֛ הּ",
+        "LXX": "ἐκενώθη ἡ τίκτουσα ἑπτά , ἀπεκάκησεν ἡ ψυχὴ αὐτῆς ,",
+        "VUL": "Infirmáta est quæ péperit septem , defécit ánima eius :",
+        "SP": null,
+        "KJV": "She that hath borne seven languisheth : she hath given up the ghost ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "her sun is gone down while it was yet day",
+      "traditions": {
+        "WLC": "באה שִׁמְשָׁ֛ הּ בְּ עֹ֥ד יוֹמָ֖ם",
+        "LXX": "ἐπέδυ ὁ ἥλιος αὐτῇ ἔτι μεσούσης τῆς ἡμέρας ,",
+        "VUL": "óccidit ei sol , cum adhuc esset dies :",
+        "SP": null,
+        "KJV": "her sun is gone down while [ it was ] yet day :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "she hath been ashamed and confounded",
+      "traditions": {
+        "WLC": "בּ֣וֹשָׁה וְ חָפֵ֑רָה",
+        "LXX": "κατῃσχύνθη καὶ ὠνειδίσθη ·",
+        "VUL": "confúsa est , et erúbuit :",
+        "SP": null,
+        "KJV": "she hath been ashamed and confounded :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the residue of them will I deliver to the sword before their enemies , saith the LORD",
+      "traditions": {
+        "WLC": "וּ שְׁאֵֽרִיתָ֗ ם לַ חֶ֧רֶב אֶתֵּ֛ן לִ פְנֵ֥י אֹיְבֵי הֶ֖ם נְאֻם יְהוָֽה",
+        "LXX": "τοὺς καταλοίπους αὐτῶν εἰς μάχαιραν δώσω ἐναντίον τῶν ἐχθρῶν αὐτῶν .",
+        "VUL": "et resíduos eius in gládium dabo in conspéctu inimicórum eórum , ait Dóminus .",
+        "SP": null,
+        "KJV": "and the residue of them will I deliver to the sword before their enemies , saith the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Woe is me , my mother , that thou hast borne me a man of strife and a man of contention to the whole earth !",
+      "traditions": {
+        "WLC": "אֽוֹי לִ֣ י אִמִּ֔ י כִּ֣י יְלִדְתִּ֗ נִי אִ֥ישׁ רִ֛יב וְ אִ֥ישׁ מָד֖וֹן לְ כָל הָ אָ֑רֶץ",
+        "LXX": "Οἴμοι ἐγώ , μῆτερ , ὡς τίνα με ἔτεκες ; ἄνδρα δικαζόμενον καὶ διακρινόμενον ἐν πάσῃ τῇ γῇ ·",
+        "VUL": "Væ mihi mater mea : quare genuísti me virum rixæ , virum discórdiæ in univérsa terra ?",
+        "SP": null,
+        "KJV": "Woe is me , my mother , that thou hast borne me a man of strife and a man of contention to the whole earth !",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I have neither lent on usury , nor men have lent to me on usury",
+      "traditions": {
+        "WLC": "לֹֽא נָשִׁ֥יתִי וְ לֹא נָֽשׁוּ בִ֖ י",
+        "LXX": "οὔτε ὠφέλησα , οὔτε ὠφέλησέν με οὐδείς ·",
+        "VUL": "non fœnerávi , nec fœnerávit mihi quisquam :",
+        "SP": null,
+        "KJV": "I have neither lent on usury , nor men have lent to me on usury ; [ yet ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "every one of them doth curse me",
+      "traditions": {
+        "WLC": "כֻּלֹּ֥ ה מְקַלְלַֽו נִי",
+        "LXX": "ἡ ἰσχύς μου ἐξέλιπεν ἐν τοῖς καταρωμένοις με .",
+        "VUL": "omnes maledícunt mihi .",
+        "SP": null,
+        "KJV": "every one of them doth curse me .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "γένοιτο , δέσποτα , κατευθυνόντων αὐτῶν ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The LORD said , Verily it shall be well with thy remnant",
+      "traditions": {
+        "WLC": "אָמַ֣ר יְהוָ֔ה אִם לֹ֥א שרות ך לְ ט֑וֹב",
+        "LXX": "εἰ μὴ παρέστην σοι ἐν καιρῷ τῶν κακῶν αὐτῶν",
+        "VUL": "Dicit Dóminus : Si non relíquiæ tuæ in bonum ,",
+        "SP": null,
+        "KJV": "The LORD said , Verily it shall be well with thy remnant ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "verily I will cause the enemy to entreat thee [ well ] in the time of evil and in the time of affliction",
+      "traditions": {
+        "WLC": "אִם ל֣וֹא הִפְגַּ֣עְתִּֽי בְ ךָ֗ בְּ עֵ֥ת רָעָ֛ה וּ בְ עֵ֥ת צָרָ֖ה אֶת הָ אֹיֵֽב",
+        "LXX": "καὶ ἐν καιρῷ θλίψεως αὐτῶν , εἰς ἀγαθὰ πρὸς τὸν ἐχθρόν .",
+        "VUL": "si non occúrri tibi in témpore afflictiónis , et in témpore tribulatiónis advérsus inimícum .",
+        "SP": null,
+        "KJV": "verily I will cause the enemy to entreat thee [ well ] in the time of evil and in the time of affliction .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Shall iron break the northern iron and the steel ?",
+      "traditions": {
+        "WLC": "הֲ יָרֹ֨עַ בַּרְזֶ֧ל בַּרְזֶ֛ל מִ צָּפ֖וֹן וּ נְחֹֽשֶׁת",
+        "LXX": "Εἰ γνωσθήσεται σίδηρος ; καὶ περιβόλαιον χαλκοῦν ἡ ἰσχύς σου .",
+        "VUL": "Numquid fœderábitur ferrum ferro ab aquilóne , et æs ?",
+        "SP": null,
+        "KJV": "Shall iron break the northern iron and the steel ?",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy substance and thy treasures will I give to the spoil without price",
+      "traditions": {
+        "WLC": "חֵילְ ךָ֧ וְ אוֹצְרוֹתֶ֛י ךָ לָ בַ֥ז אֶתֵּ֖ן לֹ֣א בִ מְחִ֑יר",
+        "LXX": "καὶ τοὺς θησαυρούς σου εἰς προνομὴν δώσω , ἀντάλλαγμα",
+        "VUL": "Divítias tuas et thesáuros tuos in direptiónem dabo gratis ,",
+        "SP": null,
+        "KJV": "Thy substance and thy treasures will I give to the spoil without price ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ that ] for all thy sins , even in all thy borders",
+      "traditions": {
+        "WLC": "וּ בְ כָל חַטֹּאותֶ֖י ךָ וּ בְ כָל גְּבוּלֶֽי ךָ",
+        "LXX": "διὰ πάσας τὰς ἁμαρτίας σου καὶ ἐν πᾶσι τοῖς ὁρίοις σου .",
+        "VUL": "in ómnibus peccátis tuis , et in ómnibus términis tuis .",
+        "SP": null,
+        "KJV": "and [ that ] for all thy sins , even in all thy borders .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will make [ thee ] to pass with thine enemies into a land [ which ] thou knowest not",
+      "traditions": {
+        "WLC": "וְ הַֽעֲבַרְתִּי֙ אֶת אֹ֣יְבֶ֔י ךָ בְּ אֶ֖רֶץ לֹ֣א יָדָ֑עְתָּ",
+        "LXX": "καὶ καταδουλώσω σε κύκλῳ τοῖς ἐχθροῖς σου ἐν τῇ γῇ ᾗ οὐκ ᾔδεις ·",
+        "VUL": "Et addúcam inimícos tuos de terra , quam nescis :",
+        "SP": null,
+        "KJV": "And I will make [ thee ] to pass with thine enemies into a land [ which ] thou knowest not :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for a fire is kindled in mine anger , [ which ] shall burn upon you",
+      "traditions": {
+        "WLC": "כִּֽי אֵ֛שׁ קָדְחָ֥ה בְ אַפִּ֖ י עֲלֵי כֶ֥ם תּוּקָֽד",
+        "LXX": "ὅτι πῦρ ἐκκέκαυται ἐκ τοῦ θυμοῦ μου , ἐφ᾽ ὑμᾶς καυθήσεται .",
+        "VUL": "quia ignis succénsus est in furóre meo , super vos ardébit .",
+        "SP": null,
+        "KJV": "for a fire is kindled in mine anger , [ which ] shall burn upon you .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "O LORD , thou knowest : remember me , and visit me",
+      "traditions": {
+        "WLC": "אַתָּ֧ה יָדַ֣עְתָּ יְהוָ֗ה זָכְרֵ֤ נִי וּ פָקְדֵ֨ נִי֙",
+        "LXX": null,
+        "VUL": "Tu scis Dómine , recordáre mei , et vísita me ,",
+        "SP": null,
+        "KJV": "O LORD , thou knowest : remember me , and visit me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and revenge me of my persecutors",
+      "traditions": {
+        "WLC": "וְ הִנָּ֤קֶם לִ י֙ מֵ רֹ֣דְפַ֔ י",
+        "LXX": null,
+        "VUL": "et tuére me ab his , qui persequúntur me :",
+        "SP": null,
+        "KJV": "and revenge me of my persecutors ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "take me not away in thy longsuffering",
+      "traditions": {
+        "WLC": "אַל לְ אֶ֥רֶךְ אַפְּ ךָ֖ תִּקָּחֵ֑ נִי",
+        "LXX": null,
+        "VUL": "noli in patiéntia tua suscípere me :",
+        "SP": null,
+        "KJV": "take me not away in thy longsuffering :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "know that for thy sake I have suffered rebuke",
+      "traditions": {
+        "WLC": "דַּ֕ע שְׂאֵתִ֥ י עָלֶ֖י ךָ חֶרְפָּֽה",
+        "LXX": null,
+        "VUL": "scito quóniam sustínui propter te oppróbrium .",
+        "SP": null,
+        "KJV": "know that for thy sake I have suffered rebuke .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy words were found , and I did eat them",
+      "traditions": {
+        "WLC": "נִמְצְא֤וּ דְבָרֶ֨י ךָ֙ וָ אֹ֣כְלֵ֔ ם",
+        "LXX": null,
+        "VUL": "Invénti sunt sermónes tui , et comédi eos ,",
+        "SP": null,
+        "KJV": "Thy words were found , and I did eat them ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thy word was unto me the joy and rejoicing of mine heart",
+      "traditions": {
+        "WLC": "וַ יְהִ֤י דברי ך לִ֔ י לְ שָׂשׂ֖וֹן וּ לְ שִׂמְחַ֣ת לְבָבִ֑ י",
+        "LXX": null,
+        "VUL": "et factum est mihi verbum tuum in gáudium et in lætítiam cordis mei :",
+        "SP": null,
+        "KJV": "and thy word was unto me the joy and rejoicing of mine heart :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for I am called by thy name , O LORD God of hosts",
+      "traditions": {
+        "WLC": "כִּֽי נִקְרָ֤א שִׁמְ ךָ֙ עָלַ֔ י יְהוָ֖ה אֱלֹהֵ֥י צְבָאֽוֹת",
+        "LXX": null,
+        "VUL": "quóniam invocátum est nomen tuum super me , Dómine Deus exercítuum .",
+        "SP": null,
+        "KJV": "for I am called by thy name , O LORD God of hosts .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "I sat not in the assembly of the mockers , nor rejoiced",
+      "traditions": {
+        "WLC": "לֹֽא יָשַׁ֥בְתִּי בְ סוֹד מְשַׂחֲקִ֖ים וָֽ אֶעְלֹ֑ז",
+        "LXX": null,
+        "VUL": "Non sedi in concílio ludéntium , et gloriátus sum a fácie manus tuæ :",
+        "SP": null,
+        "KJV": "I sat not in the assembly of the mockers , nor rejoiced ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I sat alone because of thy hand : for thou hast filled me with indignation",
+      "traditions": {
+        "WLC": "מִ פְּנֵ֤י יָֽדְ ךָ֙ בָּדָ֣ד יָשַׁ֔בְתִּי כִּֽי זַ֖עַם מִלֵּאתָֽ נִי",
+        "LXX": null,
+        "VUL": "solus sedébam , quóniam comminatióne replésti me .",
+        "SP": null,
+        "KJV": "I sat alone because of thy hand : for thou hast filled me with indignation .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Why is my pain perpetual , and my wound incurable , [ which ] refuseth to be healed ?",
+      "traditions": {
+        "WLC": "לָ֣ מָּה הָיָ֤ה כְאֵבִ י֙ נֶ֔צַח וּ מַכָּתִ֖ י אֲנוּשָׁ֑ה֙ מֵֽאֲנָה֙ הֵֽרָפֵ֔א",
+        "LXX": null,
+        "VUL": "Quare factus est dolor meus perpétuus , et plaga mea desperábilis rénuit curári ?",
+        "SP": null,
+        "KJV": "Why is my pain perpetual , and my wound incurable , [ which ] refuseth to be healed ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "wilt thou be altogether unto me as a liar , [ and as ] waters [ that ] fail ?",
+      "traditions": {
+        "WLC": "הָי֨וֹ תִֽהְיֶ֥ה לִ י֙ כְּמ֣וֹ אַכְזָ֔ב מַ֖יִם לֹ֥א נֶאֱמָֽנוּ",
+        "LXX": null,
+        "VUL": "facta est mihi quasi mendácium aquárum infidélium .",
+        "SP": null,
+        "KJV": "wilt thou be altogether unto me as a liar , [ and as ] waters [ that ] fail ?",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore thus saith the LORD , If thou return , then will I bring thee again , [ and ] thou shalt stand before me",
+      "traditions": {
+        "WLC": "לָ כֵ֞ן כֹּֽה אָמַ֣ר יְהוָ֗ה אִם תָּשׁ֤וּב וַ אֲשִֽׁיבְ ךָ֙ לְ פָנַ֣ י תַּֽעֲמֹ֔ד",
+        "LXX": null,
+        "VUL": "Propter hoc hæc dicit Dóminus : Si convérteris , convértam te , et ante fáciem meam stabis :",
+        "SP": null,
+        "KJV": "Therefore thus saith the LORD , If thou return , then will I bring thee again , [ and ] thou shalt stand before me :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and if thou take forth the precious from the vile , thou shalt be as my mouth",
+      "traditions": {
+        "WLC": "וְ אִם תּוֹצִ֥יא יָקָ֛ר מִ זּוֹלֵ֖ל כְּ פִ֣ י תִֽהְיֶ֑ה",
+        "LXX": null,
+        "VUL": "et si separáveris pretiósum a vili , quasi os meum eris :",
+        "SP": null,
+        "KJV": "and if thou take forth the precious from the vile , thou shalt be as my mouth :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "let them return unto thee ; but return not thou unto them",
+      "traditions": {
+        "WLC": "יָשֻׁ֤בוּ הֵ֨מָּה֙ אֵלֶ֔י ךָ וְ אַתָּ֖ה לֹֽא תָשׁ֥וּב אֲלֵי הֶֽם",
+        "LXX": null,
+        "VUL": "converténtur ipsi ad te , et tu non convertéris ad eos .",
+        "SP": null,
+        "KJV": "let them return unto thee ; but return not thou unto them .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will make thee unto this people a fenced brasen wall",
+      "traditions": {
+        "WLC": "וּ נְתַתִּ֜י ךָ לָ עָ֣ם הַ זֶּ֗ה לְ חוֹמַ֤ת נְחֹ֨שֶׁת֙ בְּצוּרָ֔ה",
+        "LXX": null,
+        "VUL": "Et dabo te pópulo huic in murum ǽreum fortem :",
+        "SP": null,
+        "KJV": "And I will make thee unto this people a fenced brasen wall :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they shall fight against thee , but they shall not prevail against thee",
+      "traditions": {
+        "WLC": "וְ נִלְחֲמ֥וּ אֵלֶ֖י ךָ וְ לֹא י֣וּכְלוּ לָ֑ ךְ",
+        "LXX": null,
+        "VUL": "et bellábunt advérsum te , et non prævalébunt :",
+        "SP": null,
+        "KJV": "and they shall fight against thee , but they shall not prevail against thee :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for I [ am ] with thee to save thee and to deliver thee , saith the LORD",
+      "traditions": {
+        "WLC": "כִּֽי אִתְּ ךָ֥ אֲנִ֛י לְ הוֹשִֽׁיעֲ ךָ֥ וּ לְ הַצִּילֶ֖ ךָ נְאֻם יְהוָֽה",
+        "LXX": null,
+        "VUL": "quia ego tecum sum ut salvem te , et éruam te , dicit Dóminus .",
+        "SP": null,
+        "KJV": "for I [ am ] with thee to save thee and to deliver thee , saith the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will deliver thee out of the hand of the wicked",
+      "traditions": {
+        "WLC": "וְ הִצַּלְתִּ֖י ךָ מִ יַּ֣ד רָעִ֑ים",
+        "LXX": null,
+        "VUL": "Et liberábo te de manu pessimórum ,",
+        "SP": null,
+        "KJV": "And I will deliver thee out of the hand of the wicked ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will redeem thee out of the hand of the terrible",
+      "traditions": {
+        "WLC": "וּ פְדִתִ֖י ךָ מִ כַּ֥ף עָרִצִֽים",
+        "LXX": null,
+        "VUL": "et rédimam te de manu fórtium .",
+        "SP": null,
+        "KJV": "and I will redeem thee out of the hand of the terrible .",
+        "DSS": null
+      }
+    }
+  ]
+}

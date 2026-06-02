@@ -1,0 +1,906 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "All the commandments which I command thee this day shall ye observe to do",
+      "traditions": {
+        "WLC": "כָּל הַ מִּצְוָ֗ה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּ ךָ֛ הַ יּ֖וֹם תִּשְׁמְר֣וּ ן לַ עֲשׂ֑וֹת",
+        "LXX": "Πάσας τὰς ἐντολὰς ἃς ἐγὼ ἐντέλλομαι ὑμῖν σήμερον φυλάξεσθε ποιεῖν ,",
+        "VUL": "Omne mandátum , quod ego præcípio tibi hódie , cave diligénter ut fácias ,",
+        "SP": "כל ה מצוה אשׁר אנכי מצוך ה יום תשׁמרון ל עשׂות",
+        "KJV": "All the commandments which I command thee this day shall ye observe to do ,",
+        "DSS": "[4Q32] כל ה מצוה אשר אנכי מצו ]׳ך ה יום תשמרו׳ן [ ל עשות"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that ye may live",
+      "traditions": {
+        "WLC": "לְמַ֨עַן תִּֽחְי֜וּ ן",
+        "LXX": "ἵνα ζῆτε",
+        "VUL": "ut possítis vívere ,",
+        "SP": "למען תחיון",
+        "KJV": "that ye may live ,",
+        "DSS": "למען תחיו׳ן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and multiply",
+      "traditions": {
+        "WLC": "וּ רְבִיתֶ֗ם",
+        "LXX": "καὶ πολυπλασιασθῆτε ,",
+        "VUL": "et multiplicémini ,",
+        "SP": "ו רביתם",
+        "KJV": "and multiply ,",
+        "DSS": "ו רביתם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and go in and possess the land",
+      "traditions": {
+        "WLC": "וּ בָאתֶם֙ וִֽ ירִשְׁתֶּ֣ם אֶת הָ אָ֔רֶץ",
+        "LXX": "καὶ εἰσελθόντες κληρονομήσητε τὴν γῆν",
+        "VUL": "ingressíque possideátis terram ,",
+        "SP": "ו באתם ו ירשׁתם את ה ארץ",
+        "KJV": "and go in and possess the land",
+        "DSS": "ו באתם ו ירשתם את ה א]ר##ץ"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "which the LORD sware unto your fathers",
+      "traditions": {
+        "WLC": "אֲשֶׁר נִשְׁבַּ֥ע יְהוָ֖ה לַ אֲבֹתֵי כֶֽם",
+        "LXX": "ἣν Κύριος ὁ θεὸς ὑμῶν ὤμοσεν τοῖς πατράσιν ὑμῶν .",
+        "VUL": "pro qua iurávit Dóminus pátribus vestris .",
+        "SP": "אשׁר נשׁבע יהוה ל אבתיכם",
+        "KJV": "which the LORD sware unto your fathers .",
+        "DSS": "אשר נשבע [ ל אבתי׳כם ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness",
+      "traditions": {
+        "WLC": "וְ זָכַרְתָּ֣ אֶת כָּל הַ דֶּ֗רֶךְ אֲשֶׁ֨ר הֹלִֽיכֲ ךָ֜ יְהוָ֧ה אֱלֹהֶ֛י ךָ זֶ֛ה אַרְבָּעִ֥ים שָׁנָ֖ה בַּ מִּדְבָּ֑ר",
+        "LXX": "καὶ μνησθήσῃ πᾶσαν τὴν ὁδὸν ἣν ἤγαγέν σε Κύριος ὁ θεός σου ἐν τῇ ἐρήμῳ ,",
+        "VUL": "Et recordáberis cuncti itíneris , per quod addúxit te Dóminus Deus tuus quadragínta annis per desértum ,",
+        "SP": "ו זכרת את כל ה דרך אשׁר הוליכך יהוה אלהיך זה ארבעים שׁנה ב מדבר",
+        "KJV": "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness ,",
+        "DSS": "[4Q32] ו זכרת את כל ה דרך אשר הליכ׳ך יהוה אלהי ]׳ך זה ארבע#이?ם שנה [ ב מדבר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to humble thee",
+      "traditions": {
+        "WLC": "לְמַ֨עַן עַנֹּֽתְ ךָ֜",
+        "LXX": "ὡς ἂν κακώσῃ σε",
+        "VUL": "ut afflígeret te ,",
+        "SP": "למען ענותך",
+        "KJV": "to humble thee , [",
+        "DSS": "למען ענת׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and to prove thee",
+      "traditions": {
+        "WLC": "לְ נַסֹּֽתְ ךָ֗",
+        "LXX": "καὶ ἐκπειράσῃ σε ,",
+        "VUL": "atque tentáret ,",
+        "SP": "ל נסותך",
+        "KJV": "and ] to prove thee ,",
+        "DSS": "ל נסת׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "to know what was in thine heart",
+      "traditions": {
+        "WLC": "לָ דַ֜עַת אֶת אֲשֶׁ֧ר בִּֽ לְבָבְ ךָ֛",
+        "LXX": "καὶ διαγνωσθῇ τὰ ἐν τῇ καρδίᾳ σου ,",
+        "VUL": "et nota fíerent quæ in tuo ánimo versabántur ,",
+        "SP": "ל דעת אשׁר ב לבבך",
+        "KJV": "to know what [ was ] in thine heart ,",
+        "DSS": "ל דעת את אשר ב לבב׳ך"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "whether thou wouldest keep his commandments, or no",
+      "traditions": {
+        "WLC": "הֲ תִשְׁמֹ֥ר מצות ו אִם לֹֽא",
+        "LXX": "εἰ φυλάξῃ τὰς ἐντολὰς αὐτοῦ ἢ οὔ .",
+        "VUL": "utrum custodíres mandáta illíus , an non .",
+        "SP": "ה תשׁמר מצותיו אם לא",
+        "KJV": "whether thou wouldest keep his commandments , or no .",
+        "DSS": "ה תשמר מצות׳ו אם לא ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he humbled thee",
+      "traditions": {
+        "WLC": "וַֽ יְעַנְּ ךָ֮",
+        "LXX": "καὶ ἐκάκωσέν σε",
+        "VUL": "Afflíxit te penúria ,",
+        "SP": "ו יענך",
+        "KJV": "And he humbled thee ,",
+        "DSS": "ו יענ׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and suffered thee to hunger",
+      "traditions": {
+        "WLC": "וַ יַּרְעִבֶ ךָ֒",
+        "LXX": "καὶ ἐλιμαγχόνησέν σε ,",
+        "VUL": null,
+        "SP": "ו ירעבך",
+        "KJV": "and suffered thee to hunger ,",
+        "DSS": "ו ירעיב׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and fed thee with manna",
+      "traditions": {
+        "WLC": "וַ יַּֽאֲכִֽלְ ךָ֤ אֶת הַ מָּן֙",
+        "LXX": "καὶ ἐψώμισέν σε τὸ μάννα",
+        "VUL": "et dedit tibi cibum manna ,",
+        "SP": "ו יאכילך את ה מן",
+        "KJV": "and fed thee with manna ,",
+        "DSS": "ו יאכיל׳ך את ה מן"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "which thou knewest not, neither did thy fathers know",
+      "traditions": {
+        "WLC": "אֲשֶׁ֣ר לֹא יָדַ֔עְתָּ וְ לֹ֥א יָדְע֖וּ ן אֲבֹתֶ֑י ךָ",
+        "LXX": "ὃ οὐκ εἴδησαν οἱ πατέρες σου ·",
+        "VUL": "quod ignorábas tu et patres tui :",
+        "SP": "אשׁר לא ידעת ו לא ידעו אבתיך",
+        "KJV": "which thou knewest not , neither did thy fathers know ;",
+        "DSS": "אשר לא ידעת ו לא ידעו אבותי׳ך"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "that he might make thee know that man doth not live by bread only",
+      "traditions": {
+        "WLC": "לְמַ֣עַן הוֹדִֽעֲ ךָ֗ כִּ֠י לֹ֣א עַל הַ לֶּ֤חֶם לְ בַדּ וֹ֙ יִחְיֶ֣ה הָֽ אָדָ֔ם",
+        "LXX": "ἵνα ἀναγγείλῃ σοι ὅτι οὐκ ἐπ᾽ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ,",
+        "VUL": "ut osténderet tibi quod non in solo pane vivat homo ,",
+        "SP": "למען הודיעך כי לא על ה לחם ל בדו יחיה ה אדם",
+        "KJV": "that he might make thee know that man doth not live by bread only ,",
+        "DSS": "למען הודיע׳ך כי לא על ה לחם ל בד׳ו יחיה ה אדם"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "but by every word that proceedeth out of the mouth of the LORD doth man live",
+      "traditions": {
+        "WLC": "כִּ֛י עַל כָּל מוֹצָ֥א פִֽי יְהוָ֖ה יִחְיֶ֥ה הָ אָדָֽם",
+        "LXX": "ἀλλ᾽ ἐπὶ παντὶ ῥήματι τῷ ἐκπορευομένῳ διὰ στόματος θεοῦ ζήσεται ὁ ἄνθρωπος .",
+        "VUL": "sed in omni verbo quod egréditur de ore Dei .",
+        "SP": "כי על כל מוצא פי יהוה יחיה ה אדם",
+        "KJV": "but by every [ word ] that proceedeth out of the mouth of the LORD doth man live .",
+        "DSS": "כי על כל מוצא פי יהוה יחיה ה אדם ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thy raiment waxed not old upon thee",
+      "traditions": {
+        "WLC": "שִׂמְלָ֨תְ ךָ֜ לֹ֤א בָֽלְתָה֙ מֵֽ עָלֶ֔י ךָ",
+        "LXX": "τὰ ἱμάτιά σου οὐκ ἐπαλαιώθη ἀπὸ σοῦ ,",
+        "VUL": "Vestiméntum tuum , quo operiebáris , nequáquam vetustáte defécit ,",
+        "SP": "שׂמלתך לא בלתה מ עליך",
+        "KJV": "Thy raiment waxed not old upon thee ,",
+        "DSS": "שלמת׳ך{{ ך }} לא בלתה מ עלי?׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither did thy foot swell",
+      "traditions": {
+        "WLC": "וְ רַגְלְ ךָ֖ לֹ֣א בָצֵ֑קָה",
+        "LXX": "τὰ ὑποδήματά σου οὐ κατετρίβη ἀπὸ σοῦ , οἱ πόδες σου οὐκ ἐτυλώθησαν",
+        "VUL": "et pes tuus non est subtrítus ,",
+        "SP": "ו רגליך לא בצקה",
+        "KJV": "neither did thy foot swell ,",
+        "DSS": "ו רגל׳ך לא בצקה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "these forty years",
+      "traditions": {
+        "WLC": "זֶ֖ה אַרְבָּעִ֥ים שָׁנָֽה",
+        "LXX": "ἰδοὺ τεσσεράκοντα ἔτη .",
+        "VUL": "en quadragésimus annus est :",
+        "SP": "זה ארבעים שׁנה",
+        "KJV": "these forty years .",
+        "DSS": "זה ארבעים שנה ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt also consider in thine heart ,",
+      "traditions": {
+        "WLC": "וְ יָדַעְתָּ֖ עִם לְבָבֶ֑ ךָ",
+        "LXX": "καὶ γνώσῃ τῇ καρδίᾳ σου",
+        "VUL": "ut recógites in corde tuo ,",
+        "SP": "ו ידעת עם לבבך",
+        "KJV": "Thou shalt also consider in thine heart ,",
+        "DSS": "[4Q30] ו ידע[ ת ע ]ם## ל##[ בב׳ך / [4Q32] ו ידעת#[ עם לבב׳ך / [4Q33] ו ידעת עם לבב׳ך / [4Q37] [ ו ידעתה עם לבב ]׳כ##ה## / [4Q41] ו ידעת עם לבב׳ך / [5Q1] ε ו ידעת עם לבב׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that , as a man chasteneth his son ,",
+      "traditions": {
+        "WLC": "כִּ֗י כַּ אֲשֶׁ֨ר יְיַסֵּ֥ר אִישׁ֙ אֶת בְּנ֔ וֹ",
+        "LXX": "ὅτι ὡς εἴ τις παιδεύσαι ἄνθρωπος τὸν υἱὸν αὐτοῦ ,",
+        "VUL": "quia sicut érudit fílium suum homo ,",
+        "SP": "כי כ אשׁר ייסר אישׁ את בנו",
+        "KJV": "that , as a man chasteneth his son , [ so ]",
+        "DSS": "[4Q30] כי כ אשר ייסר איש את בנ׳ו ] ׃ / [4Q32] כי כ אשר ייסר איש את בנ׳ו / [4Q33] כי כ אשר ] [ ייסר איש את בנ׳ו / [4Q37] [ כי כ אשר ]י#?יסר איש את [ ב ]נ#?׳ו / [4Q41] כי כ אשר ייסר איש את בנ׳ו / [5Q1] כי כ אשר ייסר איש א ]ת## בנ׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ so ] the LORD thy God chasteneth thee .",
+      "traditions": {
+        "WLC": "יְהוָ֥ה אֱלֹהֶ֖י ךָ מְיַסְּרֶֽ ךָּ",
+        "LXX": "οὕτως Κύριος ὁ θεός σου παιδεύσει σε ·",
+        "VUL": "sic Dóminus Deus tuus erudívit te ,",
+        "SP": "יהוה אלהיך מיסרך",
+        "KJV": "the LORD thy God chasteneth thee .",
+        "DSS": "[4Q32] יהוה אלהי׳ך ] מיסר׳ך#[ ׃ / [4Q33] י ]הוה אלה#[ י ]׳ך##[ מיסר׳ך ׃ / [4Q37] כן יהו?[ ה אלו ]ה##י?׳כ#ה# מ#יס##[ רי׳כה ׃ / [4Q41] יהוה אלוהי׳ך מיסר׳ך ׃ / [5Q1] [ יהוה אלהי׳ך מיסר׳ך ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore thou shalt keep the commandments of the LORD thy God",
+      "traditions": {
+        "WLC": "וְ שָׁ֣מַרְתָּ֔ אֶת מִצְוֺ֖ת יְהוָ֣ה אֱלֹהֶ֑י ךָ",
+        "LXX": "καὶ φυλάξῃ τὰς ἐντολὰς Κυρίου τοῦ θεοῦ σου ,",
+        "VUL": "ut custódias mandáta Dómini Dei tui ,",
+        "SP": "ו שׁמרת את מצות יהוה אלהיך",
+        "KJV": "Therefore thou shalt keep the commandments of the LORD thy God ,",
+        "DSS": "ו שמרת את מצות יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to walk in his ways",
+      "traditions": {
+        "WLC": "לָ לֶ֥כֶת בִּ דְרָכָ֖י ו",
+        "LXX": "πορεύεσθαι ταῖς ὁδοῖς αὐτοῦ",
+        "VUL": "et ámbules in viis eius ,",
+        "SP": "ל לכת ב דרכיו",
+        "KJV": "to walk in his ways ,",
+        "DSS": "ל לכת ב דרכי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and to fear him",
+      "traditions": {
+        "WLC": "וּ לְ יִרְאָ֥ה אֹתֽ וֹ",
+        "LXX": "καὶ φοβεῖσθαι αὐτόν .",
+        "VUL": "et tímeas eum .",
+        "SP": "ו ל יראה אתו",
+        "KJV": "and to fear him .",
+        "DSS": "ו ל ירא׳ה את׳ו ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the LORD thy God bringeth thee into a good land",
+      "traditions": {
+        "WLC": "כִּ֚י יְהוָ֣ה אֱלֹהֶ֔י ךָ מְבִֽיאֲ ךָ֖ אֶל אֶ֣רֶץ טוֹבָ֑ה",
+        "LXX": "ὁ γὰρ Κύριος ὁ θεός σου εἰσάγει σε εἰς γῆν ἀγαθὴν καὶ πολλήν ,",
+        "VUL": "Dóminus enim Deus tuus introdúcet te in terram bonam ,",
+        "SP": "כי יהוה אלהיך מביאך אל ארץ טובה ו רחבה",
+        "KJV": "For the LORD thy God bringeth thee into a good land ,",
+        "DSS": "כי יהוה אלוהי׳ך מביא׳ך אל ארץ טובה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "a land of brooks of water, of fountains and depths",
+      "traditions": {
+        "WLC": "אֶ֚רֶץ נַ֣חֲלֵי מָ֔יִם עֲיָנֹת֙ וּ תְהֹמֹ֔ת",
+        "LXX": "οὗ χείμαρροι ὑδάτων , πηγαὶ ἀβύσσων",
+        "VUL": "terram rivórum , aquarúmque et fóntium ,",
+        "SP": "ארץ נחלי מים עינות תהומות",
+        "KJV": "a land of brooks of water , of fountains and depths",
+        "DSS": "ארץ נחלי מים עינת ו תהמת"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that spring out of valleys and hills",
+      "traditions": {
+        "WLC": "יֹצְאִ֥ים בַּ בִּקְעָ֖ה וּ בָ הָֽר",
+        "LXX": "ἐκπορευόμεναι διὰ τῶν πεδίων καὶ διά τῶν ὀρέων ·",
+        "VUL": "in cuius campis et móntibus erúmpunt fluviórum abýssi :",
+        "SP": "יצאים ב בקעה ו ב הר",
+        "KJV": "that spring out of valleys and hills ;",
+        "DSS": "يצאים ב בקעה ו ב הר ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "A land of wheat, and barley, and vines, and fig trees, and pomegranates",
+      "traditions": {
+        "WLC": "אֶ֤רֶץ חִטָּה֙ וּ שְׂעֹרָ֔ה וְ גֶ֥פֶן וּ תְאֵנָ֖ה וְ רִמּ֑וֹן",
+        "LXX": "γῆ πυροῦ καὶ κριθῆς , ἄμπελοι , συκαῖ , ῥόαι ,",
+        "VUL": "terram fruménti , hórdei ac vineárum , in qua ficus , et malogranáta ,",
+        "SP": "ארץ חטה ו שׂערה גפן תאנה ו רמון",
+        "KJV": "A land of wheat , and barley , and vines , and fig trees , and pomegranates ;",
+        "DSS": "ארץ חטה ו שערה ו גפן ו תאנה ו רמون"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "a land of oil olive, and honey",
+      "traditions": {
+        "WLC": "אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּ דְבָֽשׁ",
+        "LXX": "γῆ ἐλαίας ἐλαίου καὶ μέλιτος ·",
+        "VUL": "et olivéta nascúntur : terram ólei ac mellis ,",
+        "SP": "ארץ זית שׁמן ו דבשׁ",
+        "KJV": "a land of oil olive , and honey ;",
+        "DSS": "ארץ זית שמן ו דבש ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "A land wherein thou shalt eat bread without scarceness",
+      "traditions": {
+        "WLC": "אֶ֗רֶץ אֲשֶׁ֨ר לֹ֤א בְ מִסְכֵּנֻת֙ תֹּֽאכַל בָּ֣ הּ לֶ֔חֶם",
+        "LXX": "γῆ ἐφ᾽ ἧς οὐ μετὰ πτωχίας φάγῃ τὸν ἄρτον σου ,",
+        "VUL": "ubi absque ulla penúria cómedes panem tuum ,",
+        "SP": "ארץ אשׁר לא ב מסכנת תאכל בה לחם",
+        "KJV": "A land wherein thou shalt eat bread without scarceness ,",
+        "DSS": "ארץ אשר לא ב מסכנת תאכל ב׳ה לחם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt not lack any thing in it",
+      "traditions": {
+        "WLC": "לֹֽא תֶחְסַ֥ר כֹּ֖ל בָּ֑ הּ",
+        "LXX": "καὶ οὐκ ἐνδεηθήσῃ ἐπ᾽ αὐτῆς οὐδέν ·",
+        "VUL": "et rerum ómnium abundántia perfruéris :",
+        "SP": "לא תחסר כל בה",
+        "KJV": "thou shalt not lack any [ thing ] in it ;",
+        "DSS": "לא תחסر כל ב׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a land whose stones are iron",
+      "traditions": {
+        "WLC": "אֶ֚רֶץ אֲשֶׁ֣ר אֲבָנֶ֣י הָ בַרְזֶ֔ל",
+        "LXX": "γῆ ἧς οἱ λίθοι σίδηρος ,",
+        "VUL": "cuius lápides ferrum sunt ,",
+        "SP": "ארץ אשׁר אבניה ברזל",
+        "KJV": "a land whose stones [ are ] iron ,",
+        "DSS": "ארץ אשר אבני׳ה ברזל"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and out of whose hills thou mayest dig brass",
+      "traditions": {
+        "WLC": "וּ מֵ הֲרָרֶ֖י הָ תַּחְצֹ֥ב נְחֹֽשֶׁת",
+        "LXX": "καὶ ἐκ τῶν ὀρέων αὐτῆς μεταλλεύσεις χαλκόν ·",
+        "VUL": "et de móntibus eius æris metálla fodiúntur :",
+        "SP": "ו מ הרריה תחצב נחשׁת",
+        "KJV": "and out of whose hills thou mayest dig brass .",
+        "DSS": "ו מ הרי׳ה תחצב נחושת ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "When thou hast eaten and art full",
+      "traditions": {
+        "WLC": "וְ אָכַלְתָּ֖ וְ שָׂבָ֑עְתָּ",
+        "LXX": "καὶ φάγῃ καὶ ἐμπλησθήσῃ ,",
+        "VUL": "ut cum coméderis , et satiátus fúeris ,",
+        "SP": "ו אכלת ו שׂבעת",
+        "KJV": "When thou hast eaten and art full ,",
+        "DSS": "ו אכלת ו שבעת"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then thou shalt bless the LORD thy God",
+      "traditions": {
+        "WLC": "וּ בֵֽרַכְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "καὶ εὐλογήσεις Κύριον τὸν θεόν σου",
+        "VUL": "benedícas Dómino Deo tuo",
+        "SP": "ו ברכת את יהוה אלהיך",
+        "KJV": "then thou shalt bless the LORD thy God",
+        "DSS": "ו ברכת את יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for the good land which he hath given thee",
+      "traditions": {
+        "WLC": "עַל הָ אָ֥רֶץ הַ טֹּבָ֖ה אֲשֶׁ֥ר נָֽתַן לָֽ ךְ",
+        "LXX": "ἐπὶ τῆς γῆς τῆς ἀγαθῆς ἧς ἔδωκέν σοι .",
+        "VUL": "pro terra óptima , quam dedit tibi .",
+        "SP": "על ה ארץ ה טובה אשׁר נתן לך",
+        "KJV": "for the good land which he hath given thee .",
+        "DSS": "על ה ארץ ה טובה אשר נתן ل׳ך ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Beware that thou forget not the LORD thy God",
+      "traditions": {
+        "WLC": "הִשָּׁ֣מֶר לְ ךָ֔ פֶּן תִּשְׁכַּ֖ח אֶת יְהוָ֣ה אֱלֹהֶ֑י ךָ",
+        "LXX": "πρόσεχε σεαυτῷ μὴ ἐπιλάθῃ Κυρίου τοῦ θεοῦ σου ,",
+        "VUL": "Obsérva , et cave nequándo obliviscáris Dómini Dei tui ,",
+        "SP": "השׁמר לך פן תשׁכח את יהוה אלהיך",
+        "KJV": "Beware that thou forget not the LORD thy God ,",
+        "DSS": "השמר ל׳ך פן תשכח את יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in not keeping his commandments , and his judgments , and his statutes",
+      "traditions": {
+        "WLC": "לְ בִלְתִּ֨י שְׁמֹ֤ר מִצְוֺתָי ו֙ וּ מִשְׁפָּטָ֣י ו וְ חֻקֹּתָ֔י",
+        "LXX": "τοῦ μὴ φυλάξαι τὰς ἐντολὰς αὐτοῦ καὶ τὰ κρίματα καὶ τὰ δικαιώματα αὐτοῦ ,",
+        "VUL": "et négligas mandáta eius atque iudícia et cæremónias ,",
+        "SP": "ל בלתי שׁמר מצותיו ו משׁפטיו ו חקתיו",
+        "KJV": "in not keeping his commandments , and his judgments , and his statutes ,",
+        "DSS": "ל בלתי שמר מצותי׳ו ו משפטי׳ו ו חקתי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which I command thee this day",
+      "traditions": {
+        "WLC": "ו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּ ךָ֖ הַ יּֽוֹם",
+        "LXX": "ὅσα ἐγὼ ἐντέλλομαί σοι σήμερον ·",
+        "VUL": "quas ego præcípio tibi hódie :",
+        "SP": "אשׁר אנכי מצוך ה יום",
+        "KJV": "which I command thee this day :",
+        "DSS": "אשר אנכי מצו׳ך ה יום"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Lest [ when ] thou hast eaten and art full",
+      "traditions": {
+        "WLC": "פֶּן תֹּאכַ֖ל וְ שָׂבָ֑עְתָּ",
+        "LXX": "μὴ φαγὼν καὶ ἐμπλησθείς ,",
+        "VUL": "ne postquam coméderis et satiátus fúeris ,",
+        "SP": "פן תאכל ו שׂבעת",
+        "KJV": "Lest [ when ] thou hast eaten and art full ,",
+        "DSS": "פן תאכל ו שבעת"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and hast built goodly houses",
+      "traditions": {
+        "WLC": "וּ בָתִּ֥ים טוֹבִ֛ים תִּבְנֶ֖ה",
+        "LXX": "καὶ οἰκίας καλὰς οἰκοδομήσας",
+        "VUL": "domos pulchras ædificáveris ,",
+        "SP": "ו בתים טובים תבנה",
+        "KJV": "and hast built goodly houses ,",
+        "DSS": "ו בתים טובים תבנה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and dwelt [ therein ]",
+      "traditions": {
+        "WLC": "וְ יָשָֽׁבְתָּ",
+        "LXX": "καὶ κατοικήσας ἐν αὐταῖς ,",
+        "VUL": "et habitáveris in eis ,",
+        "SP": "ו ישׁבת",
+        "KJV": "and dwelt [ therein ] ;",
+        "DSS": "ו ישבת"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And [ when ] thy herds and thy flocks multiply",
+      "traditions": {
+        "WLC": "וּ בְקָֽרְ ךָ֤ וְ צֹֽאנְ ךָ֙ יִרְבְּיֻ֔ ן",
+        "LXX": "καὶ τῶν βοῶν σου πληθυνθέντων καὶ τῶν προβάτων σου πληθυνθέντων ,",
+        "VUL": "habuerísque arménta boum , et óvium greges ,",
+        "SP": "ו בקרך ו צאנך ירבון",
+        "KJV": "And [ when ] thy herds and thy flocks multiply ,",
+        "DSS": "ו בקר׳ך ו צאנ׳ך ירבי׳ן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thy silver and thy gold is multiplied",
+      "traditions": {
+        "WLC": "וְ כֶ֥סֶף וְ זָהָ֖ב יִרְבֶּה לָּ֑ ךְ",
+        "LXX": "ἀργυρίου καὶ χρυσίου πληθυνθέντος σοι ,",
+        "VUL": "argénti et auri ,",
+        "SP": "ו כסף ו זהב ירבה לך",
+        "KJV": "and thy silver and thy gold is multiplied ,",
+        "DSS": "ו כסף ו זהב ירבה ל׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and all that thou hast is multiplied",
+      "traditions": {
+        "WLC": "וְ כֹ֥ל אֲשֶׁר לְ ךָ֖ יִרְבֶּֽה",
+        "LXX": "καὶ πάντων ὅσων ἔσται σοι πληθυνθέντων σοι ,",
+        "VUL": "cunctarúmque rerum cópiam ,",
+        "SP": "ו כל אשׁר לך ירבה",
+        "KJV": "and all that thou hast is multiplied ;",
+        "DSS": "ו כל אשר ל׳ך ירבה"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then thine heart be lifted up",
+      "traditions": {
+        "WLC": "וְ רָ֖ם לְבָבֶ֑ ךָ",
+        "LXX": "ὑψωθῇς τῇ καρδίᾳ",
+        "VUL": "elevétur cor tuum ,",
+        "SP": "ו רם לבבך",
+        "KJV": "Then thine heart be lifted up ,",
+        "DSS": "ו רם לבב׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou forget the LORD thy God",
+      "traditions": {
+        "WLC": "וְ שָֽׁכַחְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "καὶ ἐπιλάθῃ Κυρίου τοῦ θεοῦ σου",
+        "VUL": "et non reminiscáris Dómini Dei tui ,",
+        "SP": "ו שׁכחת את יהוה אלהיך",
+        "KJV": "and thou forget the LORD thy God ,",
+        "DSS": "ו שכחת את יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which brought thee forth out of the land of Egypt , from the house of bondage",
+      "traditions": {
+        "WLC": "הַ מּוֹצִיאֲ ךָ֛ מֵ אֶ֥רֶץ מִצְרַ֖יִם מִ בֵּ֥ית עֲבָדִֽים",
+        "LXX": "τοῦ ἐξαγαγόντος σε ἐκ γῆς Αἰγύπτου , ἐξ οἴκου δουλίας ·",
+        "VUL": "qui edúxit te de terra Ægýpti , de domo servitútis ,",
+        "SP": "ה מוציאך מ ארץ מצרים מ בית עבדים",
+        "KJV": "which brought thee forth out of the land of Egypt , from the house of bondage ;",
+        "DSS": "ה מוציא׳ך מ ארץ מצרים מ בית עבדים"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who led thee through that great and terrible wilderness",
+      "traditions": {
+        "WLC": "הַ מּוֹלִ֨יכֲ ךָ֜ בַּ מִּדְבָּ֣ר הַ גָּדֹ֣ל וְ הַ נּוֹרָ֗א",
+        "LXX": "τοῦ ἀγαγόντος σε διὰ τῆς ἐρήμου τῆς μεγάλης καὶ τῆς φοβερᾶς ἐκείνης ,",
+        "VUL": "et ductor tuus fuit in solitúdine magna atque terríbili ,",
+        "SP": "ה מוליכך ב מדבר ה גדול ו ה נורא",
+        "KJV": "Who led thee through that great and terrible wilderness , [ wherein were ]",
+        "DSS": "ה מוליכ׳ך ב מדבר ה גדל ו ה נורא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ wherein were ] fiery serpents , and scorpions , and drought , where [ there was ] no water",
+      "traditions": {
+        "WLC": "נָחָ֤שׁ שָׂרָף֙ וְ עַקְרָ֔ב וְ צִמָּא֖וֹן אֲשֶׁ֣ר אֵֽין מָ֑יִם",
+        "LXX": "οὗ ὄφις δάκνων καὶ σκορπίος καὶ δίψα , οὗ οὐκ ἦν ὕδωρ .",
+        "VUL": "in qua erat serpens flatu adúrens , et scórpio ac dipsas , et nullæ omníno aquæ :",
+        "SP": "נחשׁ שׂרוף עקרב ו צמאון אשׁר אין מים",
+        "KJV": "fiery serpents , and scorpions , and drought , where [ there was ] no water ;",
+        "DSS": "נחש שרף ו עקרב ו צמאון אשר אין מים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "who brought thee forth water out of the rock of flint",
+      "traditions": {
+        "WLC": "הַ מּוֹצִ֤יא לְ ךָ֙ מַ֔יִם מִ צּ֖וּר הַֽ חַלָּמִֽישׁ",
+        "LXX": "τοῦ ἐξαγαγόντος σοι ἐκ πέτρας ἀκροτόμου πηγὴν ὕδατος ·",
+        "VUL": "qui edúxit rivos de petra duríssima ,",
+        "SP": "ה מוצא לך מים מ צור ה חלמישׁ",
+        "KJV": "who brought thee forth water out of the rock of flint ;",
+        "DSS": "ה מוציא ל׳ך מים מ צור ה חלמיש"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who fed thee in the wilderness with manna",
+      "traditions": {
+        "WLC": "הַ מַּֽאֲכִ֨לְ ךָ֥ מָן֙ בַּ מִּדְבָּ֔ר",
+        "LXX": "τοῦ ψωμίσαντός σε τὸ μάννα ἐν τῇ ἐρήμῳ ,",
+        "VUL": "et cibávit te manna in solitúdine ,",
+        "SP": "ה מאכילך מן ב מדבר",
+        "KJV": "Who fed thee in the wilderness with manna ,",
+        "DSS": "ה מאכל׳ך מן ב מדבר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which thy fathers knew not",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר לֹא יָדְע֖וּ ן אֲבֹתֶ֑י ךָ",
+        "LXX": "ὃ οὐκ ᾔδεισαν οἱ πατέρες σου ,",
+        "VUL": "quod nesciérunt patres tui .",
+        "SP": "אשׁר לא ידעו אבתיך",
+        "KJV": "which thy fathers knew not ,",
+        "DSS": "אשר לא ידעו׳ן אבתי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that he might humble thee , and that he might prove thee",
+      "traditions": {
+        "WLC": "לְמַ֣עַן עַנֹּֽתְ ךָ֗ וּ לְמַ֨עַן֙ נַסֹּתֶ֔ ךָ",
+        "LXX": "ἵνα κακώσῃ σε καὶ ἐκπειράσῃ σε ,",
+        "VUL": "Et postquam afflíxit ac probávit ,",
+        "SP": "למען ענותך ו למען נסותך",
+        "KJV": "that he might humble thee , and that he might prove thee ,",
+        "DSS": "למען ענת׳ך ו למען נסת׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "to do thee good at thy latter end",
+      "traditions": {
+        "WLC": "לְ הֵיטִֽבְ ךָ֖ בְּ אַחֲרִיתֶֽ ךָ",
+        "LXX": "καὶ εὖ σε ποιήσῃ ἐπ᾽ ἐσχάτων τῶν ἡμερῶν σου ·",
+        "VUL": "ad extrémum misértus est tui ,",
+        "SP": "ל הטיבך ב אחריתך",
+        "KJV": "to do thee good at thy latter end ;",
+        "DSS": "ל היטב׳ך ב אחרת׳ך"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou say in thine heart",
+      "traditions": {
+        "WLC": "וְ אָמַרְתָּ֖ בִּ לְבָבֶ֑ ךָ",
+        "LXX": "μὴ εἴπῃς ἐν τῇ καρδίᾳ σου",
+        "VUL": "ne díceres in corde tuo :",
+        "SP": "ו אמרת ב לבבך",
+        "KJV": "And thou say in thine heart ,",
+        "DSS": "ו אמרת ב לבב׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "My power and the might of [ mine ] hand hath gotten me this wealth",
+      "traditions": {
+        "WLC": "כֹּחִ י֙ וְ עֹ֣צֶם יָדִ֔ י עָ֥שָׂה לִ֖ י אֶת הַ חַ֥יִל הַ זֶּֽה",
+        "LXX": "Ἡ ἰσχύς μου καὶ τὸ κράτος τῆς χειρός μου ἐποίησέν μοι τὴν δύναμιν τὴν μεγάλην ταύτην .",
+        "VUL": "Fortitúdo mea , et robur manus meæ , hæc mihi ómnia præstitérunt :",
+        "SP": "כחי ו עצם ידי עשׂה לי את ה חיל ה זה",
+        "KJV": "My power and the might of [ mine ] hand hath gotten me this wealth .",
+        "DSS": "כח׳י ו עצם יד׳י עשה ל׳י את ה חיל ה זה"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "But thou shalt remember the LORD thy God :",
+      "traditions": {
+        "WLC": "וְ זָֽכַרְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "καὶ μνησθήσῃ Κυρίου τοῦ θεοῦ σου ,",
+        "VUL": "sed recordéris Dómini Dei tui ,",
+        "SP": "ו זכרת את יהוה אלהיך",
+        "KJV": "But thou shalt remember the LORD thy God :",
+        "DSS": "[5Q1] ו זכרת את יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for [ it is ] he that giveth thee power to get wealth ,",
+      "traditions": {
+        "WLC": "כִּ֣י ה֗וּא הַ נֹּתֵ֥ן לְ ךָ֛ כֹּ֖חַ לַ עֲשׂ֣וֹת חָ֑יִל",
+        "LXX": "ὅτι αὐτός σοι δίδωσι τὴν ἰσχὺν τοῦ ποιῆσαι δύναμιν ,",
+        "VUL": "quod ipse vires tibi præbúerit ,",
+        "SP": "כי הוא ה נתן לך כח ל עשׂות חיל",
+        "KJV": "for [ it is ] he that giveth thee power to get wealth ,",
+        "DSS": "[1Q4] [ הוא ה נתן ל׳ך כח ל עשות חיל / [5Q1] כ##י הוא ה נתן ל#׳[ ך כח ל עשות ] ח##יל#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that he may establish his covenant which he sware unto thy fathers ,",
+      "traditions": {
+        "WLC": "לְמַ֨עַן הָקִ֧ים אֶת בְּרִית֛ וֹ אֲשֶׁר נִשְׁבַּ֥ע לַ אֲבֹתֶ֖י ךָ",
+        "LXX": "καὶ ἵνα στήσῃ τὴν διαθήκην ἣν ὤμοσεν Κύριος τοῖς πατράσιν σου",
+        "VUL": "ut impléret pactum suum , super quo iurávit pátribus tuis ,",
+        "SP": "ו למען הקים את בריתו אשׁר נשׁבע ל אבתיך ל אברהם ל יצחק ו ל יעקב",
+        "KJV": "that he may establish his covenant which he sware unto thy fathers ,",
+        "DSS": "[1Q4] למען ]ה#קים [ את ברית׳ו אשר נשבע ל אבתי׳ך / [5Q1] [ למען הקים את ברית׳ו אשר נשבע ל אבתי׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as [ it is ] this day .",
+      "traditions": {
+        "WLC": "כַּ יּ֥וֹם הַ זֶּֽה",
+        "LXX": "ὡς σήμερον .",
+        "VUL": "sicut præsens índicat dies .",
+        "SP": "כ יום ה זה",
+        "KJV": "as [ it is ] this day .",
+        "DSS": "[1Q4] כ יום ה זה ׃ / [5Q1] כ יום ] ה זה ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall be ,",
+      "traditions": {
+        "WLC": "וְ הָיָ֗ה",
+        "LXX": "καὶ ἔσται",
+        "VUL": "Sin autem",
+        "SP": "ו היה",
+        "KJV": "And it shall be ,",
+        "DSS": "[1Q4] ו היה ] [ / [5Q1] ו היה["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "if thou do at all forget the LORD thy God ,",
+      "traditions": {
+        "WLC": "אִם שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת יְהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "ἐὰν λήθῃ ἐπιλάθῃ Κυρίου τοῦ θεοῦ σου ,",
+        "VUL": "oblítus Dómini Dei tui ,",
+        "SP": "אם שׁכח תשׁכח את יהוה אלהיך",
+        "KJV": "if thou do at all forget the LORD thy God ,",
+        "DSS": "[1Q4] אם שכח תשכח את י ]ה##וה[ אלהי׳ך / [5Q1] אם שכח תשכ ]ח## א#ת# [ יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and walk after other gods ,",
+      "traditions": {
+        "WLC": "וְ הָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים",
+        "LXX": "καὶ πορευθῇς ὀπίσω θεῶν ἑτέρων",
+        "VUL": "secútus fúeris deos aliénos ,",
+        "SP": "ו הלכת אחרי אלהים אחרים",
+        "KJV": "and walk after other gods ,",
+        "DSS": "[1Q4] ו הלכ ]תה אחרי [ אלהים אחרים / [5Q1] ו הלכת אחרי אלהים אחרים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and serve them ,",
+      "traditions": {
+        "WLC": "וַ עֲבַדְתָּ֖ ם",
+        "LXX": "καὶ λατρεύσῃς αὐτοῖς ,",
+        "VUL": "coluerísque illos",
+        "SP": "ו עבדתם",
+        "KJV": "and serve them ,",
+        "DSS": "[1Q4] ו עבדת׳ם / [5Q1] ו עבדת׳ם"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and worship them ,",
+      "traditions": {
+        "WLC": "וְ הִשְׁתַּחֲוִ֣יתָ לָ הֶ֑ם",
+        "LXX": null,
+        "VUL": "et adoráveris :",
+        "SP": "ו השׁתחוית להם",
+        "KJV": "and worship them ,",
+        "DSS": "[1Q4] ו השתחוית ל׳הם / [5Q1] ו השתחוית ל׳הם"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "I testify against you this day",
+      "traditions": {
+        "WLC": "הַעִדֹ֤תִי בָ כֶם֙ הַ יּ֔וֹם",
+        "LXX": "διαμαρτύρομαι ὑμῖν σήμερον",
+        "VUL": "ecce nunc prǽdico tibi",
+        "SP": "העדתי בכם ה יום",
+        "KJV": "I testify against you this day",
+        "DSS": "[1Q4] העדתי ] [ ב׳כם ה יום / [5Q1] ה ]ע##דתי [ ב׳כם ]ה# י?ו#?[ ם (^ את ה שמים ] ו#? את##[ ה ארץ ^)"
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "that ye shall surely perish .",
+      "traditions": {
+        "WLC": "כִּ֥י אָבֹ֖ד תֹּאבֵדֽוּ ן",
+        "LXX": "ὅτι ἀπωλίᾳ ἀπολεῖσθε ·",
+        "VUL": "quod omníno dispéreas .",
+        "SP": "כי אבד תאבדון",
+        "KJV": "that ye shall surely perish .",
+        "DSS": "[1Q4] כיא אב#[ ד תאבדו׳ן ׃ / [5Q1] כי אבד ] תאב[ דו ]׳ן#? ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "As the nations which the LORD destroyeth before your face",
+      "traditions": {
+        "WLC": "כַּ גּוֹיִ֗ם אֲשֶׁ֤ר יְהוָה֙ מַאֲבִ֣יד מִ פְּנֵי כֶ֔ם",
+        "LXX": "καθὰ καὶ τὰ λοιπὰ ἔθνη ὅσα Κύριος ἀπολλύει πρὸ προσώπου ὑμῶν ,",
+        "VUL": "Sicut gentes , quas delévit Dóminus in intróitu tuo ,",
+        "SP": "כ גוים אשׁר יהוה מאבד מ פניכם",
+        "KJV": "As the nations which the LORD destroyeth before your face ,",
+        "DSS": "כ גוים אשר יהוה מאביד מ פני׳כם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "so shall ye perish",
+      "traditions": {
+        "WLC": "כֵּ֖ן תֹאבֵד֑וּ ן",
+        "LXX": "οὕτως ἀπολεῖσθε",
+        "VUL": "ita et vos períbitis ,",
+        "SP": "כן תאבדון",
+        "KJV": "so shall ye perish ;",
+        "DSS": "כן תאבדו׳ן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because ye would not be obedient unto the voice of the LORD your God",
+      "traditions": {
+        "WLC": "עֵ֚קֶב לֹ֣א תִשְׁמְע֔וּ ן בְּ ק֖וֹל יְהוָ֥ה אֱלֹהֵי כֶֽם",
+        "LXX": "ἀνθ᾽ ὧν οὐκ ἠκούσατε τῆς φωνῆς Κυρίου τοῦ θεοῦ ὑμῶν .",
+        "VUL": "si inobediéntes fuéritis voci Dómini Dei vestri .",
+        "SP": "עקב לא תשׁמעון ב קול יהוה אלהיכם",
+        "KJV": "because ye would not be obedient unto the voice of the LORD your God .",
+        "DSS": "عקב לא תשמעו׳ן ב קול יהוה אלהי׳כם"
+      }
+    }
+  ]
+}

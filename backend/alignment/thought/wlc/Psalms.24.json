@@ -1,0 +1,358 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "A Psalm of David .",
+      "traditions": {
+        "WLC": "לְ דָוִ֗ד מִ֫זְמ֥וֹר",
+        "LXX": "Ψαλμὸς τῷ Δαυείδ · τῆς μιᾶς σαββάτων .",
+        "VUL": "Prima sábbati , Psalmus David .",
+        "SP": null,
+        "KJV": "A Psalm of David .",
+        "DSS": "ל דוד מזמור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The earth [ is ] the LORD’S , and the fulness thereof ;",
+      "traditions": {
+        "WLC": "לַֽ֭ יהוָה הָ אָ֣רֶץ וּ מְלוֹאָ֑ הּ",
+        "LXX": "Τοῦ κυρίου ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς ,",
+        "VUL": "Dómini est terra , et plenitúdo eius :",
+        "SP": null,
+        "KJV": "The earth [ is ] the LORD’S , and the fulness thereof ;",
+        "DSS": "[5/6hev1b] ל יהוה##[  ה ארץ ו מלוא׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the world , and they that dwell therein .",
+      "traditions": {
+        "WLC": "תֵּ֝בֵ֗ל וְ יֹ֣שְׁבֵי בָֽ הּ",
+        "LXX": "ἡ οἰκουμένη καὶ πάντες οἱ κατοικοῦντες ἐν αὐτῇ .",
+        "VUL": "orbis terrárum , et univérsi qui hábitant in eo .",
+        "SP": null,
+        "KJV": "the world , and they that dwell therein .",
+        "DSS": "תבל ו ישבי ב׳ה ] ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "For he hath founded it upon the seas",
+      "traditions": {
+        "WLC": "כִּי ה֭וּא עַל יַמִּ֣ים יְסָדָ֑ הּ",
+        "LXX": "αὐτὸς ἐπὶ θαλασσῶν ἐθεμελίωσεν αὐτήν ,",
+        "VUL": "Quia ipse super mária fundávit eum ,",
+        "SP": null,
+        "KJV": "For he hath founded it upon the seas ,",
+        "DSS": "כי[  הוא על ימים יסד׳ה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and established it upon the floods",
+      "traditions": {
+        "WLC": "וְ עַל נְ֝הָר֗וֹת יְכוֹנְנֶֽ הָ",
+        "LXX": "καὶ ἐπὶ ποταμῶν ἡτοίμασεν αὐτήν .",
+        "VUL": "et super flúmina præparávit eum .",
+        "SP": null,
+        "KJV": "and established it upon the floods .",
+        "DSS": "[ ו על נהרות יכוננ׳ה ]"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who shall ascend into the hill of the LORD ?",
+      "traditions": {
+        "WLC": "מִֽי יַעֲלֶ֥ה בְ הַר יְהוָ֑ה",
+        "LXX": "τίς ἀναβήσεται εἰς τὸ ὄρος τοῦ κυρίου ,",
+        "VUL": "Quis ascéndet in montem Dómini ?",
+        "SP": null,
+        "KJV": "Who shall ascend into the hill of the LORD ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or who shall stand in his holy place ?",
+      "traditions": {
+        "WLC": "וּ מִי יָ֝קוּם בִּ מְק֥וֹם קָדְשֽׁ וֹ",
+        "LXX": "καὶ τίς στήσεται ἐν τόπῳ ἁγίῳ αὐτοῦ ;",
+        "VUL": "aut quis stabit in loco sancto eius ?",
+        "SP": null,
+        "KJV": "or who shall stand in his holy place ?",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "He that hath clean hands , and a pure heart",
+      "traditions": {
+        "WLC": "נְקִ֥י כַפַּ֗יִם וּֽ בַר לֵ֫בָ֥ב",
+        "LXX": "ἀθῷος χερσὶν καὶ καθαρὸς τῇ καρδίᾳ ,",
+        "VUL": "Innocens mánibus et mundo corde ,",
+        "SP": null,
+        "KJV": "He that hath clean hands , and a pure heart ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "who hath not lifted up his soul unto vanity",
+      "traditions": {
+        "WLC": "אֲשֶׁ֤ר לֹא נָשָׂ֣א לַ שָּׁ֣וְא נַפְשִׁ֑ י",
+        "LXX": "ὃς οὐκ ἔλαβεν ἐπὶ ματαίῳ τὴν ψυχὴν αὐτοῦ ,",
+        "VUL": "qui non accépit in vano ánimam suam ,",
+        "SP": null,
+        "KJV": "who hath not lifted up his soul unto vanity ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "nor sworn deceitfully",
+      "traditions": {
+        "WLC": "וְ לֹ֖א נִשְׁבַּ֣ע לְ מִרְמָֽה",
+        "LXX": "καὶ οὐκ ὤμοσεν ἐπὶ δόλῳ τῷ πλησίον αὐτοῦ .",
+        "VUL": "nec iurávit in dolo próximo suo .",
+        "SP": null,
+        "KJV": "nor sworn deceitfully .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "He shall receive the blessing from the LORD",
+      "traditions": {
+        "WLC": "יִשָּׂ֣א בְ֭רָכָה מֵ אֵ֣ת יְהוָ֑ה",
+        "LXX": "οὗτος λήμψεται εὐλογίαν παρὰ Κυρίου ,",
+        "VUL": "Hic accípiet benedictiónem a Dómino :",
+        "SP": null,
+        "KJV": "He shall receive the blessing from the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and righteousness from the God of his salvation",
+      "traditions": {
+        "WLC": "וּ֝ צְדָקָ֗ה מֵ אֱלֹהֵ֥י יִשְׁעֽ וֹ",
+        "LXX": "καὶ ἐλεημοσύνην παρὰ θεοῦ σωτῆρος αὐτοῦ .",
+        "VUL": "et misericórdiam a Deo salutári suo .",
+        "SP": null,
+        "KJV": "and righteousness from the God of his salvation .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "This [ is ] the generation of them that seek him",
+      "traditions": {
+        "WLC": "זֶ֭ה דּ֣וֹר דרש ו",
+        "LXX": "αὕτη ἡ γενεὰ ζητούντων αὐτόν ,",
+        "VUL": "Hæc est generátio quæréntium eum ,",
+        "SP": null,
+        "KJV": "This [ is ] the generation of them that seek him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that seek thy face , O Jacob",
+      "traditions": {
+        "WLC": "מְבַקְשֵׁ֨י פָנֶ֖י ךָ יַעֲקֹ֣ב",
+        "LXX": "ζητούντων τὸ πρόσωπον τοῦ θεοῦ Ἰακώβ .",
+        "VUL": "quæréntium fáciem Dei Iacob .",
+        "SP": null,
+        "KJV": "that seek thy face , O Jacob .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Lift up your heads , O ye gates",
+      "traditions": {
+        "WLC": "שְׂא֤וּ שְׁעָרִ֨ים רָֽאשֵׁי כֶ֗ם",
+        "LXX": "ἄρατε πύλας , οἱ ἄρχοντες ὑμῶν ,",
+        "VUL": "Attóllite portas príncipes vestras ,",
+        "SP": null,
+        "KJV": "Lift up your heads , O ye gates ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and be ye lift up , ye everlasting doors",
+      "traditions": {
+        "WLC": "וְֽ֭ הִנָּשְׂאוּ פִּתְחֵ֣י עוֹלָ֑ם",
+        "LXX": "καὶ ἐπάρθητε , πύλαι αἰώνιοι ,",
+        "VUL": "et elevámini portæ æternáles :",
+        "SP": null,
+        "KJV": "and be ye lift up , ye everlasting doors ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the King of glory shall come in",
+      "traditions": {
+        "WLC": "וְ֝ יָב֗וֹא מֶ֣לֶךְ הַ כָּבֽוֹד",
+        "LXX": "καὶ εἰσελεύσεται ὁ βασιλεὺς τῆς δόξης .",
+        "VUL": "et introíbit rex glóriæ .",
+        "SP": null,
+        "KJV": "and the King of glory shall come in .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who [ is ] this King of glory ?",
+      "traditions": {
+        "WLC": "מִ֥י זֶה֮ מֶ֤לֶךְ הַ כָּ֫ב֥וֹד",
+        "LXX": "τίς ἐστιν οὗτος ὁ βασιλεὺς τῆς δόξης ;",
+        "VUL": "Quis est iste rex glóriæ ?",
+        "SP": null,
+        "KJV": "Who [ is ] this King of glory ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The LORD strong and mighty",
+      "traditions": {
+        "WLC": "יְ֭הוָה עִזּ֣וּז וְ גִבּ֑וֹר",
+        "LXX": "Κύριος κραταιὸς καὶ δυνατός ,",
+        "VUL": "Dóminus fortis et potens ,",
+        "SP": null,
+        "KJV": "The LORD strong and mighty ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the LORD mighty in battle",
+      "traditions": {
+        "WLC": "יְ֝הוָ֗ה גִּבּ֥וֹר מִלְחָמָֽה",
+        "LXX": "Κύριος δυνατὸς ἐν πολέμῳ .",
+        "VUL": "Dóminus potens in prœ́lio .",
+        "SP": null,
+        "KJV": "the LORD mighty in battle .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Lift up your heads , O ye gates",
+      "traditions": {
+        "WLC": "שְׂא֤וּ שְׁעָרִ֨ים רָֽאשֵׁי כֶ֗ם",
+        "LXX": "ἄρατε πύλας , οἱ ἄρχοντες ὑμῶν ,",
+        "VUL": "Attóllite portas príncipes vestras ,",
+        "SP": null,
+        "KJV": "Lift up your heads , O ye gates ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even lift [ them ] up , ye everlasting doors",
+      "traditions": {
+        "WLC": "וּ֭ שְׂאוּ פִּתְחֵ֣י עוֹלָ֑ם",
+        "LXX": "καὶ ἐπάρθητε , πύλαι αἰώνιοι ,",
+        "VUL": "et elevámini portæ æternáles :",
+        "SP": null,
+        "KJV": "even lift [ them ] up , ye everlasting doors ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the King of glory shall come in",
+      "traditions": {
+        "WLC": "וְ֝ יָבֹא מֶ֣לֶךְ הַ כָּבֽוֹד",
+        "LXX": "καὶ εἰσελεύσεται ὁ βασιλεὺς τῆς δόξης .",
+        "VUL": "et introíbit rex glóriæ .",
+        "SP": null,
+        "KJV": "and the King of glory shall come in .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who is this King of glory ?",
+      "traditions": {
+        "WLC": "מִ֤י ה֣וּא זֶה֮ מֶ֤לֶךְ הַ כָּ֫ב֥וֹד",
+        "LXX": "τίς ἐστιν οὗτος ὁ βασιλεὺς τῆς δόξης ;",
+        "VUL": "Quis est iste rex glóriæ ?",
+        "SP": null,
+        "KJV": "Who is this King of glory ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The LORD of hosts",
+      "traditions": {
+        "WLC": "יְהוָ֥ה צְבָא֑וֹת",
+        "LXX": "Κύριος τῶν δυνάμεων ,",
+        "VUL": "Dóminus virtútum",
+        "SP": null,
+        "KJV": "The LORD of hosts ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he [ is ] the King of glory",
+      "traditions": {
+        "WLC": "ה֤וּא מֶ֖לֶךְ הַ כָּב֣וֹד",
+        "LXX": "αὐτός ἐστιν οὗτος ὁ βασιλεὺς τῆς δόξης .",
+        "VUL": "ipse est rex glóriæ .",
+        "SP": null,
+        "KJV": "he [ is ] the King of glory .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": null
+      }
+    }
+  ]
+}

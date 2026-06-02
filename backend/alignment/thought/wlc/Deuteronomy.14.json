@@ -1,0 +1,826 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ye [ are ] the children of the LORD your God",
+      "traditions": {
+        "WLC": "בָּנִ֣ים אַתֶּ֔ם לַֽ יהוָ֖ה אֱלֹהֵי כֶ֑ם",
+        "LXX": "Υἱοί ἐστε Κυρίου τοῦ θεοῦ ὑμῶν ,",
+        "VUL": "Fílii estóte Dómini Dei vestri :",
+        "SP": "בנים אתם ל יהוה אלהיכם",
+        "KJV": "Ye [ are ] the children of the LORD your God :",
+        "DSS": "[4Q45] ε ε  ] # ל #"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "ye shall not cut yourselves",
+      "traditions": {
+        "WLC": "לֹ֣א תִתְגֹּֽדְד֗וּ",
+        "LXX": null,
+        "VUL": "non vos incidétis ,",
+        "SP": "לא תתגדדו",
+        "KJV": "ye shall not cut yourselves ,",
+        "DSS": "[  ε ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "nor make any baldness between your eyes for the dead",
+      "traditions": {
+        "WLC": "וְ לֹֽא תָשִׂ֧ימוּ קָרְחָ֛ה בֵּ֥ין עֵינֵי כֶ֖ם לָ מֵֽת",
+        "LXX": "οὐκ ἐπιθήσετε φαλάκρωμα ἀνὰ μέσον τῶν ὀφθαλμῶν ὑμῶν ἐπὶ νεκρῷ ·",
+        "VUL": "nec faciétis calvítium super mórtuo :",
+        "SP": "ו לא תשׂימו קרחה בין עיניכם ל מת",
+        "KJV": "nor make any baldness between your eyes for the dead .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thou [ art ] an holy people unto the LORD thy God",
+      "traditions": {
+        "WLC": "כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַ יהוָ֖ה אֱלֹהֶ֑י ךָ",
+        "LXX": "ὅτι λαὸς ἅγιος εἶ Κυρίῳ τῷ θεῷ σου ,",
+        "VUL": "quóniam pópulus sanctus es Dómino Deo tuo ,",
+        "SP": "כי עם קדשׁ אתה ל יהוה אלהיך",
+        "KJV": "For thou [ art ] an holy people unto the LORD thy God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the LORD hath chosen thee to be a peculiar people unto himself",
+      "traditions": {
+        "WLC": "וּ בְ ךָ֞ בָּחַ֣ר יְהוָ֗ה לִֽ הְי֥וֹת ל וֹ֙ לְ עַ֣ם סְגֻלָּ֔ה",
+        "LXX": "καὶ σὲ ἐξελέξατο Κύριος ὁ θεός σου γενέσθαι σε αὐτῷ λαὸν περιούσιον",
+        "VUL": "et te elégit ut sis ei in pópulum peculiárem",
+        "SP": "ו בך בחר יהוה אלהיך ל היות לו ל עם סגלה",
+        "KJV": "and the LORD hath chosen thee to be a peculiar people unto himself ,",
+        "DSS": "[4Q45] [ ל היות ל׳ו ל ] ע#ם# ס#ג#?ו?ל##ה##"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "above all the nations that [ are ] upon the earth",
+      "traditions": {
+        "WLC": "מִ כֹּל֙ הָֽ עַמִּ֔ים אֲשֶׁ֖ר עַל פְּנֵ֥י הָ אֲדָמָֽה",
+        "LXX": "ἀπὸ πάντων τῶν ἐθνῶν τῶν ἐπὶ προσώπου τῆς γῆς .",
+        "VUL": "de cunctis géntibus , quæ sunt super terram .",
+        "SP": "מ כל ה עמים אשׁר על פני ה אדמה",
+        "KJV": "above all the nations that [ are ] upon the earth .",
+        "DSS": "[  מ כל ה עמים אשר ] [ על פני ה אדמה ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not eat any abominable thing",
+      "traditions": {
+        "WLC": "לֹ֥א תֹאכַ֖ל כָּל תּוֹעֵבָֽה",
+        "LXX": "Οὐ φάγεσθε πᾶν βδέλυγμα .",
+        "VUL": "Ne comedátis quæ immúnda sunt .",
+        "SP": "לא תאכלו כל תועבה",
+        "KJV": "Thou shalt not eat any abominable thing .",
+        "DSS": "[4Q45] לא תאכל כל ] [ תועבה ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "These [ are ] the beasts which ye shall eat",
+      "traditions": {
+        "WLC": "זֹ֥את הַ בְּהֵמָ֖ה אֲשֶׁ֣ר תֹּאכֵ֑לוּ",
+        "LXX": "ταῦτα κτήνη ἃ φάγεσθε ·",
+        "VUL": "Hoc est ánimal quod comédere debétis ,",
+        "SP": "ו זאת ה בהמה אשׁר תאכלו",
+        "KJV": "These [ are ] the beasts which ye shall eat :",
+        "DSS": "[4Q45] ( ו ) זא ]ת ה בהמ#ה## [ אשר תאכלו ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the ox , the sheep , and the goat",
+      "traditions": {
+        "WLC": "שׁ֕וֹר שֵׂ֥ה כְשָׂבִ֖ים וְ שֵׂ֥ה עִזִּֽים",
+        "LXX": "μόσχον ἐκ βοῶν , καὶ ἀμνὸν ἐκ προβάτων , καὶ χίμαρον ἐξ αἰγῶν ,",
+        "VUL": "bovem , et ovem , et capram ,",
+        "SP": "שׁור ו שׂה כ שׁבים ו שׂה עזים",
+        "KJV": "the ox , the sheep , and the goat ,",
+        "DSS": "[ שור שה כשבים ε  ] #  # [  ε עזים ] ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "The hart , and the roebuck , and the fallow deer , and the wild goat , and the pygarg , and the wild ox , and the chamois",
+      "traditions": {
+        "WLC": "אַיָּ֥ל וּ צְבִ֖י וְ יַחְמ֑וּר וְ אַקּ֥וֹ וְ דִישֹׁ֖ן וּ תְא֥וֹ וָ זָֽמֶר",
+        "LXX": "ἔλαφον καὶ δορκάδα καὶ πύγαργον , ὄρυγα καὶ καμηλοπάρδαλιν ·",
+        "VUL": "cervum et cápream , búbalum , tragélaphum , pygárgum , órygem , camelopárdalum .",
+        "SP": "איל ו צבי ו יחמור אקו ו דישׁון ו תאי ו זמר",
+        "KJV": "The hart , and the roebuck , and the fallow deer , and the wild goat , and the pygarg , and the wild ox , and the chamois .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And every beast that parteth the hoof , and cleaveth the cleft into two claws , [ and ] cheweth the cud among the beasts",
+      "traditions": {
+        "WLC": "וְ כָל בְּהֵמָ֞ה מַפְרֶ֣סֶת פַּרְסָ֗ה וְ שֹׁסַ֤עַת שֶׁ֨סַע֙ שְׁתֵּ֣י פְרָס֔וֹת מַעֲלַ֥ת גֵּרָ֖ה בַּ בְּהֵמָ֑ה",
+        "LXX": "πᾶν κτῆνος διχηλοῦν ὁπλὴν καὶ ὀνυχιστῆρας ὀνυχίζον δύο χηλῶν καὶ ἀνάγον μηρυκισμὸν ἐν τοῖς κτήνεσιν ,",
+        "VUL": "Omne ánimal , quod in duas partes findit úngulam , et rúminat ,",
+        "SP": "כל בהמה מפריסת פרסה ו שׁסעת שׁסע שׁתי פרסות מעלות גרה ב בהמה",
+        "KJV": "And every beast that parteth the hoof , and cleaveth the cleft into two claws , [ and ] cheweth the cud among the beasts ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that ye shall eat",
+      "traditions": {
+        "WLC": "אֹתָ֖ הּ תֹּאכֵֽלוּ",
+        "LXX": "ταῦτα φάγεσθε .",
+        "VUL": "comedétis .",
+        "SP": "אתה תאכלו",
+        "KJV": "that ye shall eat .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Nevertheless these ye shall not eat of them that chew the cud , or of them that divide the cloven hoof",
+      "traditions": {
+        "WLC": "אַ֣ךְ אֶת זֶ֞ה לֹ֤א תֹֽאכְלוּ֙ מִ מַּֽעֲלֵ֣י הַ גֵּרָ֔ה וּ מִ מַּפְרִיסֵ֥י הַ פַּרְסָ֖ה הַ שְּׁסוּעָ֑ה",
+        "LXX": "καὶ ταῦτα οὐ φάγεσθε ἀπὸ τῶν ἀναγόντων μηρυκισμὸν καὶ ἀπὸ τῶν διχηλούντων τὰς ὁπλὰς καὶ ὀνυχιζόντων ὀνυχιστῆρας ,",
+        "VUL": "De his autem , quæ rúminant , et úngulam non findunt , comédere non debétis ,",
+        "SP": "אך את זה לא תאכלו מ מעלי ה גרה ו מ מפרסי ה פרסה",
+        "KJV": "Nevertheless these ye shall not eat of them that chew the cud , or of them that divide the cloven hoof ; [ as ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ as ] the camel , and the hare , and the coney",
+      "traditions": {
+        "WLC": "אֶֽת הַ֠ גָּמָל וְ אֶת הָ אַרְנֶ֨בֶת וְ אֶת הַ שָּׁפָ֜ן",
+        "LXX": "τὸν κάμηλον καὶ δασύποδα καὶ χοιρογρύλλιον ·",
+        "VUL": "ut camélum , léporem , chœrogrýllum :",
+        "SP": "את ה גמל ו את ה ארנבת ו את ה שׁפן",
+        "KJV": "the camel , and the hare , and the coney :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for they chew the cud , but divide not the hoof",
+      "traditions": {
+        "WLC": "כִּֽי מַעֲלֵ֧ה גֵרָ֣ה הֵ֗מָּה וּ פַרְסָה֙ לֹ֣א הִפְרִ֔יסוּ",
+        "LXX": "ὅτι ἀνάγουσιν μηρυκισμὸν καὶ ὁπλὴν οὐ διχηλοῦσιν ,",
+        "VUL": "hæc quia rúminant et non dívidunt úngulam ,",
+        "SP": "כי מעלה גרה הם ו פרסה לא הפריסו",
+        "KJV": "for they chew the cud , but divide not the hoof ; [ therefore ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ therefore ] they [ are ] unclean unto you",
+      "traditions": {
+        "WLC": "טְמֵאִ֥ים הֵ֖ם לָ כֶֽם",
+        "LXX": "ἀκάθαρτα ταῦτα ὑμῖν ἐστιν .",
+        "VUL": "immúnda erunt vobis .",
+        "SP": "טמאים הם לכם",
+        "KJV": "they [ are ] unclean unto you .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the swine , because it divideth the hoof , yet cheweth not the cud",
+      "traditions": {
+        "WLC": "וְ אֶת הַ֠ חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֥ה הוּא֙ וְ לֹ֣א גֵרָ֔ה",
+        "LXX": "καὶ τὸν ὗν , ὅτι διχηλεῖ ὁπλὴν τοῦτο καὶ ὀνυχίζει ὀνυχιστῆρας ὁπλῆς , καὶ τοῦτο μηρυκισμὸν οὐ μαρυκᾶται ,",
+        "VUL": "Sus quoque , quóniam dívidit úngulam et non rúminat ,",
+        "SP": "ו את ה חזיר כי מפריס פרסה הוא ו שׁסע שׁסע פרסה ו הוא גרה לא יגור",
+        "KJV": "And the swine , because it divideth the hoof , yet cheweth not the cud ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] unclean unto you",
+      "traditions": {
+        "WLC": "טָמֵ֥א ה֖וּא לָ כֶ֑ם",
+        "LXX": "ἀκάθαρτον τοῦτο ὑμῖν ·",
+        "VUL": "immúnda erit :",
+        "SP": "טמא הוא לכם",
+        "KJV": "it [ is ] unclean unto you :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "ye shall not eat of their flesh , nor touch their dead carcase",
+      "traditions": {
+        "WLC": "מִ בְּשָׂרָ ם֙ לֹ֣א תֹאכֵ֔לוּ וּ בְ נִבְלָתָ֖ ם לֹ֥א תִגָּֽעוּ",
+        "LXX": "ἀπὸ τῶν κρεῶν αὐτῶν οὐ φάγεσθε , τῶν θνησιμαίων αὐτῶν οὐχ ἅψεσθε .",
+        "VUL": "cárnibus eórum non vescémini , et cadávera non tangétis .",
+        "SP": "מ בשׂרם לא תאכלו ו ב נבלתם לא תגעו",
+        "KJV": "ye shall not eat of their flesh , nor touch their dead carcase .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "These ye shall eat of all that [ are ] in the waters",
+      "traditions": {
+        "WLC": "אֶת זֶה֙ תֹּֽאכְל֔וּ מִ כֹּ֖ל אֲשֶׁ֣ר בַּ מָּ֑יִם",
+        "LXX": "Καὶ ταῦτα φάγεσθε ἀπὸ πάντων τῶν ἐν τῷ ὕδατι ·",
+        "VUL": "Hæc comedétis ex ómnibus quæ morántur in aquis :",
+        "SP": "ו את זה תאכלו מ כל אשׁר ב מים",
+        "KJV": "These ye shall eat of all that [ are ] in the waters :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "all that have fins and scales shall ye eat",
+      "traditions": {
+        "WLC": "כֹּ֧ל אֲשֶׁר ל֛ וֹ סְנַפִּ֥יר וְ קַשְׂקֶ֖שֶׂת תֹּאכֵֽלוּ",
+        "LXX": "πάντα ὅσα ἐστὶν ἐν αὐτοῖς πτερύγια καὶ λεπίδες φάγεσθε .",
+        "VUL": "Quæ habent pínnulas et squamas , comédite :",
+        "SP": "כל אשׁר לו סנפיר ו קשׂקשׂת תאכלו",
+        "KJV": "all that have fins and scales shall ye eat :",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And whatsoever hath not fins and scales ye may not eat",
+      "traditions": {
+        "WLC": "וְ כֹ֨ל אֲשֶׁ֧ר אֵֽין ל֛ וֹ סְנַפִּ֥יר וְ קַשְׂקֶ֖שֶׂת לֹ֣א תֹאכֵ֑לוּ",
+        "LXX": "καὶ πάντα ὅσα οὐκ ἔστιν αὐτοῖς πτερύγια καὶ λεπίδες οὐ φάγεσθε ,",
+        "VUL": "quæ absque pínnulis et squamis sunt , ne comedátis ,",
+        "SP": "ו כל אשׁר אין לו סנפיר ו קשׂקשׂת לא תאכלו",
+        "KJV": "And whatsoever hath not fins and scales ye may not eat ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] unclean unto you",
+      "traditions": {
+        "WLC": "טָמֵ֥א ה֖וּא לָ כֶֽם",
+        "LXX": "ἀκάθαρτα ὑμῖν ἐστιν .",
+        "VUL": "quia immúnda sunt .",
+        "SP": "טמא הוא לכם",
+        "KJV": "it [ is ] unclean unto you .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Of all clean birds ye shall eat",
+      "traditions": {
+        "WLC": "כָּל צִפּ֥וֹר טְהֹרָ֖ה תֹּאכֵֽלוּ",
+        "LXX": "Πᾶν ὄρνεον καθαρὸν φάγεσθε .",
+        "VUL": "Omnes aves mundas comédite .",
+        "SP": "כל צפור טהרה תאכלו",
+        "KJV": "[ Of ] all clean birds ye shall eat .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "But these are they of which ye shall not eat",
+      "traditions": {
+        "WLC": "וְ זֶ֕ה אֲשֶׁ֥ר לֹֽא תֹאכְל֖וּ מֵ הֶ֑ם",
+        "LXX": "καὶ ταῦτα οὐ φάγεσθε ἀπ᾽ αὐτῶν ·",
+        "VUL": "Immúndas ne comedátis :",
+        "SP": "ו זה אשׁר לא תאכלו מהם",
+        "KJV": "But these [ are they ] of which ye shall not eat :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the eagle, and the ossifrage, and the ospray",
+      "traditions": {
+        "WLC": "הַ נֶּ֥שֶׁר וְ הַ פֶּ֖רֶס וְ הָֽ עָזְנִיָּֽה",
+        "LXX": "τὸν ἀετὸν καὶ τὸν γρύπα καὶ τὸν ἁλιάετον ,",
+        "VUL": "áquilam scílicet , et gryphem , et haliǽetum ,",
+        "SP": "את ה נשׁר ו את ה פרס ו את ה עזניה",
+        "KJV": "the eagle , and the ossifrage , and the ospray ,",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the glede, and the kite, and the vulture after his kind",
+      "traditions": {
+        "WLC": "וְ הָ רָאָה֙ וְ אֶת הָ֣ אַיָּ֔ה וְ הַ דַּיָּ֖ה לְ מִינָֽ הּ",
+        "LXX": "καὶ τὸν γύπα καὶ τὸν ἴκτινα καὶ τὰ ὅμοια αὐτῷ ,",
+        "VUL": "íxion et vúlturem ac milvum iuxta genus suum :",
+        "SP": "ו את ה דאה ו את ה איה ל מינה",
+        "KJV": "And the glede , and the kite , and the vulture after his kind ,",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And every raven after his kind",
+      "traditions": {
+        "WLC": "וְ אֵ֥ת כָּל עֹרֵ֖ב לְ מִינֽ וֹ",
+        "LXX": "καὶ στρουθὸν καὶ γλαῦκα καὶ λάρον ,",
+        "VUL": "et omne corvíni géneris ,",
+        "SP": "ו את כל ערב ל מינו",
+        "KJV": "And every raven after his kind ,",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind",
+      "traditions": {
+        "WLC": "וְ אֵת֙ בַּ֣ת הַֽ יַּעֲנָ֔ה וְ אֶת הַ תַּחְמָ֖ס וְ אֶת הַ שָּׁ֑חַף וְ אֶת הַ נֵּ֖ץ לְ מִינֵֽ הוּ",
+        "LXX": "καὶ ἀρωδιὸν καὶ κύκνον καὶ εἶβιν ,",
+        "VUL": "et struthiónem , ac nóctuam , et larum , atque accípitrem iuxta genus suum :",
+        "SP": "ו את בת ה יענה ו את ה תחמוס ו את ה שׁחף ל מינו ו את ה נץ",
+        "KJV": "And the owl , and the night hawk , and the cuckow , and the hawk after his kind ,",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "The little owl, and the great owl, and the swan",
+      "traditions": {
+        "WLC": "אֶת הַ כּ֥וֹס וְ אֶת הַ יַּנְשׁ֖וּף וְ הַ תִּנְשָֽׁמֶת",
+        "LXX": "καὶ καταράκτην καὶ ἱέρακα καὶ τὰ ὅμοια αὐτῷ , καὶ ὔποπα καὶ νυκτικόρακα ,",
+        "VUL": "heródium ac cygnum , et ibin ,",
+        "SP": "ו את ה כוס ו את ה שׁלך ו את ה ינשׁוף ו את ה תנשׁמת",
+        "KJV": "The little owl , and the great owl , and the swan ,",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the pelican, and the gier eagle, and the cormorant",
+      "traditions": {
+        "WLC": "וְ הַ קָּאָ֥ת וְ אֶֽת הָ רָחָ֖מָ ה וְ אֶת הַ שָּׁלָֽךְ",
+        "LXX": "καὶ πελεκᾶνα καὶ χαραδριὸν καὶ τὰ ὅμοια αὐτῷ , καὶ πορφυρίωνα καὶ νυκτερίδα .",
+        "VUL": "ac mérgulum , porphyriónem , et nycticóracem ,",
+        "SP": "ו את ה קאת ו את ה רחמה",
+        "KJV": "And the pelican , and the gier eagle , and the cormorant ,",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the stork, and the heron after her kind, and the lapwing, and the bat",
+      "traditions": {
+        "WLC": "וְ הַ֣ חֲסִידָ֔ה וְ הָ אֲנָפָ֖ה לְ מִינָ֑ הּ וְ הַ דּוּכִיפַ֖ת וְ הָ עֲטַלֵּֽף",
+        "LXX": "πάντα τὰ ἑρπετὰ τῶν πετεινῶν ἀκάθαρτα ὑμῖν ἐστιν , οὐ φάγεσθε ἀπ᾽ αὐτῶν .",
+        "VUL": "onocrótalum , et charádrium , síngula in génere suo : úpupam quoque et vespertiliónem .",
+        "SP": "ו את ה חסידה ו ה אנפה ל מינה ו את ה דגיפת ו את ה עטלף",
+        "KJV": "And the stork , and the heron after her kind , and the lapwing , and the bat .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And every creeping thing that flieth is unclean unto you",
+      "traditions": {
+        "WLC": "וְ כֹל֙ שֶׁ֣רֶץ הָ ע֔וֹף טָמֵ֥א ה֖וּא לָ כֶ֑ם",
+        "LXX": "πᾶν πετεινὸν καθαρὸν φάγεσθε .",
+        "VUL": "Et omne quod reptat et pénnulas habet , immúndum erit ,",
+        "SP": "כל שׁרץ ה עוף טמא הוא לכם",
+        "KJV": "And every creeping thing that flieth [ is ] unclean unto you :",
+        "DSS": "[4Q45] [ ו כל שרץ ה עוף טמא הו]א ל#׳כם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they shall not be eaten",
+      "traditions": {
+        "WLC": "לֹ֖א יֵאָכֵֽלוּ",
+        "LXX": null,
+        "VUL": "et non comedétur .",
+        "SP": "לא תאכלו מהם",
+        "KJV": "they shall not be eaten .",
+        "DSS": "לא תאוכל ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "But of all clean fowls ye may eat",
+      "traditions": {
+        "WLC": "כָּל ע֥וֹף טָה֖וֹר תֹּאכֵֽלוּ",
+        "LXX": "Πᾶν θνησιμαῖον οὐ φάγεσθε · τῷ παροίκῳ τῷ ἐν ταῖς πόλεσίν σου δοθήσεται καὶ φάγεται , ἢ ἀποδώσῃ τῷ ἀλλοτρίῳ · ὅτι λαὸς ἅγιος εἶ Κυρίῳ τῷ θεῷ σου . οὐχ ἑψήσεις ἄρνα ἐν γάλακτι μητρὸς αὐτοῦ .",
+        "VUL": "Omne quod mundum est , comédite .",
+        "SP": "כל עוף טהור תאכלו",
+        "KJV": "[ But of ] all clean fowls ye may eat .",
+        "DSS": "[4Q45] [ כל עוף טהור תאכלו ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ye shall not eat [ of ] any thing that dieth of itself",
+      "traditions": {
+        "WLC": "לֹ֣א תֹאכְל֣וּ כָל נְ֠בֵלָה",
+        "LXX": null,
+        "VUL": "Quidquid autem morticínum est , ne vescámini ex eo .",
+        "SP": "לא תאכלו כל נבלה",
+        "KJV": "Ye shall not eat [ of ] any thing that dieth of itself :",
+        "DSS": "[4Q45] לא תאוכל ]ו#? כל נבלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt give it unto the stranger that [ is ] in thy gates , that he may eat it",
+      "traditions": {
+        "WLC": "לַ גֵּ֨ר אֲשֶׁר בִּ שְׁעָרֶ֜י ךָ תִּתְּנֶ֣נָּ ה וַ אֲכָלָ֗ הּ",
+        "LXX": null,
+        "VUL": "Peregríno , qui intra portas tuas est , da ut cómedat ,",
+        "SP": "ל גר אשׁר ב שׁעריך תתננה ו אכלה",
+        "KJV": "thou shalt give it unto the stranger that [ is ] in thy gates , that he may eat it ;",
+        "DSS": "[4Q45] ל גר [ אשר ב שערי׳ך תתנ׳נה ו אכל׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "or thou mayest sell it unto an alien",
+      "traditions": {
+        "WLC": "א֤וֹ מָכֹר֙ לְ נָכְרִ֔י",
+        "LXX": null,
+        "VUL": "aut vende ei :",
+        "SP": "או מכרה ל נכרי",
+        "KJV": "or thou mayest sell it unto an alien :",
+        "DSS": "[1Q4] מכר ל נכרי / [4Q45] או מכר ל נכרי"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for thou [ art ] an holy people unto the LORD thy God",
+      "traditions": {
+        "WLC": "כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַ יהוָ֖ה אֱלֹהֶ֑י ךָ",
+        "LXX": null,
+        "VUL": "quia tu pópulus sanctus Dómini Dei tui es .",
+        "SP": "כי עם קדשׁ אתה ל יהוה אלהיך",
+        "KJV": "for thou [ art ] an holy people unto the LORD thy God .",
+        "DSS": "[1Q4] כי עם קדוש אתה ל יהוה אלהי׳ך / [4Q45] כ#י? עם ק#דוש [ א ]ת#[ ה ] [ ל יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "Thou shalt not seethe a kid in his mother ’s milk",
+      "traditions": {
+        "WLC": "לֹֽא תְבַשֵּׁ֥ל גְּדִ֖י בַּ חֲלֵ֥ב אִמּֽ וֹ",
+        "LXX": null,
+        "VUL": "Non coques hædum in lacte matris suæ .",
+        "SP": "לא תבשׁל גדי ב חלב אמו",
+        "KJV": "Thou shalt not seethe a kid in his mother ’s milk .",
+        "DSS": "[1Q4] לא תבשל גדי ב ח ]ל##ב אמ׳ו / [4Q45] לא תבשל גדי ]ב## חלב אמ׳ו"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "Δεκάτην ἀποδεκατώσεις παντὸς γενήματος τοῦ σπέρματός σου , τὸ γένημα τοῦ ἀγροῦ σου ἐνιαυτὸν κατ᾽ ἐνιαυτόν ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt truly tithe all the increase of thy seed ,",
+      "traditions": {
+        "WLC": "עַשֵּׂ֣ר תְּעַשֵּׂ֔ר אֵ֖ת כָּל תְּבוּאַ֣ת זַרְעֶ֑ ךָ",
+        "LXX": "καὶ φάγῃ αὐτὸ ἐν τῷ τόπῳ ᾧ ἂν ἐκλέξηται Κύριος ὁ θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ · οἴσετε τὰ ἐπιδέκατα τοῦ σίτου σου καὶ τοῦ οἴνου σου καὶ τοῦ ἐλαίου σου , τὰ πρωτότοκα τῶν βοῶν σου καὶ τῶν προβάτων σου , ἵνα μάθῃς φοβεῖσθαι Κύριον τὸν θεόν σου πάσας τὰς ἡμέρας .",
+        "VUL": "Décimam partem separábis de cunctis frúctibus tuis",
+        "SP": "עשׂר תעשׂר את כל תבואת זרעך",
+        "KJV": "Thou shalt truly tithe all the increase of thy seed ,",
+        "DSS": "[4Q45] [ עשר תעשר את כל תבואת זרע׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that the field bringeth forth year by year .",
+      "traditions": {
+        "WLC": "הַ יֹּצֵ֥א הַ שָּׂדֶ֖ה שָׁנָ֥ה שָׁנָֽה",
+        "LXX": null,
+        "VUL": "qui nascúntur in terra per annos síngulos ,",
+        "SP": "יוצא ה שׂדה שׁנה ב שׁנה",
+        "KJV": "that the field bringeth forth year by year .",
+        "DSS": "ה יצא  ]ה שדה שנ#?ה##[   ] # [   ] # [  ׃"
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt eat before the LORD thy God",
+      "traditions": {
+        "WLC": "וְ אָכַלְתָּ֞ לִ פְנֵ֣י יְהוָ֣ה אֱלֹהֶ֗י ךָ",
+        "LXX": null,
+        "VUL": "et cómedes in conspéctu Dómini Dei tui",
+        "SP": "ו אכלתו ל פני יהוה אלהיך",
+        "KJV": "And thou shalt eat before the LORD thy God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in the place which he shall choose to place his name there",
+      "traditions": {
+        "WLC": "בַּ מָּק֣וֹם אֲשֶׁר יִבְחַר֮ לְ שַׁכֵּ֣ן שְׁמ֣ וֹ שָׁם֒",
+        "LXX": null,
+        "VUL": "in loco , quem elégerit , ut in eo nomen illíus invocétur ,",
+        "SP": "ב מקום אשׁר בחר יהוה אלהיך ל שׁכן את שׁמו שׁם",
+        "KJV": "in the place which he shall choose to place his name there ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the tithe of thy corn , of thy wine , and of thine oil , and the firstlings of thy herds and of thy flocks",
+      "traditions": {
+        "WLC": "מַעְשַׂ֤ר דְּגָֽנְ ךָ֙ תִּֽירֹשְׁ ךָ֣ וְ יִצְהָרֶ֔ ךָ וּ בְכֹרֹ֥ת בְּקָרְ ךָ֖ וְ צֹאנֶ֑ ךָ",
+        "LXX": null,
+        "VUL": "décimam fruménti tui , et vini , et ólei , et primogénita de arméntis et óvibus tuis :",
+        "SP": "מעשׂר דגנך תירשׁך ו יצהרך ו בכורת בקרך ו צאנך",
+        "KJV": "the tithe of thy corn , of thy wine , and of thine oil , and the firstlings of thy herds and of thy flocks ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that thou mayest learn to fear the LORD thy God always",
+      "traditions": {
+        "WLC": "לְמַ֣עַן תִּלְמַ֗ד לְ יִרְאָ֛ה אֶת יְהוָ֥ה אֱלֹהֶ֖י ךָ כָּל הַ יָּמִֽים",
+        "LXX": null,
+        "VUL": "ut discas timére Dóminum Deum tuum omni témpore .",
+        "SP": "למען תלמד ל יראה את יהוה אלהיך כל ה ימים",
+        "KJV": "that thou mayest learn to fear the LORD thy God always .",
+        "DSS": "[1Q4] למען תלמד ] [ ל ירא׳ה את יהוה אלהי׳ך כל ה ימים"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "ἐὰν δὲ μακρὰν γένηται ἀπὸ σοῦ ἡ ὁδός , καὶ μὴ δύνῃ ἀναφέρειν αὐτά , ὅτι μακρὰν ἀπὸ σοῦ ὁ τόπος ὃν ἂν ἐκλέξηται Κύριος ὁ θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ , ὅτι εὐλογήσει σε Κύριος ὁ θεός σου ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then shalt thou turn [ it ] into money , and bind up the money in thine hand",
+      "traditions": {
+        "WLC": "וְ נָתַתָּ֖ה בַּ כָּ֑סֶף וְ צַרְתָּ֤ הַ כֶּ֨סֶף֙ בְּ יָ֣דְ ךָ֔",
+        "LXX": null,
+        "VUL": "vendes ómnia , et in prétium rédiges , portabísque manu tua ,",
+        "SP": "ו נתתה ב כסף ו צרת ה כסף ב ידך",
+        "KJV": "Then shalt thou turn [ it ] into money , and bind up the money in thine hand ,",
+        "DSS": "[1Q4] [ ו נתתה ב כסף ו צרת ה כסף ב יד׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shalt go unto the place which the LORD thy God shall choose",
+      "traditions": {
+        "WLC": "וְ הָֽלַכְתָּ֙ אֶל הַ מָּק֔וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהוָ֥ה אֱלֹהֶ֖י ךָ בּֽ וֹ",
+        "LXX": null,
+        "VUL": "et proficiscéris ad locum , quem elégerit Dóminus Deus tuus :",
+        "SP": "ו הלכת אל ה מקום אשׁר בחר יהוה אלהיך בו",
+        "KJV": "and shalt go unto the place which the LORD thy God shall choose :",
+        "DSS": "[1Q4] ו הלכת אל ה מקום אשר יב ]ח##ר יהוה אלוהי׳כה ב##׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ δώσεις ἀργύριον ἐπὶ παντὸς οὗ ἐὰν ἐπιθυμεῖ ἡ ψυχή σου · καὶ φάγῃ ἐκεῖ ἐναντίον Κυρίου τοῦ θεοῦ σου , καὶ εὐφρανθήσῃ σὺ καὶ ὁ υἱός σου",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt bestow that money for whatsoever thy soul lusteth after , for oxen , or for sheep , or for wine , or for strong drink , or for whatsoever thy soul desireth",
+      "traditions": {
+        "WLC": "וְ נָתַתָּ֣ה הַ כֶּ֡סֶף בְּ כֹל֩ אֲשֶׁר תְּאַוֶּ֨ה נַפְשְׁ ךָ֜ בַּ בָּקָ֣ר וּ בַ צֹּ֗אן וּ בַ יַּ֨יִן֙ וּ בַ שֵּׁכָ֔ר וּ בְ כֹ֛ל אֲשֶׁ֥ר תִּֽשְׁאָלְ ךָ֖ נַפְשֶׁ֑ ךָ",
+        "LXX": null,
+        "VUL": "et emes ex eádem pecúnia quidquid tibi placúerit , sive ex arméntis , sive ex óvibus , vinum quoque et síceram , et omne quod desíderat ánima tua :",
+        "SP": "ו נתתה ה כסף ב כל אשׁר תאוה נפשׁך ב בקר ו ב צאן ב יין ו ב שׁכר ו ב כל אשׁר תשׁאלך נפשׁך",
+        "KJV": "And thou shalt bestow that money for whatsoever thy soul lusteth after , for oxen , or for sheep , or for wine , or for strong drink , or for whatsoever thy soul desireth :",
+        "DSS": "[4Q45] [ אשר תשאל׳ך נפש ]׳ך#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou shalt eat there before the LORD thy God",
+      "traditions": {
+        "WLC": "וְ אָכַ֣לְתָּ שָּׁ֗ם לִ פְנֵי֙ יְהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": null,
+        "VUL": "et cómedes coram Dómino Deo tuo ,",
+        "SP": "ו אכלת שׁם ל פני יהוה אלהיך",
+        "KJV": "and thou shalt eat there before the LORD thy God ,",
+        "DSS": "[4Q45] ו אכל#ת ש#ם# ל# [ פני יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thou shalt rejoice , thou , and thine household",
+      "traditions": {
+        "WLC": "וְ שָׂמַחְתָּ֖ אַתָּ֥ה וּ בֵיתֶֽ ךָ",
+        "LXX": null,
+        "VUL": "et epuláberis tu et domus tua :",
+        "SP": "ו שׂמחת אתה ו ביתך",
+        "KJV": "and thou shalt rejoice , thou , and thine household ,",
+        "DSS": "[4Q45] ו שמחת ] [ אתה ו בית׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ ὁ Λευείτης ὁ ἐν ταῖς πόλεσίν σου , ὅτι οὐκ ἔστιν αὐτῷ μερὶς οὐδὲ κλῆρος μετὰ σοῦ .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the Levite that [ is ] within thy gates ; thou shalt not forsake him",
+      "traditions": {
+        "WLC": "וְ הַ לֵּוִ֥י אֲשֶׁר בִּ שְׁעָרֶ֖י ךָ לֹ֣א תַֽעַזְבֶ֑ נּוּ",
+        "LXX": null,
+        "VUL": "et Levítes qui intra portas tuas est , cave ne derelínquas eum ,",
+        "SP": "ו ה לוי אשׁר ב שׁעריך לא תעזבנו",
+        "KJV": "And the Levite that [ is ] within thy gates ; thou shalt not forsake him ;",
+        "DSS": "[4Q45] ו ה ל ]וי אשר ב שע##[ רי׳ך לא תעזב׳נו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for he hath no part nor inheritance with thee",
+      "traditions": {
+        "WLC": "כִּ֣י אֵ֥ין ל֛ וֹ חֵ֥לֶק וְ נַחֲלָ֖ה עִמָּֽ ךְ",
+        "LXX": null,
+        "VUL": "quia non habet áliam partem in possessióne tua .",
+        "SP": "כי אין לו חלק ו נחלה עמך",
+        "KJV": "for he hath no part nor inheritance with thee .",
+        "DSS": "[4Q45] כ ]י? אי[ ן ל׳ו ] [ חלק ו נחלה עמ׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "μετὰ τρία ἔτη ἐξοίσεις πᾶν τὸ ἐπιδέκατον τῶν γενημάτων σου . ἐν τῷ ἐνιαυτῷ ἐκείνῳ θήσεις αὐτὸ ἐν ταῖς πόλεσίν σου .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "At the end of three years thou shalt bring forth all the tithe of thine increase the same year",
+      "traditions": {
+        "WLC": "מִ קְצֵ֣ה שָׁלֹ֣שׁ שָׁנִ֗ים תּוֹצִיא֙ אֶת כָּל מַעְשַׂר֙ תְּבוּאָ֣תְ ךָ֔ בַּ שָּׁנָ֖ה הַ הִ֑וא",
+        "LXX": null,
+        "VUL": "Anno tértio separábis áliam décimam ex ómnibus quæ nascúntur tibi eo témpore ,",
+        "SP": "מ קץ שׁלשׁ שׁנים תוצא את כל מעשׂר תבואתך ב שׁנה ה היא",
+        "KJV": "At the end of three years thou shalt bring forth all the tithe of thine increase the same year ,",
+        "DSS": "[4Q38c] ε שנים תוציא את כל מעשר תבואת׳ך  ]ב שנה ה ה[ יא / [4Q45] מ קצה שלש שני ]ם## תוציא [ את כל ] [ מעשר תבואת׳ך ב שנה ה הוא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shalt lay [ it ] up within thy gates",
+      "traditions": {
+        "WLC": "וְ הִנַּחְתָּ֖ בִּ שְׁעָרֶֽי ךָ",
+        "LXX": null,
+        "VUL": "et repónes intra iánuas tuas .",
+        "SP": "ו הנחתו ב שׁעריך",
+        "KJV": "and shalt lay [ it ] up within thy gates :",
+        "DSS": "[4Q38c] ו הנחת ב שערי׳ך ׃ / [4Q45] ו הנחת  ]ב## שערי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ ἐλεύσεται ὁ Λευείτης , ὅτι οὐκ ἔστιν αὐτῷ μερὶς οὐδὲ κλῆρος μετὰ σοῦ , καὶ ὁ προσήλυτος καὶ ὁ ὀρφανὸς καὶ ἡ χήρα ἡ ἐν ταῖς πόλεσίν σου , καὶ φάγονται καὶ ἐμπλησθήσονται , ἵνα εὐλογήσῃ σε Κύριος ὁ θεός σου ἐν πᾶσιν τοῖς ἔργοις οἷς ἐὰν ποιῇς .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the Levite , ( because he hath no part nor inheritance with thee , ) and the stranger , and the fatherless , and the widow , which [ are ] within thy gates , shall come",
+      "traditions": {
+        "WLC": "וּ בָ֣א הַ לֵּוִ֡י כִּ֣י אֵֽין ל וֹ֩ חֵ֨לֶק וְ נַחֲלָ֜ה עִמָּ֗ ךְ וְ֠ הַ גֵּר וְ הַ יָּת֤וֹם וְ הָֽ אַלְמָנָה֙ אֲשֶׁ֣ר בִּ שְׁעָרֶ֔י ךָ",
+        "LXX": null,
+        "VUL": "Veniétque Levítes qui áliam non habet partem nec possessiónem tecum , et peregrínus ac pupíllus et vídua , qui intra portas tuas sunt ,",
+        "SP": "ו בא ה לוי כי אין לו חלק ו נחלה עמך ו ה גר ו ה יתום ו ה אלמנה אשׁר ב שׁעריך",
+        "KJV": "And the Levite , ( because he hath no part nor inheritance with thee , ) and the stranger , and the fatherless , and the widow , which [ are ] within thy gates , shall come ,",
+        "DSS": "[4Q38c] ו בא ה לוי כי אין ] [ ל׳ו חלק ו נחלה עמ׳ך ו ה גר ו ה יתום ו ה אל ]מנה אשר ב שערי[ ׳ך / [4Q45] ו ב[ א ה לוי ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall eat and be satisfied",
+      "traditions": {
+        "WLC": "וְ אָכְל֖וּ וְ שָׂבֵ֑עוּ",
+        "LXX": null,
+        "VUL": "et cómedent et saturabúntur :",
+        "SP": "ו אכלו ו שׂבעו",
+        "KJV": "and shall eat and be satisfied ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that the LORD thy God may bless thee in all the work of thine hand which thou doest",
+      "traditions": {
+        "WLC": "לְמַ֤עַן יְבָרֶכְ ךָ֙ יְהוָ֣ה אֱלֹהֶ֔י ךָ בְּ כָל מַעֲשֵׂ֥ה יָדְ ךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה",
+        "LXX": null,
+        "VUL": "ut benedícat tibi Dóminus Deus tuus in cunctis opéribus mánuum tuárum quæ féceris .",
+        "SP": "למען יברכך יהוה אלהיך ב כל מעשׂה ידיך אשׁר תעשׂה",
+        "KJV": "that the LORD thy God may bless thee in all the work of thine hand which thou doest .",
+        "DSS": null
+      }
+    }
+  ]
+}

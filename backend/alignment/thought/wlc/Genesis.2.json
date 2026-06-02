@@ -1,0 +1,832 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus the heavens and the earth were finished , and all the host of them .",
+      "traditions": {
+        "WLC": "וַ יְכֻלּ֛וּ הַ שָּׁמַ֥יִם וְ הָ אָ֖רֶץ וְ כָל צְבָאָֽ ם",
+        "LXX": "Καὶ συνετελέσθησαν ὁ οὐρανὸς καὶ ἡ γῆ καὶ πᾶς ὁ κόσμος αὐτῶν .",
+        "VUL": "Igitur perfécti sunt cæli et terra , et omnis ornátus eórum .",
+        "SP": "ו יכלו ה שׁמים ו ה ארץ ו כל צבאם",
+        "KJV": "Thus the heavens and the earth were finished , and all the host of them .",
+        "DSS": "[4Q10] ε ו יכלו  ]ה## שמים##[  ו ה ארץ ו כל צבא׳ם ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And on the seventh day God ended his work which he had made ;",
+      "traditions": {
+        "WLC": "וַ יְכַ֤ל אֱלֹהִים֙ בַּ יּ֣וֹם הַ שְּׁבִיעִ֔י מְלַאכְתּ֖ וֹ אֲשֶׁ֣ר עָשָׂ֑ה",
+        "LXX": "καὶ συνετέλεσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἕκτῃ τὰ ἔργα αὐτοῦ ἃ ἐποίησεν ·",
+        "VUL": "Complevítque Deus die séptimo opus suum quod fécerat :",
+        "SP": "ו יכל אלהים ב יום ה שׁשׁי מלאכתו אשׁר עשׂה",
+        "KJV": "And on the seventh day God ended his work which he had made ;",
+        "DSS": "[4Q10] ו יכל ] [ אלהים ב יום ה שביעי מלאכת ]׳ו#? אשר##[  עשה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he rested on the seventh day from all his work which he had made .",
+      "traditions": {
+        "WLC": "וַ יִּשְׁבֹּת֙ בַּ יּ֣וֹם הַ שְּׁבִיעִ֔י מִ כָּל מְלַאכְתּ֖ וֹ אֲשֶׁ֥ר עָשָֽׂה",
+        "LXX": "καὶ κατέπαυσεν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ ὧν ἐποίησεν .",
+        "VUL": "et requiévit die séptimo ab univérso ópere quod patrárat .",
+        "SP": "ו ישׁבת ב יום ה שׁביעי מ כל מלאכתו אשׁר עשׂה",
+        "KJV": "and he rested on the seventh day from all his work which he had made .",
+        "DSS": "ו ישבת ב יום ה שביעי ] [ מ כל מלאכת׳ו אשר עשה ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And God blessed the seventh day ,",
+      "traditions": {
+        "WLC": "וַ יְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַ שְּׁבִיעִ֔י",
+        "LXX": "καὶ ηὐλόγησεν ὁ θεὸς τὴν ἡμέραν τὴν ἑβδόμην",
+        "VUL": "Et benedíxit diéi séptimo ,",
+        "SP": "ו יברך אלהים את יום ה שׁביעי",
+        "KJV": "And God blessed the seventh day ,",
+        "DSS": "[4Q10] ו י ]ב##רך אל#[ הים את יום ה שביעי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and sanctified it :",
+      "traditions": {
+        "WLC": "וַ יְקַדֵּ֖שׁ אֹת֑ וֹ",
+        "LXX": "καὶ ἡγίασεν αὐτήν ,",
+        "VUL": "et sanctificávit illum ,",
+        "SP": "ו יקדשׁ אתו",
+        "KJV": "and sanctified it :",
+        "DSS": "] [ ו יקדש את׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because that in it he had rested from all his work which God created and made .",
+      "traditions": {
+        "WLC": "כִּ֣י ב֤ וֹ שָׁבַת֙ מִ כָּל מְלַאכְתּ֔ וֹ אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַ עֲשֽׂוֹת",
+        "LXX": "ὅτι ἐν αὐτῇ κατέπαυσεν ἀπὸ πάντων τῶν ἔργων αὐτοῦ ὧν ἤρξατο ὁ θεὸς ποιῆσαι .",
+        "VUL": "quia in ipso cessáverat ab omni ópere suo quod creávit Deus ut fáceret .",
+        "SP": "כי בו שׁבת מ כל מלאכתו אשׁר ברא אלהים ל עשׂות",
+        "KJV": "because that in it he had rested from all his work which God created and made .",
+        "DSS": "כי ב׳ו שבת מ כ ]ל# מלאכת׳ו[  אשר ברא אלהים ל עשות ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "These [ are ] the generations of the heavens and of the earth when they were created ,",
+      "traditions": {
+        "WLC": "אֵ֣לֶּה תוֹלְד֧וֹת הַ שָּׁמַ֛יִם וְ הָ אָ֖רֶץ בְּ הִבָּֽרְאָ֑ ם",
+        "LXX": "Αὕτη ἡ βίβλος γενέσεως οὐρανοῦ καὶ γῆς , ὅτε ἐγένετο ·",
+        "VUL": "Istæ sunt generatiónes cæli et terræ , quando creáta sunt ,",
+        "SP": "אלה תולדת ה שׁמים ו ה ארץ ב הבראם",
+        "KJV": "These [ are ] the generations of the heavens and of the earth when they were created ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in the day that the LORD God made the earth and the heavens ,",
+      "traditions": {
+        "WLC": "בְּ י֗וֹם עֲשׂ֛וֹת יְהוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְ שָׁמָֽיִם",
+        "LXX": "ᾗ ἡμέρᾳ ἐποίησεν Κύριος ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν ,",
+        "VUL": "in die quo fecit Dóminus Deus cælum et terram :",
+        "SP": "ב יום עשׂות יהוה אלהים שׁמים ו ארץ",
+        "KJV": "in the day that the LORD God made the earth and the heavens ,",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And every plant of the field before it was in the earth , and every herb of the field before it grew :",
+      "traditions": {
+        "WLC": "וְ כֹ֣ל שִׂ֣יחַ הַ שָּׂדֶ֗ה טֶ֚רֶם יִֽהְיֶ֣ה בָ אָ֔רֶץ וְ כָל עֵ֥שֶׂב הַ שָּׂדֶ֖ה טֶ֣רֶם יִצְמָ֑ח",
+        "LXX": "καὶ πᾶν χλωρὸν ἀγροῦ πρὸ τοῦ γενέσθαι ἐπὶ τῆς γῆς , καὶ πάντα χόρτον ἀγροῦ πρὸ τοῦ ἀνατεῖλαι .",
+        "VUL": "et omne virgúltum agri ántequam orirétur in terra , omnémque herbam regiónis priúsquam germináret :",
+        "SP": "ו כל שׂיח ה שׂדה טרם יהיה ב ארץ ו כל עשׂב ה שׂדה טרם יצמח",
+        "KJV": "And every plant of the field before it was in the earth , and every herb of the field before it grew :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for the LORD God had not caused it to rain upon the earth ,",
+      "traditions": {
+        "WLC": "כִּי֩ לֹ֨א הִמְטִ֜יר יְהוָ֤ה אֱלֹהִים֙ עַל הָ אָ֔רֶץ",
+        "LXX": "οὐ γὰρ ἔβρεξεν ὁ θεὸς ἐπὶ τὴν γῆν ,",
+        "VUL": "non enim plúerat Dóminus Deus super terram ,",
+        "SP": "כי לא המטיר יהוה אלהים על ה ארץ",
+        "KJV": "for the LORD God had not caused it to rain upon the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and [ there was ] not a man to till the ground .",
+      "traditions": {
+        "WLC": "וְ אָדָ֣ם אַ֔יִן לַֽ עֲבֹ֖ד אֶת הָֽ אֲדָמָֽה",
+        "LXX": "καὶ ἄνθρωπος οὐκ ἦν ἐργάζεσθαι τὴν γῆν ·",
+        "VUL": "et homo non erat qui operarétur terram :",
+        "SP": "ו אדם אין ל עבד את ה אדמה",
+        "KJV": "and [ there was ] not a man to till the ground .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "But there went up a mist from the earth ,",
+      "traditions": {
+        "WLC": "וְ אֵ֖ד יַֽעֲלֶ֣ה מִן הָ אָ֑רֶץ",
+        "LXX": "πηγὴ δὲ ἀνέβαινεν ἐκ τῆς γῆς",
+        "VUL": "sed fons ascendébat e terra ,",
+        "SP": "ו אד יעלה מן ה ארץ",
+        "KJV": "But there went up a mist from the earth ,",
+        "DSS": "[4Q7] ε"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and watered the whole face of the ground .",
+      "traditions": {
+        "WLC": "וְ הִשְׁקָ֖ה אֶֽת כָּל פְּנֵֽי הָֽ אֲדָמָֽה",
+        "LXX": "καὶ ἐπότιζεν πᾶν τὸ πρόσωπον τῆς γῆς .",
+        "VUL": "írrigans univérsam superfíciem terræ .",
+        "SP": "ו השׁקה את כל פני ה אדמה",
+        "KJV": "and watered the whole face of the ground .",
+        "DSS": "] # ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD God formed man [ of ] the dust of the ground ,",
+      "traditions": {
+        "WLC": "וַ יִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽ אָדָ֗ם עָפָר֙ מִן הָ֣ אֲדָמָ֔ה",
+        "LXX": "καὶ ἔπλασεν ὁ θεὸς τὸν ἄνθρωπον χοῦν ἀπὸ τῆς γῆς ·",
+        "VUL": "Formávit ígitur Dóminus Deus hóminem de limo terræ ,",
+        "SP": "ו יצר יהוה אלהים את ה אדם עפר מן ה אדמה",
+        "KJV": "And the LORD God formed man [ of ] the dust of the ground ,",
+        "DSS": "[4Q7] ו י(^ י ^)צר י[ הוה אלהים את ה אדם עפר מן ה אדמה ε ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and breathed into his nostrils the breath of life ;",
+      "traditions": {
+        "WLC": "וַ יִּפַּ֥ח בְּ אַפָּ֖י ו נִשְׁמַ֣ת חַיִּ֑ים",
+        "LXX": "καὶ ἐνεφύσησεν εἰς τὸ πρόσωπον αὐτοῦ πνοὴν ζωῆς ,",
+        "VUL": "et inspirávit in fáciem eius spiráculum vitæ ,",
+        "SP": "ו יפח ב אפיו נשׁמת חיים",
+        "KJV": "and breathed into his nostrils the breath of life ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and man became a living soul .",
+      "traditions": {
+        "WLC": "וַֽ יְהִ֥י הָֽ אָדָ֖ם לְ נֶ֥פֶשׁ חַיָּֽה",
+        "LXX": "καὶ ἐγένετο ὁ ἄνθρωπος εἰς ψυχὴν ζῶσαν .",
+        "VUL": "et factus est homo in ánimam vivéntem .",
+        "SP": "ו יהי אדם ל נפשׁ חיה",
+        "KJV": "and man became a living soul .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD God planted a garden eastward in Eden ;",
+      "traditions": {
+        "WLC": "וַ יִּטַּ֞ע יְהוָ֧ה אֱלֹהִ֛ים גַּן בְ עֵ֖דֶן מִ קֶּ֑דֶם",
+        "LXX": "Καὶ ἐφύτευσεν Κύριος ὁ θεὸς παράδεισον ἐν Ἔδεμ κατὰ ἀνατολάς ,",
+        "VUL": "Plantáverat autem Dóminus Deus paradísum voluptátis a príncipio :",
+        "SP": "ו יטע יהוה אלהים גן ב עדן מ קדם",
+        "KJV": "And the LORD God planted a garden eastward in Eden ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and there he put the man whom he had formed .",
+      "traditions": {
+        "WLC": "וַ יָּ֣שֶׂם שָׁ֔ם אֶת הָֽ אָדָ֖ם אֲשֶׁ֥ר יָצָֽר",
+        "LXX": "καὶ ἔθετο ἐκεῖ τὸν ἄνθρωπον ὃν ἔπλασεν .",
+        "VUL": "in quo pósuit hóminem quem formáverat .",
+        "SP": "ו ישׂם שׁם את ה אדם אשׁר יצר",
+        "KJV": "and there he put the man whom he had formed .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight , and good for food ;",
+      "traditions": {
+        "WLC": "וַ יַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן הָ֣ אֲדָמָ֔ה כָּל עֵ֛ץ נֶחְמָ֥ד לְ מַרְאֶ֖ה וְ ט֣וֹב לְ מַאֲכָ֑ל",
+        "LXX": "καὶ ἐξανέτειλεν ὁ θεὸς ἔτι ἐκ τῆς γῆς πᾶν ξύλον ὡραῖον εἰς ὅρασιν καὶ καλὸν εἰς βρῶσιν ·",
+        "VUL": "Produxítque Dóminus Deus de humo omne lignum pulchrum visu , et ad vescéndum suáve :",
+        "SP": "ו יצמח יהוה אלהים מן ה אדמה את כל עץ נחמד ל מראה ו טוב ל מאכל",
+        "KJV": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight , and good for food ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the tree of life also in the midst of the garden ,",
+      "traditions": {
+        "WLC": "וְ עֵ֤ץ הַֽ חַיִּים֙ בְּ ת֣וֹךְ הַ גָּ֔ן",
+        "LXX": "καὶ τὸ ξύλον τῆς ζωῆς ἐν μέσῳ τῷ παραδείσῳ ,",
+        "VUL": "lignum étiam vitæ in médio paradísi ,",
+        "SP": "ו עץ ה חיים ב תוך ה גן",
+        "KJV": "the tree of life also in the midst of the garden ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the tree of knowledge of good and evil .",
+      "traditions": {
+        "WLC": "וְ עֵ֕ץ הַ דַּ֖עַת ט֥וֹב וָ רָֽע",
+        "LXX": "καὶ τὸ ξύλον τοῦ εἰδέναι γνωστὸν καλοῦ καὶ πονηροῦ .",
+        "VUL": "lignúmque sciéntiæ boni et mali .",
+        "SP": "ו עץ ה דעת טוב ו רע",
+        "KJV": "and the tree of knowledge of good and evil .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And a river went out of Eden to water the garden ;",
+      "traditions": {
+        "WLC": "וְ נָהָרּ֙ יֹצֵ֣א מֵ עֵ֔דֶן לְ הַשְׁק֖וֹת אֶת הַ גָּ֑ן",
+        "LXX": "ποταμὸς δὲ ἐκπορεύεται ἐξ Ἔδεμ ποτίζειν τὸν παράδεισον ·",
+        "VUL": "Et flúvius egrediebátur de loco voluptátis ad irrigándum paradísum ,",
+        "SP": "ו נהר יצא מ עדן ל השׁקות את ה גן",
+        "KJV": "And a river went out of Eden to water the garden ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and from thence it was parted ,",
+      "traditions": {
+        "WLC": "וּ מִ שָּׁם֙ יִפָּרֵ֔ד",
+        "LXX": "ἐκεῖθεν ἀφορίζεται",
+        "VUL": "qui inde divíditur",
+        "SP": "ו מ שׁם יפרד",
+        "KJV": "and from thence it was parted ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and became into four heads .",
+      "traditions": {
+        "WLC": "וְ הָיָ֖ה לְ אַרְבָּעָ֥ה רָאשִֽׁים",
+        "LXX": "εἰς τέσσαρας ἀρχάς .",
+        "VUL": "in quátuor cápita .",
+        "SP": "ו היה ל ארבעה ראשׁים",
+        "KJV": "and became into four heads .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "The name of the first [ is ] Pison",
+      "traditions": {
+        "WLC": "שֵׁ֥ם הָֽ אֶחָ֖ד פִּישׁ֑וֹן",
+        "LXX": "ὄνομα τῷ ἑνὶ Φεισών ·",
+        "VUL": "Nomen uni Phison :",
+        "SP": "שׁם ה אחד פישׁון",
+        "KJV": "The name of the first [ is ] Pison :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that [ is ] it which compasseth the whole land of Havilah",
+      "traditions": {
+        "WLC": "ה֣וּא הַ סֹּבֵ֗ב אֵ֚ת כָּל אֶ֣רֶץ הַֽ חֲוִילָ֔ה",
+        "LXX": "οὗτος ὁ κυκλῶν πᾶσαν τὴν γῆν Εὑειλάτ ,",
+        "VUL": "ipse est qui círcuit omnem terram Hévilath ,",
+        "SP": "הוא ה סובב את כל ארץ ה חוילה",
+        "KJV": "that [ is ] it which compasseth the whole land of Havilah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "where [ there is ] gold",
+      "traditions": {
+        "WLC": "אֲשֶׁר שָׁ֖ם הַ זָּהָֽב",
+        "LXX": "ἐκεῖ οὗ ἐστιν τὸ χρυσίον ·",
+        "VUL": "ubi náscitur aurum :",
+        "SP": "אשׁר שׁם ה זהב",
+        "KJV": "where [ there is ] gold ;",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the gold of that land [ is ] good",
+      "traditions": {
+        "WLC": "וּֽ זֲהַ֛ב הָ אָ֥רֶץ הַ הִ֖וא ט֑וֹב",
+        "LXX": "τὸ δὲ χρυσίον τῆς γῆς ἐκείνης καλόν ·",
+        "VUL": "et aurum terræ illíus óptimum est :",
+        "SP": "ו זהב ה ארץ ה היא טוב מאד",
+        "KJV": "And the gold of that land [ is ] good :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "there [ is ] bdellium and the onyx stone",
+      "traditions": {
+        "WLC": "שָׁ֥ם הַ בְּדֹ֖לַח וְ אֶ֥בֶן הַ שֹּֽׁהַם",
+        "LXX": "καὶ ἐκεῖ ἐστιν ὁ ἄνθραξ καὶ ὁ λίθος ὁ πράσινος .",
+        "VUL": "ibi invenítur bdéllium , et lapis onýchinus .",
+        "SP": "שׁם ה בדלח ו אבן ה שׁהם",
+        "KJV": "there [ is ] bdellium and the onyx stone .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the name of the second river [ is ] Gihon",
+      "traditions": {
+        "WLC": "וְ שֵֽׁם הַ נָּהָ֥ר הַ שֵּׁנִ֖י גִּיח֑וֹן",
+        "LXX": "καὶ ὄνομα τῷ ποταμῷ τῷ δευτέρῳ Γηών ·",
+        "VUL": "Et nomen flúvii secúndi Gehon :",
+        "SP": "ו שׁם ה נהר ה שׁני גיחון",
+        "KJV": "And the name of the second river [ is ] Gihon :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the same [ is ] it that compasseth the whole land of Ethiopia",
+      "traditions": {
+        "WLC": "ה֣וּא הַ סּוֹבֵ֔ב אֵ֖ת כָּל אֶ֥רֶץ כּֽוּשׁ",
+        "LXX": "οὗτος ὁ κυκλῶν πᾶσαν τὴν γῆν Αἰθιοπίας .",
+        "VUL": "ipse est qui círcumit omnem terram Æthiópiæ .",
+        "SP": "הוא ה סובב את כל ארץ כושׁ",
+        "KJV": "the same [ is ] it that compasseth the whole land of Ethiopia .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the name of the third river [ is ] Hiddekel",
+      "traditions": {
+        "WLC": "וְ שֵׁ֨ם הַ נָּהָ֤ר הַ שְּׁלִישִׁי֙ חִדֶּ֔קֶל",
+        "LXX": "καὶ ὁ ποταμὸς ὁ τρίτος Τίγρις ·",
+        "VUL": "Nomen vero flúminis tértii , Tigris :",
+        "SP": "ו שׁם ה נהר ה שׁלישׁי הדקל",
+        "KJV": "And the name of the third river [ is ] Hiddekel :",
+        "DSS": "[4Q2] ה שלישי חדקל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that [ is ] it which goeth toward the east of Assyria",
+      "traditions": {
+        "WLC": "ה֥וּא הַֽ הֹלֵ֖ךְ קִדְמַ֣ת אַשּׁ֑וּר",
+        "LXX": "οὗτος ὁ πορευόμενος κατέναντι Ἀσσυρίων .",
+        "VUL": "ipse vadit contra Assýrios .",
+        "SP": "הוא ה הלך קדמת אשׁור",
+        "KJV": "that [ is ] it which goeth toward the east of Assyria .",
+        "DSS": "[4Q2] הוא## ה הל#ך ק[ דמת אשור"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the fourth river [ is ] Euphrates",
+      "traditions": {
+        "WLC": "וְ הַ נָּהָ֥ר הָֽ רְבִיעִ֖י ה֥וּא פְרָֽת",
+        "LXX": "ὁ δὲ ποταμὸς ὁ τέταρτος , οὗτος Εὐφράτης .",
+        "VUL": "Flúvius autem quartus , ipse est Euphrátes .",
+        "SP": "ו ה נהר ה רביעי הוא פרת",
+        "KJV": "And the fourth river [ is ] Euphrates .",
+        "DSS": "[4Q2] ו ה נהר ה רביעי הוא פרת ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD God took the man",
+      "traditions": {
+        "WLC": "וַ יִּקַּ֛ח יְהוָ֥ה אֱלֹהִ֖ים אֶת הָֽ אָדָ֑ם",
+        "LXX": "καὶ ἔλαβεν Κύριος ὁ θεὸς τὸν ἄνθρωπον ὃν ἔπλασεν",
+        "VUL": "Tulit ergo Dóminus Deus hóminem ,",
+        "SP": "ו יקח יהוה אלהים את ה אדם",
+        "KJV": "And the LORD God took the man ,",
+        "DSS": "[4Q2] ו יקח יהוה אלהים א##ת## ה## אד##ם#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and put him into the garden of Eden",
+      "traditions": {
+        "WLC": "וַ יַּנִּחֵ֣ הוּ בְ גַן עֵ֔דֶן",
+        "LXX": "καὶ ἔθετο αὐτὸν ἐν τῷ παραδείσῳ ,",
+        "VUL": "et pósuit eum in paradíso voluptátis ,",
+        "SP": "ו יניחהו ב גן עדן",
+        "KJV": "and put him into the garden of Eden",
+        "DSS": "[4Q2] [ ו ינח ]׳הו ב גן ע##ד##ן#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to dress it and to keep it",
+      "traditions": {
+        "WLC": "לְ עָבְדָ֖ הּ וּ לְ שָׁמְרָֽ הּ",
+        "LXX": "ἐργάζεσθαι αὐτὸν καὶ φυλάσσειν .",
+        "VUL": "ut operarétur , et custodíret illum :",
+        "SP": "ל עבדה ו ל שׁמרה",
+        "KJV": "to dress it and to keep it .",
+        "DSS": "[4Q2] ? ל# ע##ב#ד##׳[ ה ] [ ו ] ל# שמ##ר##׳ה# ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD God commanded the man , saying",
+      "traditions": {
+        "WLC": "וַ יְצַו֙ יְהוָ֣ה אֱלֹהִ֔ים עַל הָֽ אָדָ֖ם לֵ אמֹ֑ר",
+        "LXX": "καὶ ἐνετείλατο Κύριος ὁ θεὸς τῷ Ἀδὰμ λέγων",
+        "VUL": "præcepítque ei , dicens :",
+        "SP": "ו יצו יהוה אלהים על ה אדם ל אמר",
+        "KJV": "And the LORD God commanded the man , saying ,",
+        "DSS": "[4Q2] ו יצו יהוה אלהים על# ה אד##ם##[  ל אמר  ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Of every tree of the garden thou mayest freely eat",
+      "traditions": {
+        "WLC": "מִ כֹּ֥ל עֵֽץ הַ גָּ֖ן אָכֹ֥ל תֹּאכֵֽל",
+        "LXX": "Ἀπὸ παντὸς ξύλου τοῦ ἐν τῷ παραδείσῳ βρώσει φάγῃ ·",
+        "VUL": "Ex omni ligno paradísi cómede :",
+        "SP": "מ כל עץ ה גן אכל תאכל",
+        "KJV": "Of every tree of the garden thou mayest freely eat :",
+        "DSS": "[4Q2] მ כל ע##ץ# ה# ג#?ן אכ##ל# [ תא ]כ##ל ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "But of the tree of the knowledge of good and evil , thou shalt not eat of it",
+      "traditions": {
+        "WLC": "וּ מֵ עֵ֗ץ הַ דַּ֨עַת֙ ט֣וֹב וָ רָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑ נּוּ",
+        "LXX": "ἀπὸ δὲ τοῦ ξύλου τοῦ γινώσκειν καλὸν καὶ πονηρόν , οὐ φάγεσθε ἀπ᾽ αὐτοῦ ·",
+        "VUL": "de ligno autem sciéntiæ boni et mali ne cómedas :",
+        "SP": "ו מ עץ ה דעת טוב ו רע לא תאכל ממנו",
+        "KJV": "But of the tree of the knowledge of good and evil , thou shalt not eat of it :",
+        "DSS": "[4Q2] ו מ## עץ#? ה ד##ע#ת# ט##ו?ב# ו רע לא ת##[ אכל ממ׳נ ]ו#?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for in the day that thou eatest thereof thou shalt surely die",
+      "traditions": {
+        "WLC": "כִּ֗י בְּ י֛וֹם אֲכָלְ ךָ֥ מִמֶּ֖ נּוּ מ֥וֹת תָּמֽוּת",
+        "LXX": "ᾗ δ᾽ ἂν ἡμέρᾳ φάγησθε ἀπ᾽ αὐτοῦ , θανάτῳ ἀποθανεῖσθε .",
+        "VUL": "in quocúmque enim die coméderis ex eo , morte moriéris .",
+        "SP": "כי ב יום אכלך ממנו מות תמות",
+        "KJV": "for in the day that thou eatest thereof thou shalt surely die .",
+        "DSS": "[4Q2] כ##י#? [ ב יום ] א#כ#ל׳ך# מ##מ#׳נ?ו? מו#?ת ת##מו(# ת #) ׃ / [4Q8b] [ ב יום אכל׳ך ממ׳נו ]מות תמ##[ ות ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD God said , [ It is ] not good that the man should be alone",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר֙ יְהוָ֣ה אֱלֹהִ֔ים לֹא ט֛וֹב הֱי֥וֹת הָֽ אָדָ֖ם לְ בַדּ֑ וֹ",
+        "LXX": "Καὶ εἶπεν Κύριος ὁ θεός Οὐ καλὸν εἶναι τὸν ἄνθρωπον μόνον ·",
+        "VUL": "Dixit quoque Dóminus Deus : Non est bonum esse hóminem solum :",
+        "SP": "ו יאמר יהוה אלהים לא טוב היות ה אדם ל בדו",
+        "KJV": "And the LORD God said , [ It is ] not good that the man should be alone ;",
+        "DSS": "[4Q2] ו#? יא##מ##[ ר ] יהוה אלהים לא טוב[ היות ה אדם ל בד ]׳ו#? / [4Q8b] ו יאמר יהוה אלהים לא טוב ] [ היות ה אדם ל בד׳ו ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will make him an help meet for him",
+      "traditions": {
+        "WLC": "אֶֽעֱשֶׂהּ לּ֥ וֹ עֵ֖זֶר כְּ נֶגְדּֽ וֹ",
+        "LXX": "ποιήσωμεν αὐτῷ βοηθὸν κατ᾽ αὐτόν .",
+        "VUL": "faciámus ei adiutórium símile sibi .",
+        "SP": "אעשׂה לו עזר כ נגדו",
+        "KJV": "I will make him an help meet for him .",
+        "DSS": "[4Q2] אע##ש##ה# ל׳ו עזר כ נגד׳ו ׃ / [4Q8b] אעשה##[ ל׳ו עזר כ נגד׳ו ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And out of the ground the LORD God formed every beast of the field , and every fowl of the air",
+      "traditions": {
+        "WLC": "וַ יִּצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים מִן הָֽ אֲדָמָ֗ה כָּל חַיַּ֤ת הַ שָּׂדֶה֙ וְ אֵת֙ כָּל ע֣וֹף הַ שָּׁמַ֔יִם",
+        "LXX": "καὶ ἔπλασεν ὁ θεὸς ἔτι ἐκ τῆς γῆς πάντα τὰ θηρία τοῦ ἀγροῦ καὶ πάντα τὰ πετεινὰ τοῦ οὐρανοῦ ,",
+        "VUL": "Formátis ígitur Dóminus Deus de humo cunctis animántibus terræ , et univérsis volatílibus cæli ,",
+        "SP": "ו יצר יהוה אלהים עוד מן ה אדמה את כל חית ה שׂדה ו את כל עוף ה שׁמים",
+        "KJV": "And out of the ground the LORD God formed every beast of the field , and every fowl of the air ;",
+        "DSS": "[4Q2] ו י(# צ #)ר יהוה אלהים מן ה א#ד##[ מה כל חית ה שדה ו את כל עוף ה ] ש##מ##[ ים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and brought [ them ] unto Adam to see what he would call them",
+      "traditions": {
+        "WLC": "וַ יָּבֵא֙ אֶל הָ֣ אָדָ֔ם לִ רְא֖וֹת מַה יִּקְרָא ל֑ וֹ",
+        "LXX": "καὶ ἤγαγεν αὐτὰ πρὸς τὸν Ἀδὰμ ἰδεῖν τί καλέσει αὐτά ·",
+        "VUL": "addúxit ea ad Adam , ut vidéret quid vocáret ea :",
+        "SP": "ו יבא אל ה אדם ל ראות מה יקרא לו",
+        "KJV": "and brought [ them ] unto Adam to see what he would call them :",
+        "DSS": "[4Q2] ו יבא ] א#ל ה## א##ד##ם## ל# [ ראות מה יקרא ל׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and whatsoever Adam called every living creature , that [ was ] the name thereof",
+      "traditions": {
+        "WLC": "וְ כֹל֩ אֲשֶׁ֨ר יִקְרָא ל֧ וֹ הָֽ אָדָ֛ם נֶ֥פֶשׁ חַיָּ֖ה ה֥וּא שְׁמֽ וֹ",
+        "LXX": "καὶ πᾶν ὃ ἐὰν ἐκάλεσεν αὐτὸ Ἀδὰμ ψυχὴν ζῶσαν , τοῦτο ὄνομα αὐτοῦ .",
+        "VUL": "omne enim quod vocávit Adam ánimæ vivéntis , ipsum est nomen eius .",
+        "SP": "ו כל אשׁר יקרא לו ה אדם נפשׁ חיה הוא שׁמו",
+        "KJV": "and whatsoever Adam called every living creature , that [ was ] the name thereof .",
+        "DSS": "[4Q2] ו כל אשר יקרא ל׳ו ה אדם נפש חיה הוא שמ׳ו ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Adam gave names to all cattle ,",
+      "traditions": {
+        "WLC": "וַ יִּקְרָ֨א הָֽ אָדָ֜ם שֵׁמ֗וֹת לְ כָל הַ בְּהֵמָה֙",
+        "LXX": "καὶ ἐκάλεσεν Ἀδὰμ ὀνόματα πᾶσιν τοῖς κτήνεσιν",
+        "VUL": "Appellavítque Adam nomínibus suis cuncta animántia ,",
+        "SP": "ו יקרא ה אדם שׁמות ל כל ה בהמה",
+        "KJV": "And Adam gave names to all cattle ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and to the fowl of the air ,",
+      "traditions": {
+        "WLC": "וּ לְ ע֣וֹף הַ שָּׁמַ֔יִם",
+        "LXX": "καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ",
+        "VUL": "et univérsa volatília cæli ,",
+        "SP": "ו ל עוף ה שׁמים",
+        "KJV": "and to the fowl of the air ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and to every beast of the field ;",
+      "traditions": {
+        "WLC": "וּ לְ כֹ֖ל חַיַּ֣ת הַ שָּׂדֶ֑ה",
+        "LXX": "καὶ πᾶσι τοῖς θηρίοις τοῦ ἀγροῦ ·",
+        "VUL": "et omnes béstias terræ :",
+        "SP": "ו ל כל חית ה שׂדה",
+        "KJV": "and to every beast of the field ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "but for Adam there was not found an help meet for him .",
+      "traditions": {
+        "WLC": "וּ לְ אָדָ֕ם לֹֽא מָצָ֥א עֵ֖זֶר כְּ נֶגְדּֽ וֹ",
+        "LXX": "τῷ τε Ἀδὰμ οὐχ εὑρέθη βοηθὸς ὅμοιος αὐτῷ .",
+        "VUL": "Adæ vero non inveniebátur adiútor símilis eius .",
+        "SP": "ו ל אדם לא מצא עזר כ נגדו",
+        "KJV": "but for Adam there was not found an help meet for him .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD God caused a deep sleep to fall upon Adam",
+      "traditions": {
+        "WLC": "וַ יַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָ אָדָ֖ם",
+        "LXX": "καὶ ἐπέβαλεν ὁ θεὸς ἔκστασιν ἐπὶ τὸν Ἀδάμ ,",
+        "VUL": "Immísit ergo Dóminus Deus sopórem in Adam :",
+        "SP": "ו יפל יהוה אלהים תרדמה על ה אדם",
+        "KJV": "And the LORD God caused a deep sleep to fall upon Adam ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he slept",
+      "traditions": {
+        "WLC": "וַ יִּישָׁ֑ן",
+        "LXX": "καὶ ὕπνωσεν ·",
+        "VUL": "cumque obdormísset ,",
+        "SP": "ו יישׁן",
+        "KJV": "and he slept :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he took one of his ribs",
+      "traditions": {
+        "WLC": "וַ יִּקַּ֗ח אַחַת֙ מִ צַּלְעֹתָ֔י",
+        "LXX": "καὶ ἔλαβεν μίαν τῶν πλευρῶν αὐτοῦ",
+        "VUL": "tulit unam de costis eius ,",
+        "SP": "ו יקח אחת מ צלעתיו",
+        "KJV": "and he took one of his ribs ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and closed up the flesh instead thereof",
+      "traditions": {
+        "WLC": "ו וַ יִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽ נָּה",
+        "LXX": "καὶ ἀνεπλήρωσεν σάρκα ἀντ᾽ αὐτῆς .",
+        "VUL": "et replévit carnem pro ea .",
+        "SP": "ו יסגר בשׂר תחתיה",
+        "KJV": "and closed up the flesh instead thereof ;",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the rib , which the LORD God had taken from man , made he a woman",
+      "traditions": {
+        "WLC": "וַ יִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַ צֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽ אָדָ֖ם לְ אִשָּׁ֑ה",
+        "LXX": "καὶ ᾠκοδόμησεν Κύριος ὁ θεὸς τὴν πλευράν , ἣν ἔλαβεν ἀπὸ τοῦ Ἀδάμ , εἰς γυναῖκα ·",
+        "VUL": "Et ædificávit Dóminus Deus costam , quam túlerat de Adam , in mulíerem :",
+        "SP": "ו יבן יהוה אלהים את ה צלע אשׁר לקח מן ה אדם ל אשׁה",
+        "KJV": "And the rib , which the LORD God had taken from man , made he a woman ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and brought her unto the man",
+      "traditions": {
+        "WLC": "וַ יְבִאֶ֖ הָ אֶל הָֽ אָדָֽם",
+        "LXX": "καὶ ἤγαγεν αὐτὴν πρὸς τὸν Ἀδάμ .",
+        "VUL": "et addúxit eam ad Adam .",
+        "SP": "ו יביאה אל ה אדם",
+        "KJV": "and brought her unto the man .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Adam said",
+      "traditions": {
+        "WLC": "וַ יֹּאמֶר֮ הָֽ אָדָם֒",
+        "LXX": "καὶ εἶπεν Ἀδάμ",
+        "VUL": "Dixítque Adam :",
+        "SP": "ו יאמר ה אדם",
+        "KJV": "And Adam said ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "This [ is ] now bone of my bones , and flesh of my flesh",
+      "traditions": {
+        "WLC": "זֹ֣את הַ פַּ֗עַם עֶ֚צֶם מֵֽ עֲצָמַ֔ י וּ בָשָׂ֖ר מִ בְּשָׂרִ֑ י",
+        "LXX": "Τοῦτο νῦν ὀστοῦν ἐκ τῶν ὀστέων μου καὶ σὰρξ ἐκ τῆς σαρκός μου ·",
+        "VUL": "Hoc nunc os ex óssibus meis , et caro de carne mea :",
+        "SP": "זאת ה פעם עצם מ עצמי ו בשׂר מ בשׂרי",
+        "KJV": "This [ is ] now bone of my bones , and flesh of my flesh :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "she shall be called Woman",
+      "traditions": {
+        "WLC": "לְ זֹאת֙ יִקָּרֵ֣א אִשָּׁ֔ה",
+        "LXX": "αὕτη κληθήσεται Γυνή ,",
+        "VUL": "hæc vocábitur Virágo ,",
+        "SP": "ל זאת יקרא אשׁה",
+        "KJV": "she shall be called Woman ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "because she was taken out of Man",
+      "traditions": {
+        "WLC": "כִּ֥י מֵ אִ֖ישׁ לֻֽקֳחָה זֹּֽאת",
+        "LXX": "ὅτι ἐκ τοῦ ἀνδρὸς αὐτῆς ἐλήμφθη αὕτη .",
+        "VUL": "quóniam de viro sumpta est .",
+        "SP": "כי מ אישׁה לקחה זאת",
+        "KJV": "because she was taken out of Man .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore shall a man leave his father and his mother",
+      "traditions": {
+        "WLC": "עַל כֵּן֙ יַֽעֲזָב אִ֔ישׁ אֶת אָבִ֖י ו וְ אֶת אִמּ֑ וֹ",
+        "LXX": "ἕνεκεν τούτου καταλείψει ἄνθρωπος τὸν πατέρα αὐτοῦ καὶ τὴν μητέρα αὐτοῦ ,",
+        "VUL": "Quam ob rem relínquet homo patrem suum , et matrem ,",
+        "SP": "על כן יעזב אישׁ את אביו ו את אמו",
+        "KJV": "Therefore shall a man leave his father and his mother ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall cleave unto his wife",
+      "traditions": {
+        "WLC": "וְ דָבַ֣ק בְּ אִשְׁתּ֔ וֹ",
+        "LXX": "καὶ προσκολληθήσεται τῇ γυναικὶ αὐτοῦ ·",
+        "VUL": "et adhærébit uxóri suæ :",
+        "SP": "ו דבק ב אשׁתו",
+        "KJV": "and shall cleave unto his wife :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they shall be one flesh",
+      "traditions": {
+        "WLC": "וְ הָי֖וּ לְ בָשָׂ֥ר אֶחָֽד",
+        "LXX": "καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν .",
+        "VUL": "et erunt duo in carne una .",
+        "SP": "ו היה מ שׁניהם ל בשׂר אחד",
+        "KJV": "and they shall be one flesh .",
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they were both naked , the man and his wife",
+      "traditions": {
+        "WLC": "וַ יִּֽהְי֤וּ שְׁנֵי הֶם֙ עֲרוּמִּ֔ים הָֽ אָדָ֖ם וְ אִשְׁתּ֑ וֹ",
+        "LXX": null,
+        "VUL": "Erat autem utérque nudus , Adam scílicet et uxor eius :",
+        "SP": "ו יהיו שׁניהם ערמים אדם ו אשׁתו",
+        "KJV": "And they were both naked , the man and his wife ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and were not ashamed",
+      "traditions": {
+        "WLC": "וְ לֹ֖א יִתְבֹּשָֽׁשׁוּ",
+        "LXX": null,
+        "VUL": "et non erubescébant .",
+        "SP": "ו לא יתבשׁשׁו",
+        "KJV": "and were not ashamed .",
+        "DSS": null
+      }
+    }
+  ]
+}

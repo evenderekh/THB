@@ -1,0 +1,662 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "The words of the Preacher",
+      "traditions": {
+        "WLC": "דִּבְרֵי֙ קֹהֶ֣לֶת",
+        "LXX": "ΡΗΜΑΤΑ Ἐκκλησιαστοῦ",
+        "VUL": "Verba Ecclesiástæ ,",
+        "SP": null,
+        "KJV": "The words of the Preacher ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the son of David",
+      "traditions": {
+        "WLC": "בֶּן דָּוִ֔ד",
+        "LXX": "υἱοῦ Δαυεὶδ",
+        "VUL": "fílii David ,",
+        "SP": null,
+        "KJV": "the son of David ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "king in Jerusalem",
+      "traditions": {
+        "WLC": "מֶ֖לֶךְ בִּ ירוּשָׁלִָֽם",
+        "LXX": "βασιλέως Ἰσραὴλ ἐν Ἰερουσαλήμ .",
+        "VUL": "regis Ierúsalem .",
+        "SP": null,
+        "KJV": "king in Jerusalem .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Vanity of vanities",
+      "traditions": {
+        "WLC": "הֲבֵ֤ל הֲבָלִים֙",
+        "LXX": "Ματαιότης ματαιοτήτων ,",
+        "VUL": "Vánitas vanitátum ,",
+        "SP": null,
+        "KJV": "Vanity of vanities ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saith the Preacher",
+      "traditions": {
+        "WLC": "אָמַ֣ר קֹהֶ֔לֶת",
+        "LXX": "εἶπεν ὁ ἐκκλησιαστής ,",
+        "VUL": "dixit Ecclesiástes :",
+        "SP": null,
+        "KJV": "saith the Preacher ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "vanity of vanities",
+      "traditions": {
+        "WLC": "הֲבֵ֥ל הֲבָלִ֖ים",
+        "LXX": "ματαιότης ματαιοτήτων ,",
+        "VUL": "vánitas vanitátum ,",
+        "SP": null,
+        "KJV": "vanity of vanities ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "all [ is ] vanity",
+      "traditions": {
+        "WLC": "הַ כֹּ֥ל הָֽבֶל",
+        "LXX": "τὰ πάντα ματαιότης .",
+        "VUL": "et ómnia vánitas .",
+        "SP": null,
+        "KJV": "all [ is ] vanity .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "What profit hath a man of all his labour",
+      "traditions": {
+        "WLC": "מַה יִּתְר֖וֹן לָֽ אָדָ֑ם בְּ כָל עֲמָל֔ וֹ",
+        "LXX": "τίς περισσεία τῷ ἀνθρώπῳ ἐν παντὶ μόχθῳ αὐτοῦ",
+        "VUL": "Quid habet ámplius homo de univérso labóre suo ,",
+        "SP": null,
+        "KJV": "What profit hath a man of all his labour",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which he taketh under the sun",
+      "traditions": {
+        "WLC": "שֶֽׁ יַּעֲמֹ֖ל תַּ֥חַת הַ שָּֽׁמֶשׁ",
+        "LXX": "ᾧ μοχθεῖ ὑπὸ τὸν ἥλιον ;",
+        "VUL": "quo labórat sub sole ?",
+        "SP": null,
+        "KJV": "which he taketh under the sun ?",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ One ] generation passeth away",
+      "traditions": {
+        "WLC": "דּ֤וֹר הֹלֵךְ֙",
+        "LXX": "γενεὰ πορεύεται",
+        "VUL": "Generátio prǽterit ,",
+        "SP": null,
+        "KJV": "[ One ] generation passeth away ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ another ] generation cometh",
+      "traditions": {
+        "WLC": "וְ ד֣וֹר בָּ֔א",
+        "LXX": "καὶ γενεὰ ἔρχεται ,",
+        "VUL": "et generátio ádvenit :",
+        "SP": null,
+        "KJV": "and [ another ] generation cometh :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "but the earth abideth for ever",
+      "traditions": {
+        "WLC": "וְ הָ אָ֖רֶץ לְ עוֹלָ֥ם עֹמָֽדֶת",
+        "LXX": "καὶ ἡ γῆ εἰς τὸν αἰῶνα ἕστηκεν .",
+        "VUL": "terra autem in ætérnum stat .",
+        "SP": null,
+        "KJV": "but the earth abideth for ever .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "The sun also ariseth",
+      "traditions": {
+        "WLC": "וְ זָרַ֥ח הַ שֶּׁ֖מֶשׁ",
+        "LXX": "καὶ ἀνατέλλει ὁ ἥλιος",
+        "VUL": "Orítur sol",
+        "SP": null,
+        "KJV": "The sun also ariseth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the sun goeth down",
+      "traditions": {
+        "WLC": "וּ בָ֣א הַ שָּׁ֑מֶשׁ",
+        "LXX": "καὶ δύνει ὁ ἥλιος",
+        "VUL": "et óccidit ,",
+        "SP": null,
+        "KJV": "and the sun goeth down ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and hasteth to his place where he arose",
+      "traditions": {
+        "WLC": "וְ אֶ֨ל מְקוֹמ֔ וֹ שׁוֹאֵ֛ף זוֹרֵ֥חַֽ ה֖וּא שָֽׁם",
+        "LXX": "καὶ εἰς τὸν τόπον αὐτοῦ ἕλκει · αὐτὸς ἀνατέλλων ἐκεῖ",
+        "VUL": "et ad locum suum revértitur : ibíque renáscens ,",
+        "SP": null,
+        "KJV": "and hasteth to his place where he arose .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "The wind goeth toward the south",
+      "traditions": {
+        "WLC": "הוֹלֵךְ֙ אֶל דָּר֔וֹם",
+        "LXX": "πορεύεται πρὸς νότον",
+        "VUL": "gyrat per merídiem ,",
+        "SP": null,
+        "KJV": "The wind goeth toward the south ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and turneth about unto the north",
+      "traditions": {
+        "WLC": "וְ סוֹבֵ֖ב אֶל צָפ֑וֹן",
+        "LXX": "καὶ κυκλοῖ πρὸς βορρᾶν ·",
+        "VUL": "et fléctitur ad aquilónem .",
+        "SP": null,
+        "KJV": "and turneth about unto the north ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "it whirleth about continually",
+      "traditions": {
+        "WLC": "סוֹבֵ֤ב סֹבֵב֙ הוֹלֵ֣ךְ הָ ר֔וּחַ",
+        "LXX": "κυκλοῖ κυκλῶν , πορεύεται τὸ πνεῦμα ,",
+        "VUL": "Lustrans univérsa in circúitu pergit spíritus ,",
+        "SP": null,
+        "KJV": "it whirleth about continually ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the wind returneth again according to his circuits",
+      "traditions": {
+        "WLC": "וְ עַל סְבִיבֹתָ֖י ו שָׁ֥ב הָ רֽוּחַ",
+        "LXX": "καὶ ἐπὶ κύκλους αὐτοῦ ἐπιστρέφει τὸ πνεῦμα .",
+        "VUL": "et in círculos suos revértitur .",
+        "SP": null,
+        "KJV": "and the wind returneth again according to his circuits .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "All the rivers run into the sea",
+      "traditions": {
+        "WLC": "כָּל הַ נְּחָלִים֙ הֹלְכִ֣ים אֶל הַ יָּ֔ם",
+        "LXX": "πάντες οἱ χείμαρροι πορεύονται εἰς τὴν θάλασσαν ,",
+        "VUL": "Omnia flúmina intrant in mare ,",
+        "SP": null,
+        "KJV": "All the rivers run into the sea ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "yet the sea [ is ] not full",
+      "traditions": {
+        "WLC": "וְ הַ יָּ֖ם אֵינֶ֣ נּוּ מָלֵ֑א",
+        "LXX": "καὶ ἡ θάλασσα οὐκ ἔσται ἐμπιμπλαμένη ·",
+        "VUL": "et mare non redúndat :",
+        "SP": null,
+        "KJV": "yet the sea [ is ] not full ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "unto the place from whence the rivers come",
+      "traditions": {
+        "WLC": "אֶל מְק֗וֹם שֶׁ֤ הַ נְּחָלִים֙ הֹֽלְכִ֔ים",
+        "LXX": "εἰς τόπον οἱ χείμαρροι πορεύονται ,",
+        "VUL": "ad locum , unde éxeunt flúmina ,",
+        "SP": null,
+        "KJV": "unto the place from whence the rivers come ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "thither they return again",
+      "traditions": {
+        "WLC": "שָׁ֛ם הֵ֥ם שָׁבִ֖ים לָ לָֽכֶת",
+        "LXX": "ἐκεῖ αὐτοὶ ἐπιστρέφουσιν τοῦ πορευθῆναι .",
+        "VUL": "revertúntur ut íterum fluant .",
+        "SP": null,
+        "KJV": "thither they return again .",
+        "DSS": "[4Q110] [ ל לכת ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "All things [ are ] full of labour",
+      "traditions": {
+        "WLC": "כָּל הַ דְּבָרִ֣ים יְגֵעִ֔ים",
+        "LXX": "πάντες οἱ λόγοι ἔγκοποι ·",
+        "VUL": "Cunctæ res diffíciles :",
+        "SP": null,
+        "KJV": "All things [ are ] full of labour ;",
+        "DSS": "[4Q110] כול ה דברים  ]יגע[ ים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "man can not utter [ it ]",
+      "traditions": {
+        "WLC": "לֹא יוּכַ֥ל אִ֖ישׁ לְ דַבֵּ֑ר",
+        "LXX": "οὐ δυνήσεται ἀνὴρ τοῦ λαλεῖν ,",
+        "VUL": "non potest eas homo explicáre sermóne .",
+        "SP": null,
+        "KJV": "man can not utter [ it ] :",
+        "DSS": "] לוא[  י ]וכ[ ל  ]א[ י ]ש[  ל דבר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the eye is not satisfied with seeing",
+      "traditions": {
+        "WLC": "לֹא תִשְׂבַּ֥ע עַ֨יִן֙ לִ רְא֔וֹת",
+        "LXX": "καὶ οὐ πλησθήσεται ὀφθαλμὸς τοῦ ὁρᾶν ,",
+        "VUL": "Non saturátur óculus visu ,",
+        "SP": null,
+        "KJV": "the eye is not satisfied with seeing ,",
+        "DSS": "לוא תשבע עין ] [ ל ראות"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "nor the ear filled with hearing",
+      "traditions": {
+        "WLC": "וְ לֹא תִמָּלֵ֥א אֹ֖זֶן מִ שְּׁמֹֽעַ",
+        "LXX": "καὶ οὐ πληρωθήσεται οὖς ἀπὸ ἀκροάσεως .",
+        "VUL": "nec auris audítu implétur .",
+        "SP": null,
+        "KJV": "nor the ear filled with hearing .",
+        "DSS": "ו לוא תמלא אוז ]ן מ שמוע ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The thing that hath been , it [ is that ] which shall be",
+      "traditions": {
+        "WLC": "מַה שֶּֽׁ הָיָה֙ ה֣וּא שֶׁ יִּהְיֶ֔ה",
+        "LXX": "τί τὸ γεγονός ; αὐτὸ τὸ γενησόμενον ·",
+        "VUL": "Quid est quod fuit ? ipsum quod futúrum est .",
+        "SP": null,
+        "KJV": "The thing that hath been , it [ is that ] which shall be ;",
+        "DSS": "[4Q110] מה ש ה[ יה הוא ש יהיה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and that which is done [ is ] that which shall be done",
+      "traditions": {
+        "WLC": "וּ מַה שֶׁ נַּֽעֲשָׂ֔ה ה֖וּא שֶׁ יֵּעָשֶׂ֑ה",
+        "LXX": "καὶ τί τὸ πεποιημένον ; αὐτὸ τὸ ποιηθησόμενον ·",
+        "VUL": "Quid est quod factum est ? ipsum quod faciéndum est .",
+        "SP": null,
+        "KJV": "and that which is done [ is ] that which shall be done :",
+        "DSS": "ו מה ש נעשה ] [ הוא ש יעשה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and [ there is ] no new [ thing ] under the sun",
+      "traditions": {
+        "WLC": "וְ אֵ֥ין כָּל חָדָ֖שׁ תַּ֥חַת הַ שָּֽׁמֶשׁ",
+        "LXX": "καὶ οὐκ ἔστιν πᾶν πρόσφατον ὑπὸ τὸν ἥλιον .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "and [ there is ] no new [ thing ] under the sun .",
+        "DSS": "ו אין כול חדש תחת ה שמש ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Is there [ any ] thing whereof it may be said , See , this [ is ] new ?",
+      "traditions": {
+        "WLC": "יֵ֥שׁ דָּבָ֛ר שֶׁ יֹּאמַ֥ר רְאֵה זֶ֖ה חָדָ֣שׁ ה֑וּא",
+        "LXX": "ὃς λαλήσει καὶ ἐρεῖ Ἴδε τοῦτο καινόν ἐστιν ,",
+        "VUL": "Nihil sub sole novum , nec valet quisquam dícere : Ecce hoc recens est :",
+        "SP": null,
+        "KJV": "Is there [ any ] thing whereof it may be said , See , this [ is ] new ?",
+        "DSS": "[4Q110] יש דבר ש יואמר ראה זה ] [ חדש הוא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it hath been already of old time",
+      "traditions": {
+        "WLC": "כְּבָר֙ הָיָ֣ה לְ עֹֽלָמִ֔ים",
+        "LXX": "ἤδη γέγονεν ἐν τοῖς αἰῶσιν",
+        "VUL": "iam enim præcéssit in sǽculis ,",
+        "SP": null,
+        "KJV": "it hath been already of old time ,",
+        "DSS": "כ ]ב#ר היה ל עו?למים#["
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which was before us",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר הָיָ֖ה מִ לְּ פָנֵֽ נוּ",
+        "LXX": "τοῖς γενομένοις ἀπὸ ἔμπροσθεν ἡμῶν .",
+        "VUL": "quæ fuérunt ante nos .",
+        "SP": null,
+        "KJV": "which was before us .",
+        "DSS": "אשר היה מ ל פנ׳נו ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "There is no remembrance of former things",
+      "traditions": {
+        "WLC": "אֵ֥ין זִכְר֖וֹן לָ רִאשֹׁנִ֑ים",
+        "LXX": "οὐκ ἔστιν μνήμη τοῖς πρώτοις ,",
+        "VUL": "Non est priórum memória :",
+        "SP": null,
+        "KJV": "[ There is ] no remembrance of former [ things ] ;",
+        "DSS": "[4Q110] אין זכרון ל ראשנים ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shall there be any remembrance of things that are to come with those that shall come after",
+      "traditions": {
+        "WLC": "וְ גַ֨ם לָ אַחֲרֹנִ֜ים שֶׁ יִּהְי֗וּ לֹֽא יִהְיֶ֤ה לָ הֶם֙ זִכָּר֔וֹן עִ֥ם שֶׁ יִּהְי֖וּ לָ אַחֲרֹנָֽה",
+        "LXX": "καί γε τοῖς ἐσχάτοις γενομένοις · οὐκ ἔσται αὐτῶν μνήμη μετὰ τῶν γενησομένων εἰς τὴν ἐσχάτην .",
+        "VUL": "sed nec eórum quidem , quæ póstea futúra sunt , erit recordátio apud eos , qui futúri sunt in novíssimo .",
+        "SP": null,
+        "KJV": "neither shall there be [ any ] remembrance of [ things ] that are to come with [ those ] that shall come after .",
+        "DSS": "[ ו גם ל אחרני ]ם## ש יהיו לוא יהיה##[  ל׳הם זכרון עם ש יהיו ל אחרנה ] ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "I the Preacher was king over Israel in Jerusalem",
+      "traditions": {
+        "WLC": "אֲנִ֣י קֹהֶ֗לֶת הָיִ֥יתִי מֶ֛לֶךְ עַל יִשְׂרָאֵ֖ל בִּ ירוּשָׁלִָֽם",
+        "LXX": "Ἐγὼ Ἐκκλησιαστὴς ἐγενόμην βασιλεὺς ἐπὶ Ἰσραὴλ ἐν Ἰερουσαλήμ ·",
+        "VUL": "Ego Ecclesiástes fui rex Israel in Ierúsalem ,",
+        "SP": null,
+        "KJV": "I the Preacher was king over Israel in Jerusalem .",
+        "DSS": "[4Q110] אני ק ]הלת הייתי מל##[ ך על ישראל ב ירושלם ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I gave my heart to seek and search out by wisdom",
+      "traditions": {
+        "WLC": "וְ נָתַ֣תִּי אֶת לִבִּ֗ י לִ דְר֤וֹשׁ וְ לָ תוּר֙ בַּֽ חָכְמָ֔ה",
+        "LXX": "καὶ ἔδωκα τὴν καρδίαν μου τοῦ ἐκζητῆσαι καὶ τοῦ κατασκέψασθαι ἐν τῇ σοφίᾳ",
+        "VUL": "et propósui in ánimo meo quǽrere et investigáre sapiénter",
+        "SP": null,
+        "KJV": "And I gave my heart to seek and search out by wisdom",
+        "DSS": "[4Q110] ו נתתי ] [ א ]ת לב׳י ל דרוש [ ו ל תור ב חכמה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "concerning all things that are done under heaven",
+      "traditions": {
+        "WLC": "עַ֛ל כָּל אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֣חַת הַ שָּׁמָ֑יִם",
+        "LXX": "περὶ πάντων τῶν γινομένων ὑπὸ τὸν οὐρανόν ,",
+        "VUL": "de ómnibus , quæ fiunt sub sole .",
+        "SP": null,
+        "KJV": "concerning all [ things ] that are done under heaven :",
+        "DSS": "ע ]ל[  כל אשר נעשה תחת ה שמים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "this sore travail hath God given to the sons of man to be exercised therewith",
+      "traditions": {
+        "WLC": "ה֣וּא עִנְיַ֣ן רָ֗ע נָתַ֧ן אֱלֹהִ֛ים לִ בְנֵ֥י הָ אָדָ֖ם לַ עֲנ֥וֹת בּֽ וֹ",
+        "LXX": "ὅτι περισπασμὸν πονηρὸν ἔδωκεν ὁ θεὸς τοῖς υἱοῖς τῶν ἀνθρώπων τοῦ περισπᾶσθαι ἐν αὐτῷ .",
+        "VUL": "Hanc occupatiónem péssimam dedit Deus fíliis hóminum , ut occuparéntur in ea .",
+        "SP": null,
+        "KJV": "this sore travail hath God given to the sons of man to be exercised therewith .",
+        "DSS": "הוא ] ע#נין רע נתן [ אלהים ל בני ה אדם ל ענות ב׳ו ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "I have seen all the works that are done under the sun ;",
+      "traditions": {
+        "WLC": "רָאִ֨יתִי֙ אֶת כָּל הַֽ מַּעֲשִׂ֔ים שֶֽׁ נַּעֲשׂ֖וּ תַּ֣חַת הַ שָּׁ֑מֶשׁ",
+        "LXX": "εἶδον σὺν πάντα τὰ ποιήματα τὰ πεποιημένα ὑπὸ τὸν ἥλιον ,",
+        "VUL": "Vidi cuncta , quæ fiunt sub sole ,",
+        "SP": null,
+        "KJV": "I have seen all the works that are done under the sun ;",
+        "DSS": "[4Q110] ראיתי את כל ה מעשים ] אשר נעשו תחת##[  ה שמש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and , behold , all [ is ] vanity and vexation of spirit .",
+      "traditions": {
+        "WLC": "וְ הִנֵּ֥ה הַ כֹּ֛ל הֶ֖בֶל וּ רְע֥וּת רֽוּחַ",
+        "LXX": "καὶ ἰδοὺ τὰ πάντα ματαιότης καὶ προαίρεσις πνεύματος .",
+        "VUL": "et ecce univérsa vánitas , et afflíctio spíritus .",
+        "SP": null,
+        "KJV": "and , behold , all [ is ] vanity and vexation of spirit .",
+        "DSS": "ו הנה ה כל הבל ו רעות רוח ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "That which is crooked can not be made straight",
+      "traditions": {
+        "WLC": "מְעֻוָּ֖ת לֹא יוּכַ֣ל לִ תְקֹ֑ן",
+        "LXX": "διεστραμμένον οὐ δυνήσεται ἐπικοσμηθῆναι ,",
+        "VUL": "Pervérsi diffícile corrigúntur ,",
+        "SP": null,
+        "KJV": "[ That which is ] crooked can not be made straight :",
+        "DSS": "מעוות לוא יוכל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and that which is wanting can not be numbered",
+      "traditions": {
+        "WLC": "וְ חֶסְר֖וֹן לֹא יוּכַ֥ל לְ הִמָּנֽוֹת",
+        "LXX": "καὶ ὑστέρημα οὐ δυνήσεται ἀριθμηθῆναι .",
+        "VUL": "et stultórum infinítus est númerus .",
+        "SP": null,
+        "KJV": "and that which is wanting can not be numbered .",
+        "DSS": "[4Q110] [ ל היות ] גבו#?[ ר ו חסרון לוא יוכל ל המנות ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "I communed with mine own heart , saying ,",
+      "traditions": {
+        "WLC": "דִּבַּ֨רְתִּי אֲנִ֤י עִם לִבִּ י֙ לֵ אמֹ֔ר",
+        "LXX": "ἐλάλησα ἐγὼ ἐν τῇ καρδίᾳ μου τῷ λέγειν",
+        "VUL": "Locútus sum in corde meo , dicens :",
+        "SP": null,
+        "KJV": "I communed with mine own heart , saying ,",
+        "DSS": "[4Q110] דברתי אני עם לב׳י ל אמור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Lo , I am come to great estate ,",
+      "traditions": {
+        "WLC": "אֲנִ֗י הִנֵּ֨ה הִגְדַּ֤לְתִּי",
+        "LXX": "Ἐγὼ ἰδοὺ ἐμεγαλύνθην ,",
+        "VUL": "Ecce magnus efféctus sum ,",
+        "SP": null,
+        "KJV": "Lo , I am come to great estate ,",
+        "DSS": "אני הנה ] [ הגד ]ל[ תי"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and have gotten more wisdom than all [ they ] that have been before me in Jerusalem :",
+      "traditions": {
+        "WLC": "וְ הוֹסַ֨פְתִּי֙ חָכְמָ֔ה עַ֛ל כָּל אֲשֶׁר הָיָ֥ה לְ פָנַ֖ י עַל יְרוּשָׁלִָ֑ם",
+        "LXX": "καὶ προσέθηκα σοφίαν ἐπὶ πᾶσιν οἳ ἐγένοντο ἔμπροσθέν μου ἐν Ἰερουσαλήμ ·",
+        "VUL": "et præcéssi omnes sapiéntia , qui fuérunt ante me in Ierúsalem :",
+        "SP": null,
+        "KJV": "and have gotten more wisdom than all [ they ] that have been before me in Jerusalem :",
+        "DSS": "ו הוספתי חכמה על כול אשר היה ל פנ׳י ב ירושלם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "yea , my heart had great experience of wisdom and knowledge .",
+      "traditions": {
+        "WLC": "וְ לִבִּ֛ י רָאָ֥ה הַרְבֵּ֖ה חָכְמָ֥ה וָ דָֽעַת",
+        "LXX": null,
+        "VUL": "et mens mea contempláta est multa sapiénter , et dídici .",
+        "SP": null,
+        "KJV": "yea , my heart had great experience of wisdom and knowledge .",
+        "DSS": "ו לב׳י ראה ] ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I gave my heart to know wisdom",
+      "traditions": {
+        "WLC": "וָ אֶתְּנָ֤ ה לִבִּ י֙ לָ דַ֣עַת חָכְמָ֔ה",
+        "LXX": "καὶ καρδία μου εἶδεν πολλά , σοφίαν καὶ γνῶσιν , καὶ ἔδωκα καρδίαν μου τοῦ γνῶναι σοφίαν καὶ γνῶσιν ,",
+        "VUL": "Dedíque cor meum ut scirem prudéntiam atque doctrínam ,",
+        "SP": null,
+        "KJV": "And I gave my heart to know wisdom ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and to know madness and folly",
+      "traditions": {
+        "WLC": "וְ דַ֥עַת הוֹלֵל֖וֹת וְ שִׂכְל֑וּת",
+        "LXX": "παραβολὰς καὶ ἐπιστήμην ἔγνων ἐγώ .",
+        "VUL": "errorésque et stultítiam :",
+        "SP": null,
+        "KJV": "and to know madness and folly :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I perceived that this also is vexation of spirit",
+      "traditions": {
+        "WLC": "יָדַ֕עְתִּי שֶׁ גַּם זֶ֥ה ה֖וּא רַעְי֥וֹן רֽוּחַ",
+        "LXX": "ὅτι καί γε τοῦτ᾽ ἔστιν προαίρεσις πνεύματος ,",
+        "VUL": "et agnóvi quod in his quoque esset labor , et afflíctio spíritus :",
+        "SP": null,
+        "KJV": "I perceived that this also is vexation of spirit .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "For in much wisdom is much grief",
+      "traditions": {
+        "WLC": "כִּ֛י בְּ רֹ֥ב חָכְמָ֖ה רָב כָּ֑עַס",
+        "LXX": "ὅτι ἐν πλήθει σοφίας πλῆθος γνώσεως ,",
+        "VUL": "eo quod in multa sapiéntia multa sit indignátio :",
+        "SP": null,
+        "KJV": "For in much wisdom [ is ] much grief :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he that increaseth knowledge increaseth sorrow",
+      "traditions": {
+        "WLC": "וְ יוֹסִ֥יף דַּ֖עַת יוֹסִ֥יף מַכְאֽוֹב",
+        "LXX": "καὶ ὁ προστιθεὶς γνῶσιν προσθήσει ἄλγημα .",
+        "VUL": "et qui addit sciéntiam , addit et labórem .",
+        "SP": null,
+        "KJV": "and he that increaseth knowledge increaseth sorrow .",
+        "DSS": null
+      }
+    }
+  ]
+}

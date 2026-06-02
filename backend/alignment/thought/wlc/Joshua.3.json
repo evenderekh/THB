@@ -1,0 +1,642 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Joshua rose early in the morning",
+      "traditions": {
+        "WLC": "וַ יַּשְׁכֵּם֩ יְהוֹשֻׁ֨עַ בַּ בֹּ֜קֶר",
+        "LXX": "Καὶ ὤρθρισεν Ἰησοῦς τὸ πρωὶ",
+        "VUL": "Igitur Iósue de nocte consúrgens",
+        "SP": null,
+        "KJV": "And Joshua rose early in the morning ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they removed from Shittim",
+      "traditions": {
+        "WLC": "וַ יִּסְע֣וּ מֵֽ הַ שִּׁטִּ֗ים",
+        "LXX": "καὶ ἀπῆρεν ἐκ Σαττείν ·",
+        "VUL": "movit castra : egredientésque de Setim ,",
+        "SP": null,
+        "KJV": "and they removed from Shittim ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and came to Jordan , he and all the children of Israel",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֨אוּ֙ עַד הַ יַּרְדֵּ֔ן ה֖וּא וְ כָל בְּנֵ֣י יִשְׂרָאֵ֑ל",
+        "LXX": "καὶ ἤλθοσαν ἕως τοῦ Ἰορδάνου ,",
+        "VUL": "venérunt ad Iordánem ipse , et omnes fílii Israel ,",
+        "SP": null,
+        "KJV": "and came to Jordan , he and all the children of Israel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and lodged there before they passed over",
+      "traditions": {
+        "WLC": "וַ יָּלִ֥נוּ שָׁ֖ם טֶ֥רֶם יַעֲבֹֽרוּ",
+        "LXX": "καὶ κατέλυσαν ἐκεῖ πρὸ τοῦ διαβῆναι .",
+        "VUL": "et moráti sunt ibi tres dies .",
+        "SP": null,
+        "KJV": "and lodged there before they passed over .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass after three days",
+      "traditions": {
+        "WLC": "וַ יְהִ֕י מִ קְצֵ֖ה שְׁלֹ֣שֶׁת יָמִ֑ים",
+        "LXX": "καὶ ἐγένετο μετὰ τρεῖς ἡμέρας",
+        "VUL": "Quibus evolútis",
+        "SP": null,
+        "KJV": "And it came to pass after three days ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that the officers went through the host",
+      "traditions": {
+        "WLC": "וַ יַּעַבְר֥וּ הַ שֹּׁטְרִ֖ים בְּ קֶ֥רֶב הַֽ מַּחֲנֶֽה",
+        "LXX": "διῆλθον οἱ γραμματεῖς διὰ τῆς παρεμβολῆς .",
+        "VUL": "transiérunt præcónes per castrórum médium ,",
+        "SP": null,
+        "KJV": "that the officers went through the host ;",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they commanded the people , saying",
+      "traditions": {
+        "WLC": "וַ יְצַוּוּ֮ אֶת הָ עָ֣ם לֵ אמֹר֒",
+        "LXX": "καὶ ἐνετείλαντο τῷ λαῷ λέγοντες",
+        "VUL": "et clamáre cœpérunt :",
+        "SP": null,
+        "KJV": "And they commanded the people , saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "When ye see the ark of the covenant of the LORD your God",
+      "traditions": {
+        "WLC": "כִּ רְאֽוֹתְ כֶ֗ם אֵ֣ת אֲר֤וֹן בְּרִית יְהוָה֙ אֱלֹ֣הֵי כֶ֔ם",
+        "LXX": "Ὅταν ἴδητε τὴν κιβωτὸν τῆς διαθήκης Κυρίου τοῦ θεοῦ ἡμῶν",
+        "VUL": "Quando vidéritis arcam fœ́deris Dómini Dei vestri ,",
+        "SP": null,
+        "KJV": "When ye see the ark of the covenant of the LORD your God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the priests the Levites bearing it",
+      "traditions": {
+        "WLC": "וְ הַ כֹּֽהֲנִים֙ הַ לְוִיִּ֔ם נֹשְׂאִ֖ים אֹת֑ וֹ",
+        "LXX": "καὶ τοὺς ἱερεῖς ἡμῶν καὶ τοὺς Λευείτας αἴροντας αὐτήν ,",
+        "VUL": "et sacerdótes stirpis Levíticæ portántes eam ,",
+        "SP": null,
+        "KJV": "and the priests the Levites bearing it ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "then ye shall remove from your place",
+      "traditions": {
+        "WLC": "וְ אַתֶּ֗ם תִּסְעוּ֙ מִ מְּק֣וֹמְ כֶ֔ם",
+        "LXX": "ἀπαρεῖτε ἀπὸ τῶν τόπων ὑμῶν",
+        "VUL": "vos quoque consúrgite ,",
+        "SP": null,
+        "KJV": "then ye shall remove from your place ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and go after it",
+      "traditions": {
+        "WLC": "וַ הֲלַכְתֶּ֖ם אַחֲרָֽי ו",
+        "LXX": "καὶ πορεύεσθε ὀπίσω αὐτῆς .",
+        "VUL": "et sequímini præcedéntes :",
+        "SP": null,
+        "KJV": "and go after it .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Joshua said unto the people",
+      "traditions": {
+        "WLC": "וַ יֹּ֧אמֶר יְהוֹשֻׁ֛עַ אֶל הָ עָ֖ם",
+        "LXX": "καὶ εἶπεν Ἰησοῦς τῷ λαῷ",
+        "VUL": "Dixítque Iósue ad pópulum :",
+        "SP": null,
+        "KJV": "And Joshua said unto the people ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Sanctify yourselves",
+      "traditions": {
+        "WLC": "הִתְקַדָּ֑שׁוּ",
+        "LXX": "Ἁγνίσασθε εἰς αὔριον ,",
+        "VUL": "Sanctificámini :",
+        "SP": null,
+        "KJV": "Sanctify yourselves :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for to morrow the LORD will do wonders among you",
+      "traditions": {
+        "WLC": "כִּ֣י מָחָ֗ר יַעֲשֶׂ֧ה יְהוָ֛ה בְּ קִרְבְּ כֶ֖ם נִפְלָאֽוֹת",
+        "LXX": "ὅτι αὔριον ποιήσει ἐν ἡμῖν Κύριος θαυμαστά .",
+        "VUL": "cras enim fáciet Dóminus inter vos mirabília .",
+        "SP": null,
+        "KJV": "for to morrow the LORD will do wonders among you .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Joshua spake unto the priests , saying",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר יְהוֹשֻׁ֨עַ֙ אֶל הַ כֹּהֲנִ֣ים לֵ אמֹ֔ר",
+        "LXX": "καὶ εἶπεν Ἰησοῦς τοῖς ἱερεῦσιν",
+        "VUL": "Et ait ad sacerdótes :",
+        "SP": null,
+        "KJV": "And Joshua spake unto the priests , saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Take up the ark of the covenant",
+      "traditions": {
+        "WLC": "שְׂאוּ֙ אֶת אֲר֣וֹן הַ בְּרִ֔ית",
+        "LXX": "Ἄρατε τὴν κιβωτὸν τῆς διαθήκης Κυρίου",
+        "VUL": "Tóllite arcam fœ́deris ,",
+        "SP": null,
+        "KJV": "Take up the ark of the covenant ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and pass over before the people",
+      "traditions": {
+        "WLC": "וְ עִבְר֖וּ לִ פְנֵ֣י הָ עָ֑ם",
+        "LXX": "καὶ προπορεύεσθε τοῦ λαοῦ .",
+        "VUL": "et præcédite pópulum .",
+        "SP": null,
+        "KJV": "and pass over before the people .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And they took up the ark of the covenant",
+      "traditions": {
+        "WLC": "וַ יִּשְׂאוּ֙ אֶת אֲר֣וֹן הַ בְּרִ֔ית",
+        "LXX": "καὶ ἦραν οἱ ἱερεῖς τὴν κιβωτὸν τῆς διαθήκης Κυρίου",
+        "VUL": "Qui iussa compléntes , tulérunt ,",
+        "SP": null,
+        "KJV": "And they took up the ark of the covenant ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and went before the people",
+      "traditions": {
+        "WLC": "וַ יֵּלְכ֖וּ לִ פְנֵ֥י הָ עָֽם",
+        "LXX": "καὶ ἐπορεύοντο ἔμπροσθεν τοῦ λαοῦ .",
+        "VUL": "et ambulavérunt ante eos .",
+        "SP": null,
+        "KJV": "and went before the people .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto Joshua",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר יְהוָה֙ אֶל יְהוֹשֻׁ֔עַ",
+        "LXX": "Καὶ εἶπεν Κύριος πρὸς Ἰησοῦν",
+        "VUL": "Dixítque Dóminus ad Iósue :",
+        "SP": null,
+        "KJV": "And the LORD said unto Joshua ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "This day will I begin to magnify thee in the sight of all Israel",
+      "traditions": {
+        "WLC": "הַ יּ֣וֹם הַ זֶּ֗ה אָחֵל֙ גַּדֶּלְ ךָ֔ בְּ עֵינֵ֖י כָּל יִשְׂרָאֵ֑ל",
+        "LXX": "Ἐν τῇ ἡμέρᾳ ταύτῃ ἄρχομαι ὑψῶσαί σε κατενώπιον πάντων υἱῶν Ἰσραήλ ,",
+        "VUL": "Hódie incípiam exaltáre te coram omni Israel :",
+        "SP": null,
+        "KJV": "This day will I begin to magnify thee in the sight of all Israel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that they may know that",
+      "traditions": {
+        "WLC": "אֲשֶׁר֙ יֵֽדְע֔וּ ן כִּ֗י",
+        "LXX": "ἵνα γνῶσιν ,",
+        "VUL": "ut sciant quod",
+        "SP": null,
+        "KJV": "that they may know that ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as I was with Moses",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֥ר הָיִ֛יתִי עִם מֹשֶׁ֖ה",
+        "LXX": "καθότι ἤμην μετὰ Μωυσῆ ,",
+        "VUL": "sicut cum Móyse fui ,",
+        "SP": null,
+        "KJV": "as I was with Moses , [ so ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "[ so ] I will be with thee",
+      "traditions": {
+        "WLC": "אֶהְיֶ֥ה עִמָּֽ ךְ",
+        "LXX": "οὕτως ἔσομαι καὶ μετὰ σοῦ .",
+        "VUL": "ita et tecum sim .",
+        "SP": null,
+        "KJV": "I will be with thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt command the priests",
+      "traditions": {
+        "WLC": "וְ אַתָּ֗ה תְּצַוֶּה֙ אֶת הַ כֹּ֣הֲנִ֔ים",
+        "LXX": "καὶ νῦν ἔντειλαι τοῖς ἱερεῦσιν",
+        "VUL": "Tu autem prǽcipe sacerdótibus ,",
+        "SP": null,
+        "KJV": "And thou shalt command the priests",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that bear the ark of the covenant",
+      "traditions": {
+        "WLC": "נֹשְׂאֵ֥י אֲרֽוֹן הַ בְּרִ֖ית",
+        "LXX": "τοῖς αἴρουσιν τὴν κιβωτὸν τῆς διαθήκης",
+        "VUL": "qui portant arcam fœ́deris ,",
+        "SP": null,
+        "KJV": "that bear the ark of the covenant ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "saying , When ye are come to the brink of the water of Jordan",
+      "traditions": {
+        "WLC": "לֵ אמֹ֑ר כְּ בֹאֲ כֶ֗ם עַד קְצֵה֙ מֵ֣י הַ יַּרְדֵּ֔ן",
+        "LXX": "λέγων Ὡς ἂν εἰσέλθητε ἐπὶ μέσου τοῦ ὕδατος τοῦ Ἰορδάνου ,",
+        "VUL": "et dic eis : Cum ingréssi fuéritis partem aquæ Iordánis ,",
+        "SP": null,
+        "KJV": "saying , When ye are come to the brink of the water of Jordan ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "ye shall stand still in Jordan",
+      "traditions": {
+        "WLC": "בַּ יַּרְדֵּ֖ן תַּעֲמֹֽדוּ",
+        "LXX": "καὶ ἐν τῷ Ἰορδάνῃ στήσεσθε .",
+        "VUL": "state in ea .",
+        "SP": null,
+        "KJV": "ye shall stand still in Jordan .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Joshua said unto the children of Israel",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר יְהוֹשֻׁ֖עַ אֶל בְּנֵ֣י יִשְׂרָאֵ֑ל",
+        "LXX": "Καὶ εἶπεν Ἰησοῦς τοῖς υἱοῖς Ἰσραήλ",
+        "VUL": "Dixítque Iósue ad fílios Israel :",
+        "SP": null,
+        "KJV": "And Joshua said unto the children of Israel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Come hither",
+      "traditions": {
+        "WLC": "גֹּ֣שׁוּ הֵ֔נָּה",
+        "LXX": "Προσαγάγετε ὧδε",
+        "VUL": "Accédite huc ,",
+        "SP": null,
+        "KJV": "Come hither ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and hear the words of the LORD your God",
+      "traditions": {
+        "WLC": "וְ שִׁמְע֕וּ אֶת דִּבְרֵ֖י יְהוָ֥ה אֱלֹֽהֵי כֶֽם",
+        "LXX": "καὶ ἀκούσατε τὸ ῥῆμα Κυρίου τοῦ θεοῦ ἡμῶν .",
+        "VUL": "et audíte verbum Dómini Dei vestri .",
+        "SP": null,
+        "KJV": "and hear the words of the LORD your God .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold",
+      "traditions": {
+        "WLC": "הִנֵּה֙",
+        "LXX": "ἰδοὺ",
+        "VUL": "Ecce",
+        "SP": null,
+        "KJV": "Behold ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the ark of the covenant of the Lord of all the earth",
+      "traditions": {
+        "WLC": "אֲר֣וֹן הַ בְּרִ֔ית אֲד֖וֹן כָּל הָ אָ֑רֶץ",
+        "LXX": "ἡ κιβωτὸς διαθήκης Κυρίου πάσης τῆς γῆς",
+        "VUL": "arca fœ́deris Dómini omnis terræ",
+        "SP": null,
+        "KJV": "the ark of the covenant of the Lord of all the earth",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "passeth over before you into Jordan",
+      "traditions": {
+        "WLC": "עֹבֵ֥ר לִ פְנֵי כֶ֖ם בַּ יַּרְדֵּֽן",
+        "LXX": "διαβαίνει τὸν Ἰορδάνην .",
+        "VUL": "antecédet vos per Iordánem .",
+        "SP": null,
+        "KJV": "passeth over before you into Jordan .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now therefore take you twelve men out of the tribes of Israel",
+      "traditions": {
+        "WLC": "וְ עַתָּ֗ה קְח֤וּ לָ כֶם֙ שְׁנֵ֣י עָשָׂ֣ר אִ֔ישׁ מִ שִּׁבְטֵ֖י יִשְׂרָאֵ֑ל",
+        "LXX": "προχειρίσασθε ὑμῖν δώδεκα ἄνδρας ἀπὸ τῶν υἱῶν Ἰσραήλ ,",
+        "VUL": "Paráte duódecim viros de tríbubus Israel ,",
+        "SP": null,
+        "KJV": "Now therefore take you twelve men out of the tribes of Israel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "out of every tribe a man",
+      "traditions": {
+        "WLC": "אִישׁ אֶחָ֥ד אִישׁ אֶחָ֖ד לַ שָּֽׁבֶט",
+        "LXX": "ἕνα ἀφ᾽ ἑκάστης φυλῆς .",
+        "VUL": "síngulos per síngulas tribus .",
+        "SP": null,
+        "KJV": "out of every tribe a man .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass",
+      "traditions": {
+        "WLC": "וְ הָיָ֡ה",
+        "LXX": "καὶ ἔσται",
+        "VUL": "Et",
+        "SP": null,
+        "KJV": "And it shall come to pass ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as soon as the soles of the feet of the priests that bear the ark of the LORD , the Lord of all the earth , shall rest in the waters of Jordan",
+      "traditions": {
+        "WLC": "כְּ נ֣וֹחַ כַּפּ֣וֹת רַגְלֵ֣י הַ כֹּהֲנִ֡ים נֹשְׂאֵי֩ אֲר֨וֹן יְהוָ֜ה אֲד֤וֹן כָּל הָ אָ֨רֶץ֙ בְּ מֵ֣י הַ יַּרְדֵּ֔ן",
+        "LXX": "ὡς ἂν καταπαύσωσιν οἱ πόδες τῶν ἱερέων τῶν αἰρόντων τὴν κιβωτὸν τῆς διαθήκης Κυρίου πάσης τῆς γῆς ἐν τῷ ὕδατι τοῦ Ἰορδάνου ,",
+        "VUL": "cum posúerint vestígia pedum suórum sacerdótes qui portant arcam Dómini Dei univérsæ terræ in aquis Iordánis ,",
+        "SP": null,
+        "KJV": "as soon as the soles of the feet of the priests that bear the ark of the LORD , the Lord of all the earth , shall rest in the waters of Jordan , [ that ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the waters of Jordan shall be cut off from the waters that come down from above",
+      "traditions": {
+        "WLC": "מֵ֤י הַ יַּרְדֵּן֙ יִכָּ֣רֵת֔וּ ן הַ מַּ֥יִם הַ יֹּרְדִ֖ים מִ לְ מָ֑עְלָ ה",
+        "LXX": "τὸ ὕδωρ τοῦ Ἰορδάνου ἐκλείψει , τὸ δὲ ὕδωρ τὸ καταβαῖνον",
+        "VUL": "aquæ , quæ inferióres sunt , decúrrent atque defícient : quæ autem désuper véniunt ,",
+        "SP": null,
+        "KJV": "the waters of Jordan shall be cut off [ from ] the waters that come down from above ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they shall stand upon an heap",
+      "traditions": {
+        "WLC": "וְ יַעַמְד֖וּ נֵ֥ד אֶחָֽד",
+        "LXX": "στήσεται .",
+        "VUL": "in una mole consístent .",
+        "SP": null,
+        "KJV": "and they shall stand upon an heap .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass , when the people removed from their tents , to pass over Jordan",
+      "traditions": {
+        "WLC": "וַ יְהִ֗י בִּ נְסֹ֤עַ הָ עָם֙ מֵ אָ֣הֳלֵי הֶ֔ם לַ עֲבֹ֖ר אֶת הַ יַּרְדֵּ֑ן",
+        "LXX": "Καὶ ἀπῆρεν ὁ λαὸς ἐκ τῶν σκηνωμάτων αὐτῶν διαβῆναι τὸν Ἰορδάνην ,",
+        "VUL": "Igitur egréssus est pópulus de tabernáculis suis , ut transíret Iordánem :",
+        "SP": null,
+        "KJV": "And it came to pass , when the people removed from their tents , to pass over Jordan ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the priests bearing the ark of the covenant before the people",
+      "traditions": {
+        "WLC": "וְ הַ כֹּהֲנִ֗ים נֹֽשְׂאֵ֛י הָ אָר֥וֹן הַ בְּרִ֖ית לִ פְנֵ֥י הָ עָֽם",
+        "LXX": "οἱ δὲ ἱερεῖς ἤροσαν τὴν κιβωτὸν τῆς διαθήκης πρότεροι τοῦ λαοῦ .",
+        "VUL": "et sacerdótes , qui portábant arcam fœ́deris , pergébant ante eum .",
+        "SP": null,
+        "KJV": "and the priests bearing the ark of the covenant before the people ;",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And as they that bare the ark were come unto Jordan",
+      "traditions": {
+        "WLC": "וּ כְ ב֞וֹא נֹשְׂאֵ֤י הָֽ אָרוֹן֙ עַד הַ יַּרְדֵּ֔ן",
+        "LXX": "ὡς δὲ εἰσεπορεύοντο οἱ ἱερεῖς οἱ αἴροντες τὴν κιβωτὸν τῆς διαθήκης ἐπὶ τὸν Ἰορδάνην ,",
+        "VUL": "Ingressísque eis Iordánem ,",
+        "SP": null,
+        "KJV": "And as they that bare the ark were come unto Jordan ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the feet of the priests that bare the ark were dipped in the brim of the water",
+      "traditions": {
+        "WLC": "וְ רַגְלֵ֤י הַ כֹּֽהֲנִים֙ נֹשְׂאֵ֣י הָֽ אָר֔וֹן נִטְבְּל֖וּ בִּ קְצֵ֣ה הַ מָּ֑יִם",
+        "LXX": "καὶ οἱ πόδες τῶν ἱερέων τῶν αἰρόντων τὴν κιβωτὸν τῆς διαθήκης Κυρίου ἐβάφησαν εἰς μέρος τοῦ ὕδατος τοῦ Ἰορδάνου ·",
+        "VUL": "et pédibus eórum in parte aquæ tinctis (",
+        "SP": null,
+        "KJV": "and the feet of the priests that bare the ark were dipped in the brim of the water , (",
+        "DSS": "[4Q48] נשאי ה ארון נטבלו ב ק##צ##[ ה ה מי ]ם#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for Jordan overfloweth all his banks all the time of harvest",
+      "traditions": {
+        "WLC": "וְ הַ יַּרְדֵּ֗ן מָלֵא֙ עַל כָּל גְּדוֹתָ֔י ו כֹּ֖ל יְמֵ֥י קָצִֽיר",
+        "LXX": "ὁ δὲ Ἰορδάνης ἐπλήρου καθ᾽ ὅλην τὴν κρηπῖδα αὐτοῦ , ὡσεὶ ἡμέραι θερισμοῦ πυρῶν ·",
+        "VUL": "Iordánis autem ripas álvei sui témpore messis impléverat ) ,",
+        "SP": null,
+        "KJV": "for Jordan overfloweth all his banks all the time of harvest , )",
+        "DSS": "ו#? ה## [ ירדן מלא על כל גדותי׳ו ] ב ימי קציר (^ חטים ^) ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "That the waters which came down from above stood [ and ] rose up upon an heap very far from the city Adam ,",
+      "traditions": {
+        "WLC": "וַ יַּעַמְד֡וּ הַ מַּיִם֩ הַ יֹּרְדִ֨ים מִ לְ מַ֜עְלָ ה קָ֣מוּ נֵד אֶחָ֗ד הַרְחֵ֨ק מְאֹ֜ד ב אדם הָ עִיר֙",
+        "LXX": "καὶ ἔστη τὰ ὕδατα τὰ καταβαίνοντα ἄνωθεν , ἔστη πῆγμα ἓν ἀφεστηκὸς μακρὰν σφόδρα σφοδρῶς ἕως μέρους Καθιαιρείν ,",
+        "VUL": "stetérunt aquæ descendéntes in loco uno , et ad instar montis intumescéntes apparébant procul ab urbe ,",
+        "SP": null,
+        "KJV": "That the waters which came down from above stood [ and ] rose up upon an heap very far from the city Adam ,",
+        "DSS": "[4Q48] ו יעמדו ה מים ה ירדים מ ל## [ מעל׳ה קמו נד אחד הרחק ] מאד {{ מ#א##[ ד ] }} ם# אדם ה עיר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that [ is ] beside Zaretan :",
+      "traditions": {
+        "WLC": "אֲשֶׁר֙ מִ צַּ֣ד צָֽרְתָ֔ן",
+        "LXX": null,
+        "VUL": "quæ vocátur Adom usque ad locum Sarthan :",
+        "SP": null,
+        "KJV": "that [ is ] beside Zaretan :",
+        "DSS": "אשר# מ צד צ[ רתן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and those that came down toward the sea of the plain ,",
+      "traditions": {
+        "WLC": "וְ הַ יֹּרְדִ֗ים עַ֣ל יָ֧ם הָ עֲרָבָ֛ה",
+        "LXX": "τὸ δὲ καταβαῖνον κατέβη εἰς τὴν θάλασσαν Ἀραβά ,",
+        "VUL": "quæ autem inferióres erant , in Mare solitúdinis ( quod nunc vocátur mórtuum ) descendérunt ,",
+        "SP": null,
+        "KJV": "and those that came down toward the sea of the plain , [ even ]",
+        "DSS": "ו ה ירדים על ים ה ערבה ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ even ] the salt sea ,",
+      "traditions": {
+        "WLC": "יָם הַ מֶּ֖לַח",
+        "LXX": "θάλασσαν ἁλός ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "the salt sea ,",
+        "DSS": "[ י ]ם# ה מלח"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "failed , [ and ] were cut off :",
+      "traditions": {
+        "WLC": "תַּ֣מּוּ נִכְרָ֑תוּ",
+        "LXX": "ἕως εἰς τὸ τέλος ἐξέλιπεν ·",
+        "VUL": "úsquequo omníno defícerent .",
+        "SP": null,
+        "KJV": "failed , [ and ] were cut off :",
+        "DSS": "תמו נכרت[ ו"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and the people passed over right against Jericho .",
+      "traditions": {
+        "WLC": "וְ הָ עָ֥ם עָבְר֖וּ נֶ֥גֶד יְרִיחֽוֹ",
+        "LXX": "καὶ ὁ λαὸς ἱστήκει ἀπέναντι Ἰερειχώ .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "and the people passed over right against Jericho .",
+        "DSS": "ו ה עם עברו נגד יריחו ׃"
+      }
+    }
+  ]
+}

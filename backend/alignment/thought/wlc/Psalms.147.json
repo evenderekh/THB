@@ -1,0 +1,594 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise ye the LORD",
+      "traditions": {
+        "WLC": "הַ֥לְלוּ יָ֨הּ",
+        "LXX": "Ἁλληλουιά . Ἁγγαίου καὶ Ζαχαρίου . Αἰνεῖτε τὸν κύριον ,",
+        "VUL": "Allelúia . Laudáte Dóminum ,",
+        "SP": null,
+        "KJV": "Praise ye the LORD :",
+        "DSS": "[11Q5] [ הללו יה [ / [4Q86] [ הללו ] י#?ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for [ it is ] good to sing praises unto our God",
+      "traditions": {
+        "WLC": "כִּי ט֭וֹב זַמְּרָ֣ה אֱלֹהֵ֑י נוּ",
+        "LXX": "ὅτι ἀγαθὸν ψαλμός ·",
+        "VUL": "quóniam bonus est psalmus :",
+        "SP": null,
+        "KJV": "for [ it is ] good to sing praises unto our God ;",
+        "DSS": "[11Q5] כי טוב זמר׳ה אלוהי׳נו / [4Q86] כי טוב זמר׳ה אלהי׳נו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for [ it is ] pleasant",
+      "traditions": {
+        "WLC": "כִּֽי נָ֝עִים",
+        "LXX": "τῷ θεῷ ἡμῶν ἡδυνθείη αἴνεσις ·",
+        "VUL": "Deo nostro sit iucúnda ,",
+        "SP": null,
+        "KJV": "for [ it is ] pleasant ; [",
+        "DSS": "[11Q5] כי נעים / [4Q86] נעים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and praise is comely",
+      "traditions": {
+        "WLC": "נָאוָ֥ה תְהִלָּֽה",
+        "LXX": null,
+        "VUL": "decoráque laudátio .",
+        "SP": null,
+        "KJV": "and ] praise is comely .",
+        "DSS": "[11Q5] נאוה ת ]הלה ׃ / [4Q86] נאוה## תהלה# ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD doth build up Jerusalem",
+      "traditions": {
+        "WLC": "בּוֹנֵ֣ה יְרוּשָׁלִַ֣ם יְהוָ֑ה",
+        "LXX": "οἰκοδομῶν Ἰερουσαλὴμ ὁ κύριος ,",
+        "VUL": "Ædíficans Ierúsalem Dóminus :",
+        "SP": null,
+        "KJV": "The LORD doth build up Jerusalem :",
+        "DSS": "[11Q5] בונה ירושלים ׃ / [4Q86] [ בונה ירושלם ] יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he gathereth together the outcasts of Israel",
+      "traditions": {
+        "WLC": "נִדְחֵ֖י יִשְׂרָאֵ֣ל יְכַנֵּֽס",
+        "LXX": "καὶ τὰς διασπορὰς τοῦ Ἰσραὴλ ἐπισυνάξει ·",
+        "VUL": "dispersiónes Israélis congregábit .",
+        "SP": null,
+        "KJV": "he gathereth together the outcasts of Israel .",
+        "DSS": "[4Q86] נדחי ישראל יכנס ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "He healeth the broken in heart",
+      "traditions": {
+        "WLC": "הָ֭ רֹפֵא לִ שְׁב֣וּרֵי לֵ֑ב",
+        "LXX": "ὁ ἰώμενος τοὺς συντετριμμένους τὴν καρδίαν ,",
+        "VUL": "Qui sanat contrítos corde :",
+        "SP": null,
+        "KJV": "He healeth the broken in heart ,",
+        "DSS": "[4Q86] [ ה רפא ל שבורי ] לב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and bindeth up their wounds",
+      "traditions": {
+        "WLC": "וּ֝ מְחַבֵּ֗שׁ לְ עַצְּבוֹתָֽ ם",
+        "LXX": "καὶ δεσμεύων τὰ συντρίμματα αὐτῶν ·",
+        "VUL": "et álligat contritiónes eórum :",
+        "SP": null,
+        "KJV": "and bindeth up their wounds .",
+        "DSS": "[4Q86] ו מחבש ל [ ע ]צ##בת׳ם[ ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "He telleth the number of the stars",
+      "traditions": {
+        "WLC": "מוֹנֶ֣ה מִ֭סְפָּר לַ כּוֹכָבִ֑ים",
+        "LXX": "ὁ ἀριθμῶν πλήθη ἄστρων ,",
+        "VUL": "Qui númerat multitúdinem stellárum :",
+        "SP": null,
+        "KJV": "He telleth the number of the stars ;",
+        "DSS": "[4Q86] מונה מספר ל כוכבים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he calleth them all by [ their ] names",
+      "traditions": {
+        "WLC": "לְ֝ כֻלָּ֗ ם שֵׁמ֥וֹת יִקְרָֽא",
+        "LXX": "καὶ πᾶσιν αὐτοῖς ὀνόματα καλῶν .",
+        "VUL": "et ómnibus eis nómina vocat .",
+        "SP": null,
+        "KJV": "he calleth them all by [ their ] names .",
+        "DSS": "[4Q86] ל [ כ ]ל׳[ ם שמות יקרא ε ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Great [ is ] our Lord",
+      "traditions": {
+        "WLC": "גָּד֣וֹל אֲדוֹנֵ֣י נוּ",
+        "LXX": "μέγας ὁ κύριος ἡμῶν ,",
+        "VUL": "Magnus Dóminus noster ,",
+        "SP": null,
+        "KJV": "Great [ is ] our Lord ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and of great power",
+      "traditions": {
+        "WLC": "וְ רַב כֹּ֑חַ",
+        "LXX": "καὶ μεγάλη ἡ ἰσχὺς αὐτοῦ ,",
+        "VUL": "et magna virtus eius :",
+        "SP": null,
+        "KJV": "and of great power :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "his understanding [ is ] infinite",
+      "traditions": {
+        "WLC": "לִ֝ תְבוּנָת֗ וֹ אֵ֣ין מִסְפָּֽר",
+        "LXX": "καὶ τῆς συνέσεως αὐτοῦ οὐκ ἔστιν ἀριθμός .",
+        "VUL": "et sapiéntiæ eius non est númerus .",
+        "SP": null,
+        "KJV": "his understanding [ is ] infinite .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD lifteth up the meek",
+      "traditions": {
+        "WLC": "מְעוֹדֵ֣ד עֲנָוִ֣ים יְהוָ֑ה",
+        "LXX": "ἀναλαμβάνων πρᾳεῖς ὁ κύριος ,",
+        "VUL": "Suscípiens mansuétos Dóminus :",
+        "SP": null,
+        "KJV": "The LORD lifteth up the meek :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he casteth the wicked down to the ground",
+      "traditions": {
+        "WLC": "מַשְׁפִּ֖יל רְשָׁעִ֣ים עֲדֵי אָֽרֶץ",
+        "LXX": "ταπεινῶν δὲ ἁμαρτωλοὺς ἕως τῆς γῆς .",
+        "VUL": "humílians autem peccatóres usque ad terram .",
+        "SP": null,
+        "KJV": "he casteth the wicked down to the ground .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Sing unto the LORD with thanksgiving",
+      "traditions": {
+        "WLC": "עֱנ֣וּ לַ יהוָ֣ה בְּ תוֹדָ֑ה",
+        "LXX": "ἐξάρξατε τῷ κυρίῳ ἐν ἐξομολογήσει ,",
+        "VUL": "Præcínite Dómino in confessióne :",
+        "SP": null,
+        "KJV": "Sing unto the LORD with thanksgiving ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "sing praise upon the harp unto our God",
+      "traditions": {
+        "WLC": "זַמְּר֖וּ לֵ אלֹהֵ֣י נוּ בְ כִנּֽוֹר",
+        "LXX": "ψάλατε τῷ θεῷ ἡμῶν ἐν κιθάρᾳ ,",
+        "VUL": "psállite Deo nostro in cíthara .",
+        "SP": null,
+        "KJV": "sing praise upon the harp unto our God :",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who covereth the heaven with clouds",
+      "traditions": {
+        "WLC": "הַֽ מְכַסֶּ֬ה שָׁמַ֨יִם בְּ עָבִ֗ים",
+        "LXX": "τῷ περιβάλλοντι τὸν οὐρανὸν ἐν νεφέλαις ,",
+        "VUL": "Qui óperit cælum núbibus :",
+        "SP": null,
+        "KJV": "Who covereth the heaven with clouds ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "who prepareth rain for the earth",
+      "traditions": {
+        "WLC": "הַ מֵּכִ֣ין לָ אָ֣רֶץ מָטָ֑ר",
+        "LXX": "τῷ ἑτοιμάζοντι τῇ γῇ ὑετόν ,",
+        "VUL": "et parat terræ plúviam .",
+        "SP": null,
+        "KJV": "who prepareth rain for the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "who maketh grass to grow upon the mountains",
+      "traditions": {
+        "WLC": "הַ מַּצְמִ֖יחַ הָרִ֣ים חָצִֽיר",
+        "LXX": "τῷ ἐξανατέλλοντι ἐν ὄρεσι χόρτον καὶ χλόην τῇ δουλείᾳ τῶν ἀνθρώπων ,",
+        "VUL": "Qui prodúcit in móntibus fœnum , et herbam servitúti hóminum .",
+        "SP": null,
+        "KJV": "who maketh grass to grow upon the mountains .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "He giveth to the beast his food",
+      "traditions": {
+        "WLC": "נוֹתֵ֣ן לִ בְהֵמָ֣ה לַחְמָ֑ הּ",
+        "LXX": "καὶ διδόντι τοῖς κτήνεσι τροφὴν αὐτῶν",
+        "VUL": "Qui dat iuméntis escam ipsórum ,",
+        "SP": null,
+        "KJV": "He giveth to the beast his food , [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and to the young ravens which cry",
+      "traditions": {
+        "WLC": "לִ בְנֵ֥י עֹ֝רֵ֗ב אֲשֶׁ֣ר יִקְרָֽאוּ",
+        "LXX": "καὶ τοῖς νοσσοῖς τῶν κοράκων τοῖς ἐπικαλουμένοις αὐτόν .",
+        "VUL": "et pullis corvórum invocántibus eum .",
+        "SP": null,
+        "KJV": "and ] to the young ravens which cry .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "He delighteth not in the strength of the horse",
+      "traditions": {
+        "WLC": "לֹ֤א בִ גְבוּרַ֣ת הַ סּ֣וּס יֶחְפָּ֑ץ",
+        "LXX": "οὐκ ἐν τῇ δυναστείᾳ τοῦ ἵππου θελήσει ,",
+        "VUL": "Non in fortitúdine equi voluntátem habébit :",
+        "SP": null,
+        "KJV": "He delighteth not in the strength of the horse :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he taketh not pleasure in the legs of a man",
+      "traditions": {
+        "WLC": "לֹֽא בְ שׁוֹקֵ֖י הָ אִ֣ישׁ יִרְצֶֽה",
+        "LXX": "οὐδὲ ἐν ταῖς κνήμαις τοῦ ἀνδρὸς εὐδοκεῖ ·",
+        "VUL": "nec in tíbiis viri beneplácitum erit ei .",
+        "SP": null,
+        "KJV": "he taketh not pleasure in the legs of a man .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD taketh pleasure in them that fear him",
+      "traditions": {
+        "WLC": "רוֹצֶ֣ה יְ֭הוָה אֶת יְרֵאָ֑י",
+        "LXX": "εὐδοκεῖ Κύριος ἐν τοῖς φοβουμένοις αὐτὸν",
+        "VUL": "Beneplácitum est Dómino super timéntes eum :",
+        "SP": null,
+        "KJV": "The LORD taketh pleasure in them that fear him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in those that hope in his mercy",
+      "traditions": {
+        "WLC": "ו אֶת הַֽ מְיַחֲלִ֥ים לְ חַסְדּֽ וֹ",
+        "LXX": "καὶ ἐν πᾶσιν τοῖς ἐλπίζουσιν ἐπὶ τὸ ἔλεος αὐτοῦ .",
+        "VUL": "et in eis , qui sperant super misericórdia eius .",
+        "SP": null,
+        "KJV": "in those that hope in his mercy .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "Ἁλληλουιά · Ἁγγαίου καὶ Ζαχαρίου .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Praise the LORD , O Jerusalem ;",
+      "traditions": {
+        "WLC": "שַׁבְּחִ֣י יְ֭רוּשָׁלִַם אֶת יְהוָ֑ה",
+        "LXX": "Ἐπαίνει , Ἰερουσαλήμ , τὸν κύριον ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Praise the LORD , O Jerusalem ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "praise thy God , O Zion .",
+      "traditions": {
+        "WLC": "הַֽלְלִ֖י אֱלֹהַ֣יִ ךְ צִיּֽוֹן",
+        "LXX": "αἴνει τὸν θεόν σου , Σειών ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": "praise thy God , O Zion .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "For he hath strengthened the bars of thy gates",
+      "traditions": {
+        "WLC": "כִּֽי חִ֭זַּק בְּרִיחֵ֣י שְׁעָרָ֑יִ ךְ",
+        "LXX": "ὅτι ἐνίσχυσεν τοὺς μοχλοὺς τῶν πυλῶν σου ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "For he hath strengthened the bars of thy gates ;",
+        "DSS": "[ ש ]ע#ר##[ י ]׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he hath blessed thy children within thee",
+      "traditions": {
+        "WLC": "בֵּרַ֖ךְ בָּנַ֣יִ ךְ בְּ קִרְבֵּֽ ךְ",
+        "LXX": "εὐλόγησεν τοὺς υἱούς σου ἐν σοί .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "he hath blessed thy children within thee .",
+        "DSS": "ב##[ ר ]ך# בני׳ך ב קרב׳ך ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "He maketh peace in thy borders",
+      "traditions": {
+        "WLC": "הַ שָּׂם גְּבוּלֵ֥ ךְ שָׁל֑וֹם",
+        "LXX": "ὁ τιθεὶς τὰ ὅριά σου εἰρήνην ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "He maketh peace [ in ] thy borders , [ and ]",
+        "DSS": "ה שם גב[ ול׳ך ] שלום#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "filleth thee with the finest of the wheat",
+      "traditions": {
+        "WLC": "חֵ֥לֶב חִ֝טִּ֗ים יַשְׂבִּיעֵֽ ךְ",
+        "LXX": "καὶ στέαρ πυροῦ ἐμπιπλῶν σε ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": "filleth thee with the finest of the wheat .",
+        "DSS": "ו? חלב חטי[ ם ] ישביע#׳ך## ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "He sendeth forth his commandment upon earth",
+      "traditions": {
+        "WLC": "הַ שֹּׁלֵ֣חַ אִמְרָת֣ וֹ אָ֑רֶץ",
+        "LXX": "ὁ ἀποστέλλων τὸ λόγιον αὐτοῦ τῇ γῇ ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "He sendeth forth his commandment [ upon ] earth :",
+        "DSS": "ה שלח אמרת׳ו אר#ץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "his word runneth very swiftly",
+      "traditions": {
+        "WLC": "עַד מְ֝הֵרָ֗ה יָר֥וּץ דְּבָרֽ וֹ",
+        "LXX": "ἕως τάχους δραμεῖται ὁ λόγος αὐτοῦ ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": "his word runneth very swiftly .",
+        "DSS": "[ ע ]ד# [ מהרה ירו ]ץ## ד#[ בר׳ו ] ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "He giveth snow like wool",
+      "traditions": {
+        "WLC": "הַ נֹּתֵ֣ן שֶׁ֣לֶג כַּ צָּ֑מֶר",
+        "LXX": "τοῦ διδόντος χιόνα ὡσεὶ ἔριον ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "He giveth snow like wool :",
+        "DSS": "ה נתן שלג#?[  כ צמר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he scattereth the hoarfrost like ashes",
+      "traditions": {
+        "WLC": "כְּ֝פ֗וֹר כָּ אֵ֥פֶר יְפַזֵּֽר",
+        "LXX": "ὁμίχλην ὡσεὶ σποδὸν πάσσοντος ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": "he scattereth the hoarfrost like ashes .",
+        "DSS": "כפור כ אפר ] [ יפזר ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "He casteth forth his ice like morsels",
+      "traditions": {
+        "WLC": "מַשְׁלִ֣יךְ קַֽרְח֣ וֹ כְ פִתִּ֑ים",
+        "LXX": "βάλλοντος κρύσταλλον αὐτοῦ ὡσεὶ ψωμούς ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "He casteth forth his ice like morsels :",
+        "DSS": "]משלי[ ך קרח׳ו כ פתים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "who can stand before his cold",
+      "traditions": {
+        "WLC": "לִ פְנֵ֥י קָ֝רָת֗ וֹ מִ֣י יַעֲמֹֽד",
+        "LXX": "κατὰ πρόσωπον ψύχους αὐτοῦ τίς ὑποστήσεται ?",
+        "VUL": null,
+        "SP": null,
+        "KJV": "who can stand before his cold ?",
+        "DSS": "ל פני ] [ קרת׳ו מי יעמד ε ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "He sendeth out his word , and melteth them",
+      "traditions": {
+        "WLC": "יִשְׁלַ֣ח דְּבָר֣ וֹ וְ יַמְסֵ֑ ם",
+        "LXX": "ἀποστελεῖ τὸν λόγον αὐτοῦ καὶ τήξει αὐτά ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": "He sendeth out his word , and melteth them :",
+        "DSS": "ישלח דבר#׳ו#?[  ו ימס׳ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he causeth his wind to blow , [ and ] the waters flow",
+      "traditions": {
+        "WLC": "יַשֵּׁ֥ב ר֝וּח֗ וֹ יִזְּלוּ מָֽיִם",
+        "LXX": "πνεύσει τὸ πνεῦμα αὐτοῦ , καὶ ῥυήσεται ὕδατα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "he causeth his wind to blow , [ and ] the waters flow .",
+        "DSS": "ישב רוח׳ו יזלו מים ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "He sheweth his word unto Jacob",
+      "traditions": {
+        "WLC": "מַגִּ֣יד דבר ו לְ יַעֲקֹ֑ב",
+        "LXX": "ἀπαγγέλλων τὸν λόγον αὐτοῦ τῷ Ἰακώβ ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "He sheweth his word unto Jacob ,",
+        "DSS": "מגיד דברי׳ו ל יעקוב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "his statutes and his judgments unto Israel",
+      "traditions": {
+        "WLC": "חֻקָּ֥י ו וּ֝ מִשְׁפָּטָ֗י ו לְ יִשְׂרָאֵֽל",
+        "LXX": "δικαιώματα καὶ κρίματα αὐτοῦ τῷ Ἰσραήλ .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "his statutes and his judgments unto Israel .",
+        "DSS": "חוקי׳ו ו משפטי׳ו ל##[  ישראל ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "He hath not dealt so with any nation",
+      "traditions": {
+        "WLC": "לֹ֘א עָ֤שָׂה כֵ֨ן לְ כָל גּ֗וֹי",
+        "LXX": "οὐκ ἐποίησεν οὕτως παντὶ ἔθνει ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "He hath not dealt so with any nation :",
+        "DSS": "לוא עשה כן ל כול גוי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ as for his ] judgments , they have not known them",
+      "traditions": {
+        "WLC": "וּ מִשְׁפָּטִ֥ים בַּל יְדָע֗וּ ם",
+        "LXX": "καὶ τὰ κρίματα αὐτοῦ οὐκ ἐδήλωσεν αὐτοῖς .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "and [ as for his ] judgments , they have not known them .",
+        "DSS": "משפטים בל הודיע׳ם#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Praise ye the LORD",
+      "traditions": {
+        "WLC": "הַֽלְלוּ יָֽהּ",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "Praise ye the LORD .",
+        "DSS": "הללו יה ׃"
+      }
+    }
+  ]
+}

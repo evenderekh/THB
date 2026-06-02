@@ -1,0 +1,150 @@
+{
+  "21": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "מַחֲטִיאֵ֤י",
+          "LXX": "οἱ ποιοῦντες ἁμαρτεῖν",
+          "VUL": "qui peccáre faciébant",
+          "SP": null,
+          "KJV": "That make an offender",
+          "DSS": "מחטיאי"
+        },
+        {
+          "token": "אָדָם֙",
+          "LXX": "ἀνθρώπους",
+          "VUL": "hómines",
+          "SP": null,
+          "KJV": "a man",
+          "DSS": "אדם"
+        },
+        {
+          "token": "בְּ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "for",
+          "DSS": "ב"
+        },
+        {
+          "token": "דָבָ֔ר",
+          "LXX": "λόγῳ",
+          "VUL": "verbo",
+          "SP": null,
+          "KJV": "a word",
+          "DSS": "דבר"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "δὲ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "לַ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "for",
+          "DSS": "ל"
+        },
+        {
+          "token": "מּוֹכִ֥יחַ",
+          "LXX": "τοὺς ἐλέγχοντας",
+          "VUL": "arguéntem",
+          "SP": null,
+          "KJV": "him that reproveth",
+          "DSS": "מוכיח"
+        },
+        {
+          "token": "בַּ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "שַּׁ֖עַר",
+          "LXX": "πύλαις",
+          "VUL": "porta",
+          "SP": null,
+          "KJV": "the gate",
+          "DSS": "שער"
+        },
+        {
+          "token": "יְקֹשׁ֑וּ",
+          "LXX": "πρόσκομμα θήσουσιν",
+          "VUL": "supplantábant",
+          "SP": null,
+          "KJV": "lay a snare",
+          "DSS": "יקשו"
+        },
+        {
+          "token": "ן",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": "ן"
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וַ",
+          "LXX": null,
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "יַּטּ֥וּ",
+          "LXX": "ἐπλαγίασαν",
+          "VUL": "declinavérunt",
+          "SP": null,
+          "KJV": "turn aside",
+          "DSS": "יטו"
+        },
+        {
+          "token": "בַ",
+          "LXX": "ἐν",
+          "VUL": null,
+          "SP": null,
+          "KJV": "for",
+          "DSS": "ב"
+        },
+        {
+          "token": "תֹּ֖הוּ",
+          "LXX": "ἀδίκοις",
+          "VUL": "frustra",
+          "SP": null,
+          "KJV": "a thing of nought",
+          "DSS": "תהו"
+        },
+        {
+          "token": "צַדִּֽיק",
+          "LXX": "δίκαιον",
+          "VUL": "a iusto",
+          "SP": null,
+          "KJV": "the just",
+          "DSS": "צדיק"
+        }
+      ]
+    }
+  ]
+}

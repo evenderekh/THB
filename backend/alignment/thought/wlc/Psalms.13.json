@@ -1,0 +1,182 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician , A Psalm of David",
+      "traditions": {
+        "WLC": "לַ מְנַצֵּ֗חַ מִזְמ֥וֹר לְ דָוִֽד",
+        "LXX": "Εἰς τὸ τέλος · ψαλμὸς τῷ Δαυείδ",
+        "VUL": "In finem , Psalmus David . Usquequo Dómine obliviscéris me in finem ? úsquequo avértis fáciem tuam a me ?",
+        "SP": null,
+        "KJV": null,
+        "DSS": "[11Q7] [ ל מנצח מזמור ל דויד ׃  /  [5/6hev1b] ל מנצח מזמור ל דוד ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician , A Psalm of David .",
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "In finem , Psalmus David .",
+        "SP": null,
+        "KJV": "To the chief Musician , A Psalm of David .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "How long wilt thou forget me , O LORD ? for ever ?",
+      "traditions": {
+        "WLC": "עַד אָ֣נָה יְ֭הוָה תִּשְׁכָּחֵ֣ נִי נֶ֑צַח",
+        "LXX": "Ἕως πότε , Κύριε , ἐπιλήσῃ μου εἰς τέλος ;",
+        "VUL": "Usquequo Dómine obliviscéris me in finem ?",
+        "SP": null,
+        "KJV": "How long wilt thou forget me , O LORD ? for ever ?",
+        "DSS": "[11Q7] עד אנ׳ה יהוה תשכח׳ני נצח / [5/6hev1b] עד אנ׳ה יהוה תשכח׳ני נצח"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "how long wilt thou hide thy face from me ?",
+      "traditions": {
+        "WLC": "עַד אָ֓נָה תַּסְתִּ֖יר אֶת פָּנֶ֣י ךָ מִמֶּֽ נִּי",
+        "LXX": "ἕως πότε ἀποστρέψεις τὸ πρόσωπόν σου ἀπ᾽ ἐμοῦ ;",
+        "VUL": "úsquequo avértis fáciem tuam a me ?",
+        "SP": null,
+        "KJV": "how long wilt thou hide thy face from me ?",
+        "DSS": "[11Q7] עד אנ ]׳ה ת##ס##תיר## [ את פני׳כה ] [ ממ׳ני ׃ / [5/6hev1b] עד א#[ נ׳ה תסתיר את פני׳ך ממ׳ני ] ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "How long shall I take counsel in my soul",
+      "traditions": {
+        "WLC": "עַד אָ֨נָה אָשִׁ֪ית עֵצ֡וֹת בְּ נַפְשִׁ֗ י",
+        "LXX": "ἕως τίνος θήσομαι βουλὰς ἐν ψυχῇ μου ,",
+        "VUL": "Quámdiu ponam consília in ánima mea ,",
+        "SP": null,
+        "KJV": "How long shall I take counsel in my soul , [",
+        "DSS": "[11Q7] עד אנ׳ה אשית עצות ב נפש׳י / [5/6hev1b] עד אנ#?׳ה## א#ש#ית עצות ב נפש׳"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "having sorrow in my heart daily ?",
+      "traditions": {
+        "WLC": "יָג֣וֹן בִּ לְבָבִ֣ י יוֹמָ֑ם",
+        "LXX": "ὀδύνας ἐν καρδίᾳ μου ἡμέρας ;",
+        "VUL": "dolórem in corde meo per diem ? /",
+        "SP": null,
+        "KJV": "having ] sorrow in my heart daily ?",
+        "DSS": "[11Q7] יגון ב לבב׳י יומם / [5/6hev1b] [ י יגון ב לבב׳י יומם ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "how long shall mine enemy be exalted over me ?",
+      "traditions": {
+        "WLC": "עַד אָ֓נָה יָר֖וּם אֹיְבִ֣ י עָלָֽ י",
+        "LXX": "ἕως πότε ὑψωθήσεται ὁ ἐχθρός μου ἐπ᾽ ἐμέ ;",
+        "VUL": "Usquequo exaltábitur inimícus meus super me ?",
+        "SP": null,
+        "KJV": "how long shall mine enemy be exalted over me ?",
+        "DSS": "[11Q7] עד ] אנ׳ה ירום [ אויב׳י ] [ על׳י ׃ / [5/6hev1b] [ עד א ]נ#?׳ה## [ ירו ]ם## איב׳י ע#ל׳[ י ε ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Consider and hear me , O LORD my God",
+      "traditions": {
+        "WLC": "הַבִּ֣יטָֽ ה עֲ֭נֵ נִי יְהוָ֣ה אֱלֹהָ֑ י",
+        "LXX": "ἐπίβλεψον , εἰσάκουσόν μου , Κύριε ὁ θεός μου ·",
+        "VUL": "Réspice , et exáudi me , Dómine Deus meus .",
+        "SP": null,
+        "KJV": "Consider [ and ] hear me , O LORD my God :",
+        "DSS": "[11Q7] הביט׳ה ענ׳ני יהוה אלוה׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "lighten mine eyes , lest I sleep the sleep of death",
+      "traditions": {
+        "WLC": "הָאִ֥ירָ ה עֵ֝ינַ֗ י פֶּן אִישַׁ֥ן הַ מָּֽוֶת",
+        "LXX": "φώτισον τοὺς ὀφθαλμούς , μή ποτε ὑπνώσω εἰς θάνατον ,",
+        "VUL": "Illúmina óculos meos , ne unquam obdórmiam in morte :",
+        "SP": null,
+        "KJV": "lighten mine eyes , lest I sleep the [ sleep of ] death ;",
+        "DSS": "[11Q7] האיר׳ה עינ׳י פן אישן ה מות ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Lest mine enemy say , I have prevailed against him",
+      "traditions": {
+        "WLC": "פֶּן יֹאמַ֣ר אֹיְבִ֣ י יְכָלְתִּ֑י",
+        "LXX": "μή ποτε εἴπῃ ὁ ἐχθρός μου Ἴσχυσα πρὸς αὐτόν ·",
+        "VUL": "nequándo dicat inimícus meus : Præválui advérsus eum .",
+        "SP": null,
+        "KJV": "Lest mine enemy say , I have prevailed against him ; [",
+        "DSS": "[11Q7] פן ] יואמר אויב׳[ י ] [ יכלתי׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and those that trouble me rejoice when I am moved",
+      "traditions": {
+        "WLC": "ו צָרַ֥ י יָ֝גִ֗ילוּ כִּ֣י אֶמּֽוֹט",
+        "LXX": "οἱ θλίβοντές με ἀγαλλιάσονται ἐὰν σαλευθῶ .",
+        "VUL": "Qui tríbulant me exsultábunt si motus fúero :",
+        "SP": null,
+        "KJV": "and ] those that trouble me rejoice when I am moved .",
+        "DSS": "[11Q7] צר׳י יגילו כי אמוט ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "But I have trusted in thy mercy",
+      "traditions": {
+        "WLC": "וַ אֲנִ֤י בְּ חַסְדְּ ךָ֣ בָטַחְתִּי֮",
+        "LXX": "ἐγὼ δὲ ἐπὶ τῷ ἐλέει σου ἤλπισα ·",
+        "VUL": "ego autem in misericórdia tua sperávi .",
+        "SP": null,
+        "KJV": "But I have trusted in thy mercy ;",
+        "DSS": "[11Q7] ו אני ב חסד׳כה בטחתי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "my heart shall rejoice in thy salvation",
+      "traditions": {
+        "WLC": "יָ֤גֵ֥ל לִבִּ֗ י בִּֽ ישׁוּעָ֫תֶ֥ ךָ",
+        "LXX": "ἀγαλλιάσεται ἡ καρδία μου ἐν τῷ σωτηρίῳ σου ·",
+        "VUL": "Exsultábit cor meum in salutári tuo :",
+        "SP": null,
+        "KJV": "my heart shall rejoice in thy salvation .",
+        "DSS": "[11Q7] יגל לב׳י ב י ]ש[ ועת ]׳כה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": "אָשִׁ֥ירָה לַ יהוָ֑ה כִּ֖י גָמַ֣ל עָלָֽ י",
+        "LXX": "ᾄσω τῷ κυρίῳ τῷ εὐεργετήσαντί με , καὶ ψαλῶ τῷ ὀνόματι Κυρίου τοῦ ὑψίστου .",
+        "VUL": "cantábo Dómino qui bona tríbuit mihi : et psallam nómini Dómini altíssimi .",
+        "SP": null,
+        "KJV": null,
+        "DSS": "[11Q7] [ אשירה ל יהוה כי גמל על׳י ׃"
+      }
+    }
+  ]
+}

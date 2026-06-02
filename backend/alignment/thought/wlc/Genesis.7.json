@@ -1,0 +1,818 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto Noah",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר יְהוָה֙ לְ נֹ֔חַ",
+        "LXX": "Καὶ εἶπεν Κύριος ὁ θεὸς πρὸς Νῶε",
+        "VUL": "Dixítque Dóminus ad eum :",
+        "SP": "ו יאמר אלהים אל נח",
+        "KJV": "And the LORD said unto Noah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Come thou and all thy house into the ark",
+      "traditions": {
+        "WLC": "בֹּֽא אַתָּ֥ה וְ כָל בֵּיתְ ךָ֖ אֶל הַ תֵּבָ֑ה",
+        "LXX": "Εἴσελθε σὺ καὶ πᾶς ὁ οἶκός σου εἰς τὴν κιβωτόν ,",
+        "VUL": "Ingrédere tu , et omnis domus tua in arcam :",
+        "SP": "בא אתה ו כל ביתך אל ה תבה",
+        "KJV": "Come thou and all thy house into the ark ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for thee have I seen righteous before me in this generation",
+      "traditions": {
+        "WLC": "כִּֽי אֹתְ ךָ֥ רָאִ֛יתִי צַדִּ֥יק לְ פָנַ֖ י בַּ דּ֥וֹר הַ זֶּֽה",
+        "LXX": "ὅτι σὲ ἴδον δίκαιον ἐναντίον μου ἐν τῇ γενεᾷ ταύτῃ .",
+        "VUL": "te enim vidi iustum coram me in generatióne hac .",
+        "SP": "כי אתך ראיתי צדיק ל פני ב דור ה זה",
+        "KJV": "for thee have I seen righteous before me in this generation .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Of every clean beast thou shalt take to thee by sevens , the male and his female",
+      "traditions": {
+        "WLC": "מִ כֹּ֣ל הַ בְּהֵמָ֣ה הַ טְּהוֹרָ֗ה תִּֽקַּח לְ ךָ֛ שִׁבְעָ֥ה שִׁבְעָ֖ה אִ֣ישׁ וְ אִשְׁתּ֑ וֹ",
+        "LXX": "ἀπὸ δὲ τῶν κτηνῶν τῶν καθαρῶν εἰσάγαγε πρὸς σὲ ἑπτὰ ἑπτὰ ἄρσεν καὶ θῆλυ ,",
+        "VUL": "Ex ómnibus animántibus mundis tolle septéna et septéna , másculum et féminam :",
+        "SP": "מ כל ה בהמה ה טהרה תקח לך שׁבעה שׁבעה זכר ו נקבה",
+        "KJV": "Of every clean beast thou shalt take to thee by sevens , the male and his female :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and of beasts that [ are ] not clean by two , the male and his female",
+      "traditions": {
+        "WLC": "וּ מִן הַ בְּהֵמָ֡ה אֲ֠שֶׁר לֹ֣א טְהֹרָ֥ה הִ֛וא שְׁנַ֖יִם אִ֥ישׁ וְ אִשְׁתּֽ וֹ",
+        "LXX": "ἀπὸ δὲ τῶν κτηνῶν τῶν μὴ καθαρῶν δύο δύο ἄρσεν καὶ θῆλυ ·",
+        "VUL": "de animántibus vero immúndis duo et duo , másculum et féminam .",
+        "SP": "ו מן ה בהמה אשׁר לא טהרה היא שׁנים שׁנים זכר ו נקבה",
+        "KJV": "and of beasts that [ are ] not clean by two , the male and his female .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Of fowls also of the air by sevens , the male and the female",
+      "traditions": {
+        "WLC": "גַּ֣ם מֵ ע֧וֹף הַ שָּׁמַ֛יִם שִׁבְעָ֥ה שִׁבְעָ֖ה זָכָ֣ר וּ נְקֵבָ֑ה",
+        "LXX": "καὶ ἀπὸ τῶν πετεινῶν τοῦ οὐρανοῦ τῶν καθαρῶν ἑπτὰ ἑπτὰ ἄρσεν καὶ θῆλυ ,",
+        "VUL": "Sed et de volatílibus cæli septéna et septéna , másculum et féminam :",
+        "SP": "ו גם מ עוף ה שׁמים ה טהור שׁבעה שׁבעה זכר ו נקבה",
+        "KJV": "Of fowls also of the air by sevens , the male and the female ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ ἀπὸ πάντων τῶν πετεινῶν τῶν μὴ καθαρῶν δύο δύο ἄρσεν καὶ θῆλυ ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to keep seed alive upon the face of all the earth",
+      "traditions": {
+        "WLC": "לְ חַיּ֥וֹת זֶ֖רַע עַל פְּנֵ֥י כָל הָ אָֽרֶץ",
+        "LXX": "διαθρέψαι σπέρμα ἐπὶ πᾶσαν τὴν γῆν .",
+        "VUL": "ut salvétur semen super fáciem univérsæ terræ .",
+        "SP": "ל החיות זרע על פני כל ה ארץ",
+        "KJV": "to keep seed alive upon the face of all the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "For yet seven days",
+      "traditions": {
+        "WLC": "כִּי֩ לְ יָמִ֨ים ע֜וֹד שִׁבְעָ֗ה",
+        "LXX": "ἔτι γὰρ ἡμερῶν ἑπτὰ",
+        "VUL": "Adhuc enim , et post dies septem",
+        "SP": "כי ל ימים עוד שׁבעה",
+        "KJV": "For yet seven days ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will cause it to rain upon the earth forty days and forty nights",
+      "traditions": {
+        "WLC": "אָֽנֹכִי֙ מַמְטִ֣יר עַל הָ אָ֔רֶץ אַרְבָּעִ֣ים י֔וֹם וְ אַרְבָּעִ֖ים לָ֑יְלָה",
+        "LXX": "ἐγὼ ἐπάγω ὑετὸν ἐπὶ τὴν γῆν τεσσεράκοντα ἡμέρας καὶ τεσσεράκοντα νύκτας ,",
+        "VUL": "ego pluam super terram quadragínta diébus et quadragínta nóctibus :",
+        "SP": "אנכי ממטיר על ה ארץ ארבעים יום ו ארבעים לילה",
+        "KJV": "and I will cause it to rain upon the earth forty days and forty nights ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and every living substance that I have made will I destroy from off the face of the earth",
+      "traditions": {
+        "WLC": "וּ מָחִ֗יתִי אֶֽת כָּל הַ יְקוּם֙ אֲשֶׁ֣ר עָשִׂ֔יתִי מֵ עַ֖ל פְּנֵ֥י הָֽ אֲדָמָֽה",
+        "LXX": "καὶ ἐξαλείψω πᾶν τὸ ἀνάστεμα ὃ ἐποίησα ἀπὸ προσώπου τῆς γῆς .",
+        "VUL": "et delébo omnem substántiam , quam feci , de superfície terræ .",
+        "SP": "ו מחיתי את כל ה יקום אשׁר עשׂיתי מ על פני ה אדמה",
+        "KJV": "and every living substance that I have made will I destroy from off the face of the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Noah did according unto all that the LORD commanded him",
+      "traditions": {
+        "WLC": "וַ יַּ֖עַשׂ נֹ֑חַ כְּ כֹ֥ל אֲשֶׁר צִוָּ֖ הוּ יְהוָֽה",
+        "LXX": "καὶ ἐποίησεν Νῶε πάντα ὅσα ἐνετείλατο αὐτῷ Κύριος ὁ θεός .",
+        "VUL": "Fecit ergo Noe ómnia , quæ mandáverat ei Dóminus .",
+        "SP": "ו יעשׂ נח כ כל אשׁר צוהו יהוה",
+        "KJV": "And Noah did according unto all that the LORD commanded him .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Noah [ was ] six hundred years old",
+      "traditions": {
+        "WLC": "וְ נֹ֕חַ בֶּן שֵׁ֥שׁ מֵא֖וֹת שָׁנָ֑ה",
+        "LXX": "Νῶε δὲ ἦν ἐτῶν ἑξακοσίων",
+        "VUL": "Erátque sexcentórum annórum",
+        "SP": "ו נח בן שׁשׁ מאות שׁנה",
+        "KJV": "And Noah [ was ] six hundred years old",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when the flood of waters was upon the earth",
+      "traditions": {
+        "WLC": "וְ הַ מַּבּ֣וּל הָיָ֔ה מַ֖יִם עַל הָ אָֽרֶץ",
+        "LXX": "καὶ ὁ κατακλυσμὸς ἦν ἐπὶ τῆς γῆς .",
+        "VUL": "quando dilúvii aquæ inundavérunt super terram .",
+        "SP": "ו ה מבול היה מים על ה ארץ",
+        "KJV": "when the flood of waters was upon the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Noah went in , and his sons , and his wife , and his sons ’ wives with him , into the ark",
+      "traditions": {
+        "WLC": "וַ יָּ֣בֹא נֹ֗חַ וּ֠ בָנָי ו וְ אִשְׁתּ֧ וֹ וּ נְשֵֽׁי בָנָ֛י ו אִתּ֖ וֹ אֶל הַ תֵּבָ֑ה",
+        "LXX": "εἰσῆλθεν δὲ Νῶε καὶ οἱ υἱοὶ αὐτοῦ καὶ ἡ γυνὴ αὐτοῦ καὶ αἱ γυναῖκες τῶν υἱῶν αὐτοῦ μετ᾽ αὐτοῦ εἰς τὴν κιβωτόν",
+        "VUL": "Et ingréssus est Noe et fílii eius , uxor eius et uxóres filiórum eius cum eo in arcam",
+        "SP": "ו יבא נח ו בניו ו אשׁתו ו נשׁי בניו אתו אל ה תבה",
+        "KJV": "And Noah went in , and his sons , and his wife , and his sons ’ wives with him , into the ark ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because of the waters of the flood",
+      "traditions": {
+        "WLC": "מִ פְּנֵ֖י מֵ֥י הַ מַּבּֽוּל",
+        "LXX": "διὰ τὸ ὕδωρ τοῦ κατακλυσμοῦ .",
+        "VUL": "propter aquas dilúvii .",
+        "SP": "מ פני מי ה מבול",
+        "KJV": "because of the waters of the flood .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Of clean beasts , and of beasts that [ are ] not clean , and of fowls , and of every thing that creepeth upon the earth",
+      "traditions": {
+        "WLC": "מִן הַ בְּהֵמָה֙ הַ טְּהוֹרָ֔ה וּ מִן הַ֨ בְּהֵמָ֔ה אֲשֶׁ֥ר אֵינֶ֖נָּ ה טְהֹרָ֑ה וּ מִ֨ן הָ ע֔וֹף וְ כֹ֥ל אֲשֶׁר רֹמֵ֖שׂ עַל הָֽ אֲדָמָֽה",
+        "LXX": "καὶ ἀπὸ τῶν πετεινῶν καὶ ἀπὸ τῶν κτηνῶν τῶν καθαρῶν καὶ ἀπὸ τῶν κτηνῶν τῶν μὴ καθαρῶν καὶ ἀπὸ τῶν πετεινῶν καὶ ἀπὸ πάντων τῶν ἑρπετῶν τῶν ἐπὶ τῆς γῆς",
+        "VUL": "De animántibus quoque mundis et immúndis , et de volúcribus , et ex omni , quod movétur super terram ,",
+        "SP": "מן ה בהמה ה טהרה ו מן ה בהמה אשׁר איננה טהרה ו מן ה עוף ו מ כל אשׁר רמשׂ על ה אדמה",
+        "KJV": "Of clean beasts , and of beasts that [ are ] not clean , and of fowls , and of every thing that creepeth upon the earth ,",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "There went in two and two unto Noah into the ark , the male and the female",
+      "traditions": {
+        "WLC": "שְׁנַ֨יִם שְׁנַ֜יִם בָּ֧אוּ אֶל נֹ֛חַ אֶל הַ תֵּבָ֖ה זָכָ֣ר וּ נְקֵבָ֑ה",
+        "LXX": "δύο δύο εἰσῆλθον πρὸς Νῶε εἰς τὴν κιβωτόν , ἄρσεν καὶ θῆλυ ,",
+        "VUL": "duo et duo ingréssa sunt ad Noe in arcam , másculus et fémina ,",
+        "SP": "שׁנים שׁנים באו אל נח אל ה תבה זכר ו נקבה",
+        "KJV": "There went in two and two unto Noah into the ark , the male and the female ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as God had commanded Noah",
+      "traditions": {
+        "WLC": "כַּֽ אֲשֶׁ֛ר צִוָּ֥ה אֱלֹהִ֖ים אֶת נֹֽחַ",
+        "LXX": "καθὰ ἐνετείλατο αὐτῷ ὁ θεός .",
+        "VUL": "sicut præcéperat Dóminus Noe .",
+        "SP": "כ אשׁר צוה יהוה את נח",
+        "KJV": "as God had commanded Noah .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass after seven days",
+      "traditions": {
+        "WLC": "וַֽ יְהִ֖י לְ שִׁבְעַ֣ת הַ יָּמִ֑ים",
+        "LXX": "Καὶ ἐγένετο μετὰ τὰς ἑπτὰ ἡμέρας",
+        "VUL": "Cumque transíssent septem dies ,",
+        "SP": "ו יהי ל שׁבעת ה ימים",
+        "KJV": "And it came to pass after seven days ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that the waters of the flood were upon the earth",
+      "traditions": {
+        "WLC": "וּ מֵ֣י הַ מַּבּ֔וּל הָי֖וּ עַל הָ אָֽרֶץ",
+        "LXX": "καὶ τὸ ὕδωρ τοῦ κατακλυσμοῦ ἐγένετο ἐπὶ τῆς γῆς .",
+        "VUL": "aquæ dilúvii inundavérunt super terram .",
+        "SP": "ו מי ה מבול היו על ה ארץ",
+        "KJV": "that the waters of the flood were upon the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the six hundredth year of Noah ’s life",
+      "traditions": {
+        "WLC": "בִּ שְׁנַ֨ת שֵׁשׁ מֵא֤וֹת שָׁנָה֙ לְ חַיֵּי נֹ֔חַ",
+        "LXX": "ἐν τῷ ἑξακοσιοστῷ ἔτει ἐν τῇ ζωῇ τοῦ Νῶε",
+        "VUL": "Anno sexcentésimo vitæ Noe ,",
+        "SP": "ב שׁנת ה שׁשׁ מאות שׁנה ל חיי נח",
+        "KJV": "In the six hundredth year of Noah ’s life ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in the second month",
+      "traditions": {
+        "WLC": "בַּ חֹ֨דֶשׁ֙ הַ שֵּׁנִ֔י",
+        "LXX": "τοῦ δευτέρου μηνός ,",
+        "VUL": "mense secúndo ,",
+        "SP": "ב חדשׁ ה שׁני",
+        "KJV": "in the second month ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the seventeenth day of the month",
+      "traditions": {
+        "WLC": "בְּ שִׁבְעָֽה עָשָׂ֥ר י֖וֹם לַ חֹ֑דֶשׁ",
+        "LXX": "ἑβδόμῃ καὶ εἰκάδι τοῦ μηνός ,",
+        "VUL": "séptimo décimo die mensis ,",
+        "SP": "ב שׁבעה עשׂר יום ל חדשׁ",
+        "KJV": "the seventeenth day of the month ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the same day were all the fountains of the great deep broken up",
+      "traditions": {
+        "WLC": "בַּ יּ֣וֹם הַ זֶּ֗ה נִבְקְעוּ֙ כָּֽל מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה",
+        "LXX": "τῇ ἡμέρᾳ ταύτῃ ἐρράγησαν πᾶσαι αἱ πηγαὶ τῆς ἀβύσσου ,",
+        "VUL": "rupti sunt omnes fontes abýssi magnæ ,",
+        "SP": "ב יום ה זה נבקעו כל מעינות תהום רבה",
+        "KJV": "the same day were all the fountains of the great deep broken up ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and the windows of heaven were opened",
+      "traditions": {
+        "WLC": "וַ אֲרֻבֹּ֥ת הַ שָּׁמַ֖יִם נִפְתָּֽחוּ",
+        "LXX": "καὶ οἱ καταράκται τοῦ οὐρανοῦ ἠνεῴχθησαν ·",
+        "VUL": "et cataráctæ cæli apértæ sunt :",
+        "SP": "ו ארבות ה שׁמים נפתחו",
+        "KJV": "and the windows of heaven were opened .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the rain was upon the earth forty days and forty nights",
+      "traditions": {
+        "WLC": "וַֽ יְהִ֥י הַ גֶּ֖שֶׁם עַל הָ אָ֑רֶץ אַרְבָּעִ֣ים י֔וֹם וְ אַרְבָּעִ֖ים לָֽיְלָה",
+        "LXX": "καὶ ἐγένετο ὁ ὑετὸς ἐπὶ τῆς γῆς τεσσεράκοντα ἡμέρας καὶ τεσσεράκοντα νύκτας .",
+        "VUL": "et facta est plúvia super terram quadragínta diébus et quadragínta nóctibus .",
+        "SP": "ו יהי ה גשׁם על ה ארץ ארבעים יום ו ארבעים לילה",
+        "KJV": "And the rain was upon the earth forty days and forty nights .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the selfsame day entered Noah",
+      "traditions": {
+        "WLC": "בְּ עֶ֨צֶם הַ יּ֤וֹם הַ זֶּה֙ בָּ֣א נֹ֔חַ",
+        "LXX": "Ἐν τῇ ἡμέρᾳ ταύτῃ εἰσῆλθεν Νῶε ,",
+        "VUL": "In artículo diéi illíus ingréssus est Noe ,",
+        "SP": "ב עצם ה יום ה זה בא נח",
+        "KJV": "In the selfsame day entered Noah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Shem , and Ham , and Japheth , the sons of Noah",
+      "traditions": {
+        "WLC": "וְ שֵׁם וְ חָ֥ם וָ יֶ֖פֶת בְּנֵי נֹ֑חַ",
+        "LXX": "Σήμ , Χάμ , Ἰάφεθ , υἱοὶ Νῶε ,",
+        "VUL": "et Sem , et Cham , et Iapheth fílii eius :",
+        "SP": "שׁם חם ו יפת בני נח",
+        "KJV": "and Shem , and Ham , and Japheth , the sons of Noah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and Noah ’s wife , and the three wives of his sons with them",
+      "traditions": {
+        "WLC": "וְ אֵ֣שֶׁת נֹ֗חַ וּ שְׁלֹ֧שֶׁת נְשֵֽׁי בָנָ֛י ו אִתָּ֖ ם",
+        "LXX": "καὶ ἡ γυνὴ Νῶε καὶ αἱ τρεῖς γυναῖκες τῶν υἱῶν αὐτοῦ μετ᾽ αὐτοῦ",
+        "VUL": "uxor illíus , et tres uxóres filiórum eius cum eis",
+        "SP": "ו אשׁת נח ו שׁלשׁת נשׁי בניו אתם",
+        "KJV": "and Noah ’s wife , and the three wives of his sons with them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "into the ark",
+      "traditions": {
+        "WLC": "אֶל הַ תֵּבָֽה",
+        "LXX": "εἰς τὴν κιβωτόν .",
+        "VUL": "in arcam :",
+        "SP": "אל ה תבה",
+        "KJV": "into the ark ;",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "They , and every beast after his kind",
+      "traditions": {
+        "WLC": "הֵ֜מָּה וְ כָל הַֽ חַיָּ֣ה לְ מִינָ֗ הּ",
+        "LXX": "καὶ πάντα τὰ θηρία κατὰ γένος",
+        "VUL": "ipsi et omne ánimal secúndum genus suum ,",
+        "SP": "הם ו כל ה חיה ל מינה",
+        "KJV": "They , and every beast after his kind ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and all the cattle after their kind",
+      "traditions": {
+        "WLC": "וְ כָל הַ בְּהֵמָה֙ לְ מִינָ֔ הּ",
+        "LXX": "καὶ πάντα τὰ κτήνη κατὰ γένος",
+        "VUL": "universáque iuménta in génere suo ,",
+        "SP": "ו כל ה בהמה ל מינה",
+        "KJV": "and all the cattle after their kind ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and every creeping thing that creepeth upon the earth after his kind",
+      "traditions": {
+        "WLC": "וְ כָל הָ רֶ֛מֶשׂ הָ רֹמֵ֥שׂ עַל הָ אָ֖רֶץ לְ מִינֵ֑ הוּ",
+        "LXX": "καὶ πᾶν ἑρπετὸν κινούμενον ἐπὶ τῆς γῆς κατὰ γένος",
+        "VUL": "et omne quod movétur super terram in génere suo ,",
+        "SP": "ו כל ה רמשׂ ה רמשׂ על ה ארץ ל מינהו",
+        "KJV": "and every creeping thing that creepeth upon the earth after his kind ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and every fowl after his kind , every bird of every sort",
+      "traditions": {
+        "WLC": "וְ כָל הָ ע֣וֹף לְ מִינֵ֔ הוּ כֹּ֖ל צִפּ֥וֹר כָּל כָּנָֽף",
+        "LXX": "καὶ πᾶν πετεινὸν κατὰ γένος",
+        "VUL": "cunctúmque volátile secúndum genus suum , univérsæ aves , omnésque vólucres",
+        "SP": "ו כל ה עוף ל מינהו כל צפור כל כנף",
+        "KJV": "and every fowl after his kind , every bird of every sort .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they went in unto Noah into the ark",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֥אוּ אֶל נֹ֖חַ אֶל הַ תֵּבָ֑ה",
+        "LXX": "εἰσῆλθον πρὸς Νῶε εἰς τὴν κιβωτόν ,",
+        "VUL": "ingréssæ sunt ad Noe in arcam ,",
+        "SP": "ו יבאו אל נח אל ה תבה",
+        "KJV": "And they went in unto Noah into the ark ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "two and two of all flesh , wherein [ is ] the breath of life",
+      "traditions": {
+        "WLC": "שְׁנַ֤יִם שְׁנַ֨יִם֙ מִ כָּל הַ בָּשָׂ֔ר אֲשֶׁר בּ֖ וֹ ר֥וּחַ חַיִּֽים",
+        "LXX": "δύο δύο ἄρσεν καὶ θῆλυ ἀπὸ πάσης σαρκὸς ἐν ᾧ ἐστὶν πνεῦμα ζωῆς .",
+        "VUL": "bina et bina ex omni carne , in qua erat spíritus vitæ .",
+        "SP": "שׁנים שׁנים מ כל בשׂר אשׁר בו רוח חיים",
+        "KJV": "two and two of all flesh , wherein [ is ] the breath of life .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they that went in , went in male and female of all flesh",
+      "traditions": {
+        "WLC": "וְ הַ בָּאִ֗ים זָכָ֨ר וּ נְקֵבָ֤ה מִ כָּל בָּשָׂר֙ בָּ֔אוּ",
+        "LXX": "καὶ τὰ εἰσπορευόμενα ἄρσεν καὶ θῆλυ ἀπὸ πάσης σαρκὸς εἰσῆλθεν ,",
+        "VUL": "Et quæ ingréssa sunt , másculus et fémina ex omni carne introiérunt ,",
+        "SP": "ו ה באים זכר ו נקבה זכר ו נקבה מ כל בשׂר באו",
+        "KJV": "And they that went in , went in male and female of all flesh ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as God had commanded him",
+      "traditions": {
+        "WLC": "כַּֽ אֲשֶׁ֛ר צִוָּ֥ה אֹת֖ וֹ אֱלֹהִ֑ים",
+        "LXX": "καθὰ ἐνετείλατο ὁ θεὸς τῷ Νῶε ·",
+        "VUL": "sicut præcéperat ei Deus :",
+        "SP": "כ אשׁר צוה אתו אלהים",
+        "KJV": "as God had commanded him :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the LORD shut him in",
+      "traditions": {
+        "WLC": "וַ יִּסְגֹּ֥ר יְהוָ֖ה בַּֽעֲדֽ וֹ",
+        "LXX": "καὶ ἔκλεισεν Κύριος ὁ θεὸς τὴν κιβωτόν ἔξωθεν αὐτοῦ .",
+        "VUL": "et inclúsit eum Dóminus déforis .",
+        "SP": "ו יסגר יהוה בעדו",
+        "KJV": "and the LORD shut him in .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the flood was forty days upon the earth",
+      "traditions": {
+        "WLC": "וַֽ יְהִ֧י הַ מַּבּ֛וּל אַרְבָּעִ֥ים י֖וֹם עַל הָ אָ֑רֶץ",
+        "LXX": "Καὶ ἐγένετο ὁ κατακλυσμὸς ἐπὶ τῆς γῆς τεσσεράκοντα ἡμέρας καὶ τεσσεράκοντα νύκτας ἐπὶ τῆς γῆς ·",
+        "VUL": "Factúmque est dilúvium quadragínta diébus super terram :",
+        "SP": "ו יהי ה מבול ארבעים יום על ה ארץ",
+        "KJV": "And the flood was forty days upon the earth ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the waters increased , and bare up the ark",
+      "traditions": {
+        "WLC": "וַ יִּרְבּ֣וּ הַ מַּ֗יִם וַ יִּשְׂאוּ֙ אֶת הַ תֵּבָ֔ה",
+        "LXX": "καὶ ἐπληθύνθη τὸ ὕδωρ καὶ ἐπῆρεν τὴν κιβωτόν ,",
+        "VUL": "et multiplicátæ sunt aquæ , et elevavérunt arcam",
+        "SP": "ו ירבו ה מים ו ישׂאו את ה תבה",
+        "KJV": "and the waters increased , and bare up the ark ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and it was lift up above the earth",
+      "traditions": {
+        "WLC": "וַ תָּ֖רָם מֵ עַ֥ל הָ אָֽרֶץ",
+        "LXX": "καὶ ὑψώθη ἀπὸ τῆς γῆς .",
+        "VUL": "in sublíme a terra .",
+        "SP": "ו תרם מ על ה ארץ",
+        "KJV": "and it was lift up above the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the waters prevailed , and were increased greatly upon the earth",
+      "traditions": {
+        "WLC": "וַ יִּגְבְּר֥וּ הַ מַּ֛יִם וַ יִּרְבּ֥וּ מְאֹ֖ד עַל הָ אָ֑רֶץ",
+        "LXX": "καὶ ἐπεκράτει τὸ ὕδωρ καὶ ἐπληθύνετο σφόδρα ἐπὶ τῆς γῆς ·",
+        "VUL": "Veheménter enim inundavérunt , et ómnia replevérunt in superfície terræ :",
+        "SP": "ו יגברו ה מים ו ירבו מאד על ה ארץ",
+        "KJV": "And the waters prevailed , and were increased greatly upon the earth ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the ark went upon the face of the waters",
+      "traditions": {
+        "WLC": "וַ תֵּ֥לֶךְ הַ תֵּבָ֖ה עַל פְּנֵ֥י הַ מָּֽיִם",
+        "LXX": "καὶ ἐπεφέρετο ἡ κιβωτὸς ἐπάνω τοῦ ὕδατος .",
+        "VUL": "porro arca ferebátur super aquas .",
+        "SP": "ו תלך ה תבה על פני ה מים",
+        "KJV": "and the ark went upon the face of the waters .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the waters prevailed exceedingly upon the earth",
+      "traditions": {
+        "WLC": "וְ הַ מַּ֗יִם גָּֽבְר֛וּ מְאֹ֥ד מְאֹ֖ד עַל הָ אָ֑רֶץ",
+        "LXX": "τὸ δὲ ὕδωρ ἐπεκράτει σφόδρα σφοδρῶς ἐπὶ τῆς γῆς ,",
+        "VUL": "Et aquæ prævaluérunt nimis super terram :",
+        "SP": "ו ה מים גברו מאד מאד על ה ארץ",
+        "KJV": "And the waters prevailed exceedingly upon the earth ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and all the high hills , that [ were ] under the whole heaven , were covered",
+      "traditions": {
+        "WLC": "וַ יְכֻסּ֗וּ כָּל הֶֽ הָרִים֙ הַ גְּבֹהִ֔ים אֲשֶׁר תַּ֖חַת כָּל הַ שָּׁמָֽיִם",
+        "LXX": "καὶ ἐπεκάλυψεν πάντα τὰ ὄρη τὰ ὑψηλὰ ἃ ἦν ὑποκάτω τοῦ οὐρανοῦ .",
+        "VUL": "opertíque sunt omnes montes excélsi sub univérso cælo .",
+        "SP": "ו יכסו כל ה הרים ה גבחים אשׁר תחת כל ה שׁמים",
+        "KJV": "and all the high hills , that [ were ] under the whole heaven , were covered .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Fifteen cubits upward did the waters prevail",
+      "traditions": {
+        "WLC": "חֲמֵ֨שׁ עֶשְׂרֵ֤ה אַמָּה֙ מִ לְ מַ֔עְלָ ה גָּבְר֖וּ הַ מָּ֑יִם",
+        "LXX": "δέκα πέντε πήχεις ἐπάνω ὑψώθη τὸ ὕδωρ ,",
+        "VUL": "Quíndecim cúbitis áltior fuit aqua",
+        "SP": "חמשׁ עשׂרה אמה מ ל מעלה גברו ה מים",
+        "KJV": "Fifteen cubits upward did the waters prevail ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the mountains were covered",
+      "traditions": {
+        "WLC": "וַ יְכֻסּ֖וּ הֶ הָרִֽים",
+        "LXX": "καὶ ἐπεκάλυψεν πάντα τὰ ὄρη τὰ ὑψηλά .",
+        "VUL": "super montes , quos operúerat .",
+        "SP": "ו יכסו ה הרים",
+        "KJV": "and the mountains were covered .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And all flesh died that moved upon the earth",
+      "traditions": {
+        "WLC": "וַ יִּגְוַ֞ע כָּל בָּשָׂ֣ר הָ רֹמֵ֣שׂ עַל הָ אָ֗רֶץ",
+        "LXX": "καὶ ἀπέθανεν πᾶσα σὰρξ κινουμένη ἐπὶ τῆς γῆς",
+        "VUL": "Consumptáque est omnis caro quæ movebátur super terram ,",
+        "SP": "ו יגוע כל בשׂר ה רמשׂ על ה ארץ",
+        "KJV": "And all flesh died that moved upon the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "both of fowl",
+      "traditions": {
+        "WLC": "בָּ ע֤וֹף",
+        "LXX": "τῶν πετεινῶν",
+        "VUL": "vólucrum ,",
+        "SP": "ב עוף",
+        "KJV": "both of fowl ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and of cattle",
+      "traditions": {
+        "WLC": "וּ בַ בְּהֵמָה֙",
+        "LXX": "καὶ τῶν κτηνῶν",
+        "VUL": "animántium ,",
+        "SP": "ו ב בהמה",
+        "KJV": "and of cattle ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and of beast",
+      "traditions": {
+        "WLC": "וּ בַ֣ חַיָּ֔ה",
+        "LXX": "καὶ τῶν θηρίων ,",
+        "VUL": "bestiárum ,",
+        "SP": "ו ב חיה",
+        "KJV": "and of beast ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and of every creeping thing that creepeth upon the earth",
+      "traditions": {
+        "WLC": "וּ בְ כָל הַ שֶּׁ֖רֶץ הַ שֹּׁרֵ֣ץ עַל הָ אָ֑רֶץ",
+        "LXX": "καὶ πᾶν ἑρπετὸν κινούμενον ἐπὶ τῆς γῆς ,",
+        "VUL": "omniúmque reptílium , quæ reptant super terram :",
+        "SP": "ו ב כל ה שׁרץ ה שׁרץ על ה ארץ",
+        "KJV": "and of every creeping thing that creepeth upon the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and every man",
+      "traditions": {
+        "WLC": "וְ כֹ֖ל הָ אָדָֽם",
+        "LXX": "καὶ πᾶς ἄνθρωπος ·",
+        "VUL": "univérsi hómines ,",
+        "SP": "ו כל ה אדם",
+        "KJV": "and every man :",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "All in whose nostrils [ was ] the breath of life",
+      "traditions": {
+        "WLC": "כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּ אַפָּ֗י",
+        "LXX": "καὶ πάντα ὅσα ἔχει πνοὴν ζωῆς",
+        "VUL": "et cuncta , in quibus spiráculum vitæ est in terra ,",
+        "SP": "כל אשׁר נשׁמת רוח חיים ב אפיו",
+        "KJV": "All in whose nostrils [ was ] the breath of life ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "of all that [ was ] in the dry [ land ]",
+      "traditions": {
+        "WLC": "ו מִ כֹּ֛ל אֲשֶׁ֥ר בֶּ חָֽרָבָ֖ה",
+        "LXX": "καὶ πᾶς ὃς ἦν ἐπὶ τῆς ξηρᾶς",
+        "VUL": null,
+        "SP": "מ כל אשׁר ב חרבה",
+        "KJV": "of all that [ was ] in the dry [ land ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "died",
+      "traditions": {
+        "WLC": "מֵֽתוּ",
+        "LXX": "ἀπέθανεν .",
+        "VUL": "mórtua sunt .",
+        "SP": "מתו",
+        "KJV": "died .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And every living substance was destroyed which was upon the face of the ground",
+      "traditions": {
+        "WLC": "וַ יִּ֜מַח אֶֽת כָּל הַ יְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽ אֲדָמָ֗ה",
+        "LXX": "καὶ ἐξήλειψεν πᾶν τὸ ἀνάστεμα ὃ ἦν ἐπὶ προσώπου πάσης τῆς γῆς ,",
+        "VUL": "Et delévit omnem substántiam , quæ erat super terram ,",
+        "SP": "ו ימח את כל ה יקום אשׁר על פני ה אדמה",
+        "KJV": "And every living substance was destroyed which was upon the face of the ground ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "both man , and cattle , and the creeping things , and the fowl of the heaven",
+      "traditions": {
+        "WLC": "מֵ אָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙ וְ עַד ע֣וֹף הַ שָּׁמַ֔יִם",
+        "LXX": "ἀπὸ ἀνθρώπου ἕως κτήνους καὶ ἑρπετῶν καὶ τῶν πετεινῶν τοῦ οὐρανοῦ ·",
+        "VUL": "ab hómine usque ad pecus , tam réptile quam vólucres cæli :",
+        "SP": "מ אדם עד בהמה עד רמשׂ עד עוף ה שׁמים",
+        "KJV": "both man , and cattle , and the creeping things , and the fowl of the heaven ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they were destroyed from the earth",
+      "traditions": {
+        "WLC": "וַ יִּמָּח֖וּ מִן הָ אָ֑רֶץ",
+        "LXX": "καὶ ἐξηλείφθησαν ἀπὸ τῆς γῆς .",
+        "VUL": "et deléta sunt de terra .",
+        "SP": "ו ימחו מן ה ארץ",
+        "KJV": "and they were destroyed from the earth :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and Noah only remained [ alive ]",
+      "traditions": {
+        "WLC": "וַ יִשָּׁ֧אֶר אַךְ נֹ֛חַ",
+        "LXX": "καὶ κατελείφθη μόνος Νῶε",
+        "VUL": "Remánsit autem solus Noe ,",
+        "SP": "ו ישׁאר אך נח",
+        "KJV": "and Noah only remained [ alive ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and they that [ were ] with him in the ark",
+      "traditions": {
+        "WLC": "וַֽ אֲשֶׁ֥ר אִתּ֖ וֹ בַּ תֵּבָֽה",
+        "LXX": "καὶ οἱ μετ᾽ αὐτοῦ ἐν τῇ κιβωτῷ .",
+        "VUL": "et qui cum eo erant in arca .",
+        "SP": "ו אשׁר אתו ב תבה",
+        "KJV": "and they that [ were ] with him in the ark .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the waters prevailed upon the earth an hundred and fifty days",
+      "traditions": {
+        "WLC": "וַ יִּגְבְּר֥וּ הַ מַּ֖יִם עַל הָ אָ֑רֶץ חֲמִשִּׁ֥ים וּ מְאַ֖ת יֽוֹם",
+        "LXX": "καὶ ὑψώθη τὸ ὕδωρ ἐπὶ τῆς γῆς ἡμέρας ἑκατὸν πεντήκοντα .",
+        "VUL": "Obtinuerúntque aquæ terram centum quinquagínta diébus .",
+        "SP": "ו יגברו ה מים על ה ארץ חמשׁים ו מאת יום",
+        "KJV": "And the waters prevailed upon the earth an hundred and fifty days .",
+        "DSS": null
+      }
+    }
+  ]
+}

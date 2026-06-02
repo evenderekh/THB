@@ -1,0 +1,952 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then came all the tribes of Israel to David unto Hebron ,",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֜אוּ כָּל שִׁבְטֵ֧י יִשְׂרָאֵ֛ל אֶל דָּוִ֖ד חֶבְר֑וֹנָ ה",
+        "LXX": "Καὶ παραγίνονται πᾶσαι αἱ φυλαὶ Ἰσραὴλ πρὸς Δαυεὶδ εἰς Χεβρὼν",
+        "VUL": "Et venérunt univérsæ tribus Israel ad David in Hebron ,",
+        "SP": null,
+        "KJV": "Then came all the tribes of Israel to David unto Hebron ,",
+        "DSS": "[ ו יבאו כול שב ]ט##י יש[ ראל אל דוי ]ד# חבר#ונ׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and spake , saying ,",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֣וּ לֵ אמֹ֔ר",
+        "LXX": "καὶ εἶπαν αὐτῷ",
+        "VUL": "dicéntes :",
+        "SP": null,
+        "KJV": "and spake , saying ,",
+        "DSS": "ל אמור ה[ נ׳נ ]ו#?"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Behold , we [ are ] thy bone and thy flesh .",
+      "traditions": {
+        "WLC": "הִנְ נ֛וּ עַצְמְ ךָ֥ וּֽ בְשָׂרְ ךָ֖ אֲנָֽחְנוּ",
+        "LXX": "Ἰδοὺ ὀστᾶ σου καὶ σάρκες σου ἡμεῖς .",
+        "VUL": "Ecce nos , os tuum , et caro tua sumus .",
+        "SP": null,
+        "KJV": "Behold , we [ are ] thy bone and thy flesh .",
+        "DSS": "[4Q51] [ ו בשר׳ך אנחנו ׃ ע##[ צמ׳ך ]"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Also in time past, when Saul was king over us",
+      "traditions": {
+        "WLC": "גַּם אֶתְמ֣וֹל גַּם שִׁלְשׁ֗וֹם בִּ הְי֨וֹת שָׁא֥וּל מֶ֨לֶךְ֙ עָלֵ֔י נוּ",
+        "LXX": "καὶ ἐχθὲς καὶ τρίτην ὄντος Σαοὺλ βασιλέως ἐφ᾽ ἡμῖν",
+        "VUL": "Sed et heri et nudiustértius cum esset Saul rex super nos ,",
+        "SP": null,
+        "KJV": "Also in time past , when Saul was king over us ,",
+        "DSS": "גם א ]ת#מול ג?[ ם של ]שום ב היו[ ת ש ]אול[ מלך עלי׳נו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou wast he that leddest out and broughtest in Israel",
+      "traditions": {
+        "WLC": "אַתָּ֗ה הייתה מוציא ו ה מבי אֶת יִשְׂרָאֵ֑ל",
+        "LXX": "σὺ ἦσθα ὁ ἐξάγων καὶ εἰσάγων τὸν Ἰσραήλ ,",
+        "VUL": "tu eras edúcens et redúcens Israel :",
+        "SP": null,
+        "KJV": "thou wast he that leddest out and broughtest in Israel :",
+        "DSS": "[ אתה היית ה מוציא ו ה מביא את ] י?ש##[ רא ]ל#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the LORD said to thee",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוָ֜ה לְ ךָ֗",
+        "LXX": "καὶ εἶπεν Κύριος πρὸς σέ",
+        "VUL": "dixit autem Dóminus ad te :",
+        "SP": null,
+        "KJV": "and the LORD said to thee ,",
+        "DSS": "[ ו יאמר יהוה ל׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Thou shalt feed my people Israel",
+      "traditions": {
+        "WLC": "אַתָּ֨ה תִרְעֶ֤ה אֶת עַמִּ י֙ אֶת יִשְׂרָאֵ֔ל",
+        "LXX": "Σὺ ποιμανεῖς τὸν λαόν μου τὸν Ἰσραὴλ ,",
+        "VUL": "Tu pasces pópulum meum Israel ,",
+        "SP": null,
+        "KJV": "Thou shalt feed my people Israel ,",
+        "DSS": "אתה ] [ תרעה את עמ׳י את ישראל"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and thou shalt be a captain over Israel",
+      "traditions": {
+        "WLC": "וְ אַתָּ֛ה תִּהְיֶ֥ה לְ נָגִ֖יד עַל יִשְׂרָאֵֽל",
+        "LXX": "καὶ σὺ ἔσει εἰσηγούμενος ἐπὶ τὸν Ἰσραήλ .",
+        "VUL": "et tu eris dux super Israel .",
+        "SP": null,
+        "KJV": "and thou shalt be a captain over Israel .",
+        "DSS": "ו אתה תהיה ל נגיד על ישראל ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "So all the elders of Israel came to the king to Hebron",
+      "traditions": {
+        "WLC": "וַ֠ יָּבֹאוּ כָּל זִקְנֵ֨י יִשְׂרָאֵ֤ל אֶל הַ מֶּ֨לֶךְ֙ חֶבְר֔וֹנָ ה",
+        "LXX": "καὶ ἔρχονται πάντες οἱ πρεσβύτεροι Ἰσραὴλ πρὸς τὸν βασιλέα εἰς Χεβρών ,",
+        "VUL": "Venérunt quoque et senióres Israel ad regem in Hebron ,",
+        "SP": null,
+        "KJV": "So all the elders of Israel came to the king to Hebron ;",
+        "DSS": "ו יבאו ] [ כול זקני ישראל אל ה מלך חברונ׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and king David made a league with them in Hebron before the LORD",
+      "traditions": {
+        "WLC": "וַ יִּכְרֹ֣ת לָ הֶם֩ הַ מֶּ֨לֶךְ דָּוִ֥ד בְּרִ֛ית בְּ חֶבְר֖וֹן לִ פְנֵ֣י יְהוָ֑ה",
+        "LXX": "καὶ διέθετο αὐτοῖς ὁ βασιλεὺς Δαυεὶδ διαθήκην ἐν Χεβρὼν ἐνώπιον Κυρίου ,",
+        "VUL": "et percússit cum eis rex David fœdus in Hebron coram Dómino :",
+        "SP": null,
+        "KJV": "and king David made a league with them in Hebron before the LORD :",
+        "DSS": "ו יכרת ל׳הם ה מלך דויד ברית ] ב חברו?ן#?[ ל פני יהוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they anointed David king over Israel",
+      "traditions": {
+        "WLC": "וַ יִּמְשְׁח֧וּ אֶת דָּוִ֛ד לְ מֶ֖לֶךְ עַל יִשְׂרָאֵֽל",
+        "LXX": "καὶ χρίουσιν τὸν Δαυεὶδ εἰς βασιλέα ἐπὶ πάντα Ἰσραήλ .",
+        "VUL": "unxerúntque David in regem super Israel .",
+        "SP": null,
+        "KJV": "and they anointed David king over Israel .",
+        "DSS": "ו ימשחו את דויד ל מלך על ישראל ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "David [ was ] thirty years old when he began to reign",
+      "traditions": {
+        "WLC": "בֶּן שְׁלֹשִׁ֥ים שָׁנָ֛ה דָּוִ֖ד בְּ מָלְכ֑ וֹ",
+        "LXX": "Υἱὸς τριάκοντα ἐτῶν Δαυεὶδ ἐν τῷ βασιλεῦσαι αὐτόν ,",
+        "VUL": "Fílius trigínta annórum erat David cum regnáre cœpísset ,",
+        "SP": null,
+        "KJV": "David [ was ] thirty years old when he began to reign , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he reigned forty years",
+      "traditions": {
+        "WLC": "אַרְבָּעִ֥ים שָׁנָ֖ה מָלָֽךְ",
+        "LXX": "καὶ τεσσεράκοντα ἔτη ἐβασίλευσεν ·",
+        "VUL": "et quadragínta annis regnávit .",
+        "SP": null,
+        "KJV": "he reigned forty years .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "In Hebron he reigned over Judah seven years and six months",
+      "traditions": {
+        "WLC": "בְּ חֶבְרוֹן֙ מָלַ֣ךְ עַל יְהוּדָ֔ה שֶׁ֥בַע שָׁנִ֖ים וְ שִׁשָּׁ֣ה חֳדָשִׁ֑ים",
+        "LXX": "ἑπτὰ ἔτη καὶ ἓξ μῆνας ἐβασίλευσεν ἐν Χεβρὼν ἐπὶ τὸν Ἰουδά ,",
+        "VUL": "In Hebron regnávit super Iudam septem annis et sex ménsibus :",
+        "SP": null,
+        "KJV": "In Hebron he reigned over Judah seven years and six months :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and in Jerusalem he reigned thirty and three years over all Israel and Judah",
+      "traditions": {
+        "WLC": "וּ בִ ירוּשָׁלִַ֣ם מָלַ֗ךְ שְׁלֹשִׁ֤ים וְ שָׁלֹשׁ֙ שָׁנָ֔ה עַ֥ל כָּל יִשְׂרָאֵ֖ל וִ יהוּדָֽה",
+        "LXX": "καὶ τριάκοντα τρία ἔτη ἐβασίλευσεν ἐπὶ πάντα Ἰσραὴλ καὶ Ἰούδαν ἐν Ἰερουσαλήμ .",
+        "VUL": "in Ierúsalem autem regnávit trigínta tribus annis super omnem Israel et Iudam .",
+        "SP": null,
+        "KJV": "and in Jerusalem he reigned thirty and three years over all Israel and Judah .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the king and his men went to Jerusalem unto the Jebusites , the inhabitants of the land :",
+      "traditions": {
+        "WLC": "וַ יֵּ֨לֶךְ הַ מֶּ֤לֶךְ וַֽ אֲנָשָׁי ו֙ יְר֣וּשָׁלִַ֔ם אֶל הַ יְבֻסִ֖י יוֹשֵׁ֣ב הָ אָ֑רֶץ",
+        "LXX": "Καὶ ἀπῆλθεν Δαυεὶδ καὶ οἱ ἄνδρες αὐτοῦ εἰς Ἰερουσαλὴμ πρὸς τὸν Ἰεβουσαῖον τὸν κατοικοῦντα τὴν γῆν ,",
+        "VUL": "Et ábiit rex , et omnes viri qui erant cum eo , in Ierúsalem , ad Iebusǽum habitatórem terræ :",
+        "SP": null,
+        "KJV": "And the king and his men went to Jerusalem unto the Jebusites , the inhabitants of the land :",
+        "DSS": "[4Q51] ו ילך דויד ] ו אנ?שי׳ו[ ירושלים אל ה יבוסי יושב ה ארץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which spake unto David , saying ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר לְ דָוִ֤ד לֵ אמֹר֙",
+        "LXX": "καὶ ἐρρέθη τῷ Δαυείδ",
+        "VUL": "dictúmque est David ab eis :",
+        "SP": null,
+        "KJV": "which spake unto David , saying ,",
+        "DSS": "ו יאמר ל דויד ל אמור ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Except thou take away the blind and the lame , thou shalt not come in hither :",
+      "traditions": {
+        "WLC": "לֹא תָב֣וֹא הֵ֔נָּה כִּ֣י אִם הֱסִֽירְ ךָ֗ הַ עִוְרִ֤ים וְ הַ פִּסְחִים֙",
+        "LXX": "Οὐκ εἰσελεύσει ὧδε , ὅτι ἀντέστησαν οἱ τυφλοὶ καὶ οἱ χωλοὶ",
+        "VUL": "Non ingrediéris huc , nisi abstúleris cæcos et claudos",
+        "SP": null,
+        "KJV": "Except thou take away the blind and the lame , thou shalt not come in hither :",
+        "DSS": "לוא# ת[ ב ]וא## הנה כי הסית[ ו׳ך ה ] ע##ו(# ר##[ י ]ם #) ו? ה# [ פסחים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "thinking , David can not come in hither .",
+      "traditions": {
+        "WLC": "לֵ אמֹ֔ר לֹֽא יָב֥וֹא דָוִ֖ד הֵֽנָּה",
+        "LXX": "λέγοντες ὅτι Οὐκ εἰσελεύσεται Δαυεὶδ ὧδε .",
+        "VUL": "dicéntes : Non ingrediétur David huc .",
+        "SP": null,
+        "KJV": "thinking , David can not come in hither .",
+        "DSS": "ל אמור לוא יבוא ] דויד# ה##[ נ ]ה ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Nevertheless David took the strong hold of Zion",
+      "traditions": {
+        "WLC": "וַ יִּלְכֹּ֣ד דָּוִ֔ד אֵ֖ת מְצֻדַ֣ת צִיּ֑וֹן",
+        "LXX": "καὶ κατελάβετο Δαυεὶδ τὴν περιοχὴν Σειών ,",
+        "VUL": "Cepit autem David arcem Sion :",
+        "SP": null,
+        "KJV": "Nevertheless David took the strong hold of Zion :",
+        "DSS": "ו ילכוד דויד את מצדת ציון#?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the same [ is ] the city of David",
+      "traditions": {
+        "WLC": "הִ֖יא עִ֥יר דָּוִֽד",
+        "LXX": "αὕτη ἡ πόλις τοῦ Δαυείδ .",
+        "VUL": "hæc est cívitas David .",
+        "SP": null,
+        "KJV": "the same [ is ] the city of David .",
+        "DSS": "היא ע##[ יר דויד ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And David said on that day",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר דָּוִ֜ד בַּ יּ֣וֹם הַ ה֗וּא",
+        "LXX": "καὶ εἶπεν Δαυεὶδ τῇ ἡμέρᾳ ἐκείνῃ",
+        "VUL": "Proposúerat enim David in die illa prǽmium ,",
+        "SP": null,
+        "KJV": "And David said on that day ,",
+        "DSS": "ו יאמר ] ד[ ויד ]ב## יום ה הוא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Whosoever getteth up to the gutter, and smiteth the Jebusites",
+      "traditions": {
+        "WLC": "כָּל מַכֵּ֤ה יְבֻסִי֙ וְ יִגַּ֣ע בַּ צִּנּ֔וֹר",
+        "LXX": "Πᾶς τύπτων Ἰεβουσαῖον ἁπτέσθω ἐν παραξιφίδι",
+        "VUL": "qui percussísset Iebusǽum , et tetigísset dómatum fístulas ,",
+        "SP": null,
+        "KJV": "Whosoever getteth up to the gutter , and smiteth the Jebusites ,",
+        "DSS": "כו#?ל##[ מ ]כה [ י ]ב##ו#?סי יגע ב צנור"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the lame and the blind, [ that are ] hated of David ’s soul",
+      "traditions": {
+        "WLC": "וְ אֶת הַ פִּסְחִים֙ וְ אֶת הַ֣ עִוְרִ֔ים שנאו נֶ֣פֶשׁ דָּוִ֑ד",
+        "LXX": "καὶ τοὺς χωλοὺς καὶ τοὺς τυφλοὺς καὶ τοὺς μισοῦντας τὴν ψυχὴν Δαυείδ ·",
+        "VUL": "et abstulísset cæcos et claudos odiéntes ánimam David .",
+        "SP": null,
+        "KJV": "and the lame and the blind , [ that are ] hated of David ’s soul , [ he shall be chief and captain ] .",
+        "DSS": "ו#? א##ת ה ע[ ורים ו את ] ה# [ פסחי ]ם## שנאה נפש דו?י?ד"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Wherefore they said",
+      "traditions": {
+        "WLC": "עַל כֵּן֙ יֹֽאמְר֔וּ",
+        "LXX": "διὰ τοῦτο ἐροῦσιν",
+        "VUL": "Idcírco dícitur in provérbio :",
+        "SP": null,
+        "KJV": "Wherefore they said ,",
+        "DSS": "[ על ] כן יאמרו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "The blind and the lame shall not come into the house",
+      "traditions": {
+        "WLC": "עִוֵּ֣ר וּ פִסֵּ֔חַ לֹ֥א יָב֖וֹא אֶל הַ בָּֽיִת",
+        "LXX": "Τυφλοὶ καὶ χωλοὶ οὐκ εἰσελεύσονται εἰς οἶκον Κυρίου .",
+        "VUL": "Cæcus et claudus non intrábunt in templum .",
+        "SP": null,
+        "KJV": "The blind and the lame shall not come into the house .",
+        "DSS": "עור ו פסח לוא [ יבוא אל ה בית ] ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "So David dwelt in the fort",
+      "traditions": {
+        "WLC": "וַ יֵּ֤שֶׁב דָּוִד֙ בַּ מְּצֻדָ֔ה",
+        "LXX": "καὶ ἐκάθισεν Δαυεὶδ ἐν τῇ περιοχῇ ,",
+        "VUL": "Habitávit autem David in arce ,",
+        "SP": null,
+        "KJV": "So David dwelt in the fort ,",
+        "DSS": "ו י?ש##ב דויד ב## מצדה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and called it the city of David",
+      "traditions": {
+        "WLC": "וַ יִּקְרָא לָ֖ הּ עִ֣יר דָּוִ֑ד",
+        "LXX": "καὶ ἐκλήθη αὕτη ἡ πόλις Δαυείδ ·",
+        "VUL": "et vocávit eam , Civitátem David :",
+        "SP": null,
+        "KJV": "and called it the city of David .",
+        "DSS": "ו יקר##[ א ]ל׳ה## עיר דויד"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And David built round about from Millo and inward",
+      "traditions": {
+        "WLC": "וַ יִּ֤בֶן דָּוִד֙ סָבִ֔יב מִן הַ מִּלּ֖וֹא וָ בָֽיְתָ ה",
+        "LXX": "καὶ ᾠκοδόμησεν αὐτὴν πόλιν κύκλῳ ἀπὸ τῆς ἄκρας καὶ τὸν οἶκον αὐτοῦ .",
+        "VUL": "et ædificávit per gyrum a Mello et intrínsecus .",
+        "SP": null,
+        "KJV": "And David built round about from Millo and inward .",
+        "DSS": "ו יבנה עיר [ סביב מן ] ה מלוא ו בית׳ה# ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And David went on, and grew great",
+      "traditions": {
+        "WLC": "וַ יֵּ֥לֶךְ דָּוִ֖ד הָל֣וֹךְ וְ גָד֑וֹל",
+        "LXX": "καὶ διεπορεύετο Δαυεὶδ πορευόμενος καὶ μεγαλυνόμενος ,",
+        "VUL": "Et ingrediebátur profíciens atque succréscens ,",
+        "SP": null,
+        "KJV": "And David went on , and grew great ,",
+        "DSS": "[ ו ] י#?לך דויד##[ הלוך ו ג ]דל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the LORD God of hosts [ was ] with him",
+      "traditions": {
+        "WLC": "וַ יהוָ֛ה אֱלֹהֵ֥י צְבָא֖וֹת עִמּֽ וֹ",
+        "LXX": "καὶ Κύριος Παντοκράτωρ μετ᾽ αὐτοῦ .",
+        "VUL": "et Dóminus Deus exercítuum erat cum eo .",
+        "SP": null,
+        "KJV": "and the LORD God of hosts [ was ] with him .",
+        "DSS": "ו יהוה צבא#ות עמ#׳ו ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Hiram king of Tyre sent messengers to David",
+      "traditions": {
+        "WLC": "וַ֠ יִּשְׁלַח חִירָ֨ם מֶֽלֶךְ צֹ֥ר מַלְאָכִים֮ אֶל דָּוִד֒",
+        "LXX": "καὶ ἀπέστειλεν Χειρὰμ βασιλεὺς Τύρου ἀγγέλους πρὸς Δαυεὶδ",
+        "VUL": "Misit quoque Hiram rex Tyri núntios ad David ,",
+        "SP": null,
+        "KJV": "And Hiram king of Tyre sent messengers to David ,",
+        "DSS": "ו ישלח חיר##[ ם ] מלך צור [ מלאכים אל ] דויד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and cedar trees",
+      "traditions": {
+        "WLC": "וַ עֲצֵ֣י אֲרָזִ֔ים",
+        "LXX": "καὶ ξύλα κέδρινα",
+        "VUL": "et ligna cédrina ,",
+        "SP": null,
+        "KJV": "and cedar trees ,",
+        "DSS": "ו ע[ צי ארזים ו ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and carpenters",
+      "traditions": {
+        "WLC": "וְ חָרָשֵׁ֣י עֵ֔ץ",
+        "LXX": "καὶ τέκτονας ξύλων",
+        "VUL": "et artífices lignórum ,",
+        "SP": null,
+        "KJV": "and carpenters ,",
+        "DSS": "ח##ר##שי? עץ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and masons",
+      "traditions": {
+        "WLC": "וְ חָֽרָשֵׁ֖י אֶ֣בֶן קִ֑יר",
+        "LXX": "καὶ τέκτονας λίθων ,",
+        "VUL": "artificésque lápidum ad paríetes :",
+        "SP": null,
+        "KJV": "and masons :",
+        "DSS": "ו חרשי קיר##"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and they built David an house",
+      "traditions": {
+        "WLC": "וַ יִּבְנֽוּ בַ֖יִת לְ דָוִֽד",
+        "LXX": "καὶ ᾠκοδόμησαν οἶκον τῷ Δαυείδ .",
+        "VUL": "et ædificavérunt domum David .",
+        "SP": null,
+        "KJV": "and they built David an house .",
+        "DSS": "[ ו י ]בנו בית## [ ל דויד ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And David perceived that the LORD had established him king over Israel",
+      "traditions": {
+        "WLC": "וַ יֵּ֣דַע דָּוִ֔ד כִּֽי הֱכִינ֧ וֹ יְהוָ֛ה לְ מֶ֖לֶךְ עַל יִשְׂרָאֵ֑ל",
+        "LXX": "καὶ ἔγνω Δαυεὶδ ὅτι ἡτοίμασεν αὐτὸν Κύριος εἰς βασιλέα ἐπὶ Ἰσραήλ ,",
+        "VUL": "Et cognóvit David quóniam confirmásset eum Dóminus regem super Israel ,",
+        "SP": null,
+        "KJV": "And David perceived that the LORD had established him king over Israel ,",
+        "DSS": "ו ידע דויד כי הכינ׳ו יהוה ל ] מ##לך## על ישרא##ל#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and that he had exalted his kingdom for his people Israel ’s sake",
+      "traditions": {
+        "WLC": "וְ כִי֙ נִשֵּׂ֣א מַמְלַכְתּ֔ וֹ בַּ עֲב֖וּר עַמּ֥ וֹ יִשְׂרָאֵֽל",
+        "LXX": "καὶ ὅτι ἐπήρθη ἡ βασιλεία αὐτοῦ διὰ τὸν λαὸν αὐτοῦ Ἰσραήλ .",
+        "VUL": "et quóniam exaltásset regnum eius super pópulum suum Israel .",
+        "SP": null,
+        "KJV": "and that he had exalted his kingdom for his people Israel ’s sake .",
+        "DSS": "[ ו כי נשא ממלכת׳ו ב עבור עמ׳ו ישראל ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And David took [ him ] more concubines and wives out of Jerusalem",
+      "traditions": {
+        "WLC": "וַ יִּקַּח֩ דָּוִ֨ד ע֜וֹד פִּֽלַגְשִׁ֤ים וְ נָשִׁים֙ מִ יר֣וּשָׁלִַ֔ם",
+        "LXX": "Καὶ ἔλαβεν Δαυεὶδ ἔτι γυναῖκας καὶ παλλακὰς ἐξ Ἰερουσαλὴμ",
+        "VUL": "Accépit ergo David adhuc concubínas et uxóres de Ierúsalem ,",
+        "SP": null,
+        "KJV": "And David took [ him ] more concubines and wives out of Jerusalem ,",
+        "DSS": "ו יקח ד ]ויד עוד פיל#[ ג ]שים ו? [ נשים מ ירושלים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "after he was come from Hebron",
+      "traditions": {
+        "WLC": "אַחֲרֵ֖י בֹּא֣ וֹ מֵ חֶבְר֑וֹן",
+        "LXX": "μετὰ τὸ ἐλθεῖν αὐτὸν εἰς Χεβρών ·",
+        "VUL": "postquam vénerat de Hebron :",
+        "SP": null,
+        "KJV": "after he was come from Hebron :",
+        "DSS": "אחרי בא׳ו מ חברון"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and there were yet sons and daughters born to David",
+      "traditions": {
+        "WLC": "וַ יִּוָּ֥לְדּוּ ע֛וֹד לְ דָוִ֖ד בָּנִ֥ים וּ בָנֽוֹת",
+        "LXX": "καὶ ἐγένοντο τῷ Δαυεὶδ ἔτι υἱοὶ καὶ θυγατέρες .",
+        "VUL": "natíque sunt David et álii fílii et fíliæ :",
+        "SP": null,
+        "KJV": "and there were yet sons and daughters born to David .",
+        "DSS": "ו יולד ]ו#? ל דויד עו?ד [ בני ]ם ו בנות ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And these [ be ] the names of those that were born unto him in Jerusalem",
+      "traditions": {
+        "WLC": "וְ אֵ֗לֶּה שְׁמ֛וֹת הַ יִּלֹּדִ֥ים ל֖ וֹ בִּ ירוּשָׁלִָ֑ם",
+        "LXX": "καὶ ταῦτα τὰ ὀνόματα τῶν γεννηθέντων αὐτῷ ἐν Ἰερουσαλήμ ·",
+        "VUL": "et hæc nómina eórum , qui nati sunt ei in Ierúsalem :",
+        "SP": null,
+        "KJV": "And these [ be ] the names of those that were born unto him in Jerusalem ;",
+        "DSS": "ו אלה[ שמות ה ילדים ל׳ו ב ירושלם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Shammua , and Shobab , and Nathan , and Solomon",
+      "traditions": {
+        "WLC": "שַׁמּ֣וּעַ וְ שׁוֹבָ֔ב וְ נָתָ֖ן וּ שְׁלֹמֹֽה",
+        "LXX": "Σαμμοῦς καὶ Σωβὰβ καὶ Ναθὰν καὶ Σαλωμών ,",
+        "VUL": "Sámua , et Sobab , et Nathan , et Sálomon ,",
+        "SP": null,
+        "KJV": "Shammua , and Shobab , and Nathan , and Solomon ,",
+        "DSS": "שמע ]א# ו? שובב [ ו נתן ו ] שלומ#[ ה ] ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ibhar also , and Elishua , and Nepheg , and Japhia",
+      "traditions": {
+        "WLC": "וְ יִבְחָ֥ר וֶ אֱלִישׁ֖וּעַ וְ נֶ֥פֶג וְ יָפִֽיעַ",
+        "LXX": "καὶ Ἐβεὰρ καὶ Ἐλεισοῦς καὶ Νάφεκ καὶ Ἰεφίες ,",
+        "VUL": "et Iébahar , et Elísua , et Nepheg ,",
+        "SP": null,
+        "KJV": "Ibhar also , and Elishua , and Nepheg , and Japhia ,",
+        "DSS": "ו י?ב##[ חר ו אלישוע ו אליפלט ו נפג ו יפיע ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Elishama , and Eliada , and Eliphalet",
+      "traditions": {
+        "WLC": "וֶ אֱלִישָׁמָ֥ע וְ אֶלְיָדָ֖ע וֶ אֱלִיפָֽלֶט",
+        "LXX": "καὶ Ἐλεισαμὰ καὶ Ἐπιδαὲ καὶ Ἐλειφάαθ ,",
+        "VUL": "et Iáphia , et Elísama , et Elíoda , et Elíphaleth .",
+        "SP": null,
+        "KJV": "And Elishama , and Eliada , and Eliphalet .",
+        "DSS": "ו א ]לי?שמע [ ו בעלידע ו אליפלט ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "Σαμαέ , Ἰεσσειβάθ , Ναθάν , Γαλαμαάν , Ἰεβαάρ , Θεησοῦς , Ἐλφάλατ , Ναγέδ , Νάφεκ , Ἰαναθά , Λεασαμύς , Βααλειμάθ , Ἐλειφάαθ .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "But when the Philistines heard that they had anointed David king over Israel",
+      "traditions": {
+        "WLC": "וַ יִּשְׁמְע֣וּ פְלִשְׁתִּ֗ים כִּי מָשְׁח֨וּ אֶת דָּוִ֤ד לְ מֶ֨לֶךְ֙ עַל יִשְׂרָאֵ֔ל",
+        "LXX": "Καὶ ἤκουσαν ἀλλόφυλοι ὅτι κέχρισται Δαυεὶδ βασιλεὺς ἐπὶ Ἰσραήλ ,",
+        "VUL": "Audiérunt ergo Philísthiim quod unxíssent David in regem super Israel ,",
+        "SP": null,
+        "KJV": "But when the Philistines heard that they had anointed David king over Israel ,",
+        "DSS": "ו ישמעו פלשתיים כי ] [ נמשח דויד ל מלך על ישראל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "all the Philistines came up to seek David",
+      "traditions": {
+        "WLC": "וַ יַּעֲל֥וּ כָל פְּלִשְׁתִּ֖ים לְ בַקֵּ֣שׁ אֶת דָּוִ֑ד",
+        "LXX": "καὶ ἀνέβησαν πάντες οἱ ἀλλόφυλοι ζητεῖν τὸν Δαυείδ ·",
+        "VUL": "et ascendérunt univérsi ut quǽrerent David :",
+        "SP": null,
+        "KJV": "all the Philistines came up to seek David ;",
+        "DSS": "ו יעלו כול ה פלשתיים ל בקש את ] [ דויד"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and David heard [ of it ]",
+      "traditions": {
+        "WLC": "וַ יִּשְׁמַ֣ע דָּוִ֔ד",
+        "LXX": "καὶ ἤκουσεν Δαυείδ ,",
+        "VUL": "quod cum audísset David ,",
+        "SP": null,
+        "KJV": "and David heard [ of it ] ,",
+        "DSS": "ו ישמע דויד"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and went down to the hold",
+      "traditions": {
+        "WLC": "וַ יֵּ֖רֶד אֶל הַ מְּצוּדָֽה",
+        "LXX": "καὶ κατέβη εἰς τὴν περιοχήν .",
+        "VUL": "descéndit in præsídium .",
+        "SP": null,
+        "KJV": "and went down to the hold .",
+        "DSS": "ו ירד אל ה מצודה ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "The Philistines also came",
+      "traditions": {
+        "WLC": "וּ פְלִשְׁתִּ֖ים בָּ֑אוּ",
+        "LXX": "καὶ οἱ ἀλλόφυλοι παραγίνονται",
+        "VUL": "Philísthiim autem veniéntes",
+        "SP": null,
+        "KJV": "The Philistines also came",
+        "DSS": "]ו פלשתיים[ באו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and spread themselves in the valley of Rephaim",
+      "traditions": {
+        "WLC": "וַ יִּנָּטְשׁ֖וּ בְּ עֵ֥מֶק רְפָאִֽים",
+        "LXX": "καὶ συνέπεσαν εἰς τὴν κοιλάδα τῶν Τιτάνων .",
+        "VUL": "diffúsi sunt in valle Ráphaim .",
+        "SP": null,
+        "KJV": "and spread themselves in the valley of Rephaim .",
+        "DSS": "ו יפשטו ] [ ב עמק רפאים ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And David inquired of the LORD",
+      "traditions": {
+        "WLC": "וַ יִּשְׁאַ֨ל דָּוִ֤ד בַּֽ יהוָה֙",
+        "LXX": "καὶ ἠρώτησεν Δαυεὶδ διὰ Κυρίου",
+        "VUL": "Et consúluit David Dóminum ,",
+        "SP": null,
+        "KJV": "And David inquired of the LORD ,",
+        "DSS": "ו ישאל דויד ב יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying , Shall I go up to the Philistines ?",
+      "traditions": {
+        "WLC": "לֵ אמֹ֔ר הַ אֶֽעֱלֶה֙ אֶל פְּלִשְׁתִּ֔ים",
+        "LXX": "λέγων Εἰ ἀναβῶ πρὸς τοὺς ἀλλοφύλους",
+        "VUL": "dicens : Si ascéndam ad Philísthiim ?",
+        "SP": null,
+        "KJV": "saying , Shall I go up to the Philistines ?",
+        "DSS": "על פ ]ל##שת##[ יי ]ם ה א#ע##[ לה ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "wilt thou deliver them into mine hand ?",
+      "traditions": {
+        "WLC": "הֲ תִתְּנֵ֖ ם בְּ יָדִ֑ י",
+        "LXX": "καὶ παραδώσεις αὐτοὺς εἰς τὰς χεῖράς μου ?",
+        "VUL": "et si dabis eos in manu mea ?",
+        "SP": null,
+        "KJV": "wilt thou deliver them into mine hand ?",
+        "DSS": "ה תתנ׳ם ב יד׳י"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And the LORD said unto David , Go up",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוָ֤ה אֶל דָּוִד֙ עֲלֵ֔ה",
+        "LXX": "καὶ εἶπεν Κύριος πρὸς Δαυείδ Ἀνάβαινε ,",
+        "VUL": "Et dixit Dóminus ad David : Ascénde ,",
+        "SP": null,
+        "KJV": "And the LORD said unto David , Go up :",
+        "DSS": "ו יאמר יהוה עלה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "for I will doubtless deliver the Philistines into thine hand",
+      "traditions": {
+        "WLC": "כִּֽי נָתֹ֥ן אֶתֵּ֛ן אֶת הַ פְּלִשְׁתִּ֖ים בְּ יָדֶֽ ךָ",
+        "LXX": "ὅτι παραδιδοὺς παραδώσω τοὺς ἀλλοφύλους εἰς τὰς χεῖράς σου .",
+        "VUL": "quia tradens dabo Philísthiim in manu tua .",
+        "SP": null,
+        "KJV": "for I will doubtless deliver the Philistines into thine hand .",
+        "DSS": "נתון אתן א#ת ה# [ פלשתיים ב יד׳ך ] ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And David came to Baalperazim",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֨א דָוִ֥ד בְּ בַֽעַל פְּרָצִים֮",
+        "LXX": "καὶ ἦλθεν Δαυεὶδ ἐκ τῶν ἐπάνω διακοπῶν",
+        "VUL": "Venit ergo David in Baal Phárasim :",
+        "SP": null,
+        "KJV": "And David came to Baalperazim ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and David smote them there",
+      "traditions": {
+        "WLC": "וַ יַּכֵּ֣ ם שָׁ֣ם דָּוִד֒",
+        "LXX": "καὶ ἔκοψεν τοὺς ἀλλοφύλους ἐκεῖ ,",
+        "VUL": "et percússit eos ibi ,",
+        "SP": null,
+        "KJV": "and David smote them there ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and said , The LORD hath broken forth upon mine enemies before me",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר פָּרַ֨ץ יְהוָ֧ה אֶת אֹיְבַ֛ י לְ פָנַ֖ י",
+        "LXX": "καὶ εἶπεν Δαυείδ Διέκοψεν Κύριος τοὺς ἐχθροὺς ἀλλοφύλους ἐνώπιον ἐμοῦ",
+        "VUL": "et dixit : Divísit Dóminus inimícos meos coram me ,",
+        "SP": null,
+        "KJV": "and said , The LORD hath broken forth upon mine enemies before me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as the breach of waters",
+      "traditions": {
+        "WLC": "כְּ פֶ֣רֶץ מָ֑יִם",
+        "LXX": "ὡς διακόπτεται ὕδατα ·",
+        "VUL": "sicut dividúntur aquæ .",
+        "SP": null,
+        "KJV": "as the breach of waters .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "Therefore he called the name of that place Baalperazim",
+      "traditions": {
+        "WLC": "עַל כֵּ֗ן קָרָ֛א שֵֽׁם הַ מָּק֥וֹם הַ ה֖וּא בַּ֥עַל פְּרָצִֽים",
+        "LXX": "διὰ τοῦτο ἐκλήθη τὸ ὄνομα τοῦ τόπου ἐκείνου Ἐπάνω διακοπῶν .",
+        "VUL": "Proptérea vocátum est nomen loci illíus , Baal Phárasim .",
+        "SP": null,
+        "KJV": "Therefore he called the name of that place Baalperazim .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And there they left their images",
+      "traditions": {
+        "WLC": "וַ יַּעַזְבוּ שָׁ֖ם אֶת עֲצַבֵּי הֶ֑ם",
+        "LXX": "καὶ καταλιμπάνουσιν ἐκεῖ τοὺς θεοὺς αὐτῶν ,",
+        "VUL": "Et reliquérunt ibi sculptília sua :",
+        "SP": null,
+        "KJV": "And there they left their images ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and David and his men burned them",
+      "traditions": {
+        "WLC": "וַ יִּשָּׂאֵ֥ ם דָּוִ֖ד וַ אֲנָשָֽׁי ו",
+        "LXX": "καὶ ἐλάβοσαν αὐτοὺς Δαυεὶδ καὶ οἱ ἄνδρες οἱ μετ᾽ αὐτοῦ .",
+        "VUL": "quæ tulit David et viri eius .",
+        "SP": null,
+        "KJV": "and David and his men burned them .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the Philistines came up yet again",
+      "traditions": {
+        "WLC": "וַ יֹּסִ֥פוּ ע֛וֹד פְּלִשְׁתִּ֖ים לַֽ עֲל֑וֹת",
+        "LXX": "Καὶ προσέθεντο ἔτι ἀλλόφυλοι τοῦ ἀναβῆναι ,",
+        "VUL": "Et addidérunt adhuc Philísthiim ut ascénderent ,",
+        "SP": null,
+        "KJV": "And the Philistines came up yet again ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and spread themselves in the valley of Rephaim",
+      "traditions": {
+        "WLC": "וַ יִּנָּֽטְשׁ֖וּ בְּ עֵ֥מֶק רְפָאִֽים",
+        "LXX": "καὶ συνέπεσαν ἐν τῇ κοιλάδι τῶν Τιτάνων .",
+        "VUL": "et diffúsi sunt in valle Ráphaim .",
+        "SP": null,
+        "KJV": "and spread themselves in the valley of Rephaim .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And when David inquired of the LORD",
+      "traditions": {
+        "WLC": "וַ יִּשְׁאַ֤ל דָּוִד֙ בַּֽ יהוָ֔ה",
+        "LXX": "καὶ ἐπηρώτησεν Δαυεὶδ διὰ Κυρίου ,",
+        "VUL": "Consúluit autem David Dóminum : Si ascéndam contra Philisthǽos , et tradas eos in manus meas ?",
+        "SP": null,
+        "KJV": "And when David inquired of the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he said , Thou shalt not go up",
+      "traditions": {
+        "WLC": "וַ יֹּ֖אמֶר לֹ֣א תַעֲלֶ֑ה",
+        "LXX": "καὶ εἶπεν Κύριος Οὐκ ἀναβήσει εἰς συνάντησιν αὐτῶν ,",
+        "VUL": "Qui respóndit : Non ascéndas contra eos ,",
+        "SP": null,
+        "KJV": "he said , Thou shalt not go up ; [ but ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "fetch a compass behind them",
+      "traditions": {
+        "WLC": "הָסֵב֙ אֶל אַ֣חֲרֵי הֶ֔ם",
+        "LXX": "ἀποστρέφου ἀπ᾽ αὐτῶν",
+        "VUL": "sed gyra post tergum eórum ,",
+        "SP": null,
+        "KJV": "fetch a compass behind them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and come upon them over against the mulberry trees",
+      "traditions": {
+        "WLC": "וּ בָ֥אתָ לָ הֶ֖ם מִ מּ֥וּל בְּכָאִֽים",
+        "LXX": "καὶ παρέσει αὐτοῖς πλησίον τοῦ κλαυθμῶνος .",
+        "VUL": "et vénies ad eos ex advérso pyrórum .",
+        "SP": null,
+        "KJV": "and come upon them over against the mulberry trees .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And let it be , when thou hearest the sound of a going in the tops of the mulberry trees",
+      "traditions": {
+        "WLC": "וִ֠ יהִי ב שמע ך אֶת ק֧וֹל צְעָדָ֛ה בְּ רָאשֵׁ֥י הַ בְּכָאִ֖ים",
+        "LXX": "καὶ ἔσται ἐν τῷ ἀκοῦσαί σε τὴν φωνὴν τοῦ συνκλεισμοῦ ἀπὸ τοῦ ἄλσους τοῦ κλαυθμῶνος ,",
+        "VUL": "Et cum audíeris sónitum gradiéntis in cacúmine pyrórum ,",
+        "SP": null,
+        "KJV": "And let it be , when thou hearest the sound of a going in the tops of the mulberry trees ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that then thou shalt bestir thyself",
+      "traditions": {
+        "WLC": "אָ֣ז תֶּחֱרָ֑ץ",
+        "LXX": "τότε καταβήσει πρὸς αὐτούς ,",
+        "VUL": "tunc iníbis prœ́lium :",
+        "SP": null,
+        "KJV": "that then thou shalt bestir thyself :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for then shall the LORD go out before thee , to smite the host of the Philistines",
+      "traditions": {
+        "WLC": "כִּ֣י אָ֗ז יָצָ֤א יְהוָה֙ לְ פָנֶ֔י ךָ לְ הַכּ֖וֹת בְּ מַחֲנֵ֥ה פְלִשְׁתִּֽים",
+        "LXX": "ὅτι τότε ἐξελεύσεται Κύριος ἔμπροσθέν σου κόπτειν ἐν τῷ πολέμῳ τῶν ἀλλοφύλων .",
+        "VUL": "quia tunc egrediétur Dóminus ante fáciem tuam , ut percútiat castra Philísthiim .",
+        "SP": null,
+        "KJV": "for then shall the LORD go out before thee , to smite the host of the Philistines .",
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "And David did so , as the LORD had commanded him",
+      "traditions": {
+        "WLC": "וַ יַּ֤עַשׂ דָּוִד֙ כֵּ֔ן כַּ אֲשֶׁ֥ר צִוָּ֖ הוּ יְהוָ֑ה",
+        "LXX": "καὶ ἐποίησεν Δαυεὶδ καθὼς ἐνετείλατο αὐτῷ Κύριος ,",
+        "VUL": "Fecit ítaque David sicut præcéperat ei Dóminus ,",
+        "SP": null,
+        "KJV": "And David did so , as the LORD had commanded him ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and smote the Philistines from Geba until thou come to Gazer",
+      "traditions": {
+        "WLC": "וַ יַּךְ֙ אֶת פְּלִשְׁתִּ֔ים מִ גֶּ֖בַע עַד בֹּאֲ ךָ֥ גָֽזֶר",
+        "LXX": "καὶ ἐπάταξεν τοὺς ἀλλοφύλους ἀπὸ Γαβαὼν ἕως τῆς γῆς Γαζηρά .",
+        "VUL": "et percússit Philísthiim de Gábaa usque dum vénias Gezer .",
+        "SP": null,
+        "KJV": "and smote the Philistines from Geba until thou come to Gazer .",
+        "DSS": null
+      }
+    }
+  ]
+}

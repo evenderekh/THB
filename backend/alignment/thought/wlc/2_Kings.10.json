@@ -1,0 +1,1646 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Ahab had seventy sons in Samaria .",
+      "traditions": {
+        "WLC": "וּ לְ אַחְאָ֛ב שִׁבְעִ֥ים בָּנִ֖ים בְּ שֹׁמְר֑וֹן",
+        "LXX": "Καὶ τῷ Ἀχαὰβ ἑβδομήκοντα υἱοὶ ἐν Σαμαρείᾳ .",
+        "VUL": "Erant autem Achab septuagínta fílii in Samaría :",
+        "SP": null,
+        "KJV": "And Ahab had seventy sons in Samaria .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And Jehu wrote letters ,",
+      "traditions": {
+        "WLC": "וַ יִּכְתֹּב֩ יֵה֨וּא סְפָרִ֜ים",
+        "LXX": "καὶ ἔγραψεν Εἰοὺ βιβλίον",
+        "VUL": "scripsit ergo Iehu lítteras ,",
+        "SP": null,
+        "KJV": "And Jehu wrote letters ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and sent to Samaria ,",
+      "traditions": {
+        "WLC": "וַ יִּשְׁלַ֣ח שֹׁמְר֗וֹן",
+        "LXX": "καὶ ἀπέστειλεν ἐν Σαμαρείᾳ",
+        "VUL": "et misit in Samaríam ,",
+        "SP": null,
+        "KJV": "and sent to Samaria ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "unto the rulers of Jezreel , to the elders , and to them that brought up Ahab ’s [ children ] ,",
+      "traditions": {
+        "WLC": "אֶל שָׂרֵ֤י יִזְרְעֶאל֙ הַ זְּקֵנִ֔ים וְ אֶל הָ אֹמְנִ֥ים אַחְאָ֖ב",
+        "LXX": "πρὸς τοὺς ἄρχοντας Σαμαρείας καὶ πρὸς τοὺς πρεσβυτέρους καὶ πρὸς τοὺς τιθηνοὺς Ἀχαὰβ",
+        "VUL": "ad optimátes civitátis , et ad maióres natu , et ad nutrítios Achab ,",
+        "SP": null,
+        "KJV": "unto the rulers of Jezreel , to the elders , and to them that brought up Ahab ’s [ children ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "saying ,",
+      "traditions": {
+        "WLC": "לֵ אמֹֽר",
+        "LXX": "λέγων",
+        "VUL": "dicens :",
+        "SP": null,
+        "KJV": "saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now as soon as this letter cometh to you ,",
+      "traditions": {
+        "WLC": "וְ עַתָּ֗ה כְּ בֹ֨א הַ סֵּ֤פֶר הַ זֶּה֙ אֲלֵי כֶ֔ם",
+        "LXX": "Καὶ νῦν ὡς ἐὰν ἔλθῃ τὸ βιβλίον τοῦτο πρὸς ὑμᾶς ,",
+        "VUL": "Statim ut accepéritis lítteras has ,",
+        "SP": null,
+        "KJV": "Now as soon as this letter cometh to you ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "seeing your master ’s sons [ are ] with you ,",
+      "traditions": {
+        "WLC": "וְ אִתְּ כֶ֖ם בְּנֵ֣י אֲדֹנֵי כֶ֑ם",
+        "LXX": "καὶ μεθ᾽ ὑμῶν οἱ υἱοὶ τοῦ κυρίου ὑμῶν ,",
+        "VUL": "qui habétis fílios dómini vestri ,",
+        "SP": null,
+        "KJV": "seeing your master ’s sons [ are ] with you ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and [ there are ] with you chariots and horses ,",
+      "traditions": {
+        "WLC": "וְ אִתְּ כֶם֙ הָ רֶ֣כֶב וְ הַ סּוּסִ֔ים",
+        "LXX": "καὶ μεθ᾽ ὑμῶν τὸ ἅρμα καὶ ἵπποι",
+        "VUL": "et currus , et equos ,",
+        "SP": null,
+        "KJV": "and [ there are ] with you chariots and horses ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "a fenced city also ,",
+      "traditions": {
+        "WLC": "וְ עִ֥יר מִבְצָ֖ר",
+        "LXX": "καὶ πόλεις ὀχυραὶ",
+        "VUL": "et civitátes firmas ,",
+        "SP": null,
+        "KJV": "a fenced city also ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and armour ;",
+      "traditions": {
+        "WLC": "וְ הַ נָּֽשֶׁק",
+        "LXX": "καὶ τὰ ὅπλα .",
+        "VUL": "et arma ,",
+        "SP": null,
+        "KJV": "and armour ;",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Look even out the best and meetest of your master ’s sons ,",
+      "traditions": {
+        "WLC": "וּ רְאִיתֶ֞ם הַ טּ֤וֹב וְ הַ יָּשָׁר֙ מִ בְּנֵ֣י אֲדֹנֵי כֶ֔ם",
+        "LXX": "καὶ ὄψεσθε τὸν ἀγαθὸν καὶ τὸν εὐθῆ ἐν τοῖς υἱοῖς τοῦ κυρίου ὑμῶν",
+        "VUL": "elígite meliórem , et eum qui vobis placúerit de fíliis dómini vestri ,",
+        "SP": null,
+        "KJV": "Look even out the best and meetest of your master ’s sons ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and set [ him ] on his father ’s throne ,",
+      "traditions": {
+        "WLC": "וְ שַׂמְתֶּ֖ם עַל כִּסֵּ֣א אָבִ֑י",
+        "LXX": "καὶ καταστήσετε αὐτὸν ἐπὶ τὸν θρόνον τοῦ πατρὸς αὐτοῦ ,",
+        "VUL": "et eum pónite super sólium patris sui ,",
+        "SP": null,
+        "KJV": "and set [ him ] on his father ’s throne ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and fight for your master ’s house .",
+      "traditions": {
+        "WLC": "ו וְ הִֽלָּחֲמ֖וּ עַל בֵּ֥ית אֲדֹנֵי כֶֽם",
+        "LXX": "καὶ πολεμεῖτε ὑπὲρ τοῦ οἴκου τοῦ κυρίου ὑμῶν .",
+        "VUL": "et pugnáte pro domo dómini vestri .",
+        "SP": null,
+        "KJV": "and fight for your master ’s house .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "But they were exceedingly afraid ,",
+      "traditions": {
+        "WLC": "וַ יִּֽרְאוּ֙ מְאֹ֣ד מְאֹ֔ד",
+        "LXX": "καὶ ἐφοβήθησαν σφόδρα ,",
+        "VUL": "Timuérunt illi veheménter ,",
+        "SP": null,
+        "KJV": "But they were exceedingly afraid ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and said , Behold , two kings stood not before him :",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמְר֔וּ הִנֵּה֙ שְׁנֵ֣י הַ מְּלָכִ֔ים לֹ֥א עָמְד֖וּ לְ פָנָ֑י",
+        "LXX": "καὶ εἶπον Ἰδοὺ οἱ δύο βασιλεῖς οὐκ ἔστησαν κατὰ πρόσωπον αὐτοῦ ,",
+        "VUL": "et dixérunt : Ecce duo reges non potuérunt stare coram eo ,",
+        "SP": null,
+        "KJV": "and said , Behold , two kings stood not before him :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "how then shall we stand ?",
+      "traditions": {
+        "WLC": "ו וְ אֵ֖יךְ נַעֲמֹ֥ד אֲנָֽחְנוּ",
+        "LXX": "καὶ πῶς στησόμεθα ἡμεῖς ;",
+        "VUL": "et quómodo nos valébimus resístere ?",
+        "SP": null,
+        "KJV": "how then shall we stand ?",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he that [ was ] over the house , and he that [ was ] over the city , the elders also , and the bringers up [ of the children ] ,",
+      "traditions": {
+        "WLC": "וַ יִּשְׁלַ֣ח אֲשֶׁר עַל הַ בַּ֣יִת וַ אֲשֶׁ֪ר עַל הָ עִ֟יר וְ הַ זְּקֵנִים֩ וְ הָ אֹמְנִ֨ים",
+        "LXX": "καὶ ἀπέστειλαν οἱ ἐπὶ τοῦ οἴκου καὶ οἱ ἐπὶ τῆς πόλεως καὶ οἱ πρεσβύτεροι καὶ οἱ τιθηνοὶ",
+        "VUL": "Misérunt ergo præpósiti domus , et præfécti civitátis , et maióres natu , et nutrítii ,",
+        "SP": null,
+        "KJV": "And he that [ was ] over the house , and he that [ was ] over the city , the elders also , and the bringers up [ of the children ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "sent to Jehu , saying ,",
+      "traditions": {
+        "WLC": "אֶל יֵה֤וּא לֵ אמֹר֙",
+        "LXX": "πρὸς Εἰοὺ λέγοντες",
+        "VUL": "ad Iehu , dicéntes :",
+        "SP": null,
+        "KJV": "sent to Jehu , saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "We [ are ] thy servants ,",
+      "traditions": {
+        "WLC": "עֲבָדֶ֣י ךָ אֲנַ֔חְנוּ",
+        "LXX": "Παῖδές σου ἡμεῖς ,",
+        "VUL": "Servi tui sumus :",
+        "SP": null,
+        "KJV": "We [ are ] thy servants ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and will do all that thou shalt bid us ;",
+      "traditions": {
+        "WLC": "וְ כֹ֛ל אֲשֶׁר תֹּאמַ֥ר אֵלֵ֖י נוּ נַעֲשֶׂ֑ה",
+        "LXX": "καὶ ὅσα ἐὰν εἴπῃς πρὸς ἡμᾶς ποιήσομεν ·",
+        "VUL": "quæcúmque iússeris faciémus ,",
+        "SP": null,
+        "KJV": "and will do all that thou shalt bid us ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "we will not make any king :",
+      "traditions": {
+        "WLC": "לֹֽא נַמְלִ֣יךְ אִ֔ישׁ",
+        "LXX": "οὐ βασιλεύσομεν ἄνδρα ,",
+        "VUL": "nec constituémus nobis regem :",
+        "SP": null,
+        "KJV": "we will not make any king :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "do thou [ that which is ] good in thine eyes .",
+      "traditions": {
+        "WLC": "הַ טּ֥וֹב בְּ עֵינֶ֖י ךָ עֲשֵֽׂה",
+        "LXX": "τὸ ἀγαθὸν ἐν ὀφθαλμοῖς σου ποιήσομεν .",
+        "VUL": "quæcúmque tibi placent , fac .",
+        "SP": null,
+        "KJV": "do thou [ that which is ] good in thine eyes .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then he wrote a letter the second time to them , saying ,",
+      "traditions": {
+        "WLC": "וַ יִּכְתֹּ֣ב אֲלֵי הֶם֩ סֵ֨פֶר שֵׁנִ֜ית לֵ אמֹ֗ר",
+        "LXX": "καὶ ἔγραψεν πρὸς αὐτοὺς βιβλίον δεύτερον λέγων",
+        "VUL": "Rescrípsit autem eis lítteras secúndo , dicens :",
+        "SP": null,
+        "KJV": "Then he wrote a letter the second time to them , saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "If ye [ be ] mine ,",
+      "traditions": {
+        "WLC": "אִם לִ֨ י אַתֶּ֜ם",
+        "LXX": "Εἰ ἐμοὶ ὑμεῖς",
+        "VUL": "Si mei estis ,",
+        "SP": null,
+        "KJV": "If ye [ be ] mine ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and [ if ] ye will hearken unto my voice ,",
+      "traditions": {
+        "WLC": "וּ לְ קֹלִ֣ י אַתֶּ֣ם שֹׁמְעִ֗ים",
+        "LXX": "καὶ τῆς φωνῆς μου ὑμεῖς εἰσακούετε ,",
+        "VUL": "et obedítis mihi ,",
+        "SP": null,
+        "KJV": "and [ if ] ye will hearken unto my voice ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "take ye the heads of the men your master ’s sons ,",
+      "traditions": {
+        "WLC": "קְחוּ֙ אֶת רָאשֵׁי֙ אַנְשֵׁ֣י בְנֵֽי אֲדֹנֵי כֶ֔ם",
+        "LXX": "λάβετε τὴν κεφαλὴν ἀνδρῶν τῶν υἱῶν τοῦ κυρίου ὑμῶν",
+        "VUL": "tóllite cápita filiórum dómini vestri ,",
+        "SP": null,
+        "KJV": "take ye the heads of the men your master ’s sons ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and come to me to Jezreel by to morrow this time .",
+      "traditions": {
+        "WLC": "וּ בֹ֧אוּ אֵלַ֛ י כָּ עֵ֥ת מָחָ֖ר יִזְרְעֶ֑אלָ ה",
+        "LXX": "καὶ ἐνέγκατε πρὸς μὲ ὡς ἡ ὥρα αὔριον εἰς Ἰσραήλ .",
+        "VUL": "et veníte ad me hac eádem hora cras in Iézrahel .",
+        "SP": null,
+        "KJV": "and come to me to Jezreel by to morrow this time .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "Now the king ’s sons , [ being ] seventy persons ,",
+      "traditions": {
+        "WLC": "וּ בְנֵ֤י הַ מֶּ֨לֶךְ֙ שִׁבְעִ֣ים אִ֔ישׁ",
+        "LXX": "καὶ οἱ υἱοὶ τοῦ βασιλέως ἦσαν ἑβδομήκοντα ἄνδρες ·",
+        "VUL": "Porro fílii regis , septuagínta viri ,",
+        "SP": null,
+        "KJV": "Now the king ’s sons , [ being ] seventy persons , [ were ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "[ were ] with the great men of the city , which brought them up .",
+      "traditions": {
+        "WLC": "אֶת גְּדֹלֵ֥י הָ עִ֖יר מְגַדְּלִ֥ים אוֹתָֽ ם",
+        "LXX": "οὗτοι ἁδροὶ τῆς πόλεως ἐξέτρεφον αὐτούς .",
+        "VUL": "apud optimátes civitátes nutriebántur .",
+        "SP": null,
+        "KJV": "with the great men of the city , which brought them up .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass , when the letter came to them ,",
+      "traditions": {
+        "WLC": "וַ יְהִ֗י כְּ בֹ֤א הַ סֵּ֨פֶר֙ אֲלֵי הֶ֔ם",
+        "LXX": "καὶ ἐγένετο ὡς ἦλθεν τὸ βιβλίον πρὸς αὐτούς ,",
+        "VUL": "Cumque veníssent lítteras ad eos ,",
+        "SP": null,
+        "KJV": "And it came to pass , when the letter came to them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that they took the king ’s sons ,",
+      "traditions": {
+        "WLC": "וַ יִּקְחוּ֙ אֶת בְּנֵ֣י הַ מֶּ֔לֶךְ",
+        "LXX": "καὶ ἔλαβον τοὺς υἱοὺς τοῦ βασιλέως",
+        "VUL": "tulérunt fílios regis ,",
+        "SP": null,
+        "KJV": "that they took the king ’s sons ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and slew seventy persons ,",
+      "traditions": {
+        "WLC": "וַֽ יִּשְׁחֲט֖וּ שִׁבְעִ֣ים אִ֑ישׁ",
+        "LXX": "καὶ ἔσφαξαν αὐτούς , ἑβδομήκοντα ἄνδρας ·",
+        "VUL": "et occidérunt septuagínta viros ,",
+        "SP": null,
+        "KJV": "and slew seventy persons ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and put their heads in baskets ,",
+      "traditions": {
+        "WLC": "וַ יָּשִׂ֤ימוּ אֶת רָֽאשֵׁי הֶם֙ בַּ דּוּדִ֔ים",
+        "LXX": "καὶ ἔθηκαν τὰς κεφαλὰς αὐτῶν ἐν καρτάλλοις",
+        "VUL": "et posuérunt cápita eórum in cóphinis ,",
+        "SP": null,
+        "KJV": "and put their heads in baskets ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and sent him [ them ] to Jezreel .",
+      "traditions": {
+        "WLC": "וַ יִּשְׁלְח֥וּ אֵלָ֖י ו יִזְרְעֶֽאלָ ה",
+        "LXX": "καὶ ἀπέστειλαν αὐτὰς πρὸς αὐτὸν εἰς Ἰσραήλ .",
+        "VUL": "et misérunt ad eum in Iézrahel .",
+        "SP": null,
+        "KJV": "and sent him [ them ] to Jezreel .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And there came a messenger , and told him ,",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֤א הַ מַּלְאָךְ֙ וַ יַּגֶּד ל֣ וֹ",
+        "LXX": "καὶ ἦλθεν ὁ ἄγγελος καὶ ἀπήγγειλεν",
+        "VUL": "Venit autem núntius , et indicávit ei ,",
+        "SP": null,
+        "KJV": "And there came a messenger , and told him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying , They have brought the heads of the king ’s sons .",
+      "traditions": {
+        "WLC": "לֵ אמֹ֔ר הֵבִ֖יאוּ רָאשֵׁ֣י בְנֵֽי הַ מֶּ֑לֶךְ",
+        "LXX": "λέγων Ἤνεγκα τὰς κεφαλὰς τῶν υἱῶν τοῦ βασιλέως ·",
+        "VUL": "dicens : Attulérunt cápita filiórum regis .",
+        "SP": null,
+        "KJV": "saying , They have brought the heads of the king ’s sons .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And he said , Lay ye them in two heaps",
+      "traditions": {
+        "WLC": "וַ יֹּ֗אמֶר שִׂ֣ימוּ אֹתָ֞ ם שְׁנֵ֧י צִבֻּרִ֛ים",
+        "LXX": "καὶ εἶπεν Θέτε αὐτὰς βουνοὺς δύο",
+        "VUL": "Qui respóndit : Pónite ea ad duos acérvos",
+        "SP": null,
+        "KJV": "And he said , Lay ye them in two heaps",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "at the entering in of the gate until the morning .",
+      "traditions": {
+        "WLC": "פֶּ֥תַח הַ שַּׁ֖עַר עַד הַ בֹּֽקֶר",
+        "LXX": "παρὰ τὴν θύραν τῆς πύλης πόλεως εἰς πρωί .",
+        "VUL": "iuxta intróitum portæ usque mane .",
+        "SP": null,
+        "KJV": "at the entering in of the gate until the morning .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass in the morning ,",
+      "traditions": {
+        "WLC": "וַ יְהִ֤י בַ בֹּ֨קֶר֙",
+        "LXX": "καὶ ἐγένετο πρωὶ",
+        "VUL": "Cumque diluxísset ,",
+        "SP": null,
+        "KJV": "And it came to pass in the morning ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that he went out , and stood ,",
+      "traditions": {
+        "WLC": "וַ יֵּצֵ֣א וַֽ יַּעֲמֹ֔ד",
+        "LXX": "καὶ ἐξῆλθεν καὶ ἔστη ,",
+        "VUL": "egréssus est , stans",
+        "SP": null,
+        "KJV": "that he went out , and stood ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and said to all the people ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר֙ אֶל כָּל הָ עָ֔ם",
+        "LXX": "καὶ εἶπεν πρὸς πάντα τὸν λαόν",
+        "VUL": "dixit ad omnem pópulum :",
+        "SP": null,
+        "KJV": "and said to all the people ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Ye [ be ] righteous :",
+      "traditions": {
+        "WLC": "צַדִּקִ֖ים אַתֶּ֑ם",
+        "LXX": "Δίκαιοι ὑμεῖς ,",
+        "VUL": "Iusti estis :",
+        "SP": null,
+        "KJV": "Ye [ be ] righteous :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "behold , I conspired against my master , and slew him :",
+      "traditions": {
+        "WLC": "הִנֵּ֨ה אֲנִ֜י קָשַׁ֤רְתִּי עַל אֲדֹנִ י֙ וָ אֶהְרְגֵ֔ הוּ",
+        "LXX": "ἰδοὺ ἐγώ εἰμι συνεστράφην ἐπὶ τὸν κύριόν μου καὶ ἀπέκτεινα αὐτόν ;",
+        "VUL": "si ego coniurávi contra dóminum meum , et interféci eum ,",
+        "SP": null,
+        "KJV": "behold , I conspired against my master , and slew him :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "but who slew all these ?",
+      "traditions": {
+        "WLC": "וּ מִ֥י הִכָּ֖ה אֶת כָּל אֵֽלֶּה",
+        "LXX": "καὶ τίς ἐπάταξεν πάντας τούτους ;",
+        "VUL": "quis percússit omnes hos ?",
+        "SP": null,
+        "KJV": "but who slew all these ?",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Know now that there shall fall unto the earth nothing of the word of the LORD ,",
+      "traditions": {
+        "WLC": "דְּע֣וּ אֵפ֗וֹא כִּי֩ לֹ֨א יִפֹּ֜ל מִ דְּבַ֤ר יְהוָה֙ אַ֔רְצָ ה",
+        "LXX": "ἴδετε ἀφφώ , ὅτι οὐ πεσεῖται ἀπὸ τοῦ ῥήματος Κυρίου εἰς τὴν γῆν",
+        "VUL": "Vidéte ergo nunc quóniam non cécidit de sermónibus Dómini in terram ,",
+        "SP": null,
+        "KJV": "Know now that there shall fall unto the earth nothing of the word of the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which the LORD spake concerning the house of Ahab :",
+      "traditions": {
+        "WLC": "אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה עַל בֵּ֣ית אַחְאָ֑ב",
+        "LXX": "οὗ ἐλάλησεν Κύριος ἐπὶ τὸν οἶκον Ἀχαάβ ·",
+        "VUL": "quos locútus est Dóminus super domum Achab :",
+        "SP": null,
+        "KJV": "which the LORD spake concerning the house of Ahab :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for the LORD hath done [ that ] which he spake by his servant Elijah .",
+      "traditions": {
+        "WLC": "וַ יהוָ֣ה עָשָׂ֔ה אֵ֚ת אֲשֶׁ֣ר דִּבֶּ֔ר בְּ יַ֖ד עַבְדּ֥ וֹ אֵלִיָּֽהוּ",
+        "LXX": "καὶ Κύριος ἐποίησεν ὅσα ἐλάλησεν ἐν χειρὶ δούλου αὐτοῦ Ἠλειού .",
+        "VUL": "et Dóminus fecit quod locútus est in manu servi sui Elíæ .",
+        "SP": null,
+        "KJV": "for the LORD hath done [ that ] which he spake by his servant Elijah .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "So Jehu slew all that remained of the house of Ahab in Jezreel",
+      "traditions": {
+        "WLC": "וַ יַּ֣ךְ יֵה֗וּא אֵ֣ת כָּל הַ נִּשְׁאָרִ֤ים לְ בֵית אַחְאָב֙ בְּ יִזְרְעֶ֔אל",
+        "LXX": "καὶ ἐπάταξεν Εἰοὺ πάντας τοὺς ἐν τῷ οἴκῳ Ἀχαὰβ καταλειφθέντας ἐν Ἰσραήλ ,",
+        "VUL": "Percússit ígitur Iehu omnes , qui réliqui erant de domo Achab in Iézrahel ,",
+        "SP": null,
+        "KJV": "So Jehu slew all that remained of the house of Ahab in Jezreel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and all his great men , and his kinsfolks , and his priests",
+      "traditions": {
+        "WLC": "וְ כָל גְּדֹלָ֖י ו וּ מְיֻדָּעָ֣י ו וְ כֹהֲנָ֑י",
+        "LXX": "καὶ πάντας τοὺς ἁδροὺς αὐτοῦ καὶ τοὺς γνωστους αὐτοῦ καὶ τοὺς ἱερεῖς αὐτοῦ ,",
+        "VUL": "et univérsos optimátes eius , et notos , et sacerdótes ,",
+        "SP": null,
+        "KJV": "and all his great men , and his kinsfolks , and his priests ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "until he left him none remaining",
+      "traditions": {
+        "WLC": "ו עַד בִּלְתִּ֥י הִשְׁאִֽיר ל֖ וֹ שָׂרִֽיד",
+        "LXX": "ὥστε μὴ καταλιπεῖν αὐτοὺς κατάλιμμα .",
+        "VUL": "donec non remanérent ex eo relíquiæ .",
+        "SP": null,
+        "KJV": "until he left him none remaining .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he arose and departed , and came to Samaria",
+      "traditions": {
+        "WLC": "וַ יָּ֨קָם֙ וַ יָּבֹ֔א וַ יֵּ֖לֶךְ שֹׁמְר֑וֹן",
+        "LXX": "καὶ ἀνέστη καὶ ἐπορεύθη εἰς Σαμάρειαν .",
+        "VUL": "Et surréxit , et venit in Samaríam :",
+        "SP": null,
+        "KJV": "And he arose and departed , and came to Samaria . [ And ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as he was at the shearing house in the way",
+      "traditions": {
+        "WLC": "ה֛וּא בֵּֽית עֵ֥קֶד הָרֹעִ֖ים בַּ דָּֽרֶךְ",
+        "LXX": "Αὐτὸς ἐν Βαιθάκαθ τῶν ποιμένων ἐν τῇ ὁδῷ ,",
+        "VUL": "cumque venísset ad Cámeram pastórum in via ,",
+        "SP": null,
+        "KJV": "as he [ was ] at the shearing house in the way ,",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Jehu met with the brethren of Ahaziah king of Judah",
+      "traditions": {
+        "WLC": "וְ יֵה֗וּא מָצָא֙ אֶת אֲחֵי֙ אֲחַזְיָ֣הוּ מֶֽלֶךְ יְהוּדָ֔ה",
+        "LXX": "καὶ Εἰοὺ εὗρεν τοὺς ἀδελφοὺς Ὀχοζείου βασιλέως Ἰούδα",
+        "VUL": "invénit fratres Ochozíæ regis Iuda :",
+        "SP": null,
+        "KJV": "Jehu met with the brethren of Ahaziah king of Judah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and said , Who ye ?",
+      "traditions": {
+        "WLC": "וַ יֹּ֖אמֶר מִ֣י אַתֶּ֑ם",
+        "LXX": "καὶ εἶπεν Τίνες ὑμεῖς ;",
+        "VUL": "dixítque ad eos : Quinam estis vos ?",
+        "SP": null,
+        "KJV": "and said , Who [ are ] ye ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And they answered , We are the brethren of Ahaziah",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֗וּ אֲחֵ֤י אֲחַזְיָ֨הוּ֙ אֲנַ֔חְנוּ",
+        "LXX": "καὶ εἶπον Οἱ ἀδελφοὶ Ὀχοζείου ἡμεῖς ,",
+        "VUL": "Qui respondérunt : Fratres Ochozíæ sumus ,",
+        "SP": null,
+        "KJV": "And they answered , We [ are ] the brethren of Ahaziah ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and we go down to salute the children of the king and the children of the queen",
+      "traditions": {
+        "WLC": "וַ נֵּ֛רֶד לִ שְׁל֥וֹם בְּנֵֽי הַ מֶּ֖לֶךְ וּ בְנֵ֥י הַ גְּבִירָֽה",
+        "LXX": "καὶ κατέβημεν εἰς εἰρήνην τῶν υἱῶν τοῦ βασιλέως καὶ τῶν υἱῶν τῆς δυναστευούσης .",
+        "VUL": "et descéndimus ad salutándos fílios regis , et fílios regínæ .",
+        "SP": null,
+        "KJV": "and we go down to salute the children of the king and the children of the queen .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said , Take them alive",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר֙ תִּפְשׂ֣וּ ם חַיִּ֔ים",
+        "LXX": "καὶ εἶπεν Συλλάβετε αὐτὺς ζῶντας ·",
+        "VUL": "Qui ait : Comprehéndite eos vivos .",
+        "SP": null,
+        "KJV": "And he said , Take them alive .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And they took them alive",
+      "traditions": {
+        "WLC": "וַֽ יִּתְפְּשׂ֖וּ ם חַיִּ֑ים",
+        "LXX": null,
+        "VUL": "Quos cum comprehendíssent vivos ,",
+        "SP": null,
+        "KJV": "And they took them alive ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and slew them at the pit of the shearing house , even two and forty men",
+      "traditions": {
+        "WLC": "וַֽ יִּשְׁחָט֞וּ ם אֶל בּ֣וֹר בֵּֽית עֵ֗קֶד אַרְבָּעִ֤ים וּ שְׁנַ֨יִם֙ אִ֔ישׁ",
+        "LXX": "καὶ ἔσφαξαν αὐτοὺς εἰς Βαιθάκαθ τεσσεράκοντα καὶ δύο ἄνδρας ;",
+        "VUL": "iugulavérunt eos in cistérna iuxta Cámeram , quadragínta duos viros :",
+        "SP": null,
+        "KJV": "and slew them at the pit of the shearing house , [ even ] two and forty men ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "neither left he any of them",
+      "traditions": {
+        "WLC": "וְ לֹֽא הִשְׁאִ֥יר אִ֖ישׁ מֵ הֶֽם",
+        "LXX": "οὐ κατέλιπεν ἄνδρα ἐξ αὐτῶν .",
+        "VUL": "et non relíquit ex eis quemquam .",
+        "SP": null,
+        "KJV": "neither left he any of them .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And when he was departed thence , he lighted on Jehonadab the son of Rechab coming to meet him",
+      "traditions": {
+        "WLC": "וַ יֵּ֣לֶךְ מִ שָּׁ֡ם וַ יִּמְצָ֣א אֶת יְהוֹנָדָב֩ בֶּן רֵכָ֨ב לִ קְרָאת֜ וֹ",
+        "LXX": "Καὶ ἐπορεύθη ἐκεῖθεν καὶ ἔλαβεν τὸν Ἰωναδὰβ υἱὸν Ῥηχὰβ εἰς ἀπαντὴν αὐτοῦ ,",
+        "VUL": "Cumque abiísset inde , invénit Iónadab fílium Rechab in occúrsum sibi ,",
+        "SP": null,
+        "KJV": "And when he was departed thence , he lighted on Jehonadab the son of Rechab [ coming ] to meet him :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he saluted him",
+      "traditions": {
+        "WLC": "וַֽ יְבָרְכֵ֗ הוּ",
+        "LXX": "καὶ εὐλόγησεν αὐτόν ;",
+        "VUL": "et benedíxit ei .",
+        "SP": null,
+        "KJV": "and he saluted him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and said to him , Is thine heart right , as my heart is with thy heart ?",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר אֵלָ֜י ו הֲ יֵ֧שׁ אֶת לְבָבְ ךָ֣ יָשָׁ֗ר כַּ אֲשֶׁ֤ר לְבָבִ י֙ עִם לְבָבֶ֔ ךָ",
+        "LXX": "καὶ εἶπεν πρὸς αὐτὸν Εἰού Εἰ ἔστιν καρδία σου μετὰ καρδίας μου εὐθεῖα καθὼς ἡ καρδία μου μετὰ τῆς καρδίας σου ;",
+        "VUL": "Et ait ad eum : Numquid est cor tuum rectum , sicut cor meum cum corde tuo ?",
+        "SP": null,
+        "KJV": "and said to him , Is thine heart right , as my heart [ is ] with thy heart ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And Jehonadab answered , It is",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוֹנָדָ֥ב יֵ֛שׁ",
+        "LXX": "καὶ εἶπεν Ἰωναδάβ Ἔστιν ;",
+        "VUL": "Et ait Iónadab : Est .",
+        "SP": null,
+        "KJV": "And Jehonadab answered , It is .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "If it be , give me thine hand",
+      "traditions": {
+        "WLC": "וָ יֵ֖שׁ תְּנָ֣ ה אֶת יָדֶ֑ ךָ",
+        "LXX": "καὶ εἶπεν Εἰού Καὶ εἰ ἔστιν , δὸς τὴν χεῖρά σου ;",
+        "VUL": "Si est , inquit , da manum tuam .",
+        "SP": null,
+        "KJV": "If it be , give [ me ] thine hand .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "And he gave him his hand",
+      "traditions": {
+        "WLC": "וַ יִּתֵּ֣ן יָד֔ וֹ",
+        "LXX": "καὶ ἔδωκεν τὴν χεῖρα αὐτοῦ ;",
+        "VUL": "Qui dedit ei manum suam .",
+        "SP": null,
+        "KJV": "And he gave [ him ] his hand ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "and he took him up to him into the chariot",
+      "traditions": {
+        "WLC": "וַ יַּעֲלֵ֥ הוּ אֵלָ֖י ו אֶל הַ מֶּרְכָּבָֽה",
+        "LXX": "καὶ ἀνεβίβασεν αὐτὸν πρὸς αὐτὸν ἐπὶ τὸ ἅρμα ,",
+        "VUL": "At ille levávit eum ad se in currum :",
+        "SP": null,
+        "KJV": "and he took him up to him into the chariot .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said , Come with me , and see my zeal for the LORD",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר֙ לְכָ֣ ה אִתִּ֔ י וּ רְאֵ֖ה בְּ קִנְאָתִ֣ י לַ יהוָ֑ה",
+        "LXX": "καὶ εἶπεν πρὸς αὐτόν Δεῦρο μετ᾽ ἐμοῦ καὶ ἴδε ἐν τῷ ζηλῶσαί με τῷ κυρίῳ ·",
+        "VUL": "dixítque ad eum : Veni mecum , et vide zelum meum pro Dómino .",
+        "SP": null,
+        "KJV": "And he said , Come with me , and see my zeal for the LORD .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "So they made him ride in his chariot",
+      "traditions": {
+        "WLC": "וַ יַּרְכִּ֥בוּ אֹת֖ וֹ בְּ רִכְבּֽ וֹ",
+        "LXX": "καὶ ἐπεκάθισεν αὐτὸν ἐν τῷ ἅρματι αὐτοῦ .",
+        "VUL": "Et impósitum in curru suo",
+        "SP": null,
+        "KJV": "So they made him ride in his chariot .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And when he came to Samaria , he slew all that remained unto Ahab in Samaria",
+      "traditions": {
+        "WLC": "וַ יָּבֹא֙ שֹֽׁמְר֔וֹן וַ֠ יַּךְ אֶת כָּל הַ נִּשְׁאָרִ֧ים לְ אַחְאָ֛ב בְּ שֹׁמְר֖וֹן",
+        "LXX": "καὶ εἰσῆλθεν εἰς Σαμάρειαν , καὶ ἐπάταξεν πάντας τοὺς καταλειφθέντας τοῦ Ἀχαὰβ ἐν Σαμαρείᾳ",
+        "VUL": "duxit in Samaríam . Et percússit omnes qui réliqui fúerant de Achab in Samaría",
+        "SP": null,
+        "KJV": "And when he came to Samaria , he slew all that remained unto Ahab in Samaria ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "till he had destroyed him",
+      "traditions": {
+        "WLC": "עַד הִשְׁמִיד֑ וֹ",
+        "LXX": "ἕως τοῦ ἀφανίσαι αὐτόν ,",
+        "VUL": "usque ad unum ,",
+        "SP": null,
+        "KJV": "till he had destroyed him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "according to the saying of the LORD , which he spake to Elijah",
+      "traditions": {
+        "WLC": "כִּ דְבַ֣ר יְהוָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר אֶל אֵלִיָּֽהוּ",
+        "LXX": "κατὰ τὸ ῥῆμα Κυρίου ὃ ἐλάλησεν πρὸς Ἠλειού .",
+        "VUL": "iuxta verbum Dómini , quod locútus est per Elíam .",
+        "SP": null,
+        "KJV": "according to the saying of the LORD , which he spake to Elijah .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jehu gathered all the people together",
+      "traditions": {
+        "WLC": "וַ יִּקְבֹּ֤ץ יֵהוּא֙ אֶת כָּל הָ עָ֔ם",
+        "LXX": "καὶ ἐζήλωσεν Εἰοὺ πάντα τὸν λαὸν",
+        "VUL": "Congregávit ergo Iehu omnem pópulum ,",
+        "SP": null,
+        "KJV": "And Jehu gathered all the people together ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and said unto them , Ahab served Baal a little",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר אֲלֵ הֶ֔ם אַחְאָ֕ב עָבַ֥ד אֶת הַ בַּ֖עַל מְעָ֑ט",
+        "LXX": "καὶ εἶπεν πρὸς αὐτούς Ἀχαὰβ ἐδούλευσεν τῷ Βάαλ ὀλίγα ,",
+        "VUL": "et dixit ad eos : Achab cóluit Baal parum ,",
+        "SP": null,
+        "KJV": "and said unto them , Ahab served Baal a little ; [ but ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Jehu shall serve him much",
+      "traditions": {
+        "WLC": "יֵה֖וּא יַעַבְדֶ֥ נּוּ הַרְבֵּֽה",
+        "LXX": "Εἰοὺ δουλεύσει αὐτῷ πολλά .",
+        "VUL": "ego autem colam eum ámplius .",
+        "SP": null,
+        "KJV": "Jehu shall serve him much .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now therefore call unto me all the prophets of Baal , all his servants , and all his priests",
+      "traditions": {
+        "WLC": "וְ עַתָּ֣ה כָל נְבִיאֵ֣י הַ בַּ֡עַל כָּל עֹבְדָ֣י ו וְ כָל כֹּהֲנָי ו֩ קִרְא֨וּ אֵלַ֜ י",
+        "LXX": "καὶ νῦν , πάντες οἱ προφῆται τοῦ Βάαλ , πάντας τοὺς δούλους αὐτοῦ καὶ τοὺς ἱερεῖς αὐτοῦ καλέσατε πρὸς μέ ;",
+        "VUL": "Nunc ígitur omnes prophétas Baal , et univérsos servos eius , et cunctos sacerdótes ipsíus vocáte ad me :",
+        "SP": null,
+        "KJV": "Now therefore call unto me all the prophets of Baal , all his servants , and all his priests ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "let none be wanting",
+      "traditions": {
+        "WLC": "אִ֣ישׁ אַל יִפָּקֵ֗ד",
+        "LXX": "ἀνὴρ μὴ ἐπισκεπήτω ,",
+        "VUL": "nullus sit qui non véniat ,",
+        "SP": null,
+        "KJV": "let none be wanting :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for I have a great sacrifice to do to Baal",
+      "traditions": {
+        "WLC": "כִּי֩ זֶ֨בַח גָּד֥וֹל לִ י֙ לַ בַּ֔עַל",
+        "LXX": "ὅτι θυσία μεγάλη μοι τῷ Βάαλ ;",
+        "VUL": "sacrifícium enim grande est mihi Baal :",
+        "SP": null,
+        "KJV": "for I have a great sacrifice [ to do ] to Baal ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "whosoever shall be wanting , he shall not live",
+      "traditions": {
+        "WLC": "כֹּ֥ל אֲשֶׁר יִפָּקֵ֖ד לֹ֣א יִֽחְיֶ֑ה",
+        "LXX": "πᾶς ὃς ἐὰν ἐπισκεπῇ οὐ ζήσεται .",
+        "VUL": "quicúmque defúerit , non vivet .",
+        "SP": null,
+        "KJV": "whosoever shall be wanting , he shall not live .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "But Jehu did it in subtilty , to the intent that he might destroy the worshippers of Baal",
+      "traditions": {
+        "WLC": "וְ יֵהוּא֙ עָשָׂ֣ה בְ עָקְבָּ֔ה לְמַ֥עַן הַאֲבִ֖יד אֶת עֹבְדֵ֥י הַ בָּֽעַל",
+        "LXX": "καὶ Εἰοὺ ἐποίησεν ἐν πτερνισμῷ , ἵνα ἀπολέσῃ τοὺς δούλους τοῦ Βάαλ .",
+        "VUL": "Porro Iehu faciébat hoc insidióse , ut dispérderet cultóres Baal .",
+        "SP": null,
+        "KJV": "But Jehu did [ it ] in subtilty , to the intent that he might destroy the worshippers of Baal .",
+        "DSS": "[6Q4] ε ו יהוא עשה ב עקבה למע ]ן#? [ האביד את עבדי ה בעל ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jehu said , Proclaim a solemn assembly for Baal",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר יֵה֗וּא קַדְּשׁ֧וּ עֲצָרָ֛ה לַ בַּ֖עַל",
+        "LXX": "καὶ εἶπεν Εἰού Ἁγιάσατε ἱερείαν τῷ Βάαλ ·",
+        "VUL": "Et dixit : Sanctificáte diem solémnem Baal .",
+        "SP": null,
+        "KJV": "And Jehu said , Proclaim a solemn assembly for Baal .",
+        "DSS": "[6Q4] ו יאמר ] [ יהוא קדשו עצרה ל בעל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And they proclaimed it",
+      "traditions": {
+        "WLC": "וַ יִּקְרָֽאוּ",
+        "LXX": "καὶ ἐκήρυξεν .",
+        "VUL": "Vocavítque ,",
+        "SP": null,
+        "KJV": "And they proclaimed [ it ] .",
+        "DSS": "ו יקראו ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jehu sent through all Israel",
+      "traditions": {
+        "WLC": "וַ יִּשְׁלַ֤ח יֵהוּא֙ בְּ כָל יִשְׂרָאֵ֔ל",
+        "LXX": "καὶ ἀπέστειλεν Εἰοὺ ἐν παντὶ Ἰσραὴλ",
+        "VUL": "et misit in univérsos términos Israel ,",
+        "SP": null,
+        "KJV": "And Jehu sent through all Israel :",
+        "DSS": "[6Q4] ו י ]ש##לח יהוא[  ב כל ישראל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "λέγων Καὶ νῦν πάντες οἱ δοῦλοι αὐτοῦ καὶ πάντες οἱ ἱερεῖς αὐτοῦ καὶ πάντες οἱ προφῆται αὐτοῦ , μηδεὶς ἀπολειπέσθω , ὅτι θυσίαν μεγάλην ποιῶ · ὃς ἂν ἀπολειφθῇ οὐ ζήσεται .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and all the worshippers of Baal came",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֨אוּ֙ כָּל עֹבְדֵ֣י הַ בַּ֔עַל",
+        "LXX": "καὶ ἦλθον πάντες οἱ δοῦλοι τοῦ Βάαλ καὶ πάντες οἱ ἱερεῖς αὐτοῦ καὶ πάντες οἱ προφῆται αὐτοῦ ·",
+        "VUL": "et venérunt cuncti servi Baal :",
+        "SP": null,
+        "KJV": "and all the worshippers of Baal came ,",
+        "DSS": "ו יבאו ] [ כל עבדי ה בעל"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "so that there was not a man left that came not",
+      "traditions": {
+        "WLC": "וְ לֹֽא נִשְׁאַ֥ר אִ֖ישׁ אֲשֶׁ֣ר לֹֽא בָ֑א",
+        "LXX": "οὐ κατελείφθη ἀνὴρ ὃς οὐ παρεγένετο ;",
+        "VUL": "non fuit resíduus ne unus quidem qui non veníret .",
+        "SP": null,
+        "KJV": "so that there was not a man left that came not .",
+        "DSS": "ו לא נשאר איש אשר  ]לא## בא#"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "And they came into the house of Baal",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֨אוּ֙ בֵּ֣ית הַ בַּ֔עַל",
+        "LXX": "καὶ εἰσῆλθον εἰς τὸν οἶκον τοῦ Βάαλ ,",
+        "VUL": "Et ingréssi sunt templum Baal :",
+        "SP": null,
+        "KJV": "And they came into the house of Baal ;",
+        "DSS": "[  ו יבאו בית ה בעל"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and the house of Baal was full from one end to another",
+      "traditions": {
+        "WLC": "וַ יִּמָּלֵ֥א בֵית הַ בַּ֖עַל פֶּ֥ה לָ פֶֽה",
+        "LXX": "καὶ ἐπλήσθη ὁ οἶκος τοῦ Βάαλ στόμα εἰς στόμα .",
+        "VUL": "et repléta est domus Baal , a summo usque ad summum .",
+        "SP": null,
+        "KJV": "and the house of Baal was full from one end to another .",
+        "DSS": "ו ימלא ] [ בית ה בעל פה ל פה ε ׃"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said unto him that [ was ] over the vestry",
+      "traditions": {
+        "WLC": "וַ יֹּ֗אמֶר לַֽ אֲשֶׁר֙ עַל הַ מֶּלְתָּחָ֔ה",
+        "LXX": "καὶ εἶπεν τῷ ἐπὶ τοῦ οἴκου μεσθαάλ",
+        "VUL": "Dixítque his , qui erant super vestes :",
+        "SP": null,
+        "KJV": "And he said unto him that [ was ] over the vestry ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Bring forth vestments for all the worshippers of Baal",
+      "traditions": {
+        "WLC": "הוֹצֵ֣א לְב֔וּשׁ לְ כֹ֖ל עֹבְדֵ֣י הַ בָּ֑עַל",
+        "LXX": "Ἐξάγαγε ἔνδυμα πᾶσι τοῖς δούλοις τοῦ Βάαλ ·",
+        "VUL": "Proférte vestiménta univérsis servis Baal .",
+        "SP": null,
+        "KJV": "Bring forth vestments for all the worshippers of Baal .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And he brought them forth vestments",
+      "traditions": {
+        "WLC": "וַ יֹּצֵ֥א לָ הֶ֖ם הַ מַּלְבּֽוּשׁ",
+        "LXX": "καὶ ἐξήνεγκεν αὐτοῖς ὁ στολιστής .",
+        "VUL": "Et protulérunt eis vestes .",
+        "SP": null,
+        "KJV": "And he brought them forth vestments .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jehu went , and Jehonadab the son of Rechab , into the house of Baal",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֥א יֵה֛וּא וִ יהוֹנָדָ֥ב בֶּן רֵכָ֖ב בֵּ֣ית הַ בָּ֑עַל",
+        "LXX": "καὶ εἰσῆλθεν Εἰοὺ καὶ Ἰωναδὰβ υἱὸς Ῥηχὰβ εἰς οἶκον τοῦ Βάαλ ·",
+        "VUL": "Ingressúsque Iehu , et Iónadab fílius Rechab , templum Baal ,",
+        "SP": null,
+        "KJV": "And Jehu went , and Jehonadab the son of Rechab , into the house of Baal ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and said unto the worshippers of Baal",
+      "traditions": {
+        "WLC": "וַ יֹּ֜אמֶר לְ עֹבְדֵ֣י הַ בַּ֗עַל",
+        "LXX": "καὶ εἶπεν τοῖς δούλοις τοῦ Βάαλ",
+        "VUL": "ait cultóribus Baal :",
+        "SP": null,
+        "KJV": "and said unto the worshippers of Baal ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Search , and look that there be here with you none of the servants of the LORD",
+      "traditions": {
+        "WLC": "חַפְּשׂ֤וּ וּ רְאוּ֙ פֶּן יֶשׁ פֹּ֤ה עִמָּ כֶם֙ מֵ עַבְדֵ֣י יְהוָ֔ה",
+        "LXX": "Ἐρευνήσατε καὶ ἴδετε εἰ ἔστιν μεθ᾽ ὑμῶν τῶν δούλων Κυρίου ,",
+        "VUL": "Perquírite , et vidéte , ne quis forte vobíscum sit de servis Dómini ,",
+        "SP": null,
+        "KJV": "Search , and look that there be here with you none of the servants of the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "but the worshippers of Baal only",
+      "traditions": {
+        "WLC": "כִּ֛י אִם עֹבְדֵ֥י הַ בַּ֖עַל לְ בַדָּֽ ם",
+        "LXX": "ὅτι ἀλλ᾽ ἢ οἱ δοῦλοι τοῦ Βάαλ μονώτατοι .",
+        "VUL": "sed ut sint servi Baal soli .",
+        "SP": null,
+        "KJV": "but the worshippers of Baal only .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And when they went in to offer sacrifices and burnt offerings",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֕אוּ לַ עֲשׂ֖וֹת זְבָחִ֣ים וְ עֹל֑וֹת",
+        "LXX": "καὶ εἰσῆλθεν τοῦ ποιῆσαι τὰ θύματα καὶ τὰ ὁλοκαυτώματα ·",
+        "VUL": "Ingréssi sunt ígitur ut fácerent víctimas et holocáusta :",
+        "SP": null,
+        "KJV": "And when they went in to offer sacrifices and burnt offerings ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Jehu appointed fourscore men without",
+      "traditions": {
+        "WLC": "וְ יֵה֞וּא שָׂם ל֤ וֹ בַ חוּץ֙ שְׁמֹנִ֣ים אִ֔ישׁ",
+        "LXX": "καὶ Εἰοὺ ἔταξεν ἑαυτῷ ἔξω ὀγδοήκοντα ἄνδρας",
+        "VUL": "Iehu autem præparáverat sibi foris octogínta viros ,",
+        "SP": null,
+        "KJV": "Jehu appointed fourscore men without ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and said , [ If ] any of the men whom I have brought into your hands escape",
+      "traditions": {
+        "WLC": "וַ יֹּ֗אמֶר הָ אִ֤ישׁ אֲשֶׁר יִמָּלֵט֙ מִן הָ אֲנָשִׁ֗ים אֲשֶׁ֤ר אֲנִי֙ מֵבִ֣יא עַל יְדֵי כֶ֔ם",
+        "LXX": "καὶ εἶπεν Ἀνὴρ ὃς ἐὰν διασωθῇ ἀπὸ τῶν ἀνδρῶν ὧν ἐγὼ ἀνάγω ἐπὶ χεῖρας ὑμῶν ,",
+        "VUL": "et díxerat eis : Quicúmque fúgerit de homínibus his , quos ego addúxero in manus vestras ,",
+        "SP": null,
+        "KJV": "and said , [ If ] any of the men whom I have brought into your hands escape , [ he that letteth him go ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[he that letteth him go] , his life [ shall be ] for the life of him",
+      "traditions": {
+        "WLC": "נַפְשׁ֖ וֹ תַּ֥חַת נַפְשֽׁ וֹ",
+        "LXX": "ἡ ψυχὴ αὐτοῦ ἀντὶ τῆς ψυχῆς αὐτοῦ .",
+        "VUL": "ánima eius erit pro ánima illíus .",
+        "SP": null,
+        "KJV": "his life [ shall be ] for the life of him .",
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass , as soon as he had made an end of offering the burnt offering",
+      "traditions": {
+        "WLC": "וַ יְהִ֞י כְּ כַלֹּת֣ וֹ לַ עֲשׂ֣וֹת הָ עֹלָ֗ה",
+        "LXX": "καὶ ἐγένετο ὡς συνετέλεσεν ποιῶν τὴν ὁλοκαύτωσιν ,",
+        "VUL": "Factum est autem , cum complétum esset holocáustum ,",
+        "SP": null,
+        "KJV": "And it came to pass , as soon as he had made an end of offering the burnt offering ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that Jehu said to the guard and to the captains , Go in , [ and ] slay them ; let none come forth",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר יֵ֠הוּא לָ רָצִ֨ים וְ לַ שָּׁלִשִׁ֜ים בֹּ֤אוּ הַכּוּ ם֙ אִ֣ישׁ אַל יֵצֵ֔א",
+        "LXX": "καὶ εἶπεν Εἰοὺ τοῖς παρατρέχουσιν καὶ τοῖς τριστάταις Εἰσελθόντες πατάξατε αὐτούς , ἀνὴρ μὴ ἐξελθάτω ἐξ αὐτῶν ·",
+        "VUL": "præcépit Iehu milítibus et dúcibus suis : Ingredímini , et percútite eos : nullus evádat .",
+        "SP": null,
+        "KJV": "that Jehu said to the guard and to the captains , Go in , [ and ] slay them ; let none come forth .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And they smote them with the edge of the sword",
+      "traditions": {
+        "WLC": "וַ יַּכּ֖וּ ם לְ פִי חָ֑רֶב",
+        "LXX": "καὶ ἐπάταξαν αὐτοὺς ἐν στόματι ῥομφαίας ,",
+        "VUL": "Percusserúntque eos in ore gládii ,",
+        "SP": null,
+        "KJV": "And they smote them with the edge of the sword ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the guard and the captains cast [ them ] out",
+      "traditions": {
+        "WLC": "וַ יַּשְׁלִ֗כוּ הָֽ רָצִים֙ וְ הַ שָּׁ֣לִשִׁ֔ים",
+        "LXX": "καὶ ἔρριψαν οἱ παρατρέχοντες καὶ οἱ τριστάται ,",
+        "VUL": "et proiecérunt mílites et duces :",
+        "SP": null,
+        "KJV": "and the guard and the captains cast [ them ] out ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and went to the city of the house of Baal",
+      "traditions": {
+        "WLC": "וַ יֵּלְכ֖וּ עַד עִ֥יר בֵּית הַ בָּֽעַל",
+        "LXX": "καὶ ἐπορεύθησαν ἕως πόλεως οἴκου τοῦ Βάαλ .",
+        "VUL": "et iérunt in civitátem templi Baal ,",
+        "SP": null,
+        "KJV": "and went to the city of the house of Baal .",
+        "DSS": null
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they brought forth the images out of the house of Baal",
+      "traditions": {
+        "WLC": "וַ יֹּצִ֛אוּ אֶת מַצְּב֥וֹת בֵּית הַ בַּ֖עַל",
+        "LXX": "καὶ ἐξήνεγκαν τὴν στολὴν τοῦ Βὰαλ",
+        "VUL": "et protulérunt státuam de fano Baal ,",
+        "SP": null,
+        "KJV": "And they brought forth the images out of the house of Baal ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and burned them",
+      "traditions": {
+        "WLC": "וַֽ יִּשְׂרְפֽוּ הָ",
+        "LXX": "καὶ ἐνέπρησαν αὐτήν .",
+        "VUL": "et combussérunt ,",
+        "SP": null,
+        "KJV": "and burned them .",
+        "DSS": null
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they brake down the image of Baal",
+      "traditions": {
+        "WLC": "וַֽ יִּתְּצ֔וּ אֵ֖ת מַצְּבַ֣ת הַ בָּ֑עַל",
+        "LXX": "καὶ κατέσπασαν τὰς στήλας τοῦ Βάαλ ,",
+        "VUL": "et comminuérunt eam .",
+        "SP": null,
+        "KJV": "And they brake down the image of Baal ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and brake down the house of Baal",
+      "traditions": {
+        "WLC": "וַֽ יִּתְּצוּ֙ אֶת בֵּ֣ית הַ בַּ֔עַל",
+        "LXX": "καὶ ἐπάταξεν αὐτὸν",
+        "VUL": "Destruxérunt quoque ædem Baal ,",
+        "SP": null,
+        "KJV": "and brake down the house of Baal ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and made it a draught house unto this day",
+      "traditions": {
+        "WLC": "וַ יְשִׂמֻ֥ הוּ ל מחראות עַד הַ יּֽוֹם",
+        "LXX": "εἰς λυτρῶνας ἕως τῆς ἡμέρας ταύτης .",
+        "VUL": "et fecérunt pro ea latrínas usque in diem hanc .",
+        "SP": null,
+        "KJV": "and made it a draught house unto this day .",
+        "DSS": null
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus Jehu destroyed Baal out of Israel",
+      "traditions": {
+        "WLC": "וַ יַּשְׁמֵ֥ד יֵה֛וּא אֶת הַ בַּ֖עַל מִ יִּשְׂרָאֵֽל",
+        "LXX": "καὶ ἠφάνισεν Εἰοὺ τὸν Βάαλ ἐξ Ἰσραήλ .",
+        "VUL": "Delévit ítaque Iehu Baal de Israel :",
+        "SP": null,
+        "KJV": "Thus Jehu destroyed Baal out of Israel .",
+        "DSS": null
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "Howbeit [ from ] the sins of Jeroboam the son of Nebat , who made Israel to sin",
+      "traditions": {
+        "WLC": "רַ֠ק חֲטָאֵ֞י יָרָבְעָ֤ם בֶּן נְבָט֙ אֲשֶׁ֣ר הֶחֱטִ֣יא אֶת יִשְׂרָאֵ֔ל",
+        "LXX": "πλὴν ἁμαρτιῶν Ἰεροβοὰμ υἱοῦ Ναβὰτ ὃς ἐξήμαρτεν τὸν Ἰσραήλ ,",
+        "VUL": "verúmtamen a peccátis Ieróboam fílii Nabat , qui peccáre fecit Israel ,",
+        "SP": null,
+        "KJV": "Howbeit [ from ] the sins of Jeroboam the son of Nebat , who made Israel to sin ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Jehu departed not from after them",
+      "traditions": {
+        "WLC": "לֹֽא סָ֥ר יֵה֖וּא מֵ אַֽחֲרֵי הֶ֑ם",
+        "LXX": "οὐκ ἀπέστη Εἰοὺ ἔμπροσθεν αὐτῶν ,",
+        "VUL": "non recéssit ,",
+        "SP": null,
+        "KJV": "Jehu departed not from after them , [ to wit ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[to wit] , the golden calves that [ were ] in Bethel , and that [ were ] in Dan",
+      "traditions": {
+        "WLC": "עֶגְלֵי֙ הַ זָּהָ֔ב אֲשֶׁ֥ר בֵּֽית אֵ֖ל וַ אֲשֶׁ֥ר בְּ דָֽן",
+        "LXX": "αἱ δαμάλεις αἱ χρυσαῖ ἐν Βαιθὴλ καὶ ἐν Δάν .",
+        "VUL": "nec derelíquit vítulos áureos , qui erant in Bethel , et in Dan .",
+        "SP": null,
+        "KJV": "the golden calves that [ were ] in Bethel , and that [ were ] in Dan .",
+        "DSS": null
+      }
+    }
+  ],
+  "30": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto Jehu",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוָ֜ה אֶל יֵה֗וּא",
+        "LXX": "Καὶ εἶπεν Κύριος πρὸς Εἰού",
+        "VUL": "Dixit autem Dóminus ad Iehu :",
+        "SP": null,
+        "KJV": "And the LORD said unto Jehu ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Because thou hast done well in executing [ that which is ] right in mine eyes",
+      "traditions": {
+        "WLC": "יַ֤עַן אֲשֶׁר הֱטִיבֹ֨תָ֙ לַ עֲשׂ֤וֹת הַ יָּשָׁר֙ בְּ עֵינַ֔ י",
+        "LXX": "Ἀνθ᾽ ὧν ὅσα ἠγάθυνας ποιῆσαι τὸ εὐθὲς ἐν ὀφθαλμοῖς μου",
+        "VUL": "Quia studióse egísti quod rectum erat , et placébat in óculis meis ,",
+        "SP": null,
+        "KJV": "Because thou hast done well in executing [ that which is ] right in mine eyes , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[and] hast done unto the house of Ahab according to all that [ was ] in mine heart",
+      "traditions": {
+        "WLC": "כְּ כֹל֙ אֲשֶׁ֣ר בִּ לְבָבִ֔ י עָשִׂ֖יתָ לְ בֵ֣ית אַחְאָ֑ב",
+        "LXX": "κατὰ πάντα ὅσα ἐν τῇ καρδίᾳ μου ἐποίησας τῷ οἴκῳ Ἀχαάβ ,",
+        "VUL": "et ómnia quæ erant in corde meo fecísti contra domum Achab :",
+        "SP": null,
+        "KJV": "hast done unto the house of Ahab according to all that [ was ] in mine heart ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "thy children of the fourth [ generation ] shall sit on the throne of Israel",
+      "traditions": {
+        "WLC": "בְּנֵ֣י רְבִעִ֔ים יֵשְׁב֥וּ לְ ךָ֖ עַל כִּסֵּ֥א יִשְׂרָאֵֽל",
+        "LXX": "υἱοὶ τέταρτοι καθήσονταί σοι ἐπὶ θρόνου Ἰσραήλ .",
+        "VUL": "fílii tui usque ad quartam generatiónem sedébunt super thronum Israel .",
+        "SP": null,
+        "KJV": "thy children of the fourth [ generation ] shall sit on the throne of Israel .",
+        "DSS": null
+      }
+    }
+  ],
+  "31": [
+    {
+      "thought_id": 1,
+      "english_reference": "But Jehu took no heed to walk in the law of the LORD God of Israel",
+      "traditions": {
+        "WLC": "וְ יֵה֗וּא לֹ֥א שָׁמַ֛ר לָ לֶ֛כֶת בְּ תֽוֹרַת יְהוָ֥ה אֱלֹהֵֽי יִשְׂרָאֵ֖ל",
+        "LXX": "καὶ Εἰοὺ οὐκ ἐφύλαξεν πορεύεσθαι ἐν νόμῳ Κυρίου θεοῦ Ἰσραὴλ",
+        "VUL": "Porro Iehu non custodívit ut ambuláret in lege Dómini Dei Israel",
+        "SP": null,
+        "KJV": "But Jehu took no heed to walk in the law of the LORD God of Israel",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with all his heart",
+      "traditions": {
+        "WLC": "בְּ כָל לְבָב֑",
+        "LXX": "ἐν ὅλῃ καρδίᾳ αὐτοῦ ,",
+        "VUL": "in toto corde suo :",
+        "SP": null,
+        "KJV": "with all his heart :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for he departed not from the sins of Jeroboam , which made Israel to sin",
+      "traditions": {
+        "WLC": "וֹ לֹ֣א סָ֗ר מֵ עַל֙ חַטֹּ֣אות יָֽרָבְעָ֔ם אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת יִשְׂרָאֵֽל",
+        "LXX": "οὐκ ἀπέστη ἐπάνωθεν ἁμαρτιῶν Ἰεροβοὰμ ὃς ἐξήμαρτεν τὸν Ἰσραήλ .",
+        "VUL": "non enim recéssit a peccátis Ieróboam , qui peccáre fécerat Israel .",
+        "SP": null,
+        "KJV": "for he departed not from the sins of Jeroboam , which made Israel to sin .",
+        "DSS": null
+      }
+    }
+  ],
+  "32": [
+    {
+      "thought_id": 1,
+      "english_reference": "In those days the LORD began to cut Israel short",
+      "traditions": {
+        "WLC": "בַּ יָּמִ֣ים הָ הֵ֔ם הֵחֵ֣ל יְהוָ֔ה לְ קַצּ֖וֹת בְּ יִשְׂרָאֵ֑ל",
+        "LXX": "Ἐν ταῖς ἡμέραις ἐκείναις ἤρξατο Κύριος συνκόπτειν ἐν τῷ Ἰσραὴλ ,",
+        "VUL": "In diébus illis cœpit Dóminus tædére super Israel :",
+        "SP": null,
+        "KJV": "In those days the LORD began to cut Israel short :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Hazael smote them in all the coasts of Israel",
+      "traditions": {
+        "WLC": "וַ יַּכֵּ֥ ם חֲזָאֵ֖ל בְּ כָל גְּב֥וּל יִשְׂרָאֵֽל",
+        "LXX": "καὶ ἐπάταξεν αὐτοὺς Ἁζαὴλ καὶ ἐν παντὶ ὁρίῳ Ἰσραήλ ,",
+        "VUL": "percussítque eos Házael in univérsis fínibus Israel ,",
+        "SP": null,
+        "KJV": "and Hazael smote them in all the coasts of Israel ;",
+        "DSS": null
+      }
+    }
+  ],
+  "33": [
+    {
+      "thought_id": 1,
+      "english_reference": "From Jordan eastward , all the land of Gilead , the Gadites , and the Reubenites , and the Manassites",
+      "traditions": {
+        "WLC": "מִן הַ יַּרְדֵּן֙ מִזְרַ֣ח הַ שֶּׁ֔מֶשׁ אֵ֚ת כָּל אֶ֣רֶץ הַ גִּלְעָ֔ד הַ גָּדִ֥י וְ הָ רֻאובֵנִ֖י וְ הַֽ מְנַשִּׁ֑י",
+        "LXX": "ἀπὸ τοῦ Ἰορδάνου κατ᾽ ἀνατολὰς ἡλίου πᾶσαν τὴν Γαλαάδ , τοῦ Γαδδεὶ καὶ τοῦ Ῥουβὴν καὶ τοῦ Μανασσή ,",
+        "VUL": "a Iordáne contra orientálem plagam , omnem terram Gálaad , et Gad , et Ruben , et Manásse ,",
+        "SP": null,
+        "KJV": "From Jordan eastward , all the land of Gilead , the Gadites , and the Reubenites , and the Manassites ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "from Aroer , which [ is ] by the river Arnon",
+      "traditions": {
+        "WLC": "מֵ עֲרֹעֵר֙ אֲשֶׁ֣ר עַל נַ֣חַל אַרְנֹ֔ן",
+        "LXX": "ἀπὸ Ἀροὴρ ἥ ἐστιν ἐπὶ τοῦ χεὶλους χειμάρρου Ἀρνών ,",
+        "VUL": "ab Aroer , quæ est super torréntem Arnon ,",
+        "SP": null,
+        "KJV": "from Aroer , which [ is ] by the river Arnon ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "even Gilead and Bashan",
+      "traditions": {
+        "WLC": "וְ הַ גִּלְעָ֖ד וְ הַ בָּשָֽׁן",
+        "LXX": "καὶ τὴν Γαλαὰδ καὶ τὴν Βασάν .",
+        "VUL": "et Gálaad , et Basan .",
+        "SP": null,
+        "KJV": "even Gilead and Bashan .",
+        "DSS": null
+      }
+    }
+  ],
+  "34": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now the rest of the acts of Jehu , and all that he did , and all his might",
+      "traditions": {
+        "WLC": "וְ יֶ֨תֶר דִּבְרֵ֥י יֵה֛וּא וְ כָל אֲשֶׁ֥ר עָשָׂ֖ה וְ כָל גְּבוּרָת֑",
+        "LXX": "καὶ τὰ λοιπὰ τῶν λόγων Εἰοὺ καὶ πάντα ὅσα ἐποίησεν καὶ πᾶσα ἡ δυναστεία αὐτοῦ καὶ τὰς συνάψεις ἃς συνῆψεν ,",
+        "VUL": "Réliqua autem verbórum Iehu , et univérsa quæ fecit , et fortitúdo eius ,",
+        "SP": null,
+        "KJV": "Now the rest of the acts of Jehu , and all that he did , and all his might , [ are ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ are ] they not written in the book of the chronicles of the kings of Israel ?",
+      "traditions": {
+        "WLC": "וֹ הֲ לֽוֹא הֵ֣ם כְּתוּבִ֗ים עַל סֵ֛פֶר דִּבְרֵ֥י הַ יָּמִ֖ים לְ מַלְכֵ֥י יִשְׂרָאֵֽל",
+        "LXX": "οὐχὶ ταῦτα γεγραμμένα ἐπὶ βιβλίῳ λόγων τῶν ἡμερῶν τοῖς βασιλεῦσιν Ἰσραήλ ;",
+        "VUL": "nonne hæc scripta sunt in Libro verbórum diérum regum Israel ?",
+        "SP": null,
+        "KJV": "they not written in the book of the chronicles of the kings of Israel ?",
+        "DSS": null
+      }
+    }
+  ],
+  "35": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Jehu slept with his fathers",
+      "traditions": {
+        "WLC": "וַ יִּשְׁכַּ֤ב יֵהוּא֙ עִם אֲבֹתָ֔י",
+        "LXX": "καὶ ἐκοιμήθη Εἰοὺ μετὰ τῶν πατέρων αὐτοῦ ,",
+        "VUL": "Et dormívit Iehu cum pátribus suis ,",
+        "SP": null,
+        "KJV": "And Jehu slept with his fathers :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they buried him in Samaria",
+      "traditions": {
+        "WLC": "ו וַ יִּקְבְּר֥וּ אֹת֖ וֹ בְּ שֹׁמְר֑וֹן",
+        "LXX": "καὶ ἔθαψαν αὐτὸν ἐν Σαμαρείᾳ ·",
+        "VUL": "sepelierúntque eum in Samaría :",
+        "SP": null,
+        "KJV": "and they buried him in Samaria .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And Jehoahaz his son reigned in his stead",
+      "traditions": {
+        "WLC": "וַ יִּמְלֹ֛ךְ יְהוֹאָחָ֥ז בְּנ֖ וֹ תַּחְתָּֽי ו",
+        "LXX": "καὶ ἐβασίλευσεν Ἰωαχὰς υἱὸς αὐτοῦ ἀντ᾽ αὐτοῦ .",
+        "VUL": "et regnávit Ióachaz fílius eius pro eo .",
+        "SP": null,
+        "KJV": "And Jehoahaz his son reigned in his stead .",
+        "DSS": null
+      }
+    }
+  ],
+  "36": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the time that Jehu reigned over Israel in Samaria [ was ] twenty and eight years",
+      "traditions": {
+        "WLC": "וְ הַ יָּמִ֗ים אֲשֶׁ֨ר מָלַ֤ךְ יֵהוּא֙ עַל יִשְׂרָאֵ֔ל עֶשְׂרִ֥ים וּ שְׁמֹנֶֽה שָׁנָ֖ה בְּ שֹׁמְרֽוֹן",
+        "LXX": "καὶ αἱ ἡμέραι ἃς ἐβασίλευσεν Εἰοὺ ἐπὶ Ἰσραὴλ εἴκοσι ὀκτὼ ἔτη ἐν Σαμαρείᾳ .",
+        "VUL": "Dies autem , quos regnávit Iehu super Israel , vigínti et octo anni sunt in Samaría .",
+        "SP": null,
+        "KJV": "And the time that Jehu reigned over Israel in Samaria [ was ] twenty and eight years .",
+        "DSS": null
+      }
+    }
+  ]
+}

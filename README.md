@@ -1,5 +1,7 @@
 # Translator's Hebrew Bible (THB)
 
+![version](https://img.shields.io/badge/version-1.5-c9b037?style=flat-square)
+
 **Powerful, free data and tooling for the Hebrew Bible.**
 
 THB is a structured, open dataset covering six major textual traditions of the Hebrew Bible — with word-level morphology and lexical definitions developed in-house and released under MIT license, blended with the best available open scholarly resources. The included builder turns that data into a fully static hexapla site that runs entirely in the browser — hover any word and get the data.
@@ -21,6 +23,34 @@ THB is a structured, open dataset covering six major textual traditions of the H
 
 Every word carries: lemma, morphological parsing, Strong's number (where applicable), and inline lexical definitions from BDB (Hebrew), LSJ (Greek), and Lewis & Short (Latin).
 
+### Cross-Tradition Alignment
+
+Hover any word and two layers of semantic alignment activate simultaneously across all six columns:
+
+| Highlight | Meaning |
+|-----------|---------|
+| Light gold background | **Thought unit** — the same semantic idea across traditions |
+| Full gold background | **Word counterpart** — the exact lexical equivalent |
+
+
+### DSS Damage Rendering
+
+The DSS column encodes the physical condition of each letter using color:
+
+| Color | Meaning |
+|-------|---------|
+| Greyed out | Reconstructed — letter restored from context inside `[ ]` |
+| Muted gold | Uncertain reading (`?`) |
+| Amber | Damaged letter (`#`) |
+| Orange | Damaged and uncertain (`#?`) |
+| Red-orange | Severely damaged (`##`) |
+| Strikethrough | Scribal cancellation — deleted by the original scribe |
+| Blue superscript | Supralinear insertion — added above the line |
+| Green | Ancient correction |
+| Purple | Modern editorial correction |
+
+The toggle button in the DSS column header strips all damage markup, leaving plain consonantal text.
+
 ---
 
 ## How It Works
@@ -29,23 +59,26 @@ THB is a **build-once, serve-forever** static site. The builder reads structured
 
 ```
 thb/
-├── thb_builder_14.py    ← site builder v1.5 (~1,800 lines)
-├── thb_template_14.html ← HTML/CSS/JS shell (all inline, no external deps)
+├── thb_builder.py       ← site builder (~1,800 lines)
+├── thb_template.html    ← HTML/CSS/JS shell (all inline, no external deps)
 ├── backend/
-│   ├── thb.1.5.mt.json              ← Hebrew text + morphology + full punctuation
-│   ├── thb.1.3.lxx.json             ← Greek text + morphology
-│   ├── thb.1.3.vul.json             ← Latin text + morphology
-│   ├── thb.1.3.sp.json              ← Samaritan Pentateuch
-│   ├── thb.1.3.kjv.json             ← English text + Strong's alignment
-│   ├── thb.1.3.dss.json             ← Dead Sea Scrolls
-│   ├── thb.1.4.lexicon.mt.json      ← MT lexicon (12,321 entries)
-│   ├── thb.1.4.lexicon.lxx.json     ← LXX lexicon (18,248 entries)
-│   ├── thb.1.4.lexicon.vul.json     ← VUL lexicon (11,704 entries)
-│   ├── thb.1.3.versification.json   ← Cross-tradition verse mapping
-│   ├── thb.1.3.aleppo.json          ← Aleppo Codex facsimile page index
-│   ├── oshb_cache/                  ← Cached OSHB MorphHB XML files (39 books)
-│   └── concordance/                 ← Per-book Strong's frequency data (39 files)
-└── public_html/                     ← Builder output
+│   ├── thb.mt.json              ← Hebrew text + morphology + full punctuation
+│   ├── thb.lxx.json             ← Greek text + morphology
+│   ├── thb.vul.json             ← Latin text + morphology
+│   ├── thb.sp.json              ← Samaritan Pentateuch
+│   ├── thb.kjv.json             ← English text + Strong's alignment
+│   ├── thb.dss.json             ← Dead Sea Scrolls
+│   ├── thb.lexicon.mt.json      ← MT lexicon (12,321 entries)
+│   ├── thb.lexicon.lxx.json     ← LXX lexicon (18,248 entries)
+│   ├── thb.lexicon.vul.json     ← VUL lexicon (11,704 entries)
+│   ├── thb.versification.json   ← Cross-tradition verse mapping
+│   ├── thb.aleppo.json          ← Aleppo Codex facsimile page index
+│   ├── oshb_cache/              ← Cached OSHB MorphHB XML files (39 books)
+│   ├── concordance/             ← Per-book Strong's frequency data (39 files)
+│   └── alignment/
+│       ├── thought/wlc/         ← Thought-unit alignment, one JSON per book/chapter
+│       └── word/wlc/            ← Word-level alignment, one JSON per book/chapter
+└── public_html/                 ← Builder output
     ├── static/                      ← Fonts, icons, images (committed)
     ├── about/ license/ privacy/ terms/ search/  ← Static pages (committed)
     └── genesis/1/ exodus/1/ ...     ← Generated chapter pages (not committed)
@@ -61,13 +94,13 @@ Concordance stub pages (~47K files across 6 traditions) exceed Cloudflare Pages'
 
 ```bash
 # Full build — all 39 books, all chapters + concordance pages
-python thb/thb_builder_14.py --concordance
+python thb/thb_builder.py --concordance
 
 # Fast preview — Genesis 1–3 only
-python thb/thb_builder_14.py --mini
+python thb/thb_builder.py --mini
 
 # Preview with concordance stubs (Genesis 1–3)
-python thb/thb_builder_14.py --mini --concordance
+python thb/thb_builder.py --mini --concordance
 ```
 
 Output goes to `public_html/`. The full architecture is documented in [ARCHITECTURE.md](ARCHITECTURE.md).

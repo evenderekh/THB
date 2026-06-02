@@ -1,0 +1,876 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass after these things",
+      "traditions": {
+        "WLC": "וַ יְהִ֗י אַחַר֙ הַ דְּבָרִ֣ים הָ אֵ֔לֶּה",
+        "LXX": "Ἐγένετο δὲ μετὰ τὰ ῥήματα ταῦτα",
+        "VUL": "His ita gestis , áccidit ut",
+        "SP": "ו יהי אחר ה דברים ה אלה",
+        "KJV": "And it came to pass after these things , [ that ]",
+        "DSS": "[4Q1] [ ו יהי אחר ה דברים ה אלה  ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the butler of the king of Egypt and [his] baker had offended",
+      "traditions": {
+        "WLC": "חָֽטְא֛וּ מַשְׁקֵ֥ה מֶֽלֶךְ מִצְרַ֖יִם וְ הָ אֹפֶ֑ה",
+        "LXX": "ἥμαρτεν ὁ ἀρχιοινοχόος τοῦ βασιλέως Αἰγύπτου καὶ ὁ ἀρχισιτοποιὸς",
+        "VUL": "peccárent duo eunúchi , pincérna regis Ægýpti , et pistor ,",
+        "SP": "חטאו משׁקה מלך מצרים ו ה אפה",
+        "KJV": "the butler of the king of Egypt and [ his ] baker had offended",
+        "DSS": "ח##ט#או מ[ שקה  ]מ##ל#ך## מ#צ##ר#ים# ו? ה# א##[ פה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "their lord the king of Egypt",
+      "traditions": {
+        "WLC": "לַ אֲדֹנֵי הֶ֖ם לְ מֶ֥לֶךְ מִצְרָֽיִם",
+        "LXX": "τῷ κυρίῳ αὐτῶν βασιλεῖ Αἰγύπτου .",
+        "VUL": "dómino suo .",
+        "SP": "ל אדניהם ל מלך מצרים",
+        "KJV": "their lord the king of Egypt .",
+        "DSS": "ל אדני׳הם ל מלך מצרים ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Pharaoh was wroth against two [of] his officers",
+      "traditions": {
+        "WLC": "וַ יִּקְצֹ֣ף פַּרְעֹ֔ה עַ֖ל שְׁנֵ֣י סָרִיסָ֑י",
+        "LXX": "καὶ ὠργίσθη Φαραὼ ἐπὶ τοῖς δυσὶν εὐνούχοις αὐτοῦ ,",
+        "VUL": "Iratúsque contra eos Phárao (",
+        "SP": "ו יקצף פרעה על שׁני סריסיו",
+        "KJV": "And Pharaoh was wroth against two [ of ] his officers ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "against the chief of the butlers",
+      "traditions": {
+        "WLC": "ו עַ֚ל שַׂ֣ר הַ מַּשְׁקִ֔ים",
+        "LXX": "ἐπὶ τῷ ἀρχιοινοχόῳ",
+        "VUL": "nam alter pincérnis prǽerat ,",
+        "SP": "על שׂר ה משׁקים",
+        "KJV": "against the chief of the butlers ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and against the chief of the bakers",
+      "traditions": {
+        "WLC": "וְ עַ֖ל שַׂ֥ר הָ אוֹפִֽים",
+        "LXX": "καὶ ἐπὶ τῷ ἀρχισιτοποιῷ ·",
+        "VUL": "alter pistóribus ) ,",
+        "SP": "ו על שׂר ה אפים",
+        "KJV": "and against the chief of the bakers .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he put them in ward in the house of the captain of the guard",
+      "traditions": {
+        "WLC": "וַ יִּתֵּ֨ן אֹתָ֜ ם בְּ מִשְׁמַ֗ר בֵּ֛ית שַׂ֥ר הַ טַבָּחִ֖ים",
+        "LXX": "καὶ ἔθετο αὐτοὺς ἐν φυλακῇ παρὰ τῷ ἀρχιδεσμοφύλακι",
+        "VUL": "misit eos in cárcerem príncipis mílitum ,",
+        "SP": "ו יתן אתם ב משׁמר בית שׂר ה טבחים",
+        "KJV": "And he put them in ward in the house of the captain of the guard ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "into the prison",
+      "traditions": {
+        "WLC": "אֶל בֵּ֣ית הַ סֹּ֑הַר",
+        "LXX": "εἰς τὸ δεσμωτήριον ,",
+        "VUL": "in quo",
+        "SP": "אל בית ה סחר",
+        "KJV": "into the prison ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the place where Joseph [was] bound",
+      "traditions": {
+        "WLC": "מְק֕וֹם אֲשֶׁ֥ר יוֹסֵ֖ף אָס֥וּר שָֽׁם",
+        "LXX": "εἰς τὸν τόπον οὗ Ἰωσὴφ ἀπῆκτο ἐκεῖ .",
+        "VUL": "erat vinctus et Ioseph .",
+        "SP": "מקום אשׁר יוסף אסור שׁם",
+        "KJV": "the place where Joseph [ was ] bound .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the captain of the guard charged Joseph with them",
+      "traditions": {
+        "WLC": "וַ֠ יִּפְקֹד שַׂ֣ר הַ טַּבָּחִ֧ים אֶת יוֹסֵ֛ף אִתָּ֖ ם",
+        "LXX": "καὶ συνέστησεν ὁ ἀρχιδεσμώτης τῷ Ἰωσὴφ αὐτούς ,",
+        "VUL": "At custos cárceris trádidit eos Ioseph ,",
+        "SP": "ו יפקד שׂר ה טבחים את יוסף אתם",
+        "KJV": "And the captain of the guard charged Joseph with them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he served them",
+      "traditions": {
+        "WLC": "וַ יְשָׁ֣רֶת אֹתָ֑ ם",
+        "LXX": "καὶ παρέστη αὐτοῖς ·",
+        "VUL": "qui et ministrábat eis .",
+        "SP": "ו ישׁרת אתם",
+        "KJV": "and he served them :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they continued a season in ward",
+      "traditions": {
+        "WLC": "וַ יִּהְי֥וּ יָמִ֖ים בְּ מִשְׁמָֽר",
+        "LXX": "ἦσαν δὲ ἡμέρας ἐν τῇ φυλακῇ .",
+        "VUL": "Aliquántulum témporis flúxerat , et illi in custódia tenebántur .",
+        "SP": "ו יהיו ימים ב משׁמר",
+        "KJV": "and they continued a season in ward .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they dreamed a dream both of them",
+      "traditions": {
+        "WLC": "וַ יַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵי הֶ֜ם",
+        "LXX": "καὶ ἴδον ἀμφότεροι ἐνύπνιον ,",
+        "VUL": "Viderúntque ambo sómnium",
+        "SP": "ו יחלמו חלום שׁניהם",
+        "KJV": "And they dreamed a dream both of them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "each man his dream in one night",
+      "traditions": {
+        "WLC": "אִ֤ישׁ חֲלֹמ וֹ֙ בְּ לַ֣יְלָה אֶחָ֔ד",
+        "LXX": "ἑκάτερος ἐνύπνιον ἐν μιᾷ νυκτί ,",
+        "VUL": "nocte una ,",
+        "SP": "אישׁ חלמו ב לילה אחד",
+        "KJV": "each man his dream in one night ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "each man according to the interpretation of his dream",
+      "traditions": {
+        "WLC": "אִ֖ישׁ כְּ פִתְר֣וֹן חֲלֹמ֑ וֹ",
+        "LXX": "ὅρασις τοῦ ἐνυπνίου αὐτοῦ ,",
+        "VUL": "iuxta interpretatiónem cóngruam sibi :",
+        "SP": "אישׁ כ פתרון חלמו",
+        "KJV": "each man according to the interpretation of his dream ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the butler and the baker of the king of Egypt",
+      "traditions": {
+        "WLC": "הַ מַּשְׁקֶ֣ה וְ הָ אֹפֶ֗ה אֲשֶׁר֙ לְ מֶ֣לֶךְ מִצְרַ֔יִם",
+        "LXX": "ὁ ἀρχιοινοχόος καὶ ὁ ἀρχισιτοποιὸς οἳ ἦσαν τῷ βασιλεῖ Αἰγύπτου ,",
+        "VUL": null,
+        "SP": "ה משׁקה ו ה אפה אשׁר ל מלך מצרים",
+        "KJV": "the butler and the baker of the king of Egypt ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "which [were] bound in the prison",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר אֲסוּרִ֖ים בְּ בֵ֥ית הַ סֹּֽהַר",
+        "LXX": "οἱ ὄντες ἐν τῷ δεσμωτηρίῳ .",
+        "VUL": null,
+        "SP": "אשׁר אסורים ב בית ה סחר",
+        "KJV": "which [ were ] bound in the prison .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Joseph came in unto them in the morning",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֧א אֲלֵי הֶ֛ם יוֹסֵ֖ף בַּ בֹּ֑קֶר",
+        "LXX": "εἰσῆλθεν δὲ πρὸς αὐτοὺς τὸ πρωὶ Ἰωσήφ ,",
+        "VUL": "ad quos cum introísset Ioseph mane ,",
+        "SP": "ו יבא אליהם יוסף ב בקר",
+        "KJV": "And Joseph came in unto them in the morning ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and looked upon them",
+      "traditions": {
+        "WLC": "וַ יַּ֣רְא אֹתָ֔ ם",
+        "LXX": "καὶ ἴδεν αὐτοὺς",
+        "VUL": "et vidísset eos",
+        "SP": "ו ירא אתם",
+        "KJV": "and looked upon them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and , behold , they [ were ] sad .",
+      "traditions": {
+        "WLC": "וְ הִנָּ֖ ם זֹעֲפִֽים",
+        "LXX": "καὶ ἦσαν τεταραγμένοι .",
+        "VUL": "tristes ,",
+        "SP": "ו הנם זעפים",
+        "KJV": "and , behold , they [ were ] sad .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he asked Pharaoh ’s officers that [ were ] with him in the ward of his lord ’s house ,",
+      "traditions": {
+        "WLC": "וַ יִּשְׁאַ֞ל אֶת סְרִיסֵ֣י פַרְעֹ֗ה אֲשֶׁ֨ר אִתּ֧ וֹ בְ מִשְׁמַ֛ר בֵּ֥ית אֲדֹנָ֖י",
+        "LXX": "καὶ ἠρώτα τοὺς εὐνούχους Φαραώ , οἵ ἦσαν μετ᾽ αὐτοῦ ἐν τῇ φυλακῇ παρὰ τῷ κυρίῳ αὐτοῦ ,",
+        "VUL": "sciscitátus est eos ,",
+        "SP": "ו ישׁאל את סריסי פרעה אשׁר אתו ב משׁמר בית אדניו",
+        "KJV": "And he asked Pharaoh ’s officers that [ were ] with him in the ward of his lord ’s house ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying ,",
+      "traditions": {
+        "WLC": "ו לֵ אמֹ֑ר",
+        "LXX": "λέγων",
+        "VUL": "dicens :",
+        "SP": "ל אמר",
+        "KJV": "saying ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Wherefore look ye [ so ] sadly to day ?",
+      "traditions": {
+        "WLC": "מַדּ֛וּעַ פְּנֵי כֶ֥ם רָעִ֖ים הַ יּֽוֹם",
+        "LXX": "Τί ὅτι τὰ πρόσωπα ὑμῶν σκυθρωπὰ σήμερον ;",
+        "VUL": "Cur trístior est hódie sólito fácies vestra ?",
+        "SP": "מדוע פניכם רעים ה יום",
+        "KJV": "Wherefore look ye [ so ] sadly to day ?",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they said unto him ,",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֣וּ אֵלָ֔י",
+        "LXX": "οἱ δὲ εἶπαν αὐτῷ",
+        "VUL": "Qui respondérunt :",
+        "SP": "ו יאמרו אליו",
+        "KJV": "And they said unto him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "We have dreamed a dream ,",
+      "traditions": {
+        "WLC": "ו חֲל֣וֹם חָלַ֔מְנוּ",
+        "LXX": "Ἐνύπνιον ἴδομεν ,",
+        "VUL": "Sómnium vídimus ,",
+        "SP": "חלום חלמנו",
+        "KJV": "We have dreamed a dream ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and [ there is ] no interpreter of it .",
+      "traditions": {
+        "WLC": "וּ פֹתֵ֖ר אֵ֣ין אֹת֑ וֹ",
+        "LXX": "καὶ ὁ συγκρίνων αὐτὸ οὐκ ἔστιν .",
+        "VUL": "et non est qui interpretétur nobis .",
+        "SP": "ו פתר אין אתו",
+        "KJV": "and [ there is ] no interpreter of it .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And Joseph said unto them ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר אֲלֵ הֶ֜ם יוֹסֵ֗ף",
+        "LXX": "εἶπεν δὲ αὐτοῖς Ἰωσήφ",
+        "VUL": "Dixítque ad eos Ioseph :",
+        "SP": "ו יאמר אליהם יוסף",
+        "KJV": "And Joseph said unto them , [ Do ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "[ Do ] not interpretations [ belong ] to God ?",
+      "traditions": {
+        "WLC": "הֲ ל֤וֹא לֵֽ אלֹהִים֙ פִּתְרֹנִ֔ים",
+        "LXX": "Οὐχὶ διὰ τοῦ θεοῦ ἡ διασάφησις αὐτῶν ἐστίν ;",
+        "VUL": "Numquid non Dei est interpretátio ?",
+        "SP": "ה לוא ל אלהים פתרנים",
+        "KJV": "not interpretations [ belong ] to God ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "tell me [ them ] , I pray you .",
+      "traditions": {
+        "WLC": "סַפְּרוּ נָ֖א לִֽ י",
+        "LXX": "διηγήσασθε οὖν μοι .",
+        "VUL": "reférte mihi quid vidéritis .",
+        "SP": "ספרו נא לי",
+        "KJV": "tell me [ them ] , I pray you .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the chief butler told his dream to Joseph ,",
+      "traditions": {
+        "WLC": "וַ יְסַפֵּ֧ר שַֽׂר הַ מַּשְׁקִ֛ים אֶת חֲלֹמ֖ וֹ לְ יוֹסֵ֑ף",
+        "LXX": "καὶ διηγήσατο ὁ ἀρχιοινοχόος τὸ ἐνύπνιον αὐτοῦ τῷ Ἰωσήφ",
+        "VUL": "Narrávit prior , præpósitus pincernárum , sómnium suum :",
+        "SP": "ו יספר שׂר ה משׁקים את חלמו ל יוסף",
+        "KJV": "And the chief butler told his dream to Joseph ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and said to him ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר ל֔ וֹ",
+        "LXX": "καὶ εἶπεν",
+        "VUL": null,
+        "SP": "ו יאמר לו",
+        "KJV": "and said to him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "In my dream ,",
+      "traditions": {
+        "WLC": "בַּ חֲלוֹמִ֕ י",
+        "LXX": "Ἐν τῷ ὕπνῳ μου",
+        "VUL": "Vidébam",
+        "SP": "ב חלמי",
+        "KJV": "In my dream ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "behold , a vine [ was ] before me ;",
+      "traditions": {
+        "WLC": "וְ הִנֵּה גֶ֖פֶן לְ פָנָֽ י",
+        "LXX": "ἦν ἄμπελος ἐναντίον μου ·",
+        "VUL": "coram me vitem ,",
+        "SP": "ו הנה גפן ל פני",
+        "KJV": "behold , a vine [ was ] before me ;",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And in the vine [were] three branches",
+      "traditions": {
+        "WLC": "וּ בַ גֶּ֖פֶן שְׁלֹשָׁ֣ה שָׂרִיגִ֑ם",
+        "LXX": "ἐν δὲ τῇ ἀμπέλῳ τρεῖς πυθμένες ,",
+        "VUL": "in qua erant tres propágines ,",
+        "SP": "ו ב גפן שׁלשׁה שׂרוגים",
+        "KJV": "And in the vine [ were ] three branches :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and it [was] as though it budded",
+      "traditions": {
+        "WLC": "וְ הִ֤יא כְ פֹרַ֨חַת֙ עָלְתָ֣ה",
+        "LXX": "καὶ αὐτὴ θάλλουσα ἀνενηνοχυῖα",
+        "VUL": "créscere paulátim",
+        "SP": "ו היא כ אפרחת עלתה",
+        "KJV": "and it [ was ] as though it budded , [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and her blossoms shot forth",
+      "traditions": {
+        "WLC": "נִצָּ֔ הּ",
+        "LXX": "βλαστούς ·",
+        "VUL": "in gemmas ,",
+        "SP": "נצה",
+        "KJV": "and ] her blossoms shot forth ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the clusters thereof brought forth ripe grapes",
+      "traditions": {
+        "WLC": "הִבְשִׁ֥ילוּ אַשְׁכְּלֹתֶ֖י הָ עֲנָבִֽים",
+        "LXX": "πέπειροι οἱ βότρυες σταφυλῆς .",
+        "VUL": "et post flores uvas maturéscere :",
+        "SP": "הבשׁילו אשׁכלתיה ענבים",
+        "KJV": "and the clusters thereof brought forth ripe grapes :",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Pharaoh ’s cup [ was ] in my hand",
+      "traditions": {
+        "WLC": "וְ כ֥וֹס פַּרְעֹ֖ה בְּ יָדִ֑ י",
+        "LXX": "καὶ τὸ ποτήριον Φαραὼ ἐν τῇ χειρί μου ·",
+        "VUL": "calicémque Pharaónis in manu mea :",
+        "SP": "ו כוס פרעה ב ידי",
+        "KJV": "And Pharaoh ’s cup [ was ] in my hand :",
+        "DSS": "[4Q3] ε  ] #  ε ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I took the grapes , and pressed them into Pharaoh ’s cup",
+      "traditions": {
+        "WLC": "וָ אֶקַּ֣ח אֶת הָֽ עֲנָבִ֗ים וָֽ אֶשְׂחַ֤ט אֹתָ ם֙ אֶל כּ֣וֹס פַּרְעֹ֔ה",
+        "LXX": "καὶ ἔλαβον τὴν σταφυλὴν καὶ ἐξέθλιψα αὐτὴν εἰς τὸ ποτήριον ,",
+        "VUL": "tuli ergo uvas , et expréssi in cálicem quem tenébam ,",
+        "SP": "ו אקח את ה ענבים ו אשׂחט אתם על כוס פרעה",
+        "KJV": "and I took the grapes , and pressed them into Pharaoh ’s cup ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and I gave the cup into Pharaoh ’s hand",
+      "traditions": {
+        "WLC": "וָ אֶתֵּ֥ן אֶת הַ כּ֖וֹס עַל כַּ֥ף פַּרְעֹֽה",
+        "LXX": "καὶ ἔδωκα τὸ ποτήριον εἰς τὰς χεῖρας Φαραώ .",
+        "VUL": "et trádidi póculum Pharaóni .",
+        "SP": "ו אתן את ה כוס על כף פרעה",
+        "KJV": "and I gave the cup into Pharaoh ’s hand .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Joseph said unto him , This [ is ] the interpretation of it",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר ל וֹ֙ יוֹסֵ֔ף זֶ֖ה פִּתְרֹנ֑ וֹ",
+        "LXX": "καὶ εἶπεν αὐτῷ Ἰωσήφ Τοῦτο ἡ σύγκρισις αὐτοῦ .",
+        "VUL": "Respóndit Ioseph : Hæc est interpretátio sómnii :",
+        "SP": "ו יאמר לו יוסף זה פתרנו",
+        "KJV": "And Joseph said unto him , This [ is ] the interpretation of it :",
+        "DSS": "[4Q3] ו יאמר ל׳ו יוסף  ]זה [ פתרנ׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The three branches [ are ] three days",
+      "traditions": {
+        "WLC": "שְׁלֹ֨שֶׁת֙ הַ שָּׂ֣רִגִ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם",
+        "LXX": "οἱ τρεῖς πυθμένες τρεῖς ἡμέραι εἰσίν ·",
+        "VUL": "tres propágines , tres adhuc dies sunt :",
+        "SP": "שׁלשׁת ה שׂרוגים שׁלשׁת ימים הם",
+        "KJV": "The three branches [ are ] three days :",
+        "DSS": "שלשת ה שרגים שלשת ימים הם ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Yet within three days shall Pharaoh lift up thine head , and restore thee unto thy place",
+      "traditions": {
+        "WLC": "בְּ ע֣וֹד שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֤א פַרְעֹה֙ אֶת רֹאשֶׁ֔ ךָ וַ הֲשִֽׁיבְ ךָ֖ עַל כַּנֶּ֑ ךָ",
+        "LXX": "ἔτι τρεῖς ἡμέραι καὶ μνησθήσεται Φαραὼ τῆς ἀρχῆς σου καὶ ἀποκαταστήσει σε ἐπὶ τὴν ἀρχιοινοχοίαν σου ,",
+        "VUL": "post quos recordábitur Phárao ministérii tui , et restítuet te in gradum prístinum :",
+        "SP": "ב עוד שׁלשׁת ימים ישׂא פרעה את ראשׁך ו השׁיבך על כנך",
+        "KJV": "Yet within three days shall Pharaoh lift up thine head , and restore thee unto thy place :",
+        "DSS": "[4Q3] ב עוד שלשת ימים יש ]א## פרעה ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou shalt deliver Pharaoh ’s cup into his hand",
+      "traditions": {
+        "WLC": "וְ נָתַתָּ֤ כוֹס פַּרְעֹה֙ בְּ יָד֔ וֹ",
+        "LXX": "καὶ δώσεις τὸ ποτήριον Φαραὼ εἰς τὴν χεῖρα αὐτοῦ",
+        "VUL": "dabísque ei cálicem",
+        "SP": "ו נתתה כוס פרעה ב ידו",
+        "KJV": "and thou shalt deliver Pharaoh ’s cup into his hand ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "after the former manner when thou wast his butler",
+      "traditions": {
+        "WLC": "כַּ מִּשְׁפָּט֙ הָֽ רִאשׁ֔וֹן אֲשֶׁ֥ר הָיִ֖יתָ מַשְׁקֵֽ הוּ",
+        "LXX": "κατὰ τὴν ἀρχήν σου τὴν προτέραν , ὡς ἦσθα οἰνοχοῶν .",
+        "VUL": "iuxta offícium tuum , sicut ante fácere consuéveras .",
+        "SP": "כ משׁפט ה ראישׁון אשׁר היית משׁקהו",
+        "KJV": "after the former manner when thou wast his butler .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "But think on me when it shall be well with thee",
+      "traditions": {
+        "WLC": "כִּ֧י אִם זְכַרְתַּ֣ נִי אִתְּ ךָ֗ כַּ אֲשֶׁר֙ יִ֣יטַב לָ֔ ךְ",
+        "LXX": "ἀλλὰ μνήσθητί μου διὰ σεαυτοῦ ὅταν εὖ σοι γένηται ,",
+        "VUL": "Tantum meménto mei , cum bene tibi fúerit ,",
+        "SP": "כי אם זכרתני אתך כ אשׁר ייטב לך",
+        "KJV": "But think on me when it shall be well with thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shew kindness , I pray thee , unto me",
+      "traditions": {
+        "WLC": "וְ עָשִֽׂיתָ נָּ֥א עִמָּדִ֖ י חָ֑סֶד",
+        "LXX": "καὶ ποιήσεις ἐν ἐμοὶ ἔλεος ,",
+        "VUL": "et fácias mecum misericórdiam :",
+        "SP": "ו עשׂית נא עמדי חסד",
+        "KJV": "and shew kindness , I pray thee , unto me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and make mention of me unto Pharaoh , and bring me out of this house",
+      "traditions": {
+        "WLC": "וְ הִזְכַּרְתַּ֨ נִי֙ אֶל פַּרְעֹ֔ה וְ הוֹצֵאתַ֖ נִי מִן הַ בַּ֥יִת הַ זֶּֽה",
+        "LXX": "καὶ μνησθήσῃ περὶ ἐμοῦ Φαραώ , καὶ ἐξάξεις με ἐκ τοῦ ὀχυρώματος τούτου ·",
+        "VUL": "ut súggeras Pharaóni ut edúcat me de isto cárcere :",
+        "SP": "ו הזכרתני ל פרעה ו הוצאתני מן ה בית ה זה",
+        "KJV": "and make mention of me unto Pharaoh , and bring me out of this house :",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "For indeed I was stolen away out of the land of the Hebrews",
+      "traditions": {
+        "WLC": "כִּֽי גֻנֹּ֣ב גֻּנַּ֔בְתִּי מֵ אֶ֖רֶץ הָ עִבְרִ֑ים",
+        "LXX": "ὅτι κλοπῇ ἐκλάπην ἐκ γῆς Ἐβραίων ·",
+        "VUL": "quia furto sublátus sum de terra Hebræórum ,",
+        "SP": "כי גנוב נגנבתי מ ארץ ה עברים",
+        "KJV": "For indeed I was stolen away out of the land of the Hebrews :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and here also have I done nothing that they should put me into the dungeon",
+      "traditions": {
+        "WLC": "וְ גַם פֹּה֙ לֹא עָשִׂ֣יתִֽי מְא֔וּמָה כִּֽי שָׂמ֥וּ אֹתִ֖ י בַּ בּֽוֹר",
+        "LXX": "καὶ ὧδε οὐκ ἐποίησα οὐδέν , ἀλλ᾽ ἐνέβαλόν με εἰς τὸν λάκκον τοῦτον .",
+        "VUL": "et hic ínnocens in lacum missus sum .",
+        "SP": "ו גם פה לא עשׂיתי מאומה כי שׂמו אתי ב בור",
+        "KJV": "and here also have I done nothing that they should put me into the dungeon .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "When the chief baker saw that the interpretation was good",
+      "traditions": {
+        "WLC": "וַ יַּ֥רְא שַׂר הָ אֹפִ֖ים כִּ֣י ט֣וֹב פָּתָ֑ר",
+        "LXX": "καὶ ἴδεν ὁ ἀρχισιτοποιὸς ὅτι ὀρθῶς συνέκρινεν ,",
+        "VUL": "Videns pistórum magíster quod prudénter sómnium dissolvísset ,",
+        "SP": "ו ירא שׂר ה אפים כי טוב פתר",
+        "KJV": "When the chief baker saw that the interpretation was good ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he said unto Joseph , I also [ was ] in my dream",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר֙ אֶל יוֹסֵ֔ף אַף אֲנִי֙ בַּ חֲלוֹמִ֔ י",
+        "LXX": "καὶ εἶπεν τῷ Ἰωσήφ Κἀγὼ ἴδον ἐνύπνιον ,",
+        "VUL": "ait : Et ego vidi sómnium :",
+        "SP": "ו יאמר אל יוסף אף אני ב חלמי",
+        "KJV": "he said unto Joseph , I also [ was ] in my dream ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and , behold , [ I had ] three white baskets on my head",
+      "traditions": {
+        "WLC": "וְ הִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל רֹאשִֽׁ י",
+        "LXX": "καὶ ᾤμην τρία κανᾶ χονδριτῶν αἴρειν ἐπὶ τῆς κεφαλῆς μου ·",
+        "VUL": "quod tria canístra farínæ habérem super caput meum :",
+        "SP": "ו הנה שׁלשׁה סלי חרי על ראשׁי",
+        "KJV": "and , behold , [ I had ] three white baskets on my head :",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And in the uppermost basket [ there was ] of all manner of bakemeats for Pharaoh",
+      "traditions": {
+        "WLC": "וּ בַ סַּ֣ל הָֽ עֶלְי֔וֹן מִ כֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה",
+        "LXX": "ἐν δὲ τῷ κανῷ τῷ ἐπάνω ἀπὸ πάντων τῶν γενημάτων ὧν ὁ βασιλεὺς Φαραὼ ἐσθίει , ἔργον σιτοποιοῦ ·",
+        "VUL": "et in uno canístro quod erat excélsius , portáre me omnes cibos qui fiunt arte pistória ,",
+        "SP": "ו ב סל ה עליון מ כל מאכל פרעה מעשׂה אפה",
+        "KJV": "And in the uppermost basket [ there was ] of all manner of bakemeats for Pharaoh ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the birds did eat them out of the basket upon my head",
+      "traditions": {
+        "WLC": "וְ הָ ע֗וֹף אֹכֵ֥ל אֹתָ֛ ם מִן הַ סַּ֖ל מֵ עַ֥ל רֹאשִֽׁ י",
+        "LXX": "καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατήσθιεν αὐτὰ ἀπὸ τοῦ κανοῦ τοῦ ἐπάνω τῆς κεφαλῆς μου .",
+        "VUL": "avésque comédere ex eo .",
+        "SP": "ו ה עוף אכל אתם מ על ה סל מ על ראשׁי",
+        "KJV": "and the birds did eat them out of the basket upon my head .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Joseph answered and said , This [ is ] the interpretation thereof",
+      "traditions": {
+        "WLC": "וַ יַּ֤עַן יוֹסֵף֙ וַ יֹּ֔אמֶר זֶ֖ה פִּתְרֹנ֑ וֹ",
+        "LXX": "ἀποκριθεὶς δὲ Ἰωσὴφ εἶπεν αὐτῷ Αὕτη ἡ σύγκρισις αὐτοῦ ·",
+        "VUL": "Respóndit Ioseph : Hæc est interpretátio sómnii :",
+        "SP": "ו יען יוסף ו יאמר זה פתרנו",
+        "KJV": "And Joseph answered and said , This [ is ] the interpretation thereof :",
+        "DSS": "[4Q3] [ ו יען יוסף ו יאמר זה פתרנ׳ו / [4Q5] [ ו יען יוסף ו יאמר זה פתרנ׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The three baskets [ are ] three days",
+      "traditions": {
+        "WLC": "שְׁלֹ֨שֶׁת֙ הַ סַּלִּ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם",
+        "LXX": "τὰ τρία κανᾶ τρεῖς ἡμέραι εἰσίν ·",
+        "VUL": "tria canístra , tres adhuc dies sunt :",
+        "SP": "שׁלשׁת ה סלים שׁלשׁת ימים הם",
+        "KJV": "The three baskets [ are ] three days :",
+        "DSS": "[4Q3] שלשת ה סלים של ]ש##ת [ ימים הם ׃ / [4Q5] שלשת ה סלים שלשת י ]מ##이#?ם [ הם ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Yet within three days shall Pharaoh lift up thy head from off thee , and shall hang thee on a tree",
+      "traditions": {
+        "WLC": "בְּ ע֣וֹד שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת רֹֽאשְׁ ךָ֙ מֵֽ עָלֶ֔י ךָ וְ תָלָ֥ה אוֹתְ ךָ֖ עַל עֵ֑ץ",
+        "LXX": "ἔτι τριῶν ἡμερῶν ἀφελεῖ Φαραὼ τὴν κεφαλήν σου ἀπὸ σοῦ , καὶ κρεμάσει σε ἐπὶ ξύλου ,",
+        "VUL": "post quos áuferet Phárao caput tuum , ac suspéndet te in cruce ,",
+        "SP": "ב עוד שׁלשׁת ימים ישׂא פרעה את ראשׁך מ עליך ו תלא אתך על ה עץ",
+        "KJV": "Yet within three days shall Pharaoh lift up thy head from off thee , and shall hang thee on a tree ;",
+        "DSS": "[4Q3] ב עוד שלשת ימים ישא פרעה את ראש׳ך מ עלי׳ך ו תלה אות׳ך  ]ע#ל [ עץ / [4Q5] ב עוד שלשת ] [ ימים ישא פרעה את ראש׳ך מ עלי׳ך ו תל ]ה## את׳ך על עץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the birds shall eat thy flesh from off thee",
+      "traditions": {
+        "WLC": "וְ אָכַ֥ל הָ ע֛וֹף אֶת בְּשָׂרְ ךָ֖ מֵ עָלֶֽי ךָ",
+        "LXX": "καὶ φάγεται τὰ ὄρνεα τοῦ οὐρανοῦ τὰς σάρκας σου ἀπὸ σοῦ .",
+        "VUL": "et lacerábunt vólucres carnes tuas .",
+        "SP": "ו אכל ה עוף את בשׂרך מ עליך",
+        "KJV": "and the birds shall eat thy flesh from off thee .",
+        "DSS": "[4Q3] ו אכל ה עוף את בשר׳ך מ עלי׳ך ׃ / [4Q5] ו א#[ כל ה עוף את ] [ בשר׳ך ε  #  # [  ε ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it came to pass the third day , [ which was ] Pharaoh ’s birthday",
+      "traditions": {
+        "WLC": "וַ יְהִ֣י בַּ יּ֣וֹם הַ שְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת פַּרְעֹ֔ה",
+        "LXX": "ἐγένετο δὲ ἐν τῇ ἡμέρᾳ τῇ τρίτῃ ἡμέρα γενέσεως ἦν Φαραὼ ,",
+        "VUL": "Exínde dies tértius natalítius Pharaónis erat :",
+        "SP": "ו יהי ב יום ה שׁלישׁי יום הולדת את פרעה",
+        "KJV": "And it came to pass the third day , [ which was ] Pharaoh ’s birthday ,",
+        "DSS": "[4Q3] ו יהי ב יום ה שלישי יום הלדת את  ]פ#רעה [ / [4Q5] ו יהי ב יום ה שלישי יו ]ם הולד א[ ת ] פרעה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that he made a feast unto all his servants",
+      "traditions": {
+        "WLC": "וַ יַּ֥עַשׂ מִשְׁתֶּ֖ה לְ כָל עֲבָדָ֑י",
+        "LXX": "καὶ ἐποίει πότον πᾶσι τοῖς παισὶν αὐτοῦ ·",
+        "VUL": "qui fáciens grande convívium púeris suis ,",
+        "SP": "ו יעשׂ משׁתה ל כל עבדיו",
+        "KJV": "that he made a feast unto all his servants :",
+        "DSS": "[4Q3] ו יעש משתה ל כל עבדי׳ו / [4Q5] ו י[ עש ] [ משת ]ה# ל כל ע#ב#[ די׳و"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he lifted up the head of the chief butler and of the chief baker among his servants",
+      "traditions": {
+        "WLC": "ו וַ יִּשָּׂ֞א אֶת רֹ֣אשׁ שַׂ֣ר הַ מַּשְׁקִ֗ים וְ אֶת רֹ֛אשׁ שַׂ֥ר הָ אֹפִ֖ים בְּ ת֥וֹךְ עֲבָדָֽי ו",
+        "LXX": "καὶ ἐμνήσθη τῆς ἀρχῆς τοῦ ἀρχιοινοχόου καὶ τῆς ἀρχῆς τοῦ ἀρχισιτοποιοῦ ἐν μέσῳ τῶν παίδων αὐτοῦ .",
+        "VUL": "recordátus est inter épulas magístri pincernárum , et pistórum príncipis .",
+        "SP": "ו ישׂא את ראשׁ שׂר ה משׁקים ו את ראשׁ שׂר ה אפים ב תוך עבדיו",
+        "KJV": "and he lifted up the head of the chief butler and of the chief baker among his servants .",
+        "DSS": "[4Q3] ו ישא את ראש שר ה משקים ו את רא ]ש [ שר ה אפים ב תוך עבדי׳و ׃ / [4Q5] ו ישא את ראש שר ה מש ]קים ו את רא##[ ש  ]שר ה א[ פי ]ם## ב תוך##[  עבדי׳و ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he restored the chief butler unto his butlership again",
+      "traditions": {
+        "WLC": "וַ יָּ֛שֶׁב אֶת שַׂ֥ר הַ מַּשְׁקִ֖ים עַל מַשְׁקֵ֑ הוּ",
+        "LXX": "καὶ ἀπεκατέστησεν τὸν ἀρχιοινοχόον ἐπὶ τὴν ἀρχὴν αὐτοῦ ,",
+        "VUL": "Restituítque álterum in locum suum ,",
+        "SP": "ו ישׁב את שׂר ה משׁקים על משׁקהו",
+        "KJV": "And he restored the chief butler unto his butlership again ;",
+        "DSS": "[4Q3] ו ישב את שר ה משקים על משק׳הו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he gave the cup into Pharaoh ’s hand",
+      "traditions": {
+        "WLC": "וַ יִּתֵּ֥ן הַ כּ֖וֹס עַל כַּ֥ף פַּרְעֹֽה",
+        "LXX": "καὶ ἔδωκεν τὸ ποτήριον εἰς τὴν χεῖρα Φαραώ ·",
+        "VUL": "ut porrígeret ei póculum :",
+        "SP": "ו יתן את ה כוס על כף פרעה",
+        "KJV": "and he gave the cup into Pharaoh ’s hand :",
+        "DSS": "[4Q3] ו יתן ה כוס על ] [ כף פרעה ׃"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "But he hanged the chief baker",
+      "traditions": {
+        "WLC": "וְ אֵ֛ת שַׂ֥ר הָ אֹפִ֖ים תָּלָ֑ה",
+        "LXX": "τὸν δὲ ἀρχισιτοποιὸν ἐκρέμασεν ,",
+        "VUL": "álterum suspéndit in patíbulo ,",
+        "SP": "ו את שׂר ה אפים תלא",
+        "KJV": "But he hanged the chief baker :",
+        "DSS": "[4Q3] ו את שר ה אפים תלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as Joseph had interpreted to them",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֥ר פָּתַ֛ר לָ הֶ֖ם יוֹסֵֽף",
+        "LXX": "καθὰ συνέκρινεν αὐτοῖς Ἰωσήφ .",
+        "VUL": null,
+        "SP": "כ אשׁר פתר להם יוסף",
+        "KJV": "as Joseph had interpreted to them .",
+        "DSS": "[4Q3] כ אשר פתר ל׳הם יוסף ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "ut coniectóris véritas probarétur .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "Yet did not the chief butler remember Joseph",
+      "traditions": {
+        "WLC": "וְ לֹֽא זָכַ֧ר שַֽׂר הַ מַּשְׁקִ֛ים אֶת יוֹסֵ֖ף",
+        "LXX": "οὐκ ἐμνήσθη δὲ ὁ ἀρχιοινοχόος τοῦ Ἰωσήφ ,",
+        "VUL": "Et tamen succedéntibus prósperis , præpósitus pincernárum oblítus est intérpretis sui .",
+        "SP": "ו לא זכר שׂר ה משׁקים את יוסף",
+        "KJV": "Yet did not the chief butler remember Joseph ,",
+        "DSS": "[4Q3] ו לא זכר שר ]ה משקים [ את יוסף"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but forgat him",
+      "traditions": {
+        "WLC": "וַ יִּשְׁכָּחֵֽ הוּ",
+        "LXX": "ἀλλὰ ἐπελάθετο αὐτοῦ .",
+        "VUL": null,
+        "SP": "ו ישׁכחהו",
+        "KJV": "but forgat him .",
+        "DSS": "[4Q3] ו ישכח׳הו ׃"
+      }
+    }
+  ]
+}

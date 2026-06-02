@@ -1,0 +1,834 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "The word of the LORD came also unto me",
+      "traditions": {
+        "WLC": "וַ יְהִ֥י דְבַר יְהוָ֖ה אֵלַ֥ י",
+        "LXX": "Καὶ σὺ μὴ λάβῃς γυναῖκα ,",
+        "VUL": "Et factum est verbum Dómini ad me ,",
+        "SP": null,
+        "KJV": "The word of the LORD came also unto me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying ,",
+      "traditions": {
+        "WLC": "לֵ אמֹֽר",
+        "LXX": "λέγει Κύριος ὁ θεὸς Ἰσραήλ ,",
+        "VUL": "dicens :",
+        "SP": null,
+        "KJV": "saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not take thee a wife ,",
+      "traditions": {
+        "WLC": "לֹֽא תִקַּ֥ח לְ ךָ֖ אִשָּׁ֑ה",
+        "LXX": "καὶ οὐ γεννηθήσεται σοι υἱὸς",
+        "VUL": "Non accípies uxórem ,",
+        "SP": null,
+        "KJV": "Thou shalt not take thee a wife ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shalt thou have sons or daughters in this place .",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִהְי֤וּ לְ ךָ֙ בָּנִ֣ים וּ בָנ֔וֹת בַּ מָּק֖וֹם הַ זֶּֽה",
+        "LXX": "οὐδὲ θυγάτηρ ἐν τῷ τόπῳ τούτῳ .",
+        "VUL": "et non erunt tibi fílii , et fíliæ in loco isto .",
+        "SP": null,
+        "KJV": "neither shalt thou have sons or daughters in this place .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thus saith the LORD",
+      "traditions": {
+        "WLC": "כִּי כֹ֣ה אָמַ֣ר יְהוָ֗ה",
+        "LXX": "ὅτι τάδε λέγει Κύριος",
+        "VUL": "Quia hæc dicit Dóminus",
+        "SP": null,
+        "KJV": "For thus saith the LORD",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "concerning the sons and concerning the daughters that are born in this place ,",
+      "traditions": {
+        "WLC": "עַל הַ בָּנִים֙ וְ עַל הַ בָּנ֔וֹת הַ יִּלּוֹדִ֖ים בַּ מָּק֣וֹם הַ זֶּ֑ה",
+        "LXX": "περὶ τῶν υἱῶν καὶ περὶ τῶν θυγατέρων τῶν γεννωμένων ἐν τῷ τόπῳ τούτῳ ,",
+        "VUL": "super fílios et fílias , qui generántur in loco isto ,",
+        "SP": null,
+        "KJV": "concerning the sons and concerning the daughters that are born in this place ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and concerning their mothers that bare them ,",
+      "traditions": {
+        "WLC": "וְ עַֽל אִמֹּתָ֞ ם הַ יֹּלְד֣וֹת אוֹתָ֗ ם",
+        "LXX": "καὶ περὶ τῶν μητέρων αὐτῶν τῶν τετοκυιῶν αὐτούς ,",
+        "VUL": "et super matres eórum , quæ genuérunt eos :",
+        "SP": null,
+        "KJV": "and concerning their mothers that bare them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and concerning their fathers that begat them in this land ;",
+      "traditions": {
+        "WLC": "וְ עַל אֲבוֹתָ֛ ם הַ מּוֹלִדִ֥ים אוֹתָ֖ ם בָּ אָ֥רֶץ הַ זֹּֽאת",
+        "LXX": "καὶ περὶ τῶν πατέρων αὐτῶν τῶν γεγεννηκότων αὐτοὺς ἐν τῇ γῇ ταύτῃ",
+        "VUL": "et super patres eórum , de quorum stirpe sunt nati in terra hac :",
+        "SP": null,
+        "KJV": "and concerning their fathers that begat them in this land ;",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thus saith the LORD ,",
+      "traditions": {
+        "WLC": "כִּֽי כֹ֣ה אָמַ֣ר יְהוָ֗ה",
+        "LXX": "τάδε λέγει Κύριος",
+        "VUL": "Hæc enim dicit Dóminus :",
+        "SP": null,
+        "KJV": "For thus saith the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Enter not into the house of mourning , neither go to lament nor bemoan them :",
+      "traditions": {
+        "WLC": "אַל תָּבוֹא֙ בֵּ֣ית מַרְזֵ֔חַ וְ אַל תֵּלֵ֣ךְ לִ סְפּ֔וֹד וְ אַל תָּנֹ֖ד לָ הֶ֑ם",
+        "LXX": "Μὴ εἰσέλθῃς εἰς θίασον αὐτῶν , καὶ μὴ πορευθῇς τοῦ κόψασθαι , καὶ μὴ πενθήσῃς αὐτούς ,",
+        "VUL": "Ne ingrediáris domum convívii , neque vadas ad plangéndum , neque consoléris eos :",
+        "SP": null,
+        "KJV": "Enter not into the house of mourning , neither go to lament nor bemoan them :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for I have taken away my peace from this people , saith the LORD ,",
+      "traditions": {
+        "WLC": "כִּֽי אָסַ֨פְתִּי אֶת שְׁלוֹמִ֜ י מֵ אֵ֨ת הָ עָ֤ם הַ זֶּה֙ נְאֻם יְהוָ֔ה",
+        "LXX": "ὅτι ἀφέστακα τὴν εἰρήνην μου ἀπὸ τοῦ λαοῦ τούτου .",
+        "VUL": "quia ábstuli pacem meam a pópulo isto , dicit Dóminus ,",
+        "SP": null,
+        "KJV": "for I have taken away my peace from this people , saith the LORD , [ even ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ even ] lovingkindness and mercies .",
+      "traditions": {
+        "WLC": "אֶת הַ חֶ֖סֶד וְ אֶת הָֽ רַחֲמִֽים",
+        "LXX": null,
+        "VUL": "misericórdiam et miseratiónes .",
+        "SP": null,
+        "KJV": "lovingkindness and mercies .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Both the great and the small shall die in this land :",
+      "traditions": {
+        "WLC": "וּ מֵ֨תוּ גְדֹלִ֧ים וּ קְטַנִּ֛ים בָּ אָ֥רֶץ הַ זֹּ֖את",
+        "LXX": null,
+        "VUL": "Et moriéntur grandes et parvi in terra ista :",
+        "SP": null,
+        "KJV": "Both the great and the small shall die in this land :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they shall not be buried , neither shall [ men ] lament for them ,",
+      "traditions": {
+        "WLC": "לֹ֣א יִקָּבֵ֑רוּ וְ לֹֽא יִסְפְּד֣וּ לָ הֶ֔ם",
+        "LXX": "οὐ μὴ κόψονται αὐτοὺς",
+        "VUL": "non sepeliéntur , neque plangéntur ,",
+        "SP": null,
+        "KJV": "they shall not be buried , neither shall [ men ] lament for them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "nor cut themselves , nor make themselves bald for them :",
+      "traditions": {
+        "WLC": "וְ לֹ֣א יִתְגֹּדַ֔ד וְ לֹ֥א יִקָּרֵ֖חַ לָ הֶֽם",
+        "LXX": "οὐδὲ ἐντομίδας οὐ μὴ ποιήσουσιν καὶ οὐ ξυρηθήσονται ,",
+        "VUL": "et non se incídent , neque calvítium fiet pro eis .",
+        "SP": null,
+        "KJV": "nor cut themselves , nor make themselves bald for them :",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither shall [ men ] tear [ themselves ] for them in mourning , to comfort them for the dead ;",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִפְרְס֥וּ לָ הֶ֛ם עַל אֵ֖בֶל לְ נַחֲמ֣ וֹ עַל מֵ֑ת",
+        "LXX": "καὶ οὐ μὴ κλασθῇ ἄρτος ἐν πένθει αὐτῶν εἰς παράκλησιν ἐπὶ τεθνηκότι ·",
+        "VUL": "Et non frangent inter eos lugénti panem ad consolándum super mórtuo ,",
+        "SP": null,
+        "KJV": "Neither shall [ men ] tear [ themselves ] for them in mourning , to comfort them for the dead ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shall [ men ] give them the cup of consolation to drink for their father or for their mother .",
+      "traditions": {
+        "WLC": "וְ לֹֽא יַשְׁק֤וּ אוֹתָ ם֙ כּ֣וֹס תַּנְחוּמִ֔ים עַל אָבִ֖י ו וְ עַל אִמּֽ וֹ",
+        "LXX": "οὐ ποτιοῦσιν αὐτὸν ποτήριον εἰς παράκλησιν ἐπὶ πατρὶ καὶ μητρὶ αὐτοῦ .",
+        "VUL": "et non dabunt eis potum cálicis ad consolándum super patre suo et matre .",
+        "SP": null,
+        "KJV": "neither shall [ men ] give them the cup of consolation to drink for their father or for their mother .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not also go into the house of feasting , to sit with them to eat and to drink .",
+      "traditions": {
+        "WLC": "וּ בֵית מִשְׁתֶּ֥ה לֹא תָב֖וֹא לָ שֶׁ֣בֶת אוֹתָ֑ ם לֶ אֱכֹ֖ל וְ לִ שְׁתּֽוֹת",
+        "LXX": "εἰς οἰκίαν πότου οὐκ εἰσελεύσῃ συνκαθίσαι μετ᾽ αὐτῶν τοῦ φαγεῖν καὶ πιεῖν .",
+        "VUL": "Et domum convívii non ingrediáris , ut sédeas cum eis , et cómedas , et bibas :",
+        "SP": null,
+        "KJV": "Thou shalt not also go into the house of feasting , to sit with them to eat and to drink .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thus saith the LORD of hosts , the God of Israel ;",
+      "traditions": {
+        "WLC": "כִּי֩ כֹ֨ה אָמַ֜ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל",
+        "LXX": "διότι τάδε λέγει Κύριος ὁ θεὸς Ἰσραήλ",
+        "VUL": "quia hæc dicit Dóminus exercítuum , Deus Israel :",
+        "SP": null,
+        "KJV": "For thus saith the LORD of hosts , the God of Israel ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Behold , I will cause to cease out of this place in your eyes , and in your days ,",
+      "traditions": {
+        "WLC": "הִנְ נִ֨י מַשְׁבִּ֜ית מִן הַ מָּק֥וֹם הַ זֶּ֛ה לְ עֵינֵי כֶ֖ם וּ בִֽ ימֵי כֶ֑ם",
+        "LXX": "Ἰδοὺ ἐγὼ καταλύω ἐκ τοῦ τόπου τούτου ἐνώπιον τῶν ὀφθαλμῶν ὑμῶν καὶ ἐν ταῖς ἡμέραις ὑμῶν",
+        "VUL": "Ecce ego áuferam de loco isto , in óculis vestris , et in diébus vestris ,",
+        "SP": null,
+        "KJV": "Behold , I will cause to cease out of this place in your eyes , and in your days ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the voice of mirth , and the voice of gladness ,",
+      "traditions": {
+        "WLC": "ק֤וֹל שָׂשׂוֹן֙ וְ ק֣וֹל שִׂמְחָ֔ה",
+        "LXX": "φωνὴν χαρᾶς καὶ φωνὴν εὐφροσύνης ,",
+        "VUL": "vocem gáudii et vocem lætítiæ ,",
+        "SP": null,
+        "KJV": "the voice of mirth , and the voice of gladness ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the voice of the bridegroom , and the voice of the bride .",
+      "traditions": {
+        "WLC": "ק֥וֹל חָתָ֖ן וְ ק֥וֹל כַּלָּֽה",
+        "LXX": "φωνὴν νυμφίου καὶ φωνὴν νύμφης .",
+        "VUL": "vocem sponsi et vocem sponsæ .",
+        "SP": null,
+        "KJV": "the voice of the bridegroom , and the voice of the bride .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass , when thou shalt shew this people all these words ,",
+      "traditions": {
+        "WLC": "וְ הָיָ֗ה כִּ֤י תַגִּיד֙ לָ עָ֣ם הַ זֶּ֔ה אֵ֥ת כָּל הַ דְּבָרִ֖ים הָ אֵ֑לֶּה",
+        "LXX": "καὶ ἔσται ὅταν ἀναγγείλῃς τῷ λαῷ τούτῳ ἅπαντα τὰ ῥήματα ταῦτα ,",
+        "VUL": "Et cum annuntiáveris pópulo huic ómnia verba hæc ,",
+        "SP": null,
+        "KJV": "And it shall come to pass , when thou shalt shew this people all these words ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they shall say unto thee , Wherefore hath the LORD pronounced all this great evil against us ?",
+      "traditions": {
+        "WLC": "וְ אָמְר֣וּ אֵלֶ֗י ךָ עַל מֶה֩ דִבֶּ֨ר יְהוָ֤ה עָלֵ֨י נוּ֙ אֵ֣ת כָּל הָ רָעָ֤ה הַ גְּדוֹלָה֙ הַ זֹּ֔את",
+        "LXX": "καὶ εἴπωσιν πρὸς σέ Διὰ τί ἐλάλησεν Κύριος ἐφ᾽ ἡμᾶς πάντα τὰ κακὰ ταῦτα ;",
+        "VUL": "et díxerint tibi : Quare locútus est Dóminus super nos omne malum grande istud ?",
+        "SP": null,
+        "KJV": "and they shall say unto thee , Wherefore hath the LORD pronounced all this great evil against us ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "or what [ is ] our iniquity ? or what [ is ] our sin that we have committed against the LORD our God ?",
+      "traditions": {
+        "WLC": "וּ מֶ֤ה עֲוֺנֵ֨ נוּ֙ וּ מֶ֣ה חַטָּאתֵ֔ נוּ אֲשֶׁ֥ר חָטָ֖אנוּ לַֽ יהוָ֥ה אֱלֹהֵֽי נוּ",
+        "LXX": "τίς ἡ ἀδικία ἡμῶν ; καὶ τίς ἡ ἁμαρτία ἡμῶν ἣν ἡμάρτομεν ἔναντι Κυρίου τοῦ θεοῦ ἡμῶν ;",
+        "VUL": "quæ iníquitas nostra ? et quod peccátum nostrum , quod peccávimus Dómino Deo nostro ?",
+        "SP": null,
+        "KJV": "or what [ is ] our iniquity ? or what [ is ] our sin that we have committed against the LORD our God ?",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then shalt thou say unto them",
+      "traditions": {
+        "WLC": "וְ אָמַרְתָּ֣ אֲלֵי הֶ֗ם",
+        "LXX": "καὶ ἐρεῖς αὐτοῖς",
+        "VUL": "Dices ad eos :",
+        "SP": null,
+        "KJV": "Then shalt thou say unto them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Because your fathers have forsaken me",
+      "traditions": {
+        "WLC": "עַל֩ אֲשֶׁר עָזְב֨וּ אֲבוֹתֵי כֶ֤ם אוֹתִ י֙",
+        "LXX": "Ἀνθ᾽ ὧν ἐνκατέλιπόν με οἱ πατέρες ὑμῶν ,",
+        "VUL": "Quia dereliquérunt me patres vestri ,",
+        "SP": null,
+        "KJV": "Because your fathers have forsaken me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "נְאֻם יְהוָ֔ה",
+        "LXX": "λέγει Κύριος ,",
+        "VUL": "ait Dóminus :",
+        "SP": null,
+        "KJV": "saith the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and have walked after other gods",
+      "traditions": {
+        "WLC": "וַ יֵּלְכ֗וּ אַֽחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים",
+        "LXX": "καὶ ᾤχοντο ὀπίσω θεῶν ἀλλοτρίων",
+        "VUL": "et abiérunt post deos aliénos ,",
+        "SP": null,
+        "KJV": "and have walked after other gods ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and have served them",
+      "traditions": {
+        "WLC": "וַ יַּעַבְד֖וּ ם",
+        "LXX": "καὶ ἐδούλευσαν αὐτοῖς",
+        "VUL": "et serviérunt eis ,",
+        "SP": null,
+        "KJV": "and have served them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and have worshipped them",
+      "traditions": {
+        "WLC": "וַ יִּשְׁתַּחֲו֣וּ לָ הֶ֑ם",
+        "LXX": "καὶ προσεκύνησαν αὐτοῖς ,",
+        "VUL": "et adoravérunt eos :",
+        "SP": null,
+        "KJV": "and have worshipped them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "and have forsaken me",
+      "traditions": {
+        "WLC": "וְ אֹתִ֣ י עָזָ֔בוּ",
+        "LXX": "καὶ ἐμὲ ἐγκατέλιπον",
+        "VUL": "et me dereliquérunt ,",
+        "SP": null,
+        "KJV": "and have forsaken me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 8,
+      "english_reference": "and have not kept my law",
+      "traditions": {
+        "WLC": "וְ אֶת תּוֹרָתִ֖ י לֹ֥א שָׁמָֽרוּ",
+        "LXX": "καὶ τὸν νόμον μου οὐκ ἐφυλάξαντο ,",
+        "VUL": "et legem meam non custodiérunt .",
+        "SP": null,
+        "KJV": "and have not kept my law ;",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And ye have done worse than your fathers",
+      "traditions": {
+        "WLC": "וְ אַתֶּ֛ם הֲרֵעֹתֶ֥ם לַ עֲשׂ֖וֹת מֵ אֲבֽוֹתֵי כֶ֑ם",
+        "LXX": "καὶ ὑμεῖς ἐπονηρεύσασθε ὑπὲρ τοὺς πατέρας ὑμῶν ·",
+        "VUL": "Sed et vos peius operáti estis quam patres vestri :",
+        "SP": null,
+        "KJV": "And ye have done worse than your fathers ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for , behold , ye walk every one after the imagination of his evil heart",
+      "traditions": {
+        "WLC": "וְ הִנְּ כֶ֣ם הֹלְכִ֗ים אִ֚ישׁ אַֽחֲרֵי֙ שְׁרִר֣וּת לִבּֽ וֹ הָ רָ֔ע",
+        "LXX": "καὶ ἰδοὺ ὑμεῖς πορεύεσθε ἕκαστος ὀπίσω τῶν ἀρεστῶν τῆς καρδίας ὑμῶν τῆς πονηρᾶς",
+        "VUL": "ecce enim ámbulat unusquísque post pravitátem cordis sui mali ,",
+        "SP": null,
+        "KJV": "for , behold , ye walk every one after the imagination of his evil heart ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that they may not hearken unto me",
+      "traditions": {
+        "WLC": "לְ בִלְתִּ֖י שְׁמֹ֥עַ אֵלָֽ י",
+        "LXX": "τοῦ μὴ ὑπακούειν μου .",
+        "VUL": "ut me non áudiat .",
+        "SP": null,
+        "KJV": "that they may not hearken unto me :",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore will I cast you out of this land",
+      "traditions": {
+        "WLC": "וְ הֵטַלְתִּ֣י אֶתְ כֶ֗ם מֵ עַל֙ הָ אָ֣רֶץ הַ זֹּ֔את",
+        "LXX": "καὶ ἀπορίψω ὑμᾶς ἀπὸ τῆς γῆς ταύτης",
+        "VUL": "Et eíciam vos de terra hac",
+        "SP": null,
+        "KJV": "Therefore will I cast you out of this land",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "into a land that ye know not , [ neither ] ye nor your fathers",
+      "traditions": {
+        "WLC": "עַל הָ אָ֕רֶץ אֲשֶׁר֙ לֹ֣א יְדַעְתֶּ֔ם אַתֶּ֖ם וַ אֲבֽוֹתֵי כֶ֑ם",
+        "LXX": "εἰς τὴν γῆν ἣν οὐκ ᾒδειτε ὑμεῖς καὶ οἱ πατέρες ὑμῶν ,",
+        "VUL": "in terram , quam ignorátis vos , et patres vestri :",
+        "SP": null,
+        "KJV": "into a land that ye know not , [ neither ] ye nor your fathers ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and there shall ye serve other gods day and night",
+      "traditions": {
+        "WLC": "וַ עֲבַדְתֶּם שָׁ֞ם אֶת אֱלֹהִ֤ים אֲחֵרִים֙ יוֹמָ֣ם וָ לַ֔יְלָה",
+        "LXX": "καὶ δουλεύσετε ἐκεῖ θεοῖς ἑτέροις",
+        "VUL": "et serviétis ibi diis aliénis , die ac nocte ,",
+        "SP": null,
+        "KJV": "and there shall ye serve other gods day and night ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "where I will not shew you favour",
+      "traditions": {
+        "WLC": "אֲשֶׁ֛ר לֹֽא אֶתֵּ֥ן לָ כֶ֖ם חֲנִינָֽה",
+        "LXX": "οἳ οὐ δώσουσιν ὑμῖν ἔλεος .",
+        "VUL": "qui non dabunt vobis réquiem .",
+        "SP": null,
+        "KJV": "where I will not shew you favour .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore , behold , the days come , saith the LORD",
+      "traditions": {
+        "WLC": "לָ כֵ֛ן הִנֵּֽה יָמִ֥ים בָּאִ֖ים נְאֻם יְהוָ֑ה",
+        "LXX": "Διὰ τοῦτο ἰδοὺ ἡμέραι ἔρχονται , λέγει Κύριος ,",
+        "VUL": "Proptérea ecce dies véniunt , dicit Dóminus ,",
+        "SP": null,
+        "KJV": "Therefore , behold , the days come , saith the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that it shall no more be said , The LORD liveth",
+      "traditions": {
+        "WLC": "וְ לֹֽא יֵאָמֵ֥ר עוֹד֙ חַי יְהוָ֔ה",
+        "LXX": "καὶ οὐκ ἐροῦσιν ἔτι Ζῇ Κύριος",
+        "VUL": "et non dicétur ultra : Vivit Dóminus ,",
+        "SP": null,
+        "KJV": "that it shall no more be said , The LORD liveth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that brought up the children of Israel out of the land of Egypt",
+      "traditions": {
+        "WLC": "אֲשֶׁ֧ר הֶעֱלָ֛ה אֶת בְּנֵ֥י יִשְׂרָאֵ֖ל מֵ אֶ֥רֶץ מִצְרָֽיִם",
+        "LXX": "ὁ ἀναγαγὼν τοὺς υἱοὺς Ἰσραὴλ ἐκ γῆς Αἰγύπτου ,",
+        "VUL": "qui edúxit fílios Israel de terra Ægýpti ,",
+        "SP": null,
+        "KJV": "that brought up the children of Israel out of the land of Egypt ;",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "But , The LORD liveth",
+      "traditions": {
+        "WLC": "כִּ֣י אִם חַי יְהוָ֗ה",
+        "LXX": "ἀλλά Ζῇ Κύριος",
+        "VUL": "sed , Vivit Dóminus ,",
+        "SP": null,
+        "KJV": "But , The LORD liveth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that brought up the children of Israel from the land of the north",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר הֶעֱלָ֜ה אֶת בְּנֵ֤י יִשְׂרָאֵל֙ מֵ אֶ֣רֶץ צָפ֔וֹן",
+        "LXX": "ὃς ἀνήγαγεν τὸν οἶκον Ἰσραὴλ ἀπὸ γῆς βορρᾶ",
+        "VUL": "qui edúxit fílios Israel de terra aquilónis ,",
+        "SP": null,
+        "KJV": "that brought up the children of Israel from the land of the north ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and from all the lands whither he had driven them",
+      "traditions": {
+        "WLC": "וּ מִ כֹּל֙ הָֽ אֲרָצ֔וֹת אֲשֶׁ֥ר הִדִּיחָ֖ ם שָׁ֑מָּ ה",
+        "LXX": "καὶ ἀπὸ πασῶν τῶν χωρῶν οὗ ἐξώσθησαν ἐκεῖ ·",
+        "VUL": "et de univérsis terris , ad quas eiéci eos :",
+        "SP": null,
+        "KJV": "and from all the lands whither he had driven them :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and I will bring them again into their land that I gave unto their fathers",
+      "traditions": {
+        "WLC": "וַ הֲשִֽׁבֹתִי ם֙ עַל אַדְמָתָ֔ ם אֲשֶׁ֥ר נָתַ֖תִּי לַ אֲבוֹתָֽ ם",
+        "LXX": "καὶ ἀποκαταστήσω αὐτοὺς εἰς τὴν γῆν αὐτῶν ἣν ἔδωκα τοῖς πατράσιν αὐτῶν .",
+        "VUL": "et redúcam eos in terram suam , quam dedi pátribus eórum .",
+        "SP": null,
+        "KJV": "and I will bring them again into their land that I gave unto their fathers .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , I will send for many fishers , saith the LORD",
+      "traditions": {
+        "WLC": "הִנְ נִ֨י שֹׁלֵ֜חַ ל דוגים רַבִּ֛ים נְאֻם יְהוָ֖ה",
+        "LXX": "ἰδοὺ ἐγὼ ἀποστέλλω τοὺς ἁλεεῖς τοὺς πολλούς , λέγει Κύριος ,",
+        "VUL": "Ecce ego mittam piscatóres multos , dicit Dóminus ,",
+        "SP": null,
+        "KJV": "Behold , I will send for many fishers , saith the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they shall fish them",
+      "traditions": {
+        "WLC": "וְ דִיג֑וּ ם",
+        "LXX": "καὶ ἁλιεύσουσιν αὐτούς ·",
+        "VUL": "et piscabúntur eos :",
+        "SP": null,
+        "KJV": "and they shall fish them ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and after will I send for many hunters",
+      "traditions": {
+        "WLC": "וְ אַֽחֲרֵי כֵ֗ן אֶשְׁלַח֙ לְ רַבִּ֣ים צַיָּדִ֔ים",
+        "LXX": "καὶ μετὰ ταῦτα ἀποστελῶ τοὺς πολλοὺς θηρευτάς ,",
+        "VUL": "et post hæc mittam eis multos venatóres ,",
+        "SP": null,
+        "KJV": "and after will I send for many hunters ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they shall hunt them from every mountain , and from every hill , and out of the holes of the rocks",
+      "traditions": {
+        "WLC": "וְ צָד֞וּ ם מֵ עַ֤ל כָּל הַר֙ וּ מֵ עַ֣ל כָּל גִּבְעָ֔ה וּ מִ נְּקִיקֵ֖י הַ סְּלָעִֽים",
+        "LXX": "καὶ θηρεύσουσιν αὐτοὺς ἐπάνω παντὸς ὄρους καὶ ἐπάνω παντὸς βουνοῦ καὶ ἐκ τῶν τρυμαλιῶν τῶν πετρῶν .",
+        "VUL": "et venabúntur eos de omni monte , et de omni colle , et de cavérnis petrárum .",
+        "SP": null,
+        "KJV": "and they shall hunt them from every mountain , and from every hill , and out of the holes of the rocks .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "For mine eyes [ are ] upon all their ways",
+      "traditions": {
+        "WLC": "כִּ֤י עֵינַ י֙ עַל כָּל דַּרְכֵי הֶ֔ם",
+        "LXX": "ὅτι οἱ ὀφθαλμοί μου ἐπὶ πάσας τὰς ὁδοὺς αὐτῶν ,",
+        "VUL": "Quia óculi mei super omnes vias eórum :",
+        "SP": null,
+        "KJV": "For mine eyes [ are ] upon all their ways :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they are not hid from my face",
+      "traditions": {
+        "WLC": "לֹ֥א נִסְתְּר֖וּ מִ לְּ פָנָ֑ י",
+        "LXX": "καὶ οὐκ ἐκρύβη τὰ ἀδικήματα αὐτῶν ἀπέναντι τῶν ὀφθαλμῶν μου .",
+        "VUL": "non sunt abscónditæ a fácie mea ,",
+        "SP": null,
+        "KJV": "they are not hid from my face ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither is their iniquity hid from mine eyes",
+      "traditions": {
+        "WLC": "וְ לֹֽא נִצְפַּ֥ן עֲוֺנָ֖ ם מִ נֶּ֥גֶד עֵינָֽ י",
+        "LXX": null,
+        "VUL": "et non fuit occultáta iníquitas eórum ab óculis meis .",
+        "SP": null,
+        "KJV": "neither is their iniquity hid from mine eyes .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And first I will recompense their iniquity and their sin double",
+      "traditions": {
+        "WLC": "וְ שִׁלַּמְתִּ֣י רִֽאשׁוֹנָ֗ה מִשְׁנֵ֤ה עֲוֺנָ ם֙ וְ חַטָּאתָ֔ ם",
+        "LXX": "καὶ ἀνταποδώσω διὰ πάσας τὰς κακίας αὐτῶν καὶ τὰς ἁμαρτίας αὐτῶν ,",
+        "VUL": "Et reddam primum dúplices iniquitátes , et peccáta eórum :",
+        "SP": null,
+        "KJV": "And first I will recompense their iniquity and their sin double ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because they have defiled my land",
+      "traditions": {
+        "WLC": "עַ֖ל חַלְּלָ֣ ם אֶת אַרְצִ֑ י",
+        "LXX": "ἐφ᾽ αἷς ἐβεβήλωσαν τὴν γῆν μου",
+        "VUL": "quia contaminavérunt terram meam",
+        "SP": null,
+        "KJV": "because they have defiled my land ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they have filled mine inheritance with the carcases of their detestable and abominable things",
+      "traditions": {
+        "WLC": "בְּ נִבְלַ֤ת שִׁקּֽוּצֵי הֶם֙ וְ תוֹעֲב֣וֹתֵי הֶ֔ם מָלְא֖וּ אֶת נַחֲלָתִֽ י",
+        "LXX": "ἐν τοῖς θνησιμαίοις τῶν βδελυγμάτων αὐτῶν καὶ ἐν ταῖς ἀνομίαις αὐτῶν , ἐν αἷς ἐπλημμέλησαν τὴν κληρονομίαν μου .",
+        "VUL": "in morticínis idolórum suórum , et abominatiónibus suis implevérunt hereditátem meam .",
+        "SP": null,
+        "KJV": "they have filled mine inheritance with the carcases of their detestable and abominable things .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "O LORD , my strength , and my fortress , and my refuge in the day of affliction",
+      "traditions": {
+        "WLC": "יְהוָ֞ה עֻזִּ֧ י וּ מָעֻזִּ֛ י וּ מְנוּסִ֖ י בְּ י֣וֹם צָרָ֑ה",
+        "LXX": "Κύριε , σὺ ἰσχύς μου καὶ βοήθειά μου καὶ καταφυγή μου ἐν ἡμέραις κακῶν ·",
+        "VUL": "Dómine fortitúdo mea , et robur meum , et refúgium meum in die tribulatiónis :",
+        "SP": null,
+        "KJV": "O LORD , my strength , and my fortress , and my refuge in the day of affliction ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the Gentiles shall come unto thee from the ends of the earth",
+      "traditions": {
+        "WLC": "אֵלֶ֗י ךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽ אַפְסֵי אָ֔רֶץ",
+        "LXX": "πρὸς σὲ ἔθνη ἥξουσιν ἀπ᾽ ἐσχάτου τῆς γῆς",
+        "VUL": "ad te gentes vénient ab extrémis terræ ,",
+        "SP": null,
+        "KJV": "the Gentiles shall come unto thee from the ends of the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and shall say , Surely our fathers have inherited lies , vanity , and [ things ] wherein [ there is ] no profit",
+      "traditions": {
+        "WLC": "וְ יֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔י נוּ הֶ֖בֶל וְ אֵֽין בָּ֥ ם מוֹעִֽיל",
+        "LXX": "καὶ ἐροῦσιν Ὡς ψευδῆ ἐκτήσαντο οἱ πατέρες ἡμῶν εἴδωλα , καὶ οὐκ ἔστιν ἐν αὐτοῖς ὠφέλημα .",
+        "VUL": "et dicent : Vere mendácium possedérunt patres nostri , vanitátem , quæ eis non prófuit .",
+        "SP": null,
+        "KJV": "and shall say , Surely our fathers have inherited lies , vanity , and [ things ] wherein [ there is ] no profit .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Shall a man make gods unto himself",
+      "traditions": {
+        "WLC": "הֲ יַעֲשֶׂה לּ֥ וֹ אָדָ֖ם אֱלֹהִ֑ים",
+        "LXX": "εἰ ποιήσει ἑαυτῷ ἄνθρωπος θεούς ,",
+        "VUL": "Numquid fáciet sibi homo deos ,",
+        "SP": null,
+        "KJV": "Shall a man make gods unto himself ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they [ are ] no gods ?",
+      "traditions": {
+        "WLC": "וְ הֵ֖מָּה לֹ֥א אֱלֹהִֽים",
+        "LXX": "καὶ οὗτοι οὐκ εἰσὶν θεοί ?",
+        "VUL": "et ipsi non sunt dii ?",
+        "SP": null,
+        "KJV": "and they [ are ] no gods ?",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore ,",
+      "traditions": {
+        "WLC": "לָ כֵן֙",
+        "LXX": "διὰ τοῦτο",
+        "VUL": "Idcírco",
+        "SP": null,
+        "KJV": "Therefore ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "behold , I will this once cause them to know ,",
+      "traditions": {
+        "WLC": "הִנְ נִ֣י מֽוֹדִיעָ֔ ם בַּ פַּ֣עַם הַ זֹּ֔את",
+        "LXX": "ἰδοὺ ἐγὼ δηλώσω αὐτοῖς ἐν τῷ καιρῷ τούτῳ",
+        "VUL": "ecce ego osténdam eis per vicem hanc ,",
+        "SP": null,
+        "KJV": "behold , I will this once cause them to know ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I will cause them to know mine hand and my might ;",
+      "traditions": {
+        "WLC": "אוֹדִיעֵ֥ ם אֶת יָדִ֖ י וְ אֶת גְּבֽוּרָתִ֑ י",
+        "LXX": "τὴν χεῖρά μου , καὶ γνωριῶ αὐτοῖς τὴν δύναμίν μου ,",
+        "VUL": "osténdam eis manum meam , et virtútem meam :",
+        "SP": null,
+        "KJV": "I will cause them to know mine hand and my might ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they shall know that my name [ is ] The LORD .",
+      "traditions": {
+        "WLC": "וְ יָדְע֖וּ כִּֽי שְׁמִ֥ י יְהוָֽה",
+        "LXX": "καὶ γνώσονται ὅτι ὄνομά μοι Κύριος .",
+        "VUL": "et scient quia nomen mihi Dóminus .",
+        "SP": null,
+        "KJV": "and they shall know that my name [ is ] The LORD .",
+        "DSS": null
+      }
+    }
+  ]
+}

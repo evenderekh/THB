@@ -1,0 +1,632 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician, A Psalm for the sons of Korah",
+      "traditions": {
+        "WLC": "לַ מְנַצֵּ֬חַ לִ בְנֵי קֹ֬רַח מִזְמֽוֹר",
+        "LXX": "Εἰς τὸ τέλος · τοῖς υἱοῖς Κόρε ψαλμός .",
+        "VUL": "In finem , fíliis Core Psalmus .",
+        "SP": null,
+        "KJV": null,
+        "DSS": "[4Q85] ε  ] #  # [  ε  ] #  # [  ε [ ל מנצח  ]ל ב##נ?י? ק##ר##ח מ#זמ##[ ור ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "To the chief Musician, A Psalm for the sons of Korah",
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "To the chief Musician , A Psalm for the sons of Korah .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Hear this, all ye people",
+      "traditions": {
+        "WLC": "שִׁמְעוּ זֹ֭את כָּל הָֽ עַמִּ֑ים",
+        "LXX": "Ἀκούσατε ταῦτα , πάντα τὰ ἔθνη ,",
+        "VUL": "Audíte hæc , omnes gentes :",
+        "SP": null,
+        "KJV": "Hear this , all [ ye ] people ;",
+        "DSS": "[4Q85] שמעו זאת כל ה עמים ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "give ear, all ye inhabitants of the world",
+      "traditions": {
+        "WLC": "הַ֝אֲזִ֗ינוּ כָּל יֹ֥שְׁבֵי חָֽלֶד",
+        "LXX": "ἐνωτίσασθε , πάντες οἱ κατοικοῦντες τὴν οἰκουμένην ,",
+        "VUL": "áuribus percípite , omnes qui habitátis orbem :",
+        "SP": null,
+        "KJV": "give ear , all [ ye ] inhabitants of the world :",
+        "DSS": "[ האזינו כל ישבי ח ]ל#ד ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Both low and high",
+      "traditions": {
+        "WLC": "גַּם בְּנֵ֣י אָ֭דָם גַּם בְּנֵי אִ֑ישׁ",
+        "LXX": "οἵ τε γηγενεῖς καὶ οἱ υἱοὶ τῶν ἀνθρώπων ,",
+        "VUL": "quique terrígenæ , et fílii hóminum :",
+        "SP": null,
+        "KJV": "Both low and high ,",
+        "DSS": "[4Q85] גם#[  בני אדם גם בני איש ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "rich and poor, together",
+      "traditions": {
+        "WLC": "יַ֝֗חַד עָשִׁ֥יר וְ אֶבְיֽוֹן",
+        "LXX": "ἐπὶ τὸ αὐτὸ πλούσιος καὶ πένης .",
+        "VUL": "simul in unum dives et pauper .",
+        "SP": null,
+        "KJV": "rich and poor , together .",
+        "DSS": "[ יחד עשיר ו א ]ביון ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "My mouth shall speak of wisdom",
+      "traditions": {
+        "WLC": "פִּ֭ י יְדַבֵּ֣ר חָכְמ֑וֹת",
+        "LXX": "τὸ στόμα μου λαλήσει σοφίαν ,",
+        "VUL": "Os meum loquétur sapiéntiam :",
+        "SP": null,
+        "KJV": "My mouth shall speak of wisdom ;",
+        "DSS": "[4Q85] פ׳י ידבר חכ#["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the meditation of my heart [ shall be ] of understanding",
+      "traditions": {
+        "WLC": "וְ הָג֖וּת לִבִּ֣ י תְבוּנֽוֹת",
+        "LXX": "καὶ ἡ μελέτη τῆς καρδίας μου σύνεσιν .",
+        "VUL": "et meditátio cordis mei prudéntiam .",
+        "SP": null,
+        "KJV": "and the meditation of my heart [ shall be ] of understanding .",
+        "DSS": "מות ו הגות לב׳י תבונות ] ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will incline mine ear to a parable",
+      "traditions": {
+        "WLC": "אַטֶּ֣ה לְ מָשָׁ֣ל אָזְנִ֑ י",
+        "LXX": "κλινῶ εἰς παραβολὴν τὸ οὖς μου ,",
+        "VUL": "Inclinábo in parábolam aurem meam :",
+        "SP": null,
+        "KJV": "I will incline mine ear to a parable :",
+        "DSS": "[4Q85] אטה  ]ל משל אזנ׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will open my dark saying upon the harp",
+      "traditions": {
+        "WLC": "אֶפְתַּ֥ח בְּ֝ כִנּ֗וֹר חִידָתִֽ י",
+        "LXX": "ἀνοίξω ἐν ψαλτηρίῳ τὸ πρόβλημά μου .",
+        "VUL": "apériam in psaltério propositiónem meam .",
+        "SP": null,
+        "KJV": "I will open my dark saying upon the harp .",
+        "DSS": "א##[ פתח ב כנור חידת׳י ] ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wherefore should I fear in the days of evil",
+      "traditions": {
+        "WLC": "לָ֣ מָּה אִ֭ירָא בִּ֣ ימֵי רָ֑ע",
+        "LXX": "ἵνα τί φοβοῦμαι ἐν ἡμέρᾳ πονηρᾷ ;",
+        "VUL": "Cur timébo in die mala ?",
+        "SP": null,
+        "KJV": "Wherefore should I fear in the days of evil , [ when ]",
+        "DSS": "[4Q85] [ למה אירא ב ימי ] רע / [4Q91] [ למה אי ]ר#א ב י?[ מי רע"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[when] the iniquity of my heels shall compass me about",
+      "traditions": {
+        "WLC": "עֲוֺ֖ן עֲקֵבַ֣ י יְסוּבֵּֽ נִי",
+        "LXX": "ἡ ἀνομία τῆς πτέρνης μου κυκλώσει με ,",
+        "VUL": "iníquitas calcánei mei circúmdabit me :",
+        "SP": null,
+        "KJV": "the iniquity of my heels shall compass me about ?",
+        "DSS": "[4Q85] ע[ ון עקב׳י יסוב ]׳נ#?י? ׃ / [4Q91] עון עקב׳י יסוב׳ני ε ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "They that trust in their wealth",
+      "traditions": {
+        "WLC": "הַ בֹּטְחִ֥ים עַל חֵילָ֑ ם",
+        "LXX": "οἱ πεποιθότες ἐπὶ τῇ δυνάμει αὐτῶν",
+        "VUL": "qui confídunt in virtúte sua :",
+        "SP": null,
+        "KJV": "They that trust in their wealth ,",
+        "DSS": "[4Q85] [ ה בטחים על חי ]ל׳ם#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and boast themselves in the multitude of their riches",
+      "traditions": {
+        "WLC": "וּ בְ רֹ֥ב עָ֝שְׁרָ֗ ם יִתְהַלָּֽלוּ",
+        "LXX": "καὶ ἐπὶ τῷ πλήθει τοῦ πλούτου αὐτῶν καυχώμενοι .",
+        "VUL": "et in multitúdine divitiárum suárum gloriántur .",
+        "SP": null,
+        "KJV": "and boast themselves in the multitude of their riches ;",
+        "DSS": "ו ב רב##[  עשר ]׳ם## י?תהללו ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "None [ of them ] can by any means redeem his brother",
+      "traditions": {
+        "WLC": "אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ",
+        "LXX": "ἀδελφὸς οὐ λυτροῦται · λυτρώσεται ἄνθρωπος ;",
+        "VUL": "Frater non rédimit , rédimet homo :",
+        "SP": null,
+        "KJV": "None [ of them ] can by any means redeem his brother ,",
+        "DSS": "[4Q85] [ אח לא פדה יפדה איש ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "nor give to God a ransom for him",
+      "traditions": {
+        "WLC": "לֹא יִתֵּ֖ן לֵ אלֹהִ֣ים כָּפְרֽ וֹ",
+        "LXX": "οὐ δώσει τῷ θεῷ ἐξίλασμα αὐτοῦ ,",
+        "VUL": "non dabit Deo placatiónem suam .",
+        "SP": null,
+        "KJV": "nor give to God a ransom for him :",
+        "DSS": "לא יתן ל אלהים כפ#ר#׳ו ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the redemption of their soul [ is ] precious",
+      "traditions": {
+        "WLC": "וְ֭ יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ ם",
+        "LXX": "καὶ τὴν τιμὴν τῆς λυτρώσεως τῆς ψυχῆς αὐτοῦ ·",
+        "VUL": "Et prétium redemptiónis ánimæ suæ :",
+        "SP": null,
+        "KJV": "( For the redemption of their soul [ is ] precious ,",
+        "DSS": "[4Q85] [ ו יקר פדיון נפש׳ם  ] / [4Q91] [ ו יקר פ ]ד##이?ון? נפ#ש׳ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and it ceaseth for ever",
+      "traditions": {
+        "WLC": "וְ חָדַ֥ל לְ עוֹלָֽם",
+        "LXX": "καὶ ἐκοπίασεν εἰς τὸν αἰῶνα ,",
+        "VUL": "et laborábit in ætérnum ,",
+        "SP": null,
+        "KJV": "and it ceaseth for ever : )",
+        "DSS": "[4Q85] ו#? חדל ל עולם ׃ / [4Q91] ו חלו? # [  ε ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "That he should still live for ever",
+      "traditions": {
+        "WLC": "וִֽ יחִי ע֥וֹד לָ נֶ֑צַח",
+        "LXX": "καὶ ζήσεται εἰς τέλος ,",
+        "VUL": "et vivet adhuc in finem .",
+        "SP": null,
+        "KJV": "That he should still live for ever , [ and ]",
+        "DSS": "[4Q85] ו יחי עוד ל נצח / [4Q91] ו יחי ] עוד ל נ?[ צח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[and] not see corruption",
+      "traditions": {
+        "WLC": "לֹ֖א יִרְאֶ֣ה הַ שָּֽׁחַת",
+        "LXX": "ὅτι οὐκ ὄψεται καταφθοράν ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "not see corruption .",
+        "DSS": "[4Q85] ו לא [ יראה ה שחת ] ׃ / [4Q91] לוא יראה ה שחת ] ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "For he seeth [ that ] wise men die",
+      "traditions": {
+        "WLC": "כִּ֤י יִרְאֶ֨ה חֲכָ֘מִ֤ים יָמ֗וּתוּ",
+        "LXX": "ὅταν ἴδῃ σοφοὺς ἀποθνήσκοντας .",
+        "VUL": "Non vidébit intéritum , cum víderit sapiéntes moriéntes :",
+        "SP": null,
+        "KJV": "For he seeth [ that ] wise men die ,",
+        "DSS": "כי יראה ח#כמים ימתו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "likewise the fool and the brutish person perish",
+      "traditions": {
+        "WLC": "יַ֤חַד כְּסִ֣יל וָ בַ֣עַר יֹאבֵ֑דוּ",
+        "LXX": "ἐπὶ τὸ αὐτὸ ἄνους καὶ ἄφρων ἀπολοῦνται ,",
+        "VUL": "simul insípiens , et stultus períbunt .",
+        "SP": null,
+        "KJV": "likewise the fool and the brutish person perish ,",
+        "DSS": "[ יחד כסי ]ל ו בער יאבדו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and leave their wealth to others",
+      "traditions": {
+        "WLC": "וְ עָזְב֖וּ לַ אֲחֵרִ֣ים חֵילָֽ ם",
+        "LXX": "καὶ καταλείψουσιν ἀλλοτρίοις τὸν πλοῦτον αὐτῶν .",
+        "VUL": "Et relínquent aliénis divítias suas :",
+        "SP": null,
+        "KJV": "and leave their wealth to others .",
+        "DSS": "ו עזבו? ל אחרים חיל׳ם#"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Their inward thought [ is , that ] their houses [ shall continue ] for ever",
+      "traditions": {
+        "WLC": "קִרְבָּ֤ ם בָּתֵּ֨י מוֹ לְֽ עוֹלָ֗ם",
+        "LXX": "καὶ οἱ τάφοι αὐτῶν οἰκίαι αὐτῶν εἰς τὸν αἰῶνα ,",
+        "VUL": "et sepúlcra eórum domus illórum in ætérnum .",
+        "SP": null,
+        "KJV": "Their inward thought [ is , that ] their houses [ shall continue ] for ever , [",
+        "DSS": "[ קרב׳ם ב ]ת##י׳מו ל עולם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and their dwelling places to all generations",
+      "traditions": {
+        "WLC": "מִ֭שְׁכְּנֹתָ ם לְ דֹ֣ר וָ דֹ֑ר",
+        "LXX": "σκηνώματα αὐτῶν εἰς γενεὰν καὶ γενεάν ·",
+        "VUL": "Tabernácula eórum in progénie et progénie :",
+        "SP": null,
+        "KJV": "and ] their dwelling places to all generations ;",
+        "DSS": "משכנות׳ם ל דר ו דר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they call [ their ] lands after their own names",
+      "traditions": {
+        "WLC": "קָֽרְא֥וּ בִ֝ שְׁמוֹתָ֗ ם עֲלֵ֣י אֲדָמֽוֹת",
+        "LXX": "ἐπεκαλέσαντο τὰ ὀνόματα αὐτῶν ἐπὶ τῶν γαιῶν αὐτῶν ·",
+        "VUL": "vocavérunt nómina sua in terris suis .",
+        "SP": null,
+        "KJV": "they call [ their ] lands after their own names .",
+        "DSS": "[ קראו ב ש ]מות׳ם עלי אדמות"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Nevertheless man [ being ] in honour abideth not",
+      "traditions": {
+        "WLC": "וְ אָדָ֣ם בִּ֭ יקָר בַּל יָלִ֑ין",
+        "LXX": "καὶ ἄνθρωπος ἐν τιμῇ ὢν οὐ συνῆκεν ·",
+        "VUL": "Et homo , cum in honóre esset , non intelléxit :",
+        "SP": null,
+        "KJV": "Nevertheless man [ being ] in honour abideth not :",
+        "DSS": "ו אדם ב יקר בל יבין"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he is like the beasts [ that ] perish",
+      "traditions": {
+        "WLC": "נִמְשַׁ֖ל כַּ בְּהֵמ֣וֹת נִדְמֽוּ",
+        "LXX": "παρασυνεβλήθη τοῖς κτήνεσιν τοῖς ἀνοήτοις καὶ ὡμοιώθη αὐτοῖς .",
+        "VUL": "comparátus est iuméntis insipiéntibus , et símilis factus est illis .",
+        "SP": null,
+        "KJV": "he is like the beasts [ that ] perish .",
+        "DSS": "נמשל כ בהמות נדמו"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "This their way [ is ] their folly",
+      "traditions": {
+        "WLC": "זֶ֣ה דַ֭רְכָּ ם כֵּ֣סֶל לָ֑ מוֹ",
+        "LXX": "αὕτη ἡ ὁδὸς αὐτῶν σκάνδαλον αὐτοῖς ,",
+        "VUL": "Hæc via illórum scándalum ipsis :",
+        "SP": null,
+        "KJV": "This their way [ is ] their folly :",
+        "DSS": "זה דרכ׳ם כסל ל׳מו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "yet their posterity approve their sayings",
+      "traditions": {
+        "WLC": "וְ אַחֲרֵי הֶ֓ם בְּ פִי הֶ֖ם יִרְצ֣וּ",
+        "LXX": "καὶ μετὰ ταῦτα ἐν τῷ στόματι αὐτῶν εὐλογήσουσιν .",
+        "VUL": "et póstea in ore suo complacébunt .",
+        "SP": null,
+        "KJV": "yet their posterity approve their sayings .",
+        "DSS": "ו אחרי׳הם ב פי׳הם ירצו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": "סלה"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Like sheep they are laid in the grave",
+      "traditions": {
+        "WLC": "כַּ צֹּ֤אן לִֽ שְׁא֣וֹל שַׁתּוּ֮",
+        "LXX": "ὡς πρόβατα ἐν ᾅδῃ ἔθεντο ,",
+        "VUL": "Sicut oves in inférno pósiti sunt :",
+        "SP": null,
+        "KJV": "Like sheep they are laid in the grave ;",
+        "DSS": "כ צאן ל שאול שתו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "death shall feed on them",
+      "traditions": {
+        "WLC": "מָ֤וֶת יִ֫רְעֵ֥ ם",
+        "LXX": "θάνατος ποιμαίνει αὐτούς ·",
+        "VUL": "mors depáscet eos .",
+        "SP": null,
+        "KJV": "death shall feed on them ;",
+        "DSS": "מות ירע׳ם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the upright shall have dominion over them in the morning",
+      "traditions": {
+        "WLC": "וַ יִּרְדּ֘וּ בָ֤ ם יְשָׁרִ֨ים לַ בֹּ֗קֶר",
+        "LXX": "καὶ κατακυριεύσουσιν αὐτῶν οἱ εὐθεῖς τὸ πρωί ,",
+        "VUL": "Et dominabúntur eórum iusti in matutíno :",
+        "SP": null,
+        "KJV": "and the upright shall have dominion over them in the morning ;",
+        "DSS": "ו ירדו ב׳ם ישרים ל בוקר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and their beauty shall consume in the grave from their dwelling",
+      "traditions": {
+        "WLC": "ו ציר ם לְ בַלּ֥וֹת שְׁא֗וֹל מִ זְּבֻ֥ל לֽ וֹ",
+        "LXX": "καὶ ἡ βοήθεια αὐτῶν παλαιωθήσεται ἐν τῷ ᾅδῃ ἐκ τῆς δόξης αὐτῶν .",
+        "VUL": "et auxílium eórum veteráscet in inférno a glória eórum .",
+        "SP": null,
+        "KJV": "and their beauty shall consume in the grave from their dwelling .",
+        "DSS": "ו צור׳ם ל ב#לות שאול מ זבול ל׳ו"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "But God will redeem my soul from the power of the grave",
+      "traditions": {
+        "WLC": "אַךְ אֱלֹהִ֗ים יִפְדֶּ֣ה נַ֭פְשִׁ י מִֽ יַּד שְׁא֑וֹל",
+        "LXX": "πλὴν ὁ θεὸς λυτρώσεται τὴν ψυχήν μου ἐκ χειρὸς ᾅδου ,",
+        "VUL": "Verúmtamen Deus rédimet ánimam meam de manu ínferi ,",
+        "SP": null,
+        "KJV": "But God will redeem my soul from the power of the grave :",
+        "DSS": "אך אלהים יפ#ד#ה# [ נפש׳י מ יד שאול ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for he shall receive me",
+      "traditions": {
+        "WLC": "כִּ֖י יִקָּחֵ֣ נִי",
+        "LXX": "ὅταν λαμβάνῃ με .",
+        "VUL": "cum accéperit me .",
+        "SP": null,
+        "KJV": "for he shall receive me .",
+        "DSS": "כי יקח׳ני"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": "סלה"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Be not thou afraid when one is made rich",
+      "traditions": {
+        "WLC": "אַל תִּ֭ירָא כִּֽי יַעֲשִׁ֣ר אִ֑ישׁ",
+        "LXX": "μὴ φοβοῦ ὅταν πλουτήσῃ ἄνθρωπος ,",
+        "VUL": "Ne timúeris cum dives factus fúerit homo :",
+        "SP": null,
+        "KJV": "Be not thou afraid when one is made rich ,",
+        "DSS": "אל תירא כי יעשר איש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when the glory of his house is increased",
+      "traditions": {
+        "WLC": "כִּֽי יִ֝רְבֶּה כְּב֣וֹד בֵּיתֽ וֹ",
+        "LXX": "καὶ ὅταν πληθυνθῇ ἡ δόξα τοῦ οἴκου αὐτοῦ ·",
+        "VUL": "et cum multiplicáta fúerit glória domus eius .",
+        "SP": null,
+        "KJV": "when the glory of his house is increased ;",
+        "DSS": "כי ירבה כבוד בית׳ו"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "For when he dieth he shall carry nothing away",
+      "traditions": {
+        "WLC": "כִּ֤י לֹ֣א בְ֭ מוֹת וֹ יִקַּ֣ח הַ כֹּ֑ל",
+        "LXX": "ὅτι οὐκ ἐν τῷ ἀποθνήσκειν αὐτὸν λήμψεται τὰ πάντα ,",
+        "VUL": "Quóniam cum interíerit , non sumet ómnia :",
+        "SP": null,
+        "KJV": "For when he dieth he shall carry nothing away :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "his glory shall not descend after him",
+      "traditions": {
+        "WLC": "לֹא יֵרֵ֖ד אַחֲרָ֣י ו כְּבוֹדֽ וֹ",
+        "LXX": "οὐδὲ συνκαταβήσεται αὐτῷ ἡ δόξα αὐτοῦ .",
+        "VUL": "neque descéndet cum eo glória eius .",
+        "SP": null,
+        "KJV": "his glory shall not descend after him .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Though while he lived he blessed his soul",
+      "traditions": {
+        "WLC": "כִּֽי נַ֭פְשׁ וֹ בְּ חַיָּ֣י ו יְבָרֵ֑ךְ",
+        "LXX": "ὅτι ἡ ψυχὴ αὐτοῦ ἐν τῇ ζωῇ αὐτοῦ εὐλογηθήσεται ,",
+        "VUL": "Quia ánima eius in vita ipsíus benedicétur :",
+        "SP": null,
+        "KJV": "Though while he lived he blessed his soul :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ men ] will praise thee , when thou doest well to thyself",
+      "traditions": {
+        "WLC": "וְ֝ יוֹדֻ֗ ךָ כִּי תֵיטִ֥יב לָֽ ךְ",
+        "LXX": "ἐξομολογήσεταί σοι ὅταν ἀγαθύνῃς αὐτῷ .",
+        "VUL": "confitébitur tibi cum beneféceris ei .",
+        "SP": null,
+        "KJV": "and [ men ] will praise thee , when thou doest well to thyself .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "He shall go to the generation of his fathers",
+      "traditions": {
+        "WLC": "תָּ֭בוֹא עַד דּ֣וֹר אֲבוֹתָ֑י",
+        "LXX": "εἰσελεύσεται ἕως γενεᾶς πατέρων αὐτοῦ ,",
+        "VUL": "Introíbit usque in progénies patrum suórum :",
+        "SP": null,
+        "KJV": "He shall go to the generation of his fathers ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they shall never see light",
+      "traditions": {
+        "WLC": "ו עַד נֵ֝֗צַח לֹ֣א יִרְאוּ אֽוֹר",
+        "LXX": "ἕως αἰῶνος οὐκ ὄψεται φῶς .",
+        "VUL": "et usque in ætérnum non vidébit lumen .",
+        "SP": null,
+        "KJV": "they shall never see light .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Man [ that is ] in honour",
+      "traditions": {
+        "WLC": "אָדָ֣ם בִּ֭ יקָר",
+        "LXX": "ἄνθρωπος ἐν τιμῇ ὢν",
+        "VUL": "Homo , cum in honóre esset ,",
+        "SP": null,
+        "KJV": "Man [ that is ] in honour ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and understandeth not",
+      "traditions": {
+        "WLC": "וְ לֹ֣א יָבִ֑ין",
+        "LXX": "οὐ συνῆκεν ,",
+        "VUL": "non intelléxit :",
+        "SP": null,
+        "KJV": "and understandeth not ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "is like the beasts [ that ] perish",
+      "traditions": {
+        "WLC": "נִמְשַׁ֖ל כַּ בְּהֵמ֣וֹת נִדְמֽוּ",
+        "LXX": "παρασυνεβλήθη τοῖς κτήνεσιν τοῖς ἀνοήτοις καὶ ὡμοιώθη αὐτοῖς .",
+        "VUL": "comparátus est iuméntis insipiéntibus , et símilis factus est illis .",
+        "SP": null,
+        "KJV": "is like the beasts [ that ] perish .",
+        "DSS": null
+      }
+    }
+  ]
+}

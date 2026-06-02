@@ -1,0 +1,538 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And when any will offer a meat offering unto the LORD",
+      "traditions": {
+        "WLC": "וְ נֶ֗פֶשׁ כִּֽי תַקְרִ֞יב קָרְבַּ֤ן מִנְחָה֙ לַֽ יהוָ֔ה",
+        "LXX": "Ἐὰν δὲ ψυχὴ προσφέρῃ δῶρον θυσίαν τῷ κυρίῳ ,",
+        "VUL": "Anima cum obtúlerit oblatiónem sacrifícii Dómino ,",
+        "SP": "ו נפשׁ כי תקריב קרבן מנחה ל יהוה",
+        "KJV": "And when any will offer a meat offering unto the LORD ,",
+        "DSS": "[4Q17] [ ו נפש כי תקריב ק ]רבנ׳ו מנחה [ ל יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "his offering shall be [ of ] fine flour",
+      "traditions": {
+        "WLC": "סֹ֖לֶת יִהְיֶ֣ה קָרְבָּנ֑",
+        "LXX": "σεμίδαλις ἔσται τὸ δῶρον αὐτοῦ ·",
+        "VUL": "símila erit eius oblátio :",
+        "SP": "סלת יהיה קרבנו",
+        "KJV": "his offering shall be [ of ] fine flour ;",
+        "DSS": "סלת יהיה קרבנ׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he shall pour oil upon it",
+      "traditions": {
+        "WLC": "וֹ וְ יָצַ֤ק עָלֶ֨י הָ֙ שֶׁ֔מֶן",
+        "LXX": "καὶ ἐπιχεεῖ ἐπ᾽ αὐτὸ ἔλαιον ,",
+        "VUL": "fundétque super eam óleum ,",
+        "SP": "ו יצק עליה שׁמן",
+        "KJV": "and he shall pour oil upon it ,",
+        "DSS": "ו יצק [ עלי׳ה שמן"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and put frankincense thereon",
+      "traditions": {
+        "WLC": "וְ נָתַ֥ן עָלֶ֖י הָ לְבֹנָֽה",
+        "LXX": "καὶ ἐπιθήσει ἐπ᾽ αὐτὸ λίβανον ·",
+        "VUL": "et ponet thus ,",
+        "SP": "ו נתן עליה לבונה",
+        "KJV": "and put frankincense thereon :",
+        "DSS": "ו נתן עלי׳ה לבו]נ#?ה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "θυσία ἐστίν .",
+        "VUL": null,
+        "SP": "מנחה היא",
+        "KJV": null,
+        "DSS": "מנחה [ היא ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he shall bring it to Aaron ’s sons the priests",
+      "traditions": {
+        "WLC": "וֶֽ הֱבִיאָ֗ הּ אֶל בְּנֵ֣י אַהֲרֹן֮ הַ כֹּהֲנִים֒",
+        "LXX": "καὶ οἴσει πρὸς τοὺς υἱοὺς Ἀαρὼν τοὺς ἱερεῖς ·",
+        "VUL": "ac déferet ad fílios Aaron sacerdótes :",
+        "SP": "ו הביאה אל בני אהרן ה כהנים",
+        "KJV": "And he shall bring it to Aaron ’s sons the priests :",
+        "DSS": "[4Q24] ו הביא׳ה אל בני אהרן ]ה# כהנים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof",
+      "traditions": {
+        "WLC": "וְ קָמַ֨ץ מִ שָּׁ֜ם מְלֹ֣א קֻמְצ֗ וֹ מִ סָּלְתָּ הּ֙ וּ מִ שַּׁמְנָ֔ הּ עַ֖ל כָּל לְבֹנָתָ֑ הּ",
+        "LXX": "καὶ δραξάμενος ἀπ᾽ αὐτῆς πλήρη τὴν δράκα ἀπὸ τῆς σεμιδάλεως σὺν τῷ ἐλαίῳ καὶ πάντα τὸν λίβανον αὐτῆς ,",
+        "VUL": "quorum unus tollet pugíllum plenum símilæ et ólei , ac totum thus ,",
+        "SP": "ו קמץ ממנה מלוא קמצו מ סלתה ו מ שׁמנה על כל לבונתה",
+        "KJV": "and he shall take thereout his handful of the flour thereof , and of the oil thereof , with all the frankincense thereof ;",
+        "DSS": "ו קמ[ ץ מ שם מלא קמצ׳ו מ סלת׳ה ] [ ו מ שמנ׳ה על כל לבונת׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the priest shall burn the memorial of it upon the altar",
+      "traditions": {
+        "WLC": "וְ הִקְטִ֨יר הַ כֹּהֵ֜ן אֶת אַזְכָּרָתָ הּ֙ הַ מִּזְבֵּ֔חָ ה",
+        "LXX": "καὶ ἐπιθήσει ὁ ἱερεὺς τὸ μνημόσυνον αὐτῆς ἐπὶ τὸ θυσιαστήριον ·",
+        "VUL": "et ponet memoriále super altáre",
+        "SP": "ו הקטיר ה כהן את אזכרתה ה מזבחה",
+        "KJV": "and the priest shall burn the memorial of it upon the altar , [ to be ]",
+        "DSS": "ו הקטיר ה כה ]ן#? את אזכ#ר##ת##׳[ ה ה מזבח׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ to be ] an offering made by fire , of a sweet savour unto the LORD",
+      "traditions": {
+        "WLC": "אִשֵּׁ֛ה רֵ֥יחַ נִיחֹ֖חַ לַ יהוָֽה",
+        "LXX": "θυσία , ὀσμὴ εὐωδίας τῷ κυρίῳ .",
+        "VUL": "in odórem suavíssimum Dómino .",
+        "SP": "אשׁה ריח ניחח ל יהוה",
+        "KJV": "an offering made by fire , of a sweet savour unto the LORD :",
+        "DSS": "אשה ריח ניחוח ] [ ל יהוה ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the remnant of the meat offering [ shall be ] Aaron ’s and his sons ’",
+      "traditions": {
+        "WLC": "וְ הַ נּוֹתֶ֨רֶת֙ מִן הַ מִּנְחָ֔ה לְ אַהֲרֹ֖ן וּ לְ בָנָ֑י",
+        "LXX": "καὶ τὸ λοιπὸν ἀπὸ τῆς θυσίας Ἀαρὼν καὶ τοῖς υἱοῖς αὐτοῦ ,",
+        "VUL": "Quod autem réliquum fúerit de sacrifício , erit Aaron et filiórum eius ,",
+        "SP": "ו ה נותרת מן ה מנחה ל אהרן ו ל בניו",
+        "KJV": "And the remnant of the meat offering [ shall be ] Aaron ’s and his sons ’ : [ it is ]",
+        "DSS": "[4Q24] ו ה נותרת מן ה מנחה ל אהרן ו ל בנ ]י#?׳ו#? "
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ it is ] a thing most holy of the offerings of the LORD made by fire",
+      "traditions": {
+        "WLC": "ו קֹ֥דֶשׁ קָֽדָשִׁ֖ים מֵ אִשֵּׁ֥י יְהוָֽה",
+        "LXX": "ἅγιον τῶν ἁγίων ἀπὸ τῶν θυσιῶν Κυρίου .",
+        "VUL": "Sanctum sanctórum de oblatiónibus Dómini .",
+        "SP": "קדשׁ קדשׁים מ אשׁי יהוה",
+        "KJV": "a thing most holy of the offerings of the LORD made by fire .",
+        "DSS": "[ קדש קדשים מ אשי יהוה ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if thou bring an oblation of a meat offering baken in the oven",
+      "traditions": {
+        "WLC": "וְ כִ֥י תַקְרִ֛ב קָרְבַּ֥ן מִנְחָ֖ה מַאֲפֵ֣ה תַנּ֑וּר",
+        "LXX": "Ἐὰν δὲ προσφέρῃ δῶρον θυσίαν πεπεμμένην ἐκ λιβάνου , δῶρον Κυρίῳ ἐκ σεμιδάλεως ,",
+        "VUL": "Cum autem obtúleris sacrifícium coctum in clíbano :",
+        "SP": "ו כי תקריב קרבן מנחה מאפה תנור",
+        "KJV": "And if thou bring an oblation of a meat offering baken in the oven , [ it shall be ]",
+        "DSS": "[4Q24] [ ו כי תקריב קרבן מנחה מאפה תנור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ it shall be ] unleavened cakes of fine flour mingled with oil",
+      "traditions": {
+        "WLC": "סֹ֣לֶת חַלּ֤וֹת מַצֹּת֙ בְּלוּלֹ֣ת בַּ שֶּׁ֔מֶן",
+        "LXX": "ἄρτους ἀζύμους πεφυραμένους ἐν ἐλαίῳ",
+        "VUL": "de símila , panes scílicet absque ferménto , conspérsos óleo ,",
+        "SP": "סלת חלות מצות בללות ב שׁמן",
+        "KJV": "unleavened cakes of fine flour mingled with oil ,",
+        "DSS": "סלת חלות מצת בלולת ב שמן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "or unleavened wafers anointed with oil",
+      "traditions": {
+        "WLC": "וּ רְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֥ים בַּ שָּֽׁמֶן",
+        "LXX": "καὶ λάγανα ἄζυμα διακεχρισμένα ἐν ἐλαίῳ .",
+        "VUL": "et lágana ázyma óleo lita .",
+        "SP": "ו רקיקי מצות משׁחים ב שׁמן",
+        "KJV": "or unleavened wafers anointed with oil .",
+        "DSS": "ו רקיקי מצות ] [ משחים ב שמן ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if thy oblation [ be ] a meat offering [ baken ] in a pan",
+      "traditions": {
+        "WLC": "וְ אִם מִנְחָ֥ה עַל הַֽ מַּחֲבַ֖ת קָרְבָּנֶ֑ ךָ",
+        "LXX": "ἐὰν δὲ θυσία ἀπὸ τηγάνου τὸ δῶρόν σου ,",
+        "VUL": "Si oblátio tua fúerit de sartágine ,",
+        "SP": "ו אם מנחה על מחבת קרבנך",
+        "KJV": "And if thy oblation [ be ] a meat offering [ baken ] in a pan ,",
+        "DSS": "[4Q24] ו אם ]מ##נחה [ על ה מח ]ב##ת קרבנ׳ך##["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it shall be [ of ] fine flour unleavened , mingled with oil",
+      "traditions": {
+        "WLC": "סֹ֛לֶת בְּלוּלָ֥ה בַ שֶּׁ֖מֶן מַצָּ֥ה תִהְיֶֽה",
+        "LXX": "σεμίδαλις πεφυραμένη ἐν ἐλαίῳ , ἄζυμά ἐστιν ·",
+        "VUL": "símilæ conspérsæ óleo et absque ferménto ,",
+        "SP": "סלת בלולה ב שׁמן מצה תהיה",
+        "KJV": "it shall be [ of ] fine flour unleavened , mingled with oil .",
+        "DSS": "סלת בלולה ב שמן מצה תהיה ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt part it in pieces",
+      "traditions": {
+        "WLC": "פָּת֤וֹת אֹתָ הּ֙ פִּתִּ֔ים",
+        "LXX": "καὶ διαθρύψεις αὐτὰ κλάσματα ,",
+        "VUL": "dívides eam minutátim ,",
+        "SP": "פתת אתה פתים",
+        "KJV": "Thou shalt part it in pieces ,",
+        "DSS": "[4Q24] פתות ] את#׳ה פ##[ תים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and pour oil thereon",
+      "traditions": {
+        "WLC": "וְ יָצַקְתָּ֥ עָלֶ֖י הָ שָׁ֑מֶן",
+        "LXX": "καὶ ἐπιχεεῖς ἐπ᾽ αὐτὰ ἔλαιον ·",
+        "VUL": "et fundes super eam óleum .",
+        "SP": "ו יצקת עליה שׁמן",
+        "KJV": "and pour oil thereon :",
+        "DSS": "ו יצק ]ת עלי׳ה שמן#?["
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "it [ is ] a meat offering",
+      "traditions": {
+        "WLC": "מִנְחָ֖ה הִֽוא",
+        "LXX": "θυσία ἐστὶν Κυρίῳ .",
+        "VUL": null,
+        "SP": "מנחה היא",
+        "KJV": "it [ is ] a meat offering .",
+        "DSS": "מנחה היא ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if thy oblation [ be ] a meat offering [ baken ] in the fryingpan",
+      "traditions": {
+        "WLC": "וְ אִם מִנְחַ֥ת מַרְחֶ֖שֶׁת קָרְבָּנֶ֑ ךָ",
+        "LXX": "ἐὰν δὲ θυσία ἀπὸ ἐσχάρας τὸ δῶρόν σου ,",
+        "VUL": "Sin autem de cratícula fúerit sacrifícium ,",
+        "SP": "ו אם מנחה מרחשׁת קרבנך",
+        "KJV": "And if thy oblation [ be ] a meat offering [ baken ] in the fryingpan ,",
+        "DSS": "[4Q24] ו אם מנחת מרחשת קרבנ׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it shall be made [ of ] fine flour with oil",
+      "traditions": {
+        "WLC": "סֹ֥לֶת בַּ שֶּׁ֖מֶן תֵּעָשֶֽׂה",
+        "LXX": "ἐν ἐλαίῳ ποιηθήσεται .",
+        "VUL": "æque símila óleo conspergétur :",
+        "SP": "סלת ב שׁמן תעשׂה",
+        "KJV": "it shall be made [ of ] fine flour with oil .",
+        "DSS": "סלת ב שמן ] תעשה ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt bring the meat offering that is made of these things unto the LORD",
+      "traditions": {
+        "WLC": "וְ הֵבֵאתָ֣ אֶת הַ מִּנְחָ֗ה אֲשֶׁ֧ר יֵעָשֶׂ֛ה מֵ אֵ֖לֶּה לַ יהוָ֑ה",
+        "LXX": "καὶ προσοίσει τὴν θυσίαν ἣν ἂν ποιῇ ἐκ τούτων τῷ κυρίῳ ,",
+        "VUL": "quam ófferens Dómino ,",
+        "SP": "ו הבאת את ה מנחה אשׁר יעשׂה מ אלה ל יהוה",
+        "KJV": "And thou shalt bring the meat offering that is made of these things unto the LORD :",
+        "DSS": "[4Q24] ו הביא את ה# מ#נ#?חה א[ שר יעשה מ אלה ל יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and when it is presented unto the priest",
+      "traditions": {
+        "WLC": "וְ הִקְרִיבָ הּ֙ אֶל הַ כֹּהֵ֔ן",
+        "LXX": "καὶ προσοίσει πρὸς τὸν ἱερέα ·",
+        "VUL": "trades mánibus sacerdótis .",
+        "SP": "ו הקריבה אל ה כהן",
+        "KJV": "and when it is presented unto the priest ,",
+        "DSS": "ו הקריב׳ה אל ה כהן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he shall bring it unto the altar",
+      "traditions": {
+        "WLC": "וְ הִגִּישָׁ֖ הּ אֶל הַ מִּזְבֵּֽחַ",
+        "LXX": "καὶ προσεγγίσας πρὸς τὸ θυσιαστήριον",
+        "VUL": null,
+        "SP": "ו הגישׁה אל ה מזבח",
+        "KJV": "he shall bring it unto the altar .",
+        "DSS": "ו הגיש׳ה ] אל ה מזב#ח ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the priest shall take from the meat offering a memorial thereof",
+      "traditions": {
+        "WLC": "וְ הֵרִ֨ים הַ כֹּהֵ֤ן מִן הַ מִּנְחָה֙ אֶת אַזְכָּ֣רָתָ֔ הּ",
+        "LXX": "ἀφελεῖ ὁ ἱερεὺς ἀπὸ τῆς θυσίας τὸ μνημόσυνον αὐτῆς ,",
+        "VUL": "Qui cum obtúlerit eam , tollet memoriále de sacrifício ,",
+        "SP": "ו הרים ה כהן מן ה מנחה את אזכרתה",
+        "KJV": "And the priest shall take from the meat offering a memorial thereof ,",
+        "DSS": "[4Q24] ו הרים ה כ##[ הן מן ה מנחה את אזכרת׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall burn [ it ] upon the altar",
+      "traditions": {
+        "WLC": "וְ הִקְטִ֖יר הַ מִּזְבֵּ֑חָ ה",
+        "LXX": "καὶ ἐπιθήσει ὁ ἱερεὺς ἐπὶ τὸ θυσιαστήριον ·",
+        "VUL": "et adolébit super altáre",
+        "SP": "ו הקטיר ה מזבחה",
+        "KJV": "and shall burn [ it ] upon the altar : [ it is ]",
+        "DSS": "ו הקטיר ה מזבח׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ it is ] an offering made by fire , of a sweet savour unto the LORD",
+      "traditions": {
+        "WLC": "אִשֵּׁ֛ה רֵ֥יחַ נִיחֹ֖חַ לַ יהוָֽה",
+        "LXX": "κάρπωμα , ὀσμὴ εὐωδίας Κυρίῳ .",
+        "VUL": "in odórem suavitátis Dómino :",
+        "SP": "אשׁה ריח ניחח ל יהוה",
+        "KJV": "an offering made by fire , of a sweet savour unto the LORD .",
+        "DSS": "אשה ריח ] ניחוח ל יהוה ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And that which is left of the meat offering [ shall be ] Aaron ’s and his sons ’",
+      "traditions": {
+        "WLC": "וְ הַ נּוֹתֶ֨רֶת֙ מִן הַ מִּנְחָ֔ה לְ אַהֲרֹ֖ן וּ לְ בָנָ֑י",
+        "LXX": "τὸ δὲ καταλειφθὲν ἀπὸ τῆς θυσίας Ἀαρὼν καὶ τοῖς υἱοῖς αὐτοῦ ,",
+        "VUL": "quidquid autem réliquum est , erit Aaron , et filiórum eius ,",
+        "SP": "ו ה נותרת מן ה מנחה ל אהרן ו ל בניו",
+        "KJV": "And that which is left of the meat offering [ shall be ] Aaron ’s and his sons ’ : [ it is ]",
+        "DSS": "[4Q24] ו ה נו#?[ תרת מן ה מנחה ל אהרן ו ל בני׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ it is ] a thing most holy of the offerings of the LORD made by fire",
+      "traditions": {
+        "WLC": "ו קֹ֥דֶשׁ קָֽדָשִׁ֖ים מֵ אִשֵּׁ֥י יְהוָֽה",
+        "LXX": "ἅγια τῶν ἁγίων ἀπὸ τῶν καρπωμάτων Κυρίου .",
+        "VUL": "Sanctum sanctórum de oblatiónibus Dómini .",
+        "SP": "קדשׁ קדשׁים מ אשׁי יהוה",
+        "KJV": "a thing most holy of the offerings of the LORD made by fire .",
+        "DSS": "קדש קדשים מ אשי יהוה ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "No meat offering , which ye shall bring unto the LORD , shall be made with leaven",
+      "traditions": {
+        "WLC": "כָּל הַ מִּנְחָ֗ה אֲשֶׁ֤ר תַּקְרִ֨יבוּ֙ לַ יהוָ֔ה לֹ֥א תֵעָשֶׂ֖ה חָמֵ֑ץ",
+        "LXX": "πᾶσαν θυσίαν ἣν ἂν προσφέρητε Κυρίῳ οὐ ποιήσετε ζυμωτόν ·",
+        "VUL": "Omnis oblátio , quæ offerétur Dómino , absque ferménto fiet ,",
+        "SP": "כל ה מנחה אשׁר תקריבו ל יהוה לא תעשׂה חמץ",
+        "KJV": "No meat offering , which ye shall bring unto the LORD , shall be made with leaven :",
+        "DSS": "[4Q24] כל מנחה אשר תקריבו ל## [ יהוה לא תעשה חמץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for ye shall burn no leaven , nor any honey , in any offering of the LORD made by fire",
+      "traditions": {
+        "WLC": "כִּ֤י כָל שְׂאֹר֙ וְ כָל דְּבַ֔שׁ לֹֽא תַקְטִ֧ירוּ מִמֶּ֛ נּוּ אִשֶּׁ֖ה לַֽ יהוָֽה",
+        "LXX": "πᾶσαν γὰρ ζύμην καὶ πᾶν μέλι , οὐ προσοίσετε ἀπ᾽ αὐτοῦ καρπῶσαι Κυρίῳ .",
+        "VUL": "nec quidquam ferménti ac mellis adolébitur in sacrifício Dómino .",
+        "SP": "כי כל שׂאר ו כל דבשׁ לא תקריבו ממנו אשׁה ל יהוה",
+        "KJV": "for ye shall burn no leaven , nor any honey , in any offering of the LORD made by fire .",
+        "DSS": "כי כל שאר ו כל דבש לא תקטירו ] ממ׳נו אשה ל יהוה ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "As for the oblation of the firstfruits , ye shall offer them unto the LORD",
+      "traditions": {
+        "WLC": "קָרְבַּ֥ן רֵאשִׁ֛ית תַּקְרִ֥יבוּ אֹתָ֖ ם לַ יהוָ֑ה",
+        "LXX": "δῶρον ἀπαρχῆς προσοίσετε αὐτὰ Κυρίῳ ·",
+        "VUL": "Primítias tantum eórum offerétis ac múnera :",
+        "SP": "קרבן ראשׁית תקריבו אתם ל יהוה",
+        "KJV": "As for the oblation of the firstfruits , ye shall offer them unto the LORD :",
+        "DSS": "[4Q24] [ ק ]ר##[ בן ראשית תקריבו את׳ם ל יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but they shall not be burnt on the altar for a sweet savour",
+      "traditions": {
+        "WLC": "וְ אֶל הַ מִּזְבֵּ֥חַ לֹא יַעֲל֖וּ לְ רֵ֥יחַ נִיחֹֽחַ",
+        "LXX": "ἐπὶ δὲ τὸ θυσιαστήριον οὐκ ἀναβιβασθήσεται εἰς ὀσμὴν εὐωδίας Κυρίῳ .",
+        "VUL": "super altáre vero non imponéntur in odórem suavitátis .",
+        "SP": "ו אל ה מזבח לא יעלו ל ריח ניחח",
+        "KJV": "but they shall not be burnt on the altar for a sweet savour .",
+        "DSS": "ו אל ה מזבח לא יעלו ] ל ריח ניחוח ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And every oblation of thy meat offering shalt thou season with salt",
+      "traditions": {
+        "WLC": "וְ כָל קָרְבַּ֣ן מִנְחָתְ ךָ֮ בַּ מֶּ֣לַח תִּמְלָח֒",
+        "LXX": "καὶ πᾶν δῶρον θυσίας ὑμῶν ἁλὶ ἁλισθήσεται ·",
+        "VUL": "Quidquid obtúleris sacrifícii , sale cóndies ,",
+        "SP": "ו כל קרבן מנחתך ב מלח תמלח",
+        "KJV": "And every oblation of thy meat offering shalt thou season with salt ;",
+        "DSS": "[4Q24] ו כ##[ ל קרבן מנחת׳ך ב מלח  ]ת##מלח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering",
+      "traditions": {
+        "WLC": "וְ לֹ֣א תַשְׁבִּ֗ית מֶ֚לַח בְּרִ֣ית אֱלֹהֶ֔י ךָ מֵ עַ֖ל מִנְחָתֶ֑ ךָ",
+        "LXX": "οὐ διαπαύσετε ἅλα διαθήκης Κυρίου ἀπὸ θυσιάσματων ὑμῶν ·",
+        "VUL": "nec áuferes sal fœ́deris Dei tui de sacrifício tuo :",
+        "SP": "ו לא תשׁבית מלח ברית אלהיך מ על מנחתך",
+        "KJV": "neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering :",
+        "DSS": "[  ו לא תשבית מלח ברית אלהי׳ך ] מ על מנחת׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "with all thine offerings thou shalt offer salt",
+      "traditions": {
+        "WLC": "עַ֥ל כָּל קָרְבָּנְ ךָ֖ תַּקְרִ֥יב מֶֽלַח",
+        "LXX": "ἐπὶ παντὸς δώρου ὑμῶν προσοίσετε Κυρίῳ τῷ θεῷ ὑμῶν ἅλας .",
+        "VUL": "in omni oblatióne tua ófferes sal .",
+        "SP": "על כל קרבניך תקריב מלח",
+        "KJV": "with all thine offerings thou shalt offer salt .",
+        "DSS": "על כל קר[ בנ׳ך  ]ת##קריב מלח ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if thou offer a meat offering of thy firstfruits unto the LORD",
+      "traditions": {
+        "WLC": "וְ אִם תַּקְרִ֛יב מִנְחַ֥ת בִּכּוּרִ֖ים לַ יהוָ֑ה",
+        "LXX": "Ἐὰν δὲ προσφέρῃς θυσίαν πρωτογενημάτων τῷ κυρίῳ ,",
+        "VUL": "Si autem obtúleris munus primárum frugum tuárum Dómino",
+        "SP": "ו אם תקריב מנחת בכורים ל יהוה",
+        "KJV": "And if thou offer a meat offering of thy firstfruits unto the LORD ,",
+        "DSS": "[4Q24] ו#? כי תקריב מנ#?ח##ת בכורים ל יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire , [ even ] corn beaten out of full ears",
+      "traditions": {
+        "WLC": "אָבִ֞יב קָל֤וּי בָּ אֵשׁ֙ גֶּ֣רֶשׂ כַּרְמֶ֔ל תַּקְרִ֕יב אֵ֖ת מִנְחַ֥ת בִּכּוּרֶֽי ךָ",
+        "LXX": "ἁπαλόν , νέα πεφρυγμένα χίδρα ἐρικτὰ τῷ κυρίῳ · καὶ προσοίσεις τὴν θυσίαν τῶν πρωτογενημάτων ·",
+        "VUL": "de spicis adhuc viréntibus , torrébis igni , et confrínges in morem farris , et sic ófferes primítias tuas Dómino ,",
+        "SP": "אביב קלי ב אשׁ גרשׂ כרמל תקריב את מנחת בכוריך",
+        "KJV": "thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire , [ even ] corn beaten out of full ears .",
+        "DSS": "אביב קלוי ב אש ג#?[ רש כרמל תקריב את ] מנחת בכ#[ ורי׳ך ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt put oil upon it , and lay frankincense thereon",
+      "traditions": {
+        "WLC": "וְ נָתַתָּ֤ עָלֶ֨י הָ֙ שֶׁ֔מֶן וְ שַׂמְתָּ֥ עָלֶ֖י הָ לְבֹנָ֑ה",
+        "LXX": "καὶ ἐπιχεεῖς ἐπ᾽ αὐτὴν ἔλαιον , καὶ ἐπιθήσεις ἐπ᾽ αὐτὴν λίβανον ·",
+        "VUL": "fundens supra óleum , et thus impónens ,",
+        "SP": "ו נתתה עליה שׁמן ו שׂמת עליה לבונה",
+        "KJV": "And thou shalt put oil upon it , and lay frankincense thereon :",
+        "DSS": "[4Q24] ו נת ]ת## עלי׳ה שמן ו שמת עלי׳ה לב#ו#?[ נה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] a meat offering",
+      "traditions": {
+        "WLC": "מִנְחָ֖ה הִֽוא",
+        "LXX": "θυσία ἐστίν .",
+        "VUL": "quia oblátio Dómini est :",
+        "SP": "מנחה היא",
+        "KJV": "it [ is ] a meat offering .",
+        "DSS": "מנחה היא ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the priest shall burn the memorial of it , [ part ] of the beaten corn thereof , and [ part ] of the oil thereof , with all the frankincense thereof",
+      "traditions": {
+        "WLC": "וְ הִקְטִ֨יר הַ כֹּהֵ֜ן אֶת אַזְכָּרָתָ֗ הּ מִ גִּרְשָׂ הּ֙ וּ מִ שַּׁמְנָ֔ הּ עַ֖ל כָּל לְבֹנָתָ֑ הּ",
+        "LXX": "καὶ ἀνοίσει ὁ ἱερεὺς τὸ μνημόσυνον αὐτῆς ἀπὸ τῶν χίδρων σὺν τῷ ἐλαίῳ καὶ πάντα τὸν λίβανον αὐτῆς ·",
+        "VUL": "de qua adolébit sacérdos in memóriam múneris partem farris fracti , et ólei , ac totum thus .",
+        "SP": "ו הקטיר ה כהן את אזכרתה מ גרשׂה ו מ שׁמנה על כל לבונתה",
+        "KJV": "And the priest shall burn the memorial of it , [ part ] of the beaten corn thereof , and [ part ] of the oil thereof , with all the frankincense thereof : [",
+        "DSS": "[4Q24] ו הקטיר ] ה כהן את ז?כר#ת׳ה## מ ג?רש#׳ה ו מ שמנ׳ה על כל לבונ?ת׳ה##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it is an offering made by fire unto the LORD",
+      "traditions": {
+        "WLC": "אִשֶּׁ֖ה לַ יהוָֽה",
+        "LXX": "κάρπωμά ἐστιν Κυρίῳ .",
+        "VUL": null,
+        "SP": "אשׁה ל יהוה",
+        "KJV": "it is ] an offering made by fire unto the LORD .",
+        "DSS": "[  אשה ל יהוה ׃"
+      }
+    }
+  ]
+}

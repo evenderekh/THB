@@ -1,0 +1,548 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "A Prayer of David",
+      "traditions": {
+        "WLC": "תְּפִלָּ֗ה לְ דָ֫וִ֥ד",
+        "LXX": "Προσευχὴ τοῦ Δαυείδ .",
+        "VUL": "Orátio David .",
+        "SP": null,
+        "KJV": "A Prayer of David .",
+        "DSS": "תפלה ל#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Hear the right , O LORD",
+      "traditions": {
+        "WLC": "שִׁמְעָ֤ ה יְהוָ֨ה צֶ֗דֶק",
+        "LXX": "Εἰσάκουσον , Κύριε , τῆς δικαιοσύνης μου ,",
+        "VUL": "Exáudi Dómine iustítiam meam :",
+        "SP": null,
+        "KJV": "Hear the right , O LORD ,",
+        "DSS": "[ דוד שמע׳ה יהוה צדק ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "attend unto my cry",
+      "traditions": {
+        "WLC": "הַקְשִׁ֥יבָ ה רִנָּתִ֗ י",
+        "LXX": "πρόσχες τῇ δεήσει μου ·",
+        "VUL": "inténde deprecatiónem meam .",
+        "SP": null,
+        "KJV": "attend unto my cry ,",
+        "DSS": "[ הקשיב׳ה רנת׳י ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "give ear unto my prayer",
+      "traditions": {
+        "WLC": "הַאֲזִ֥ינָ ה תְפִלָּתִ֑ י",
+        "LXX": "ἐνώτισαι τῆς προσευχῆς μου",
+        "VUL": "Auribus pércipe oratiónem meam ,",
+        "SP": null,
+        "KJV": "give ear unto my prayer , [ that goeth ]",
+        "DSS": "[ ה ]א##ז#?י?נ?׳[ ה תפלת׳י ]"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "not out of feigned lips",
+      "traditions": {
+        "WLC": "בְּ֝ לֹ֗א שִׂפְתֵ֥י מִרְמָֽה",
+        "LXX": "οὐκ ἐν χείλεσιν δολίοις .",
+        "VUL": "non in lábiis dolósis .",
+        "SP": null,
+        "KJV": "not out of feigned lips .",
+        "DSS": "[ ב לא שפתי מרמה ] ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let my sentence come forth from thy presence",
+      "traditions": {
+        "WLC": "מִ֭ לְּ פָנֶי ךָ מִשְׁפָּטִ֣ י יֵצֵ֑א",
+        "LXX": "ἐκ προσώπου σου τὸ κρίμα μου ἐξέλθοι ,",
+        "VUL": "De vultu tuo iudícium meum pródeat :",
+        "SP": null,
+        "KJV": "Let my sentence come forth from thy presence ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "let thine eyes behold the things that are equal",
+      "traditions": {
+        "WLC": "עֵ֝ינֶ֗י ךָ תֶּחֱזֶ֥ינָה מֵישָׁרִֽים",
+        "LXX": "οἱ ὀφθαλμοί μου ἰδέτωσαν εὐθύτητας .",
+        "VUL": "óculi tui vídeant æquitátes .",
+        "SP": null,
+        "KJV": "let thine eyes behold the things that are equal .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou hast proved mine heart",
+      "traditions": {
+        "WLC": "בָּ֘חַ֤נְתָּ לִבִּ֨ י",
+        "LXX": "ἐδοκίμασας τὴν καρδίαν μου ,",
+        "VUL": "Probásti cor meum ,",
+        "SP": null,
+        "KJV": "Thou hast proved mine heart ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou hast visited me in the night",
+      "traditions": {
+        "WLC": "פָּ֘קַ֤דְתָּ לַּ֗יְלָה",
+        "LXX": "ἐπεσκέψω νυκτός ·",
+        "VUL": "et visitásti nocte :",
+        "SP": null,
+        "KJV": "thou hast visited [ me ] in the night ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou hast tried me , and shalt find nothing",
+      "traditions": {
+        "WLC": "צְרַפְתַּ֥ נִי בַל תִּמְצָ֑א",
+        "LXX": "ἐπύρωσάς με , καὶ οὐχ εὑρέθη ἐν ἐμοὶ ἀδικία .",
+        "VUL": "igne me examinásti , et non est invénta in me iníquitas .",
+        "SP": null,
+        "KJV": "thou hast tried me , [ and ] shalt find nothing ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "I am purposed that my mouth shall not transgress",
+      "traditions": {
+        "WLC": "זַ֝מֹּתִ֗י בַּל יַעֲבָר פִּֽ י",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "I am purposed [ that ] my mouth shall not transgress .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Concerning the works of men",
+      "traditions": {
+        "WLC": "לִ פְעֻלּ֣וֹת אָ֭דָם",
+        "LXX": "ὅπως ἂν μὴ λαλήσῃ τὸ στόμα μου τὰ ἔργα τῶν ἀνθρώπων ,",
+        "VUL": "Ut non loquátur os meum ópera hóminum :",
+        "SP": null,
+        "KJV": "Concerning the works of men ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "by the word of thy lips I have kept me from the paths of the destroyer",
+      "traditions": {
+        "WLC": "בִּ דְבַ֣ר שְׂפָתֶ֑י ךָ אֲנִ֥י שָׁ֝מַ֗רְתִּי אָרְח֥וֹת פָּרִֽיץ",
+        "LXX": "διὰ τοὺς λόγους τῶν χειλέων σου ἐγὼ ἐφύλαξα ὁδοὺς σκληράς .",
+        "VUL": "propter verba labiórum tuórum , ego custodívi vias duras .",
+        "SP": null,
+        "KJV": "by the word of thy lips I have kept [ me from ] the paths of the destroyer .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hold up my goings in thy paths",
+      "traditions": {
+        "WLC": "תָּמֹ֣ךְ אֲ֭שֻׁרַ י בְּ מַעְגְּלוֹתֶ֑י ךָ",
+        "LXX": "κατάρτισαι τὰ διαβήματά μου ἐν ταῖς τρίβοις σου ,",
+        "VUL": "Pérfice gressus meos in sémitis tuis :",
+        "SP": null,
+        "KJV": "Hold up my goings in thy paths , [ that ]",
+        "DSS": "[8Q2] ε תמך[  א ]ש##ר׳י[  ב מעג ]ל[ ותי׳ך ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that my footsteps slip not",
+      "traditions": {
+        "WLC": "בַּל נָמ֥וֹטּוּ פְעָמָֽ י",
+        "LXX": "ἵνα μὴ σαλευθῇ τὰ διαβήματά μου .",
+        "VUL": "ut non moveántur vestígia mea .",
+        "SP": null,
+        "KJV": "my footsteps slip not .",
+        "DSS": "[ בל נמוטו פעמ׳י ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "I have called upon thee , for thou wilt hear me , O God",
+      "traditions": {
+        "WLC": "אֲנִֽי קְרָאתִ֣י ךָ כִֽי תַעֲנֵ֣ נִי אֵ֑ל",
+        "LXX": "ἐγὼ ἐκέκραξα , ὅτι ἐπήκουσάς μου , ὁ θεός ·",
+        "VUL": "Ego clamávi , quóniam exaudísti me Deus :",
+        "SP": null,
+        "KJV": "I have called upon thee , for thou wilt hear me , O God :",
+        "DSS": "[8Q2] ]אני[  קרא ]תי׳[ ך כי תענ׳ני אל ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "incline thine ear unto me",
+      "traditions": {
+        "WLC": "הַֽט אָזְנְ ךָ֥ לִ֝֗ י",
+        "LXX": "κλῖνον τὸ οὖς σου ἐμοὶ",
+        "VUL": "inclína aurem tuam mihi ,",
+        "SP": null,
+        "KJV": "incline thine ear unto me , [ and hear ]",
+        "DSS": "[ הט אזנ׳ך ל׳י ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and hear my speech",
+      "traditions": {
+        "WLC": "שְׁמַ֣ע אִמְרָתִֽ י",
+        "LXX": "καὶ εἰσάκουσον τῶν ῥημάτων μου .",
+        "VUL": "et exáudi verba mea .",
+        "SP": null,
+        "KJV": "my speech .",
+        "DSS": "שמע  ]אמרת׳י[  ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Shew thy marvellous lovingkindness",
+      "traditions": {
+        "WLC": "הַפְלֵ֣ה חֲ֭סָדֶי ךָ",
+        "LXX": "θαυμάστωσον τὰ ἐλέη σου ,",
+        "VUL": "Mirífica misericórdias tuas ,",
+        "SP": null,
+        "KJV": "Shew thy marvellous lovingkindness ,",
+        "DSS": "[8Q2] הפלה ח ]סד[ י׳ך ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O thou that savest by thy right hand them which put their trust [ in thee ]",
+      "traditions": {
+        "WLC": "מוֹשִׁ֣יעַ חוֹסִ֑ים",
+        "LXX": "ὁ σώζων τοὺς ἐλπίζοντας ἐπὶ σὲ",
+        "VUL": "qui salvos facis sperántes in te .",
+        "SP": null,
+        "KJV": "O thou that savest by thy right hand them which put their trust [ in thee ]",
+        "DSS": "[ מושיע חוסים ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "from those that rise up [ against them ]",
+      "traditions": {
+        "WLC": "מִ֝ מִּתְקוֹמְמִ֗ים בִּֽ ימִינֶֽ ךָ",
+        "LXX": "ἐκ τῶν ἀνθεστηκότων τῇ δεξιᾷ σου .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "from those that rise up [ against them ] .",
+        "DSS": "מת#[ קוממים ב ימי ]נ׳ך ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Keep me as the apple of the eye",
+      "traditions": {
+        "WLC": "שָׁ֭מְרֵ נִי כְּ אִישׁ֣וֹן בַּת עָ֑יִן",
+        "LXX": "φύλαξόν με ὡς κόραν ὀφθαλμοῦ .",
+        "VUL": "A resisténtibus déxteræ tuæ custódi me , ut pupíllam óculi .",
+        "SP": null,
+        "KJV": "Keep me as the apple of the eye ,",
+        "DSS": "[8Q2] [ שמר׳ני כ אישון ב ]ת עין"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "hide me under the shadow of thy wings",
+      "traditions": {
+        "WLC": "בְּ צֵ֥ל כְּ֝נָפֶ֗י ךָ תַּסְתִּירֵֽ נִי",
+        "LXX": "ἐν σκέπῃ τῶν πτερύγων σου σκεπάσεις με",
+        "VUL": "Sub umbra alárum tuárum prótege me :",
+        "SP": null,
+        "KJV": "hide me under the shadow of thy wings ,",
+        "DSS": "ב [ צל כנפי׳ך תסתיר׳ני ] ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "From the wicked that oppress me",
+      "traditions": {
+        "WLC": "מִ פְּנֵ֣י רְ֭שָׁעִים ז֣וּ שַׁדּ֑וּ נִי",
+        "LXX": "ἀπὸ προσώπου ἀσεβῶν τῶν ταλαιπωρησάντων με .",
+        "VUL": "a fácie impiórum qui me afflixérunt .",
+        "SP": null,
+        "KJV": "From the wicked that oppress me , [ from ]",
+        "DSS": "[11Q7] מ פני רשעים זה דר#ש##[ ו׳ני / [8Q2] [ מ פני רשעים זו שדו׳ני ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "from my deadly enemies",
+      "traditions": {
+        "WLC": "אֹיְבַ֥ י",
+        "LXX": "οἱ ἐχθροί μου",
+        "VUL": "Inimíci mei",
+        "SP": null,
+        "KJV": "my deadly enemies , [ who ]",
+        "DSS": "[11Q7] אויב׳י / [8Q2]  ]א#이ב[ ׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "who compass me about",
+      "traditions": {
+        "WLC": "בְּ֝ נֶ֗פֶשׁ יַקִּ֥יפוּ עָלָֽ י",
+        "LXX": "τὴν ψυχήν μου περιέσχον ,",
+        "VUL": "ánimam meam circumdedérunt :",
+        "SP": null,
+        "KJV": "compass me about .",
+        "DSS": "[11Q7] ב נפש יקיפו על׳י ׃ / [8Q2] ב נפש יקיפו על׳י ] ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "They are inclosed in their own fat",
+      "traditions": {
+        "WLC": "חֶלְבָּ֥ מוֹ סָּגְר֑וּ",
+        "LXX": "τὸ στέαρ αὐτῶν συνέκλεισαν ,",
+        "VUL": "ádipem suum conclusérunt :",
+        "SP": null,
+        "KJV": "They are inclosed in their own fat :",
+        "DSS": "[11Q7] חלב׳מו סגרו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with their mouth they speak proudly",
+      "traditions": {
+        "WLC": "פִּ֝֗י מוֹ דִּבְּר֥וּ בְ גֵאֽוּת",
+        "LXX": "τὸ στόμα αὐτῶν ἐλάλησεν ὑπερηφανίαν ·",
+        "VUL": "os eórum locútum est supérbiam .",
+        "SP": null,
+        "KJV": "with their mouth they speak proudly .",
+        "DSS": "[11Q7] פי׳מו ] דברו ב גאות ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "They have now compassed us in our steps",
+      "traditions": {
+        "WLC": "אַ֭שֻּׁרֵי נוּ עַתָּ֣ה סבבו ני",
+        "LXX": "ἐκβάλλοντές με νυνὶ περιεκύκλωσάν με ,",
+        "VUL": "Proiciéntes me nunc circumdedérunt me :",
+        "SP": null,
+        "KJV": "They have now compassed us in our steps :",
+        "DSS": "גרשו׳ני עתה סבב##[ ו׳ני"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they have set their eyes bowing down to the earth",
+      "traditions": {
+        "WLC": "עֵינֵי הֶ֥ם יָ֝שִׁ֗יתוּ לִ נְט֥וֹת בָּ אָֽרֶץ",
+        "LXX": "τοὺς ὀφθαλμοὺς αὐτῶν ἔθεντο ἐκκλῖναι ἐν τῇ γῇ ·",
+        "VUL": "óculos suos statuérunt declináre in terram .",
+        "SP": null,
+        "KJV": "they have set their eyes bowing down to the earth ;",
+        "DSS": "עיני׳הם ישיתו ל נטות ב ארץ ] ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Like as a lion that is greedy of his prey",
+      "traditions": {
+        "WLC": "דִּמְיֹנ֗ וֹ כְּ֭ אַרְיֵה יִכְס֣וֹף לִ טְר֑וֹף",
+        "LXX": "ὑπέλαβόν με ὡσεὶ λέων ἕτοιμος εἰς θήραν ,",
+        "VUL": "Suscepérunt me sicut leo parátus ad prædam ,",
+        "SP": null,
+        "KJV": "Like as a lion [ that ] is greedy of his prey ,",
+        "DSS": "[ דמינ׳ו כ אריה יכ ]סוף ל טרוף"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and as it were a young lion lurking in secret places",
+      "traditions": {
+        "WLC": "וְ֝ כִ כְפִ֗יר יֹשֵׁ֥ב בְּ מִסְתָּרִֽים",
+        "LXX": "καὶ ὡσεὶ σκύμνος οἰκῶν ἐν ἀποκρύφοις .",
+        "VUL": "et sicut cátulus leónis hábitans in ábditis .",
+        "SP": null,
+        "KJV": "and as it were a young lion lurking in secret places .",
+        "DSS": "ו כ כפיר יושב ב [ מסתרים ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Arise , O LORD",
+      "traditions": {
+        "WLC": "קוּמָ֤ ה יְהוָ֗ה",
+        "LXX": "ἀνάστηθι , Κύριε ,",
+        "VUL": "Exsúrge Dómine ,",
+        "SP": null,
+        "KJV": "Arise , O LORD ,",
+        "DSS": "קומ׳ה יהוה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "disappoint him , cast him down",
+      "traditions": {
+        "WLC": "קַדְּמָ֣ ה פָ֭נָי ו הַכְרִיעֵ֑ הוּ",
+        "LXX": "πρόφθασον αὐτοὺς καὶ ὑποσκέλισον αὐτούς ,",
+        "VUL": "prǽveni eum , et supplánta eum :",
+        "SP": null,
+        "KJV": "disappoint him , cast him down :",
+        "DSS": "[ קדם פני׳ו הכריע׳הו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "deliver my soul from the wicked",
+      "traditions": {
+        "WLC": "פַּלְּטָ֥ ה נַ֝פְשִׁ֗ י מֵ רָשָׁ֥ע",
+        "LXX": "ῥῦσαι τὴν ψυχήν μου ἀπὸ ἀσεβοῦς ,",
+        "VUL": "éripe ánimam meam ab ímpio ,",
+        "SP": null,
+        "KJV": "deliver my soul from the wicked , [ which is ]",
+        "DSS": "פ ]לט נפש׳י מ ר[ שע"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "which is thy sword",
+      "traditions": {
+        "WLC": "חַרְבֶּֽ ךָ",
+        "LXX": "ῥομφαίαν σου",
+        "VUL": "frámeam tuam",
+        "SP": null,
+        "KJV": "thy sword :",
+        "DSS": "ח ]רב׳כה ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "From men [ which are ] thy hand , O LORD , from men of the world",
+      "traditions": {
+        "WLC": "מִֽ מְתִ֥ים יָדְ ךָ֨ יְהוָ֡ה מִֽ מְתִ֬ים מֵ חֶ֗לֶד",
+        "LXX": "ἀπὸ ἐχθρῶν τῆς χειρός σου · Κύριε ἀπολύων ἀπὸ γῆς ,",
+        "VUL": "ab inimícis manus tuæ . Dómine a paucis de terra",
+        "SP": null,
+        "KJV": "From men [ which are ] thy hand , O LORD , from men of the world , [ which have ]",
+        "DSS": "ממו?ת#[ ים  ]מ## י#?ד##׳[ כה ] [ יהוה מ מתים מ חלד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which have their portion in [ this ] life",
+      "traditions": {
+        "WLC": "חֶלְקָ֥ ם בַּֽ חַיִּים֮",
+        "LXX": "διαμέρισον αὐτοὺς ἐν τῇ ζωῇ αὐτῶν ·",
+        "VUL": "dívide eos in vita eórum :",
+        "SP": null,
+        "KJV": "their portion in [ this ] life ,",
+        "DSS": "ח ]לק׳ם ב חיי׳ה#[ ם ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and whose belly thou fillest with thy hid [ treasure ]",
+      "traditions": {
+        "WLC": "ו צפינ ך תְּמַלֵּ֪א בִ֫טְנָ֥ ם",
+        "LXX": "καὶ τῶν κεκρυμμένων σου ἐπλήσθη ἡ γαστὴρ αὐτῶν ,",
+        "VUL": "de abscónditis tuis adimplétus est venter eórum .",
+        "SP": null,
+        "KJV": "and whose belly thou fillest with thy hid [ treasure ] :",
+        "DSS": "ו צפ##[ ונ׳כ ]ה ת#מלא בטנ׳ם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "they are full of children",
+      "traditions": {
+        "WLC": "יִשְׂבְּע֥וּ בָנִ֑ים",
+        "LXX": "ἐχορτάσθησαν ὑείων",
+        "VUL": "Saturáti sunt fíliis ,",
+        "SP": null,
+        "KJV": "they are full of children ,",
+        "DSS": "י#?[ שבעו ] [ בנים"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and leave the rest of their [ substance ] to their babes",
+      "traditions": {
+        "WLC": "וְ הִנִּ֥יחוּ יִ֝תְרָ֗ ם לְ עוֹלְלֵי הֶֽם",
+        "LXX": "καὶ ἀφῆκαν τὰ κατάλοιπα τοῖς νηπίοις αὐτῶν .",
+        "VUL": "et dimisérunt relíquias suas párvulis suis .",
+        "SP": null,
+        "KJV": "and leave the rest of their [ substance ] to their babes .",
+        "DSS": "ו הניחו יתר׳ם ל עוללי ]׳הם ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "As for me , I will behold thy face in righteousness",
+      "traditions": {
+        "WLC": "אֲנִ֗י בְּ֭ צֶדֶק אֶחֱזֶ֣ה פָנֶ֑י ךָ",
+        "LXX": "ἐγὼ δὲ ἐν δικαιοσύνῃ ὀφθήσομαι τῷ προσώπῳ σου ,",
+        "VUL": "Ego autem in iustítia apparébo conspéctui tuo :",
+        "SP": null,
+        "KJV": "As for me , I will behold thy face in righteousness :",
+        "DSS": "אני ב## צדק# אח#ז?[ ה  ]פ##ני׳כה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I shall be satisfied , when I awake , with thy likeness",
+      "traditions": {
+        "WLC": "אֶשְׂבְּעָ֥ה בְ֝ הָקִ֗יץ תְּמוּנָתֶֽ ךָ",
+        "LXX": "χορτασθήσομαι ἐν τῷ ὀφθῆναι τὴν δόξαν σου .",
+        "VUL": "satiábor cum apparúerit glória tua .",
+        "SP": null,
+        "KJV": "I shall be satisfied , when I awake , with thy likeness .",
+        "DSS": "אשב##ע##ה ב הקי#?[ ץ ] [ תמונת׳כה ׃"
+      }
+    }
+  ]
+}

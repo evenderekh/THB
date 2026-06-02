@@ -1,0 +1,96 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "לִ",
+          "LXX": "Τοῖς",
+          "VUL": null,
+          "SP": null,
+          "KJV": "for",
+          "DSS": null
+        },
+        {
+          "token": "בְנֵי",
+          "LXX": "υἱοῖς",
+          "VUL": "Fíliis",
+          "SP": null,
+          "KJV": "the sons of",
+          "DSS": null
+        },
+        {
+          "token": "קֹ֭רַח",
+          "LXX": "Κόρε",
+          "VUL": "Core",
+          "SP": null,
+          "KJV": "Korah",
+          "DSS": null
+        },
+        {
+          "token": "מִזְמ֣וֹר",
+          "LXX": "ψαλμὸς",
+          "VUL": "Psalmus",
+          "SP": null,
+          "KJV": "A Psalm [ or ]",
+          "DSS": null
+        },
+        {
+          "token": "שִׁ֑יר",
+          "LXX": "ᾠδῆς",
+          "VUL": "cántici",
+          "SP": null,
+          "KJV": "Song",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "יְ֝סוּדָת֗",
+          "LXX": "θεμέλιοι",
+          "VUL": "Fundaménta",
+          "SP": null,
+          "KJV": "foundation [ is ]",
+          "DSS": null
+        },
+        {
+          "token": "וֹ",
+          "LXX": "αὐτοῦ",
+          "VUL": "eius",
+          "SP": null,
+          "KJV": "His",
+          "DSS": null
+        },
+        {
+          "token": "בְּ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": null
+        },
+        {
+          "token": "הַרְרֵי",
+          "LXX": "τοῖς ὄρεσιν",
+          "VUL": "móntibus",
+          "SP": null,
+          "KJV": "the mountains",
+          "DSS": null
+        },
+        {
+          "token": "קֹֽדֶשׁ",
+          "LXX": "τοῖς ἁγίοις",
+          "VUL": "sanctis",
+          "SP": null,
+          "KJV": "holy",
+          "DSS": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cry aloud",
+      "traditions": {
+        "WLC": "קְרָ֤א בְ גָרוֹן֙",
+        "LXX": "Ἀναβόησον ἐν ἰσχύι",
+        "VUL": "Clama ,",
+        "SP": null,
+        "KJV": "Cry aloud ,",
+        "DSS": "קרא ב גרון"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "spare not",
+      "traditions": {
+        "WLC": "אַל תַּחְשֹׂ֔ךְ",
+        "LXX": "καὶ μὴ φείσῃ ,",
+        "VUL": "ne cesses ,",
+        "SP": null,
+        "KJV": "spare not ,",
+        "DSS": "אל תחשך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "lift up thy voice like a trumpet",
+      "traditions": {
+        "WLC": "כַּ שּׁוֹפָ֖ר הָרֵ֣ם קוֹלֶ֑ ךָ",
+        "LXX": "ὡς σάλπιγγι ὕψωσον τὴν φωνήν σου ,",
+        "VUL": "quasi tuba exálta vocem tuam ,",
+        "SP": null,
+        "KJV": "lift up thy voice like a trumpet ,",
+        "DSS": "כ שופר הרם קול׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and shew my people their transgression",
+      "traditions": {
+        "WLC": "וְ הַגֵּ֤ד לְ עַמִּ י֙ פִּשְׁעָ֔ ם",
+        "LXX": "καὶ ἀνάγγειλον τῷ λαῷ μου τὰ ἁμαρτήματα αὐτῶν",
+        "VUL": "et annúntia pópulo meo scélera eórum ,",
+        "SP": null,
+        "KJV": "and shew my people their transgression ,",
+        "DSS": "ו הגד ל עמ׳י פשע׳ם"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and the house of Jacob their sins",
+      "traditions": {
+        "WLC": "וּ לְ בֵ֥ית יַעֲקֹ֖ב חַטֹּאתָֽ ם",
+        "LXX": "καὶ τῷ οἴκῳ Ἰακὼβ τὰς ἀνομίας αὐτῶν .",
+        "VUL": "et dómui Iacob peccáta eórum .",
+        "SP": null,
+        "KJV": "and the house of Jacob their sins .",
+        "DSS": "ו ל בית יעקב חטאת׳ם"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 6,
+      "english_reference": "Yet they seek me daily",
+      "traditions": {
+        "WLC": "וְ אוֹתִ֗ י י֥וֹם יוֹם֙ יִדְרֹשׁ֔וּ ן",
+        "LXX": "ἐμὲ ἡμέραν ἐξ ἡμέρας ζητοῦσιν ,",
+        "VUL": "Me étenim de die in diem quærunt ,",
+        "SP": null,
+        "KJV": "Yet they seek me daily ,",
+        "DSS": "את׳י יום יום ידרושו׳ן"
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "and delight to know my ways",
+      "traditions": {
+        "WLC": "וְ דַ֥עַת דְּרָכַ֖ י יֶחְפָּצ֑וּ ן",
+        "LXX": "καὶ γνῶναί μου τὰς ὁδοὺς ἐπιθυμοῦσιν ,",
+        "VUL": "et scire vias meas volunt :",
+        "SP": null,
+        "KJV": "and delight to know my ways ,",
+        "DSS": "ו דעת דרכ׳י יחפצו׳ן"
+      }
+    },
+    {
+      "thought_id": 8,
+      "english_reference": "as a nation that did righteousness",
+      "traditions": {
+        "WLC": "כְּ ג֞וֹי אֲשֶׁר צְדָקָ֣ה עָשָׂ֗ה",
+        "LXX": "ὡς λαὸς δικαιοσύνην πεποιηκὼς",
+        "VUL": "quasi gens , quæ iustítiam fécerit ,",
+        "SP": null,
+        "KJV": "as a nation that did righteousness ,",
+        "DSS": "כ גוי אשר צדקה עשה"
+      }
+    },
+    {
+      "thought_id": 9,
+      "english_reference": "and forsook not the ordinance of their God",
+      "traditions": {
+        "WLC": "וּ מִשְׁפַּ֤ט אֱלֹהָי ו֙ לֹ֣א עָזָ֔ב",
+        "LXX": "καὶ κρίσιν θεοῦ αὐτοῦ μὴ ἐγκαταλελοιπώς ·",
+        "VUL": "et iudícium Dei sui non derelíquerit :",
+        "SP": null,
+        "KJV": "and forsook not the ordinance of their God :",
+        "DSS": "ו משפט אלהי׳ו לא עזב"
+      }
+    },
+    {
+      "thought_id": 10,
+      "english_reference": "they ask of me the ordinances of justice",
+      "traditions": {
+        "WLC": "יִשְׁאָל֨וּ נִי֙ מִשְׁפְּטֵי צֶ֔דֶק",
+        "LXX": "αἰτοῦσίν με νῦν κρίσιν δικαίαν ,",
+        "VUL": "rogant me iudícia iustítiæ :",
+        "SP": null,
+        "KJV": "they ask of me the ordinances of justice ;",
+        "DSS": "ישאלו׳ני משפטי צדק"
+      }
+    },
+    {
+      "thought_id": 11,
+      "english_reference": "they take delight in approaching to God",
+      "traditions": {
+        "WLC": "קִרְבַ֥ת אֱלֹהִ֖ים יֶחְפָּצֽוּ ן",
+        "LXX": "καὶ ἐγγίζειν θεῷ ἐπιθυμοῦσιν .",
+        "VUL": "appropinquáre Deo volunt .",
+        "SP": null,
+        "KJV": "they take delight in approaching to God .",
+        "DSS": "קרבת אלהים יחפצו׳ן"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 12,
+      "english_reference": "Wherefore have we fasted",
+      "traditions": {
+        "WLC": "לָ֤ מָּה צַּ֨מְנוּ֙",
+        "LXX": "λέγοντες Τί ὅτι ἐνηστεύσαμεν",
+        "VUL": "Quare ieiunávimus ,",
+        "SP": null,
+        "KJV": "Wherefore have we fasted , [ say they ] ,",
+        "DSS": "למה צמנו"
+      }
+    },
+    {
+      "thought_id": 13,
+      "english_reference": "and thou seest not",
+      "traditions": {
+        "WLC": "וְ לֹ֣א רָאִ֔יתָ",
+        "LXX": "καὶ οὐκ εἶδες ;",
+        "VUL": "et non aspexísti :",
+        "SP": null,
+        "KJV": "and thou seest not ? [ wherefore ]",
+        "DSS": "ו לא ראיתה"
+      }
+    },
+    {
+      "thought_id": 14,
+      "english_reference": "have we afflicted our soul",
+      "traditions": {
+        "WLC": "עִנִּ֥ינוּ נַפְשֵׁ֖ נוּ",
+        "LXX": "ἐταπεινώσαμεν τὰς ψυχὰς ἡμῶν",
+        "VUL": "humiliávimus ánimas nostras ,",
+        "SP": null,
+        "KJV": "have we afflicted our soul ,",
+        "DSS": "ענינו נפשתי׳נו"
+      }
+    },
+    {
+      "thought_id": 15,
+      "english_reference": "and thou takest no knowledge",
+      "traditions": {
+        "WLC": "וְ לֹ֣א תֵדָ֑ע",
+        "LXX": "καὶ οὐκ ἔγνως ;",
+        "VUL": "et nescísti ?",
+        "SP": null,
+        "KJV": "and thou takest no knowledge ?",
+        "DSS": "לא תדע"
+      }
+    },
+    {
+      "thought_id": 16,
+      "english_reference": "Behold , in the day of your fast ye find pleasure",
+      "traditions": {
+        "WLC": "הֵ֣ן בְּ י֤וֹם צֹֽמְ כֶם֙ תִּמְצְאוּ חֵ֔פֶץ",
+        "LXX": "ἐν γὰρ ταῖς ἡμέραις τῶν νηστειῶν ὑμῶν εὑρίσκετε τὰ θελήματα ὑμῶν ,",
+        "VUL": "Ecce in die ieiúnii vestri invenítur volúntas vestra ,",
+        "SP": null,
+        "KJV": "Behold , in the day of your fast ye find pleasure ,",
+        "DSS": "הן ב יום צמ׳כם תמצאו חפץ"
+      }
+    },
+    {
+      "thought_id": 17,
+      "english_reference": "and exact all your labours",
+      "traditions": {
+        "WLC": "וְ כָל עַצְּבֵי כֶ֖ם תִּנְגֹּֽשׂוּ",
+        "LXX": "καὶ πάντας τοὺς ὑποχειρίους ὑμῶν ὑπονύσσετε .",
+        "VUL": "et omnes debitóres vestros repétitis .",
+        "SP": null,
+        "KJV": "and exact all your labours .",
+        "DSS": "ו כל עצב׳כם תנגשו"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 18,
+      "english_reference": "Behold , ye fast for strife and debate",
+      "traditions": {
+        "WLC": "הֵ֣ן לְ רִ֤יב וּ מַצָּה֙ תָּצ֔וּמוּ",
+        "LXX": "εἰ εἰς κρίσεις καὶ μάχας νηστεύετε",
+        "VUL": "Ecce ad lites et contentiónes ieiunátis ,",
+        "SP": null,
+        "KJV": "Behold , ye fast for strife and debate ,",
+        "DSS": "הן ל ריב ו ל מצה תצומו"
+      }
+    },
+    {
+      "thought_id": 19,
+      "english_reference": "and to smite with the fist of wickedness",
+      "traditions": {
+        "WLC": "וּ לְ הַכּ֖וֹת בְּ אֶגְרֹ֣ף רֶ֑שַׁע",
+        "LXX": "καὶ τύπτετε πυγμαῖς ταπεινόν ,",
+        "VUL": "et percútitis pugno ímpie .",
+        "SP": null,
+        "KJV": "and to smite with the fist of wickedness :",
+        "DSS": "ל הכות ב אגרף רשע"
+      }
+    },
+    {
+      "thought_id": 20,
+      "english_reference": "ye shall not fast as [ ye do this ] day",
+      "traditions": {
+        "WLC": "לֹא תָצ֣וּמוּ כַ יּ֔וֹם",
+        "LXX": "ἵνα τί μοι νηστεύετε ὡς σήμερον ,",
+        "VUL": "Nolíte ieiunáre sicut usque ad hanc diem ,",
+        "SP": null,
+        "KJV": "ye shall not fast as [ ye do this ] day ,",
+        "DSS": "ו לא תצומו כ יום"
+      }
+    },
+    {
+      "thought_id": 21,
+      "english_reference": "to make your voice to be heard on high",
+      "traditions": {
+        "WLC": "לְ הַשְׁמִ֥יעַ בַּ מָּר֖וֹם קוֹלְ כֶֽם",
+        "LXX": "ἀκουσθῆναι ἐν κραυγῇ τὴν φωνὴν ὑμῶν ;",
+        "VUL": "ut audiátur in excélso clamor vester .",
+        "SP": null,
+        "KJV": "to make your voice to be heard on high .",
+        "DSS": "ל השמיע ב מרום קול׳כם"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 22,
+      "english_reference": "Is it such a fast that I have chosen",
+      "traditions": {
+        "WLC": "הֲ כָ זֶ֗ה יִֽהְיֶה֙ צ֣וֹם אֶבְחָרֵ֔ הוּ",
+        "LXX": "οὐ ταύτην τὴν νηστείαν ἐξελεξάμην ,",
+        "VUL": "Numquid tale est ieiúnium quod elégi ,",
+        "SP": null,
+        "KJV": "Is it such a fast that I have chosen ?",
+        "DSS": "ה כ זה יהיה צום אבחר׳הו"
+      }
+    },
+    {
+      "thought_id": 23,
+      "english_reference": "a day for a man to afflict his soul",
+      "traditions": {
+        "WLC": "י֛וֹם עַנּ֥וֹת אָדָ֖ם נַפְשׁ֑ וֹ",
+        "LXX": "καὶ ἡμέραν ταπεινοῦν ἄνθρωπον τὴν ψυχὴν αὐτοῦ ·",
+        "VUL": "per diem afflígere hóminem ánimam suam ?",
+        "SP": null,
+        "KJV": "a day for a man to afflict his soul ? [ is it ]",
+        "DSS": "ו יום ענות אדם נפש׳ו"
+      }
+    },
+    {
+      "thought_id": 24,
+      "english_reference": "to bow down his head as a bulrush",
+      "traditions": {
+        "WLC": "הֲ לָ כֹ֨ף כְּ אַגְמֹ֜ן רֹאשׁ֗ וֹ",
+        "LXX": "οὐδ᾽ ἂν κάμψῃς ὡς κρίκον τὸν τράχηλόν σου ,",
+        "VUL": "numquid contorquére quasi círculum caput suum ,",
+        "SP": null,
+        "KJV": "to bow down his head as a bulrush ,",
+        "DSS": "ה ל כף כ אגמן ראש׳ך"
+      }
+    },
+    {
+      "thought_id": 25,
+      "english_reference": "and to spread sackcloth and ashes",
+      "traditions": {
+        "WLC": "וְ שַׂ֤ק וָ אֵ֨פֶר֙ יַצִּ֔יעַ",
+        "LXX": "καὶ σάκκον καὶ σποδὸν ὑποστρώσῃ ,",
+        "VUL": "et saccum et cínerem stérnere ?",
+        "SP": null,
+        "KJV": "and to spread sackcloth and ashes [ under him ] ?",
+        "DSS": "שק ו אפר יציע"
+      }
+    },
+    {
+      "thought_id": 26,
+      "english_reference": "wilt thou call this a fast",
+      "traditions": {
+        "WLC": "הֲ לָ זֶה֙ תִּקְרָא צ֔וֹם",
+        "LXX": "οὐδ᾽ οὕτως καλέσετε νηστείαν δεκτήν .",
+        "VUL": "numquid istud vocábis ieiúnium ,",
+        "SP": null,
+        "KJV": "wilt thou call this a fast ,",
+        "DSS": "ה ל זה תקרא צום"
+      }
+    },
+    {
+      "thought_id": 27,
+      "english_reference": "and an acceptable day to the LORD",
+      "traditions": {
+        "WLC": "וְ י֥וֹם רָצ֖וֹן לַ יהוָֽה",
+        "LXX": null,
+        "VUL": "et diem acceptábilem Dómino ?",
+        "SP": null,
+        "KJV": "and an acceptable day to the LORD ?",
+        "DSS": "יום רצון ל יהוה"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 28,
+      "english_reference": "not this the fast that I have chosen",
+      "traditions": {
+        "WLC": "הֲ ל֣וֹא זֶה֮ צ֣וֹם אֶבְחָרֵ הוּ֒",
+        "LXX": "οὐχὶ τοιαύτην νηστείαν ἐγὼ ἐξελεξάμην , λέγει Κύριος ,",
+        "VUL": "Nonne hoc est magis ieiúnium , quod elégi ?",
+        "SP": null,
+        "KJV": "[ Is ] not this the fast that I have chosen ?",
+        "DSS": "ה לוא זה צום אבחר׳הו"
+      }
+    },
+    {
+      "thought_id": 29,
+      "english_reference": "to loose the bands of wickedness",
+      "traditions": {
+        "WLC": "פַּתֵּ֨חַ֙ חַרְצֻבּ֣וֹת רֶ֔שַׁע",
+        "LXX": "ἀλλὰ λῦε πάντα σύνδεσμον ἀδικίας ,",
+        "VUL": "dissólve colligatiónes impietátis ,",
+        "SP": null,
+        "KJV": "to loose the bands of wickedness ,",
+        "DSS": "פתח חרצבת רשע"
+      }
+    },
+    {
+      "thought_id": 30,
+      "english_reference": "to undo the heavy burdens",
+      "traditions": {
+        "WLC": "הַתֵּ֖ר אֲגֻדּ֣וֹת מוֹטָ֑ה",
+        "LXX": "διάλυε στραγγαλιὰς βιαίων συναλλαγμάτων ,",
+        "VUL": "solve fascículos depriméntes ,",
+        "SP": null,
+        "KJV": "to undo the heavy burdens ,",
+        "DSS": "התר אגדת מטה"
+      }
+    },
+    {
+      "thought_id": 31,
+      "english_reference": "and to let the oppressed go free",
+      "traditions": {
+        "WLC": "וְ שַׁלַּ֤ח רְצוּצִים֙ חָפְשִׁ֔ים",
+        "LXX": "ἀπόστελλε τεθραυσμένους ἐν ἀφέσει ,",
+        "VUL": "dimítte eos , qui confrácti sunt , líberos ,",
+        "SP": null,
+        "KJV": "and to let the oppressed go free ,",
+        "DSS": "שלח רצצים חפשים"
+      }
+    },
+    {
+      "thought_id": 32,
+      "english_reference": "and that ye break every yoke",
+      "traditions": {
+        "WLC": "וְ כָל מוֹטָ֖ה תְּנַתֵּֽקוּ",
+        "LXX": "καὶ πᾶσαν συνγραφὴν ἄδικον διάσπα .",
+        "VUL": "et omne onus dirúmpe .",
+        "SP": null,
+        "KJV": "and that ye break every yoke ?",
+        "DSS": "ו כל מטה תנתקו"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 33,
+      "english_reference": "not to deal thy bread to the hungry",
+      "traditions": {
+        "WLC": "הֲ ל֨וֹא פָרֹ֤ס לָֽ רָעֵב֙ לַחְמֶ֔ ךָ",
+        "LXX": "διάθρυπτε πεινῶντι τὸν ἄρτον σου ,",
+        "VUL": "Frange esuriénti panem tuum ,",
+        "SP": null,
+        "KJV": "[ Is it ] not to deal thy bread to the hungry ,",
+        "DSS": "ה לוא פרוס ל רעב לחמ׳ך"
+      }
+    },
+    {
+      "thought_id": 34,
+      "english_reference": "and that thou bring the poor that are cast out to thy house",
+      "traditions": {
+        "WLC": "וַ עֲנִיִּ֥ים מְרוּדִ֖ים תָּ֣בִיא בָ֑יִת",
+        "LXX": "καὶ πτωχοὺς ἀστέγους εἴσαγε εἰς τὸν οἶκόν σου ·",
+        "VUL": "et egénos vagósque induc in domum tuam :",
+        "SP": null,
+        "KJV": "and that thou bring the poor that are cast out to thy house ?",
+        "DSS": "עניים מרדים תביא בית"
+      }
+    },
+    {
+      "thought_id": 35,
+      "english_reference": "when thou seest the naked , that thou cover him",
+      "traditions": {
+        "WLC": "כִּֽי תִרְאֶ֤ה עָרֹם֙ וְ כִסִּית֔ וֹ",
+        "LXX": "ἐὰν ἴδῃς γυμνόν , περίβαλε ,",
+        "VUL": "cum víderis nudum , óperi eum ,",
+        "SP": null,
+        "KJV": "when thou seest the naked , that thou cover him ;",
+        "DSS": "כי תראה ערום ו כסית׳ו"
+      }
+    },
+    {
+      "thought_id": 36,
+      "english_reference": "and that thou hide not thyself from thine own flesh",
+      "traditions": {
+        "WLC": "וּ מִ בְּשָׂרְ ךָ֖ לֹ֥א תִתְעַלָּֽם",
+        "LXX": "καὶ ἀπὸ τῶν οἰκείων τοῦ σπέρματός σου οὐχ ὑπερόψῃ .",
+        "VUL": "et carnem tuam ne despéxeris .",
+        "SP": null,
+        "KJV": "and that thou hide not thyself from thine own flesh ?",
+        "DSS": "ו מ בשר׳ך לא תתעלם"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 37,
+      "english_reference": "Then shall thy light break forth as the morning",
+      "traditions": {
+        "WLC": "אָ֣ז יִבָּקַ֤ע כַּ שַּׁ֨חַר֙ אוֹרֶ֔ ךָ",
+        "LXX": "τότε ῥαγήσεται πρόιμον τὸ φῶς σου ,",
+        "VUL": "Tunc erúmpet quasi mane lumen tuum ,",
+        "SP": null,
+        "KJV": "Then shall thy light break forth as the morning ,",
+        "DSS": "אז יבקע כ שחר אור׳ך"
+      }
+    },
+    {
+      "thought_id": 38,
+      "english_reference": "and thine health shall spring forth speedily",
+      "traditions": {
+        "WLC": "וַ אֲרֻכָתְ ךָ֖ מְהֵרָ֣ה תִצְמָ֑ח",
+        "LXX": "καὶ τὰ ἰάματά σου ταχὺ ἀνατελεῖ ,",
+        "VUL": "et sánitas tua cítius oriétur ,",
+        "SP": null,
+        "KJV": "and thine health shall spring forth speedily :",
+        "DSS": "ארוכת׳ך מהרה תצמח"
+      }
+    },
+    {
+      "thought_id": 39,
+      "english_reference": "and thy righteousness shall go before thee",
+      "traditions": {
+        "WLC": "וְ הָלַ֤ךְ לְ פָנֶ֨י ךָ֙ צִדְקֶ֔ ךָ",
+        "LXX": "καὶ προπορεύσεται ἔμπροσθέν σου ἡ δικαιοσύνη σου ,",
+        "VUL": "et anteíbit fáciem tuam iustítia tua ,",
+        "SP": null,
+        "KJV": "and thy righteousness shall go before thee ;",
+        "DSS": "ו הלך ל פני׳ך צדק׳ך"
+      }
+    },
+    {
+      "thought_id": 40,
+      "english_reference": "the glory of the LORD shall be thy rereward",
+      "traditions": {
+        "WLC": "כְּב֥וֹד יְהוָ֖ה יַאַסְפֶֽ ךָ",
+        "LXX": "καὶ ἡ δόξα τοῦ θεοῦ περιστελεῖ σε ·",
+        "VUL": "et glória Dómini cólliget te .",
+        "SP": null,
+        "KJV": "the glory of the LORD shall be thy rereward .",
+        "DSS": "ו כבוד יהוה יאספ׳ך"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 41,
+      "english_reference": "Then shalt thou call",
+      "traditions": {
+        "WLC": "אָ֤ז תִּקְרָא֙",
+        "LXX": "τότε βοήσῃ ,",
+        "VUL": "Tunc invocábis ,",
+        "SP": null,
+        "KJV": "Then shalt thou call ,",
+        "DSS": "אז תקרא"
+      }
+    },
+    {
+      "thought_id": 42,
+      "english_reference": "and the LORD shall answer",
+      "traditions": {
+        "WLC": "וַ יהוָ֣ה יַעֲנֶ֔ה",
+        "LXX": "καὶ ὁ θεὸς εἰσακούσεταί σου ,",
+        "VUL": "et Dóminus exáudiet :",
+        "SP": null,
+        "KJV": "and the LORD shall answer ;",
+        "DSS": "ו יהוה יענה"
+      }
+    },
+    {
+      "thought_id": 43,
+      "english_reference": "thou shalt cry",
+      "traditions": {
+        "WLC": "תְּשַׁוַּ֖ע",
+        "LXX": "ἔτι λαλοῦντός σου",
+        "VUL": "clamábis ,",
+        "SP": null,
+        "KJV": "thou shalt cry ,",
+        "DSS": "תשוי?ע"
+      }
+    },
+    {
+      "thought_id": 44,
+      "english_reference": "and he shall say , Here I [ am ]",
+      "traditions": {
+        "WLC": "וְ יֹאמַ֣ר הִנֵּ֑ נִי",
+        "LXX": "ἐρεῖ Ἰδοὺ πάρειμι .",
+        "VUL": "et dicet : Ecce adsum :",
+        "SP": null,
+        "KJV": "and he shall say , Here I [ am ] .",
+        "DSS": "ו יאמר הנ׳ני"
+      }
+    },
+    {
+      "thought_id": 45,
+      "english_reference": "If thou take away from the midst of thee the yoke",
+      "traditions": {
+        "WLC": "אִם תָּסִ֤יר מִ תּֽוֹכְ ךָ֙ מוֹטָ֔ה",
+        "LXX": "ἐὰν ἀφέλῃς ἀπὸ σοῦ σύνδεσμον",
+        "VUL": "si abstúleris de médio tui caténam ,",
+        "SP": null,
+        "KJV": "If thou take away from the midst of thee the yoke ,",
+        "DSS": "אם תסיר מ תוכ׳ך מטה"
+      }
+    },
+    {
+      "thought_id": 46,
+      "english_reference": "the putting forth of the finger",
+      "traditions": {
+        "WLC": "שְׁלַ֥ח אֶצְבַּ֖ע",
+        "LXX": "καὶ χειροτονίαν",
+        "VUL": "et desíeris exténdere dígitum ,",
+        "SP": null,
+        "KJV": "the putting forth of the finger ,",
+        "DSS": "שלח אצבע"
+      }
+    },
+    {
+      "thought_id": 47,
+      "english_reference": "and speaking vanity",
+      "traditions": {
+        "WLC": "וְ דַבֶּר אָֽוֶן",
+        "LXX": "καὶ ῥῆμα γογγυσμοῦ ,",
+        "VUL": "et loqui quod non prodest .",
+        "SP": null,
+        "KJV": "and speaking vanity ;",
+        "DSS": "ו דבר און"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 48,
+      "english_reference": "And [ if ] thou draw out thy soul to the hungry",
+      "traditions": {
+        "WLC": "וְ תָפֵ֤ק לָֽ רָעֵב֙ נַפְשֶׁ֔ ךָ",
+        "LXX": "καὶ δῷς πεινῶντι τὸν ἄρτον ἐκ ψυχῆς σου ,",
+        "VUL": "Cum effúderis esuriénti ánimam tuam ,",
+        "SP": null,
+        "KJV": "And [ if ] thou draw out thy soul to the hungry ,",
+        "DSS": "ו תפק ל רעב נפש׳ך"
+      }
+    },
+    {
+      "thought_id": 49,
+      "english_reference": "and satisfy the afflicted soul",
+      "traditions": {
+        "WLC": "וְ נֶ֥פֶשׁ נַעֲנָ֖ה תַּשְׂבִּ֑יעַ",
+        "LXX": "καὶ ψυχὴν τεταπεινωμένην ἐμπλήσῃς ,",
+        "VUL": "et ánimam afflíctam repléveris ,",
+        "SP": null,
+        "KJV": "and satisfy the afflicted soul ;",
+        "DSS": "ו נפש נענה תשביע"
+      }
+    },
+    {
+      "thought_id": 50,
+      "english_reference": "then shall thy light rise in obscurity",
+      "traditions": {
+        "WLC": "וְ זָרַ֤ח בַּ חֹ֨שֶׁךְ֙ אוֹרֶ֔ ךָ",
+        "LXX": "τότε ἀνατελεῖ ἐν τῷ σκότει τὸ φῶς σου ,",
+        "VUL": "oriétur in ténebris lux tua ,",
+        "SP": null,
+        "KJV": "then shall thy light rise in obscurity ,",
+        "DSS": "ו זרח ב חשך אור׳ך"
+      }
+    },
+    {
+      "thought_id": 51,
+      "english_reference": "and thy darkness [ be ] as the noonday",
+      "traditions": {
+        "WLC": "וַ אֲפֵלָתְ ךָ֖ כַּֽ צָּהֳרָֽיִם",
+        "LXX": "καὶ τὸ σκότος σου ὡς μεσημβρία ,",
+        "VUL": "et ténebræ tuæ erunt sicut merídies .",
+        "SP": null,
+        "KJV": "and thy darkness [ be ] as the noonday :",
+        "DSS": "ו אפלת׳ך כ צהרים"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD shall guide thee continually",
+      "traditions": {
+        "WLC": "וְ נָחֲ ךָ֣ יְהוָה֮ תָּמִיד֒",
+        "LXX": "καὶ ἔσται ὁ θεός σου μετὰ σοῦ διὰ παντός ·",
+        "VUL": "Et réquiem tibi dabit Dóminus semper ,",
+        "SP": null,
+        "KJV": "And the LORD shall guide thee continually ,",
+        "DSS": "[1Q8] ו נח׳ך יהוה תמיד / [1Qisaa] ו נח׳כה יהוה תמיד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and satisfy thy soul in drought",
+      "traditions": {
+        "WLC": "וְ הִשְׂבִּ֤יעַ בְּ צַחְצָחוֹת֙ נַפְשֶׁ֔ ךָ",
+        "LXX": "καὶ ἐμπλησθήσῃ καθάπερ ἐπιθυμεῖ ἡ ψυχή σου ,",
+        "VUL": "et implébit splendóribus ánimam tuam ,",
+        "SP": null,
+        "KJV": "and satisfy thy soul in drought ,",
+        "DSS": "[1Q8] ו השביע ב צ#חצחת נפש׳ך / [1Qisaa] ו השביע ב צצחות נפש׳כה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and make fat thy bones",
+      "traditions": {
+        "WLC": "וְ עַצְמֹתֶ֖י ךָ יַחֲלִ֑יץ",
+        "LXX": "καὶ τὰ ὀστᾶ σου πιανθήσεται ,",
+        "VUL": "et ossa tua liberábit :",
+        "SP": null,
+        "KJV": "and make fat thy bones :",
+        "DSS": "[1Q8] ו עצמתי׳ך יחלצו / [1Qisaa] ו עצמותי׳ך(^ ה ^) יחליצו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and thou shalt be like a watered garden",
+      "traditions": {
+        "WLC": "וְ הָיִ֨יתָ֙ כְּ גַ֣ן רָוֶ֔ה",
+        "LXX": "καὶ ἔσται ὡς κῆπος μεθύων",
+        "VUL": "et eris quasi hortus irríguus ,",
+        "SP": null,
+        "KJV": "and thou shalt be like a watered garden ,",
+        "DSS": "[1Q8] ו היית כ גן רוה / [1Qisaa] ו הייתה כ גן רוה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and like a spring of water, whose waters fail not",
+      "traditions": {
+        "WLC": "וּ כְ מוֹצָ֣א מַ֔יִם אֲשֶׁ֥ר לֹא יְכַזְּב֖וּ מֵימָֽי ו",
+        "LXX": "καὶ ὡς πηγὴ ἣν μὴ ἐξέλιπεν ὕδωρ ·",
+        "VUL": "et sicut fons aquárum cuius non defícient aquæ .",
+        "SP": null,
+        "KJV": "and like a spring of water , whose waters fail not .",
+        "DSS": "[1Q8] ו כ (^ מ ^)וצא מים אשר לא יכזבו מימי׳ו / [1Qisaa] ו כ מוצא מים אשר לוא יכזבו מימי׳ו"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And [ they that shall be ] of thee shall build the old waste places",
+      "traditions": {
+        "WLC": "וּ בָנ֤וּ מִמְּ ךָ֙ חָרְב֣וֹת עוֹלָ֔ם",
+        "LXX": "καὶ οἰκοδομηθήσονταί σου αἱ ἔρημοι αἰώνιοι ,",
+        "VUL": "Et ædificabúntur in te desérta sæculórum ,",
+        "SP": null,
+        "KJV": "And [ they that shall be ] of thee shall build the old waste places :",
+        "DSS": "[1Q8] ו בנו ממ׳ך חרבות עולם / [1Qisaa] ו בנו ממ׳כה חרבות עולם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt raise up the foundations of many generations",
+      "traditions": {
+        "WLC": "מוֹסְדֵ֥י דוֹר וָ ד֖וֹר תְּקוֹמֵ֑ם",
+        "LXX": "καὶ ἔσται τὰ θεμέλιά σου αἰώνια γενεῶν γενεαῖς ·",
+        "VUL": "fundaménta generatiónis et generatiónis suscitábis :",
+        "SP": null,
+        "KJV": "thou shalt raise up the foundations of many generations ;",
+        "DSS": "[1Q8] מוסדי דור ו דור תקומם / [1Qisaa] מוסדי דור ו דור תקוםם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thou shalt be called, The repairer of the breach",
+      "traditions": {
+        "WLC": "וְ קֹרָ֤א לְ ךָ֙ גֹּדֵ֣ר פֶּ֔רֶץ",
+        "LXX": "καὶ κληθήσῃ Οἰκοδόμος φραγμῶν ,",
+        "VUL": "et vocáberis ædificátor sépium ,",
+        "SP": null,
+        "KJV": "and thou shalt be called , The repairer of the breach ,",
+        "DSS": "[1Q8] ו קרא ל׳ך גודר פרץ / [1Qisaa] ו קראו ל׳ך גודר פרץ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "The restorer of paths to dwell in",
+      "traditions": {
+        "WLC": "מְשֹׁבֵ֥ב נְתִיב֖וֹת לָ שָֽׁבֶת",
+        "LXX": "καὶ τοὺς τρίβους σου ἀνὰ μέσον παύσεις .",
+        "VUL": "avértens sémitas in quiétem .",
+        "SP": null,
+        "KJV": "The restorer of paths to dwell in .",
+        "DSS": "[1Q8] משיב נתיבות ל שבת / [1Qisaa] משובב נתיבות ל שבת"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "If thou turn away thy foot from the sabbath",
+      "traditions": {
+        "WLC": "אִם תָּשִׁ֤יב מִ שַּׁבָּת֙ רַגְלֶ֔ ךָ",
+        "LXX": "ἐὰν ἀποστρέψῃς ἀπὸ τῶν σαββάτων τὸν πόδα σου",
+        "VUL": "Si avérteris a sábbato pedem tuum ,",
+        "SP": null,
+        "KJV": "If thou turn away thy foot from the sabbath , [",
+        "DSS": "[1Q8] אם תשיב מ שבת ר#גל׳ך# / [1Qisaa] אמ תשיב מ שבת רגל׳כה / [4Q67] א##ם# [ תשי ]ב# מ ה שבת ר##ג?ל׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "from doing thy pleasure on my holy day",
+      "traditions": {
+        "WLC": "עֲשׂ֥וֹת חֲפָצֶ֖י ךָ בְּ י֣וֹם קָדְשִׁ֑ י",
+        "LXX": "τοῦ μὴ ποιεῖν τὰ θελήματά σου ἐν τῇ ἡμέρᾳ τῇ ἁγίᾳ ,",
+        "VUL": "fácere voluntátem tuam in die sancto meo ,",
+        "SP": null,
+        "KJV": "from ] doing thy pleasure on my holy day ;",
+        "DSS": "[1Q8] עשות חפצ׳ך ב יום קדש׳י / [1Qisaa] מ עשות חפצי׳כה ב יום קודש׳י / [4Q67] מ עש[ ות חפצי׳ך ב יום ] קדש׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and call the sabbath a delight, the holy of the LORD, honourable",
+      "traditions": {
+        "WLC": "וְ קָרָ֨אתָ לַ שַּׁבָּ֜ת עֹ֗נֶג לִ קְד֤וֹשׁ יְהוָה֙ מְכֻבָּ֔ד",
+        "LXX": "καὶ καλέσεις τὰ σάββατα τρυφερά , ἅγια τῷ θεῷ ,",
+        "VUL": "et vocáveris sábbatum delicátum , et sanctum Dómini gloriósum ,",
+        "SP": null,
+        "KJV": "and call the sabbath a delight , the holy of the LORD , honourable ;",
+        "DSS": "[1Q8] ו קראת ל שבת ענג ו ל קדוש יהוה [ מכ ]ב##ד# / [1Qisaa] ו קראתה ל שבת עונג ו ל קד(^ ו ^)ש / [4Q67] ו קרת ל שבת ענג ו#?[  ל קדוש יהוה ] מכבד"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and shalt honour him, not doing thine own ways",
+      "traditions": {
+        "WLC": "וְ כִבַּדְתּ וֹ֙ מֵ עֲשׂ֣וֹת דְּרָכֶ֔י ךָ",
+        "LXX": "οὐκ ἀρεῖς τὸν πόδα σου ἐπ᾽ ἔργῳ ,",
+        "VUL": "et glorificáveris eum dum non facis vias tuas ,",
+        "SP": null,
+        "KJV": "and shalt honour him , not doing thine own ways ,",
+        "DSS": "[1Q8] ו כבד#ת׳ו מ עשות דרכ׳ך / [1Qisaa] ו כבדת׳ו מ עשות דרכי׳כה / [4Q67] ו כבת׳ה מ ע##ש##[ ו ]ת## ד##ר##כי׳ך"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "nor finding thine own pleasure",
+      "traditions": {
+        "WLC": "מִ מְּצ֥וֹא חֶפְצְ ךָ֖",
+        "LXX": null,
+        "VUL": "et non invenítur volúntas tua ,",
+        "SP": null,
+        "KJV": "nor finding thine own pleasure ,",
+        "DSS": "[1Q8] מ מצוא חפצ׳ך / [1Qisaa] ו מ מצוא חפצ׳כה / [4Q67] מ ל (^ מ ^)צ # [  חפצ׳ך"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "nor speaking [ thine own ] words",
+      "traditions": {
+        "WLC": "וְ דַבֵּ֥ר דָּבָֽר",
+        "LXX": "οὐδὲ λαλήσεις λόγον ἐν ὀργῇ ἐκ τοῦ στόματός σου ,",
+        "VUL": "ut loquáris sermónem :",
+        "SP": null,
+        "KJV": "nor speaking [ thine own ] words :",
+        "DSS": "[1Q8] ו ד##[ ב ]ר דבר / [1Qisaa] ו דבר דבר / [4Q67] ו דבר דבר"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then shalt thou delight thyself in the LORD",
+      "traditions": {
+        "WLC": "אָ֗ז תִּתְעַנַּג֙ עַל יְהוָ֔ה",
+        "LXX": "καὶ ἔσῃ πεποιθὼς ἐπὶ Κύριον ,",
+        "VUL": "tunc delectáberis super Dómino ,",
+        "SP": null,
+        "KJV": "Then shalt thou delight thyself in the LORD ;",
+        "DSS": "[1Q8] אז תתענג [ על ] יהוה / [1Qisaa] אז תתענג על יהוה / [4Q67] אז תתענג על[  (^  # [   ^) יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will cause thee to ride upon the high places of the earth",
+      "traditions": {
+        "WLC": "וְ הִרְכַּבְתִּ֖י ךָ עַל בָּ֣מֳותֵי אָ֑רֶץ",
+        "LXX": "καὶ ἀναβιβάσει σε ἐπὶ τὰ ἀγαθὰ τῆς γῆς ,",
+        "VUL": "et sustóllam te super altitúdines terræ ,",
+        "SP": null,
+        "KJV": "and I will cause thee to ride upon the high places of the earth ,",
+        "DSS": "[1Q8] ו הרכ#יב׳ך על במתי ארץ / [1Qisaa] ו הרכיב׳כה על בומתי ארץ / [4Q67] ו  ]ה#רכב׳ך#[  על במותי ארץ ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and feed thee with the heritage of Jacob thy father",
+      "traditions": {
+        "WLC": "וְ הַאֲכַלְתִּ֗י ךָ נַחֲלַת֙ יַעֲקֹ֣ב אָבִ֔י ךָ",
+        "LXX": "καὶ ψωμιεῖ σε τὴν κληρονομίαν Ἰακὼβ τοῦ πατρός σου ·",
+        "VUL": "et cibábo te hereditáte Iacob patris tui :",
+        "SP": null,
+        "KJV": "and feed thee with the heritage of Jacob thy father :",
+        "DSS": "[1Q8] ו האכלתי׳ך [ נח ]לת יעקב אבי׳ך / [1Qisaa] ו האכיל׳כה נחלת יעקוב אבי׳כה / [4Q67] [ ו הא ]כ##לתי׳ך נ?ח##[ לת יעקב אבי׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for the mouth of the LORD hath spoken [ it ]",
+      "traditions": {
+        "WLC": "כִּ֛י פִּ֥י יְהוָ֖ה דִּבֵּֽר",
+        "LXX": "τὸ γὰρ στόμα Κυρίου ἐλάλησεν ταῦτα .",
+        "VUL": "os enim Dómini locútum est .",
+        "SP": null,
+        "KJV": "for the mouth of the LORD hath spoken [ it ] .",
+        "DSS": "[1Q8] כי פי יהוה דבר / [1Qisaa] כיא פי יהוה דבר / [4Q67] כי פי יהוה דבר"
+      }
+    }
+  ]
+}

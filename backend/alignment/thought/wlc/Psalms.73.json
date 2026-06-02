@@ -1,0 +1,778 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "A Psalm of Asaph",
+      "traditions": {
+        "WLC": "מִזְמ֗וֹר לְ אָ֫סָ֥ף",
+        "LXX": "Ψαλμὸς τῷ Ἀσάφ .",
+        "VUL": "Psalmus Asaph .",
+        "SP": null,
+        "KJV": "A Psalm of Asaph .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Truly God [ is ] good to Israel",
+      "traditions": {
+        "WLC": "אַ֤ךְ ט֭וֹב לְ יִשְׂרָאֵ֥ל אֱלֹהִ֗ים",
+        "LXX": "Ὡς ἀγαθὸς τῷ Ἰσραὴλ ὁ θεός ,",
+        "VUL": "Quam bonus Israel Deus his ,",
+        "SP": null,
+        "KJV": "Truly God [ is ] good to Israel , [ even ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ even ] to such as are of a clean heart",
+      "traditions": {
+        "WLC": "לְ בָרֵ֥י לֵבָֽב",
+        "LXX": "τοῖς εὐθέσι τῇ καρδίᾳ .",
+        "VUL": "qui recto sunt corde !",
+        "SP": null,
+        "KJV": "to such as are of a clean heart .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "But as for me , my feet were almost gone",
+      "traditions": {
+        "WLC": "וַ אֲנִ֗י כִּ֭ מְעַט נטוי רַגְלָ֑ י",
+        "LXX": "ἐμοῦ δὲ παρὰ μικρὸν ἐσαλεύθησαν οἱ πόδες ,",
+        "VUL": "Mei autem pene moti sunt pedes :",
+        "SP": null,
+        "KJV": "But as for me , my feet were almost gone ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "my steps had well nigh slipped",
+      "traditions": {
+        "WLC": "כְּ֝ אַ֗יִן שפכה אֲשֻׁרָֽ י",
+        "LXX": "παρ᾽ ὀλίγον ἐξεχύθη τὰ διαβήματά μου .",
+        "VUL": "pene effúsi sunt gressus mei .",
+        "SP": null,
+        "KJV": "my steps had well nigh slipped .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I was envious at the foolish",
+      "traditions": {
+        "WLC": "כִּֽי קִ֭נֵּאתִי בַּֽ הוֹלְלִ֑ים",
+        "LXX": "ὅτι ἐζήλωσα ἐπὶ τοῖς ἀνόμοις ,",
+        "VUL": "Quia zelávi super iníquos ,",
+        "SP": null,
+        "KJV": "For I was envious at the foolish , [ when ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ when ] I saw the prosperity of the wicked",
+      "traditions": {
+        "WLC": "שְׁל֖וֹם רְשָׁעִ֣ים אֶרְאֶֽה",
+        "LXX": "εἰρήνην ἁμαρτωλῶν θεωρῶν ·",
+        "VUL": "pacem peccatórum videns .",
+        "SP": null,
+        "KJV": "I saw the prosperity of the wicked .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "For [ there are ] no bands in their death",
+      "traditions": {
+        "WLC": "כִּ֤י אֵ֖ין חַרְצֻבּ֥וֹת לְ מוֹתָ֗ ם",
+        "LXX": "ὅτι οὐκ ἔστιν ἀνάνευσις ἐν τῷ θανάτῳ αὐτῶν ,",
+        "VUL": "Quia non est respéctus morti eórum :",
+        "SP": null,
+        "KJV": "For [ there are ] no bands in their death :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but their strength [ is ] firm",
+      "traditions": {
+        "WLC": "וּ בָרִ֥יא אוּלָֽ ם",
+        "LXX": "καὶ στερέωμα ἐν τῇ μάστιγι αὐτῶν ·",
+        "VUL": "et firmaméntum in plaga eórum .",
+        "SP": null,
+        "KJV": "but their strength [ is ] firm .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "They [ are ] not in trouble [ as other ] men",
+      "traditions": {
+        "WLC": "בַּ עֲמַ֣ל אֱנ֣וֹשׁ אֵינֵ֑ מוֹ",
+        "LXX": "ἐν κόποις ἀνθρώπων οὐκ εἰσίν ,",
+        "VUL": "In labóre hóminum non sunt ,",
+        "SP": null,
+        "KJV": "They [ are ] not in trouble [ as other ] men ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither are they plagued like [ other ] men",
+      "traditions": {
+        "WLC": "וְ עִם אָ֝דָ֗ם לֹ֣א יְנֻגָּֽעוּ",
+        "LXX": "καὶ μετὰ ἀνθρώπων οὐ μαστιγωθήσονται .",
+        "VUL": "et cum homínibus non flagellabúntur :",
+        "SP": null,
+        "KJV": "neither are they plagued like [ other ] men .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore pride compasseth them about as a chain",
+      "traditions": {
+        "WLC": "לָ֭ כֵן עֲנָקַ֣תְ מוֹ גַאֲוָ֑ה",
+        "LXX": "διὰ τοῦτο ἐκράτησεν αὐτοὺς ἡ ὑπερηφανία ,",
+        "VUL": "ídeo ténuit eos supérbia :",
+        "SP": null,
+        "KJV": "Therefore pride compasseth them about as a chain ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "violence covereth them [ as ] a garment",
+      "traditions": {
+        "WLC": "יַעֲטָף שִׁ֝֗ית חָמָ֥ס לָֽ מוֹ",
+        "LXX": "περιεβάλοντο ἀδικίαν καὶ ἀσέβειαν αὐτῶν .",
+        "VUL": "opérti sunt iniquitáte et impietáte sua .",
+        "SP": null,
+        "KJV": "violence covereth them [ as ] a garment .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Their eyes stand out with fatness",
+      "traditions": {
+        "WLC": "יָ֭צָא מֵ חֵ֣לֶב עֵינֵ֑ מוֹ",
+        "LXX": "ἐξελεύσεται ὡς ἐκ στέατος ἡ ἀδικία αὐτῶν ,",
+        "VUL": "Pródiit quasi ex ádipe iníquitas eórum :",
+        "SP": null,
+        "KJV": "Their eyes stand out with fatness :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they have more than heart could wish",
+      "traditions": {
+        "WLC": "עָ֝בְר֗וּ מַשְׂכִּיּ֥וֹת לֵבָֽב",
+        "LXX": "διῆλθον εἰς διάθεσιν καρδίας ·",
+        "VUL": "transiérunt in afféctum cordis .",
+        "SP": null,
+        "KJV": "they have more than heart could wish .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "They are corrupt , and speak wickedly [ concerning ] oppression",
+      "traditions": {
+        "WLC": "יָמִ֤יקוּ וִ ידַבְּר֣וּ בְ רָ֣ע עֹ֑שֶׁק",
+        "LXX": "διενοήθησαν καὶ ἐλάλησαν ἐν πονηρίᾳ ,",
+        "VUL": "Cogitavérunt , et locúti sunt nequítiam :",
+        "SP": null,
+        "KJV": "They are corrupt , and speak wickedly [ concerning ] oppression :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they speak loftily",
+      "traditions": {
+        "WLC": "מִ מָּר֥וֹם יְדַבֵּֽרוּ",
+        "LXX": "ἀδικίαν εἰς τὸ ὕψος ἐλάλησαν ·",
+        "VUL": "iniquitátem in excélso locúti sunt .",
+        "SP": null,
+        "KJV": "they speak loftily .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "They set their mouth against the heavens",
+      "traditions": {
+        "WLC": "שַׁתּ֣וּ בַ שָּׁמַ֣יִם פִּי הֶ֑ם",
+        "LXX": "ἔθεντο εἰς οὐρανὸν τὸ στόμα αὐτῶν ,",
+        "VUL": "Posuérunt in cælum os suum :",
+        "SP": null,
+        "KJV": "They set their mouth against the heavens ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and their tongue walketh through the earth",
+      "traditions": {
+        "WLC": "וּ֝ לְשׁוֹנָ֗ ם תִּֽהֲלַ֥ךְ בָּ אָֽרֶץ",
+        "LXX": "καὶ ἡ γλῶσσα αὐτῶν διῆλθεν ἐπὶ τῆς γῆς .",
+        "VUL": "et lingua eórum transívit in terra .",
+        "SP": null,
+        "KJV": "and their tongue walketh through the earth .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore his people return hither",
+      "traditions": {
+        "WLC": "לָ כֵ֤ן ישיב עַמּ֣ וֹ הֲלֹ֑ם",
+        "LXX": "διὰ τοῦτο ἐπιστρέψει ὁ λαός μου ἐνταῦθα ,",
+        "VUL": "Ideo convertétur pópulus meus hic :",
+        "SP": null,
+        "KJV": "Therefore his people return hither :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and waters of a full [ cup ] are wrung out to them",
+      "traditions": {
+        "WLC": "וּ מֵ֥י מָ֝לֵ֗א יִמָּ֥צוּ לָֽ מוֹ",
+        "LXX": "καὶ ἡμέραι πλήρεις εὑρεθήσονται αὐτοῖς ,",
+        "VUL": "et dies pleni inveniéntur in eis .",
+        "SP": null,
+        "KJV": "and waters of a full [ cup ] are wrung out to them .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they say , How doth God know ?",
+      "traditions": {
+        "WLC": "וְֽ אָמְר֗וּ אֵיכָ֥ה יָדַֽע אֵ֑ל",
+        "LXX": "καὶ εἶπαν Πῶς ἔγνω ὁ θεός ?",
+        "VUL": "Et dixérunt : Quómodo scit Deus ,",
+        "SP": null,
+        "KJV": "And they say , How doth God know ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and is there knowledge in the most High ?",
+      "traditions": {
+        "WLC": "וְ יֵ֖שׁ דֵּעָ֣ה בְ עֶלְיֽוֹן",
+        "LXX": "καὶ εἰ ἔστιν γνῶσις ἐν τῷ ὑψίστῳ ?",
+        "VUL": "et si est sciéntia in excélso ?",
+        "SP": null,
+        "KJV": "and is there knowledge in the most High ?",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , these [ are ] the ungodly , who prosper in the world ;",
+      "traditions": {
+        "WLC": "הִנֵּה אֵ֥לֶּה רְשָׁעִ֑ים וְ שַׁלְוֵ֥י ע֝וֹלָ֗ם",
+        "LXX": "ἰδοὺ ἁμαρτωλοὶ καὶ εὐθηνοῦνται ·",
+        "VUL": "Ecce ipsi peccatóres , et abundántes in sǽculo ,",
+        "SP": null,
+        "KJV": "Behold , these [ are ] the ungodly , who prosper in the world ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they increase [ in ] riches .",
+      "traditions": {
+        "WLC": "הִשְׂגּוּ חָֽיִל",
+        "LXX": "εἰς τὸν αἰῶνα κατέσχον πλούτου .",
+        "VUL": "obtinuérunt divítias .",
+        "SP": null,
+        "KJV": "they increase [ in ] riches .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Verily I have cleansed my heart [ in ] vain ,",
+      "traditions": {
+        "WLC": "אַךְ רִ֭יק זִכִּ֣יתִי לְבָבִ֑ י",
+        "LXX": "καὶ εἶπα Ἄρα ματαίως ἐδικαίωσα τὴν καρδίαν μου ,",
+        "VUL": "Et dixi : Ergo sine causa iustificávi cor meum ,",
+        "SP": null,
+        "KJV": "Verily I have cleansed my heart [ in ] vain ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and washed my hands in innocency .",
+      "traditions": {
+        "WLC": "וָ אֶרְחַ֖ץ בְּ נִקָּי֣וֹן כַּפָּֽ י",
+        "LXX": "καὶ ἐνιψάμην ἐν ἀθῴοις τὰς χεῖράς μου ,",
+        "VUL": "et lavi inter innocéntes manus meas :",
+        "SP": null,
+        "KJV": "and washed my hands in innocency .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "For all the day long have I been plagued ,",
+      "traditions": {
+        "WLC": "וָ אֱהִ֣י נָ֭גוּעַ כָּל הַ יּ֑וֹם",
+        "LXX": "καὶ ἐγενόμην μεμαστιγωμένος ὅλην τὴν ἡμέραν ,",
+        "VUL": "et fui flagellátus tota die ,",
+        "SP": null,
+        "KJV": "For all the day long have I been plagued ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and chastened every morning .",
+      "traditions": {
+        "WLC": "וְ֝ תוֹכַחְתִּ֗ י לַ בְּקָרִֽים",
+        "LXX": "καὶ ὁ ἔλεγχός μου εἰς τὰς πρωίας .",
+        "VUL": "et castigátio mea in matutínis .",
+        "SP": null,
+        "KJV": "and chastened every morning .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "If I say , I will speak thus ;",
+      "traditions": {
+        "WLC": "אִם אָ֭מַרְתִּי אֲסַפְּרָ֥ה כְמ֑וֹ",
+        "LXX": "εἰ ἔλεγον Διηγήσομαι οὕτως ,",
+        "VUL": "Si dicébam : Narrábo sic :",
+        "SP": null,
+        "KJV": "If I say , I will speak thus ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "behold , I should offend [ against ] the generation of thy children .",
+      "traditions": {
+        "WLC": "הִנֵּ֤ה ד֭וֹר בָּנֶ֣י ךָ בָגָֽדְתִּי",
+        "LXX": "ἰδοὺ τῇ γενεᾷ τῶν υἱῶν σου ἠσυνθέτηκα .",
+        "VUL": "ecce natiónem filiórum tuórum reprobávi .",
+        "SP": null,
+        "KJV": "behold , I should offend [ against ] the generation of thy children .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "When I thought to know this ,",
+      "traditions": {
+        "WLC": "וָֽ֭ אֲחַשְּׁבָ ה לָ דַ֣עַת זֹ֑את",
+        "LXX": "καὶ ὑπέλαβον τοῦ γνῶναι ·",
+        "VUL": "Existimábam ut cognóscerem hoc ,",
+        "SP": null,
+        "KJV": "When I thought to know this ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ was ] too painful for me ;",
+      "traditions": {
+        "WLC": "עָמָ֖ל היא בְ עֵינָֽ י",
+        "LXX": "τοῦτο κόπος ἐναντίον μου ,",
+        "VUL": "labor est ante me :",
+        "SP": null,
+        "KJV": "it [ was ] too painful for me ;",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Until I went into the sanctuary of God ;",
+      "traditions": {
+        "WLC": "עַד אָ֭בוֹא אֶל מִקְדְּשֵׁי אֵ֑ל",
+        "LXX": "ἕως εἰσέλθω εἰς τὸ ἁγιαστήριον τοῦ θεοῦ ,",
+        "VUL": "donec intrem in sanctuárium Dei :",
+        "SP": null,
+        "KJV": "Until I went into the sanctuary of God ; [ then ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ then ] understood I their end .",
+      "traditions": {
+        "WLC": "אָ֝בִ֗ינָה לְ אַחֲרִיתָֽ ם",
+        "LXX": "καὶ συνῶ εἰς τὰ ἔσχατα .",
+        "VUL": "et intélligam in novíssimis eórum .",
+        "SP": null,
+        "KJV": "understood I their end .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Surely thou didst set them in slippery places :",
+      "traditions": {
+        "WLC": "אַ֣ךְ בַּ֭ חֲלָקוֹת תָּשִׁ֣ית לָ֑ מוֹ",
+        "LXX": "πλὴν διὰ τὰς δολιότητας ἔθου αὐτοῖς .",
+        "VUL": "Verúmtamen propter dolos posuísti eis :",
+        "SP": null,
+        "KJV": "Surely thou didst set them in slippery places :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou castedst them down into destruction .",
+      "traditions": {
+        "WLC": "הִ֝פַּלְתָּ֗ ם לְ מַשּׁוּאֽוֹת",
+        "LXX": null,
+        "VUL": "deiecísti eos dum allevaréntur .",
+        "SP": null,
+        "KJV": "thou castedst them down into destruction .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "How are they [ brought ] into desolation , as in a moment !",
+      "traditions": {
+        "WLC": "אֵ֤יךְ הָי֣וּ לְ שַׁמָּ֣ה כְ רָ֑גַע",
+        "LXX": "πῶς ἐγένοντο εἰς ἐρήμωσιν ? ἐξάπινα ἐξέλιπον ,",
+        "VUL": "Quómodo facti sunt in desolatiónem , súbito defecérunt :",
+        "SP": null,
+        "KJV": "How are they [ brought ] into desolation , as in a moment !",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they are utterly consumed with terrors .",
+      "traditions": {
+        "WLC": "סָ֥פוּ תַ֝֗מּוּ מִן בַּלָּהֽוֹת",
+        "LXX": "ἀπώλοντο διὰ τὴν ἀνομίαν αὐτῶν .",
+        "VUL": "periérunt propter iniquitátem suam .",
+        "SP": null,
+        "KJV": "they are utterly consumed with terrors .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "As a dream when [ one ] awaketh ;",
+      "traditions": {
+        "WLC": "כַּ חֲל֥וֹם מֵ הָקִ֑יץ",
+        "LXX": "ὡσεὶ ἐνύπνιον ἐξεγειρομένου ,",
+        "VUL": "Velut sómnium surgéntium",
+        "SP": null,
+        "KJV": "As a dream when [ one ] awaketh ; [ so ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ so ] , O Lord , when thou awakest , thou shalt despise their image .",
+      "traditions": {
+        "WLC": "אֲ֝דֹנָ י בָּ עִ֤יר צַלְמָ֬ ם תִּבְזֶֽה",
+        "LXX": "κύριε , ἐν τῇ πόλει σου τὴν εἰκόνα αὐτῶν ἐξουδενώσεις .",
+        "VUL": "Dómine , in civitáte tua imáginem ipsórum ad níhilum rédiges .",
+        "SP": null,
+        "KJV": "O Lord , when thou awakest , thou shalt despise their image .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus my heart was grieved",
+      "traditions": {
+        "WLC": "כִּ֭י יִתְחַמֵּ֣ץ לְבָבִ֑ י",
+        "LXX": "ὅτι ηὐφράνθη ἡ καρδία μου ,",
+        "VUL": "Quia inflammátum est cor meum ,",
+        "SP": null,
+        "KJV": "Thus my heart was grieved ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I was pricked in my reins",
+      "traditions": {
+        "WLC": "וְ֝ כִלְיוֹתַ֗ י אֶשְׁתּוֹנָֽן",
+        "LXX": "καὶ οἱ νεφροί μου ἠλλοιώθησαν ·",
+        "VUL": "et renes mei commutáti sunt :",
+        "SP": null,
+        "KJV": "and I was pricked in my reins .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "So foolish [ was ] I , and ignorant",
+      "traditions": {
+        "WLC": "וַ אֲנִי בַ֭עַר וְ לֹ֣א אֵדָ֑ע",
+        "LXX": "καὶ ἐγὼ ἐξουδενωμένος καὶ οὐκ ἔγνων ,",
+        "VUL": "et ego ad níhilum redáctus sum , et nescívi .",
+        "SP": null,
+        "KJV": "So foolish [ was ] I , and ignorant :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I was [ as ] a beast before thee",
+      "traditions": {
+        "WLC": "בְּ֝הֵמ֗וֹת הָיִ֥יתִי עִמָּֽ ךְ",
+        "LXX": "κτηνώδης ἐγενόμην παρὰ σοί .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "I was [ as ] a beast before thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "Nevertheless I [ am ] continually with thee :",
+      "traditions": {
+        "WLC": "וַ אֲנִ֣י תָמִ֣יד עִמָּ֑ ךְ",
+        "LXX": "καὶ ἐγὼ διὰ παντὸς μετὰ σοῦ ·",
+        "VUL": "Ut iuméntum factus sum apud te : et ego semper tecum .",
+        "SP": null,
+        "KJV": "Nevertheless I [ am ] continually with thee :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou hast holden [ me ] by my right hand .",
+      "traditions": {
+        "WLC": "אָ֝חַ֗זְתָּ בְּ יַד יְמִינִֽ י",
+        "LXX": "ἐκράτησας τῆς χειρὸς τῆς δεξιᾶς μου ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "thou hast holden [ me ] by my right hand .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt guide me with thy counsel",
+      "traditions": {
+        "WLC": "בַּ עֲצָתְ ךָ֥ תַנְחֵ֑ נִי",
+        "LXX": "ἐν τῇ βουλῇ σου ὡδήγησάς με ,",
+        "VUL": "Tenuísti manum déxteram meam : et in voluntáte tua deduxísti me ,",
+        "SP": null,
+        "KJV": "Thou shalt guide me with thy counsel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and afterward receive me [ to ] glory",
+      "traditions": {
+        "WLC": "וְ֝ אַחַ֗ר כָּב֥וֹד תִּקָּחֵֽ נִי",
+        "LXX": "καὶ μετὰ δόξης προσελάβου με .",
+        "VUL": "et cum glória suscepísti me .",
+        "SP": null,
+        "KJV": "and afterward receive me [ to ] glory .",
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "Whom have I in heaven [ but thee ] ?",
+      "traditions": {
+        "WLC": "מִי לִ֥ י בַ שָּׁמָ֑יִם",
+        "LXX": "τί γὰρ μοι ὑπάρχει ἐν τῷ οὐρανῷ ?",
+        "VUL": "Quid enim mihi est in cælo ?",
+        "SP": null,
+        "KJV": "Whom have I in heaven [ but thee ] ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ there is ] none upon earth [ that ] I desire beside thee",
+      "traditions": {
+        "WLC": "וְ֝ עִמְּ ךָ֗ לֹא חָפַ֥צְתִּי בָ אָֽרֶץ",
+        "LXX": "καὶ παρὰ σοῦ τὶ ἠθέλησα ἐπὶ τῆς γῆς ?",
+        "VUL": "et a te quid vólui super terram ?",
+        "SP": null,
+        "KJV": "and [ there is ] none upon earth [ that ] I desire beside thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "My flesh and my heart faileth",
+      "traditions": {
+        "WLC": "כָּלָ֥ה שְׁאֵרִ֗ י וּ לְבָ֫בִ֥ י",
+        "LXX": "ἐξέλιπεν ἡ καρδία μου καὶ ἡ σάρξ μου ,",
+        "VUL": "Defécit caro mea , et cor meum :",
+        "SP": null,
+        "KJV": "My flesh and my heart faileth : [ but ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ but ] God [ is ] the strength of my heart",
+      "traditions": {
+        "WLC": "צוּר לְבָבִ֥ י",
+        "LXX": "ὁ θεὸς τῆς καρδίας μου ,",
+        "VUL": "Deus cordis mei ,",
+        "SP": null,
+        "KJV": "God [ is ] the strength of my heart ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and my portion for ever",
+      "traditions": {
+        "WLC": "וְ חֶלְקִ֗ י אֱלֹהִ֥ים לְ עוֹלָֽם",
+        "LXX": "καὶ ἡ μερὶς μου ὁ θεὸς εἰς τὸν αἰῶνα .",
+        "VUL": "et pars mea Deus in ætérnum .",
+        "SP": null,
+        "KJV": "and my portion for ever .",
+        "DSS": null
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "For , lo , they that are far from thee shall perish",
+      "traditions": {
+        "WLC": "כִּֽי הִנֵּ֣ה רְחֵקֶ֣י ךָ יֹאבֵ֑דוּ",
+        "LXX": "ὅτι ἰδοὺ οἱ μακρύνοντες ἑαυτοὺς ἀπὸ σοῦ ἀπολοῦνται ·",
+        "VUL": "Quia ecce , qui elóngant se a te , períbunt :",
+        "SP": null,
+        "KJV": "For , lo , they that are far from thee shall perish :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou hast destroyed all them that go a whoring from thee",
+      "traditions": {
+        "WLC": "הִ֝צְמַ֗תָּה כָּל זוֹנֶ֥ה מִמֶּֽ ךָּ",
+        "LXX": "ἐξωλέθρευσας πάντα τὸν πορνεύοντα ἀπὸ σοῦ .",
+        "VUL": "perdidísti omnes , qui fornicántur abs te .",
+        "SP": null,
+        "KJV": "thou hast destroyed all them that go a whoring from thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "But [ it is ] good for me to draw near to God",
+      "traditions": {
+        "WLC": "וַ אֲנִ֤י קִֽרֲבַ֥ת אֱלֹהִ֗ים לִ֫ י ט֥וֹב",
+        "LXX": "ἐμοὶ δὲ τὸ προσκολλᾶσθαι τῷ κυρίῳ ἀγαθόν ἐστιν ,",
+        "VUL": "Mihi autem adhærére Deo bonum est :",
+        "SP": null,
+        "KJV": "But [ it is ] good for me to draw near to God :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I have put my trust in the Lord GOD",
+      "traditions": {
+        "WLC": "שַׁתִּ֤י בַּ אדֹנָ֣ י יְהֹוִ֣ה מַחְסִ֑ י",
+        "LXX": "τίθεσθαι ἐν τῷ κυρίῳ τὴν ἐλπίδα μου ,",
+        "VUL": "pónere in Dómino Deo spem meam :",
+        "SP": null,
+        "KJV": "I have put my trust in the Lord GOD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that I may declare all thy works",
+      "traditions": {
+        "WLC": "לְ֝ סַפֵּ֗ר כָּל מַלְאֲכוֹתֶֽי ךָ",
+        "LXX": "τοὺ ἐξαγγεῖλαι πάσας τὰς αἰνέσεις σου",
+        "VUL": "ut annúntiem omnes prædicatiónes tuas ,",
+        "SP": null,
+        "KJV": "that I may declare all thy works .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "ἐν ταῖς πύλαις τῆς θυγατρὸς Σιών .",
+        "VUL": "in portis fíliæ Sion .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ]
+}

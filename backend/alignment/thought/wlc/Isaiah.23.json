@@ -1,0 +1,746 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "The burden of Tyre",
+      "traditions": {
+        "WLC": "מַשָּׂ֖א צֹ֑ר",
+        "LXX": "Τὸ ῥῆμα Τύρου .",
+        "VUL": "Onus Tyri .",
+        "SP": null,
+        "KJV": "The burden of Tyre .",
+        "DSS": "[1Q8] [ משא צר ] / [1Qisaa] משא צר / [4Q55] מ##שא צר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Howl , ye ships of Tarshish",
+      "traditions": {
+        "WLC": "הֵילִ֣ילוּ אֳנִיּ֣וֹת תַּרְשִׁ֗ישׁ",
+        "LXX": "Ὀλολύξατε , πλοῖα Καρχηδόνος ,",
+        "VUL": "Ululáte naves maris :",
+        "SP": null,
+        "KJV": "Howl , ye ships of Tarshish ;",
+        "DSS": "[1Q8] הילילו אניות תרשי / [1Qisaa] אילילו אניות תרשיש / [4Q55] הילילו אניות תרשיש"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for it is laid waste , so that there is no house , no entering in",
+      "traditions": {
+        "WLC": "כִּֽי שֻׁדַּ֤ד מִ בַּ֨יִת֙ מִ בּ֔וֹא",
+        "LXX": "ὅτι ἀπώλετο , καὶ οὐκέτι ἔρχονται",
+        "VUL": "quia vastáta est domus , unde veníre consuéverant :",
+        "SP": null,
+        "KJV": "for it is laid waste , so that there is no house , no entering in :",
+        "DSS": "[1Q8] ש## כי שדד מ בית##[ מ בוא / [1Qisaa] כי שודד מ בית מ בוא / [4Q55] כי? ש##ד##ד מ בית מ בו?א#["
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "from the land of Chittim it is revealed to them",
+      "traditions": {
+        "WLC": "מֵ אֶ֥רֶץ כִּתִּ֖ים נִגְלָה לָֽ מוֹ",
+        "LXX": "ἐκ γῆς Κιτιαίων · ἦκται αἰχμάλωτος .",
+        "VUL": "de terra Cethim revelátum est eis .",
+        "SP": null,
+        "KJV": "from the land of Chittim it is revealed to them .",
+        "DSS": "[1Q8] מ ארץ כתים נגלה ל׳מו ׃ / [1Qisaa] מ ארץ כתיים נגלה ל׳מו ׃ / [4Q55] מ ארץ כתי ]ם נגלה# ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Be still , ye inhabitants of the isle",
+      "traditions": {
+        "WLC": "דֹּ֖מּוּ יֹ֣שְׁבֵי אִ֑י",
+        "LXX": "τίνι ὅμοιοι γεγόνασιν οἱ ἐνοικοῦντες ἐν τῇ νήσῳ ,",
+        "VUL": "Tacéte qui habitátis in ínsula :",
+        "SP": null,
+        "KJV": "Be still , ye inhabitants of the isle ;",
+        "DSS": "[1Q8] [ דמו ישבי אי / [1Qisaa] דמו י(^ ו ^)שבי אי / [4Q55] ל׳מו? דמו? י#?ו(# שב #)י אי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou whom the merchants of Zidon , that pass over the sea , have replenished",
+      "traditions": {
+        "WLC": "סֹחֵ֥ר צִיד֛וֹן עֹבֵ֥ר יָ֖ם מִלְאֽוּ ךְ",
+        "LXX": "μεταβόλοι Φοινίκης , διαπερῶντες τὴν θάλασσαν",
+        "VUL": "negotiatóres Sidónis transfretántes mare , replevérunt te .",
+        "SP": null,
+        "KJV": "thou whom the merchants of Zidon , that pass over the sea , have replenished .",
+        "DSS": "[1Q8] סחר צידון עב ] # # ים מלא # ׳ך ׃ / [1Qisaa] סחר צידון עברו ים מלאכי׳ך ׃ / [4Q55] סח##[ ר ] צידון עברו? ים מלא׳ך## ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And by great waters the seed of Sihor",
+      "traditions": {
+        "WLC": "וּ בְ מַ֤יִם רַבִּים֙ זֶ֣רַע שִׁחֹ֔ר",
+        "LXX": "ἐν ὕδατι πολλῷ , σπέρμα μεταβόλων ;",
+        "VUL": "In aquis multis semen Nili ,",
+        "SP": null,
+        "KJV": "And by great waters the seed of Sihor ,",
+        "DSS": "[1Q8] ו ב מים#[ רבים זרע שחר / [1Qisaa] ו ב מים רבים זרע שחר / [4Q55] ו ב## מים ר#בים זרע שחר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the harvest of the river , [ is ] her revenue",
+      "traditions": {
+        "WLC": "קְצִ֥יר יְא֖וֹר תְּבֽוּאָתָ֑ הּ",
+        "LXX": "ὡς ἀμητοῦ εἰσφερομένου",
+        "VUL": "messis flúminis fruges eius :",
+        "SP": null,
+        "KJV": "the harvest of the river , [ is ] her revenue ;",
+        "DSS": "[1Q8] קציר יאור ] [ תבואת׳ה / [1Qisaa] קציר יאור תבואת׳ה / [4Q55] קציר# יואר תבואת׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and she is a mart of nations",
+      "traditions": {
+        "WLC": "וַ תְּהִ֖י סְחַ֥ר גּוֹיִֽם",
+        "LXX": "οἱ μεταβόλοι τῶν ἐθνῶν .",
+        "VUL": "et facta est negotiátio géntium .",
+        "SP": null,
+        "KJV": "and she is a mart of nations .",
+        "DSS": "[1Q8] ו תהי סחר גוים ׃ / [1Qisaa] ו תהי סחר גואים ׃ / [4Q55] ו תהי סחר גו#?י#?ם ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Be thou ashamed , O Zidon",
+      "traditions": {
+        "WLC": "בּ֣וֹשִׁי צִיד֔וֹן",
+        "LXX": "αἰσχύνθητι , Σειδών ,",
+        "VUL": "Erubésce , Sidon :",
+        "SP": null,
+        "KJV": "Be thou ashamed , O Zidon :",
+        "DSS": "[1Q8] בוש ]י#? צידון / [1Qisaa] בושי צידן / [4Q55] בושי צידו#?[ ן ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for the sea hath spoken , [ even ] the strength of the sea",
+      "traditions": {
+        "WLC": "כִּֽי אָמַ֣ר יָ֔ם מָע֥וֹז הַ יָּ֖ם",
+        "LXX": "εἶπεν ἡ θάλασσα · ἡ δὲ ἰσχὺς τῆς θαλάσσης εἶπεν",
+        "VUL": "ait enim mare , fortitúdo maris , dicens :",
+        "SP": null,
+        "KJV": "for the sea hath spoken , [ even ] the strength of the sea ,",
+        "DSS": "[1Q8] כי אמר ים מעו#?[ ז ה ים / [1Qisaa] כי אמרה ים מעוז ה ים / [4Q55] כ#י אמר#[ י ]ם## מעו#?ז#? ה ים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "saying , I travail not , nor bring forth children",
+      "traditions": {
+        "WLC": "לֵ אמֹ֑ר לֹֽא חַ֣לְתִּי וְ לֹֽא יָלַ֗דְתִּי",
+        "LXX": "Οὐκ ὤδινον οὐδ᾽ ἔτεκον ,",
+        "VUL": "Non parturívi , et non péperi ,",
+        "SP": null,
+        "KJV": "saying , I travail not , nor bring forth children ,",
+        "DSS": "[1Q8] ל אמר לא חלתי ו לא ] [ ילדתי / [1Qisaa] ל אמור לוא חלתי ו לוא ילדתי / [4Q55] ל אמר לא ח#לתי? ו? לא ילדתי"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "neither do I nourish up young men",
+      "traditions": {
+        "WLC": "וְ לֹ֥א גִדַּ֛לְתִּי בַּחוּרִ֖ים",
+        "LXX": "οὐδὲ ἐξέθρεψα νεανίσκους",
+        "VUL": "et non enutrívi iúvenes ,",
+        "SP": null,
+        "KJV": "neither do I nourish up young men , [",
+        "DSS": "[1Q8] ו לא גדלתי בחורים / [1Qisaa] ו לוא גדלתי בחורים / [4Q55] ו לא גד#לתי? ב##ח##[ ורים"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "nor bring up virgins",
+      "traditions": {
+        "WLC": "רוֹמַ֥מְתִּי בְתוּלֽוֹת",
+        "LXX": "οὐδὲ ὕψωσα παρθένους .",
+        "VUL": "nec ad increméntum perdúxi vírgines .",
+        "SP": null,
+        "KJV": "nor ] bring up virgins .",
+        "DSS": "[1Q8] רוממתי ]ב##[ תו ]ל#[ ות ׃ / [1Qisaa] רוממתי בתולות ׃ / [4Q55] רוממתי בתולות ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "As at the report concerning Egypt",
+      "traditions": {
+        "WLC": "כַּֽ אֲשֶׁר שֵׁ֖מַע לְ מִצְרָ֑יִם",
+        "LXX": "ὅταν δὲ ἀκουστὸν γένηται Αἰγύπτῳ ,",
+        "VUL": "Cum audítum fúerit in Ægýpto ,",
+        "SP": null,
+        "KJV": "As at the report concerning Egypt , [",
+        "DSS": "[1Q8] ]כ## א##ש##[ ר ]ש##מ##[ ע ל מצרים / [1Qisaa] כ אשר שמע (^ ל ^) مצרים / [4Q55] כ אשר ]שמע ل מצ##ر##ي?ם#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "so shall they be sorely pained at the report of Tyre",
+      "traditions": {
+        "WLC": "יָחִ֖ילוּ כְּ שֵׁ֥מַע צֹֽר",
+        "LXX": "λήμψεται αὐτοὺς ὀδύνη περὶ Τύρου .",
+        "VUL": "dolébunt cum audíerint de Tyro .",
+        "SP": null,
+        "KJV": "so ] shall they be sorely pained at the report of Tyre .",
+        "DSS": "[1Q8] يحילו ] ׃ / [1Qisaa] يحילו ك شمع צר ׃ / [4Q55] ي#?[ حي ]ل##[ و ك شمع צר ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Pass ye over to Tarshish",
+      "traditions": {
+        "WLC": "עִבְר֖וּ תַּרְשִׁ֑ישָׁ ה",
+        "LXX": "ἀπέλθατε εἰς Καρχηδόνα ,",
+        "VUL": "Transíte mária ,",
+        "SP": null,
+        "KJV": "Pass ye over to Tarshish ;",
+        "DSS": "[1Qisaa] عובري ت{{ ل }}(^ ر ^)שיש׳ה / [4Q55] ]ع##ברו? تر[ שיש׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "howl , ye inhabitants of the isle",
+      "traditions": {
+        "WLC": "הֵילִ֖ילוּ יֹ֥שְׁבֵי אִֽי",
+        "LXX": "ὀλολύξατε , οἱ κατοικοῦντες ἐν τῇ νήσῳ ταύτῃ .",
+        "VUL": "ululáte qui habitátis in ínsula :",
+        "SP": null,
+        "KJV": "howl , ye inhabitants of the isle .",
+        "DSS": "[1Qisaa] הילילו יושבי אי ׃ / [4Q55] הילילו ישבי אי ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Is this your joyous [ city ] , whose antiquity [ is ] of ancient days ?",
+      "traditions": {
+        "WLC": "הֲ זֹ֥את לָ כֶ֖ם עַלִּיזָ֑ה מִֽ ימֵי קֶ֤דֶם קַדְמָתָ הּ֙",
+        "LXX": "οὐχ αὕτη ἦν ὑμῶν ἡ ὕβρις ἀπ᾽ ἀρχῆς πρὶν ἢ παραδοθῆναι αὐτήν ;",
+        "VUL": "numquid non vestra hæc est , quæ gloriabátur a diébus prístinis in antiquitáte sua ?",
+        "SP": null,
+        "KJV": "[ Is ] this your joyous [ city ] , whose antiquity [ is ] of ancient days ?",
+        "DSS": "[1Qisaa] ה זואת ل׳כמה ה עלوזה م يمي قدم قدمات׳ה / [4Q55] ה זאת ]ل##׳[ كم عليزه م يمي ] ק#ד##ם# [ קדמת׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "her own feet shall carry her afar off to sojourn",
+      "traditions": {
+        "WLC": "יֹבִל֣וּ הָ רַגְלֶ֔י הָ מֵֽ רָח֖וֹק לָ גֽוּר",
+        "LXX": null,
+        "VUL": "Ducent eam pedes sui longe ad peregrinándum .",
+        "SP": null,
+        "KJV": "her own feet shall carry her afar off to sojourn .",
+        "DSS": "[1Qisaa] و בלי׳ה رגلي׳ה م رحق ل گور ׃ / [4Q55] يبلو׳ה رג ]ل##[ ي׳ה ] م رחו#?[ ק ل گور ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who hath taken this counsel against Tyre , the crowning [ city ]",
+      "traditions": {
+        "WLC": "מִ֚י יָעַ֣ץ זֹ֔את עַל צֹ֖ר הַ מַּֽעֲטִירָ֑ה",
+        "LXX": "τίς ταῦτα ἐβούλευσεν ἐπὶ Τύρον ; μὴ ἥσσων ἐστίν , ἢ οὐκ ἰσχύει ;",
+        "VUL": "Quis cogitávit hoc super Tyrum quondam coronátam ,",
+        "SP": null,
+        "KJV": "Who hath taken this counsel against Tyre , the crowning [ city ] ,",
+        "DSS": "[1Qisaa] מי יעץ זואת על צר ה מעטרה / [4Q55] מי יעץ זאת על צר ה מעطيره / [4Q57] ε מי יעץ זאת על צر ה מעطيره"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "whose merchants [ are ] princes , whose traffickers [ are ] the honourable of the earth ?",
+      "traditions": {
+        "WLC": "אֲשֶׁ֤ר סֹחֲרֶ֨י ה֙ שָׂרִ֔ים כִּנְעָנֶ֖י הָ נִכְבַּדֵּי אָֽרֶץ",
+        "LXX": "οἱ ἔμποροι αὐτῆς ἔνδοξοι , ἄρχοντες τῆς γῆς .",
+        "VUL": "cuius negotiatóres príncipes , institóres eius ínclyti terræ ?",
+        "SP": null,
+        "KJV": "whose merchants [ are ] princes , whose traffickers [ are ] the honourable of the earth ?",
+        "DSS": "[1Qisaa] אשר (^ סוחרי׳ה ^) שרים כנעני׳ה نכבدي {{ ה }} ארץ ׃ / [4Q55] אשר ]سحري׳ה شري?ם#[ כנעני׳ה نכבدي ] ארץ ׃ / [4Q57] אשר ] سوחר##[ ي׳ה שרים כנעני׳ה نכבدي ] [ ארץ ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD of hosts hath purposed it",
+      "traditions": {
+        "WLC": "יְהוָ֥ה צְבָא֖וֹת יְעָצָ֑ הּ",
+        "LXX": "Κύριος σαβαὼθ ἐβουλεύσατο",
+        "VUL": "Dóminus exercítuum cogitávit hoc ,",
+        "SP": null,
+        "KJV": "The LORD of hosts hath purposed it ,",
+        "DSS": "[1Qisaa] יהוה צבאות יעצ׳ה / [4Q55] [ יהוה צבאות יעצ׳ה / [4Q57] יהוה ε ] # [ ε"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to stain the pride of all glory",
+      "traditions": {
+        "WLC": "לְ חַלֵּל֙ גְּא֣וֹן כָּל צְבִ֔י",
+        "LXX": "παραλῦσαι πᾶσαν τὴν ὕβριν τῶν ἐνδόξων",
+        "VUL": "ut detráheret supérbiam omnis glóriæ ,",
+        "SP": null,
+        "KJV": "to stain the pride of all glory , [ and ]",
+        "DSS": "[1Qisaa] ل חلل כול גאון צבי / [4Q55] ل חلل גאון כל צ##ب#ي / [4Q57] ل חلل גאון כל צבי"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to bring into contempt all the honourable of the earth",
+      "traditions": {
+        "WLC": "לְ הָקֵ֖ל כָּל נִכְבַּדֵּי אָֽרֶץ",
+        "LXX": "καὶ ἀτιμάσαι πᾶν ἔνδοξον ἐπὶ τῆς γῆς .",
+        "VUL": "et ad ignomíniam dedúceret univérsos ínclytos terræ .",
+        "SP": null,
+        "KJV": "to bring into contempt all the honourable of the earth .",
+        "DSS": "[1Qisaa] ل הקל כול נכבד#ي ארץ ׃ / [4Q55] ل# ה##ק#ل كل نכבدي ארץ ׃ / [4Q57] ل הקל ] [ כל נכבדי ] ארץ ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Pass through thy land as a river , O daughter of Tarshish",
+      "traditions": {
+        "WLC": "עִבְרִ֥י אַרְצֵ֖ ךְ כַּ יְאֹ֑ר בַּת תַּרְשִׁ֕ישׁ",
+        "LXX": "ἐργάζου τὴν γῆν σου , καὶ γὰρ πλοῖα οὐκέτι ἔρχεται ἐκ Καρχηδόνος .",
+        "VUL": "Transi terram tuam quasi flumen fília maris ,",
+        "SP": null,
+        "KJV": "Pass through thy land as a river , O daughter of Tarshish : [",
+        "DSS": "[1Qisaa] عبدي ארצ׳ך ك يאור בת תרשיש / [4Q55] عب # [ ארצ׳ך ] [ ك يאר בת תרשיש / [4Q57] עבורي אר#צ׳ך ك يאר#[ בת תרשיש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "there is no more strength",
+      "traditions": {
+        "WLC": "אֵ֖ין מֵ֥זַח עֽוֹד",
+        "LXX": null,
+        "VUL": "non est cíngulum ultra tibi .",
+        "SP": null,
+        "KJV": "there is ] no more strength .",
+        "DSS": "[1Qisaa] אין מזח עוד ׃ / [4Q55] אין מזח עוד ׃ / [4Q57] אין מזח ] [ עוד ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "He stretched out his hand over the sea",
+      "traditions": {
+        "WLC": "יָד וֹ֙ נָטָ֣ה עַל הַ יָּ֔ם",
+        "LXX": "ἡ δὲ χείρ σου οὐκέτι ἰσχύει κατὰ θάλασσαν ,",
+        "VUL": "Manum suam exténdit super mare ,",
+        "SP": null,
+        "KJV": "He stretched out his hand over the sea ,",
+        "DSS": "[1Qisaa] יד׳ו נטה על ה ים / [4Q55] יד׳ו נט ]ה## על ה ים / [4Q57] יד׳ו נ ]טה על ה ים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he shook the kingdoms",
+      "traditions": {
+        "WLC": "הִרְגִּ֖יז מַמְלָכ֑וֹת",
+        "LXX": "ἡ παροξύνουσα βασιλεῖς ·",
+        "VUL": "conturbávit regna :",
+        "SP": null,
+        "KJV": "he shook the kingdoms :",
+        "DSS": "[1Qisaa] הרגיז ממלכות / [4Q55] הרגיז ממלכות / [4Q57] ל הרגיז ממלכות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the LORD hath given a commandment against the merchant [ city ]",
+      "traditions": {
+        "WLC": "יְהוָה֙ צִוָּ֣ה אֶל כְּנַ֔עַן",
+        "LXX": "Κύριος σαβαὼθ ἐνετείλατο περὶ Χανάαν",
+        "VUL": "Dóminus mandávit advérsus Chánaan ,",
+        "SP": null,
+        "KJV": "the LORD hath given a commandment against the merchant [ city ] ,",
+        "DSS": "[1Qisaa] יהוה צוה אל כנען / [4Q55] י?ה[ וה צוה אל ] [ כנען / [4Q57] יה#[ וה צוה אל כנען"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "to destroy the strong holds thereof",
+      "traditions": {
+        "WLC": "לַ שְׁמִ֖ד מָעֻזְנֶֽי הָ",
+        "LXX": "ἀπολέσαι αὐτῆς τὴν ἰσχύν .",
+        "VUL": "ut contéreret fortes eius ,",
+        "SP": null,
+        "KJV": "to destroy the strong holds thereof .",
+        "DSS": "[1Qisaa] ל השמיד מע#וזי׳ה ׃ / [4Q55] ל שמד מעזני׳ה ׃ / [4Q57] ל שמד ] [ מעו ]ז#?נ?י׳ה ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he said , Thou shalt no more rejoice",
+      "traditions": {
+        "WLC": "וַ יֹּ֕אמֶר לֹֽא תוֹסִ֥יפִי ע֖וֹד לַ עְל֑וֹז",
+        "LXX": "καὶ ἐροῦσιν Οὐκέτι μὴ προστεθῆτε τοῦ ὑβρίζειν",
+        "VUL": "et dixit : Non adícies ultra ut gloriéris ,",
+        "SP": null,
+        "KJV": "And he said , Thou shalt no more rejoice ,",
+        "DSS": "[1Qisaa] ו יואמר לוא תוסיפי עוד ל עלוז / [4Q55] ו יאמר לא תוסיפי ]עוד ל עלוז / [4Q57] ו יואמר לוא תוסיפי עוז ל עלוז"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O thou oppressed virgin , daughter of Zidon",
+      "traditions": {
+        "WLC": "הַֽ מְעֻשָּׁקָ֞ה בְּתוּלַ֣ת בַּת צִיד֗וֹן",
+        "LXX": "καὶ ἀδικεῖν τὴν θυγατέρα Σειδῶνος ·",
+        "VUL": "calúmniam sústinens virgo fília Sidónis :",
+        "SP": null,
+        "KJV": "O thou oppressed virgin , daughter of Zidon :",
+        "DSS": "[1Qisaa] מעשקה בתולת בת צידון / [4Q55] ה מעשקה בתו?ל##[ ת בת צידון / [4Q57] [ ה מעשקה בתולת בת צידון ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "arise , pass over to Chittim",
+      "traditions": {
+        "WLC": "כתיים ק֣וּמִי עֲבֹ֔רִי",
+        "LXX": "καὶ ἐὰν ἀπέλθῃς εἰς Κιτιεῖς ,",
+        "VUL": "in Cethim consúrgens tránsfreta :",
+        "SP": null,
+        "KJV": "arise , pass over to Chittim ;",
+        "DSS": "[1Qisaa] כתיים קומי עברי / [4Q55] null / [4Q57] כתיים קומי עבורי"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "there also shalt thou have no rest",
+      "traditions": {
+        "WLC": "גַּם שָׁ֖ם לֹא יָנ֥וּחַֽ לָֽ ךְ",
+        "LXX": "οὐδὲ ἐκεῖ ἀνάπαυσις ἔσται σοι ·",
+        "VUL": "ibi quoque non erit réquies tibi .",
+        "SP": null,
+        "KJV": "there also shalt thou have no rest .",
+        "DSS": "[1Qisaa] גמ שמ לוא ינוח ל׳ך ׃ / [4Q55] null / [4Q57] גם שמ׳ה לוא ינוח ל׳[ ך ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold the land of the Chaldeans",
+      "traditions": {
+        "WLC": "הֵ֣ן אֶ֣רֶץ כַּשְׂדִּ֗ים",
+        "LXX": "καὶ εἰς γῆν Χαλδαίων ,",
+        "VUL": "Ecce terra Chaldæórum",
+        "SP": null,
+        "KJV": "Behold the land of the Chaldeans ;",
+        "DSS": "[1Qisaa] הנה ארץ כשדיים / [4Q57] הן ארץ כשדים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "this people was not , [ till ] the Assyrian founded it for them that dwell in the wilderness",
+      "traditions": {
+        "WLC": "זֶ֤ה הָ עָם֙ לֹ֣א הָיָ֔ה אַשּׁ֖וּר יְסָדָ֣ הּ לְ צִיִּ֑ים",
+        "LXX": "καὶ αὕτη ἠρήμωται ἀπὸ τῶν Ἀσσυρίων ,",
+        "VUL": "talis pópulus non fuit , Assur fundávit eam :",
+        "SP": null,
+        "KJV": "this people was not , [ till ] the Assyrian founded it for them that dwell in the wilderness :",
+        "DSS": "[1Qisaa] זה ה עם לוא היה אשור יסד׳ה ל ציין / [4Q57] זה ] ה עם לוא ה##י#?ה אשור# י#?[ ס ]ד##׳ה ל ציים["
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they set up the towers thereof , they raised up the palaces thereof",
+      "traditions": {
+        "WLC": "הֵקִ֣ימוּ בחיני ו עֹרְרוּ֙ אַרְמְנוֹתֶ֔י",
+        "LXX": "ὁ τοῖχος αὐτῆς πέπτωκεν .",
+        "VUL": "in captivitátem traduxérunt robústos eius , suffodérunt domos eius ,",
+        "SP": null,
+        "KJV": "they set up the towers thereof , they raised up the palaces thereof ; [ and ]",
+        "DSS": "[1Qisaa] הקימוה בחיני׳ה עוררו ארמנותי׳ה / [4Q57] הקימו בחיני׳ו עררו ] אר(^ ו ^)מנותי׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ and ] he brought it to ruin",
+      "traditions": {
+        "WLC": "הָ שָׂמָ֖ הּ לְ מַפֵּלָֽה",
+        "LXX": null,
+        "VUL": "posuérunt eam in ruínam .",
+        "SP": null,
+        "KJV": "he brought it to ruin .",
+        "DSS": "[1Qisaa] שמ׳ה ל מ(^ פ ^)לה ׃ / [4Q57] שמ׳ה ל מפלה##[ ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Howl , ye ships of Tarshish",
+      "traditions": {
+        "WLC": "הֵילִ֖ילוּ אֳנִיּ֣וֹת תַּרְשִׁ֑ישׁ",
+        "LXX": "ὀλολύξατε , πλοῖα Καρχηδόνος ,",
+        "VUL": "Ululáte naves maris ,",
+        "SP": null,
+        "KJV": "Howl , ye ships of Tarshish :",
+        "DSS": "[1Qisaa] הילילו? אניות תרשיש / [4Q57] ] # [ אניות תרשיש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for your strength is laid waste",
+      "traditions": {
+        "WLC": "כִּ֥י שֻׁדַּ֖ד מָעֻזְּ כֶֽן",
+        "LXX": "ὅτι ἀπόλωλε τὸ ὀχύρωμα ὑμῶν .",
+        "VUL": "quia devastáta est fortitúdo vestra .",
+        "SP": null,
+        "KJV": "for your strength is laid waste .",
+        "DSS": "[1Qisaa] כי שודד מעוז׳ך ׃ / [4Q57] כי שדד מעז׳כן ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass in that day",
+      "traditions": {
+        "WLC": "וְ הָיָה֙ בַּ יּ֣וֹם הַ ה֔וּא",
+        "LXX": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ",
+        "VUL": "Et erit in die illa :",
+        "SP": null,
+        "KJV": "And it shall come to pass in that day ,",
+        "DSS": "[1Qisaa] ו היה ב יום הוא / [4Q57] [ ו ]ה##י?ה ב יום (^ ה הוא ^)"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that Tyre shall be forgotten seventy years",
+      "traditions": {
+        "WLC": "וְ נִשְׁכַּ֤חַת צֹר֙ שִׁבְעִ֣ים שָׁנָ֔ה",
+        "LXX": "καταλειφθήσεται Τύρος ἑβδομήκοντα ἔτη ,",
+        "VUL": "in oblivióne eris o Tyre septuagínta annis ,",
+        "SP": null,
+        "KJV": "that Tyre shall be forgotten seventy years ,",
+        "DSS": "[1Qisaa] null / [4Q57] ו נשכחה צור##[ שבעים שנה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "according to the days of one king",
+      "traditions": {
+        "WLC": "כִּ ימֵ֖י מֶ֣לֶךְ אֶחָ֑ד",
+        "LXX": "ὡς χρόνος βασιλέως , ὡς χρόνος ἀνθρώπου ·",
+        "VUL": "sicut dies regis uníus :",
+        "SP": null,
+        "KJV": "according to the days of one king :",
+        "DSS": "[1Qisaa] null / [4Q57] כ ימי מלך אחד"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "after the end of seventy years shall Tyre sing as an harlot",
+      "traditions": {
+        "WLC": "מִ קֵּ֞ץ שִׁבְעִ֤ים שָׁנָה֙ יִהְיֶ֣ה לְ צֹ֔ר כְּ שִׁירַ֖ת הַ זּוֹנָֽה",
+        "LXX": "καὶ ἔσται μετὰ ἑβδομήκοντα ἔτη ἔσται Τύρος ὡς ᾆσμα πόρνης .",
+        "VUL": "post septuagínta autem annos erit Tyro quasi cánticum meretrícis .",
+        "SP": null,
+        "KJV": "after the end of seventy years shall Tyre sing as an harlot .",
+        "DSS": "[1Qisaa] ל צר כ שירת ה זונה ׃ / [4Q57] מ קץ שבעים ] שנה ו היה ל צור כ שירת ה## [ זונה ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Take an harp , go about the city",
+      "traditions": {
+        "WLC": "קְחִ֥י כִנּ֛וֹר סֹ֥בִּי עִ֖יר",
+        "LXX": "λάβε κιθάραν , ῥέμβευσον πόλεις",
+        "VUL": "Sume cítharam , círcui civitátem",
+        "SP": null,
+        "KJV": "Take an harp , go about the city ,",
+        "DSS": "[1Qisaa] קחי כנור סבי עיר / [4Q57] קחי כנור סבי עיר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou harlot that hast been forgotten",
+      "traditions": {
+        "WLC": "זוֹנָ֣ה נִשְׁכָּחָ֑ה",
+        "LXX": "πόρνη ἐπιλελησμένη ,",
+        "VUL": "méretrix oblivióni trádita :",
+        "SP": null,
+        "KJV": "thou harlot that hast been forgotten ;",
+        "DSS": "[1Qisaa] זונה נשכחה / [4Q57] זונה נשכחה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "make sweet melody , sing many songs",
+      "traditions": {
+        "WLC": "הֵיטִ֤יבִי נַגֵּן֙ הַרְבִּי שִׁ֔יר",
+        "LXX": "καλῶς κιθάρισον , πολλὰ ᾆσον ,",
+        "VUL": "bene cane , frequénta cánticum ,",
+        "SP": null,
+        "KJV": "make sweet melody , sing many songs ,",
+        "DSS": "[1Qisaa] היטיבי נגן הרבי שיר / [4Q57] ] היטיבי נגן הר##[ ב ]י? שיר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that thou mayest be remembered",
+      "traditions": {
+        "WLC": "לְמַ֖עַן תִּזָּכֵֽרִי",
+        "LXX": "ἵνα σου μνεία γένηται .",
+        "VUL": "ut memória tui sit .",
+        "SP": null,
+        "KJV": "that thou mayest be remembered .",
+        "DSS": "[1Qisaa] למען תזכרי ׃ / [4Q57] למע[ ן תז ]כר##י#?[ ׃"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ ἔσται μετὰ τὰ ἑβδομήκοντα ἔτη ἐπισκοπὴν ποιήσει ὁ θεὸς Τύρου , καὶ πάλιν ἀποκαταστήσεται εἰς τὸ ἀρχαῖον ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass after the end of seventy years",
+      "traditions": {
+        "WLC": "וְ הָיָ֞ה מִ קֵּ֣ץ שִׁבְעִ֣ים שָׁנָ֗ה",
+        "LXX": null,
+        "VUL": "Et erit post septuagínta annos :",
+        "SP": null,
+        "KJV": "And it shall come to pass after the end of seventy years ,",
+        "DSS": "[1Qisaa] ו היה מ קץ ש#בעין שנה / [4Q57] ו היה מ קץ שבעים שנה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that the LORD will visit Tyre",
+      "traditions": {
+        "WLC": "יִפְקֹ֤ד יְהוָה֙ אֶת צֹ֔ר",
+        "LXX": null,
+        "VUL": "visitábit Dóminus Tyrum ,",
+        "SP": null,
+        "KJV": "that the LORD will visit Tyre ,",
+        "DSS": "[1Qisaa] יפקוד יהוה את צר / [4Q57] ] יפקוד יהוה##[ א ]ת## צ##ור"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and she shall turn to her hire",
+      "traditions": {
+        "WLC": "וְ שָׁבָ֖ה לְ אֶתְנַנָּ֑ ה",
+        "LXX": "καὶ ἔσται ἐμπόριον",
+        "VUL": "et redúcet eam ad mercédes suas ,",
+        "SP": null,
+        "KJV": "and she shall turn to her hire ,",
+        "DSS": "[1Qisaa] ו שבה ל אתננ׳ה / [4Q57] [ ו שב ]ה## ל אתנ#?[ נ׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and shall commit fornication with all the kingdoms of the world upon the face of the earth",
+      "traditions": {
+        "WLC": "וְ זָֽנְתָ֛ה אֶת כָּל מַמְלְכ֥וֹת הָ אָ֖רֶץ עַל פְּנֵ֥י הָ אֲדָמָֽה",
+        "LXX": "πάσαις ταῖς βασιλείαις τῆς οἰκουμένης ἐπὶ πρόσωπον τῆς γῆς .",
+        "VUL": "et rursum fornicábitur cum univérsis regnis terræ super fáciem terræ .",
+        "SP": null,
+        "KJV": "and shall commit fornication with all the kingdoms of the world upon the face of the earth .",
+        "DSS": "[1Qisaa] ו זנתה את ממלכות ה ארץ על פני ה אדםה ׃ / [4Q57] ו זנתה את כל ממלכות ה אר ]ץ על פני ה אדמה ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And her merchandise and her hire shall be holiness to the LORD",
+      "traditions": {
+        "WLC": "וְ הָיָ֨ה סַחְרָ֜ הּ וְ אֶתְנַנָּ֗ הּ קֹ֚דֶשׁ לַֽ יהוָ֔ה",
+        "LXX": "καὶ ἔσται ἡ ἐμπορία αὐτῆς καὶ ὁ μισθὸς ἅγιον Κυρίῳ ,",
+        "VUL": "Et erunt negotiatiónes eius , et mercédes eius sanctificátæ Dómino :",
+        "SP": null,
+        "KJV": "And her merchandise and her hire shall be holiness to the LORD :",
+        "DSS": "[1Qisaa] ו היה סחר#׳ה ו אתננ׳ה קודש ל יהוה / [4Q57] ו ה#[ יה סח ]ר##׳ה ו אתננ׳ה קוד##ש ל י#?[ הוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it shall not be treasured nor laid up",
+      "traditions": {
+        "WLC": "לֹ֥א יֵֽאָצֵ֖ר וְ לֹ֣א יֵֽחָסֵ֑ן",
+        "LXX": "οὐκ αὐτοῖς συναχθήσεται",
+        "VUL": "non condéntur , neque reponéntur :",
+        "SP": null,
+        "KJV": "it shall not be treasured nor laid up ;",
+        "DSS": "[1Qisaa] לוא יאצר ו לוא יחסן / [4Q57] לוא יאצ ]ר## ו לוא יחסן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for her merchandise shall be for them that dwell before the LORD",
+      "traditions": {
+        "WLC": "כִּ֣י לַ יֹּשְׁבִ֞ים לִ פְנֵ֤י יְהוָה֙ יִֽהְיֶ֣ה סַחְרָ֔ הּ",
+        "LXX": "ἀλλὰ τοῖς κατοικοῦσιν ἔναντι Κυρίου , πᾶσα ἡ ἐμπορία αὐτῆς ,",
+        "VUL": "quia his , qui habitáverint coram Dómino erit negotiátio eius ,",
+        "SP": null,
+        "KJV": "for her merchandise shall be for them that dwell before the LORD ,",
+        "DSS": "[1Qisaa] כי ל יושבים ל פני יהוה יהיה סחר׳ה / [4Q57] כיא ל יושב#[ ים ל פ ]נ#?י? יהוה ו היה סחר#׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "to eat sufficiently",
+      "traditions": {
+        "WLC": "לֶ אֱכֹ֥ל לְ שָׂבְעָ֖ה",
+        "LXX": "φαγεῖν καὶ πιεῖν καὶ ἐμπλησθῆναι ,",
+        "VUL": "ut mandúcent in saturitátem ,",
+        "SP": null,
+        "KJV": "to eat sufficiently ,",
+        "DSS": "[1Qisaa] ל אכול (^ ל ^) שבעה / [4Q57] [ ל אכול ל ]שבעה#["
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and for durable clothing",
+      "traditions": {
+        "WLC": "וְ לִ מְכַסֶּ֥ה עָתִֽיק",
+        "LXX": "καὶ εἰς συμβολὴν μνημόσυνον ἔναντι Κυρίου .",
+        "VUL": "et vestiántur usque ad vetustátem .",
+        "SP": null,
+        "KJV": "and for durable clothing .",
+        "DSS": "[1Qisaa] ו ל מכסה עתיק ׃ / [4Q57] ו ל מכסה עתק ׃"
+      }
+    }
+  ]
+}

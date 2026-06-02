@@ -1,0 +1,90 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "A Song of degrees",
+      "traditions": {
+        "WLC": "שִׁ֗יר הַֽ מַּ֫עֲל֥וֹת",
+        "LXX": "ᾨδὴ τῶν ἀναβαθμῶν .",
+        "VUL": "Cánticum gráduum .",
+        "SP": null,
+        "KJV": "A Song of degrees .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Behold , bless ye the LORD",
+      "traditions": {
+        "WLC": "הִנֵּ֤ה בָּרֲכ֣וּ אֶת יְ֭הוָה",
+        "LXX": "Ἰδοὺ δὴ εὐλογεῖτε τὸν κύριον ,",
+        "VUL": "Ecce nunc benedícite Dóminum ,",
+        "SP": null,
+        "KJV": "Behold , bless ye the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "all [ ye ] servants of the LORD",
+      "traditions": {
+        "WLC": "כָּל עַבְדֵ֣י יְהוָ֑ה",
+        "LXX": "πάντες οἱ δοῦλοι Κυρίου ,",
+        "VUL": "omnes servi Dómini :",
+        "SP": null,
+        "KJV": "all [ ye ] servants of the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "which by night stand in the house of the LORD",
+      "traditions": {
+        "WLC": "הָ עֹמְדִ֥ים בְּ בֵית יְ֝הוָ֗ה בַּ לֵּילֽוֹת",
+        "LXX": "οἱ ἑστῶτες ἐν αὐλαῖς οἴκου θεοῦ ἡμῶν ·",
+        "VUL": "qui statis in domo Dómini , in átriis domus Dei nostri ,",
+        "SP": null,
+        "KJV": "which by night stand in the house of the LORD .",
+        "DSS": "[11Q5] יהוה ה עומדים ב בית יהוה ב לילות ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "ἐν ταῖς νυξὶν",
+        "VUL": "in nóctibus",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Lift up your hands [ in ] the sanctuary",
+      "traditions": {
+        "WLC": "שְׂאֽוּ יְדֵ כֶ֥ם קֹ֑דֶשׁ",
+        "LXX": "ἐπάρατε χεῖρας ὑμῶν εἰς τὰ ἅγια ,",
+        "VUL": "extóllite manus vestras in sancta ,",
+        "SP": null,
+        "KJV": "Lift up your hands [ in ] the sanctuary ,",
+        "DSS": "[11Q5] שאו ידי׳כם קודש"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and bless the LORD",
+      "traditions": {
+        "WLC": "וּ֝ בָרֲכוּ אֶת יְהוָֽה",
+        "LXX": "καὶ εὐλογεῖτε τὸν κύριον .",
+        "VUL": "et benedícite Dóminum .",
+        "SP": null,
+        "KJV": "and bless the LORD .",
+        "DSS": "ו ברכו את שם יהוה ׃"
+      }
+    }
+  ]
+}

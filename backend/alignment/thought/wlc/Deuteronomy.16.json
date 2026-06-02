@@ -1,0 +1,802 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Observe the month of Abib",
+      "traditions": {
+        "WLC": "שָׁמוֹר֙ אֶת חֹ֣דֶשׁ הָ אָבִ֔יב",
+        "LXX": "Φύλαξαι τὸν μῆνα τῶν νέων ,",
+        "VUL": "Obsérva mensem novárum frugum ,",
+        "SP": "שׁמור את חדשׁ ה אביב",
+        "KJV": "Observe the month of Abib ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and keep the passover unto the LORD thy God",
+      "traditions": {
+        "WLC": "וְ עָשִׂ֣יתָ פֶּ֔סַח לַ יהוָ֖ה אֱלֹהֶ֑י ךָ",
+        "LXX": "καὶ ποιήσεις τὸ πάσχα Κυρίῳ τῷ θεῷ σου ,",
+        "VUL": "et verni primum témporis , ut fácias Phase Dómino Deo tuo :",
+        "SP": "ו עשׂית פסח ל יהוה אלהיך",
+        "KJV": "and keep the passover unto the LORD thy God :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for in the month of Abib the LORD thy God brought thee forth out of Egypt by night",
+      "traditions": {
+        "WLC": "כִּ֞י בְּ חֹ֣דֶשׁ הָֽ אָבִ֗יב הוֹצִ֨יאֲ ךָ֜ יְהוָ֧ה אֱלֹהֶ֛י ךָ מִ מִּצְרַ֖יִם לָֽיְלָה",
+        "LXX": "ὅτι ἐν τῷ μηνὶ τῶν νέων ἐξῆλθες ἐξ Αἰγύπτου νυκτός .",
+        "VUL": "quóniam in isto mense edúxit te Dóminus Deus tuus de Ægýpto nocte .",
+        "SP": "כי ב חדשׁ ה אביב הוציאך יהוה אלהיך מ מצרים לילה",
+        "KJV": "for in the month of Abib the LORD thy God brought thee forth out of Egypt by night .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt therefore sacrifice the passover unto the LORD thy God",
+      "traditions": {
+        "WLC": "וְ זָבַ֥חְתָּ פֶּ֛סַח לַ יהוָ֥ה אֱלֹהֶ֖י ךָ",
+        "LXX": "καὶ θύσεις τὸ πάσχα Κυρίῳ τῷ θεῷ σου ,",
+        "VUL": "Immolabísque Phase Dómino Deo tuo",
+        "SP": "ו זבחת פסח ל יהוה אלהיך",
+        "KJV": "Thou shalt therefore sacrifice the passover unto the LORD thy God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "of the flock and the herd",
+      "traditions": {
+        "WLC": "צֹ֣אן וּ בָקָ֑ר",
+        "LXX": "πρόβατα καὶ βόας ,",
+        "VUL": "de óvibus , et de bobus",
+        "SP": "צאן ו בקר",
+        "KJV": "of the flock and the herd ,",
+        "DSS": "[4Q30] [ צאן ו ] ב##ק##ר##"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "in the place which the LORD shall choose to place his name there",
+      "traditions": {
+        "WLC": "בַּ מָּקוֹם֙ אֲשֶׁר יִבְחַ֣ר יְהוָ֔ה לְ שַׁכֵּ֥ן שְׁמ֖ וֹ שָֽׁם",
+        "LXX": "ἐν τῷ τόπῳ ᾧ ἐὰν ἐκλέξηται Κύριος ὁ θεός σου αὐτὸν ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ .",
+        "VUL": "in loco , quem elégerit Dóminus Deus tuus , ut hábitet nomen eius ibi .",
+        "SP": "ב מקום אשׁר בחר יהוה אלהיך ל שׁכן את שׁמו שׁם",
+        "KJV": "in the place which the LORD shall choose to place his name there .",
+        "DSS": "[  ב מקום אשר יבחר יהוה ל שכן שמ׳ו שם ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt eat no leavened bread with it",
+      "traditions": {
+        "WLC": "לֹא תֹאכַ֤ל עָלָי ו֙ חָמֵ֔ץ",
+        "LXX": "οὐ φάγῃ ἐπ᾽ αὐτοῦ ζύμην ·",
+        "VUL": "Non cómedes in eo panem fermentátum :",
+        "SP": "לא תאכלו עליו חמץ",
+        "KJV": "Thou shalt eat no leavened bread with it ;",
+        "DSS": "[4Q30] לא ] [ תאכ ]ל עלי׳ו ח##[ מץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "seven days shalt thou eat unleavened bread therewith , [ even ] the bread of affliction",
+      "traditions": {
+        "WLC": "שִׁבְעַ֥ת יָמִ֛ים תֹּֽאכַל עָלָ֥י ו מַצּ֖וֹת לֶ֣חֶם עֹ֑נִי",
+        "LXX": "ἑπτὰ ἡμέρας φάγῃ ἐπ᾽ αὐτοῦ ἄζυμα , ἄρτον κακώσεως ,",
+        "VUL": "septem diébus cómedes absque ferménto afflictiónis panem ,",
+        "SP": "שׁבעת ימים תאכלו עליו מצות לחם עני",
+        "KJV": "seven days shalt thou eat unleavened bread therewith , [ even ] the bread of affliction ;",
+        "DSS": "שבעת ימים תאכל עלי׳و מצות לחם עני"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for thou camest forth out of the land of Egypt in haste",
+      "traditions": {
+        "WLC": "כִּ֣י בְ חִפָּז֗וֹן יָצָ֨אתָ֙ מֵ אֶ֣רֶץ מִצְרַ֔יִם",
+        "LXX": "ὅτι ἐν σπουδῇ ἐξήλθετε ἐξ Αἰγύπτου ,",
+        "VUL": "quóniam in pavóre egréssus es de Ægýpto :",
+        "SP": "כי ב חפזון יצאת מ ארץ מצרים",
+        "KJV": "for thou camest forth out of the land of Egypt in haste :",
+        "DSS": "כי ] ׃"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life",
+      "traditions": {
+        "WLC": "לְמַ֣עַן תִּזְכֹּר֔ אֶת י֤וֹם צֵֽאתְ ךָ֙ מֵ אֶ֣רֶץ מִצְרַ֔יִם כֹּ֖ל יְמֵ֥י חַיֶּֽי ךָ",
+        "LXX": "ἵνα μνησθῆτε τὴν ἡμέραν τῆς ἐξοδίας ὑμῶν ἐκ γῆς Αἰγύπτου πάσας τὰς ἡμέρας τῆς ζωῆς ὑμῶν .",
+        "VUL": "ut memíneris diéi egressiónis tuæ de Ægýpto , ómnibus diébus vitæ tuæ .",
+        "SP": "למען תזכר את יום צאתך מ ארץ מצרים כל ימי חייך",
+        "KJV": "that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And there shall be no leavened bread seen with thee in all thy coast seven days",
+      "traditions": {
+        "WLC": "וְ לֹֽא יֵרָאֶ֨ה לְ ךָ֥ שְׂאֹ֛ר בְּ כָל גְּבֻלְ ךָ֖ שִׁבְעַ֣ת יָמִ֑ים",
+        "LXX": "οὐκ ὀφθήσεται σοι ζύμη ἐν πᾶσι τοῖς ὁρίοις σου ἑπτὰ ἡμέρας ,",
+        "VUL": "Non apparébit ferméntum in ómnibus términis tuis septem diébus ,",
+        "SP": "ו לא יראה לך שׂאר ב כל גבולך שׁבעת ימים",
+        "KJV": "And there shall be no leavened bread seen with thee in all thy coast seven days ;",
+        "DSS": "[1Q4] ε ו ] ל##וא יראה ל׳כה#[  שאר ב כל גבל׳ך שבעת ימים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shall there [ any thing ] of the flesh , which thou sacrificedst the first day at even , remain all night until the morning",
+      "traditions": {
+        "WLC": "וְ לֹא יָלִ֣ין מִן הַ בָּשָׂ֗ר אֲשֶׁ֨ר תִּזְבַּ֥ח בָּ עֶ֛רֶב בַּ יּ֥וֹם הָ רִאשׁ֖וֹן לַ בֹּֽקֶר",
+        "LXX": "καὶ οὐ κοιμηθήσεται ἀπὸ τῶν κρεῶν ὧν ἐὰν θύσῃς τὸ ἑσπέρας τῇ ἡμέρᾳ τῇ πρώτῃ εἰς τὸ πρωί .",
+        "VUL": "et non remanébit de cárnibus eius quod immolátum est véspere in die primo usque mane .",
+        "SP": "ו לא ילין מן ה בשׂר אשׁר תזבח בין ה ערבים ב יום ה ראישׁון ל בקר",
+        "KJV": "neither shall there [ any thing ] of the flesh , which thou sacrificedst the first day at even , remain all night until the morning .",
+        "DSS": "ו לא ילין מן ה בשר ] [ אשר תزבח ב ערב ב יום ה ראשון ל ב ]קר[  ε ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou mayest not sacrifice the passover within any of thy gates , which the LORD thy God giveth thee",
+      "traditions": {
+        "WLC": "לֹ֥א תוּכַ֖ל לִ זְבֹּ֣חַ אֶת הַ פָּ֑סַח בְּ אַחַ֣ד שְׁעָרֶ֔י ךָ אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖י ךָ נֹתֵ֥ן לָֽ ךְ",
+        "LXX": "οὐ δυνήσῃ θῦσαι τὸ πάσχα ἐν οὐδεμιᾷ τῶν πόλεών σου ὧν Κύριος ὁ θεός σου δίδωσίν σοι ·",
+        "VUL": "Non póteris immoláre Phase in quálibet úrbium tuárum , quas Dóminus Deus tuus datúrus est tibi :",
+        "SP": "ו לא תוכל ל זבח את ה פסח ב אחת שׁעריך אשׁר יהוה אלהיך נתן לך",
+        "KJV": "Thou mayest not sacrifice the passover within any of thy gates , which the LORD thy God giveth thee :",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "But at the place which the LORD thy God shall choose to place his name in",
+      "traditions": {
+        "WLC": "כִּ֠י אִֽם אֶל הַ מָּק֞וֹם אֲשֶׁר יִבְחַ֨ר יְהוָ֤ה אֱלֹהֶ֨י ךָ֙ לְ שַׁכֵּ֣ן שְׁמ֔ וֹ שָׁ֛ם",
+        "LXX": "ἀλλ᾽ ἢ εἰς τὸν τόπον ὃν ἐὰν ἐκλέξηται Κύριος ὁ θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ ,",
+        "VUL": "sed in loco , quem elégerit Dóminus Deus tuus , ut hábitet nomen eius ibi :",
+        "SP": "כי אם ב מקום אשׁר בחר יהוה אלהיך ל שׁכן את שׁמו שׁם",
+        "KJV": "But at the place which the LORD thy God shall choose to place his name in ,",
+        "DSS": "[1Q4] [ כי אם אל ה מקום אשר יבחר יהוה אלו ]ה#이׳כה ב׳ו#?[  ל שכן שמ׳ו שם / [4Q30] [ כי אם אל ה מקום אשר יבחר יהוה אלה ]י#?׳ך## ל שכן שמ׳ו ["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "there thou shalt sacrifice the passover at even",
+      "traditions": {
+        "WLC": "תִּזְבַּ֥ח אֶת הַ פֶּ֖סַח בָּ עָ֑רֶב",
+        "LXX": "θύσεις τὸ πάσχα ἑσπέρας",
+        "VUL": "immolábis Phase véspere",
+        "SP": "שׁם תזבח את ה פסח ב ערב",
+        "KJV": "there thou shalt sacrifice the passover at even ,",
+        "DSS": "تزבח את ה פסח ב ערב / [4Q30] שם تזבח את ה פסח ב ערב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "at the going down of the sun",
+      "traditions": {
+        "WLC": "כְּ ב֣וֹא הַ שֶּׁ֔מֶשׁ",
+        "LXX": "πρὸς δυσμὰς ἡλίου",
+        "VUL": "ad solis occásum ,",
+        "SP": "כ בוא ה שׁמשׁ",
+        "KJV": "at the going down of the sun ,",
+        "DSS": "כ בוא ] [ ה שמש / [4Q30] כ בוא ה שמש"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "at the season that thou camest forth out of Egypt",
+      "traditions": {
+        "WLC": "מוֹעֵ֖ד צֵֽאתְ ךָ֥ מִ מִּצְרָֽיִם",
+        "LXX": "ἐν τῷ καιρῷ ᾧ ἐξῆλθες ἐξ Αἰγύπτου ·",
+        "VUL": "quando egréssus es de Ægýpto .",
+        "SP": "מועד צאתך מ מצרים",
+        "KJV": "at the season that thou camest forth out of Egypt .",
+        "DSS": "מועד צאת׳ך م مצרים ׃ / [4Q30] مועד צאת׳ך ] م## [ ארץ ] [ مצרים ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt roast and eat [ it ] in the place which the LORD thy God shall choose",
+      "traditions": {
+        "WLC": "וּ בִשַּׁלְתָּ֙ וְ אָ֣כַלְתָּ֔ בַּ מָּק֕וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהוָ֥ה אֱלֹהֶ֖י ךָ בּ֑ וֹ",
+        "LXX": "καὶ ἑψήσεις καὶ ὀπτήσεις καὶ φάγῃ ἐν τῷ τόπῳ οὗ ἐὰν ἐκλέξηται Κύριος ὁ θεός σου αὐτόν ·",
+        "VUL": "Et coques , et cómedes in loco , quem elégerit Dóminus Deus tuus ,",
+        "SP": "ו בשׁלת ו אכלת ב מקום אשׁר בחר יהוה אלהיך בו",
+        "KJV": "And thou shalt roast and eat [ it ] in the place which the LORD thy God shall choose :",
+        "DSS": "[1Q4] ]و? بشلتה و اכלت#[  ب מקום אשר يبחר יהוה אלהי׳ך ب׳و / [4Q30] و بشلت و اכלت ب מקום אשר يبחר  ]ي?هو?ה## אלהي׳ך ب׳و"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou shalt turn in the morning , and go unto thy tents",
+      "traditions": {
+        "WLC": "וּ פָנִ֣יתָ בַ בֹּ֔קֶר וְ הָלַכְתָּ֖ לְ אֹהָלֶֽי ךָ",
+        "LXX": "καὶ ἀποστραφήσῃ τὸ πρωὶ καὶ ἐλεύσῃ εἰς τοὺς οἴκους σου .",
+        "VUL": "manéque consúrgens vades in tabernácula tua .",
+        "SP": "ו פנית ב בקר ו הלכת ל אהליך",
+        "KJV": "and thou shalt turn in the morning , and go unto thy tents .",
+        "DSS": "و פנית ] ׃ / [4Q30] و فנית ب بكر و הלכת ل אהلي׳ך ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Six days thou shalt eat unleavened bread",
+      "traditions": {
+        "WLC": "שֵׁ֥שֶׁת יָמִ֖ים תֹּאכַ֣ל מַצּ֑וֹת",
+        "LXX": "ἓξ ἡμέρας φάγῃ ἄζυμα ,",
+        "VUL": "Sex diébus cómedes ázyma :",
+        "SP": "שׁשׁת ימים תאכל מצות",
+        "KJV": "Six days thou shalt eat unleavened bread :",
+        "DSS": "[4Q30] ش ]ب#عت# يמים מצות تاكلو"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and on the seventh day [ shall be ] a solemn assembly to the LORD thy God",
+      "traditions": {
+        "WLC": "וּ בַ יּ֣וֹם הַ שְּׁבִיעִ֗י עֲצֶ֨רֶת֙ לַ יהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "καὶ τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἐξόδιον , ἑορτὴ Κυρίῳ τῷ θεῷ σου ·",
+        "VUL": "et in die séptima , quia collécta est Dómini Dei tui ,",
+        "SP": "ו ב יום ה שׁביעי חג ל יהוה אלהיך",
+        "KJV": "and on the seventh day [ shall be ] a solemn assembly to the LORD thy God :",
+        "DSS": "و ب يום ה شبيعي عצרت ل יהו ]ה## אל[ ה ]ي?׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou shalt do no work [ therein ]",
+      "traditions": {
+        "WLC": "לֹ֥א תַעֲשֶׂ֖ה מְלָאכָֽה",
+        "LXX": "οὐ ποιήσεις ἐν αὐτῇ πᾶν ἔργον , πλὴν ὅσα ποιηθήσεται ψυχῇ .",
+        "VUL": "non fácies opus .",
+        "SP": "לא תעשׂה כל מלאכת עבדה",
+        "KJV": "thou shalt do no work [ therein ] .",
+        "DSS": "لا تעשה ب׳و كل [ מלאכה ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Seven weeks shalt thou number unto thee",
+      "traditions": {
+        "WLC": "שִׁבְעָ֥ה שָׁבֻעֹ֖ת תִּסְפָּר לָ֑ ךְ",
+        "LXX": "ἑπτὰ ἑβδομάδας ἐξαριθμήσεις σεαυτῷ ·",
+        "VUL": "Septem hebdómadas numerábis tibi",
+        "SP": "שׁבעה שׁבעות תספר לך",
+        "KJV": "Seven weeks shalt thou number unto thee :",
+        "DSS": "[4Q30] شבעه شבעوت تספר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "begin to number the seven weeks from [ such time as ] thou beginnest [ to put ] the sickle to the corn",
+      "traditions": {
+        "WLC": "מֵ הָחֵ֤ל חֶרְמֵשׁ֙ בַּ קָּמָ֔ה תָּחֵ֣ל לִ סְפֹּ֔ר שִׁבְעָ֖ה שָׁבֻעֽוֹת",
+        "LXX": "ἀρξαμένου σου δρέπανον ἐπ᾽ ἀμητὸν ἄρξῃ ἐξαριθμῆσαι ἑπτὰ ἑβδομάδας .",
+        "VUL": "ab ea die qua falcem in ségetem míseris .",
+        "SP": "מ החלך חרמשׁ ב קמה תחל ל ספר שׁבעה שׁבעות",
+        "KJV": "begin to number the seven weeks from [ such time as ] thou beginnest [ to put ] the sickle to the corn .",
+        "DSS": "[ ل׳ך م החל חרמש ب קמה تחל ل ] س#פר شבעه شבעوت ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt keep the feast of weeks unto the LORD thy God",
+      "traditions": {
+        "WLC": "וְ עָשִׂ֜יתָ חַ֤ג שָׁבֻעוֹת֙ לַ יהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "Καὶ ποιήσεις ἑορτὴν ἑβδομάδων Κυρίῳ τῷ θεῷ σου",
+        "VUL": "Et celebrábis diem festum hebdomadárum Dómino Deo tuo ,",
+        "SP": "ו עשׂית חג שׁבעות ל יהוה אלהיך",
+        "KJV": "And thou shalt keep the feast of weeks unto the LORD thy God",
+        "DSS": "[4Q30] و عשית [ חג שבעות ل יהוה אלהي׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with a tribute of a freewill offering of thine hand , which thou shalt give [ unto the LORD thy God ]",
+      "traditions": {
+        "WLC": "מִסַּ֛ת נִדְבַ֥ת יָדְ ךָ֖ אֲשֶׁ֣ר תִּתֵּ֑ן",
+        "LXX": "καθότι ἡ χείρ σου ἰσχύει ,",
+        "VUL": "oblatiónem spontáneam manus tuæ , quam ófferes",
+        "SP": "מסת נדבת ידיך אשׁר תתן",
+        "KJV": "with a tribute of a freewill offering of thine hand , which thou shalt give [ unto the LORD thy God ] ,",
+        "DSS": "م##ت نדבות يد׳ך אשר تתן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "according as the LORD thy God hath blessed thee",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֥ר יְבָרֶכְ ךָ֖ יְהוָ֥ה אֱלֹהֶֽי ךָ",
+        "LXX": "ὅσα ἂν δῷ Κύριος ὁ θεός σου ·",
+        "VUL": "iuxta benedictiónem Dómini Dei tui :",
+        "SP": "כ אשׁר ברכך יהוה אלהיך",
+        "KJV": "according as the LORD thy God hath blessed thee :",
+        "DSS": "[ ك ] אשר  # [ ברכ׳ך יהוה אלהي׳ך ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt rejoice before the LORD thy God",
+      "traditions": {
+        "WLC": "וְ שָׂמַחְתָּ֞ לִ פְנֵ֣י יְהוָ֣ה אֱלֹהֶ֗י ךָ",
+        "LXX": "καὶ εὐφρανθήσῃ ἐναντίον τοῦ θεοῦ σου ,",
+        "VUL": "et epuláberis coram Dómino Deo tuo ,",
+        "SP": "ו שׂמחת ל פני יהוה אלהיך",
+        "KJV": "And thou shalt rejoice before the LORD thy God ,",
+        "DSS": "ו שמח ]ת ל פני יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou , and thy son , and thy daughter",
+      "traditions": {
+        "WLC": "אַתָּ֨ה וּ בִנְ ךָ֣ וּ בִתֶּ ךָ֮",
+        "LXX": "καὶ ὁ υἱός σου καὶ ἡ θυγάτηρ σου ,",
+        "VUL": "tu , fílius tuus , et fília tua ,",
+        "SP": "אתה ו בנך ו בתך",
+        "KJV": "thou , and thy son , and thy daughter ,",
+        "DSS": "[ את ]ה# ב#נ#?׳ך##[ ו בת׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thy manservant , and thy maidservant",
+      "traditions": {
+        "WLC": "וְ עַבְדְּ ךָ֣ וַ אֲמָתֶ ךָ֒",
+        "LXX": "ὁ παῖς σου καὶ ἡ παιδίσκη σου ,",
+        "VUL": "servus tuus , et ancílla tua ,",
+        "SP": "עבדך ו אמתך",
+        "KJV": "and thy manservant , and thy maidservant ,",
+        "DSS": "ו עבד׳ך ו אמת׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the Levite that [ is ] within thy gates",
+      "traditions": {
+        "WLC": "וְ הַ לֵּוִי֙ אֲשֶׁ֣ר בִּ שְׁעָרֶ֔י ךָ",
+        "LXX": "καὶ ὁ Λευείτης",
+        "VUL": "et Levítes qui est intra portas tuas ,",
+        "SP": "ו ה לוי אשׁר ב שׁעריך",
+        "KJV": "and the Levite that [ is ] within thy gates ,",
+        "DSS": "ו ה ] לוי (^"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and the stranger , and the fatherless , and the widow",
+      "traditions": {
+        "WLC": "וְ הַ גֵּ֛ר וְ הַ יָּת֥וֹם וְ הָ אַלְמָנָ֖ה",
+        "LXX": "καὶ ὁ προσήλυτος καὶ ὁ ὀρφανὸς καὶ ἡ χήρα",
+        "VUL": "ádvena ac pupíllus et vídua ,",
+        "SP": "ו ה גר ו ה יתום ו ה אלמנה",
+        "KJV": "and the stranger , and the fatherless , and the widow ,",
+        "DSS": "ו ה גר ה יתום ו אלמנה ^)"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "that [ are ] among you",
+      "traditions": {
+        "WLC": "אֲשֶׁ֣ר בְּ קִרְבֶּ֑ ךָ",
+        "LXX": "ἡ οὖσα ἐν ὑμῖν ,",
+        "VUL": "qui morántur vobíscum :",
+        "SP": "אשׁר ב קרבך",
+        "KJV": "that [ are ] among you ,",
+        "DSS": "אשר {{ ב שער׳כ }}[ ב## קרב׳ך#"
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "in the place which the LORD thy God hath chosen to place his name there",
+      "traditions": {
+        "WLC": "בַּ מָּק֗וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהוָ֣ה אֱלֹהֶ֔י ךָ לְ שַׁכֵּ֥ן שְׁמ֖ וֹ שָֽׁם",
+        "LXX": "ἐν τῷ τόπῳ ᾧ ἐὰν ἐκλέξηται Κύριος ὁ θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ ·",
+        "VUL": "in loco quem elégerit Dóminus Deus tuus , ut hábitet nomen eius ibi :",
+        "SP": "ב מקום אשׁר בחר יהוה אלהיך ל שׁכן את שׁמו שׁם",
+        "KJV": "in the place which the LORD thy God hath chosen to place his name there .",
+        "DSS": "ב [ מקום אשר יבחר יהוה ]א##להי׳ך ל# [ שכן שמ׳ו שם ]"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt remember that thou wast a bondman in Egypt",
+      "traditions": {
+        "WLC": "וְ זָ֣כַרְתָּ֔ כִּי עֶ֥בֶד הָיִ֖יתָ בְּ מִצְרָ֑יִם",
+        "LXX": "καὶ μνησθήσῃ ὅτι οἰκέτης ἐγένου ἐν γῇ Αἰγύπτῳ ,",
+        "VUL": "et recordáberis quóniam servus fúeris in Ægýpto :",
+        "SP": "ו זכרת כי עבד היית ב ארץ מצרים",
+        "KJV": "And thou shalt remember that thou wast a bondman in Egypt :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou shalt observe and do these statutes",
+      "traditions": {
+        "WLC": "וְ שָׁמַרְתָּ֣ וְ עָשִׂ֔יתָ אֶת הַֽ חֻקִּ֖ים הָ אֵֽלֶּה",
+        "LXX": "καὶ φυλάξῃ καὶ ποιήσεις τὰς ἐντολὰς ταύτας .",
+        "VUL": "custodiésque ac fácies quæ præcépta sunt .",
+        "SP": "ו שׁמרת ו עשׂית את ה חקים ה אלה",
+        "KJV": "and thou shalt observe and do these statutes .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt observe the feast of tabernacles seven days",
+      "traditions": {
+        "WLC": "חַ֧ג הַ סֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְ ךָ֖ שִׁבְעַ֣ת יָמִ֑ים",
+        "LXX": "Ἑορτὴν σκηνῶν ποιήσεις σεαυτῷ ἑπτὰ ἡμέρας",
+        "VUL": "Solemnitátem quoque tabernaculórum celebrábis per septem dies ,",
+        "SP": "חג ה סכות תעשׂה לך שׁבעת ימים",
+        "KJV": "Thou shalt observe the feast of tabernacles seven days ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "after that thou hast gathered in thy corn and thy wine",
+      "traditions": {
+        "WLC": "בְּ אָ֨סְפְּ ךָ֔ מִֽ גָּרְנְ ךָ֖ וּ מִ יִּקְבֶֽ ךָ",
+        "LXX": "ἐν τῷ συναγαγεῖν σε ἐκ τοῦ ἅλωνός σου καὶ ἀπὸ τῆς ληνοῦ σου ·",
+        "VUL": "quando collégeris de área et torculári fruges tuas :",
+        "SP": "ב אספך מ גרנך ו מ יקבך",
+        "KJV": "after that thou hast gathered in thy corn and thy wine :",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt rejoice in thy feast",
+      "traditions": {
+        "WLC": "וְ שָׂמַחְתָּ֖ בְּ חַגֶּ֑ ךָ",
+        "LXX": "καὶ εὐφρανθήσῃ ἐν τῇ ἑορτῇ σου ,",
+        "VUL": "et epuláberis in festivitáte tua ,",
+        "SP": "ו שׂמחת ב חגך",
+        "KJV": "And thou shalt rejoice in thy feast ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou , and thy son , and thy daughter , and thy manservant , and thy maidservant",
+      "traditions": {
+        "WLC": "אַתָּ֨ה וּ בִנְ ךָ֤ וּ בִתֶּ֨ ךָ֙ וְ עַבְדְּ ךָ֣ וַ אֲמָתֶ֔ ךָ",
+        "LXX": "σὺ καὶ ὁ υἱός σου καὶ ἡ θυγάτηρ σου , ὁ παῖς σου καὶ ἡ παιδίσκη σου ,",
+        "VUL": "tu , fílius tuus , et fília , servus tuus et ancílla ,",
+        "SP": "אתה ו בנך ו בתך עבדך ו אמתך",
+        "KJV": "thou , and thy son , and thy daughter , and thy manservant , and thy maidservant ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the Levite , the stranger , and the fatherless , and the widow",
+      "traditions": {
+        "WLC": "וְ הַ לֵּוִ֗י וְ הַ גֵּ֛ר וְ הַ יָּת֥וֹם וְ הָ אַלְמָנָ֖ה",
+        "LXX": "καὶ ὁ Λευείτης καὶ ὁ προσήλυτος καὶ ὁ ὀρφανὸς καὶ ἡ χήρα",
+        "VUL": "Levítes quoque et ádvena , pupíllus ac vídua",
+        "SP": "ו ה לוי ו ה גר ו ה יתום ו ה אלמנה",
+        "KJV": "and the Levite , the stranger , and the fatherless , and the widow ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that [ are ] within thy gates",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר בִּ שְׁעָרֶֽי ךָ",
+        "LXX": "ἡ οὖσα ἐν ταῖς πόλεσίν σου .",
+        "VUL": "qui intra portas tuas sunt .",
+        "SP": "אשׁר ב שׁעריך",
+        "KJV": "that [ are ] within thy gates .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Seven days shalt thou keep a solemn feast unto the LORD thy God in the place which the LORD shall choose",
+      "traditions": {
+        "WLC": "שִׁבְעַ֣ת יָמִ֗ים תָּחֹג֙ לַ יהוָ֣ה אֱלֹהֶ֔י ךָ בַּ מָּק֖וֹם אֲשֶׁר יִבְחַ֣ר יְהוָ֑ה",
+        "LXX": "ἑπτὰ ἡμέρας ἑορτάσεις Κυρίῳ τῷ θεῷ σου ἐν τῷ τόπῳ ᾧ ἐὰν ἐκλέξηται Κύριος ὁ θεός σου αὐτῷ ·",
+        "VUL": "Septem diébus Dómino Deo tuo festa celebrábis in loco , quem elégerit Dóminus :",
+        "SP": "שׁבעת ימים תחג ל יהוה אלהיך ב מקום אשׁר בחר יהוה אלהיך",
+        "KJV": "Seven days shalt thou keep a solemn feast unto the LORD thy God in the place which the LORD shall choose :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because the LORD thy God shall bless thee in all thine increase , and in all the works of thine hands",
+      "traditions": {
+        "WLC": "כִּ֣י יְבָרֶכְ ךָ֞ יְהוָ֣ה אֱלֹהֶ֗י ךָ בְּ כֹ֤ל תְּבוּאָֽתְ ךָ֙ וּ בְ כֹל֙ מַעֲשֵׂ֣ה יָדֶ֔י ךָ",
+        "LXX": "ἐὰν δὲ εὐλογήσῃ σε Κύριος ὁ θεός σου ἐν πᾶσιν γενήμασίν σου καὶ ἐν παντὶ ἔργῳ τῶν χειρῶν σου ,",
+        "VUL": "benedicétque tibi Dóminus Deus tuus in cunctis frúgibus tuis , et in omni ópere mánuum tuárum ,",
+        "SP": "כי יברכך יהוה אלהיך ב כל תבואתך ו ב כל מעשׂה ידיך",
+        "KJV": "because the LORD thy God shall bless thee in all thine increase , and in all the works of thine hands ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "therefore thou shalt surely rejoice",
+      "traditions": {
+        "WLC": "וְ הָיִ֖יתָ אַ֥ךְ שָׂמֵֽחַ",
+        "LXX": "καὶ ἔσῃ εὐφραινόμενος .",
+        "VUL": "erísque in lætítia .",
+        "SP": "ו היית אך שׂמח",
+        "KJV": "therefore thou shalt surely rejoice .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose",
+      "traditions": {
+        "WLC": "שָׁל֣וֹשׁ פְּעָמִ֣ים בַּ שָּׁנָ֡ה יֵרָאֶ֨ה כָל זְכוּרְ ךָ֜ אֶת פְּנֵ֣י יְהוָ֣ה אֱלֹהֶ֗י ךָ בַּ מָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר",
+        "LXX": "τρεῖς καιροὺς τοῦ ἐνιαυτοῦ ὀφθήσεται πᾶν ἀρσενικόν σου ἐναντίον Κυρίου τοῦ θεοῦ σου ἐν τῷ τόπῳ ᾧ ἐὰν ἐκλέξηται αὐτὸν Κύριος ,",
+        "VUL": "Tribus vícibus per annum apparébit omne masculínum tuum in conspéctu Dómini Dei tui in loco quem elégerit :",
+        "SP": "שׁלשׁ פעמים ב שׁנה יראה כל זכורך את פני יהוה אלהיך ב מקום אשׁר בחר בו",
+        "KJV": "Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in the feast of unleavened bread , and in the feast of weeks , and in the feast of tabernacles",
+      "traditions": {
+        "WLC": "בְּ חַ֧ג הַ מַּצּ֛וֹת וּ בְ חַ֥ג הַ שָּׁבֻע֖וֹת וּ בְ חַ֣ג הַ סֻּכּ֑וֹת",
+        "LXX": "ἐν τῇ ἑορτῇ τῶν ἀζύμων , καὶ ἐν τῇ ἑορτῇ τῶν ἑβδομάδων , καὶ ἐν τῇ ἑορτῇ τῆς σκηνοπηγίας .",
+        "VUL": "in solemnitáte azymórum , in solemnitáte hebdomadárum , et in solemnitáte tabernaculórum .",
+        "SP": "ב חג ה מצות ו ב חג ה שׁבעות ו ב חג ה סכות",
+        "KJV": "in the feast of unleavened bread , and in the feast of weeks , and in the feast of tabernacles :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they shall not appear before the LORD empty",
+      "traditions": {
+        "WLC": "וְ לֹ֧א יֵרָאֶ֛ה אֶת פְּנֵ֥י יְהוָ֖ה רֵיקָֽם",
+        "LXX": "οὐκ ὀφθήσῃ ἐνώπιον Κυρίου τοῦ θεοῦ σου κενός ·",
+        "VUL": "Non apparébit ante Dóminum vácuus :",
+        "SP": "ו לא יראו את פני יהוה רקים",
+        "KJV": "and they shall not appear before the LORD empty :",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Every man [ shall give ] as he is able",
+      "traditions": {
+        "WLC": "אִ֖ישׁ כְּ מַתְּנַ֣ת יָד֑ וֹ",
+        "LXX": "ἕκαστος κατὰ δύναμιν τῶν χειρῶν ὑμῶν ,",
+        "VUL": "sed ófferet unusquísque secúndum quod habúerit",
+        "SP": "אישׁ כ מתנת ידו",
+        "KJV": "Every man [ shall give ] as he is able ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "according to the blessing of the LORD thy God which he hath given thee",
+      "traditions": {
+        "WLC": "כְּ בִרְכַּ֛ת יְהוָ֥ה אֱלֹהֶ֖י ךָ אֲשֶׁ֥ר נָֽתַן לָֽ ךְ",
+        "LXX": "κατὰ τὴν εὐλογίαν Κυρίου τοῦ θεοῦ σου ἣν ἔδωκέν σοι .",
+        "VUL": "iuxta benedictiónem Dómini Dei sui , quam déderit ei .",
+        "SP": "כ ברכת יהוה אלהיך אשׁר נתן לך",
+        "KJV": "according to the blessing of the LORD thy God which he hath given thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Judges and officers shalt thou make thee in all thy gates",
+      "traditions": {
+        "WLC": "שֹׁפְטִ֣ים וְ שֹֽׁטְרִ֗ים תִּֽתֶּן לְ ךָ֙ בְּ כָל שְׁעָרֶ֔י ךָ",
+        "LXX": "Κριτὰς καὶ γραμματοεισαγωγεῖς ποιήσεις σεαυτῷ ἐν ταῖς πόλεσίν σου",
+        "VUL": "Iúdices et magístros constítues in ómnibus portis tuis ,",
+        "SP": "שׁפטים ו שׁטרים תתן לך ב כל שׁעריך",
+        "KJV": "Judges and officers shalt thou make thee in all thy gates ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which the LORD thy God giveth thee , throughout thy tribes",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֶ֛י ךָ נֹתֵ֥ן לְ ךָ֖ לִ שְׁבָטֶ֑י ךָ",
+        "LXX": "αἷς Κύριος ὁ θεός σου δίδωσίν σοι κατὰ φυλάς ,",
+        "VUL": "quas Dóminus Deus tuus déderit tibi , per síngulas tribus tuas :",
+        "SP": "אשׁר יהוה אלהיך נתן לך ל שׁבטיך",
+        "KJV": "which the LORD thy God giveth thee , throughout thy tribes :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they shall judge the people with just judgment",
+      "traditions": {
+        "WLC": "וְ שָׁפְט֥וּ אֶת הָ עָ֖ם מִשְׁפַּט צֶֽדֶק",
+        "LXX": "καὶ κρινοῦσιν τὸν λαὸν κρίσιν δικαίαν ·",
+        "VUL": "ut iúdicent pópulum iusto iudício ,",
+        "SP": "ו שׁפטו את ה עם משׁפט צדק",
+        "KJV": "and they shall judge the people with just judgment .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not wrest judgment",
+      "traditions": {
+        "WLC": "לֹא תַטֶּ֣ה מִשְׁפָּ֔ט",
+        "LXX": null,
+        "VUL": "nec in álteram partem declínent .",
+        "SP": "לא תטה משׁפט",
+        "KJV": "Thou shalt not wrest judgment ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt not respect persons , neither take a gift",
+      "traditions": {
+        "WLC": "לֹ֥א תַכִּ֖יר פָּנִ֑ים וְ לֹא תִקַּ֣ח שֹׁ֔חַד",
+        "LXX": "οὐκ ἐπιγνώσονται πρόσωπον , οὐδὲ λήμψονται δῶρον ·",
+        "VUL": "Non accípies persónam , nec múnera :",
+        "SP": "ו לא תכיר פנים ו לא תקח שׁחד",
+        "KJV": "thou shalt not respect persons , neither take a gift :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for a gift doth blind the eyes of the wise , and pervert the words of the righteous",
+      "traditions": {
+        "WLC": "כִּ֣י הַ שֹּׁ֗חַד יְעַוֵּר֙ עֵינֵ֣י חֲכָמִ֔ים וִֽ יסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽם",
+        "LXX": "τὰ γὰρ δῶρα ἀποτυφλοῖ ὀφθαλμοὺς σοφῶν καὶ ἐξαρεῖ λόγους δικαίων .",
+        "VUL": "quia múnera excǽcant óculos sapiéntum , et mutant verba iustórum .",
+        "SP": "כי ה שׁחד יעור עיני חכמים ו יסלף דברי צדקים",
+        "KJV": "for a gift doth blind the eyes of the wise , and pervert the words of the righteous .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "That which is altogether just shalt thou follow",
+      "traditions": {
+        "WLC": "צֶ֥דֶק צֶ֖דֶק תִּרְדֹּ֑ף",
+        "LXX": "δικαίως τὸ δίκαιον διώξῃ ,",
+        "VUL": "Iuste quod iustum est persequéris :",
+        "SP": "צדק צדק תרדף",
+        "KJV": "That which is altogether just shalt thou follow ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that thou mayest live , and inherit the land which the LORD thy God giveth thee",
+      "traditions": {
+        "WLC": "לְמַ֤עַן תִּֽחְיֶה֙ וְ יָרַשְׁתָּ֣ אֶת הָ אָ֔רֶץ אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖י ךָ נֹתֵ֥ן לָֽ ךְ",
+        "LXX": "ἵνα ζῆτε καὶ εἰσελθόντες κληρονομήσητε τὴν γῆν ἣν Κύριος ὁ θεός σου δίδωσίν σοι .",
+        "VUL": "ut vivas et possídeas terram , quam Dóminus Deus tuus déderit tibi .",
+        "SP": "למען תחיה ו ירשׁת את ה ארץ אשׁר יהוה אלהיך נתן לך",
+        "KJV": "that thou mayest live , and inherit the land which the LORD thy God giveth thee .",
+        "DSS": "[ 4Q30] # # [ ε ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt not plant thee a grove of any trees",
+      "traditions": {
+        "WLC": "לֹֽא תִטַּ֥ע לְ ךָ֛ אֲשֵׁרָ֖ה כָּל עֵ֑ץ",
+        "LXX": "Οὐ φυτεύσεις σεαυτῷ ἄλσος · πᾶν ξύλον",
+        "VUL": "Non plantábis lucum , et omnem árborem",
+        "SP": "לא תטע לך אשׁרה כל עץ",
+        "KJV": "Thou shalt not plant thee a grove of any trees",
+        "DSS": "[4Q30] לא תטע ל##׳ך##[  אשרה כל עץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "near unto the altar of the LORD thy God",
+      "traditions": {
+        "WLC": "אֵ֗צֶל מִזְבַּ֛ח יְהוָ֥ה אֱלֹהֶ֖י ךָ",
+        "LXX": "παρὰ τὸ θυσιαστήριον τοῦ θεοῦ σου",
+        "VUL": "iuxta altáre Dómini Dei tui .",
+        "SP": "אצל מזבח יהוה אלהיך",
+        "KJV": "near unto the altar of the LORD thy God ,",
+        "DSS": "אצל מזבח יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which thou shalt make thee",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר תַּעֲשֶׂה לָּֽ ךְ",
+        "LXX": "οὐ ποιήσεις σεαυτῷ .",
+        "VUL": null,
+        "SP": "אשׁר תעשׂה לך",
+        "KJV": "which thou shalt make thee .",
+        "DSS": "אשר ] תעשה ל׳ך ׃"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither shalt thou set thee up [ any ] image",
+      "traditions": {
+        "WLC": "וְ לֹֽא תָקִ֥ים לְ ךָ֖ מַצֵּבָ֑ה",
+        "LXX": "οὐ στήσεις σεαυτῷ στήλην ,",
+        "VUL": "Nec fácies tibi , neque constítues státuam :",
+        "SP": "ו לא תקים לך מצבה",
+        "KJV": "Neither shalt thou set thee up [ any ] image ;",
+        "DSS": "[4Q30] ו ל#[ א תקים ל׳ך מצבה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which the LORD thy God hateth",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר שָׂנֵ֖א יְהוָ֥ה אֱלֹהֶֽי ךָ",
+        "LXX": "ἃ ἐμίσησεν Κύριος ὁ θεός σου .",
+        "VUL": "quæ odit Dóminus Deus tuus .",
+        "SP": "אשׁר שׂנאה יהוה אלהיך",
+        "KJV": "which the LORD thy God hateth .",
+        "DSS": "אשר שנא יהוה אלהי׳ך ] ׃"
+      }
+    }
+  ]
+}

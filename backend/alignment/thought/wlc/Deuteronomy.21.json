@@ -1,0 +1,996 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "If [ one ] be found slain in the land which the LORD thy God giveth thee to possess it",
+      "traditions": {
+        "WLC": "כִּי יִמָּצֵ֣א חָלָ֗ל בָּ אֲדָמָה֙ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜י ךָ נֹתֵ֤ן לְ ךָ֙ לְ רִשְׁתָּ֔ הּ",
+        "LXX": "Ἐὰν δὲ εὑρεθῇ τραυματίας ἐν τῇ γῇ ᾗ Κύριος ὁ θεός σου δίδωσίν σοι κληρονομῆσαι ,",
+        "VUL": "Quando invéntum fúerit in terra , quam Dóminus Deus tuus datúrus est tibi ,",
+        "SP": "כי ימצא חלל ב אדמה אשׁר יהוה אלהיך נתן לך ל רשׁתה",
+        "KJV": "If [ one ] be found slain in the land which the LORD thy God giveth thee to possess it ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "lying in the field",
+      "traditions": {
+        "WLC": "נֹפֵ֖ל בַּ שָּׂדֶ֑ה",
+        "LXX": "πεπτωκὼς ἐν τῷ πεδίῳ ,",
+        "VUL": "hóminis cadáver occísi ,",
+        "SP": "נפל ב שׂדה",
+        "KJV": "lying in the field , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ and ] it be not known who hath slain him",
+      "traditions": {
+        "WLC": "לֹ֥א נוֹדַ֖ע מִ֥י הִכָּֽה וּ",
+        "LXX": "καὶ οὐκ οἴδασιν τὸν πατάξαντα",
+        "VUL": "et ignorábitur cædis reus ,",
+        "SP": "לא נודע מי הכהו",
+        "KJV": "it be not known who hath slain him :",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then thy elders and thy judges shall come forth",
+      "traditions": {
+        "WLC": "וְ יָצְא֥וּ זְקֵנֶ֖י ךָ וְ שֹׁפְטֶ֑י ךָ",
+        "LXX": "ἐξελεύσεται ἡ γερουσία σου καὶ οἱ κριταί σου ,",
+        "VUL": "egrediéntur maióres natu , et iúdices tui ,",
+        "SP": "ו יצאו זקניך ו שׁטריך",
+        "KJV": "Then thy elders and thy judges shall come forth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they shall measure unto the cities which [ are ] round about him that is slain",
+      "traditions": {
+        "WLC": "וּ מָדְדוּ֙ אֶל הֶ֣ עָרִ֔ים אֲשֶׁ֖ר סְבִיבֹ֥ת הֶ חָלָֽל",
+        "LXX": "καὶ ἐκμετρήσουσιν ἐπὶ τὰς πόλεις τὰς κύκλῳ τοῦ τραυματίου ·",
+        "VUL": "et metiéntur a loco cadáveris singulárum per circúitum spátia civitátum :",
+        "SP": "ו מדדו על ה ערים אשׁר סביבת ה חלל",
+        "KJV": "and they shall measure unto the cities which [ are ] round about him that is slain :",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall be , [ that ] the city [ which is ] next unto the slain man",
+      "traditions": {
+        "WLC": "וְ הָיָ֣ה הָ עִ֔יר הַ קְּרֹבָ֖ה אֶל הֶ חָלָ֑ל",
+        "LXX": "καὶ ἔσται ἡ πόλις ἡ ἐγγίζουσα τῷ τραυματίᾳ ,",
+        "VUL": "et quam viciniórem céteris esse perspéxerint ,",
+        "SP": "ו היה ה עיר ה קרובה אל ה חלל",
+        "KJV": "And it shall be , [ that ] the city [ which is ] next unto the slain man ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even the elders of that city shall take an heifer",
+      "traditions": {
+        "WLC": "וְ לָֽקְח֡וּ זִקְנֵי֩ הָ עִ֨יר הַ הִ֜וא עֶגְלַ֣ת בָּקָ֗ר",
+        "LXX": "καὶ λήμψεται ἡ γερουσία τῆς πόλεως ἐκείνης δάμαλιν ἐκ βοῶν ,",
+        "VUL": "senióres civitátis illíus tollent vítulam de arménto ,",
+        "SP": "ו לקחו זקני ה עיר ה היא עגלת בקר",
+        "KJV": "even the elders of that city shall take an heifer ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which hath not been wrought with",
+      "traditions": {
+        "WLC": "אֲשֶׁ֤ר לֹֽא עֻבַּד֙ בָּ֔ הּ",
+        "LXX": "ἥτις οὐκ εἴργασται",
+        "VUL": "quæ non traxit iugum , nec terram scidit vómere ,",
+        "SP": "אשׁר לא עבד בה",
+        "KJV": "which hath not been wrought with , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ and ] which hath not drawn in the yoke",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר לֹא מָשְׁכָ֖ה בְּ עֹֽל",
+        "LXX": "καὶ ἥτις οὐχ εἵλκυσεν ζυγόν ·",
+        "VUL": null,
+        "SP": "ו אשׁר לא משׁכה ב על",
+        "KJV": "which hath not drawn in the yoke ;",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the elders of that city shall bring down the heifer unto a rough valley",
+      "traditions": {
+        "WLC": "וְ הוֹרִ֡דוּ זִקְנֵי֩ הָ עִ֨יר הַ הִ֤וא אֶת הָֽ עֶגְלָה֙ אֶל נַ֣חַל אֵיתָ֔ן",
+        "LXX": "καὶ καταβιβάσουσιν ἡ γερουσία τῆς πόλεως ἐκείνης δάμαλιν εἰς φάραγγα τραχεῖαν ,",
+        "VUL": "et ducent eam ad vallem ásperam atque saxósam ,",
+        "SP": "ו הורידו זקני ה עיר ה היא את ה עגלה אל נחל איתן",
+        "KJV": "And the elders of that city shall bring down the heifer unto a rough valley ,",
+        "DSS": "[4Q33] ו#? הרידו זק#נ#?[ י ] ה ע#[ יר ] ה הי[ א את  ]ה עגלה#[  אל ] נחל[  איתן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which is neither eared nor sown",
+      "traditions": {
+        "WLC": "אֲשֶׁ֛ר לֹא יֵעָבֵ֥ד בּ֖ וֹ וְ לֹ֣א יִזָּרֵ֑עַ",
+        "LXX": "ἥτις οὐκ εἴργασται οὐδὲ σπείρεται ,",
+        "VUL": "quæ numquam aráta est , nec seméntem recépit :",
+        "SP": "אשׁר לא יעבד בו ו לא יזרע",
+        "KJV": "which is neither eared nor sown ,",
+        "DSS": "[4Q33] אשר לא יעבד ב׳ו ] [ ו ] לא יזרע"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and shall strike off the heifer ’s neck there in the valley",
+      "traditions": {
+        "WLC": "וְ עָֽרְפוּ שָׁ֥ם אֶת הָ עֶגְלָ֖ה בַּ נָּֽחַל",
+        "LXX": "καὶ νευροκοπήσουσιν τὴν δάμαλιν ἐν τῇ φάραγγι .",
+        "VUL": "et cædent in ea cervíces vítulæ :",
+        "SP": "ו ערפו שׁם את ה עגלה ב נחל",
+        "KJV": "and shall strike off the heifer ’s neck there in the valley :",
+        "DSS": "[4Q33] ו ערפ#ו? שם את[  ה ע ]ג?לה ב# [ נחל ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the priests the sons of Levi shall come near",
+      "traditions": {
+        "WLC": "וְ נִגְּשׁ֣וּ הַ כֹּהֲנִים֮ בְּנֵ֣י לֵוִי֒",
+        "LXX": "καὶ προσελεύσονται οἱ ἱερεῖς οἱ Λευεῖται ,",
+        "VUL": "accedéntque sacerdótes fílii Levi ,",
+        "SP": "ו נגשׁו ה כהנים בני לוי",
+        "KJV": "And the priests the sons of Levi shall come near ;",
+        "DSS": "[4Q33] ו נ ]גשו ה## [ כהנים בני לוי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for them the LORD thy God hath chosen to minister unto him , and to bless in the name of the LORD",
+      "traditions": {
+        "WLC": "כִּ֣י בָ֗ ם בָּחַ֞ר יְהוָ֤ה אֱלֹהֶ֨י ךָ֙ לְ שָׁ֣רְת֔ וֹ וּ לְ בָרֵ֖ךְ בְּ שֵׁ֣ם יְהוָ֑ה",
+        "LXX": "ὅτι αὐτοὺς ἐπέλεξεν Κύριος ὁ θεὸς παρεστηκέναι αὐτῷ καὶ εὐλογεῖν ἐπὶ τῷ ὀνόματι αὐτοῦ ,",
+        "VUL": "quos elégerit Dóminus Deus tuus ut minístrent ei , et benedícant in nómine eius ,",
+        "SP": "כי בם בחר יהוה אלהיך ל שׁרת ו ל ברך ב שׁם יהוה",
+        "KJV": "for them the LORD thy God hath chosen to minister unto him , and to bless in the name of the LORD ;",
+        "DSS": "[4Q33] כי ב׳ם ] [ ב ]ח#ר יהוה אל#[ הי׳ך  ]ל שרת׳ו ו#? [ ל בר ]ך## ב ש#ם [ יהוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and by their word shall every controversy and every stroke be [ tried ]",
+      "traditions": {
+        "WLC": "וְ עַל פִּי הֶ֥ם יִהְיֶ֖ה כָּל רִ֥יב וְ כָל נָֽגַע",
+        "LXX": "καὶ ἐπὶ τῷ στόματι αὐτῶν ἔσται πᾶσα ἀντιλογία καὶ πᾶσα ἁφή ·",
+        "VUL": "et ad verbum eórum omne negótium , et quidquid mundum , vel immúndum est , iudicétur .",
+        "SP": "ו על פים יהיה כל ריב ו כל נגע",
+        "KJV": "and by their word shall every controversy and every stroke be [ tried ] :",
+        "DSS": "[4Q33] ו ע ]ל#[  פי׳הם יהיה כל ריב ו כל ] [ נ ]ג#?ע ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And all the elders of that city , [ that are ] next unto the slain [ man ]",
+      "traditions": {
+        "WLC": "וְ כֹ֗ל זִקְנֵי֙ הָ עִ֣יר הַ הִ֔וא הַ קְּרֹבִ֖ים אֶל הֶ חָלָ֑ל",
+        "LXX": "καὶ πᾶσα ἡ γερουσία τῆς πόλεως ἐκείνης οἱ ἐγγίζοντες τῷ τραυματίᾳ",
+        "VUL": "Et vénient maióres natu civitátis illíus ad interféctum ,",
+        "SP": "ו כל זקני ה עיר ה קרובים אל ה חלל",
+        "KJV": "And all the elders of that city , [ that are ] next unto the slain [ man ] ,",
+        "DSS": "[4Q33] ו כל זק[ ני ה עיר ה הי ]א ה קר#בים אל ה ח#לל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall wash their hands over the heifer that is beheaded in the valley",
+      "traditions": {
+        "WLC": "יִרְחֲצוּ֙ אֶת יְדֵי הֶ֔ם עַל הָ עֶגְלָ֖ה הָ עֲרוּפָ֥ה בַ נָּֽחַל",
+        "LXX": "νίψονται τὰς χεῖρας ἐπὶ τὴν κεφαλὴν τῆς δαμάλεως τῆς νενευροκοπημένης ἐν τῇ φάραγγι ,",
+        "VUL": "lavabúntque manus suas super vítulam , quæ in valle percússa est ,",
+        "SP": "ירחצו את ידיהם על ה עגלה ה ערופה ב נחל",
+        "KJV": "shall wash their hands over the heifer that is beheaded in the valley :",
+        "DSS": "[4Q33] [  ירחצו את ידי׳הם על ה עגלה ] [ ה ערופה ב נחל ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they shall answer and say",
+      "traditions": {
+        "WLC": "וְ עָנ֖וּ וְ אָמְר֑וּ",
+        "LXX": "καὶ ἀποκριθέντες ἐροῦσιν",
+        "VUL": "et dicent :",
+        "SP": "ו ענו ו אמרו",
+        "KJV": "And they shall answer and say ,",
+        "DSS": "[4Q33] ו ענו ו אמרו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Our hands have not shed this blood",
+      "traditions": {
+        "WLC": "יָדֵ֗י נוּ לֹ֤א שפכה אֶת הַ דָּ֣ם הַ זֶּ֔ה",
+        "LXX": "Αἱ χεῖρες ἡμῶν οὐκ ἐξέχεαν τὸ αἷμα τοῦτο ,",
+        "VUL": "Manus nostræ non effudérunt sánguinem hunc ,",
+        "SP": "ידינו לא שׁפכו את ה דם ה זה",
+        "KJV": "Our hands have not shed this blood ,",
+        "DSS": "[4Q33] י ]ד##י?׳נ?ו? לא שפכו את ה# ד##[ ם ה זה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither have our eyes seen [ it ]",
+      "traditions": {
+        "WLC": "וְ עֵינֵ֖י נוּ לֹ֥א רָאֽוּ",
+        "LXX": "καὶ οἱ ὀφθαλμοὶ ἡμῶν οὐχ ἑωράκασιν ·",
+        "VUL": "nec óculi vidérunt .",
+        "SP": "ו עינינו לא ראו",
+        "KJV": "neither have our eyes seen [ it ] .",
+        "DSS": "[4Q33] ו עיני׳נו לא ראו ] ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Be merciful , O LORD , unto thy people Israel , whom thou hast redeemed",
+      "traditions": {
+        "WLC": "כַּפֵּר֩ לְ עַמְּ ךָ֨ יִשְׂרָאֵ֤ל אֲשֶׁר פָּדִ֨יתָ֙ יְהוָ֔ה",
+        "LXX": "ἵλεως γενοῦ τῷ λαῷ σου Ἰσραήλ , οὓς ἐλυτρώσω , Κύριε ,",
+        "VUL": "Propítius esto pópulo tuo Israel , quem redemísti Dómine ,",
+        "SP": "כפר ל עמך ישׂראל אשׁר פדית יהוה",
+        "KJV": "Be merciful , O LORD , unto thy people Israel , whom thou hast redeemed ,",
+        "DSS": "[1Q5] ε כפר ל עמ ]׳ך## ישרא#ל [ א ]שר פ#[ דית יהוה / [4Q33] [ כפר ל עמ׳ך ישראל אשר פ ]ד#ית יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and lay not innocent blood unto thy people of Israel ’s charge",
+      "traditions": {
+        "WLC": "וְ אַל תִּתֵּן֙ דָּ֣ם נָקִ֔י בְּ קֶ֖רֶב עַמְּ ךָ֣ יִשְׂרָאֵ֑ל",
+        "LXX": "ἵνα μὴ γένηται αἷμα ἀναίτιον ἐν τῷ λαῷ σου Ἰσραήλ .",
+        "VUL": "et ne réputes sánguinem innocéntem in médio pópuli tui Israel .",
+        "SP": "ו אל תתן דם נקיא ב קרב עמך ישׂראל",
+        "KJV": "and lay not innocent blood unto thy people of Israel ’s charge .",
+        "DSS": "[1Q5] ו אל ] [ תתן דם נקי ב קרב עמ׳ך ישראל / [4Q33] ו א##ל תתן דם##[  נקי ב קרב עמ׳ך ישראל ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And the blood shall be forgiven them",
+      "traditions": {
+        "WLC": "וְ נִכַּפֵּ֥ר לָ הֶ֖ם הַ דָּֽם",
+        "LXX": "καὶ ἐξιλασθήσεται αὐτοῖς τὸ αἷμα .",
+        "VUL": "Et auferétur ab eis reátus sánguinis :",
+        "SP": "ו נכפר להם ה דם",
+        "KJV": "And the blood shall be forgiven them .",
+        "DSS": "[1Q5] ו נכ ]פ##ר## ל׳הם ה דם ׃ / [4Q33] [ ו נכפר ל׳הם ה דם ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "So shalt thou put away the [ guilt of ] innocent blood from among you",
+      "traditions": {
+        "WLC": "וְ אַתָּ֗ה תְּבַעֵ֛ר הַ דָּ֥ם הַ נָּקִ֖י מִ קִּרְבֶּ֑ ךָ",
+        "LXX": "σὺ δὲ ἐξαρεῖς τὸ αἷμα τὸ ἀναίτιον ἐξ ὑμῶν αὐτῶν ,",
+        "VUL": "tu autem aliénus eris ab innocéntis cruóre , qui fusus est ,",
+        "SP": "ו אתה תבער ה דם ה נקיא מ קרבך",
+        "KJV": "So shalt thou put away the [ guilt of ] innocent blood from among you ,",
+        "DSS": "[1Q5] ו אתה תבער ה ד#[ ם ה נקי מ קרב׳ך ] / [4Q33] ו את ]ה## תבער דם ה [ נ ]ק#י מ## [ קרב׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when thou shalt do [ that which is ] right in the sight of the LORD",
+      "traditions": {
+        "WLC": "כִּֽי תַעֲשֶׂ֥ה הַ יָּשָׁ֖ר בְּ עֵינֵ֥י יְהוָֽה",
+        "LXX": "ἐὰν ποιήσῃς τὸ καλὸν καὶ τὸ ἀρεστὸν ἔναντι Κυρίου τοῦ θεοῦ σου .",
+        "VUL": "cum féceris quod præcépit Dóminus .",
+        "SP": "כי תעשׂה ה ישׁר ב עיני יהוה",
+        "KJV": "when thou shalt do [ that which is ] right in the sight of the LORD .",
+        "DSS": "[1Q5] [ כי תעשה ה ישר ב עיני יהוה ׃ ε / [4Q33] כי תעשה ה ישר ב עיני יהוה ] ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "When thou goest forth to war against thine enemies",
+      "traditions": {
+        "WLC": "כִּֽי תֵצֵ֥א לַ מִּלְחָמָ֖ה עַל אֹיְבֶ֑י ךָ",
+        "LXX": "Ἐὰν δὲ ἐξελθὼν εἰς πόλεμον ἐπὶ τοὺς ἐχθρούς σου ,",
+        "VUL": "Si egréssus fúeris ad pugnam contra inimícos tuos ,",
+        "SP": "כי תצא ל מלחמה על איביך",
+        "KJV": "When thou goest forth to war against thine enemies ,",
+        "DSS": "[4Q33] כי תצא ל מלח##[ מה על איבי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the LORD thy God hath delivered them into thine hands",
+      "traditions": {
+        "WLC": "וּ נְתָנ֞ וֹ יְהוָ֧ה אֱלֹהֶ֛י ךָ בְּ יָדֶ֖ ךָ",
+        "LXX": "καὶ παραδῷ σοι Κύριος ὁ θεός σου εἰς τὰς χεῖράς σου ,",
+        "VUL": "et tradíderit eos Dóminus Deus tuus in manu tua ,",
+        "SP": "ו נתנו יהוה אלהיך ב ידך",
+        "KJV": "and the LORD thy God hath delivered them into thine hands ,",
+        "DSS": "[4Q33] ו נתנ׳ו יהוה אלהי׳ך ב יד׳ך ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thou hast taken them captive",
+      "traditions": {
+        "WLC": "וְ שָׁבִ֥יתָ שִׁבְיֽ וֹ",
+        "LXX": "καὶ προνομεύσεις τὴν προνομὴν αὐτῶν ,",
+        "VUL": "captivósque dúxeris ,",
+        "SP": "ו שׁבית שׁביו",
+        "KJV": "and thou hast taken them captive ,",
+        "DSS": "[4Q33] [ ו שבית שבי׳ו ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And seest among the captives",
+      "traditions": {
+        "WLC": "וְ רָאִיתָ֙ בַּ שִּׁבְיָ֔ה",
+        "LXX": "καὶ ἴδῃς ἐν τῇ προνομῇ",
+        "VUL": "et víderis in número captivórum",
+        "SP": "ו ראית ב שׁביו",
+        "KJV": "And seest among the captives",
+        "DSS": "ו ראית ב שביה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "a beautiful woman",
+      "traditions": {
+        "WLC": "אֵ֖שֶׁת יְפַת תֹּ֑אַר",
+        "LXX": "γυναῖκα καλὴν τῷ εἴδει ,",
+        "VUL": "mulíerem pulchram ,",
+        "SP": "אשׁה יפת תאר",
+        "KJV": "a beautiful woman ,",
+        "DSS": "אש[ ת יפת תאר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and hast a desire unto her",
+      "traditions": {
+        "WLC": "וְ חָשַׁקְתָּ֣ בָ֔ הּ",
+        "LXX": "καὶ ἐνθυμηθῇς αὐτῆς",
+        "VUL": "et adamáveris eam ,",
+        "SP": "ו חשׁקת בה",
+        "KJV": "and hast a desire unto her ,",
+        "DSS": "ו חשקת ב׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that thou wouldest have her to thy wife",
+      "traditions": {
+        "WLC": "וְ לָקַחְתָּ֥ לְ ךָ֖ לְ אִשָּֽׁה",
+        "LXX": "καὶ λάβῃς αὐτὴν σαυτῷ γυναῖκα ,",
+        "VUL": "voluerísque habére uxórem ,",
+        "SP": "ו לקחתה לך ל אשׁה",
+        "KJV": "that thou wouldest have her to thy wife ;",
+        "DSS": "ו לקחת ל׳ך ל אשה"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then thou shalt bring her home to thine house",
+      "traditions": {
+        "WLC": "וַ הֲבֵאתָ֖ הּ אֶל תּ֣וֹךְ בֵּיתֶ֑ ךָ",
+        "LXX": "καὶ εἰσάξεις αὐτὴν ἔνδον εἰς τὴν οἰκίαν σου ,",
+        "VUL": "introdúces eam in domum tuam :",
+        "SP": "ו הבאתה אל תוך ביתך",
+        "KJV": "Then thou shalt bring her home to thine house ;",
+        "DSS": "ו הבאת׳ה אל תוך בית׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and she shall shave her head",
+      "traditions": {
+        "WLC": "וְ גִלְּחָה֙ אֶת רֹאשָׁ֔ הּ",
+        "LXX": "καὶ ξυρήσεις τὴν κεφαλὴν αὐτῆς",
+        "VUL": "quæ radet cæsáriem ,",
+        "SP": "ו גלחה את ראשׁה",
+        "KJV": "and she shall shave her head ,",
+        "DSS": "ו ] גלח##[ ה את ראש׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and pare her nails",
+      "traditions": {
+        "WLC": "וְ עָשְׂתָ֖ה אֶת צִפָּרְנֶֽי הָ",
+        "LXX": "καὶ περιονυχιεῖς αὐτήν ·",
+        "VUL": "et circumcídet ungues ,",
+        "SP": "ו עשׂתה את צפרניה",
+        "KJV": "and pare her nails ;",
+        "DSS": "ו עשתה את צפרני׳ה"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And she shall put the raiment of her captivity from off her",
+      "traditions": {
+        "WLC": "וְ הֵסִ֩ירָה֩ אֶת שִׂמְלַ֨ת שִׁבְיָ֜ הּ מֵ עָלֶ֗י הָ",
+        "LXX": "καὶ περιελεῖς τὰ ἱμάτια τῆς αἰχμαλωσίας ἀπ᾽ αὐτῆς ,",
+        "VUL": "et depónet vestem , in qua capta est :",
+        "SP": "ו הסירה את שׂמלת שׁביה מ עליה",
+        "KJV": "And she shall put the raiment of her captivity from off her ,",
+        "DSS": "ו הסירה את שלמת שבי׳ה מ עלי׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall remain in thine house",
+      "traditions": {
+        "WLC": "וְ יָֽשְׁבָה֙ בְּ בֵיתֶ֔ ךָ",
+        "LXX": "καὶ καθιεῖται ἐν τῇ οἰκίᾳ σου",
+        "VUL": "sedénsque in domo tua ,",
+        "SP": "ו ישׁבה ב ביתך",
+        "KJV": "and shall remain in thine house ,",
+        "DSS": "ו י ]ש##ב#ה[ ב בית׳כה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and bewail her father and her mother a full month",
+      "traditions": {
+        "WLC": "וּ בָֽכְתָ֛ה אֶת אָבִ֥י הָ וְ אֶת אִמָּ֖ הּ יֶ֣רַח יָמִ֑ים",
+        "LXX": "καὶ κλαύσεται τὸν πατέρα καὶ τὴν μητέρα μηνὸς ἡμέρας ·",
+        "VUL": "flebit patrem et matrem suam uno mense :",
+        "SP": "ו בכתה את אביה ו את אמה ירח ימים",
+        "KJV": "and bewail her father and her mother a full month :",
+        "DSS": "ו בכתה את אבי׳ה ε"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and after that thou shalt go in unto her",
+      "traditions": {
+        "WLC": "וְ אַ֨חַר כֵּ֜ן תָּב֤וֹא אֵלֶ֨י הָ֙",
+        "LXX": "καὶ μετὰ ταῦτα εἰσελεύσῃ πρὸς αὐτὴν",
+        "VUL": "et póstea intrábis ad eam ,",
+        "SP": "ו אחר כן תבוא אליה",
+        "KJV": "and after that thou shalt go in unto her ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and be her husband",
+      "traditions": {
+        "WLC": "וּ בְעַלְתָּ֔ הּ",
+        "LXX": "καὶ συνοικισθήσῃ αὐτῇ ,",
+        "VUL": "dormiésque cum illa ,",
+        "SP": "ו בעלתה",
+        "KJV": "and be her husband ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and she shall be thy wife",
+      "traditions": {
+        "WLC": "וְ הָיְתָ֥ה לְ ךָ֖ לְ אִשָּֽׁה",
+        "LXX": "καὶ ἔσται σου γυνή .",
+        "VUL": "et erit uxor tua .",
+        "SP": "ו היתה לך ל אשׁה",
+        "KJV": "and she shall be thy wife .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall be , if thou have no delight in her",
+      "traditions": {
+        "WLC": "וְ הָיָ֞ה אִם לֹ֧א חָפַ֣צְתָּ בָּ֗ הּ",
+        "LXX": "καὶ ἔσται ἐὰν μὴ θέλῃς αὐτήν ,",
+        "VUL": "Si autem póstea non séderit ánimo tuo ,",
+        "SP": "ו היה אם לא חפצת בה",
+        "KJV": "And it shall be , if thou have no delight in her ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then thou shalt let her go whither she will",
+      "traditions": {
+        "WLC": "וְ שִׁלַּחְתָּ הּ֙ לְ נַפְשָׁ֔ הּ",
+        "LXX": "ἐξαποστελεῖς αὐτὴν ἐλευθέραν ,",
+        "VUL": "dimíttes eam líberam ,",
+        "SP": "ו שׁלחתה ל נפשׁה",
+        "KJV": "then thou shalt let her go whither she will ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "but thou shalt not sell her at all for money",
+      "traditions": {
+        "WLC": "וּ מָכֹ֥ר לֹא תִמְכְּרֶ֖ נָּה בַּ כָּ֑סֶף",
+        "LXX": "καὶ πράσει οὐ πραθήσεται ἀργυρίου ·",
+        "VUL": "nec véndere póteris pecúnia ,",
+        "SP": "ו מכר לא תמכרנה ב כסף",
+        "KJV": "but thou shalt not sell her at all for money ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "thou shalt not make merchandise of her",
+      "traditions": {
+        "WLC": "לֹא תִתְעַמֵּ֣ר בָּ֔ הּ",
+        "LXX": "οὐκ ἀθετήσεις αὐτήν ,",
+        "VUL": "nec opprímere per poténtiam :",
+        "SP": "לא תתעמר בה",
+        "KJV": "thou shalt not make merchandise of her ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "because thou hast humbled her",
+      "traditions": {
+        "WLC": "תַּ֖חַת אֲשֶׁ֥ר עִנִּיתָֽ הּ",
+        "LXX": "διότι ἐταπείνωσας αὐτήν .",
+        "VUL": "quia humiliásti eam .",
+        "SP": "תחת אשׁר ענתה",
+        "KJV": "because thou hast humbled her .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "If a man have two wives",
+      "traditions": {
+        "WLC": "כִּֽי תִהְיֶ֨יןָ לְ אִ֜ישׁ שְׁתֵּ֣י נָשִׁ֗ים",
+        "LXX": "Ἐὰν δὲ γένωνται ἀνθρώπῳ δύο γυναῖκες ,",
+        "VUL": "Si habúerit homo uxóres duas ,",
+        "SP": "כי תהיינה ל אישׁ שׁתי נשׁים",
+        "KJV": "If a man have two wives ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "one beloved , and another hated",
+      "traditions": {
+        "WLC": "הָ אַחַ֤ת אֲהוּבָה֙ וְ הָ אַחַ֣ת שְׂנוּאָ֔ה",
+        "LXX": "μία αὐτῶν ἠγαπημένη καὶ μία αὐτῶν μισουμένη ,",
+        "VUL": "unam diléctam , et álteram odiósam ,",
+        "SP": "אחת אהובה ו אחת שׂנואה",
+        "KJV": "one beloved , and another hated ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they have born him children , [ both ] the beloved and the hated",
+      "traditions": {
+        "WLC": "וְ יָֽלְדוּ ל֣ וֹ בָנִ֔ים הָ אֲהוּבָ֖ה וְ הַ שְּׂנוּאָ֑ה",
+        "LXX": "καὶ τέκωσιν αὐτῷ ἡ ἠγαπημένη καὶ ἡ μισουμένη ,",
+        "VUL": "genueríntque ex eo líberos ,",
+        "SP": "ו ילדו לו בנים ה אהובה ו ה שׂנואה",
+        "KJV": "and they have born him children , [ both ] the beloved and the hated ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and [ if ] the firstborn son be hers that was hated",
+      "traditions": {
+        "WLC": "וְ הָיָ֛ה הַ בֵּ֥ן הַ בְּכ֖וֹר לַ שְּׂנִיאָֽה",
+        "LXX": "καὶ γένηται υἱὸς πρωτότοκος τῆς μισουμένης ·",
+        "VUL": "et fúerit fílius odiósæ primogénitus ,",
+        "SP": "ו היה ה בן ה בכור ל שׂנואה",
+        "KJV": "and [ if ] the firstborn son be hers that was hated :",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then it shall be , when he maketh his sons to inherit [ that ] which he hath",
+      "traditions": {
+        "WLC": "וְ הָיָ֗ה בְּ יוֹם֙ הַנְחִיל֣ וֹ אֶת בָּנָ֔י ו אֵ֥ת אֲשֶׁר יִהְיֶ֖ה ל֑ וֹ",
+        "LXX": "καὶ ἔσται ᾗ ἂν ἡμέρᾳ κατακληρονομῇ τοῖς υἱοῖς αὐτοῦ τὰ ὑπάρχοντα αὐτοῦ ,",
+        "VUL": "voluerítque substántiam inter fílios suos divídere :",
+        "SP": "ו היה ב יום הנחילו את בניו את אשׁר יהיה לו",
+        "KJV": "Then it shall be , when he maketh his sons to inherit [ that ] which he hath , [",
+        "DSS": "ε ו היה ב יום ה ]נח#יל׳ # [ את בני׳ו את אשר יהיה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that he may not make the son of the beloved firstborn",
+      "traditions": {
+        "WLC": "לֹ֣א יוּכַ֗ל לְ בַכֵּר֙ אֶת בֶּן הָ֣ אֲהוּבָ֔ה",
+        "LXX": "οὐ δυνήσεται πρωτοτοκεῦσαι τῷ υἱῷ τῆς ἠγαπημένης ,",
+        "VUL": "non póterit fílium diléctæ fácere primogénitum ,",
+        "SP": "לא יוכל ל בכר את בן ה אהובה",
+        "KJV": "that ] he may not make the son of the beloved firstborn",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "before the son of the hated",
+      "traditions": {
+        "WLC": "עַל פְּנֵ֥י בֶן הַ שְּׂנוּאָ֖ה",
+        "LXX": "ὑπεριδὼν τὸν υἱὸν τῆς μισουμένης",
+        "VUL": "et præférre fílio odiósæ :",
+        "SP": "על פני בן ה שׂנואה",
+        "KJV": "before the son of the hated , [ which is indeed ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ which is indeed ] the firstborn",
+      "traditions": {
+        "WLC": "הַ בְּכֹֽר",
+        "LXX": "τὸν πρωτότοκον ·",
+        "VUL": null,
+        "SP": "ה בכור",
+        "KJV": "the firstborn :",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "But he shall acknowledge the son of the hated [ for ] the firstborn",
+      "traditions": {
+        "WLC": "כִּי֩ אֶת הַ בְּכֹ֨ר בֶּן הַ שְּׂנוּאָ֜ה יַכִּ֗יר",
+        "LXX": "ἀλλὰ τὸν πρωτότοκον υἱὸν τῆς μισουμένης ἐπιγνώσεται",
+        "VUL": "sed fílium odiósæ agnóscet primogénitum ,",
+        "SP": "כי את ה בכור בן ה שׂנואה יכיר",
+        "KJV": "But he shall acknowledge the son of the hated [ for ] the firstborn ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "by giving him a double portion of all that he hath",
+      "traditions": {
+        "WLC": "לָ֤ תֶת ל וֹ֙ פִּ֣י שְׁנַ֔יִם בְּ כֹ֥ל אֲשֶׁר יִמָּצֵ֖א ל֑ וֹ",
+        "LXX": "δοῦναι αὐτῷ διπλᾶ ἀπὸ πάντων ὧν ἂν εὑρεθῇ αὐτῷ ,",
+        "VUL": "dabítque ei de his quæ habúerit cuncta duplícia :",
+        "SP": "ל תת לו פי שׁנים ב כל אשׁר ימצא לו",
+        "KJV": "by giving him a double portion of all that he hath :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for he [ is ] the beginning of his strength",
+      "traditions": {
+        "WLC": "כִּי הוּא֙ רֵאשִׁ֣ית אֹנ֔ וֹ",
+        "LXX": "ὅτι οὗτός ἐστιν ἀρχὴ τέκνων αὐτοῦ ,",
+        "VUL": "iste est enim princípium liberórum eius ,",
+        "SP": "כי הוא ראשׁית אונו",
+        "KJV": "for he [ is ] the beginning of his strength ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the right of the firstborn [ is ] his",
+      "traditions": {
+        "WLC": "ל֖ וֹ מִשְׁפַּ֥ט הַ בְּכֹרָֽה",
+        "LXX": "καὶ τούτῳ καθήκει τὰ πρωτοτοκεῖα .",
+        "VUL": "et huic debéntur primogénita .",
+        "SP": "ו לו משׁפט ה בכורה",
+        "KJV": "the right of the firstborn [ is ] his .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "If a man have a stubborn and rebellious son",
+      "traditions": {
+        "WLC": "כִּֽי יִהְיֶ֣ה לְ אִ֗ישׁ בֵּ֚ן סוֹרֵ֣ר וּ מוֹרֶ֔ה",
+        "LXX": "Ἐὰν δέ τινι ᾖ υἱὸς ἀπειθὴς καὶ ἐρεθιστής ,",
+        "VUL": "Si genúerit homo fílium contumácem et protérvum ,",
+        "SP": "כי יהיה ל אישׁ בן סורר ו מורה",
+        "KJV": "If a man have a stubborn and rebellious son ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which will not obey the voice of his father , or the voice of his mother",
+      "traditions": {
+        "WLC": "אֵינֶ֣ נּוּ שֹׁמֵ֔עַ בְּ ק֥וֹל אָבִ֖י ו וּ בְ ק֣וֹל אִמּ֑ וֹ",
+        "LXX": "οὐχ ὑπακούων φωνὴν πατρὸς καὶ φωνὴν μητρός ,",
+        "VUL": "qui non áudiat patris aut matris impérium ,",
+        "SP": "איננו שׁמע ב קול אביו ו ב קול אמו",
+        "KJV": "which will not obey the voice of his father , or the voice of his mother ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and [ that ] , when they have chastened him",
+      "traditions": {
+        "WLC": "וְ יסְּר֣וּ אֹת֔ וֹ",
+        "LXX": "καὶ παιδεύσωσιν αὐτὸν",
+        "VUL": "et coércitus",
+        "SP": "ו יסרו אתו",
+        "KJV": "and [ that ] , when they have chastened him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "will not hearken unto them",
+      "traditions": {
+        "WLC": "וְ לֹ֥א יִשְׁמַ֖ע אֲלֵי הֶֽם",
+        "LXX": "καὶ μὴ εἰσακούῃ αὐτῶν ·",
+        "VUL": "obedíre contémpserit :",
+        "SP": "ו לא ישׁמע אליהם",
+        "KJV": "will not hearken unto them :",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then shall his father and his mother lay hold on him",
+      "traditions": {
+        "WLC": "וְ תָ֥פְשׂוּ ב֖ וֹ אָבִ֣י ו וְ אִמּ֑ וֹ",
+        "LXX": "καὶ συλλαβόντες αὐτὸν ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ αὐτοῦ",
+        "VUL": "apprehéndent eum ,",
+        "SP": "ו תפשׂ בו אביו ו אמו",
+        "KJV": "Then shall his father and his mother lay hold on him ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and bring him out unto the elders of his city",
+      "traditions": {
+        "WLC": "וְ הוֹצִ֧יאוּ אֹת֛ וֹ אֶל זִקְנֵ֥י עִיר֖ וֹ",
+        "LXX": "καὶ ἐξάξουσιν αὐτὸν ἐπὶ τὴν γερουσίαν τῆς πόλεως αὐτοῦ",
+        "VUL": "et ducent ad senióres civitátis illíus ,",
+        "SP": "ו הוציאו אתו אל זקני עירו",
+        "KJV": "and bring him out unto the elders of his city ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and unto the gate of his place",
+      "traditions": {
+        "WLC": "וְ אֶל שַׁ֥עַר מְקֹמֽ וֹ",
+        "LXX": "καὶ ἐπὶ τὴν πύλην τοῦ τόπου ,",
+        "VUL": "et ad portam iudícii ,",
+        "SP": "אל שׁער מקומו",
+        "KJV": "and unto the gate of his place ;",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they shall say unto the elders of his city",
+      "traditions": {
+        "WLC": "וְ אָמְר֞וּ אֶל זִקְנֵ֣י עִיר֗ וֹ",
+        "LXX": "καὶ ἐροῦσιν τοῖς ἀνδράσιν τῆς πόλεως αὐτῶν",
+        "VUL": "dicéntque ad eos :",
+        "SP": "ו אמרו אל אנשׁי עירו",
+        "KJV": "And they shall say unto the elders of his city ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "This our son [ is ] stubborn and rebellious",
+      "traditions": {
+        "WLC": "בְּנֵ֤ נוּ זֶה֙ סוֹרֵ֣ר וּ מֹרֶ֔ה",
+        "LXX": "Ὁ υἱὸς ἡμῶν οὗτος ἀπειθεῖ καὶ ἐρεθίζει ,",
+        "VUL": "Fílius noster iste protérvus et cóntumax est :",
+        "SP": "בננו זה סורר ו מורה",
+        "KJV": "This our son [ is ] stubborn and rebellious ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he will not obey our voice",
+      "traditions": {
+        "WLC": "אֵינֶ֥ נּוּ שֹׁמֵ֖עַ בְּ קֹלֵ֑ נוּ",
+        "LXX": "οὐχ ὑπακούει τῆς φωνῆς ἡμῶν ,",
+        "VUL": "mónita nostra audíre contémnit ,",
+        "SP": "איננו שׁמע ב קולנו",
+        "KJV": "he will not obey our voice ; [ he is ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ he is ] a glutton , and a drunkard",
+      "traditions": {
+        "WLC": "זוֹלֵ֖ל וְ סֹבֵֽא",
+        "LXX": "συμβολοκοπῶν οἰνοφλυγεῖ ·",
+        "VUL": "comessatiónibus vacat , et luxúriæ atque convíviis :",
+        "SP": "זולל ו סובה",
+        "KJV": "a glutton , and a drunkard .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And all the men of his city shall stone him with stones",
+      "traditions": {
+        "WLC": "וּ֠ רְגָמֻ הוּ כָּל אַנְשֵׁ֨י עִיר֤ וֹ בָֽ אֲבָנִים֙",
+        "LXX": "καὶ λιθοβολήσουσιν αὐτὸν οἱ ἄνδρες τῆς πόλεως αὐτοῦ ἐν λίθοις ,",
+        "VUL": "lapídibus eum óbruet pópulus civitátis ,",
+        "SP": "ו רגמהו כל אנשׁי עירו ב אבנים",
+        "KJV": "And all the men of his city shall stone him with stones ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that he die : so shalt thou put evil away from among you",
+      "traditions": {
+        "WLC": "וָ מֵ֔ת וּ בִֽעַרְתָּ֥ הָ רָ֖ע מִ קִּרְבֶּ֑ ךָ",
+        "LXX": "καὶ ἀποθανεῖται · καὶ ἐξαρεῖς τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν ,",
+        "VUL": "et moriétur , ut auferátis malum de médio vestri ,",
+        "SP": "ו מת ו בערת ה רע מ קרבך",
+        "KJV": "that he die : so shalt thou put evil away from among you ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and all Israel shall hear , and fear",
+      "traditions": {
+        "WLC": "וְ כָל יִשְׂרָאֵ֖ל יִשְׁמְע֥וּ וְ יִרָֽאוּ",
+        "LXX": "καὶ οἱ ἐπίλοιποι ἀκούσαντες φοβηθήσονται .",
+        "VUL": "et univérsus Israel áudiens pertiméscat .",
+        "SP": "ו כל ישׂראל ישׁמעו ו ייראו",
+        "KJV": "and all Israel shall hear , and fear .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if a man have committed a sin worthy of death",
+      "traditions": {
+        "WLC": "וְ כִֽי יִהְיֶ֣ה בְ אִ֗ישׁ חֵ֛טְא מִשְׁפַּט מָ֖וֶת",
+        "LXX": "Ἐὰν δὲ γένηται ἔν τινι ἁμαρτία κρίμα θανάτου ,",
+        "VUL": "Quando peccáverit homo quod morte plecténdum est ,",
+        "SP": "כי יהיה ב אישׁ חטא משׁפט מות",
+        "KJV": "And if a man have committed a sin worthy of death ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he be to be put to death",
+      "traditions": {
+        "WLC": "וְ הוּמָ֑ת",
+        "LXX": "καὶ ἀποθάνῃ ,",
+        "VUL": "et adiudicátus morti",
+        "SP": "ו הומת",
+        "KJV": "and he be to be put to death ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thou hang him on a tree",
+      "traditions": {
+        "WLC": "וְ תָלִ֥יתָ אֹת֖ וֹ עַל עֵֽץ",
+        "LXX": "καὶ κρεμάσητε αὐτὸν ἐπὶ ξύλου ·",
+        "VUL": "appénsus fúerit in patíbulo :",
+        "SP": "ו תלית אתו על ה עץ",
+        "KJV": "and thou hang him on a tree :",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "His body shall not remain all night upon the tree",
+      "traditions": {
+        "WLC": "לֹא תָלִ֨ין נִבְלָת֜ וֹ עַל הָ עֵ֗ץ",
+        "LXX": "οὐ κοιμηθήσεται τὸ σῶμα αὐτοῦ ἐπὶ τοῦ ξύλου ,",
+        "VUL": "non permanébit cadáver eius in ligno ,",
+        "SP": "לא תלין נבלתו על ה עץ",
+        "KJV": "His body shall not remain all night upon the tree ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but thou shalt in any wise bury him that day",
+      "traditions": {
+        "WLC": "כִּֽי קָב֤וֹר תִּקְבְּרֶ֨ נּוּ֙ בַּ יּ֣וֹם הַ ה֔וּא",
+        "LXX": "ἀλλὰ ταφῇ θάψετε αὐτὸ ἐν τῇ ἡμέρᾳ ἐκείνῃ ,",
+        "VUL": "sed in eádem die sepeliétur :",
+        "SP": "כי קבר תקברנו ב יום ה הוא",
+        "KJV": "but thou shalt in any wise bury him that day ; (",
+        "DSS": "[ 4Q36] [ ב יום ה הוא"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for he that is hanged [ is ] accursed of God",
+      "traditions": {
+        "WLC": "כִּֽי קִלְלַ֥ת אֱלֹהִ֖ים תָּל֑וּי",
+        "LXX": "ὅτι κεκαταραμένος ὑπὸ θεοῦ πᾶς κρεμάμενος ἐπὶ ξύλου ·",
+        "VUL": "quia maledíctus a Deo est qui pendet in ligno :",
+        "SP": "כי קללת אלהים תלאוי",
+        "KJV": "for he that is hanged [ is ] accursed of God ; )",
+        "DSS": "כי קללת אלהים תלוי"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that thy land be not defiled , which the LORD thy God giveth thee [ for ] an inheritance",
+      "traditions": {
+        "WLC": "וְ לֹ֤א תְטַמֵּא֙ אֶת אַדְמָ֣תְ ךָ֔ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔י ךָ נֹתֵ֥ן לְ ךָ֖ נַחֲלָֽה",
+        "LXX": "καὶ οὐ μιανεῖτε τὴν γῆν ἣν Κύριος ὁ θεός σου δίδωσίν σοι ἐν κλήρῳ .",
+        "VUL": "et nequáquam contaminábis terram tuam , quam Dóminus Deus tuus déderit tibi in possessiónem .",
+        "SP": "ו לא תטמא את אדמתך אשׁר יהוה אלהיך נתן לך נחלה",
+        "KJV": "that thy land be not defiled , which the LORD thy God giveth thee [ for ] an inheritance .",
+        "DSS": "ו לא תטמא את אדמת׳ך אשר יהוה אלהי ]׳ך## נ#?ת##ן#?[ ל ]׳ך## [ נחלה ׃"
+      }
+    }
+  ]
+}

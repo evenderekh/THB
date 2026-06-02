@@ -1,0 +1,930 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Woe to her that is filthy and polluted ,",
+      "traditions": {
+        "WLC": "ה֥וֹי מֹרְאָ֖ה וְ נִגְאָלָ֑ה",
+        "LXX": "Αὕτη ἡ πόλις ἡ φαυλίστρια , ἡ κατοικοῦσα ἐπ᾽ ἐλπίδι ,",
+        "VUL": "Væ provocátrix , et redémpta cívitas ,",
+        "SP": null,
+        "KJV": "Woe to her that is filthy and polluted ,",
+        "DSS": "[4Q78] הוי מראה ו נגאלה ] / [Mur88] [ הוי מר ]אה ו נג?א#לה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to the oppressing city !",
+      "traditions": {
+        "WLC": "הָ עִ֖יר הַ יּוֹנָֽה",
+        "LXX": "ἡ λέγουσα ἐν καρδίᾳ αὐτῆς Ἐγώ εἰμι , καὶ οὐκ ἔστιν μετ᾽ ἐμὲ ἔτι . πῶς ἐγενήθη εἰς ἀφανισμόν , νομὴ θηρίων · πᾶς ὁ διαπορευόμενος δι᾽ αὐτῆς συριεῖ καὶ κινήσει τὰς χεῖρας αὐτοῦ .",
+        "VUL": "colúmba .",
+        "SP": null,
+        "KJV": "to the oppressing city !",
+        "DSS": "[4Q78] [ ה עיר ה יונה ׃ / [Mur88] ה עיר ה יונה ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "She obeyed not the voice ;",
+      "traditions": {
+        "WLC": "לֹ֤א שָֽׁמְעָה֙ בְּ ק֔וֹל",
+        "LXX": "ὢ ἡ ἐπιφανὴς , καὶ ἀπολελυτρωμένη πόλις , ἡ περιστερά · οὐκ εἰσήκουσεν φωνῆς ,",
+        "VUL": "Non audívit vocem ,",
+        "SP": null,
+        "KJV": "She obeyed not the voice ;",
+        "DSS": "[4Q78] לא שמעה ב קול / [Mur88] לא ש##מ##[ עה ] ב## קו?ל#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "she received not correction ;",
+      "traditions": {
+        "WLC": "לֹ֥א לָקְחָ֖ה מוּסָ֑ר",
+        "LXX": "οὐκ ἐδέξατο παιδίαν ,",
+        "VUL": "et non suscépit disciplínam :",
+        "SP": null,
+        "KJV": "she received not correction ;",
+        "DSS": "[4Q78] לא לקחה מוסר ] / [Mur88] ל[ א לקח ]ה מוסר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "she trusted not in the LORD ;",
+      "traditions": {
+        "WLC": "בַּֽ יהוָה֙ לֹ֣א בָטָ֔חָה",
+        "LXX": "ἐπὶ τῷ κυρίῳ οὐκ ἐπεποίθει ,",
+        "VUL": "in Dómino non est confísa ,",
+        "SP": null,
+        "KJV": "she trusted not in the LORD ;",
+        "DSS": "[4Q78] ב יהוה לוא בט[ חה / [Mur88] [ ב יהו ]ה לא בטחה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "she drew not near to her God .",
+      "traditions": {
+        "WLC": "אֶל אֱלֹהֶ֖י הָ לֹ֥א קָרֵֽבָה",
+        "LXX": "καὶ πρὸς τὸν θεὸν αὐτῆς οὐκ ἤγγισεν .",
+        "VUL": "ad Deum suum non appropinquávit .",
+        "SP": null,
+        "KJV": "she drew not near to her God .",
+        "DSS": "[4Q78] אל ] [ אלהי׳ה לא קרבה ׃ / [Mur88] אל אלהי׳ה לא קרבה ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Her princes within her [ are ] roaring lions",
+      "traditions": {
+        "WLC": "שָׂרֶ֣י הָ בְ קִרְבָּ֔ הּ אֲרָי֖וֹת שֹֽׁאֲגִ֑ים",
+        "LXX": "οἱ ἄρχοντες αὐτῆς ἐν αὐτῇ ὡς λέοντες ὠρυόμενοι ·",
+        "VUL": "Príncipes eius in médio eius quasi leónes rugiéntes :",
+        "SP": null,
+        "KJV": "Her princes within her [ are ] roaring lions ;",
+        "DSS": "[Mur88] שרי׳ה ב ק##[ רב׳ה אר ]יו?ת## ש#אגי?ם##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "her judges [ are ] evening wolves",
+      "traditions": {
+        "WLC": "שֹׁפְטֶ֨י הָ֙ זְאֵ֣בֵי עֶ֔רֶב",
+        "LXX": "οἱ κριταὶ αὐτῆς ὡς λύκοι τῆς Ἀραβίας ,",
+        "VUL": "iúdices eius lupi véspere ,",
+        "SP": null,
+        "KJV": "her judges [ are ] evening wolves ;",
+        "DSS": "[Mur88] [ שפטי׳ה ] זאבי ערב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they gnaw not the bones till the morrow",
+      "traditions": {
+        "WLC": "לֹ֥א גָרְמ֖וּ לַ בֹּֽקֶר",
+        "LXX": "οὐχ ὑπελίποντο εἰς τὸ πρωί ·",
+        "VUL": "non relinquébant in mane .",
+        "SP": null,
+        "KJV": "they gnaw not the bones till the morrow .",
+        "DSS": "[4Q82] ע[ רב לא גרמו ל בקר ׃ / [Mur88] לא גרמו ל בקר ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Her prophets [ are ] light [ and ] treacherous persons",
+      "traditions": {
+        "WLC": "נְבִיאֶ֨י הָ֙ פֹּֽחֲזִ֔ים אַנְשֵׁ֖י בֹּֽגְד֑וֹת",
+        "LXX": "οἱ προφῆται αὐτῆς πνευματοφόροι , ἄνδρες καταφρονηταὶ ·",
+        "VUL": "Prophétæ eius vesáni , viri infidéles :",
+        "SP": null,
+        "KJV": "Her prophets [ are ] light [ and ] treacherous persons :",
+        "DSS": "[4Q82] נביאי׳ה פחזים אנשי בגדות ] [Mur88] נ?ב#י?א#[ י ]׳ה פחזים א##[ נ ]ש##이#? ב##ג?[ דות ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "her priests have polluted the sanctuary",
+      "traditions": {
+        "WLC": "כֹּהֲנֶ֨י הָ֙ חִלְּלוּ קֹ֔דֶשׁ",
+        "LXX": "οἱ ἱερεῖς αὐτῆς βεβηλοῦσιν τὰ ἅγια",
+        "VUL": "sacerdótes eius polluérunt sanctum ,",
+        "SP": null,
+        "KJV": "her priests have polluted the sanctuary ,",
+        "DSS": "[4Q82] כהני׳ה חללו קדש ] [Mur88] כ##ה#נ#?י#?׳[ ה ] [ חללו קדש ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they have done violence to the law",
+      "traditions": {
+        "WLC": "חָמְס֖וּ תּוֹרָֽה",
+        "LXX": "καὶ ἀσεβοῦσιν νόμον .",
+        "VUL": "iniúste egérunt contra legem .",
+        "SP": null,
+        "KJV": "they have done violence to the law .",
+        "DSS": "[4Q82] חמ[ סו תורה ׃ / [Mur88] חמסו תורה ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "The just LORD [ is ] in the midst thereof",
+      "traditions": {
+        "WLC": "יְהוָ֤ה צַדִּיק֙ בְּ קִרְבָּ֔ הּ",
+        "LXX": "ὁ δὲ κύριος δίκαιος ἐν μέσῳ αὐτῆς",
+        "VUL": "Dóminus iustus in médio eius",
+        "SP": null,
+        "KJV": "The just LORD [ is ] in the midst thereof ;",
+        "DSS": "[4Q82] יהוה צדיק ב קרב׳ה ] [Mur88] יה##[ ו ]ה## צדיק ב## [ קרב׳ה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he will not do iniquity",
+      "traditions": {
+        "WLC": "לֹ֥א יַעֲשֶׂ֖ה עַוְלָ֑ה",
+        "LXX": "καὶ οὐ μὴ ποιήσῃ ἄδικον ·",
+        "VUL": "non fáciet iniquitátem :",
+        "SP": null,
+        "KJV": "he will not do iniquity :",
+        "DSS": "[4Q82] לא יעשה עולה ] [Mur88] ל ]א## י?ע#שה#[ עולה ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "every morning doth he bring his judgment to light",
+      "traditions": {
+        "WLC": "בַּ בֹּ֨קֶר בַּ בֹּ֜קֶר מִשְׁפָּט֨ וֹ יִתֵּ֤ן לָ אוֹר֙",
+        "LXX": "πρωὶ πρωὶ δώσει κρίμα αὐτοῦ εἰς φῶς ,",
+        "VUL": "mane mane iudícium suum dabit in lucem ,",
+        "SP": null,
+        "KJV": "every morning doth he bring his judgment to light ,",
+        "DSS": "[4Q82] ב בקר ב בקר משפט׳ו יתן ל אור ] [Mur88] ב בקר ב בקר ] [ משפ ]ט##׳ו#? [ י ]ת#ן#? ל אור#"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "he faileth not",
+      "traditions": {
+        "WLC": "לֹ֣א נֶעְדָּ֔ר",
+        "LXX": "καὶ οὐκ ἀπεκρύβη",
+        "VUL": "et non abscondétur :",
+        "SP": null,
+        "KJV": "he faileth not ;",
+        "DSS": "[4Q82] לא##[ נעדר ] [Mur88] ל##[ א נ ]עדר"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "but the unjust knoweth no shame",
+      "traditions": {
+        "WLC": "וְ לֹֽא יוֹדֵ֥עַ עַוָּ֖ל בֹּֽשֶׁת",
+        "LXX": "καὶ οὐκ ἔγνω ἀδικίαν ἐν ἀπαιτήσει , καὶ οὐκ εἰς νῖκος ἀδικίαν .",
+        "VUL": "nescívit autem iníquus confusiónem .",
+        "SP": null,
+        "KJV": "but the unjust knoweth no shame .",
+        "DSS": "[4Q82] ו לא יודע עול בשת ׃ / [Mur88] [ ו לא יודע ] ע##ו?ל[ בשת ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "I have cut off the nations",
+      "traditions": {
+        "WLC": "הִכְרַ֣תִּי גוֹיִ֗ם",
+        "LXX": "ἐν διαφθορᾷ κατέσπασα ὑπερηφάνους ,",
+        "VUL": "Dispérdidi gentes ,",
+        "SP": null,
+        "KJV": "I have cut off the nations :",
+        "DSS": "[Mur88] הכרתי גוים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "their towers are desolate",
+      "traditions": {
+        "WLC": "נָשַׁ֨מּוּ֙ פִּנּוֹתָ֔ ם",
+        "LXX": "ἠφανίσθησαν γωνίαι αὐτῶν ·",
+        "VUL": "et dissipáti sunt ánguli eárum :",
+        "SP": null,
+        "KJV": "their towers are desolate ;",
+        "DSS": "[Mur88] נשמו ] [ פנות׳ם ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I made their streets waste , that none passeth by",
+      "traditions": {
+        "WLC": "הֶחֱרַ֥בְתִּי חֽוּצוֹתָ֖ ם מִ בְּלִ֣י עוֹבֵ֑ר",
+        "LXX": "ἐξερημώσω τάς ὁδοὺς αὐτῶν τὸ παράπαν τοῦ μή διοδεύειν ·",
+        "VUL": "desértas feci vias eórum , dum non est qui tránseat :",
+        "SP": null,
+        "KJV": "I made their streets waste , that none passeth by :",
+        "DSS": "[Mur88] החרבתי חוצות׳ם מ ב ]ל##[ י עובר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "their cities are destroyed , so that there is no man , that there is none inhabitant",
+      "traditions": {
+        "WLC": "נִצְדּ֧וּ עָרֵי הֶ֛ם מִ בְּלִי אִ֖ישׁ מֵ אֵ֥ין יוֹשֵֽׁב",
+        "LXX": "ἐξέλιπον αἱ πόλεις αὐτῶν παρὰ τὸ μηδένα ὑπάρχειν μηδὲ κατοικεῖν .",
+        "VUL": "desolátæ sunt civitátes eórum , non remanénte viro , neque ullo habitatóre .",
+        "SP": null,
+        "KJV": "their cities are destroyed , so that there is no man , that there is none inhabitant .",
+        "DSS": "[Mur88] נצדו ערי׳הם מ בלי איש מ אין יושב ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "I said , Surely thou wilt fear me",
+      "traditions": {
+        "WLC": "אָמַ֜רְתִּי אַךְ תִּירְאִ֤י אוֹתִ י֙",
+        "LXX": "εἶπα Πλὴν φοβεῖσθέ με",
+        "VUL": "Dixi : Attamen timébis me ,",
+        "SP": null,
+        "KJV": "I said , Surely thou wilt fear me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou wilt receive instruction",
+      "traditions": {
+        "WLC": "תִּקְחִ֣י מוּסָ֔ר",
+        "LXX": "καὶ δέξασθε παιδείαν ,",
+        "VUL": "suscípies disciplínam :",
+        "SP": null,
+        "KJV": "thou wilt receive instruction ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "so their dwelling should not be cut off , howsoever I punished them",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִכָּרֵ֣ת מְעוֹנָ֔ הּ כֹּ֥ל אֲשֶׁר פָּקַ֖דְתִּי עָלֶ֑י הָ",
+        "LXX": "καὶ οὐ μὴ ἐξολοθρευθῆτε ἐξ ὀφθαλμῶν αὐτῆς , πάντα ὅσα ἐξεδίκησα ἐπ᾽ αὐτήν ·",
+        "VUL": "et non períbit habitáculum eius propter ómnia , in quibus visitávi eam :",
+        "SP": null,
+        "KJV": "so their dwelling should not be cut off , howsoever I punished them :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "but they rose early , [ and ] corrupted all their doings",
+      "traditions": {
+        "WLC": "אָכֵן֙ הִשְׁכִּ֣ימוּ הִשְׁחִ֔יתוּ כֹּ֖ל עֲלִילוֹתָֽ ם",
+        "LXX": "ἑτοιμάζου ὄρθρισον , ἔφθαρται πᾶσα ἡ ἐπιφυλλὶς αὐτῶν .",
+        "VUL": "verúmtamen dilúculo surgéntes corrupérunt omnes cogitatiónes suas .",
+        "SP": null,
+        "KJV": "but they rose early , [ and ] corrupted all their doings .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore wait ye upon me , saith the LORD",
+      "traditions": {
+        "WLC": "לָ כֵ֤ן חַכּוּ לִ י֙ נְאֻם יְהוָ֔ה",
+        "LXX": "Διὰ τοῦτο ὑπόμεινόν με , λέγει Κύριος ,",
+        "VUL": "Quaprópter exspécta me , dicit Dóminus ,",
+        "SP": null,
+        "KJV": "Therefore wait ye upon me , saith the LORD ,",
+        "DSS": "[Mur88] [ ל כן חכו ל׳י נאם יהוה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "until the day that I rise up to the prey",
+      "traditions": {
+        "WLC": "לְ י֖וֹם קוּמִ֣ י לְ עַ֑ד",
+        "LXX": "εἰς ἡμέραν ἀναστάσεώς μου εἰς μαρτύριον ·",
+        "VUL": "in die resurrectiónis meæ in futúrum ,",
+        "SP": null,
+        "KJV": "until the day that I rise up to the prey :",
+        "DSS": "[Mur88] ל יום קומ׳이 ]ל עד"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for my determination [ is ] to gather the nations , that I may assemble the kingdoms",
+      "traditions": {
+        "WLC": "כִּ֣י מִשְׁפָּטִ י֩ לֶ אֱסֹ֨ף גּוֹיִ֜ם לְ קָבְצִ֣ י מַמְלָכ֗וֹת",
+        "LXX": "διότι τὸ κρίμα μου εἰς συναγωγὰς ἐθνῶν , τοῦ εἰσδέξασθαι βασιλεῖς ,",
+        "VUL": "quia iudícium meum ut cóngregem gentes , et cólligam regna :",
+        "SP": null,
+        "KJV": "for my determination [ is ] to gather the nations , that I may assemble the kingdoms ,",
+        "DSS": "[Mur88] כ##י משפ#ט׳이#? ל אס#ף## גו?이?ם [ ל קבצ׳이 ממלכות ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "to pour upon them mine indignation , [ even ] all my fierce anger",
+      "traditions": {
+        "WLC": "לִ שְׁפֹּ֨ךְ עֲלֵי הֶ֤ם זַעְמִ י֙ כֹּ֚ל חֲר֣וֹן אַפִּ֔ י",
+        "LXX": "τοῦ ἐκχέαι ἐπ᾽ αὐτοὺς πᾶσαν ὀργὴν θυμοῦ μου ·",
+        "VUL": "et effúndam super eos indignatiónem meam , omnem iram furóris mei :",
+        "SP": null,
+        "KJV": "to pour upon them mine indignation , [ even ] all my fierce anger :",
+        "DSS": "[Mur88] ל שפך עלי׳ה ]ם זע##מ׳이 כל חר##ון#? אפ׳이"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "for all the earth shall be devoured with the fire of my jealousy",
+      "traditions": {
+        "WLC": "כִּ֚י בְּ אֵ֣שׁ קִנְאָתִ֔ י תֵּאָכֵ֖ל כָּל הָ אָֽרֶץ",
+        "LXX": "διότι ἐν πυρὶ ζήλους μου καταναλωθήσεται πᾶσα ἡ γῆ .",
+        "VUL": "in igne enim zeli mei devorábitur omnis terra .",
+        "SP": null,
+        "KJV": "for all the earth shall be devoured with the fire of my jealousy .",
+        "DSS": "[Mur88] כ##이#? ב אש קנאת׳이 [ ת아כל כל ה ארץ ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "For then will I turn to the people a pure language",
+      "traditions": {
+        "WLC": "כִּֽי אָ֛ז אֶהְפֹּ֥ךְ אֶל עַמִּ֖ים שָׂפָ֣ה בְרוּרָ֑ה",
+        "LXX": "ὅτι τότε μεταστρέψω ἐπὶ λαοὺς γλῶσσαν εἰς γενεὰν αὐτῆς ,",
+        "VUL": "Quia tunc reddam pópulis lábium eléctum ,",
+        "SP": null,
+        "KJV": "For then will I turn to the people a pure language ,",
+        "DSS": "[Mur88] כי אז אהפך ]ע#ל ה עמים שפה ברורה#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that they may all call upon the name of the LORD",
+      "traditions": {
+        "WLC": "לִ קְרֹ֤א כֻלָּ ם֙ בְּ שֵׁ֣ם יְהוָ֔ה",
+        "LXX": "τοῦ ἐπικαλεῖσθαι πάντας τὸ ὄνομα Κυρίου ,",
+        "VUL": "ut ínvocent omnes in nómine Dómini ,",
+        "SP": null,
+        "KJV": "that they may all call upon the name of the LORD ,",
+        "DSS": "[Mur88] ל ק##ר##א כל׳ם [ ב שם יהוה ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to serve him with one consent",
+      "traditions": {
+        "WLC": "לְ עָבְד֖ וֹ שְׁכֶ֥ם אֶחָֽד",
+        "LXX": "τοῦ δουλεύειν αὐτῷ ὑπὸ ζυγὸν ἕνα .",
+        "VUL": "et sérviant ei húmero uno .",
+        "SP": null,
+        "KJV": "to serve him with one consent .",
+        "DSS": "[Mur88] ל עבד׳ו ש ]כ##ם אחד## ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "From beyond the rivers of Ethiopia",
+      "traditions": {
+        "WLC": "מֵ עֵ֖בֶר לְ נַֽהֲרֵי כ֑וּשׁ",
+        "LXX": "ἐκ περάτων ποταμῶν Αἰθιοπίας",
+        "VUL": "Ultra flúmina Æthiópiæ ,",
+        "SP": null,
+        "KJV": "From beyond the rivers of Ethiopia",
+        "DSS": "[Mur88] מ עבר ל נ?ה##ר##이? כוש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "my suppliants , [ even ] the daughter of my dispersed",
+      "traditions": {
+        "WLC": "עֲתָרַ י֙ בַּת פוּצַ֔ י",
+        "LXX": "προσδέξομαι ἐν διεσπαρμένοις μου ,",
+        "VUL": "inde súpplices mei , fílii dispersórum meórum",
+        "SP": null,
+        "KJV": "my suppliants , [ even ] the daughter of my dispersed ,",
+        "DSS": "[Mur88] ע#תר#׳이 ב##ת## פוצ׳이"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "shall bring mine offering",
+      "traditions": {
+        "WLC": "יוֹבִל֖וּ ן מִנְחָתִֽ י",
+        "LXX": "οἴσουσιν θυσίας μοι .",
+        "VUL": "déferent munus mihi .",
+        "SP": null,
+        "KJV": "shall bring mine offering .",
+        "DSS": "[Mur88] י#?ו#?ב##(^ ל ^)ו׳ן [ מנחת׳이 ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "In that day",
+      "traditions": {
+        "WLC": "בַּ יּ֣וֹם הַ ה֗וּא",
+        "LXX": "ἐν τῇ ἡμέρᾳ ἐκείνῃ",
+        "VUL": "In die illa",
+        "SP": null,
+        "KJV": "In that day",
+        "DSS": "ב יום ה הוא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shalt thou not be ashamed for all thy doings , wherein thou hast transgressed against me",
+      "traditions": {
+        "WLC": "לֹ֤א תֵב֨וֹשִׁי֙ מִ כֹּ֣ל עֲלִילֹתַ֔יִ ךְ אֲשֶׁ֥ר פָּשַׁ֖עַתְּ בִּ֑ י",
+        "LXX": "οὐ μὴ καταισχυνθῇς ἐκ πάντων τῶν ἐπιτηδευμάτων σου ὧν ἠσέβησας εἰς ἐμέ ·",
+        "VUL": "non confundéris super cunctis adinventiónibus tuis , quibus prævaricáta es in me :",
+        "SP": null,
+        "KJV": "shalt thou not be ashamed for all thy doings , wherein thou hast transgressed against me :",
+        "DSS": "]ל##א ת##בושי? מ# [ כ ]ל ע##ל#י?לו?תי׳ך אשר# פשעת ב׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for then I will take away out of the midst of thee them that rejoice in thy pride",
+      "traditions": {
+        "WLC": "כִּי אָ֣ז אָסִ֣יר מִ קִּרְבֵּ֗ ךְ עַלִּיזֵי֙ גַּאֲוָתֵ֔ ךְ",
+        "LXX": "ὅτι τότε περιελῶ ἀπὸ σοῦ τὰ φαυλίσματα τῆς ὕβρεώς σου ,",
+        "VUL": "quia tunc áuferam de médio tui magníloquos supérbiæ tuæ ,",
+        "SP": null,
+        "KJV": "for then I will take away out of the midst of thee them that rejoice in thy pride ,",
+        "DSS": "כ##י#? א##ז#? [ אסיר מ קרב׳ך עליזי גאו ]ת׳ך#"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and thou shalt no more be haughty because of my holy mountain",
+      "traditions": {
+        "WLC": "וְ לֹֽא תוֹסִ֧פִי לְ גָבְהָ֛ה ע֖וֹד בְּ הַ֥ר קָדְשִֽׁ י",
+        "LXX": "καὶ οὐκέτι μὴ προσθῇς τοῦ μεγαλαυχῆσαι ἐπὶ τὸ ὄρος τὸ ἅγιόν μου .",
+        "VUL": "et non adícies exaltári ámplius in monte sancto meo .",
+        "SP": null,
+        "KJV": "and thou shalt no more be haughty because of my holy mountain .",
+        "DSS": "ו לא# ת##ו(# ס##פ #)י ל ג#?בה##׳ה עוד ב הר קדש׳י ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will also leave in the midst of thee an afflicted and poor people",
+      "traditions": {
+        "WLC": "וְ הִשְׁאַרְתִּ֣י בְ קִרְבֵּ֔ ךְ עַ֥ם עָנִ֖י וָ דָ֑ל",
+        "LXX": "καὶ ὑπολείψομαι ἐν σοὶ λαὸν πρᾳὺν καὶ ταπεινόν ,",
+        "VUL": "Et derelínquam in médio tui pópulum páuperem , et egénum :",
+        "SP": null,
+        "KJV": "I will also leave in the midst of thee an afflicted and poor people ,",
+        "DSS": "[Mur88] [ ו השארתי ב קרב׳ך עם ע ]נ#?י ו דל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they shall trust in the name of the LORD",
+      "traditions": {
+        "WLC": "וְ חָס֖וּ בְּ שֵׁ֥ם יְהוָֽה",
+        "LXX": "καὶ εὐλαβηθήσονται ἀπὸ τοῦ ὀνόματος Κυρίου .",
+        "VUL": "et sperábunt in nómine Dómini .",
+        "SP": null,
+        "KJV": "and they shall trust in the name of the LORD .",
+        "DSS": "ו חסו ב שם## י?ה#וה ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "The remnant of Israel shall not do iniquity",
+      "traditions": {
+        "WLC": "שְׁאֵרִ֨ית יִשְׂרָאֵ֜ל לֹֽא יַעֲשׂ֤וּ עַוְלָה֙",
+        "LXX": "οἱ κατάλοιποι τοῦ Ἰσραήλ , καὶ οὐ ποιήσουσιν ἀδικίαν",
+        "VUL": "Relíquiæ Israel non fácient iniquitátem ,",
+        "SP": null,
+        "KJV": "The remnant of Israel shall not do iniquity ,",
+        "DSS": "[Mur88] [ שא ]ר#י?ת# [ י ]ש#ראל לא [ יעשו עולה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "nor speak lies",
+      "traditions": {
+        "WLC": "וְ לֹא יְדַבְּר֣וּ כָזָ֔ב",
+        "LXX": "καὶ οὐ λαλήσουσιν μάταια ,",
+        "VUL": "nec loquéntur mendácium ,",
+        "SP": null,
+        "KJV": "nor speak lies ;",
+        "DSS": "ו לא ידברו כז ]ב##"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither shall a deceitful tongue be found in their mouth",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִמָּצֵ֥א בְּ פִי הֶ֖ם לְשׁ֣וֹן תַּרְמִ֑ית",
+        "LXX": "καὶ οὐ μὴ εὑρεθῇ ἐν τῷ στόματι αὐτῶν γλῶσσα δολία ·",
+        "VUL": "et non inveniétur in ore eórum lingua dolósa :",
+        "SP": null,
+        "KJV": "neither shall a deceitful tongue be found in their mouth :",
+        "DSS": "ו לא ימ#צ#א ב פ#י׳הם לשו?ן? ת#ר#מ#י?ת#"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for they shall feed and lie down",
+      "traditions": {
+        "WLC": "כִּֽי הֵ֛מָּה יִרְע֥וּ וְ רָבְצ֖וּ",
+        "LXX": "διότι αὐτοὶ νεμήσονται καὶ κοιτασθήσονται ,",
+        "VUL": "quóniam ipsi pascéntur , et accubábunt ,",
+        "SP": null,
+        "KJV": "for they shall feed and lie down ,",
+        "DSS": "[ כי ] ה#מה [ ירעו ו ר ]ב##צו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and none shall make [ them ] afraid",
+      "traditions": {
+        "WLC": "וְ אֵ֥ין מַחֲרִֽיד",
+        "LXX": "καὶ οὐκ ἔσται ὁ ἐκφοβῶν αὐτούς .",
+        "VUL": "et non erit qui extérreat .",
+        "SP": null,
+        "KJV": "and none shall make [ them ] afraid .",
+        "DSS": "ו אין מ##ח#ר#י?ד# ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Sing , O daughter of Zion",
+      "traditions": {
+        "WLC": "רָנִּי֙ בַּת צִיּ֔וֹן",
+        "LXX": "Χαῖρε , θύγατερ Σειών ,",
+        "VUL": "Lauda fília Sion :",
+        "SP": null,
+        "KJV": "Sing , O daughter of Zion ;",
+        "DSS": "[Mur88] ר##נ#?י#? ב##ת ציון"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shout , O Israel",
+      "traditions": {
+        "WLC": "הָרִ֖יעוּ יִשְׂרָאֵ֑ל",
+        "LXX": "κήρυσσε , θύγατερ Ἰερουσαλήμ ·",
+        "VUL": "iúbila Israel :",
+        "SP": null,
+        "KJV": "shout , O Israel ;",
+        "DSS": "הר#י?ע##ו#? ישראל"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "be glad and rejoice with all the heart , O daughter of Jerusalem",
+      "traditions": {
+        "WLC": "שִׂמְחִ֤י וְ עָלְזִי֙ בְּ כָל לֵ֔ב בַּ֖ת יְרוּשָׁלִָֽם",
+        "LXX": "εὐφραίνου καὶ κατατέρπου ἐξ ὅλης τῆς καρδίας σου , θύγατερ Ἰερουσαλήμ .",
+        "VUL": "lætáre , et exsúlta in omni corde fília Ierúsalem .",
+        "SP": null,
+        "KJV": "be glad and rejoice with all the heart , O daughter of Jerusalem .",
+        "DSS": "שמח#י? ו? עלזי ב כל לב בת## [ ירוש ]לם## ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD hath taken away thy judgments",
+      "traditions": {
+        "WLC": "הֵסִ֤יר יְהוָה֙ מִשְׁפָּטַ֔יִ ךְ",
+        "LXX": "περιεῖλεν Κύριος τὰ ἀδικήματά σου ,",
+        "VUL": "Abstulit Dóminus iudícium tuum ,",
+        "SP": null,
+        "KJV": "The LORD hath taken away thy judgments ,",
+        "DSS": "[Mur88] [ הסיר י ]ה##ו#?ה## מ##שפטי׳ך##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he hath cast out thine enemy",
+      "traditions": {
+        "WLC": "פִּנָּ֖ה אֹֽיְבֵ֑ ךְ",
+        "LXX": "λελύτρωταί σε ἐκ χειρὸς ἐχθρῶν σου ·",
+        "VUL": "avértit inimícos tuos :",
+        "SP": null,
+        "KJV": "he hath cast out thine enemy :",
+        "DSS": "פנה איבי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the king of Israel , [ even ] the LORD , [ is ] in the midst of thee",
+      "traditions": {
+        "WLC": "מֶ֣לֶךְ יִשְׂרָאֵ֤ל יְהוָה֙ בְּ קִרְבֵּ֔ ךְ",
+        "LXX": "βασιλεὺς Ἰσραὴλ Κύριος ἐν μέσῳ σου ,",
+        "VUL": "rex Israel Dóminus in médio tui ,",
+        "SP": null,
+        "KJV": "the king of Israel , [ even ] the LORD , [ is ] in the midst of thee :",
+        "DSS": "מ#לך ישראל יהוה ב קרב׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "thou shalt not see evil any more",
+      "traditions": {
+        "WLC": "לֹא תִֽירְאִ֥י רָ֖ע עֽוֹד",
+        "LXX": "οὐκ ὄψῃ κακὰ οὐκέτι .",
+        "VUL": "non timébis malum ultra .",
+        "SP": null,
+        "KJV": "thou shalt not see evil any more .",
+        "DSS": "[ לא תיר ]אי ר#ע עוד ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "In that day it shall be said to Jerusalem",
+      "traditions": {
+        "WLC": "בַּ יּ֣וֹם הַ ה֔וּא יֵאָמֵ֥ר לִ ירֽוּשָׁלִַ֖ם",
+        "LXX": "ἐν τῷ καιρῷ ἐκείνῳ ἐρεῖ Κύριος τῇ Ἰερουσαλήμ",
+        "VUL": "In die illa dicétur Ierúsalem :",
+        "SP": null,
+        "KJV": "In that day it shall be said to Jerusalem ,",
+        "DSS": "[Mur88] ב# [ יום ה הו ]א יאמר ל ירושלם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Fear thou not",
+      "traditions": {
+        "WLC": "אַל תִּירָ֑אִי",
+        "LXX": "Θάρσει ,",
+        "VUL": "Noli timére :",
+        "SP": null,
+        "KJV": "Fear thou not : [ and to ]",
+        "DSS": "א#ל ת##ירא##י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ and to ] Zion , Let not thine hands be slack",
+      "traditions": {
+        "WLC": "צִיּ֖וֹן אַל יִרְפּ֥וּ יָדָֽיִ ךְ",
+        "LXX": "Σειών , μὴ παρείσθωσαν αἱ χεῖρές σου .",
+        "VUL": "Sion , Non dissolvántur manus tuæ .",
+        "SP": null,
+        "KJV": "Zion , Let not thine hands be slack .",
+        "DSS": "[ ציון א ]ל יר#פו ידי׳ך ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD thy God in the midst of thee [ is ] mighty",
+      "traditions": {
+        "WLC": "יְהוָ֧ה אֱלֹהַ֛יִ ךְ בְּ קִרְבֵּ֖ ך גִּבּ֣וֹר",
+        "LXX": "Κύριος ὁ θεός σου ἐν σοί , ὁ δυνατὸς",
+        "VUL": "Dóminus Deus tuus in médio tui fortis ,",
+        "SP": null,
+        "KJV": "The LORD thy God in the midst of thee [ is ] mighty ;",
+        "DSS": "[Mur88] [ יהוה אלהי׳ך ב ] ק##ר##ב##׳ך## גבור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he will save",
+      "traditions": {
+        "WLC": "יוֹשִׁ֑יעַ",
+        "LXX": "σώσει σε ,",
+        "VUL": "ipse salvábit :",
+        "SP": null,
+        "KJV": "he will save ,",
+        "DSS": "יושיע"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he will rejoice over thee with joy",
+      "traditions": {
+        "WLC": "יָשִׂ֨ישׂ עָלַ֜יִ ךְ בְּ שִׂמְחָ֗ה",
+        "LXX": "ἐπάξει ἐπὶ σὲ εὐφροσύνην",
+        "VUL": "gaudébit super te in lætítia ,",
+        "SP": null,
+        "KJV": "he will rejoice over thee with joy ;",
+        "DSS": "ישיש# עלי׳ך ב# ש#מחה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "he will rest in his love",
+      "traditions": {
+        "WLC": "יַחֲרִישׁ֙ בְּ אַ֣הֲבָת֔ וֹ",
+        "LXX": "καὶ καινιεῖ σε ἐν τῇ ἀγαπήσει αὐτοῦ ,",
+        "VUL": "silébit in dilectióne sua ,",
+        "SP": null,
+        "KJV": "he will rest in his love ,",
+        "DSS": "יחריש ב אהב["
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "he will joy over thee with singing",
+      "traditions": {
+        "WLC": "יָגִ֥יל עָלַ֖יִ ךְ בְּ רִנָּֽה",
+        "LXX": "καὶ εὐφρανθήσεται ἐπὶ σὲ ἐν τέρψει ὡς ἐν ἡμέρᾳ ἑορτῆς .",
+        "VUL": "exsultábit super te in laude .",
+        "SP": null,
+        "KJV": "he will joy over thee with singing .",
+        "DSS": "ת׳ו יגיל עלי ]׳ך# ב# ר#נ?ה# ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will gather [ them that are ] sorrowful for the solemn assembly",
+      "traditions": {
+        "WLC": "נוּגֵ֧י מִ מּוֹעֵ֛ד אָסַ֖פְתִּי",
+        "LXX": "καὶ συνάξω τοὺς συντετριμμένους ·",
+        "VUL": "Nugas , qui a lege recésserant , congregábo ,",
+        "SP": null,
+        "KJV": "I will gather [ them that are ] sorrowful for the solemn assembly , [ who ]",
+        "DSS": "[Mur88] נוגי מ מועד אספת[ י ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ who ] are of thee",
+      "traditions": {
+        "WLC": "מִמֵּ֣ ךְ הָי֑וּ",
+        "LXX": null,
+        "VUL": "quia ex te erant :",
+        "SP": null,
+        "KJV": "are of thee , [ to whom ]",
+        "DSS": "ממ׳ך# [ הי ]ו?"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ to whom ] the reproach of it [ was ] a burden",
+      "traditions": {
+        "WLC": "מַשְׂאֵ֥ת עָלֶ֖י הָ חֶרְפָּֽה",
+        "LXX": "ουαί , τίς ἔλαβεν ἐπ᾽ αὐτὴν ὀνειδισμόν ;",
+        "VUL": "ut non ultra hábeas super eis oppróbrium .",
+        "SP": null,
+        "KJV": "the reproach of it [ was ] a burden .",
+        "DSS": "משאת עלי׳ה חרפה# ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , at that time I will undo all that afflict thee",
+      "traditions": {
+        "WLC": "הִנְ נִ֥י עֹשֶׂ֛ה אֶת כָּל מְעַנַּ֖יִ ךְ בָּ עֵ֣ת הַ הִ֑יא",
+        "LXX": "ἰδοὺ ἐγὼ ποιῶ ἐν σοὶ ἕνεκεν σοῦ ἐν τῷ καιρῷ ἐκείνῳ , λέγει Κύριος ,",
+        "VUL": "Ecce ego interfíciam omnes , qui afflixérunt te in témpore illo :",
+        "SP": null,
+        "KJV": "Behold , at that time I will undo all that afflict thee :",
+        "DSS": "[4Q77] [ הנ׳ני עשה  ]א##ת כ#ל# מע#נ?י?׳ך# [ ב עת ה היא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will save her that halteth",
+      "traditions": {
+        "WLC": "וְ הוֹשַׁעְתִּ֣י אֶת הַ צֹּלֵעָ֗ה",
+        "LXX": "καὶ σώσω τὴν ἐκπεπιεσμένην",
+        "VUL": "et salvábo claudicántem :",
+        "SP": null,
+        "KJV": "and I will save her that halteth ,",
+        "DSS": "ו הושעתי את ה צלעה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and gather her that was driven out",
+      "traditions": {
+        "WLC": "וְ הַ נִּדָּחָה֙ אֲקַבֵּ֔ץ",
+        "LXX": "καὶ τὴν ἀπωσμένην · εἰσδέξομαι αὐτοὺς",
+        "VUL": "et eam , quæ eiécta fúerat congregábo :",
+        "SP": null,
+        "KJV": "and gather her that was driven out ;",
+        "DSS": "ו ה נדחה אקבץ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and I will get them praise and fame in every land where they have been put to shame",
+      "traditions": {
+        "WLC": "וְ שַׂמְתִּי ם֙ לִ תְהִלָּ֣ה וּ לְ שֵׁ֔ם בְּ כָל הָ אָ֖רֶץ בָּשְׁתָּֽ ם",
+        "LXX": "εἰς καύχημα καὶ ὀνομαστοὺς ἐν πάσῃ τῇ γῇ .",
+        "VUL": "et ponam eos in laudem , et in nomen , in omni terra confusiónis eórum .",
+        "SP": null,
+        "KJV": "and I will get them praise and fame in every land where they have been put to shame .",
+        "DSS": "ו שמתי׳ם ל תהלה ו ל ש[ ם ב כל ה ארץ בשת׳ם ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "At that time will I bring you [ again ]",
+      "traditions": {
+        "WLC": "בָּ עֵ֤ת הַ הִיא֙ אָבִ֣יא אֶתְ כֶ֔ם",
+        "LXX": "καὶ καταισχυνθήσονται ἐν τῷ καιρῷ ἐκείνῳ ὅταν καλῶς ὑμῖν ποιήσω ,",
+        "VUL": "In témpore illo , quo addúcam vos :",
+        "SP": null,
+        "KJV": "At that time will I bring you [ again ] ,",
+        "DSS": "[4Q77] ב עת ה היא אביא ] [ את׳כ ]ם#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even in the time that I gather you",
+      "traditions": {
+        "WLC": "וּ בָ עֵ֖ת קַבְּצִ֣ י אֶתְ כֶ֑ם",
+        "LXX": "καὶ ἐν τῷ καιρῷ ὅταν εἰσδέξομαι ὑμᾶς ·",
+        "VUL": "et in témpore , quo congregábo vos :",
+        "SP": null,
+        "KJV": "even in the time that I gather you :",
+        "DSS": "ו ב עת קבצ׳이 את׳כם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for I will make you a name and a praise among all people of the earth",
+      "traditions": {
+        "WLC": "כִּֽי אֶתֵּ֨ן אֶתְ כֶ֜ם לְ שֵׁ֣ם וְ לִ תְהִלָּ֗ה בְּ כֹל֙ עַמֵּ֣י הָ אָ֔רֶץ",
+        "LXX": "διότι δώσω ὑμᾶς ὀνομαστοὺς καὶ εἰς καύχημα ἐν πᾶσιν τοῖς λαοῖς τῆς γῆς ,",
+        "VUL": "dabo enim vos in nomen , et in laudem ómnibus pópulis terræ ,",
+        "SP": null,
+        "KJV": "for I will make you a name and a praise among all people of the earth ,",
+        "DSS": "כי אתן א#[ ת׳כם ל שם ו ל תהלה ב כל עמי ] [ ה ארץ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "when I turn back your captivity before your eyes",
+      "traditions": {
+        "WLC": "בְּ שׁוּבִ֧ י אֶת שְׁבוּתֵי כֶ֛ם לְ עֵינֵי כֶ֖ם",
+        "LXX": "ἐν τῷ στρέφειν με τὴν αἰχμαλωσίαν ὑμῶν ἐνώπιον ὑμῶν ,",
+        "VUL": "cum convértero captivitátem vestram coram óculis vestris ,",
+        "SP": null,
+        "KJV": "when I turn back your captivity before your eyes ,",
+        "DSS": "ב## שוב׳י את שבות이׳כם ל עיני׳כם"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "saith the LORD",
+      "traditions": {
+        "WLC": "אָמַ֥ר יְהוָֽה",
+        "LXX": "λέγει Κύριος .",
+        "VUL": "dicit Dóminus .",
+        "SP": null,
+        "KJV": "saith the LORD .",
+        "DSS": "[ אמר יהוה ׃"
+      }
+    }
+  ]
+}

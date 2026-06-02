@@ -1,0 +1,924 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , the LORD maketh the earth empty",
+      "traditions": {
+        "WLC": "הִנֵּ֧ה יְהוָ֛ה בּוֹקֵ֥ק הָ אָ֖רֶץ",
+        "LXX": "Ἰδοὺ Κύριος καταφθείρει τὴν οἰκουμένην ,",
+        "VUL": "Ecce Dóminus dissipábit terram ,",
+        "SP": null,
+        "KJV": "Behold , the LORD maketh the earth empty ,",
+        "DSS": "[1Qisaa] הנה יהוה בוקק ה אדמה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and maketh it waste",
+      "traditions": {
+        "WLC": "וּ בֽוֹלְקָ֑ הּ",
+        "LXX": "καὶ ἐρημώσει αὐτὴν",
+        "VUL": "et nudábit eam ,",
+        "SP": null,
+        "KJV": "and maketh it waste ,",
+        "DSS": "[1Qisaa] ו בולק׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and turneth it upside down",
+      "traditions": {
+        "WLC": "וְ עִוָּ֣ה פָנֶ֔י הָ",
+        "LXX": "καὶ ἀνακαλύψει τὸ πρόσωπον αὐτῆς",
+        "VUL": "et afflíget fáciem eius ,",
+        "SP": null,
+        "KJV": "and turneth it upside down ,",
+        "DSS": "[1Qisaa] ו עוה פני׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and scattereth abroad the inhabitants thereof",
+      "traditions": {
+        "WLC": "וְ הֵפִ֖יץ יֹשְׁבֶֽי הָ",
+        "LXX": "καὶ διασπερεῖ τοὺς ἐνοικοῦντας ἐν αὐτῇ .",
+        "VUL": "et dispérget habitatóres eius .",
+        "SP": null,
+        "KJV": "and scattereth abroad the inhabitants thereof .",
+        "DSS": "[1Qisaa] ו הפיץ יושבי׳ה ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall be , as with the people , so with the priest",
+      "traditions": {
+        "WLC": "וְ הָיָ֤ה כָ עָם֙ כַּ כֹּהֵ֔ן",
+        "LXX": "καὶ ἔσται ὁ λαὸς ὡς ὁ ἱερεύς ,",
+        "VUL": "Et erit sicut pópulus , sic sacérdos :",
+        "SP": null,
+        "KJV": "And it shall be , as with the people , so with the priest ;",
+        "DSS": "[1Qisaa] ו היה כ עם כ כוהן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as with the servant , so with his master",
+      "traditions": {
+        "WLC": "כַּ עֶ֨בֶד֙ כַּֽ אדֹנָ֔י",
+        "LXX": "καὶ ὁ παῖς ὡς ὁ κύριος ,",
+        "VUL": "et sicut servus , sic dóminus eius :",
+        "SP": null,
+        "KJV": "as with the servant , so with his master ;",
+        "DSS": "[1Qisaa] כ עבד כ אדוני׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "as with the maid , so with her mistress",
+      "traditions": {
+        "WLC": "ו כַּ שִּׁפְחָ֖ה כַּ גְּבִרְתָּ֑ הּ",
+        "LXX": "καὶ ἡ θεράπαινα ὡς ἡ κυρία ·",
+        "VUL": "sicut ancílla , sic dómina eius :",
+        "SP": null,
+        "KJV": "as with the maid , so with her mistress ;",
+        "DSS": "[1Qisaa] כ שפחה כ גברת׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as with the buyer , so with the seller",
+      "traditions": {
+        "WLC": "כַּ קּוֹנֶה֙ כַּ מּוֹכֵ֔ר",
+        "LXX": "ἔσται ὁ ἀγοράζων ὡς ὁ πωλῶν ,",
+        "VUL": "sicut emens sic ille qui vendit :",
+        "SP": null,
+        "KJV": "as with the buyer , so with the seller ;",
+        "DSS": "[1Qisaa] כ קונה כ מוכר"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "as with the lender , so with the borrower",
+      "traditions": {
+        "WLC": "כַּ מַּלְוֶה֙ כַּ לֹּוֶ֔ה",
+        "LXX": "ὁ δανίζων ὡς ὁ δανιζόμενος ,",
+        "VUL": "sicut qui répetit , sic qui debet .",
+        "SP": null,
+        "KJV": "as with the lender , so with the borrower ;",
+        "DSS": "[1Qisaa] כ מלוה כ לוה"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "as with the taker of usury , so with the giver of usury to him",
+      "traditions": {
+        "WLC": "כַּ נֹּשֶׁ֕ה כַּ אֲשֶׁ֖ר נֹשֶׁ֥א בֽ וֹ",
+        "LXX": "καὶ ὁ ὀφίλων ὡς ᾧ ὀφίλει .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "as with the taker of usury , so with the giver of usury to him .",
+        "DSS": "[1Qisaa] כ נ(^ ו ^)שה כ אשר נשא ב׳ו ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "The land shall be utterly emptied , and utterly spoiled",
+      "traditions": {
+        "WLC": "הִבּ֧וֹק תִּבּ֛וֹק הָ אָ֖רֶץ וְ הִבּ֣וֹז תִּבּ֑וֹז",
+        "LXX": "φθορᾷ φθαρήσεται ἡ γῆ , καὶ προνομῇ προνομευθήσεται ἡ γῆ ·",
+        "VUL": "Dissipatióne dissipábitur terra , et direptióne prædábitur :",
+        "SP": null,
+        "KJV": "The land shall be utterly emptied , and utterly spoiled :",
+        "DSS": "[1Qisaa] הבוק תבוק ה ארץ ו? הבוז תבוז"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for the LORD hath spoken this word",
+      "traditions": {
+        "WLC": "כִּ֣י יְהוָ֔ה דִּבֶּ֖ר אֶת הַ דָּבָ֥ר הַ זֶּֽה",
+        "LXX": "τὸ γὰρ στόμα Κυρίου ἐλάλησεν ταῦτα .",
+        "VUL": "Dóminus enim locútus est verbum hoc .",
+        "SP": null,
+        "KJV": "for the LORD hath spoken this word .",
+        "DSS": "[1Qisaa] כי יהוה דבר את ה דבר ה זה ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "The earth mourneth [ and ] fadeth away",
+      "traditions": {
+        "WLC": "אָבְלָ֤ה נָֽבְלָה֙ הָ אָ֔רֶץ",
+        "LXX": "ἐπένθησεν ἡ γῆ ,",
+        "VUL": "Luxit , et deflúxit terra ,",
+        "SP": null,
+        "KJV": "The earth mourneth [ and ] fadeth away ,",
+        "DSS": "[1Qisaa] אבלה נבלה ה אר#ץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the world languisheth [ and ] fadeth away",
+      "traditions": {
+        "WLC": "אֻמְלְלָ֥ה נָבְלָ֖ה תֵּבֵ֑ל",
+        "LXX": "καὶ ἐφθάρη ἡ οἰκουμένη ,",
+        "VUL": "et infirmáta est : deflúxit orbis ,",
+        "SP": null,
+        "KJV": "the world languisheth [ and ] fadeth away ,",
+        "DSS": "[1Qisaa] אמללה נבלה תבל"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the haughty people of the earth do languish",
+      "traditions": {
+        "WLC": "אֻמְלָ֖לוּ מְר֥וֹם עַם הָ אָֽרֶץ",
+        "LXX": "ἐπένθησαν οἱ ὑψηλοὶ τῆς γῆς .",
+        "VUL": "infirmáta est altitúdo pópuli terræ .",
+        "SP": null,
+        "KJV": "the haughty people of the earth do languish .",
+        "DSS": "[1Qisaa] אמלל מרום (^ עמ ^) ה ארץ ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "The earth also is defiled under the inhabitants thereof",
+      "traditions": {
+        "WLC": "וְ הָ אָ֥רֶץ חָנְפָ֖ה תַּ֣חַת יֹשְׁבֶ֑י הָ",
+        "LXX": "ἡ δὲ γῆ ἠνόμησεν διὰ τοὺς κατοικοῦντας αὐτήν ,",
+        "VUL": "Et terra infécta est ab habitatóribus suis ,",
+        "SP": null,
+        "KJV": "The earth also is defiled under the inhabitants thereof ;",
+        "DSS": "[1Qisaa] ו ה ארץ חנפה תחת יושבי׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because they have transgressed the laws , changed the ordinance",
+      "traditions": {
+        "WLC": "כִּֽי עָבְר֤וּ תוֹרֹת֙ חָ֣לְפוּ חֹ֔ק",
+        "LXX": "διότι παρήλθοσαν τὸν νόμον καὶ ἤλλαξαν τὰ προστάγματα ,",
+        "VUL": "quia transgréssi sunt leges , mutavérunt ius ,",
+        "SP": null,
+        "KJV": "because they have transgressed the laws , changed the ordinance ,",
+        "DSS": "[1Qisaa] כי עברו תורות חלפו חוק"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "broken the everlasting covenant",
+      "traditions": {
+        "WLC": "הֵפֵ֖רוּ בְּרִ֥ית עוֹלָֽם",
+        "LXX": "διαθήκην αἰώνιον .",
+        "VUL": "dissipavérunt fœdus sempitérnum",
+        "SP": null,
+        "KJV": "broken the everlasting covenant .",
+        "DSS": "[1Qisaa] הפירו ברית עולם ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore hath the curse devoured the earth",
+      "traditions": {
+        "WLC": "עַל כֵּ֗ן אָלָה֙ אָ֣כְלָה אֶ֔רֶץ",
+        "LXX": "διὰ τοῦτο ἀρὰ ἔδεται τὴν γῆν ,",
+        "VUL": "Propter hoc maledíctio vorábit terram ,",
+        "SP": null,
+        "KJV": "Therefore hath the curse devoured the earth ,",
+        "DSS": "[1Qisaa] על כן אלה אכלה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they that dwell therein are desolate",
+      "traditions": {
+        "WLC": "וַֽ יֶּאְשְׁמ֖וּ יֹ֣שְׁבֵי בָ֑ הּ",
+        "LXX": "ὅτι ἡμάρτοσαν οἱ κατοικοῦντες αὐτήν ·",
+        "VUL": "et peccábunt habitatóres eius :",
+        "SP": null,
+        "KJV": "and they that dwell therein are desolate :",
+        "DSS": "[1Qisaa] ו ישמו יושבי ב׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "therefore the inhabitants of the earth are burned",
+      "traditions": {
+        "WLC": "עַל כֵּ֗ן חָרוּ֙ יֹ֣שְׁבֵי אֶ֔רֶץ",
+        "LXX": "διὰ τοῦτο πτωχοὶ ἔσονται οἱ ἐνοικοῦντες ἐν τῇ γῇ ,",
+        "VUL": "ideóque insánient cultóres eius ,",
+        "SP": null,
+        "KJV": "therefore the inhabitants of the earth are burned ,",
+        "DSS": "[1Qisaa] על כן חורו יושבי ארץ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and few men left",
+      "traditions": {
+        "WLC": "וְ נִשְׁאַ֥ר אֱנ֖וֹשׁ מִזְעָֽר",
+        "LXX": "καὶ καταλειφθήσονται ἄνθρωποι ὀλίγοι .",
+        "VUL": "et relinquéntur hómines pauci .",
+        "SP": null,
+        "KJV": "and few men left .",
+        "DSS": "[1Qisaa] ו נשאר אנוש מזער ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "The new wine mourneth",
+      "traditions": {
+        "WLC": "אָבַ֥ל תִּיר֖וֹשׁ",
+        "LXX": "πενθήσει οἶνος ,",
+        "VUL": "Luxit vindémia ,",
+        "SP": null,
+        "KJV": "The new wine mourneth ,",
+        "DSS": "[1Qisaa] אבל תירוש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the vine languisheth",
+      "traditions": {
+        "WLC": "אֻמְלְלָה גָ֑פֶן",
+        "LXX": "πενθήσει ἄμπελος ,",
+        "VUL": "infirmáta est vitis ,",
+        "SP": null,
+        "KJV": "the vine languisheth ,",
+        "DSS": "[1Qisaa] אמללה גפן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "all the merryhearted do sigh",
+      "traditions": {
+        "WLC": "נֶאֶנְח֖וּ כָּל שִׂמְחֵי לֵֽב",
+        "LXX": "στενάξουσιν πάντες οἱ εὐφραινόμενοι τὴν ψυχήν .",
+        "VUL": "ingemuérunt omnes qui lætabántur corde .",
+        "SP": null,
+        "KJV": "all the merryhearted do sigh .",
+        "DSS": "[1Qisaa] נאנחו כול שמחי לב ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "The mirth of tabrets ceaseth",
+      "traditions": {
+        "WLC": "שָׁבַת֙ מְשׂ֣וֹשׂ תֻּפִּ֔ים",
+        "LXX": "πέπαυται εὐφροσύνη τυμπάνων ,",
+        "VUL": "Cessávit gáudium tympanórum ,",
+        "SP": null,
+        "KJV": "The mirth of tabrets ceaseth ,",
+        "DSS": "[1Qisaa] שבת משוש תפים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the noise of them that rejoice endeth",
+      "traditions": {
+        "WLC": "חָדַ֖ל שְׁא֣וֹן עַלִּיזִ֑ים",
+        "LXX": "πέπαυται αὐθαδία καὶ πλοῦτος ἀσεβῶν ,",
+        "VUL": "quiévit sónitus lætántium ,",
+        "SP": null,
+        "KJV": "the noise of them that rejoice endeth ,",
+        "DSS": "[1Qisaa] חדל שאון עליזים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the joy of the harp ceaseth",
+      "traditions": {
+        "WLC": "שָׁבַ֖ת מְשׂ֥וֹשׂ כִּנּֽוֹר",
+        "LXX": "πέπαυται φωνὴ κιθάρας .",
+        "VUL": "contícuit dulcédo cítharæ .",
+        "SP": null,
+        "KJV": "the joy of the harp ceaseth .",
+        "DSS": "[1Qisaa] שבת משוש כנור ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "They shall not drink wine with a song",
+      "traditions": {
+        "WLC": "בַּ שִּׁ֖יר לֹ֣א יִשְׁתּוּ יָ֑יִן",
+        "LXX": "ᾐσχύνθησαν , οὐκ ἔπιον οἶνον ,",
+        "VUL": "Cum cántico non bibent vinum :",
+        "SP": null,
+        "KJV": "They shall not drink wine with a song ;",
+        "DSS": "[1Qisaa] ב שיר לוא ישתו יין"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "strong drink shall be bitter to them that drink it",
+      "traditions": {
+        "WLC": "יֵמַ֥ר שֵׁכָ֖ר לְ שֹׁתָֽי ו",
+        "LXX": "πικρὸν ἐγένετο τὸ σίκερα τοῖς πίνουσιν .",
+        "VUL": "amára erit pótio bibéntibus illam .",
+        "SP": null,
+        "KJV": "strong drink shall be bitter to them that drink it .",
+        "DSS": "[1Qisaa] ו ימר שכר ל שותי׳ו ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "The city of confusion is broken down",
+      "traditions": {
+        "WLC": "נִשְׁבְּרָ֖ה קִרְיַת תֹּ֑הוּ",
+        "LXX": "ἠρημώθη πᾶσα πόλις ,",
+        "VUL": "Attríta est cívitas vanitátis ,",
+        "SP": null,
+        "KJV": "The city of confusion is broken down :",
+        "DSS": "[1Qisaa] נשברה קרית תהו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "every house is shut up , that no man may come in",
+      "traditions": {
+        "WLC": "סֻגַּ֥ר כָּל בַּ֖יִת מִ בּֽוֹא",
+        "LXX": "κλείσει οἰκίαν τοῦ μὴ εἰσελθεῖν .",
+        "VUL": "clausa est omnis domus nullo introeúnte .",
+        "SP": null,
+        "KJV": "every house is shut up , that no man may come in .",
+        "DSS": "[1Qisaa] סגר כול בית מ בוא ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "There is a crying for wine in the streets",
+      "traditions": {
+        "WLC": "צְוָחָ֥ה עַל הַ יַּ֖יִן בַּֽ חוּצ֑וֹת",
+        "LXX": "ὀλολύζετε περὶ τοῦ οἴνου πανταχῇ ·",
+        "VUL": "Clamor erit super vino in platéis ,",
+        "SP": null,
+        "KJV": "[ There is ] a crying for wine in the streets ;",
+        "DSS": "צוחה על ה יין ב חוצות"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "all joy is darkened",
+      "traditions": {
+        "WLC": "עָֽרְבָה֙ כָּל שִׂמְחָ֔ה",
+        "LXX": "πέπαυται πᾶσα εὐφροσύνη .",
+        "VUL": "desérta est ómnia lætítia ,",
+        "SP": null,
+        "KJV": "all joy is darkened ,",
+        "DSS": "ערבה כול שמחה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the mirth of the land is gone",
+      "traditions": {
+        "WLC": "גָּלָ֖ה מְשׂ֥וֹשׂ הָ אָֽרֶץ",
+        "LXX": null,
+        "VUL": "translátum est gáudium terræ .",
+        "SP": null,
+        "KJV": "the mirth of the land is gone .",
+        "DSS": "גלה משוש ה ארץ"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the city is left desolation",
+      "traditions": {
+        "WLC": "נִשְׁאַ֥ר בָּ עִ֖יר שַׁמָּ֑ה",
+        "LXX": "καταλειφθήσονται πόλεις ἔρημοι ,",
+        "VUL": "Relícta est in urbe solitúdo ,",
+        "SP": null,
+        "KJV": "In the city is left desolation ,",
+        "DSS": "נשאר ב עיר שמה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the gate is smitten with destruction",
+      "traditions": {
+        "WLC": "וּ שְׁאִיָּ֖ה יֻכַּת שָֽׁעַר",
+        "LXX": "καὶ οἶκοι ἐγκαταλελιμμένοι ἀπολοῦνται .",
+        "VUL": "et calámitas ópprimet portas .",
+        "SP": null,
+        "KJV": "and the gate is smitten with destruction .",
+        "DSS": "ו שאיה יוכת שער"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "When thus it shall be in the midst of the land among the people",
+      "traditions": {
+        "WLC": "כִּ֣י כֹ֥ה יִהְיֶ֛ה בְּ קֶ֥רֶב הָ אָ֖רֶץ בְּ ת֣וֹךְ הָֽ עַמִּ֑ים",
+        "LXX": "ταῦτα πάντα ἔσονται ἐν τῇ γῇ ἐν μέσῳ τῶν ἐθνῶν ·",
+        "VUL": "Quia hæc erunt in médio terræ in médio populórum :",
+        "SP": null,
+        "KJV": "When thus it shall be in the midst of the land among the people , [",
+        "DSS": "כי כה יהיה ב קרב ה ארץ ב תוך ה עמים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "there shall be as the shaking of an olive tree",
+      "traditions": {
+        "WLC": "כְּ נֹ֣קֶף זַ֔יִת",
+        "LXX": "ὃν τρόπον ἐάν τις καλαμήσηται ἐλαίαν , οὕτως καλαμήσονται αὐτούς ·",
+        "VUL": "quómodo si paucæ olívæ , quæ remansérunt , excutiántur ex ólea :",
+        "SP": null,
+        "KJV": "there shall be ] as the shaking of an olive tree , [ and ]",
+        "DSS": "כ נקף זית"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "as the gleaning grapes when the vintage is done",
+      "traditions": {
+        "WLC": "כְּ עוֹלֵלֹ֖ת אִם כָּלָ֥ה בָצִֽיר",
+        "LXX": "καὶ ἐὰν παύσηται ὁ τρυγητός .",
+        "VUL": "et racémi , cum fúerit finíta vindémia .",
+        "SP": null,
+        "KJV": "as the gleaning grapes when the vintage is done .",
+        "DSS": "כ עוללת אמ כלה בציר"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "They shall lift up their voice",
+      "traditions": {
+        "WLC": "הֵ֛מָּה יִשְׂא֥וּ קוֹלָ֖ ם",
+        "LXX": "οὗτοι βοῇ φωνήσουσιν ,",
+        "VUL": "Hi levábunt vocem suam ,",
+        "SP": null,
+        "KJV": "They shall lift up their voice ,",
+        "DSS": "המה ישאו קול׳ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they shall sing for the majesty of the LORD",
+      "traditions": {
+        "WLC": "יָרֹ֑נּוּ בִּ גְא֣וֹן יְהוָ֔ה",
+        "LXX": "οἱ δὲ καταλειφθέντες ἐπὶ τῆς γῆς εὐφρανθήσονται ἅμα τῇ δόξῃ Κυρίου ,",
+        "VUL": "atque laudábunt : cum glorificátus fúerit Dóminus ,",
+        "SP": null,
+        "KJV": "they shall sing for the majesty of the LORD ,",
+        "DSS": "ירונו ב גאון יהוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they shall cry aloud from the sea",
+      "traditions": {
+        "WLC": "צָהֲל֖וּ מִ יָּֽם",
+        "LXX": "ταραχθήσεται τὸ ὕδωρ τῆς θαλάσσης .",
+        "VUL": "hínnient de mari .",
+        "SP": null,
+        "KJV": "they shall cry aloud from the sea .",
+        "DSS": "צהלו מ ים"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wherefore glorify ye the LORD in the fires",
+      "traditions": {
+        "WLC": "עַל כֵּ֥ן בָּ אֻרִ֖ים כַּבְּד֣וּ יְהוָ֑ה",
+        "LXX": "διὰ τοῦτο ἡ δόξα Κυρίου",
+        "VUL": "Propter hoc in doctrínis glorificáte Dóminum :",
+        "SP": null,
+        "KJV": "Wherefore glorify ye the LORD in the fires , [ even ]",
+        "DSS": "על כן ב ארים כבדו יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the name of the LORD God of Israel in the isles of the sea",
+      "traditions": {
+        "WLC": "בְּ אִיֵּ֣י הַ יָּ֔ם שֵׁ֥ם יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל",
+        "LXX": "ἐν ταῖς νήσοις ἔσται τῆς θαλάσσης , τὸ ὄνομα Κυρίου ἔνδοξον ἔσται .",
+        "VUL": "in ínsulis maris nomen Dómini Dei Israel .",
+        "SP": null,
+        "KJV": "the name of the LORD God of Israel in the isles of the sea .",
+        "DSS": "ב איי ה ים שמ יהוה אלוהי ישראל"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "From the uttermost part of the earth have we heard songs ,",
+      "traditions": {
+        "WLC": "מִ כְּנַ֨ף הָ אָ֜רֶץ זְמִרֹ֤ת שָׁמַ֨עְנוּ֙",
+        "LXX": "Κύριε ὁ θεὸς Ἰσραήλ , ἀπὸ τῶν πτερύγων τῆς γῆς τέρατα ἠκούσαμεν",
+        "VUL": "A fínibus terræ laudes audívimus ,",
+        "SP": null,
+        "KJV": "From the uttermost part of the earth have we heard songs , [ even ]",
+        "DSS": "[1Qisaa] מ כנף ה ארץ זמרת שמענו / [4Q56] [ ה ארץ ז ]מרת שמענו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ even ] glory to the righteous .",
+      "traditions": {
+        "WLC": "צְבִ֣י לַ צַּדִּ֔יק",
+        "LXX": "Ἐλπὶς τῷ εὐσεβεῖ .",
+        "VUL": "glóriam iusti .",
+        "SP": null,
+        "KJV": "glory to the righteous .",
+        "DSS": "[1Qisaa] צבי ל צדיק / [4Q56] צב##[ י ל ]צ#ד##[ יק"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "But I said , My leanness , my leanness , woe unto me !",
+      "traditions": {
+        "WLC": "וָ אֹמַ֛ר רָזִי לִ֥ י רָֽזִי לִ֖ י א֣וֹי לִ֑ י",
+        "LXX": "καὶ ἐροῦσιν Οὐαὶ τοῖς ἀθετοῦσιν ·",
+        "VUL": "Et dixi : Secrétum meum mihi , secrétum meum mihi , væ mihi :",
+        "SP": null,
+        "KJV": "But I said , My leanness , my leanness , woe unto me !",
+        "DSS": "[1Qisaa] ו אמר רזי ל׳י רזי ל׳י אוי ל׳י / [4Q56] ו אמר רזי ל׳י רזי ל׳י אוי ל׳י"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the treacherous dealers have dealt treacherously ;",
+      "traditions": {
+        "WLC": "בֹּגְדִ֣ים בָּגָ֔דוּ",
+        "LXX": "οἱ ἀθετοῦντες τὸν νόμον ,",
+        "VUL": "prævaricántes prævaricáti sunt ,",
+        "SP": null,
+        "KJV": "the treacherous dealers have dealt treacherously ;",
+        "DSS": "[1Qisaa] בוגדים בגדו / [4Q56] בגדים בגדו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "yea , the treacherous dealers have dealt very treacherously .",
+      "traditions": {
+        "WLC": "וּ בֶ֥גֶד בּוֹגְדִ֖ים בָּגָֽדוּ",
+        "LXX": null,
+        "VUL": "et prævaricatióne transgressórum prævaricáti sunt .",
+        "SP": null,
+        "KJV": "yea , the treacherous dealers have dealt very treacherously .",
+        "DSS": "[1Qisaa] ו בגד בוגדים בגדו ׃ / [4Q56] ו בגד ] [ בוגדים ] ב##ג#?דו ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Fear , and the pit , and the snare ,",
+      "traditions": {
+        "WLC": "פַּ֥חַד וָ פַ֖חַת וָ פָ֑ח",
+        "LXX": "φόβος καὶ βόθυνος καὶ παγὶς",
+        "VUL": "Formído , et fóvea , et láqueus",
+        "SP": null,
+        "KJV": "Fear , and the pit , and the snare , [ are ]",
+        "DSS": "[1Qisaa] פחד ו פחת ו פח / [4Q56] פחד ו פח[ ת ו פח"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ are ] upon thee , O inhabitant of the earth .",
+      "traditions": {
+        "WLC": "עָלֶ֖י ךָ יוֹשֵׁ֥ב הָ אָֽרֶץ",
+        "LXX": "ἐφ᾽ ὑμᾶς τοὺς ἐνοικοῦντας ἐπὶ τῆς γῆς .",
+        "VUL": "super te , qui habitátor es terræ .",
+        "SP": null,
+        "KJV": "upon thee , O inhabitant of the earth .",
+        "DSS": "[1Qisaa] עלי׳ך יושב ה ארץ ׃ / [4Q56] עלי׳ך יושב ה ארץ ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit",
+      "traditions": {
+        "WLC": "וְֽ֠ הָיָה הַ נָּ֞ס מִ קּ֤וֹל הַ פַּ֨חַד֙ יִפֹּ֣ל אֶל הַ פַּ֔חַת",
+        "LXX": "καὶ ἔσται ὁ φεύγων τὸν φόβον ἐμπεσεῖται εἰς τὸν βόθυνον ·",
+        "VUL": "Et erit : qui fúgerit a voce formídinis , cadet in fóveam :",
+        "SP": null,
+        "KJV": "And it shall come to pass , [ that ] he who fleeth from the noise of the fear shall fall into the pit ;",
+        "DSS": "ו היה ה נס מ קול ה פחד יפול אל ה פחת"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and he that cometh up out of the midst of the pit shall be taken in the snare",
+      "traditions": {
+        "WLC": "וְ הָֽ עוֹלֶה֙ מִ תּ֣וֹךְ הַ פַּ֔חַת יִלָּכֵ֖ד בַּ פָּ֑ח",
+        "LXX": "καὶ ὁ ἐκβαίνων ἐκ τοῦ βοθύνου ἁλώσεται ὑπὸ τῆς παγίδος ·",
+        "VUL": "et qui se explicáverit de fóvea , tenébitur láqueo :",
+        "SP": null,
+        "KJV": "and he that cometh up out of the midst of the pit shall be taken in the snare :",
+        "DSS": "ו ה עולה מ תוך ה פחת ילכד ב פח"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for the windows from on high are open",
+      "traditions": {
+        "WLC": "כִּֽי אֲרֻבּ֤וֹת מִ מָּרוֹם֙ נִפְתָּ֔חוּ",
+        "LXX": "ὅτι θυρίδες ἐκ τοῦ οὐρανοῦ ἀνεῴχθησαν ,",
+        "VUL": "quia cataráctæ de excélsis apértæ sunt ,",
+        "SP": null,
+        "KJV": "for the windows from on high are open ,",
+        "DSS": "כי ארבות מ מרום נפתחו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the foundations of the earth do shake",
+      "traditions": {
+        "WLC": "וַֽ יִּרְעֲשׁ֖וּ מ֥וֹסְדֵי אָֽרֶץ",
+        "LXX": "καὶ σεισθήσεται τὰ θεμέλια τῆς γῆς .",
+        "VUL": "et concutiéntur fundaménta terræ .",
+        "SP": null,
+        "KJV": "and the foundations of the earth do shake .",
+        "DSS": "ו ירעשו מוסדי ארץ"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "The earth is utterly broken down",
+      "traditions": {
+        "WLC": "רֹ֥עָה הִֽתְרֹעֲעָ֖ה הָ אָ֑רֶץ",
+        "LXX": "ταραχῇ ταραχθήσεται ἡ γῆ ,",
+        "VUL": "Confractióne confringétur terra ,",
+        "SP": null,
+        "KJV": "The earth is utterly broken down ,",
+        "DSS": "ר#ע##ה התרועעה ה ארץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the earth is clean dissolved",
+      "traditions": {
+        "WLC": "פּ֤וֹר הִֽתְפּוֹרְרָה֙ אֶ֔רֶץ",
+        "LXX": "καὶ ἀπορίᾳ ἀπορηθήσεται ἡ γῆ .",
+        "VUL": "contritióne conterétur terra ,",
+        "SP": null,
+        "KJV": "the earth is clean dissolved ,",
+        "DSS": "פור התפוררה ארץ"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the earth is moved exceedingly",
+      "traditions": {
+        "WLC": "מ֥וֹט הִֽתְמוֹטְטָ֖ה אָֽרֶץ",
+        "LXX": null,
+        "VUL": "commotióne commovébitur terra ,",
+        "SP": null,
+        "KJV": "the earth is moved exceedingly .",
+        "DSS": "מוט התמוטטה ארץ"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "The earth shall reel to and fro like a drunkard",
+      "traditions": {
+        "WLC": "נ֣וֹעַ תָּנ֤וּעַ אֶ֨רֶץ֙ כַּ שִּׁכּ֔וֹר",
+        "LXX": "ἔκλινεν ὡς ὁ μεθύων καὶ κραιπαλῶν ,",
+        "VUL": "agitatióne agitábitur terra sicut ébrius ,",
+        "SP": null,
+        "KJV": "The earth shall reel to and fro like a drunkard ,",
+        "DSS": "נ(^ ו ^)ע תנוע ה ארץ כ שכור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall be removed like a cottage",
+      "traditions": {
+        "WLC": "וְ הִֽתְנוֹדְדָ֖ה כַּ מְּלוּנָ֑ה",
+        "LXX": "καὶ σεισθήσεται ὡς ὀπωροφυλάκιον ἡ γῆ ,",
+        "VUL": "et auferétur quasi tabernáculum uníus noctis :",
+        "SP": null,
+        "KJV": "and shall be removed like a cottage ;",
+        "DSS": "ו התנודדא ו כ מלונה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the transgression thereof shall be heavy upon it",
+      "traditions": {
+        "WLC": "וְ כָבַ֤ד עָלֶ֨י הָ֙ פִּשְׁעָ֔ הּ",
+        "LXX": "κατίσχυσεν γὰρ ἐπ᾽ αὐτῆς ἡ ἀνομία ,",
+        "VUL": "et gravábit eam iníquitas sua ,",
+        "SP": null,
+        "KJV": "and the transgression thereof shall be heavy upon it ;",
+        "DSS": "ו כבד עלי׳ה פשע׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and it shall fall, and not rise again",
+      "traditions": {
+        "WLC": "וְ נָפְלָ֖ה וְ לֹא תֹסִ֥יף קֽוּם",
+        "LXX": "καὶ πεσεῖται καὶ οὐ μὴ δύνηται ἀναστῆναι .",
+        "VUL": "et córruet , et non adíciet ut resúrgat .",
+        "SP": null,
+        "KJV": "and it shall fall , and not rise again .",
+        "DSS": "ו נפל ו לוא ת(^ ו ^)סיף קום"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass in that day",
+      "traditions": {
+        "WLC": "וְ הָיָה֙ בַּ יּ֣וֹם הַ ה֔וּא",
+        "LXX": null,
+        "VUL": "Et erit : in die illa",
+        "SP": null,
+        "KJV": "And it shall come to pass in that day , [ that ]",
+        "DSS": "ו היה ב יום ה הוא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the LORD shall punish the host of the high ones on high",
+      "traditions": {
+        "WLC": "יִפְקֹ֧ד יְהוָ֛ה עַל צְבָ֥א הַ מָּר֖וֹם בַּ מָּר֑וֹם",
+        "LXX": "Καὶ ἐπάξει ὁ θεὸς ἐπὶ τὸν κόσμον τοῦ οὐρανοῦ τὴν χεῖρα",
+        "VUL": "visitábit Dóminus super milítiam cæli in excélso :",
+        "SP": null,
+        "KJV": "the LORD shall punish the host of the high ones [ that are ] on high ,",
+        "DSS": "יפקוד יהוה על צבא ה מרום ב מרום"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the kings of the earth upon the earth",
+      "traditions": {
+        "WLC": "וְ עַל מַלְכֵ֥י הָ אֲדָמָ֖ה עַל הָ אֲדָמָֽה",
+        "LXX": "καὶ ἐπὶ τοὺς βασιλεῖς τῆς γῆς .",
+        "VUL": "et super reges terræ , qui sunt super terram .",
+        "SP": null,
+        "KJV": "and the kings of the earth upon the earth .",
+        "DSS": "ו על מלכי ה אדמה על ה אדמה"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they shall be gathered together, [as] prisoners are gathered in the pit",
+      "traditions": {
+        "WLC": "וְ אֻסְּפ֨וּ אֲסֵפָ֤ה אַסִּיר֙ עַל בּ֔וֹר",
+        "LXX": "καὶ συνάξουσιν συναγωγὴν αὐτῆς εἰς δεσμωτήριον",
+        "VUL": "Et congregabúntur in congregatióne uníus fascis in lacum ,",
+        "SP": null,
+        "KJV": "And they shall be gathered together , [ as ] prisoners are gathered in the pit ,",
+        "DSS": "ו אספו אספה אסיר על בור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall be shut up in the prison",
+      "traditions": {
+        "WLC": "וְ סֻגְּר֖וּ עַל מַסְגֵּ֑ר",
+        "LXX": "καὶ ἀποκλείσουσιν εἰς ὀχύρωμα ,",
+        "VUL": "et claudéntur ibi in cárcere ,",
+        "SP": null,
+        "KJV": "and shall be shut up in the prison ,",
+        "DSS": "ו סגרו על מסגר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and after many days shall they be visited",
+      "traditions": {
+        "WLC": "וּ מֵ רֹ֥ב יָמִ֖ים יִפָּקֵֽדוּ",
+        "LXX": "διὰ πολλῶν γενεῶν ἐπισκοπὴ ἔσται αὐτῶν .",
+        "VUL": "et post multos dies visitabúntur .",
+        "SP": null,
+        "KJV": "and after many days shall they be visited .",
+        "DSS": "ו מ רב ימים יפקדו"
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then the moon shall be confounded, and the sun ashamed",
+      "traditions": {
+        "WLC": "וְ חָֽפְרָה֙ הַ לְּבָנָ֔ה וּ בוֹשָׁ֖ה הַֽ חַמָּ֑ה",
+        "LXX": "καὶ τακήσεται ἡ πλίνθος , καὶ πεσεῖται τὸ τεῖχος ·",
+        "VUL": "Et erubéscet luna , et confundétur sol ,",
+        "SP": null,
+        "KJV": "Then the moon shall be confounded , and the sun ashamed ,",
+        "DSS": "ו חפרה ה לבנה ו בושה ה חמה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when the LORD of hosts shall reign in mount Zion, and in Jerusalem",
+      "traditions": {
+        "WLC": "כִּֽי מָלַ֞ךְ יְהוָ֣ה צְבָא֗וֹת בְּ הַ֤ר צִיּוֹן֙ וּ בִ יר֣וּשָׁלִַ֔ם",
+        "LXX": "ὅτι βασιλεύσει Κύριος ἐκ Σειὼν καὶ εἰς Ἰερουσαλήμ ,",
+        "VUL": "cum regnáverit Dóminus exercítuum in monte Sion , et in Ierúsalem ,",
+        "SP": null,
+        "KJV": "when the LORD of hosts shall reign in mount Zion , and in Jerusalem ,",
+        "DSS": "כי מלך יהוה צבאות ב הר ציון ו ב ירושלם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and before his ancients",
+      "traditions": {
+        "WLC": "וְ נֶ֥גֶד זְקֵנָ֖י",
+        "LXX": "καὶ ἐνώπιον τῶν πρεσβυτέρων",
+        "VUL": "et in conspéctu senum suórum",
+        "SP": null,
+        "KJV": "and before his ancients",
+        "DSS": "ו נגד זקני׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "gloriously",
+      "traditions": {
+        "WLC": "ו כָּבֽוֹד",
+        "LXX": "δοξασθήσεται .",
+        "VUL": "fúerit glorificátus .",
+        "SP": null,
+        "KJV": "gloriously .",
+        "DSS": "כבוד"
+      }
+    }
+  ]
+}

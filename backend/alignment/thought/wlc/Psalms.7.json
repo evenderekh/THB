@@ -1,0 +1,602 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Shiggaion of David",
+      "traditions": {
+        "WLC": "שִׁגָּי֗וֹן לְ דָ֫וִ֥ד",
+        "LXX": "ψαλμὸς τῷ Δαυείδ ,",
+        "VUL": "Psalmus David ,",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which he sang to the Lord",
+      "traditions": {
+        "WLC": "אֲשֶׁר שָׁ֥ר לַ יהוָ֑ה",
+        "LXX": "ὃν ᾖσεν τῷ κυρίῳ",
+        "VUL": "quem cantávit Dómino",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "concerning the words of Cush the Benjamite",
+      "traditions": {
+        "WLC": "עַל דִּבְרֵי כ֝֗וּשׁ בֶּן יְמִינִֽי",
+        "LXX": "ὑπὲρ τῶν λόγων Χουσεὶ υἱοῦ Ἰεμενεί .",
+        "VUL": "pro verbis Chusi , fílii Iémini .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Shiggaion of David , which he sang unto the LORD , concerning the words of Cush the Benjamite .",
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "Shiggaion of David , which he sang unto the LORD , concerning the words of Cush the Benjamite .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "O LORD my God , in thee do I put my trust :",
+      "traditions": {
+        "WLC": "יְהוָ֣ה אֱ֭לֹהַ י בְּ ךָ֣ חָסִ֑יתִי",
+        "LXX": "Κύριε ὁ θεός μου , ἐπὶ σοὶ ἤλπισα ·",
+        "VUL": "Dómine Deus meus in te sperávi :",
+        "SP": null,
+        "KJV": "O LORD my God , in thee do I put my trust :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "save me from all them that persecute me ,",
+      "traditions": {
+        "WLC": "הוֹשִׁיעֵ֥ נִי מִ כָּל רֹ֝דְפַ֗ י",
+        "LXX": "σῶσόν με ἐκ πάντων τῶν διωκόντων με",
+        "VUL": "salvum me fac ex ómnibus persequéntibus me ,",
+        "SP": null,
+        "KJV": "save me from all them that persecute me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and deliver me :",
+      "traditions": {
+        "WLC": "וְ הַצִּילֵֽ נִי",
+        "LXX": "καὶ ῥῦσαί με ,",
+        "VUL": "et líbera me .",
+        "SP": null,
+        "KJV": "and deliver me :",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Lest he tear my soul like a lion",
+      "traditions": {
+        "WLC": "פֶּן יִטְרֹ֣ף כְּ אַרְיֵ֣ה נַפְשִׁ֑ י",
+        "LXX": "μή ποτε ἁρπάσῃ ὡς λέων τὴν ψυχήν μου ,",
+        "VUL": "Nequándo rápiat ut leo ánimam meam ,",
+        "SP": null,
+        "KJV": "Lest he tear my soul like a lion ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "rending [ it ] in pieces",
+      "traditions": {
+        "WLC": "פֹּ֝רֵ֗ק",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "rending [ it ] in pieces ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "while [ there is ] none to deliver",
+      "traditions": {
+        "WLC": "וְ אֵ֣ין מַצִּֽיל",
+        "LXX": "μὴ ὄντος λυτρουμένου μηδὲ σώζοντος .",
+        "VUL": "dum non est qui rédimat , neque qui salvum fáciat .",
+        "SP": null,
+        "KJV": "while [ there is ] none to deliver .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "O LORD my God, if I have done this",
+      "traditions": {
+        "WLC": "יְהוָ֣ה אֱ֭לֹהַ י אִם עָשִׂ֣יתִי זֹ֑את",
+        "LXX": "Κύριε ὁ θεός μου , εἰ ἐποίησα τοῦτο ,",
+        "VUL": "Dómine Deus meus si feci istud ,",
+        "SP": null,
+        "KJV": "O LORD my God , if I have done this ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "if there be iniquity in my hands",
+      "traditions": {
+        "WLC": "אִֽם יֶשׁ עָ֥וֶל בְּ כַפָּֽ י",
+        "LXX": "εἰ ἔστιν ἀδικία ἐν χερσίν μου ,",
+        "VUL": "si est iníquitas in mánibus meis :",
+        "SP": null,
+        "KJV": "if there be iniquity in my hands ;",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "If I have rewarded evil unto him that was at peace with me",
+      "traditions": {
+        "WLC": "אִם גָּ֭מַלְתִּי שֽׁוֹלְמִ֥ י רָ֑ע",
+        "LXX": "εἰ ἀνταπέδωκα τοῖς ἀνταποδιδοῦσίν μοι κακά ,",
+        "VUL": "si réddidi retribuéntibus mihi mala ,",
+        "SP": null,
+        "KJV": "If I have rewarded evil unto him that was at peace with me ; (",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "yea, I have delivered him that without cause is mine enemy",
+      "traditions": {
+        "WLC": "וָ אֲחַלְּצָ֖ ה צוֹרְרִ֣ י רֵיקָֽם",
+        "LXX": "ἀποπέσοιμι ἄρα ἀπὸ τῶν ἐχθρῶν μου κενός ·",
+        "VUL": "décidam mérito ab inimícis meis inánis .",
+        "SP": null,
+        "KJV": "yea , I have delivered him that without cause is mine enemy : )",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let the enemy persecute my soul, and take [ it ]",
+      "traditions": {
+        "WLC": "יִֽרַדֹּ֥ף אוֹיֵ֨ב נַפְשִׁ֡ י וְ יַשֵּׂ֗ג",
+        "LXX": "καταδιώξαι ἄρα ὁ ἐχθρὸς τὴν ψυχήν μου καὶ καταλάβοι ,",
+        "VUL": "Persequátur inimícus ánimam meam , et comprehéndat ,",
+        "SP": null,
+        "KJV": "Let the enemy persecute my soul , and take [ it ] ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "yea, let him tread down my life upon the earth",
+      "traditions": {
+        "WLC": "וְ יִרְמֹ֣ס לָ אָ֣רֶץ חַיָּ֑ י",
+        "LXX": "καὶ καταπατήσαι εἰς γῆν τὴν ζωήν μου ,",
+        "VUL": "et concúlcet in terra vitam meam ,",
+        "SP": null,
+        "KJV": "yea , let him tread down my life upon the earth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and lay mine honour in the dust",
+      "traditions": {
+        "WLC": "וּ כְבוֹדִ֓ י לֶ עָפָ֖ר יַשְׁכֵּ֣ן",
+        "LXX": "καὶ τὴν δόξαν μου εἰς χοῦν κατασκηνώσαι .",
+        "VUL": "et glóriam meam in púlverem dedúcat .",
+        "SP": null,
+        "KJV": "and lay mine honour in the dust .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Selah",
+      "traditions": {
+        "WLC": "סֶֽלָה",
+        "LXX": "διάψαλμα .",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Selah .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Arise, O LORD, in thine anger",
+      "traditions": {
+        "WLC": "ק֘וּמָ֤ ה יְהוָ֨ה בְּ אַפֶּ֗ ךָ",
+        "LXX": "ἀνάστηθι , Κύριε , ἐν ὀργῇ σου ,",
+        "VUL": "Exsúrge Dómine in ira tua ,",
+        "SP": null,
+        "KJV": "Arise , O LORD , in thine anger ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "lift up thyself because of the rage of mine enemies",
+      "traditions": {
+        "WLC": "הִ֭נָּשֵׂא בְּ עַבְר֣וֹת צוֹרְרָ֑ י",
+        "LXX": "ὑψώθητι ἐν τοῖς πέρασι τῶν ἐχθρῶν μου ·",
+        "VUL": "et exaltáre in fínibus inimicórum meórum .",
+        "SP": null,
+        "KJV": "lift up thyself because of the rage of mine enemies :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and awake for me [ to ] the judgment [ that ] thou hast commanded",
+      "traditions": {
+        "WLC": "וְ ע֥וּרָ ה אֵ֝לַ֗ י מִשְׁפָּ֥ט צִוִּֽיתָ",
+        "LXX": "ἐξεγέρθητι , Κύριε ὁ θεός μου , ἐν προστάγματι ᾧ ἐνετείλω .",
+        "VUL": "Et exsúrge Dómine Deus meus in præcépto quod mandásti :",
+        "SP": null,
+        "KJV": "and awake for me [ to ] the judgment [ that ] thou hast commanded .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "So shall the congregation of the people compass thee about",
+      "traditions": {
+        "WLC": "וַ עֲדַ֣ת לְ֭אֻמִּים תְּסוֹבְבֶ֑ ךָּ",
+        "LXX": "καὶ συναγωγὴ λαῶν κυκλώσει σε ·",
+        "VUL": "et synagóga populórum circúmdabit te .",
+        "SP": null,
+        "KJV": "So shall the congregation of the people compass thee about :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for their sakes therefore return thou on high",
+      "traditions": {
+        "WLC": "וְ֝ עָלֶ֗י הָ לַ מָּר֥וֹם שֽׁוּבָ ה",
+        "LXX": "καὶ ὑπὲρ ταύτης εἰς ὕψος ἐπίστρεψον .",
+        "VUL": "Et propter hanc in altum regrédere :",
+        "SP": null,
+        "KJV": "for their sakes therefore return thou on high .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD shall judge the people",
+      "traditions": {
+        "WLC": "יְהוָה֮ יָדִ֪ין עַ֫מִּ֥ים",
+        "LXX": "Κύριος κρινεῖ λαούς ·",
+        "VUL": "Dóminus iúdicat pópulos .",
+        "SP": null,
+        "KJV": "The LORD shall judge the people :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "judge me, O LORD, according to my righteousness",
+      "traditions": {
+        "WLC": "שָׁפְטֵ֥ נִי יְהוָ֑ה כְּ צִדְקִ֖ י",
+        "LXX": "κρῖνόν με , Κύριε , κατὰ τὴν δικαιοσύνην μου",
+        "VUL": "Iúdica me Dómine secúndum iustítiam meam ,",
+        "SP": null,
+        "KJV": "judge me , O LORD , according to my righteousness ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and according to mine integrity [ that is ] in me",
+      "traditions": {
+        "WLC": "וּ כְ תֻמִּ֣ י עָלָֽ י",
+        "LXX": "καὶ κατὰ τὴν ἀκακίαν μου ἐπ᾽ ἐμοί .",
+        "VUL": "et secúndum innocéntiam meam super me .",
+        "SP": null,
+        "KJV": "and according to mine integrity [ that is ] in me .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Oh let the wickedness of the wicked come to an end",
+      "traditions": {
+        "WLC": "יִגְמָר נָ֬א רַ֨ע רְשָׁעִים֮",
+        "LXX": "συντελεσθήτω δὴ πονηρία ἁμαρτωλῶν ,",
+        "VUL": "Consumétur nequítia peccatórum ,",
+        "SP": null,
+        "KJV": "Oh let the wickedness of the wicked come to an end ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but establish the just",
+      "traditions": {
+        "WLC": "וּ תְכוֹנֵ֪ן צַ֫דִּ֥יק",
+        "LXX": "καὶ κατευθυνεῖς δίκαιον ·",
+        "VUL": "et díriges iustum ,",
+        "SP": null,
+        "KJV": "but establish the just :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for the righteous God trieth the hearts and reins",
+      "traditions": {
+        "WLC": "וּ בֹחֵ֣ן לִ֭בּ֗וֹת וּ כְלָי֗וֹת אֱלֹהִ֥ים צַדִּֽיק",
+        "LXX": "ἐτάζων καρδίας καὶ νεφροὺς ὁ θεός .",
+        "VUL": "scrutans corda et renes Deus .",
+        "SP": null,
+        "KJV": "for the righteous God trieth the hearts and reins .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "My defence [ is ] of God",
+      "traditions": {
+        "WLC": "מָֽגִנִּ֥ י עַל אֱלֹהִ֑ים",
+        "LXX": "δικαία ἡ βοήθειά μου παρὰ τοῦ θεοῦ",
+        "VUL": "Iustum adiutórium meum a Dómino ,",
+        "SP": null,
+        "KJV": "My defence [ is ] of God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which saveth the upright in heart",
+      "traditions": {
+        "WLC": "מ֝וֹשִׁ֗יעַ יִשְׁרֵי לֵֽב",
+        "LXX": "τοῦ σώζοντος τοὺς εὐθεῖς τῇ καρδίᾳ .",
+        "VUL": "qui salvos facit rectos corde .",
+        "SP": null,
+        "KJV": "which saveth the upright in heart .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "God judgeth the righteous",
+      "traditions": {
+        "WLC": "אֱ֭לֹהִים שׁוֹפֵ֣ט צַדִּ֑יק",
+        "LXX": "ὁ θεὸς κριτὴς δίκαιος",
+        "VUL": "Deus iudex iustus ,",
+        "SP": null,
+        "KJV": "God judgeth the righteous ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and God is angry [ with the wicked ] every day",
+      "traditions": {
+        "WLC": "וְ֝ אֵ֗ל זֹעֵ֥ם בְּ כָל יֽוֹם",
+        "LXX": "καὶ ἰσχυρὸς καὶ μακρόθυμος , μὴ ὀργὴν ἐπάγων καθ᾽ ἑκάστην ἡμέραν .",
+        "VUL": "fortis , et pátiens : numquid iráscitur per síngulos dies ?",
+        "SP": null,
+        "KJV": "and God is angry [ with the wicked ] every day .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "If he turn not",
+      "traditions": {
+        "WLC": "אִם לֹ֣א יָ֭שׁוּב",
+        "LXX": "ἐὰν μὴ ἐπιστραφῆτε ,",
+        "VUL": "Nisi convérsi fuéritis ,",
+        "SP": null,
+        "KJV": "If he turn not ,",
+        "DSS": "ε אם ל ]א## [ ישוב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he will whet his sword",
+      "traditions": {
+        "WLC": "חַרְבּ֣ וֹ יִלְט֑וֹשׁ",
+        "LXX": "τὴν ῥομφαίαν αὐτοῦ στιλβώσει ·",
+        "VUL": "gládium suum vibrábit :",
+        "SP": null,
+        "KJV": "he will whet his sword ;",
+        "DSS": "חרב׳ו יל ]ט#ו?ש##"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he hath bent his bow, and made it ready",
+      "traditions": {
+        "WLC": "קַשְׁתּ֥ וֹ דָ֝רַ֗ךְ וַֽ יְכוֹנְנֶֽ הָ",
+        "LXX": "τὸ τόξον αὐτοῦ ἐνέτεινεν , καὶ ἡτοίμασεν αὐτό ·",
+        "VUL": "arcum suum teténdit , et parávit illum .",
+        "SP": null,
+        "KJV": "he hath bent his bow , and made it ready .",
+        "DSS": "[ 5/6hev1b] [ קשת׳ו דרך ו י ]כ##וננ׳ה"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "He hath also prepared for him the instruments of death",
+      "traditions": {
+        "WLC": "וְ֭ ל וֹ הֵכִ֣ין כְּלֵי מָ֑וֶת",
+        "LXX": "καὶ ἐν αὐτῷ ἡτοίμασεν σκεύη θανάτου ,",
+        "VUL": "Et in eo parávit vasa mortis ,",
+        "SP": null,
+        "KJV": "He hath also prepared for him the instruments of death ;",
+        "DSS": "[5/6hev1b] ו ל׳ו הכין כלי מו?ת"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he ordaineth his arrows against the persecutors",
+      "traditions": {
+        "WLC": "חִ֝צָּ֗י ו לְֽ דֹלְקִ֥ים יִפְעָֽל",
+        "LXX": "τὰ βέλη αὐτοῦ τοῖς καιομένοις ἐξειργάσατο .",
+        "VUL": "sagíttas suas ardéntibus effécit .",
+        "SP": null,
+        "KJV": "he ordaineth his arrows against the persecutors .",
+        "DSS": "[ חצי׳ו ל דלקים  ]יפעל"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , he travaileth with iniquity ,",
+      "traditions": {
+        "WLC": "הִנֵּ֥ה יְחַבֶּל אָ֑וֶן",
+        "LXX": "ἰδοὺ ὠδίνησεν ἀνομίαν ,",
+        "VUL": "Ecce partúriit iniustítiam :",
+        "SP": null,
+        "KJV": "Behold , he travaileth with iniquity ,",
+        "DSS": "[5/6hev1b] הנה יחבל או#?ן?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and hath conceived mischief ,",
+      "traditions": {
+        "WLC": "וְ הָרָ֥ה עָ֝מָ֗ל",
+        "LXX": "συνέλαβεν πόνον",
+        "VUL": "concépit dolórem ,",
+        "SP": null,
+        "KJV": "and hath conceived mischief ,",
+        "DSS": "[ ו הרה עמל ו י ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and brought forth falsehood .",
+      "traditions": {
+        "WLC": "וְ יָ֣לַד שָֽׁקֶר",
+        "LXX": "καὶ ἔτεκεν ἀδικίαν ·",
+        "VUL": "et péperit iniquitátem .",
+        "SP": null,
+        "KJV": "and brought forth falsehood .",
+        "DSS": "לד שקר# ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "He made a pit, and digged it",
+      "traditions": {
+        "WLC": "בּ֣וֹר כָּ֭רָֽה וַֽ יַּחְפְּרֵ֑ הוּ",
+        "LXX": "λάκκον ὤρυξεν καὶ ἀνέσκαψεν αὐτόν ,",
+        "VUL": "Lacum apéruit , et effódit eum :",
+        "SP": null,
+        "KJV": "He made a pit , and digged it ,",
+        "DSS": "[5/6hev1b] בור כרה ו יחפר#׳הו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and is fallen into the ditch [ which ] he made",
+      "traditions": {
+        "WLC": "וַ֝ יִּפֹּ֗ל בְּ שַׁ֣חַת יִפְעָֽל",
+        "LXX": "καὶ ἐνπεσεῖται εἰς βόθρον ὃν εἰργάσατο ·",
+        "VUL": "et íncidit in fóveam , quam fecit .",
+        "SP": null,
+        "KJV": "and is fallen into the ditch [ which ] he made .",
+        "DSS": "[ ו יפל ב שחת יפע ]ל##["
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "His mischief shall return upon his own head",
+      "traditions": {
+        "WLC": "יָשׁ֣וּב עֲמָל֣ וֹ בְ רֹאשׁ֑ וֹ",
+        "LXX": "ἐπιστρέψει ὁ πόνος αὐτοῦ εἰς κεφαλὴν αὐτοῦ ,",
+        "VUL": "Convertétur dolor eius in caput eius ,",
+        "SP": null,
+        "KJV": "His mischief shall return upon his own head ,",
+        "DSS": "[5/6hev1b] ישוב עמל׳ו ב ראש׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and his violent dealing shall come down upon his own pate",
+      "traditions": {
+        "WLC": "וְ עַ֥ל קָ֝דְקֳד֗ וֹ חֲמָס֥ וֹ יֵרֵֽד",
+        "LXX": "καὶ ἐπὶ κορυφὴν αὐτοῦ ἡ ἀδικία αὐτοῦ καταβήσεται .",
+        "VUL": "et in vérticem ipsíus iníquitas eius descéndet .",
+        "SP": null,
+        "KJV": "and his violent dealing shall come down upon his own pate .",
+        "DSS": "[ ו על קדקד׳ו חמס׳ו י ]רד"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will praise the LORD according to his righteousness",
+      "traditions": {
+        "WLC": "אוֹדֶ֣ה יְהוָ֣ה כְּ צִדְק֑ וֹ",
+        "LXX": "ἐξομολογήσομαι Κυρίῳ κατὰ τὴν δικαιοσύνην αὐτοῦ ,",
+        "VUL": "Confitébor Dómino secúndum iustítiam eius ,",
+        "SP": null,
+        "KJV": "I will praise the LORD according to his righteousness :",
+        "DSS": "[5/6hev1b] אודה יהוה כ צד#ק׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and will sing praise to the name of the LORD most high",
+      "traditions": {
+        "WLC": "וַ֝ אֲזַמְּרָ֗ה שֵֽׁם יְהוָ֥ה עֶלְיֽוֹן",
+        "LXX": "καὶ ψαλῶ τῷ ὀνόματι Κυρίου τοῦ ὑψίστου .",
+        "VUL": "et psallam nómini Dómini altíssimi .",
+        "SP": null,
+        "KJV": "and will sing praise to the name of the LORD most high .",
+        "DSS": "[ ו אזמרה שם יהו ]ה# עליון"
+      }
+    }
+  ]
+}

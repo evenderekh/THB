@@ -1,0 +1,260 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise ye the LORD .",
+      "traditions": {
+        "WLC": "הַ֥לְלוּ יָ֨הּ",
+        "LXX": "Ἁλληλουιά",
+        "VUL": "Allelúia .",
+        "SP": null,
+        "KJV": "Praise ye the LORD .",
+        "DSS": "[4Q84] הללו#? יה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Praise , O ye servants of the LORD ,",
+      "traditions": {
+        "WLC": "הַ֭לְלוּ עַבְדֵ֣י יְהוָ֑ה",
+        "LXX": "Αἰνεῖτε , παῖδες , Κύριον ,",
+        "VUL": "Laudáte púeri Dóminum :",
+        "SP": null,
+        "KJV": "Praise , O ye servants of the LORD ,",
+        "DSS": "[ הללו עבדי יהוה ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "praise the name of the LORD .",
+      "traditions": {
+        "WLC": "הַֽ֝לְלוּ אֶת שֵׁ֥ם יְהוָֽה",
+        "LXX": "αἰνεῖτε τὸ ὄνομα αὐτοῦ .",
+        "VUL": "laudáte nomen Dómini .",
+        "SP": null,
+        "KJV": "praise the name of the LORD .",
+        "DSS": "[ הללו את שם יהוה ] ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Blessed be the name of the LORD",
+      "traditions": {
+        "WLC": "יְהִ֤י שֵׁ֣ם יְהוָ֣ה מְבֹרָ֑ךְ",
+        "LXX": "εἴη τὸ ὄνομα Κυρίου εὐλογημένον",
+        "VUL": "Sit nomen Dómini benedíctum ,",
+        "SP": null,
+        "KJV": "Blessed be the name of the LORD",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "from this time forth and for evermore",
+      "traditions": {
+        "WLC": "מֵֽ֝ עַתָּ֗ה וְ עַד עוֹלָֽם",
+        "LXX": "ἀπὸ τοῦ νῦν καὶ ἕως τοῦ αἰῶνος ·",
+        "VUL": "ex hoc nunc et usque in sǽculum .",
+        "SP": null,
+        "KJV": "from this time forth and for evermore .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "From the rising of the sun unto the going down of the same",
+      "traditions": {
+        "WLC": "מִ מִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑ וֹ",
+        "LXX": "ἀπὸ ἀνατολῶν ἡλίου μέχρι δυσμῶν",
+        "VUL": "A solis ortu usque ad occásum ,",
+        "SP": null,
+        "KJV": "From the rising of the sun unto the going down of the same",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the LORD ’S name [ is ] to be praised",
+      "traditions": {
+        "WLC": "מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה",
+        "LXX": "αἰνεῖται τὸ ὄνομα Κυρίου .",
+        "VUL": "laudábile nomen Dómini .",
+        "SP": null,
+        "KJV": "the LORD ’S name [ is ] to be praised .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD [ is ] high above all nations",
+      "traditions": {
+        "WLC": "רָ֖ם עַל כָּל גּוֹיִ֥ם יְהוָ֑ה",
+        "LXX": "ὑψηλὸς ἐπὶ πάντα τὰ ἔθνη ὁ κύριος ,",
+        "VUL": "Excélsus super omnes gentes Dóminus ,",
+        "SP": null,
+        "KJV": "The LORD [ is ] high above all nations , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "his glory above the heavens",
+      "traditions": {
+        "WLC": "עַ֖ל הַ שָּׁמַ֣יִם כְּבוֹדֽ וֹ",
+        "LXX": "ἐπὶ τοὺς οὐρανοὺς ἡ δόξα αὐτοῦ .",
+        "VUL": "et super cælos glória eius .",
+        "SP": null,
+        "KJV": "his glory above the heavens .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who [ is ] like unto the LORD our God",
+      "traditions": {
+        "WLC": "מִ֭י כַּ יהוָ֣ה אֱלֹהֵ֑י נוּ",
+        "LXX": "τίς ὡς Κύριος ὁ θεὸς ἡμῶν ;",
+        "VUL": "Quis sicut Dóminus Deus noster ,",
+        "SP": null,
+        "KJV": "Who [ is ] like unto the LORD our God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "who dwelleth on high",
+      "traditions": {
+        "WLC": "הַֽ מַּגְבִּיהִ֥י לָ שָֽׁבֶת",
+        "LXX": "ὁ ἐν ὑψηλοῖς κατοικῶν ,",
+        "VUL": "qui in altis hábitat ,",
+        "SP": null,
+        "KJV": "who dwelleth on high ,",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who humbleth [ himself ] to behold [ the things that are ] in heaven",
+      "traditions": {
+        "WLC": "הַֽ מַּשְׁפִּילִ֥י לִ רְא֑וֹת בַּ שָּׁמַ֥יִם",
+        "LXX": "καὶ τὰ ταπεινὰ ἐφορῶν ἐν τῷ οὐρανῷ",
+        "VUL": "et humília réspicit in cælo",
+        "SP": null,
+        "KJV": "Who humbleth [ himself ] to behold [ the things that are ] in heaven ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and in the earth",
+      "traditions": {
+        "WLC": "וּ בָ אָֽרֶץ",
+        "LXX": "καὶ ἐν τῇ γῇ ·",
+        "VUL": "et in terra ?",
+        "SP": null,
+        "KJV": "and in the earth !",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "He raiseth up the poor out of the dust",
+      "traditions": {
+        "WLC": "מְקִֽימִ֣י מֵ עָפָ֣ר דָּ֑ל",
+        "LXX": "ὁ ἐγείρων ἀπὸ γῆς πτωχόν ,",
+        "VUL": "Súscitans a terra ínopem ,",
+        "SP": null,
+        "KJV": "He raiseth up the poor out of the dust , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "lifteth the needy out of the dunghill",
+      "traditions": {
+        "WLC": "מֵֽ֝ אַשְׁפֹּ֗ת יָרִ֥ים אֶבְיֽוֹן",
+        "LXX": "καὶ ἀπὸ κοπρίας ἀνυψῶν πένητα ,",
+        "VUL": "et de stércore érigens páuperem :",
+        "SP": null,
+        "KJV": "lifteth the needy out of the dunghill ;",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "That he may set [ him ] with princes",
+      "traditions": {
+        "WLC": "לְ הוֹשִׁיבִ֥י עִם נְדִיבִ֑ים",
+        "LXX": "τοῦ καθίσαι αὐτὸν μετὰ ἀρχόντων ,",
+        "VUL": "ut cóllocet eum cum princípibus ,",
+        "SP": null,
+        "KJV": "That he may set [ him ] with princes , [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "even with the princes of his people",
+      "traditions": {
+        "WLC": "עִ֝֗ם נְדִיבֵ֥י עַמּֽ וֹ",
+        "LXX": "μετὰ ἀρχόντων λαοῦ αὐτοῦ ·",
+        "VUL": "cum princípibus pópuli sui .",
+        "SP": null,
+        "KJV": "even ] with the princes of his people .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "He maketh the barren woman to keep house",
+      "traditions": {
+        "WLC": "מֽוֹשִׁיבִ֨י עֲקֶ֬רֶת הַ בַּ֗יִת",
+        "LXX": "ὁ κατοικίζων στεῖραν ἐν οἴκῳ ,",
+        "VUL": "Qui habitáre facit stérilem in domo ,",
+        "SP": null,
+        "KJV": "He maketh the barren woman to keep house , [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and to be a joyful mother of children",
+      "traditions": {
+        "WLC": "אֵֽם הַ בָּנִ֥ים שְׂמֵחָ֗ה",
+        "LXX": "μητέρα τέκνων εὐφραινομένων .",
+        "VUL": "matrem filiórum lætántem .",
+        "SP": null,
+        "KJV": "and to be ] a joyful mother of children .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Praise ye the LORD",
+      "traditions": {
+        "WLC": "הַֽלְלוּ יָֽהּ",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "Praise ye the LORD .",
+        "DSS": null
+      }
+    }
+  ]
+}

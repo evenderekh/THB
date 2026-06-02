@@ -1,0 +1,818 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the rulers of the people dwelt at Jerusalem",
+      "traditions": {
+        "WLC": "וַ יֵּשְׁב֥וּ שָׂרֵֽי הָ עָ֖ם בִּ ירוּשָׁלִָ֑ם",
+        "LXX": "Καὶ ἐκάθισαν οἱ ἄρχοντες τοῦ λαοῦ ἐν Ἰερουσαλήμ ·",
+        "VUL": "Habitavérunt autem príncipes pópuli in Ierúsalem :",
+        "SP": null,
+        "KJV": "And the rulers of the people dwelt at Jerusalem :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the rest of the people also cast lots",
+      "traditions": {
+        "WLC": "וּ שְׁאָ֣ר הָ֠ עָם הִפִּ֨ילוּ גוֹרָל֜וֹת",
+        "LXX": "καὶ οἱ κατάλοιποι τοῦ λαοῦ ἐλάβοσαν κλήρους",
+        "VUL": "réliqua vero plebs misit sortem ,",
+        "SP": null,
+        "KJV": "the rest of the people also cast lots ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to bring one of ten to dwell in Jerusalem",
+      "traditions": {
+        "WLC": "לְ הָבִ֣יא אֶחָ֣ד מִן הָ עֲשָׂרָ֗ה לָ שֶׁ֨בֶת֙ בִּֽ ירוּשָׁלִַ֨ם֙",
+        "LXX": "ἐνέγκαι ἕνα ἀπὸ τῶν δέκα καθίσαι ἐν Ἰερουσαλήμ ,",
+        "VUL": "ut tóllerent unam partem de decem , qui habitatúri essent in Ierúsalem",
+        "SP": null,
+        "KJV": "to bring one of ten to dwell in Jerusalem",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the holy city",
+      "traditions": {
+        "WLC": "עִ֣יר הַ קֹּ֔דֶשׁ",
+        "LXX": "πόλει τῇ ἁγίᾳ ,",
+        "VUL": "civitáte sancta ,",
+        "SP": null,
+        "KJV": "the holy city ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and nine parts [ to dwell ] in [ other ] cities",
+      "traditions": {
+        "WLC": "וְ תֵ֥שַׁע הַ יָּד֖וֹת בֶּ עָרִֽים",
+        "LXX": "καὶ ἐννέα μέρη ἐν ταῖς πόλεσιν .",
+        "VUL": "novem vero partes in civitátibus .",
+        "SP": null,
+        "KJV": "and nine parts [ to dwell ] in [ other ] cities .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the people blessed all the men , that willingly offered themselves to dwell at Jerusalem",
+      "traditions": {
+        "WLC": "וַֽ יְבָרֲכ֖וּ הָ עָ֑ם לְ כֹל֙ הָֽ אֲנָשִׁ֔ים הַ מִּֽתְנַדְּבִ֔ים לָ שֶׁ֖בֶת בִּ ירוּשָׁלִָֽם",
+        "LXX": "καὶ εὐλόγησεν ὁ λαὸς τοὺς πάντας ἄνδρας τοὺς ἑκουσιαζομένους καθίσαι ἐν Ἰερουσαλήμ .",
+        "VUL": "Benedíxit autem pópulus ómnibus viris , qui se sponte obtúlerant ut habitárent in Ierúsalem .",
+        "SP": null,
+        "KJV": "And the people blessed all the men , that willingly offered themselves to dwell at Jerusalem .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Now these [ are ] the chief of the province that dwelt in Jerusalem",
+      "traditions": {
+        "WLC": "וְ אֵ֨לֶּה֙ רָאשֵׁ֣י הַ מְּדִינָ֔ה אֲשֶׁ֥ר יָשְׁב֖וּ בִּ ירוּשָׁלִָ֑ם",
+        "LXX": "καὶ οὗτοι οἱ ἄρχοντες τῆς χώρας οἳ ἐκάθισαν ἐν Ἰερουσαλήμ ·",
+        "VUL": "Hi sunt ítaque príncipes provínciæ , qui habitavérunt in Ierúsalem ,",
+        "SP": null,
+        "KJV": "Now these [ are ] the chief of the province that dwelt in Jerusalem :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but in the cities of Judah dwelt every one in his possession in their cities",
+      "traditions": {
+        "WLC": "וּ בְ עָרֵ֣י יְהוּדָ֗ה יָֽשְׁב֞וּ אִ֤ישׁ בַּ אֲחֻזָּת וֹ֙ בְּ עָ֣רֵי הֶ֔ם",
+        "LXX": "καὶ ἐν πόλεσιν Ἰούδα ἐκάθισεν ἀνὴρ ἐν κατασχέσει αὐτοῦ ἐν πόλεσιν αὐτῶν ,",
+        "VUL": "et in civitátibus Iuda . Habitávit autem unusquísque in possessióne sua , in úrbibus suis ,",
+        "SP": null,
+        "KJV": "but in the cities of Judah dwelt every one in his possession in their cities , [ to wit ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Israel , the priests , and the Levites , and the Nethinims , and the children of Solomon ’s servants",
+      "traditions": {
+        "WLC": "יִשְׂרָאֵ֤ל הַ כֹּהֲנִים֙ וְ הַ לְוִיִּ֣ם וְ הַ נְּתִינִ֔ים וּ בְנֵ֖י עַבְדֵ֥י שְׁלֹמֹֽה",
+        "LXX": "Ἰσραήλ , οἱ ἱερεῖς καὶ οἱ Λευεῖται καὶ οἱ υἱοὶ δούλων Σαλωμών .",
+        "VUL": "Israel , sacerdótes , Levítæ , Nathinǽi , et fílii servórum Salomónis .",
+        "SP": null,
+        "KJV": "Israel , the priests , and the Levites , and the Nethinims , and the children of Solomon ’s servants .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And at Jerusalem dwelt [ certain ] of the children of Judah , and of the children of Benjamin",
+      "traditions": {
+        "WLC": "וּ בִֽ ירוּשָׁלִַ֨ם֙ יָֽשְׁב֔וּ מִ בְּנֵ֥י יְהוּדָ֖ה וּ מִ בְּנֵ֣י בִנְיָמִ֑ן",
+        "LXX": "καὶ ἐν Ἰερουσαλὴμ ἐκάθισαν ἀπὸ υἱῶν Ἰούδα καὶ ἀπὸ υἱῶν Βενιαμείν .",
+        "VUL": "Et in Ierúsalem habitavérunt de fíliis Iuda , et de fíliis Béniamin :",
+        "SP": null,
+        "KJV": "And at Jerusalem dwelt [ certain ] of the children of Judah , and of the children of Benjamin .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Of the children of Judah ; Athaiah the son of Uzziah , the son of Zechariah , the son of Amariah , the son of Shephatiah , the son of Mahalaleel , of the children of Perez",
+      "traditions": {
+        "WLC": "מִ בְּנֵ֣י יְ֠הוּדָה עֲתָיָ֨ה בֶן עֻזִּיָּ֜ה בֶּן זְכַרְיָ֧ה בֶן אֲמַרְיָ֛ה בֶּן שְׁפַטְיָ֥ה בֶן מַהֲלַלְאֵ֖ל מִ בְּנֵי פָֽרֶץ",
+        "LXX": "ἀπὸ υἱῶν Ἰούδα · Ἀθεὰ υἱὸς Ἀζὲδ υἱὸς Ζαχαριὰ υἱὸς Σαμαρειὰ υἱὸς Σαφατιὰ υἱὸς Μαλελήμ , καὶ ἀπὸ υἱῶν Φάρες .",
+        "VUL": "de fíliis Iuda , Athaías fílius Azíam , fílii Zacharíæ , fílii Amaríæ , fílii Saphatíæ , fílii Maláleel : de fíliis Phares ,",
+        "SP": null,
+        "KJV": "Of the children of Judah ; Athaiah the son of Uzziah , the son of Zechariah , the son of Amariah , the son of Shephatiah , the son of Mahalaleel , of the children of Perez ;",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Maaseiah the son of Baruch , the son of Colhozeh , the son of Hazaiah , the son of Adaiah , the son of Joiarib , the son of Zechariah , the son of Shiloni",
+      "traditions": {
+        "WLC": "וּ מַעֲשֵׂיָ֣ה בֶן בָּר֣וּךְ בֶּן כָּל חֹ֠זֶה בֶּן חֲזָיָ֨ה בֶן עֲדָיָ֧ה בֶן יוֹיָרִ֛יב בֶּן זְכַרְיָ֖ה בֶּן הַ שִּׁלֹנִֽי",
+        "LXX": "καὶ Μαασειὰ υἱὸς Βαροὺχ υἱὸς Χαλεὰ υἱὸς Ὁζειὰ υἱὸς Δαλεὰ υἱὸς Ἰωρεὶβ υἱὸς Θηζειὰ υἱὸς τοῦ Δηλωνέ .",
+        "VUL": "Maasía fílius Baruch , fílius Cholhóza , fílius Hazía , fílius Adaía , fílius Ióiarib , fílius Zacharíæ , fílius Silonítis :",
+        "SP": null,
+        "KJV": "And Maaseiah the son of Baruch , the son of Colhozeh , the son of Hazaiah , the son of Adaiah , the son of Joiarib , the son of Zechariah , the son of Shiloni .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "All the sons of Perez that dwelt at Jerusalem [ were ] four hundred threescore and eight valiant men",
+      "traditions": {
+        "WLC": "כָּל בְּנֵי פֶ֕רֶץ הַ יֹּשְׁבִ֖ים בִּ ירוּשָׁלִָ֑ם אַרְבַּ֥ע מֵא֛וֹת שִׁשִּׁ֥ים וּ שְׁמֹנָ֖ה אַנְשֵׁי חָֽיִל",
+        "LXX": "πάντες υἱοὶ Σέρες οἱ καθήμενοι ἐν Ἰερουσαλὴμ τετρακόσιοι ἑξήκοντα ὀκτὼ ἄνδρες δυνάμεως .",
+        "VUL": "omnes hi fílii Phares , qui habitavérunt in Ierúsalem , quadringénti sexagínta octo viri fortes .",
+        "SP": null,
+        "KJV": "All the sons of Perez that dwelt at Jerusalem [ were ] four hundred threescore and eight valiant men .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And these [ are ] the sons of Benjamin ; Sallu the son of Meshullam , the son of Joed , the son of Pedaiah , the son of Kolaiah , the son of Maaseiah , the son of Ithiel , the son of Jesaiah",
+      "traditions": {
+        "WLC": "וְ אֵ֖לֶּה בְּנֵ֣י בִנְיָמִ֑ן סַלֻּ֡א בֶּן מְשֻׁלָּ֡ם בֶּן יוֹעֵ֡ד בֶּן פְּדָיָה֩ בֶן ק֨וֹלָיָ֧ה בֶן מַעֲשֵׂיָ֛ה בֶּן אִֽיתִיאֵ֖ל בֶּן יְשַֽׁעְיָֽה",
+        "LXX": "καὶ οὗτοι υἱοὶ Βενιαμείν · Σηλὼ υἱὸς Ἀμεσουλά , Ἰωὰδ υἱὸς Φαλαιὰ υἱὸς Κοδιὰ υἱὸς Μαγαὴλ υἱὸς Αἰθιὴλ υἱὸς Ἰεσιά ·",
+        "VUL": "Hi sunt autem fílii Béniamin : Sellum fílius Mosóllam , fílius Ioed , fílius Phadaía , fílius Colaía , fílius Masía , fílius Etheel , fílius Isaía ,",
+        "SP": null,
+        "KJV": "And these [ are ] the sons of Benjamin ; Sallu the son of Meshullam , the son of Joed , the son of Pedaiah , the son of Kolaiah , the son of Maaseiah , the son of Ithiel , the son of Jesaiah .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And after him Gabbai , Sallai , nine hundred twenty and eight",
+      "traditions": {
+        "WLC": "וְ אַחֲרָ֖י ו גַּבַּ֣י סַלָּ֑י תְּשַׁ֥ע מֵא֖וֹת עֶשְׂרִ֥ים וּ שְׁמֹנָֽה",
+        "LXX": "καὶ ὀπίσω αὐτοῦ Γηβή , Σηλεί , ἐννακόσιοι εἴκοσι ὀκτώ .",
+        "VUL": "et post eum Gébbai , Séllai , nongénti vigínti octo ,",
+        "SP": null,
+        "KJV": "And after him Gabbai , Sallai , nine hundred twenty and eight .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Joel the son of Zichri [ was ] their overseer",
+      "traditions": {
+        "WLC": "וְ יוֹאֵ֥ל בֶּן זִכְרִ֖י פָּקִ֣יד עֲלֵי הֶ֑ם",
+        "LXX": "καὶ Ἰωὴλ υἱὸς Ζεχρεὶ ἐπίσκοπος ἐπ᾽ αὐτούς ,",
+        "VUL": "et Ioel fílius Zechri præpósitus eórum ,",
+        "SP": null,
+        "KJV": "And Joel the son of Zichri [ was ] their overseer :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Judah the son of Senuah [ was ] second over the city",
+      "traditions": {
+        "WLC": "וִ יהוּדָ֧ה בֶן הַ סְּנוּאָ֛ה עַל הָ עִ֖יר מִשְׁנֶֽה",
+        "LXX": "καὶ Ἰούδας υἱὸς Ἁσανὰ ἐπὶ τῆς πόλεως δεύτερος .",
+        "VUL": "et Iudas fílius Sénua super civitátem secúndus .",
+        "SP": null,
+        "KJV": "and Judah the son of Senuah [ was ] second over the city .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Of the priests : Jedaiah the son of Joiarib , Jachin",
+      "traditions": {
+        "WLC": "מִן הַֽ כֹּהֲנִ֑ים יְדַֽעְיָ֥ה בֶן יוֹיָרִ֖יב יָכִֽין",
+        "LXX": "ἀπὸ τῶν ἱερέων καὶ Δαδειὰ υἱὸς Ἰωρείβ , Ἰαχείν ,",
+        "VUL": "Et de sacerdótibus , Idaía fílius Ióarib , Iachin ,",
+        "SP": null,
+        "KJV": "Of the priests : Jedaiah the son of Joiarib , Jachin .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Seraiah the son of Hilkiah , the son of Meshullam , the son of Zadok , the son of Meraioth , the son of Ahitub , [ was ] the ruler of the house of God .",
+      "traditions": {
+        "WLC": "שְׂרָיָ֨ה בֶן חִלְקִיָּ֜ה בֶּן מְשֻׁלָּ֣ם בֶּן צָד֗וֹק בֶּן מְרָיוֹת֙ בֶּן אֲחִיט֔וּב נְגִ֖ד בֵּ֥ית הָ אֱלֹהִֽים",
+        "LXX": "Σαραιὰ υἱὸς Ἑλκειὰ υἱὸς Μεισουλὰμ υἱὸς Σαδδοὺκ υἱὸς Μαριὼθ υἱὸς Ἀπωβώχ , ἀπέναντι οἴκου τοῦ θεοῦ .",
+        "VUL": "Saraía fílius Helcíæ , fílius Mosóllam , fílius Sadoc , fílius Méraioth , fílius Achitob princeps domus Dei ,",
+        "SP": null,
+        "KJV": "Seraiah the son of Hilkiah , the son of Meshullam , the son of Zadok , the son of Meraioth , the son of Ahitub , [ was ] the ruler of the house of God .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And their brethren that did the work of the house [ were ] eight hundred twenty and two :",
+      "traditions": {
+        "WLC": "וַ אֲחֵי הֶ֗ם עֹשֵׂ֤י הַ מְּלָאכָה֙ לַ בַּ֔יִת שְׁמֹנֶ֥ה מֵא֖וֹת עֶשְׂרִ֣ים וּ שְׁנָ֑יִם",
+        "LXX": "καὶ ἀδελφοὶ αὐτῶν ποιοῦντες τὸ ἔργον τοῦ οἴκου ·",
+        "VUL": "et fratres eórum faciéntes ópera templi : octingénti vigínti duo .",
+        "SP": null,
+        "KJV": "And their brethren that did the work of the house [ were ] eight hundred twenty and two :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Adaiah the son of Jeroham , the son of Pelaliah , the son of Amzi , the son of Zechariah , the son of Pashur , the son of Malchiah ,",
+      "traditions": {
+        "WLC": "וַ֠ עֲדָיָה בֶּן יְרֹחָ֤ם בֶּן פְּלַלְיָה֙ בֶּן אַמְצִ֣י בֶן זְכַרְיָ֔ה בֶּן פַּשְׁח֖וּר בֶּן מַלְכִּיָּֽה",
+        "LXX": "Ἀμασεὶ υἱὸς Ζαχαρειὰ υἱὸς Φασσοὺρ υἱὸς Μελχειά ,",
+        "VUL": "Et Adaía fílius Iéroham , fílius Phelelía , fílius Amsi , fílius Zacharíæ , fílius Pheshur , fílius Melchíæ ,",
+        "SP": null,
+        "KJV": "and Adaiah the son of Jeroham , the son of Pelaliah , the son of Amzi , the son of Zechariah , the son of Pashur , the son of Malchiah ,",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And his brethren , chief of the fathers , two hundred forty and two :",
+      "traditions": {
+        "WLC": "וְ אֶחָי ו֙ רָאשִׁ֣ים לְ אָב֔וֹת מָאתַ֖יִם אַרְבָּעִ֣ים וּ שְׁנָ֑יִם",
+        "LXX": "ἄρχοντες πατριῶν διακόσιοι τεσσεράκοντα δύο .",
+        "VUL": "et fratres eius príncipes patrum : ducénti quadragínta duo .",
+        "SP": null,
+        "KJV": "And his brethren , chief of the fathers , two hundred forty and two :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Amashai the son of Azareel , the son of Ahasai , the son of Meshillemoth , the son of Immer ,",
+      "traditions": {
+        "WLC": "וַ עֲמַשְׁסַ֧י בֶּן עֲזַרְאֵ֛ל בֶּן אַחְזַ֥י בֶּן מְשִׁלֵּמ֖וֹת בֶּן אִמֵּֽר",
+        "LXX": "καὶ Ἀμασειὰ υἱὸς Ἐσδριήλ ,",
+        "VUL": "Et Amássai fílius Azreel , fílius Aházi , fílius Mosóllamoth , fílius Emmer ,",
+        "SP": null,
+        "KJV": "and Amashai the son of Azareel , the son of Ahasai , the son of Meshillemoth , the son of Immer ,",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And their brethren , mighty men of valour , an hundred twenty and eight :",
+      "traditions": {
+        "WLC": "וַ אֲחֵי הֶם֙ גִּבּ֣וֹרֵי חַ֔יִל מֵאָ֖ה עֶשְׂרִ֣ים וּ שְׁמֹנָ֑ה",
+        "LXX": "καὶ ἀδελφοὶ αὐτοῦ δυνατοὶ παρατάξεως ἑκατὸν εἴκοσι ὀκτώ ,",
+        "VUL": "et fratres eórum poténtes nimis : centum vigínti octo ,",
+        "SP": null,
+        "KJV": "And their brethren , mighty men of valour , an hundred twenty and eight :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and their overseer [ was ] Zabdiel , the son of [ one of ] the great men .",
+      "traditions": {
+        "WLC": "וּ פָקִ֣יד עֲלֵי הֶ֔ם זַבְדִּיאֵ֖ל בֶּן הַ גְּדוֹלִֽים",
+        "LXX": "καὶ ἐπίσκοπος Βαδιήλ .",
+        "VUL": "et præpósitus eórum Zábdiel fílius poténtium .",
+        "SP": null,
+        "KJV": "and their overseer [ was ] Zabdiel , the son of [ one of ] the great men .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Also of the Levites : Shemaiah the son of Hashub , the son of Azrikam , the son of Hashabiah , the son of Bunni ;",
+      "traditions": {
+        "WLC": "וּ מִֽן הַ לְוִיִּ֑ם שְׁמַעְיָ֧ה בֶן חַשּׁ֛וּב בֶּן עַזְרִיקָ֥ם בֶּן חֲשַׁבְיָ֖ה בֶּן בּוּנִּֽי",
+        "LXX": "καὶ ἀπὸ τῶν Λευειτῶν Σαμαιὰ υἱὸς Ἁσοὺβ υἱὸς Ἐζερεί ·",
+        "VUL": "Et de Levítis , Semeía fílius Hasub , fílius Azarícam , fílius Hasabía , fílius Boni ,",
+        "SP": null,
+        "KJV": "Also of the Levites : Shemaiah the son of Hashub , the son of Azrikam , the son of Hashabiah , the son of Bunni ;",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Shabbethai and Jozabad , of the chief of the Levites , [ had ] the oversight of the outward business of the house of God .",
+      "traditions": {
+        "WLC": "וְ שַׁבְּתַ֨י וְ יוֹזָבָ֜ד עַל הַ מְּלָאכָ֤ה הַ חִֽיצֹנָה֙ לְ בֵ֣ית הָ אֱלֹהִ֔ים מֵ רָאשֵׁ֖י הַ לְוִיִּֽם",
+        "LXX": null,
+        "VUL": "et Sabáthai et Iózabed , super ómnia ópera , quæ erant forínsecus in domo Dei , a princípibus Levitárum .",
+        "SP": null,
+        "KJV": "And Shabbethai and Jozabad , of the chief of the Levites , [ had ] the oversight of the outward business of the house of God .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Mattaniah the son of Micha , the son of Zabdi , the son of Asaph , [ was ] the principal to begin the thanksgiving in prayer :",
+      "traditions": {
+        "WLC": "וּ מַתַּנְיָ֣ה בֶן מִ֠יכָה בֶּן זַבְדִּ֨י בֶן אָסָ֜ף רֹ֗אשׁ הַ תְּחִלָּה֙ יְהוֹדֶ֣ה לַ תְּפִלָּ֔ה",
+        "LXX": "καὶ Μαθανιὰ υἱὸς Μαχά ,",
+        "VUL": "Et Mathanía fílius Micha , fílius Zebédei , fílius Asaph , princeps ad laudándum , et ad confiténdum in oratióne ,",
+        "SP": null,
+        "KJV": "And Mattaniah the son of Micha , the son of Zabdi , the son of Asaph , [ was ] the principal to begin the thanksgiving in prayer :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Bakbukiah the second among his brethren ,",
+      "traditions": {
+        "WLC": "וּ בַקְבֻּקְיָ֖ה מִשְׁנֶ֣ה מֵ אֶחָ֑י",
+        "LXX": null,
+        "VUL": "et Becbecía secúndus de frátribus eius ,",
+        "SP": null,
+        "KJV": "and Bakbukiah the second among his brethren ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and Abda the son of Shammua , the son of Galal , the son of Jeduthun .",
+      "traditions": {
+        "WLC": "ו וְ עַבְדָּא֙ בֶּן שַׁמּ֔וּעַ בֶּן גָּלָ֖ל בֶּן ידיתון",
+        "LXX": "καὶ Ὠβὴβ υἱὸς Σαμουεί ,",
+        "VUL": "et Abda fílius Sámua , fílius Galal , fílius Idithum :",
+        "SP": null,
+        "KJV": "and Abda the son of Shammua , the son of Galal , the son of Jeduthun .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "All the Levites in the holy city [ were ] two hundred fourscore and four .",
+      "traditions": {
+        "WLC": "כָּל הַ לְוִיִּם֙ בְּ עִ֣יר הַ קֹּ֔דֶשׁ מָאתַ֖יִם שְׁמֹנִ֥ים וְ אַרְבָּעָֽה",
+        "LXX": "διακόσιοι ὀγδοήκοντα τέσσαρες .",
+        "VUL": "omnes Levítæ in civitáte sancta ducénti octogínta quátuor .",
+        "SP": null,
+        "KJV": "All the Levites in the holy city [ were ] two hundred fourscore and four .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Moreover the porters , Akkub , Talmon , and their brethren that kept the gates , [ were ] an hundred seventy and two .",
+      "traditions": {
+        "WLC": "וְ הַ שּֽׁוֹעֲרִים֙ עַקּ֣וּב טַלְמ֔וֹן וַ אֲחֵי הֶ֖ם הַ שֹּׁמְרִ֣ים בַּ שְּׁעָרִ֑ים מֵאָ֖ה שִׁבְעִ֥ים וּ שְׁנָֽיִם",
+        "LXX": "καὶ οἱ πυλωροὶ Ἀκούβ , Τελαμείν , καὶ οἱ ἀδελφοὶ αὐτῶν ἑκατὸν ἑβδομήκοντα δύο .",
+        "VUL": "Et ianitóres , Accub , Telmon , et fratres eórum , qui custodiébant óstia : centum septuagínta duo .",
+        "SP": null,
+        "KJV": "Moreover the porters , Akkub , Talmon , and their brethren that kept the gates , [ were ] an hundred seventy and two .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the residue of Israel , of the priests , [ and ] the Levites , [ were ] in all the cities of Judah , every one in his inheritance .",
+      "traditions": {
+        "WLC": "וּ שְׁאָ֨ר יִשְׂרָאֵ֜ל הַ כֹּהֲנִ֤ים הַ לְוִיִּם֙ בְּ כָל עָרֵ֣י יְהוּדָ֔ה אִ֖ישׁ בְּ נַחֲלָתֽ וֹ",
+        "LXX": null,
+        "VUL": "Et réliqui ex Israel sacerdótes et Levítæ in univérsis civitátibus Iuda , unusquísque in possessióne sua .",
+        "SP": null,
+        "KJV": "And the residue of Israel , of the priests , [ and ] the Levites , [ were ] in all the cities of Judah , every one in his inheritance .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "But the Nethinims dwelt in Ophel",
+      "traditions": {
+        "WLC": "וְ הַ נְּתִינִ֖ים יֹשְׁבִ֣ים בָּ עֹ֑פֶל",
+        "LXX": null,
+        "VUL": "Et Nathinǽi , qui habitábant in Ophel ,",
+        "SP": null,
+        "KJV": "But the Nethinims dwelt in Ophel :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Ziha and Gispa [ were ] over the Nethinims",
+      "traditions": {
+        "WLC": "וְ צִיחָ֥א וְ גִשְׁפָּ֖א עַל הַ נְּתִינִֽים",
+        "LXX": null,
+        "VUL": "et Síaha , et Gaspha de Nathinǽis .",
+        "SP": null,
+        "KJV": "and Ziha and Gispa [ were ] over the Nethinims .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "The overseer also of the Levites at Jerusalem [ was ] Uzzi the son of Bani , the son of Hashabiah , the son of Mattaniah , the son of Micha",
+      "traditions": {
+        "WLC": "וּ פְקִ֤יד הַ לְוִיִּם֙ בִּ יר֣וּשָׁלִַ֔ם עֻזִּ֤י בֶן בָּנִי֙ בֶּן חֲשַׁבְיָ֔ה בֶּן מַתַּנְיָ֖ה בֶּן מִיכָ֑א",
+        "LXX": "καὶ ἐπίσκοπος Λευειτῶν υἱὸς Βανεί , Ὀζεὶ υἱὸς Ἁσαβιὰ υἱὸς Μειχά .",
+        "VUL": "Et epíscopus Levitárum in Ierúsalem , Azzi fílius Bani , fílius Hasabíæ , fílius Mathaníæ , fílius Michæ .",
+        "SP": null,
+        "KJV": "The overseer also of the Levites at Jerusalem [ was ] Uzzi the son of Bani , the son of Hashabiah , the son of Mattaniah , the son of Micha .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Of the sons of Asaph , the singers [ were ] over the business of the house of God",
+      "traditions": {
+        "WLC": "מִ בְּנֵ֤י אָסָף֙ הַ מְשֹׁ֣רְרִ֔ים לְ נֶ֖גֶד מְלֶ֥אכֶת בֵּית הָ אֱלֹהִֽים",
+        "LXX": "ἀπὸ υἱῶν Ἀσὰβ τῶν ᾀδόντων ἀπέναντι ἔργου οἴκου τοῦ θεοῦ .",
+        "VUL": "De fíliis Asaph , cantóres in ministério domus Dei .",
+        "SP": null,
+        "KJV": "Of the sons of Asaph , the singers [ were ] over the business of the house of God .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "For [ it was ] the king ’s commandment concerning them",
+      "traditions": {
+        "WLC": "כִּֽי מִצְוַ֥ת הַ מֶּ֖לֶךְ עֲלֵי הֶ֑ם",
+        "LXX": "ὅτι ἐντολὴ τοῦ βασιλέως εἰς αὐτούς .",
+        "VUL": "Præcéptum quippe regis super eos erat ,",
+        "SP": null,
+        "KJV": "For [ it was ] the king ’s commandment concerning them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that a certain portion should be for the singers , due for every day",
+      "traditions": {
+        "WLC": "וַ אֲמָנָ֥ה עַל הַ מְשֹׁרְרִ֖ים דְּבַר י֥וֹם בְּ יוֹמֽ וֹ",
+        "LXX": null,
+        "VUL": "et ordo in cantóribus per dies síngulos ,",
+        "SP": null,
+        "KJV": "that a certain portion should be for the singers , due for every day .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Pethahiah the son of Meshezabeel , of the children of Zerah the son of Judah , [ was ] at the king ’s hand in all matters concerning the people",
+      "traditions": {
+        "WLC": "וּ פְתַֽחְיָ֨ה בֶּן מְשֵֽׁיזַבְאֵ֜ל מִ בְּנֵי זֶ֤רַח בֶּן יְהוּדָה֙ לְ יַ֣ד הַ מֶּ֔לֶךְ לְ כָל דָּבָ֖ר לָ עָֽם",
+        "LXX": "καὶ Παθαιὰ υἱὸς Βασηζὰ πρὸς χεῖρα τοῦ βασιλέως εἰς πᾶν χρῆμα τῷ λαῷ .",
+        "VUL": "et Phathahía fílius Mesézebel , de fíliis Zara fílii Iuda in manu regis , iuxta omne verbum pópuli ,",
+        "SP": null,
+        "KJV": "And Pethahiah the son of Meshezabeel , of the children of Zerah the son of Judah , [ was ] at the king ’s hand in all matters concerning the people .",
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "And for the villages , with their fields",
+      "traditions": {
+        "WLC": "וְ אֶל הַ חֲצֵרִ֖ים בִּ שְׂדֹתָ֑ ם",
+        "LXX": "καὶ πρὸς τὰς ἐπαύλεις ἐν ἀγρῷ αὐτῶν .",
+        "VUL": "et in dómibus per omnes regiónes eórum .",
+        "SP": null,
+        "KJV": "And for the villages , with their fields , [ some ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ some ] of the children of Judah dwelt at Kirjatharba , and [ in ] the villages thereof",
+      "traditions": {
+        "WLC": "מִ בְּנֵ֣י יְהוּדָ֗ה יָֽשְׁב֞וּ בְּ קִרְיַ֤ת הָֽאַרְבַּע֙ וּ בְנֹתֶ֔י הָ",
+        "LXX": "καὶ ἀπὸ υἱῶν Ἰούδα ἐκάθισαν ἐν Καριαθὰρ",
+        "VUL": "De fíliis Iuda habitavérunt in Cariathárbe , et in filiábus eius :",
+        "SP": null,
+        "KJV": "of the children of Judah dwelt at Kirjatharba , and [ in ] the villages thereof ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and at Dibon , and [ in ] the villages thereof",
+      "traditions": {
+        "WLC": "וּ בְ דִיבֹן֙ וּ בְנֹתֶ֔י הָ",
+        "LXX": null,
+        "VUL": "et in Dibon , et in filiábus eius :",
+        "SP": null,
+        "KJV": "and at Dibon , and [ in ] the villages thereof ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and at Jekabzeel , and [ in ] the villages thereof",
+      "traditions": {
+        "WLC": "וּ בִֽ יקַּבְצְאֵ֖ל וַ חֲצֵרֶֽי הָ",
+        "LXX": null,
+        "VUL": "et in Cábseel , et in vículis eius :",
+        "SP": null,
+        "KJV": "and at Jekabzeel , and [ in ] the villages thereof ,",
+        "DSS": null
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "And at Jeshua , and at Moladah , and at Bethphelet",
+      "traditions": {
+        "WLC": "וּ בְ יֵשׁ֥וּעַ וּ בְ מוֹלָדָ֖ה וּ בְ בֵ֥ית פָּֽלֶט",
+        "LXX": "καὶ ἐν Ἰησοὺ",
+        "VUL": "et in Iésue , et in Mólada , et in Béthphaleth ,",
+        "SP": null,
+        "KJV": "And at Jeshua , and at Moladah , and at Bethphelet ,",
+        "DSS": null
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "And at Hazarshual , and at Beersheba , and [ in ] the villages thereof",
+      "traditions": {
+        "WLC": "וּ בַ חֲצַ֥ר שׁוּעָ֛ל וּ בִ בְאֵ֥ר שֶׁ֖בַע וּ בְנֹתֶֽי הָ",
+        "LXX": "καὶ ἐν Βεηρσάβεε ,",
+        "VUL": "et in Hasérsual , et in Bersabée , et in filiábus eius ,",
+        "SP": null,
+        "KJV": "And at Hazarshual , and at Beersheba , and [ in ] the villages thereof ,",
+        "DSS": null
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "And at Ziklag , and at Mekonah , and in the villages thereof",
+      "traditions": {
+        "WLC": "וּ בְ צִֽקְלַ֥ג וּ בִ מְכֹנָ֖ה וּ בִ בְנֹתֶֽי הָ",
+        "LXX": null,
+        "VUL": "et in Síceleg , et in Móchona , et in filiábus eius ,",
+        "SP": null,
+        "KJV": "And at Ziklag , and at Mekonah , and in the villages thereof ,",
+        "DSS": null
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "And at Enrimmon , and at Zareah , and at Jarmuth",
+      "traditions": {
+        "WLC": "וּ בְ עֵ֥ין רִמּ֛וֹן וּ בְ צָרְעָ֖ה וּ בְ יַרְמֽוּת",
+        "LXX": null,
+        "VUL": "et in Remmon , et in Sáraa , et in Iérimuth ,",
+        "SP": null,
+        "KJV": "And at Enrimmon , and at Zareah , and at Jarmuth ,",
+        "DSS": null
+      }
+    }
+  ],
+  "30": [
+    {
+      "thought_id": 1,
+      "english_reference": "Zanoah , Adullam , and [ in ] their villages",
+      "traditions": {
+        "WLC": "זָנֹ֤חַ עֲדֻלָּם֙ וְ חַצְרֵי הֶ֔ם",
+        "LXX": "καὶ ἐπαύλεις αὐτῶν ,",
+        "VUL": "Zánoa , Odóllam , et in villis eárum ,",
+        "SP": null,
+        "KJV": "Zanoah , Adullam , and [ in ] their villages ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "at Lachish , and the fields thereof",
+      "traditions": {
+        "WLC": "לָכִישׁ֙ וּ שְׂדֹתֶ֔י הָ",
+        "LXX": "Λαχεὶς καὶ ἀγροὶ αὐτῆς ·",
+        "VUL": "Lachis et regiónibus eius ,",
+        "SP": null,
+        "KJV": "at Lachish , and the fields thereof ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "at Azekah , and [ in ] the villages thereof",
+      "traditions": {
+        "WLC": "עֲזֵקָ֖ה וּ בְנֹתֶ֑י הָ",
+        "LXX": null,
+        "VUL": "et Azéca , et filiábus eius .",
+        "SP": null,
+        "KJV": "at Azekah , and [ in ] the villages thereof .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And they dwelt from Beersheba unto the valley of Hinnom",
+      "traditions": {
+        "WLC": "וַ יַּחֲנ֥וּ מִ בְּאֵֽר שֶׁ֖בַע עַד גֵּֽיא הִנֹּֽם",
+        "LXX": "καὶ παρενεβάλοσαν ἐν Βεηρσάβεε .",
+        "VUL": "Et mansérunt in Bersabée usque ad vallem Ennom .",
+        "SP": null,
+        "KJV": "And they dwelt from Beersheba unto the valley of Hinnom .",
+        "DSS": null
+      }
+    }
+  ],
+  "31": [
+    {
+      "thought_id": 1,
+      "english_reference": "The children also of Benjamin",
+      "traditions": {
+        "WLC": "וּ בְנֵ֥י בִנְיָמִ֖ן",
+        "LXX": "καὶ οἱ υἱοὶ Βενιαμεὶν",
+        "VUL": "Fílii autem Béniamin ,",
+        "SP": null,
+        "KJV": "The children also of Benjamin",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "from Geba [ dwelt ] at Michmash",
+      "traditions": {
+        "WLC": "מִ גָּ֑בַע מִכְמָ֣שׂ",
+        "LXX": "ἀπὸ Γάλα , Μαχαμάς .",
+        "VUL": "a Geba , Mechmas ,",
+        "SP": null,
+        "KJV": "from Geba [ dwelt ] at Michmash ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and Aija , and Bethel",
+      "traditions": {
+        "WLC": "וְ עַיָּ֔ה וּ בֵֽית אֵ֖ל",
+        "LXX": null,
+        "VUL": "et Hai , et Bethel ,",
+        "SP": null,
+        "KJV": "and Aija , and Bethel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and [ in ] their villages",
+      "traditions": {
+        "WLC": "וּ בְנֹתֶֽי הָ",
+        "LXX": null,
+        "VUL": "et filiábus eius :",
+        "SP": null,
+        "KJV": "and [ in ] their villages ,",
+        "DSS": null
+      }
+    }
+  ],
+  "32": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ And ] at Anathoth , Nob , Ananiah",
+      "traditions": {
+        "WLC": "עֲנָת֥וֹת נֹ֖ב עֲנָֽנְיָֽה",
+        "LXX": null,
+        "VUL": "Anathoth , Nob , Ananía ,",
+        "SP": null,
+        "KJV": "[ And ] at Anathoth , Nob , Ananiah ,",
+        "DSS": null
+      }
+    }
+  ],
+  "33": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hazor , Ramah , Gittaim",
+      "traditions": {
+        "WLC": "חָצ֥וֹר רָמָ֖ה גִּתָּֽיִם",
+        "LXX": null,
+        "VUL": "Asor , Rama , Géthaim ,",
+        "SP": null,
+        "KJV": "Hazor , Ramah , Gittaim ,",
+        "DSS": null
+      }
+    }
+  ],
+  "34": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hadid , Zeboim , Neballat",
+      "traditions": {
+        "WLC": "חָדִ֥יד צְבֹעִ֖ים נְבַלָּֽט",
+        "LXX": null,
+        "VUL": "Hadid , Séboim , et Nebállat , Lod ,",
+        "SP": null,
+        "KJV": "Hadid , Zeboim , Neballat ,",
+        "DSS": null
+      }
+    }
+  ],
+  "35": [
+    {
+      "thought_id": 1,
+      "english_reference": "Lod , and Ono",
+      "traditions": {
+        "WLC": "לֹ֥ד וְ אוֹנ֖וֹ",
+        "LXX": null,
+        "VUL": "et Ono",
+        "SP": null,
+        "KJV": "Lod , and Ono ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the valley of craftsmen",
+      "traditions": {
+        "WLC": "גֵּ֥י הַחֲרָשִֽׁים",
+        "LXX": null,
+        "VUL": "valle artíficum .",
+        "SP": null,
+        "KJV": "the valley of craftsmen .",
+        "DSS": null
+      }
+    }
+  ],
+  "36": [
+    {
+      "thought_id": 1,
+      "english_reference": "And of the Levites [ were ] divisions [ in ] Judah , [ and ] in Benjamin",
+      "traditions": {
+        "WLC": "וּ מִן הַ לְוִיִּ֔ם מַחְלְק֥וֹת יְהוּדָ֖ה לְ בִנְיָמִֽין",
+        "LXX": "καὶ ἀπὸ τῶν Λευειτῶν μερίδες Ἰούδα τῷ Βενιαμείν .",
+        "VUL": "Et de Levítis portiónes Iudæ et Béniamin .",
+        "SP": null,
+        "KJV": "And of the Levites [ were ] divisions [ in ] Judah , [ and ] in Benjamin .",
+        "DSS": null
+      }
+    }
+  ]
+}

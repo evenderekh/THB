@@ -1,0 +1,772 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass , when all these things are come upon thee",
+      "traditions": {
+        "WLC": "וְ הָיָה֩ כִֽי יָבֹ֨אוּ עָלֶ֜י ךָ כָּל הַ דְּבָרִ֣ים הָ אֵ֗לֶּה",
+        "LXX": "Καὶ ἔσται ὡς ἂν ἔλθωσιν ἐπὶ σὲ πάντα τὰ ῥήματα ταῦτα ,",
+        "VUL": "Cum ergo vénerint super te omnes sermónes isti ,",
+        "SP": "ו היה כי יבאו עליך כל ה דברים ה אלה",
+        "KJV": "And it shall come to pass , when all these things are come upon thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the blessing and the curse , which I have set before thee",
+      "traditions": {
+        "WLC": "הַ בְּרָכָה֙ וְ הַ קְּלָלָ֔ה אֲשֶׁ֥ר נָתַ֖תִּי לְ פָנֶ֑י ךָ",
+        "LXX": "ἡ εὐλογία καὶ ἡ κατάρα ἣν ἔδωκα πρὸ προσώπου σου ,",
+        "VUL": "benedíctio sive maledíctio , quam propósui in conspéctu tuo :",
+        "SP": "ה ברכה ו ה קללה אשׁר נתתי ל פניך",
+        "KJV": "the blessing and the curse , which I have set before thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thou shalt call [ them ] to mind among all the nations , whither the LORD thy God hath driven thee",
+      "traditions": {
+        "WLC": "וַ הֲשֵׁבֹתָ֙ אֶל לְבָבֶ֔ ךָ בְּ כָל הַ גּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲ ךָ֛ יְהוָ֥ה אֱלֹהֶ֖י ךָ שָֽׁמָּ ה",
+        "LXX": "καὶ δέξῃ εἰς τὴν καρδίαν σου ἐν πᾶσιν τοῖς ἔθνεσιν οὗ ἐάν σε διασκορπίσῃ Κύριος ἐκεῖ ,",
+        "VUL": "et ductus pœnitúdine cordis tui in univérsis géntibus , in quas dispérserit te Dóminus Deus tuus ,",
+        "SP": "ו השׁבות אל לבבך ב כל ה גוים אשׁר ידיחך יהוה אלהיך שׁמה",
+        "KJV": "and thou shalt call [ them ] to mind among all the nations , whither the LORD thy God hath driven thee ,",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And shalt return unto the LORD thy God",
+      "traditions": {
+        "WLC": "וְ שַׁבְתָּ֞ עַד יְהוָ֤ה אֱלֹהֶ֨י ךָ֙",
+        "LXX": "καὶ ἐπιστραφήσῃ ἐπὶ Κύριον τὸν θεόν σου ,",
+        "VUL": "et revérsus fúeris ad eum ,",
+        "SP": "ו שׁבת עד יהוה אלהיך",
+        "KJV": "And shalt return unto the LORD thy God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shalt obey his voice according to all that I command thee this day",
+      "traditions": {
+        "WLC": "וְ שָׁמַעְתָּ֣ בְ קֹל֔ וֹ כְּ כֹ֛ל אֲשֶׁר אָנֹכִ֥י מְצַוְּ ךָ֖ הַ יּ֑וֹם",
+        "LXX": "καὶ εἰσακούσῃ τῆς φωνῆς αὐτοῦ κατὰ πάντα ὅσα ἐγὼ ἐντέλλομαί σοι σήμερον",
+        "VUL": "et obedíeris eius impériis , sicut ego hódie præcípio tibi ,",
+        "SP": "ו שׁמעת ב קולו כ כל אשׁר אנכי מצוך ה יום",
+        "KJV": "and shalt obey his voice according to all that I command thee this day ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou and thy children",
+      "traditions": {
+        "WLC": "אַתָּ֣ה וּ בָנֶ֔י ךָ",
+        "LXX": null,
+        "VUL": "cum fíliis tuis ,",
+        "SP": "אתה ו בניך",
+        "KJV": "thou and thy children ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "with all thine heart , and with all thy soul",
+      "traditions": {
+        "WLC": "בְּ כָל לְבָבְ ךָ֖ וּ בְ כָל נַפְשֶֽׁ ךָ",
+        "LXX": "ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου ,",
+        "VUL": "in toto corde tuo , et in tota ánima tua :",
+        "SP": "ב כל לבבך ו ב כל נפשׁך",
+        "KJV": "with all thine heart , and with all thy soul ;",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "That then the LORD thy God will turn thy captivity",
+      "traditions": {
+        "WLC": "וְ שָׁ֨ב יְהוָ֧ה אֱלֹהֶ֛י ךָ אֶת שְׁבוּתְ ךָ֖",
+        "LXX": "καὶ ἰάσηται Κύριος τὰς ἁμαρτίας σου ·",
+        "VUL": "redúcet Dóminus Deus tuus captivitátem tuam ,",
+        "SP": "ו שׁב יהוה אלהיך את שׁובתך",
+        "KJV": "That then the LORD thy God will turn thy captivity ,",
+        "DSS": "[4Q29] [ ו שב יהוה אלהי׳ך את שבות׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and have compassion upon thee",
+      "traditions": {
+        "WLC": "וְ רִחֲמֶ֑ ךָ",
+        "LXX": "καὶ ἐλεήσει σε ,",
+        "VUL": "ac miserébitur tui ,",
+        "SP": "ו רחמך",
+        "KJV": "and have compassion upon thee ,",
+        "DSS": "[4Q29] ו רחמ׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and will return and gather thee from all the nations",
+      "traditions": {
+        "WLC": "וְ שָׁ֗ב וְ קִבֶּצְ ךָ֙ מִ כָּל הָ֣ עַמִּ֔ים",
+        "LXX": "καὶ πάλιν συνάξει σε ἐκ πάντων τῶν ἐθνῶν",
+        "VUL": "et rursum congregábit te de cunctis pópulis ,",
+        "SP": "ו שׁב ו קבצך מ כל ה עמים",
+        "KJV": "and will return and gather thee from all the nations ,",
+        "DSS": "[4Q29] ו שב ו קבצ׳ך מ כל ה ע ]מ##י?ם / [4Q36] [ מ כל ה עמים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "whither the LORD thy God hath scattered thee",
+      "traditions": {
+        "WLC": "אֲשֶׁ֧ר הֱפִֽיצְ ךָ֛ יְהוָ֥ה אֱלֹהֶ֖י ךָ שָֽׁמָּ ה",
+        "LXX": "εἰς οὓς διεσκόρπισέν σε Κύριος ἐκεῖ .",
+        "VUL": "in quos te ante dispérsit .",
+        "SP": "אשׁר הפיצך יהוה אלהיך שׁם",
+        "KJV": "whither the LORD thy God hath scattered thee .",
+        "DSS": "[4Q29] אשר [ הפיצ׳ך יהוה אלהי׳ך שמ׳ה ׃ / [4Q36] אשר הפיצ׳ך יהוה אלהי׳ך שמ׳ה ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "If [ any ] of thine be driven out unto the outmost [ parts ] of heaven",
+      "traditions": {
+        "WLC": "אִם יִהְיֶ֥ה נִֽדַּחֲ ךָ֖ בִּ קְצֵ֣ה הַ שָּׁמָ֑יִם",
+        "LXX": "ἐὰν ᾖ ἡ διασπορά σου ἀπ᾽ ἄκρου τοῦ οὐρανοῦ ἕως ἄκρου τοῦ οὐρανοῦ ,",
+        "VUL": "Si ad cárdines cæli fúeris dissipátus ,",
+        "SP": "אם יהיה נדחך ב קצה ה שׁמים",
+        "KJV": "If [ any ] of thine be driven out unto the outmost [ parts ] of heaven ,",
+        "DSS": "[4Q29] אם יהיה נדח׳ך ב קצה ה שמים / [4Q36] אם ]י?הי?[ ה נדח׳ך ב קצה ה שמים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "from thence will the LORD thy God gather thee",
+      "traditions": {
+        "WLC": "מִ שָּׁ֗ם יְקַבֶּצְ ךָ֙ יְהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "ἐκεῖθεν συνάξει σε Κύριος ὁ θεός σου ,",
+        "VUL": "inde te rétrahet Dóminus Deus tuus ,",
+        "SP": "מ שׁם יקבצך יהוה אלהיך",
+        "KJV": "from thence will the LORD thy God gather thee ,",
+        "DSS": "[4Q29] מ שם יקבצ׳ך יהוה אלהי׳ך / [4Q36] [ מ שם יקבצ׳ך יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and from thence will he fetch thee",
+      "traditions": {
+        "WLC": "וּ מִ שָּׁ֖ם יִקָּחֶֽ ךָ",
+        "LXX": "καὶ ἐκεῖθεν λήμψεταί σε Κύριος ὁ θεός σου ·",
+        "VUL": null,
+        "SP": "ו מ שׁם יקחך",
+        "KJV": "and from thence will he fetch thee :",
+        "DSS": "[4Q29] ו מ ש ]ם יקח׳ך ׃ / [4Q36] ו מ שם יקח׳ך ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD thy God will bring thee into the land which thy fathers possessed",
+      "traditions": {
+        "WLC": "וֶ הֱבִֽיאֲ ךָ֞ יְהוָ֣ה אֱלֹהֶ֗י ךָ אֶל הָ אָ֛רֶץ אֲשֶׁר יָרְשׁ֥וּ אֲבֹתֶ֖י ךָ",
+        "LXX": "καὶ εἰσάξει σε ὁ θεός σου ἐκεῖθεν εἰς τὴν γῆν ἣν ἐκληρονόμησαν οἱ πατέρες σου ,",
+        "VUL": "et assúmet , atque introdúcet in terram , quam possedérunt patres tui ,",
+        "SP": "ו הביאך יהוה אלהיך אל ה ארץ אשׁר ירשׁו אבתיך",
+        "KJV": "And the LORD thy God will bring thee into the land which thy fathers possessed ,",
+        "DSS": "[4Q29] [ יהוה אלהי׳ך אל ה ארץ אשר ירשו אבתי׳ך / [4Q36] ו הביא׳ך ] י?הוה[ אלהי׳ך אל ה ארץ ] [ אשר ירשו אבתי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou shalt possess it",
+      "traditions": {
+        "WLC": "וִֽ ירִשְׁתָּ֑ הּ",
+        "LXX": "καὶ κληρονομήσεις αὐτήν ·",
+        "VUL": "et obtinébis eam :",
+        "SP": "ו ירשׁתה",
+        "KJV": "and thou shalt possess it ;",
+        "DSS": "[4Q29] ו ירשת׳ה / [4Q36] ו ירשתה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he will do thee good",
+      "traditions": {
+        "WLC": "וְ הֵיטִֽבְ ךָ֥",
+        "LXX": "καὶ εὖ σε ποιήσει ,",
+        "VUL": "et benedícens tibi ,",
+        "SP": null,
+        "KJV": "and he will do thee good ,",
+        "DSS": "[4Q29] ו היטב׳ך / [4Q36] ו היטב׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and multiply thee above thy fathers",
+      "traditions": {
+        "WLC": "וְ הִרְבְּ ךָ֖ מֵ אֲבֹתֶֽי ךָ",
+        "LXX": "καὶ πλεοναστόν σε ποιήσει ὑπὲρ τοὺς πατέρας σου .",
+        "VUL": "maióris númeri te esse fáciet quam fuérunt patres tui .",
+        "SP": "ו הרבך מ אבתיך",
+        "KJV": "and multiply thee above thy fathers .",
+        "DSS": "[4Q29] ו הרב׳ך מ אבתי׳ך ׃ / [4Q36] ו הרב׳ך מ ]א##בתי?׳[ ך ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD thy God will circumcise thine heart , and the heart of thy seed",
+      "traditions": {
+        "WLC": "וּ מָ֨ל יְהוָ֧ה אֱלֹהֶ֛י ךָ אֶת לְבָבְ ךָ֖ וְ אֶת לְבַ֣ב זַרְעֶ֑ ךָ",
+        "LXX": "καὶ περικαθαριεῖ Κύριος τὴν καρδίαν σου καὶ τὴν καρδίαν τοῦ σπέρματός σου ,",
+        "VUL": "Circumcídet Dóminus Deus tuus cor tuum , et cor séminis tui ,",
+        "SP": "ו מל יהוה אלהיך את לבבך ו את לבב זרעך",
+        "KJV": "And the LORD thy God will circumcise thine heart , and the heart of thy seed ,",
+        "DSS": "[4Q29] ו מל יהוה אלהי׳ך ]את לבב׳ך ו את# לבב [ זרע׳ך / [4Q36] ו מל ε ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to love the LORD thy God with all thine heart , and with all thy soul",
+      "traditions": {
+        "WLC": "לְ אַהֲבָ֞ה אֶת יְהוָ֧ה אֱלֹהֶ֛י ךָ בְּ כָל לְבָבְ ךָ֥ וּ בְ כָל נַפְשְׁ ךָ֖",
+        "LXX": "ἀγαπᾷν Κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου ,",
+        "VUL": "ut díligas Dóminum Deum tuum in toto corde tuo , et in tota ánima tua ,",
+        "SP": "ל אהבה את יהוה אלהיך ב כל לבבך ו ב כל נפשׁך",
+        "KJV": "to love the LORD thy God with all thine heart , and with all thy soul ,",
+        "DSS": "[4Q29] ל אהב׳ה את יהוה אלהי׳ך ב כל לבב׳ך ו ב כל נפש׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that thou mayest live",
+      "traditions": {
+        "WLC": "לְמַ֥עַן חַיֶּֽי ךָ",
+        "LXX": "ἵνα ζῇς σύ .",
+        "VUL": "ut possis vívere .",
+        "SP": "למען חייך",
+        "KJV": "that thou mayest live .",
+        "DSS": "[4Q29] למען חיי׳ך ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD thy God will put all these curses upon thine enemies",
+      "traditions": {
+        "WLC": "וְ נָתַן֙ יְהוָ֣ה אֱלֹהֶ֔י ךָ אֵ֥ת כָּל הָ אָל֖וֹת הָ אֵ֑לֶּה עַל אֹיְבֶ֥י ךָ",
+        "LXX": "καὶ δώσει Κύριος ὁ θεός σου τὰς ἀρὰς ταύτας ἐπὶ τοὺς ἐχθρούς σου",
+        "VUL": "Omnes autem maledictiónes has convértet super inimícos tuos ,",
+        "SP": "ו נתן יהוה אלהיך את כל ה אלות ה אלה על איביך",
+        "KJV": "And the LORD thy God will put all these curses upon thine enemies ,",
+        "DSS": "[4Q29] ו נתן יהוה אלהי ]׳ך את כל ה אלות ה אלה [ על איבי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and on them that hate thee",
+      "traditions": {
+        "WLC": "וְ עַל שֹׂנְאֶ֖י ךָ",
+        "LXX": "καὶ ἐπὶ τοὺς μισοῦντάς σε ,",
+        "VUL": "et eos , qui odérunt te",
+        "SP": "ו על שׂנאיך",
+        "KJV": "and on them that hate thee ,",
+        "DSS": "[4Q29] ו על שנאי׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which persecuted thee",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר רְדָפֽוּ ךָ",
+        "LXX": "οἳ ἐδίωξάν σε .",
+        "VUL": "et persequúntur .",
+        "SP": "אשׁר רדפוך",
+        "KJV": "which persecuted thee .",
+        "DSS": "[4Q29] אשר רדפו׳ך ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt return and obey the voice of the LORD",
+      "traditions": {
+        "WLC": "וְ אַתָּ֣ה תָשׁ֔וּב וְ שָׁמַעְתָּ֖ בְּ ק֣וֹל יְהוָ֑ה",
+        "LXX": "καὶ σὺ ἐπιστραφήσῃ ἐπὶ Κύριον καὶ εἰσακούσῃ τῆς φωνῆς Κυρίου τοῦ θεοῦ σου ,",
+        "VUL": "Tu autem revertéris , et áudies vocem Dómini Dei tui :",
+        "SP": "ו אתה תשׁוב ו שׁמעת ב קול יהוה אלהיך",
+        "KJV": "And thou shalt return and obey the voice of the LORD ,",
+        "DSS": "[4Q29] ו אתה תשוב ו שמעת ב קול יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and do all his commandments which I command thee this day",
+      "traditions": {
+        "WLC": "וְ עָשִׂ֨יתָ֙ אֶת כָּל מִצְוֺתָ֔י ו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּ ךָ֖ הַ יּֽוֹם",
+        "LXX": "καὶ ποιήσεις τὰς ἐντολὰς αὐτοῦ ὅσας ἐγὼ ἐντέλλομαί σοι σήμερον ·",
+        "VUL": "faciésque univérsa mandáta quæ ego præcípio tibi hódie :",
+        "SP": "ו עשׂית את כל מצותיו אשׁר אנכי מצוך ה יום",
+        "KJV": "and do all his commandments which I command thee this day .",
+        "DSS": "[4Q29] ו עשית א ]ת# כל מצו?ת#י?׳ו אשר אנכי? [ מצו׳ך ה יום ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "If thou shalt hearken unto the voice of the LORD thy God",
+      "traditions": {
+        "WLC": "כִּ֣י תִשְׁמַ֗ע בְּ קוֹל֙ יְהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "ἐὰν εἰσακούσῃς τῆς φωνῆς Κυρίου τοῦ θεοῦ σου ,",
+        "VUL": "si tamen audíeris vocem Dómini Dei tui ,",
+        "SP": "כי תשׁמע ב קול יהוה אלהיך",
+        "KJV": "If thou shalt hearken unto the voice of the LORD thy God ,",
+        "DSS": "[4Q29] כי תשמע ב קול יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to keep his commandments and his statutes which are written in this book of the law",
+      "traditions": {
+        "WLC": "לִ שְׁמֹ֤ר מִצְוֺתָי ו֙ וְ חֻקֹּתָ֔י ו הַ כְּתוּבָ֕ה בְּ סֵ֥פֶר הַ תּוֹרָ֖ה הַ זֶּ֑ה",
+        "LXX": "φυλάσσεσθαι τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα αὐτοῦ καὶ τὰς κρίσεις αὐτοῦ τὰς γεγραμμένας ἐν τῷ βιβλίῳ τοῦ νόμου τούτου ,",
+        "VUL": "et custodíeris præcépta eius et cæremónias , quæ in hac lege conscrípta sunt :",
+        "SP": "ל שׁמר מצותיו ו חקתיו ה כתובה ב ספר ה תורה ה זה",
+        "KJV": "to keep his commandments and his statutes which are written in this book of the law , [ and ]",
+        "DSS": "[4Q29] ל שמר ]מ##צ##ו?תי׳ו[ ו ]ח##קותי׳ו ה כ#ת#ו(# ב #)ים [ ב ספר ה תורה ה זה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ and ] if thou turn unto the LORD thy God with all thine heart , and with all thy soul",
+      "traditions": {
+        "WLC": "כִּ֤י תָשׁוּב֙ אֶל יְהוָ֣ה אֱלֹהֶ֔י ךָ בְּ כָל לְבָבְ ךָ֖ וּ בְ כָל נַפְשֶֽׁ ךָ",
+        "LXX": "ἐὰν ἐπιστραφῇς ἐπὶ Κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου .",
+        "VUL": "et revertáris ad Dóminum Deum tuum in toto corde tuo , et in tota ánima tua .",
+        "SP": "כי תשׁוב אל יהוה אלהיך ב כל לבבך ו ב כל נפשׁך",
+        "KJV": "if thou turn unto the LORD thy God with all thine heart , and with all thy soul .",
+        "DSS": "[4Q29] כי ת ]שוב אל יהוה אלהי׳ך ב כל לבב׳[ ך ו ב כל נפש׳ך ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "For this commandment which I command thee this day",
+      "traditions": {
+        "WLC": "כִּ֚י הַ מִּצְוָ֣ה הַ זֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּ ךָ֖ הַ יּ֑וֹם",
+        "LXX": "Ὅτι ἡ ἐντολὴ αὕτη ἣν ἐγὼ ἐντέλλομαί σοι σήμερον",
+        "VUL": "Mandátum hoc , quod ego præcípio tibi hódie ,",
+        "SP": "כי ה מצוה ה זאת אשׁר אנכי מצוך ה יום",
+        "KJV": "For this commandment which I command thee this day ,",
+        "DSS": "[4Q29] כי ה מצוה ה זאת אשר אנכי  ]מ##צ#ו׳ך ה# י?ו?ם#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it [ is ] not hidden from thee",
+      "traditions": {
+        "WLC": "לֹֽא נִפְלֵ֥את הִוא֙ מִמְּ ךָ֔",
+        "LXX": "οὐχ ὑπέρογκός ἐστιν ,",
+        "VUL": "non supra te est ,",
+        "SP": "לא נפלאת היא ממך",
+        "KJV": "it [ is ] not hidden from thee ,",
+        "DSS": "[ לא נפלאת הוא ממ׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither [ is ] it far off",
+      "traditions": {
+        "WLC": "וְ לֹ֥א רְחֹקָ֖ה הִֽוא",
+        "LXX": "οὐδὲ μακρὰν ἀπὸ σοῦ .",
+        "VUL": "neque procul pósitum ,",
+        "SP": "ו לא רחוקה היא",
+        "KJV": "neither [ is ] it far off .",
+        "DSS": "ו לא  ]ר##חוקה היא ממ׳ך ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "It [ is ] not in heaven",
+      "traditions": {
+        "WLC": "לֹ֥א בַ שָּׁמַ֖יִם הִ֑וא",
+        "LXX": "οὐκ ἐν τῷ οὐρανῷ ἄνω ἐστὶν",
+        "VUL": "nec in cælo situm ,",
+        "SP": "לא ב שׁמים היא",
+        "KJV": "It [ is ] not in heaven ,",
+        "DSS": "[4Q29] לא ב# ש#מ##[ ים הוא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that thou shouldest say , Who shall go up for us to heaven , and bring it unto us",
+      "traditions": {
+        "WLC": "לֵ אמֹ֗ר מִ֣י יַעֲלֶה לָּ֤ נוּ הַ שָּׁמַ֨יְמָ ה֙ וְ יִקָּחֶ֣ הָ לָּ֔ נוּ",
+        "LXX": "λέγων Τίς ἀναβήσεται ἡμῖν εἰς τὸν οὐρανὸν καὶ λήμψεται αὐτὴν ἡμῖν ,",
+        "VUL": "ut possis dícere : Quis nostrum valet ad cælum ascéndere , ut déferat illud ad nos ,",
+        "SP": "ל אמר מי יעלה לנו ה שׁמים ו יקחה לנו",
+        "KJV": "that thou shouldest say , Who shall go up for us to heaven , and bring it unto us ,",
+        "DSS": "ל אמר מי יעלה ל׳נו ה שמימ׳ה ו יקח׳ה ל׳נו ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that we may hear it , and do it ?",
+      "traditions": {
+        "WLC": "וְ יַשְׁמִעֵ֥ נוּ אֹתָ֖ הּ וְ נַעֲשֶֽׂ נָּה",
+        "LXX": "καὶ ἀκούσαντες αὐτὸ ποιήσομεν ;",
+        "VUL": "et audiámus atque ópere compleámus ?",
+        "SP": "ו ישׁמענו אתה ו נעשׂנה",
+        "KJV": "that we may hear it , and do it ?",
+        "DSS": "[ ו ישמע׳נו את׳ה ו נעש׳נה ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither [ is ] it beyond the sea",
+      "traditions": {
+        "WLC": "וְ לֹֽא מֵ עֵ֥בֶר לַ יָּ֖ם הִ֑וא",
+        "LXX": "οὐδὲ πέραν τῆς θαλάσσης ἐστίν ,",
+        "VUL": "Neque trans mare pósitum :",
+        "SP": "ו לא מ עבר ל ים היא",
+        "KJV": "Neither [ is ] it beyond the sea ,",
+        "DSS": "[4Q29] ו לא ] מ עבר# ל ים היא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that thou shouldest say , Who shall go over the sea for us , and bring it unto us",
+      "traditions": {
+        "WLC": "לֵ אמֹ֗ר מִ֣י יַעֲבָר לָ֜ נוּ אֶל עֵ֤בֶר הַ יָּם֙ וְ יִקָּחֶ֣ הָ לָּ֔ נוּ",
+        "LXX": "λέγων Τίς διαπεράσει ἡμῖν εἰς τὸ πέραν τῆς θαλάσσης , καὶ λάβῃ ἡμῖν αὐτὴν",
+        "VUL": "ut causéris , et dicas : Quis ex nobis póterit transfretáre mare , et illud ad nos usque deférre :",
+        "SP": "ל אמר מי יעבר לנו אל עבר ה ים ו יקחה לנו",
+        "KJV": "that thou shouldest say , Who shall go over the sea for us , and bring it unto us ,",
+        "DSS": "ל אמר מי יעבר#[  ל׳נו אל עבר ה ים ו יקח׳ה ל׳נו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that we may hear it , and do it ?",
+      "traditions": {
+        "WLC": "וְ יַשְׁמִעֵ֥ נוּ אֹתָ֖ הּ וְ נַעֲשֶֽׂ נָּה",
+        "LXX": "καὶ ἀκουστὴν ἡμῖν ποιήσῃ αὐτήν , καὶ ποιήσομεν ;",
+        "VUL": "ut possímus audíre , et fácere quod præcéptum est ?",
+        "SP": "ו ישׁמענו אתה ו נעשׂנה",
+        "KJV": "that we may hear it , and do it ?",
+        "DSS": "ו ישמע׳נו ] [ את׳ה ו נעש׳נה ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "But the word [ is ] very nigh unto thee",
+      "traditions": {
+        "WLC": "כִּֽי קָר֥וֹב אֵלֶ֛י ךָ הַ דָּבָ֖ר מְאֹ֑ד",
+        "LXX": "ἔστιν σου ἐγγὺς τὸ ῥῆμα σφόδρα",
+        "VUL": "Sed iuxta te est sermo valde ,",
+        "SP": "כי קרוב אליך ה דבר מאד",
+        "KJV": "But the word [ is ] very nigh unto thee ,",
+        "DSS": "[4Q29] כי קרוב אלי׳ך ה דב ]ר## מ#אד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in thy mouth , and in thy heart",
+      "traditions": {
+        "WLC": "בְּ פִ֥י ךָ וּ בִֽ לְבָבְ ךָ֖",
+        "LXX": "ἐν τῷ στόματί σου καὶ ἐν τῇ καρδίᾳ σου",
+        "VUL": "in ore tuo , et in corde tuo ,",
+        "SP": "ב פיך ו ב לבבך",
+        "KJV": "in thy mouth , and in thy heart ,",
+        "DSS": "[ ב פי ]׳ך## ו#? ב## לב##ב##׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that thou mayest do it",
+      "traditions": {
+        "WLC": "לַ עֲשֹׂתֽ וֹ",
+        "LXX": "καὶ ἐν ταῖς χερσίν σου αὐτὸ ποιεῖν .",
+        "VUL": "ut fácias illum .",
+        "SP": "ל עשׂותו",
+        "KJV": "that thou mayest do it .",
+        "DSS": "ו ב יד׳ך ל ע[ שות׳ו ε ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "See , I have set before thee this day life and good",
+      "traditions": {
+        "WLC": "רְאֵ֨ה נָתַ֤תִּי לְ פָנֶ֨י ךָ֙ הַ יּ֔וֹם אֶת הַֽ חַיִּ֖ים וְ אֶת הַ טּ֑וֹב",
+        "LXX": "Ἰδοὺ δέδωκα πρὸ προσώπου σου σήμερον τὴν ζωὴν καὶ τὸν θάνατον , τὸ ἀγαθὸν",
+        "VUL": "Consídera quod hódie proposúerim in conspéctu tuo vitam et bonum ,",
+        "SP": "ראה נתתי ל פניך את ה חיים ו את ה טוב",
+        "KJV": "See , I have set before thee this day life and good ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and death and evil ;",
+      "traditions": {
+        "WLC": "וְ אֶת הַ מָּ֖וֶת וְ אֶת הָ רָֽע",
+        "LXX": "καὶ τὸ κακόν .",
+        "VUL": "et e contrário mortem et malum :",
+        "SP": "ו את ה מות ו את ה רע",
+        "KJV": "and death and evil ;",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "In that I command thee this day to love the LORD thy God",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּ ךָ֮ הַ יּוֹם֒ לְ אַהֲבָ֞ה אֶת יְהוָ֤ה אֱלֹהֶ֨י ךָ֙",
+        "LXX": "ἐὰν εἰσακούσῃς τὰς ἐντολάς Κυρίου τοῦ θεοῦ σου ἃς ἐγὼ ἐντέλλομαί σοι σήμερον , ἀγαπᾷν Κύριον τὸν θεόν σου ,",
+        "VUL": "ut díligas Dóminum Deum tuum ,",
+        "SP": "אשׁר אנכי מצוך ה יום ל אהבה את יהוה אלהיך",
+        "KJV": "In that I command thee this day to love the LORD thy God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to walk in his ways",
+      "traditions": {
+        "WLC": "לָ לֶ֣כֶת בִּ דְרָכָ֔י",
+        "LXX": "πορεύεσθαι ἐν πάσαις ταῖς ὁδοῖς αὐτοῦ ,",
+        "VUL": "et ámbules in viis eius ,",
+        "SP": "ו ל לכת ב דרכיו",
+        "KJV": "to walk in his ways ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and to keep his commandments and his statutes and his judgments",
+      "traditions": {
+        "WLC": "ו וְ לִ שְׁמֹ֛ר מִצְוֺתָ֥י ו וְ חֻקֹּתָ֖י ו וּ מִשְׁפָּטָ֑י",
+        "LXX": "φυλάσσεσθαι τὰ δικαιώματα αὐτοῦ καὶ τὰς κρίσεις αὐτοῦ ·",
+        "VUL": "et custódias mandáta illíus ac cæremónias atque iudícia :",
+        "SP": "ו ל שׁמר חקיו ו מצותיו ו משׁפטיו",
+        "KJV": "and to keep his commandments and his statutes and his judgments ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that thou mayest live and multiply",
+      "traditions": {
+        "WLC": "ו וְ חָיִ֣יתָ וְ רָבִ֔יתָ",
+        "LXX": "καὶ ζήσεσθε καὶ πολλοὶ ἔσεσθε ,",
+        "VUL": "et vivas , atque multíplicet te ,",
+        "SP": "ו חיית ו רבית",
+        "KJV": "that thou mayest live and multiply :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and the LORD thy God shall bless thee in the land whither thou goest to possess it",
+      "traditions": {
+        "WLC": "וּ בֵֽרַכְ ךָ֙ יְהוָ֣ה אֱלֹהֶ֔י ךָ בָּ אָ֕רֶץ אֲשֶׁר אַתָּ֥ה בָא שָׁ֖מָּ ה לְ רִשְׁתָּֽ הּ",
+        "LXX": "καὶ εὐλογήσει σε Κύριος ὁ θεός σου ἐν πάσῃ τῇ γῇ εἰς ἣν εἰσπορεύῃ ἐκεῖ κληρονομεῖν αὐτήν .",
+        "VUL": "benedicátque tibi in terra , ad quam ingrediéris possidéndam .",
+        "SP": "ו ברכך יהוה אלהיך ב ארץ אשׁר אתה בא שׁמה ל רשׁתה",
+        "KJV": "and the LORD thy God shall bless thee in the land whither thou goest to possess it .",
+        "DSS": "[4Q38b] א##ת## # [  בא שמ׳ה ל רשת׳ה ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "But if thine heart turn away , so that thou wilt not hear",
+      "traditions": {
+        "WLC": "וְ אִם יִפְנֶ֥ה לְבָבְ ךָ֖ וְ לֹ֣א תִשְׁמָ֑ע",
+        "LXX": "καὶ ἐὰν μεταστῇ ἡ καρδία σου καὶ μὴ εἰσακούσῃς ,",
+        "VUL": "Si autem avérsum fúerit cor tuum , et audíre nolúeris ,",
+        "SP": "ו אם יפנה לבבך ו לא תשׁמע",
+        "KJV": "But if thine heart turn away , so that thou wilt not hear ,",
+        "DSS": "[4Q38b] ו אם יפנה ] לב#ב##׳ך ו לא ת#ש#מ##[ ע"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but shalt be drawn away , and worship other gods , and serve them ;",
+      "traditions": {
+        "WLC": "וְ נִדַּחְתָּ֗ וְ הִֽשְׁתַּחֲוִ֛יתָ לֵ אלֹהִ֥ים אֲחֵרִ֖ים וַ עֲבַדְתָּֽ ם",
+        "LXX": "καὶ πλανηθεὶς προσκυνήσῃς θεοῖς ἑτέροις καὶ λατρεύσῃς αὐτοῖς ,",
+        "VUL": "atque erróre decéptus adoráveris deos aliénos , et servíeris eis :",
+        "SP": "ו נדחת ו השׁתחוית ל אלהים אחרים ו עבדתם",
+        "KJV": "but shalt be drawn away , and worship other gods , and serve them ;",
+        "DSS": "ו נדחת ו השתחוית ] ל אלהים אח##ר#이?ם#[  ו עבדת׳ם ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "I denounce unto you this day , that ye shall surely perish",
+      "traditions": {
+        "WLC": "הִגַּ֤דְתִּי לָ כֶם֙ הַ יּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵד֑וּ",
+        "LXX": "ἀναγγέλλω σοι σήμερον ὅτι ἀπωλίᾳ ἀπολεῖσθε ,",
+        "VUL": "prǽdico tibi hódie quod péreas ,",
+        "SP": "הגדתי לכם ה יום כי אבד תאבדון",
+        "KJV": "I denounce unto you this day , that ye shall surely perish , [",
+        "DSS": "[4Q38b] הגדתי ל׳כם ] ה יום כי אב##ד#[  תאבדו׳ן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and that ye shall not prolong [ your ] days upon the land",
+      "traditions": {
+        "WLC": "ן לֹא תַאֲרִיכֻ֤ ן יָמִים֙ עַל הָ֣ אֲדָמָ֔ה",
+        "LXX": "καὶ οὐ μὴ πολυήμεροι γένησθε ἐπὶ τῆς γῆς",
+        "VUL": "et parvo témpore moréris in terra ,",
+        "SP": "לא תאריכון ימים על ה אדמה",
+        "KJV": "and that ] ye shall not prolong [ your ] days upon the land ,",
+        "DSS": "לא תאריכ׳ן ] י?מ##이(# ם #) ע#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "whither thou passest over Jordan to go to possess it",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר אַתָּ֤ה עֹבֵר֙ אֶת הַ יַּרְדֵּ֔ן לָ בֹ֥א שָׁ֖מָּ ה לְ רִשְׁתָּֽ הּ",
+        "LXX": "εἰς ἣν ὑμεῖς διαβαίνετε τὸν Ἰορδάνην ἐκεῖ κληρονομεῖν αὐτήν .",
+        "VUL": "ad quam , Iordáne transmísso , ingrediéris possidéndam .",
+        "SP": "אשׁר אתם עברים את ה ירדן ל בוא שׁמה ל רשׁתה",
+        "KJV": "whither thou passest over Jordan to go to possess it .",
+        "DSS": "[ ל ה אדמה אשר אתה עבר ] ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "I call heaven and earth to record this day against you",
+      "traditions": {
+        "WLC": "הַעִידֹ֨תִי בָ כֶ֣ם הַ יּוֹם֮ אֶת הַ שָּׁמַ֣יִם וְ אֶת הָ אָרֶץ֒",
+        "LXX": "διαμαρτύρομαι ὑμῖν σήμερον τόν τε οὐρανὸν καὶ τὴν γῆν ,",
+        "VUL": "Testes ínvoco hódie cælum et terram ,",
+        "SP": "העדתי בכם ה יום את ה שׁמים ו את ה ארץ",
+        "KJV": "I call heaven and earth to record this day against you , [",
+        "DSS": "[1Q5] ו?"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that I have set before you life and death , blessing and cursing",
+      "traditions": {
+        "WLC": "הַ חַיִּ֤ים וְ הַ מָּ֨וֶת֙ נָתַ֣תִּי לְ פָנֶ֔י ךָ הַ בְּרָכָ֖ה וְ הַ קְּלָלָ֑ה",
+        "LXX": "τὴν ζωὴν καὶ τὸν θάνατον δέδωκα πρὸ προσώπου ὑμῶν , τὴν εὐλογίαν καὶ τὴν κατάραν ·",
+        "VUL": "quod proposúerim vobis vitam et mortem , benedictiónem et maledictiónem .",
+        "SP": "ה חיים ו ה מות נתתי ל פניך ה ברכה ו ה קללה",
+        "KJV": "that ] I have set before you life and death , blessing and cursing :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "therefore choose life",
+      "traditions": {
+        "WLC": "וּ בָֽחַרְתָּ֙ בַּֽ חַיִּ֔ים",
+        "LXX": "ἔκλεξαι τὴν ζωὴν σύ ,",
+        "VUL": "Elige ergo vitam ,",
+        "SP": "ו בחרת ב חיים",
+        "KJV": "therefore choose life ,",
+        "DSS": "[ בחרת ב חיים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that both thou and thy seed may live",
+      "traditions": {
+        "WLC": "לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְ זַרְעֶֽ ךָ",
+        "LXX": "ἵνα ζῇς σὺ καὶ τὸ σπέρμα σου ,",
+        "VUL": "ut et tu vivas , et semen tuum :",
+        "SP": "למען תחיה אתה ו זרעך",
+        "KJV": "that both thou and thy seed may live :",
+        "DSS": "למען תחיה אתה ו זרע׳ך ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "That thou mayest love the LORD thy God",
+      "traditions": {
+        "WLC": "לְ אַֽהֲבָה֙ אֶת יְהוָ֣ה אֱלֹהֶ֔י ךָ",
+        "LXX": "ἀγαπᾷν Κύριον τὸν θεόν σου ,",
+        "VUL": "et díligas Dóminum Deum tuum ,",
+        "SP": "ל אהבה את יהוה אלהיך",
+        "KJV": "That thou mayest love the LORD thy God , [",
+        "DSS": "[1Q5] ל אהב׳ה את יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and that thou mayest obey his voice , and that thou mayest cleave unto him",
+      "traditions": {
+        "WLC": "לִ שְׁמֹ֥עַ בְּ קֹל֖ וֹ וּ לְ דָבְקָה ב֑ וֹ",
+        "LXX": "εἰσακούειν τῆς φωνῆς αὐτοῦ καὶ ἔχεσθαι αὐτοῦ ·",
+        "VUL": "atque obédias voci eius , et illi adhǽreas (",
+        "SP": "ו ל שׁמע ב קולו ו ל הדבקה בו",
+        "KJV": "and ] that thou mayest obey his voice , and that thou mayest cleave unto him :",
+        "DSS": "ל שמע ב קל׳ו ] ו ל דבק׳ה ב׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for he [ is ] thy life , and the length of thy days",
+      "traditions": {
+        "WLC": "כִּ֣י ה֤וּא חַיֶּ֨י ךָ֙ וְ אֹ֣רֶךְ יָמֶ֔י ךָ",
+        "LXX": "ὅτι τοῦτο ἡ ζωή σου καὶ ἡ μακρότης τῶν ἡμερῶν σου ·",
+        "VUL": "ipse est enim vita tua , et longitúdo diérum tuórum ) ,",
+        "SP": "כי הוא חייך ו ארך ימיך",
+        "KJV": "for he [ is ] thy life , and the length of thy days :",
+        "DSS": "כי?[  הוא חיי׳ך ו ארך ימי׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that thou mayest dwell in the land which the LORD sware unto thy fathers , to Abraham , to Isaac , and to Jacob , to give them",
+      "traditions": {
+        "WLC": "לָ שֶׁ֣בֶת עַל הָ אֲדָמָ֗ה אֲשֶׁר֩ נִשְׁבַּ֨ע יְהוָ֧ה לַ אֲבֹתֶ֛י ךָ לְ אַבְרָהָ֛ם לְ יִצְחָ֥ק וּֽ לְ יַעֲקֹ֖ב לָ תֵ֥ת לָ הֶֽם",
+        "LXX": "τὸ κατοικεῖν σε ἐπὶ τῆς γῆς ἧς ὤμοσεν Κύριος τοῖς πατράσιν σου Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ δοῦναι αὐτοῖς .",
+        "VUL": "ut hábites in terra , pro qua iurávit Dóminus pátribus tuis , Abraham , Isaac , et Iacob , ut daret eam illis .",
+        "SP": "ל שׁבת על ה אדמה אשׁר נשׁבע יהוה ל אבתיך ל אברהם ל יצחק ו ל יעקב ל תת לכם",
+        "KJV": "that thou mayest dwell in the land which the LORD sware unto thy fathers , to Abraham , to Isaac , and to Jacob , to give them .",
+        "DSS": "ל שבת על ה אדמה אשר נשבע יהוה ל אבתי׳ך ל אברהם ] ל יצחק ו ל יעקב ל תת ל׳הם[  ׃"
+      }
+    }
+  ]
+}

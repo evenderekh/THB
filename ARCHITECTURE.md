@@ -15,28 +15,30 @@ A fully static site — no server, no runtime database. Every page is a self-con
 
 ```
 thb/
-├── thb_builder_14.py       ← site builder v1.5 (~1,800 lines)
-├── thb_template_14.html    ← HTML/CSS/JS shell for every page
-├── thb_punct_extractor.py  ← MT punctuation extractor (OSHB → thb.1.5.mt.json)
+├── thb_builder.py          ← site builder (~1,800 lines)
+├── thb_template.html       ← HTML/CSS/JS shell for every page
 ├── ARCHITECTURE.md         ← this file
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
 │
 ├── backend/
-│   ├── thb.1.5.mt.json              ← Hebrew text + morphology + full punctuation
-│   ├── thb.1.3.lxx.json             ← Greek text + morphology
-│   ├── thb.1.3.vul.json             ← Latin text + morphology
-│   ├── thb.1.3.sp.json              ← Samaritan Pentateuch
-│   ├── thb.1.3.kjv.json             ← English text + Strong's alignment
-│   ├── thb.1.3.dss.json             ← Dead Sea Scrolls
-│   ├── thb.1.4.lexicon.mt.json      ← MT lexicon, 12,321 entries
-│   ├── thb.1.4.lexicon.lxx.json     ← LXX lexicon, 18,248 entries
-│   ├── thb.1.4.lexicon.vul.json     ← VUL lexicon, 11,704 entries
-│   ├── thb.1.3.versification.json   ← versification maps with license metadata
-│   ├── thb.1.3.aleppo.json          ← Aleppo Codex facsimile page index
-│   ├── oshb_cache/                  ← Cached OSHB MorphHB XML (39 books, ~60 MB)
-│   └── concordance/                 ← Strong's frequency data, one file per book
+│   ├── thb.mt.json              ← Hebrew text + morphology + full punctuation
+│   ├── thb.lxx.json             ← Greek text + morphology
+│   ├── thb.vul.json             ← Latin text + morphology
+│   ├── thb.sp.json              ← Samaritan Pentateuch
+│   ├── thb.kjv.json             ← English text + Strong's alignment
+│   ├── thb.dss.json             ← Dead Sea Scrolls
+│   ├── thb.lexicon.mt.json      ← MT lexicon, 12,321 entries
+│   ├── thb.lexicon.lxx.json     ← LXX lexicon, 18,248 entries
+│   ├── thb.lexicon.vul.json     ← VUL lexicon, 11,704 entries
+│   ├── thb.versification.json   ← versification maps with license metadata
+│   ├── thb.aleppo.json          ← Aleppo Codex facsimile page index
+│   ├── oshb_cache/              ← Cached OSHB MorphHB XML (39 books, ~60 MB)
+│   ├── concordance/             ← Strong's frequency data, one file per book
+│   └── alignment/
+│       ├── thought/wlc/         ← Thought-unit alignment, one JSON per book/chapter
+│       └── word/wlc/            ← Word-level alignment, one JSON per book/chapter
 │       ├── genesis.json
 │       ├── exodus.json
 │       └── ... (39 files total)
@@ -72,7 +74,7 @@ thb/
 
 ## Aleppo Codex Facsimile Index
 
-`thb.1.3.aleppo.json` is a pre-compiled sorted list of 587 facsimile page entries, one per surviving page of the Keter Aram Tzova facsimile edition:
+`thb.aleppo.json` is a pre-compiled sorted list of 587 facsimile page entries, one per surviving page of the Keter Aram Tzova facsimile edition:
 
 ```json
 [
@@ -103,11 +105,27 @@ The master data is split into one JSON file per tradition. Each file contains th
 { "Genesis": [ {chapter, verses:[{verse, words:[...]}]} ], ... }
 ```
 
-DSS verses nest words under scroll attestations rather than directly — each verse contains one or more `scrolls` entries (e.g. `"4Q2"`, `"1QIsa-a"`), each with its own word list. DSS word objects carry `surface_full`, `biblical_ref`, and `fragment` fields in addition to the standard set.
+DSS verses nest words under scroll attestations rather than directly — each verse contains one or more `scrolls` entries (e.g. `"4Q2"`, `"1QIsa-a"`), each with its own word list. DSS word objects carry `surface_full`, `fragment`, and `reconstructed` fields in addition to the standard set (`biblical_ref` was removed as fully redundant with the JSON nesting).
 
-Each word object carries: `thb_id` (stable OSID), `surface`, `lemma`, `morph`, `morph_thb`, `consonantal`.
+**Standard word fields (all traditions):** `thb_id`, `surface`, `lemma`, `morph` (where applicable — see below).
 
-**MT punctuation fields** (added in v1.5 via `thb_punct_extractor.py`):
+**Per-tradition field inventory:**
+
+| Field | MT | LXX | VUL | SP | KJV | DSS |
+|-------|----|-----|-----|----|-----|-----|
+| `thb_id` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `surface` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `lemma` | ✓ | ✓ | ✓ | ✓ | — | ✓ |
+| `morph` | ✓ | — | — | ✓ | — | ✓ |
+| `morph_thb` | — | ✓ | ✓ | — | — | — |
+| `consonantal` | ✓ | — | ✓ | ✓ | — | ✓ |
+| `strongs` | — | — | — | — | ✓ | — |
+| `italicized` | — | — | — | — | ✓ (opt) | — |
+| `surface_full` | — | — | — | — | — | ✓ |
+| `fragment` | — | — | — | — | — | ✓ |
+| `reconstructed` | — | — | — | — | — | ✓ (opt) |
+
+**MT punctuation fields** (added in v1.5):
 
 | Field | Type | Meaning |
 |-------|------|---------|
@@ -121,21 +139,23 @@ Each word object carries: `thb_id` (stable OSID), `surface`, `lemma`, `morph`, `
 
 Verse objects may carry `parashah: "pe"` or `parashah: "samekh"` marking a section break.
 
+**KJV `italicized` field:** Words supplied by the KJV translators with no direct Hebrew/Greek counterpart carry `"italicized": true`. The site renders these in italic; the column toggle de-italicizes them to show the base translation text.
+
+**DSS `reconstructed` field:** Derived from lacuna brackets in `surface_full`. Values: `"full"` (entire word is within `[ ]`) or `"partial"` (bracket opens or closes within the word). Emitted as `data-reconstructed` on the word span.
+
 **Morphology fields:**
-- `morph` — raw tradition-specific codes, parsed at build time by the tradition's morph parser.
-- `morph_thb` — pre-computed morphology dict (`{pos, case, gender, number, ...}`). Authoritative for LXX and VUL. Drives all `data-pos`, `data-case` etc. attributes on the live site.
+- `morph` — raw tradition-specific codes, parsed at build time (MT, SP, DSS only).
+- `morph_thb` — pre-computed morphology dict (`{pos, case, gender, number, ...}`). Present on LXX and VUL. Drives all `data-pos`, `data-case` etc. attributes on the live site.
 
 **Per-tradition rendering:**
 - MT: `parse_oshb_morph(morph)` at build time. The leading `H`/`A` language prefix is optional in the data (~35% of tokens omit it).
-- LXX: stored `morph_thb` used directly (all 496K Swete words have it).
+- LXX: stored `morph_thb` used directly.
 - VUL: stored `morph_thb` used directly.
-- SP: `parse_sp_morph(morph)` at build time. Lemma looked up via `_sp_consonant_index` (see below).
+- SP: `parse_sp_morph(morph)` at build time. Lemma looked up via `_sp_consonant_index` (see below). SP lemmas use ETCBC conventions: trailing `/` marks nominal lexemes, trailing `[` marks verbal roots — both are stripped before concordance lookup but preserved in the data.
 - DSS: `parse_dss_morph(morph)` at build time. Lemma stripped of `_1`/`_2` suffixes, then looked up via `_sp_consonant_index` into MT lexicon. Word spans get a `data-sf` attribute holding the raw `surface_full` for client-side damage rendering.
 - KJV: `strongs` field (baked into each word object) drives hover definitions. H853 (את) intentionally omitted.
 
-**LXX book name variations:**
-- `"Joshua B"` / `"Judges B"` — Vaticanus recension.
-- `"Nehemiah"` — separate top-level key, chapters 1-13.
+**All book names follow MT canonical names.** LXX Joshua and Judges are the Vaticanus recension but are stored under the plain MT keys `"Joshua"` and `"Judges"` (the `B` suffix has been dropped).
 
 **Column availability:**
 - SP: Torah only (Genesis–Deuteronomy).
@@ -143,9 +163,9 @@ Verse objects may carry `parashah: "pe"` or `parashah: "samekh"` marking a secti
 
 ---
 
-## Lexicons: `thb.1.4.lexicon.{mt,lxx,vul}.json`
+## Lexicons: `thb.lexicon.{mt,lxx,vul}.json`
 
-Three separate files (one per tradition) replace the earlier unified `thb.1.3.lexicon.json`. Each file has a single top-level `"entries"` key:
+Three separate files, one per tradition. Each has a single top-level `"entries"` key:
 
 ```json
 { "entries": { "<key>": { <definition fields> } } }
@@ -153,9 +173,9 @@ Three separate files (one per tradition) replace the earlier unified `thb.1.3.le
 
 | File | Entries | Key | Fields |
 |------|---------|-----|--------|
-| `thb.1.4.lexicon.mt.json` | 12,321 | Numeric Strong's code string (e.g. `"1254"`) | `hebrew`, `strongs_id`, `strongs_def`, `bdb_def`, `thb_def` |
-| `thb.1.4.lexicon.lxx.json` | 18,248 | Greek lemma (e.g. `"καί"`) | `lsj_def`, `thb_def` |
-| `thb.1.4.lexicon.vul.json` | 11,704 | Normalized Latin lemma | `ls_def`, `thb_def` |
+| `thb.lexicon.mt.json` | 12,321 | Numeric Strong's code string (e.g. `"1254"`) | `hebrew`, `strongs_id`, `strongs_def`, `bdb_def`, `thb_def` |
+| `thb.lexicon.lxx.json` | 18,248 | Greek lemma (e.g. `"καί"`) | `lsj_def`, `thb_def` |
+| `thb.lexicon.vul.json` | 11,704 | Normalized Latin lemma | `ls_def`, `thb_def` |
 
 **Coverage:**
 - MT: `strongs_def` ~72%, `bdb_def` ~69.5%, `thb_def` ~76.5%
@@ -215,33 +235,13 @@ The word hover panel shows a **concordance link** (→ the stub page) and a **ha
 
 ---
 
-## MT Punctuation Extractor: `thb_punct_extractor.py`
-
-Reads the cached OSHB MorphHB XML files (`backend/oshb_cache/`) and adds punctuation fields to `thb.1.3.mt.json`, producing `thb.1.5.mt.json`.
-
-**Source:** OSHB MorphHB XML (same source as the original MT data). Positional matching within each verse is exact — same tokenization, zero alignment problems — with two edge-case fixes:
-
-1. **Morph-split compensation:** OSHB `<w>` elements with multiple morphemes (e.g. `morph="HC/Vqq2ms"`) produce multiple JSON tokens. The extractor counts `/` characters in the morph code to advance the JSON token index correctly so post-word marks (paseq, reversed nun) land on the right token.
-
-2. **Ketiv/qere skip:** OSHB encodes ketiv/qere variants as `<w>` inside `<note>` elements. `root.iter()` visits these but they have no JSON counterpart. They are pre-identified and skipped during word counting.
-
-**Counts (whole Bible):** 2,278 paseq · 9 reversed nun · 3,130 parashah (1,181 pe + 1,981 samekh) · 4 large letter · 3 small letter · 4 suspended letter · 0 mismatches.
-
-```bash
-# Re-run if OSHB source changes (XML cached in backend/oshb_cache/)
-python thb/thb_punct_extractor.py
-python thb/thb_punct_extractor.py --dry-run   # verify without writing
-```
-
----
-
 ## Punctuation Rendering
 
-**MT** — rendered from word-level flags in `thb.1.5.mt.json`:
+**MT** — rendered from word-level flags in `thb.mt.json`:
 - `is_sof_pasuq` → `<span class="punct sof-pasuq">׃</span>` (hugs preceding word)
 - `has_paseq` → `<span class="punct paseq"> ׀</span>` appended after the word span
 - `has_reversed_nun` → `<span class="punct reversed-nun">׆</span>` appended after the word span
-- `parashah: "pe"/"samekh"` → `<span class="parashah pe">פ</span>` / `<span class="parashah samekh">ס</span>` prepended to verse
+- `parashah: "pe"/"samekh"` → `<span class="parashah pe">פ</span>` / `<span class="parashah samekh">ס</span>` appended after the last word of the verse
 - `has_large_letter` / `has_small_letter` / `has_suspended_letter` → CSS classes on the word span
 
 **LXX / VUL / KJV** — punctuation appears as standalone word tokens (`.`, `,`, `;`, `:`, `!`, `?`, `—`, `–`). `build_word_span()` renders these as `<span class="punct">` elements that hug the preceding word with no space.
@@ -311,7 +311,7 @@ The builder loads all 39 files at startup into `self.concordance_data` keyed by 
 
 ---
 
-## Versification: `thb.1.3.versification.json`
+## Versification: `thb.versification.json`
 
 The six traditions don't always agree on chapter/verse numbers. `VersificationMapper` handles cross-tradition resolution.
 
@@ -331,7 +331,121 @@ The `supplement` source covers books the Copenhagen Alliance files don't include
 
 ---
 
-## The Builder: `thb_builder_14.py`
+## Alignment: Cross-Tradition Semantic Highlighting
+
+Hovering any word activates two layers of gold highlighting across all six columns simultaneously:
+
+| Layer | CSS class | Visual |
+|-------|-----------|--------|
+| Thought unit | `.align-thought` on `.thought-group` | Light gold background — same semantic idea |
+| Word counterpart | `.align-word` on `.wid-group` | Full gold background — exact lexical match |
+| Hovered word | `.align-focus` on the word span | Deepened gold |
+
+---
+
+### Alignment Data Files
+
+```
+backend/alignment/thought/wlc/{Book}.{chapter}.json
+backend/alignment/word/wlc/{Book}.{chapter}.json
+```
+
+**Thought file** — one entry per verse, listing thought units each containing the surface text for all six traditions:
+
+```json
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the beginning",
+      "traditions": {
+        "WLC": "בְּרֵאשִׁ֖ית",
+        "LXX": "ΕΝ ΑΡΧΗ",
+        "VUL": "In princípio",
+        "SP": "בראשׁית",
+        "KJV": "In the beginning",
+        "DSS": "[בר]אשית"
+      }
+    }, ...
+  ]
+}
+```
+
+**Word file** — same shape but the `WLC` field contains a space-separated list of lemma-tagged tokens defining the MT spine, and each non-MT tradition field maps surface words to spine positions.
+
+Alignment data was generated using Gemma 4 31B IT via `alignment_processor.py`, which batches 10 verses per API call, then refined via targeted rerun and audit scripts.
+
+---
+
+### DOM Structure
+
+Three nested levels are emitted per word when alignment data is present:
+
+```html
+<span class="thought-group" data-tid="N">
+  <span class="wid-group" data-tid="N" data-wid="T:W">
+    <span class="hebrew-word" ... data-tid="N" data-wid="T:W">word</span>
+  </span>
+</span>
+```
+
+- **`thought-group`** — continuous inline box spanning all words in one semantic unit. `data-tid` is the thought index within the verse (1-indexed).
+- **`wid-group`** — spans words that share a word-level mapping. `data-wid` is `"T:W"` where T is the thought ID and W is the zero-indexed MT spine position.
+- **`data-wid` omitted** when there is no word-level counterpart (null mapping) — the word still gets a thought-group but no wid-group.
+
+**One-to-many** (one MT word → multiple tradition words): each tradition word gets its own `wid-group` span, all carrying the same `data-wid`. Hovering any one highlights all siblings.
+
+**Many-to-one** (multiple MT words → one tradition word): the tradition word receives the wid of whichever MT token was matched first. The JS handles space-separated wids (`"1:8 1:9"`) but the builder does not currently produce them.
+
+**No alignment data** for a verse-tradition: no wrapper spans emitted; word spans carry no `data-tid` or `data-wid`.
+
+---
+
+### Build Step
+
+`_load_alignment_data()` runs at startup. It scans `backend/alignment/thought/wlc/` and `backend/alignment/word/wlc/`, loading every available `{Book}.{chapter}.json` file into:
+
+```
+self.alignment: {(book, chapter, verse, tradition): {surface: [(tid, wid_str), ...]}}
+```
+
+Values are ordered lists so repeated surface forms (e.g. `את` appearing multiple times in a verse) are consumed in sequence rather than all mapping to the same entry.
+
+During `build_word_sequence()`, the builder maintains open thought-group and wid-group span state, flushing and opening new wrappers as `tid` or `wid` changes across consecutive words.
+
+Chapters without alignment files render normally with no wrapper spans.
+
+---
+
+### Hover JS
+
+```js
+function activateAlignment(wordEl) {
+    const row  = wordEl.closest('.verse-row');
+    const tid  = wordEl.dataset.tid;
+    const wids = (wordEl.dataset.wid || '').split(' ').filter(Boolean);
+
+    row.querySelectorAll('.thought-group[data-tid="' + tid + '"]')
+       .forEach(g => g.classList.add('align-thought'));
+
+    if (wids.length > 0) {
+        row.querySelectorAll('.wid-group[data-tid="' + tid + '"]').forEach(g => {
+            const gWids = (g.dataset.wid || '').split(' ');
+            if (wids.some(w => gWids.includes(w)))
+                g.classList.add('align-word');
+        });
+    }
+    wordEl.classList.add('align-focus');
+}
+```
+
+`deactivateAlignment(row)` removes all three classes. When `panelLocked` is true, alignment stays painted until the panel is dismissed — same pattern as the linguistic panel.
+
+Alignment uses `data-` attributes, not DOM position, so column reordering and the diacritics toggle have no effect on alignment logic. Hidden columns receive the highlight classes but are not visible.
+
+---
+
+## The Builder: `thb_builder.py`
 
 Single Python 3 script (~1,800 lines). All paths are `Path(__file__).parent`-relative.
 
@@ -344,7 +458,7 @@ Single Python 3 script (~1,800 lines). All paths are `Path(__file__).parent`-rel
 ```python
 THBSiteBuilder(
     backend_dir   = 'thb/backend',
-    template_path = 'thb/thb_template_14.html',
+    template_path = 'thb/thb_template.html',
     output_dir    = 'thb/public_html',
 )
 ```
@@ -354,19 +468,21 @@ THBSiteBuilder(
 | Attribute | Contents |
 |-----------|----------|
 | `self.thb_data` | `{"mt": {...}, "lxx": {...}, ...}` — loaded from 6 per-tradition files |
-| `self.mt_lexicon` / `self.lxx_lexicon` / `self.vul_lexicon` | Loaded from split `thb.1.4.lexicon.*.json` files |
+| `self.mt_lexicon` / `self.lxx_lexicon` / `self.vul_lexicon` | Loaded from `thb.lexicon.*.json` files |
 | `self.concordance_data` | `{book: {ch: {verse: {H…: {Book: count}}}}}` — loaded from `concordance/` |
 | `self.occurrence_index` | `{tradition: {lemma_key: [(book, ch, verse), ...]}}` — built from loaded data |
 | `self.hapax` | `{tradition: set(lemma_keys)}` — single-occurrence lemmas |
 | `self._page_lex` | Per-page lexicon accumulator, reset each chapter |
 | `self._sp_consonant_index` | Consonantal Hebrew → Strong's code |
 | `self.aleppo_pages` | Sorted list of Aleppo facsimile page entries |
+| `self.alignment` | `{(book, ch, verse, tradition): {surface: [(tid, wid_str), ...]}}` — loaded from `backend/alignment/` |
 
 **Key methods:**
 
 | Method | Purpose |
 |--------|---------|
-| `load_data()` | Loads all backend files; builds SP consonantal index; calls `build_concordance_data()` |
+| `load_data()` | Loads all backend files; builds SP consonantal index; calls `build_concordance_data()` and `_load_alignment_data()` |
+| `_load_alignment_data()` | Scans `backend/alignment/`; populates `self.alignment` from all available thought and word JSON files |
 | `build_concordance_data()` | Scans all loaded traditions; builds `occurrence_index` and `hapax` |
 | `get_tradition_book_name(book, tradition)` | Maps canonical name to tradition key |
 | `_prev_next_urls(book, chapter)` | Bakes prev/next nav hrefs; wraps at Bible boundaries |
@@ -399,7 +515,7 @@ THBSiteBuilder(
 
 ---
 
-## Template: `thb_template_14.html`
+## Template: `thb_template.html`
 
 Single HTML file. The builder replaces `{{{TAG}}}` placeholders with generated content:
 
@@ -440,8 +556,8 @@ CSS and JS are fully inline — no external stylesheet or script dependencies (e
 ## Build
 
 ```bash
-python thb/thb_builder_14.py --concordance   # full build + concordance stubs
-python thb/thb_builder_14.py --mini          # Genesis 1-3 only (fast preview)
+python thb/thb_builder.py --concordance   # full build + concordance stubs
+python thb/thb_builder.py --mini          # Genesis 1-3 only (fast preview)
 ```
 
 ---
@@ -499,7 +615,7 @@ Concordance links in chapter pages point directly to `https://thb-concordance-{t
 | Tradition | Source |
 |-----------|--------|
 | MT | Westminster Leningrad Codex (OSHB / MorphHB) |
-| LXX | Swete 1930 — Joshua B and Judges B (Vaticanus recension) |
+| LXX | Swete 1930 — Vaticanus recension (Joshua, Judges) |
 | VUL | Clementine Vulgate with THB morphological analysis |
 | KJV | 1769 text; Strong's alignment from OpenHebrewBible (Eliran Wong, CC-BY-NC 4.0) |
 | DSS | Dead Sea Scrolls biblical texts (ETCBC/Naaijer, CC-BY-NC 4.0) |

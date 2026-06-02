@@ -1,0 +1,936 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And afterward",
+      "traditions": {
+        "WLC": "וְ אַחַ֗ר",
+        "LXX": "Καὶ μετὰ ταῦτα",
+        "VUL": "Post hæc",
+        "SP": "ו אחר",
+        "KJV": "And afterward",
+        "DSS": "[4Q1] ו אח ]ר##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Moses and Aaron went in",
+      "traditions": {
+        "WLC": "בָּ֚אוּ מֹשֶׁ֣ה וְ אַהֲרֹ֔ן",
+        "LXX": "εἰσῆλθεν Μωυσῆς καὶ Ἀαρὼν πρὸς Φαραὼ",
+        "VUL": "ingréssi sunt Móyses et Aaron ,",
+        "SP": "באו משׁה ו אהרן",
+        "KJV": "Moses and Aaron went in ,",
+        "DSS": "[4Q1] ב#א#ו משה ו אהרן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and told Pharaoh",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֖וּ אֶל פַּרְעֹ֑ה",
+        "LXX": "καὶ εἶπαν αὐτῷ",
+        "VUL": "et dixérunt Pharaóni :",
+        "SP": "ו יאמרו אל פרעה",
+        "KJV": "and told Pharaoh ,",
+        "DSS": "[4Q1] [ ו יאמרו אל פרעה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Thus saith the LORD God of Israel",
+      "traditions": {
+        "WLC": "כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל",
+        "LXX": "Τάδε λέγει Κύριος ὁ θεὸς Ἰσραήλ ,",
+        "VUL": "Hæc dicit Dóminus Deus Israel :",
+        "SP": "כה אמר יהוה אלהי ישׂראל",
+        "KJV": "Thus saith the LORD God of Israel ,",
+        "DSS": "[4Q1] כה אמר יהוה אלהי ישראל"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "Let my people go",
+      "traditions": {
+        "WLC": "שַׁלַּח֙ אֶת עַמִּ֔ י",
+        "LXX": "Ἐξαπόστειλον τὸν λαόν μου ,",
+        "VUL": "Dimítte pópulum meum",
+        "SP": "שׁלח את עמי",
+        "KJV": "Let my people go ,",
+        "DSS": "[4Q1] שלח את ע ]מ##׳י"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "that they may hold a feast unto me in the wilderness",
+      "traditions": {
+        "WLC": "וְ יָחֹ֥גּוּ לִ֖ י בַּ מִּדְבָּֽר",
+        "LXX": "ἵνα μοι ἑορτάσωσιν ἐν τῇ ἐρήμῳ .",
+        "VUL": "ut sacríficet mihi in desérto .",
+        "SP": "ו יחגו לי ב מדבר",
+        "KJV": "that they may hold a feast unto me in the wilderness .",
+        "DSS": "[4Q1] ו יחגו ׃ / [Mur1] [ את עמ׳י ו יחגו ל׳י ב מדבר ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Pharaoh said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר פַּרְעֹ֔ה",
+        "LXX": "καὶ εἶπεν Φαραώ",
+        "VUL": "At ille respóndit :",
+        "SP": "ו יאמר פרעה",
+        "KJV": "And Pharaoh said ,",
+        "DSS": "[Mur1] ו יאמר פרעה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Who [ is ] the LORD",
+      "traditions": {
+        "WLC": "מִ֤י יְהוָה֙",
+        "LXX": "Τίς ἐστιν",
+        "VUL": "Quis est Dóminus ,",
+        "SP": "מי יהוה",
+        "KJV": "Who [ is ] the LORD ,",
+        "DSS": "[Mur1] מי יהוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that I should obey his voice",
+      "traditions": {
+        "WLC": "אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּ קֹל֔ וֹ",
+        "LXX": "οὗ εἰσακούσομαι τῆς φωνῆς αὐτοῦ",
+        "VUL": "ut áudiam vocem eius ,",
+        "SP": "אשׁר אשׁמע ב קולו",
+        "KJV": "that I should obey his voice",
+        "DSS": "[Mur1] [ אשר אשמע ב קל׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "to let Israel go ?",
+      "traditions": {
+        "WLC": "לְ שַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל",
+        "LXX": "ὥστε ἐξαποστεῖλαι τοὺς υἱοὺς Ἰσραήλ ?",
+        "VUL": "et dimíttam Israel ?",
+        "SP": "ל שׁלח את ישׂראל",
+        "KJV": "to let Israel go ?",
+        "DSS": "[Mur1] ל שלח את ישראל"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "I know not the LORD",
+      "traditions": {
+        "WLC": "לֹ֤א יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה",
+        "LXX": "οὐκ οἶδα τὸν κύριον ,",
+        "VUL": "néscio Dóminum ,",
+        "SP": "לא ידעתי את יהוה",
+        "KJV": "I know not the LORD ,",
+        "DSS": "[Mur1] לא ידעתי ] [ את יהוה"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "neither will I let Israel go",
+      "traditions": {
+        "WLC": "וְ גַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ",
+        "LXX": "καὶ τὸν Ἰσραὴλ οὐκ ἐξαποστέλλω .",
+        "VUL": "et Israel non dimíttam .",
+        "SP": "ו גם את ישׂראל לא אשׁלח",
+        "KJV": "neither will I let Israel go .",
+        "DSS": "[Mur1] ו גם את ישראל לא אשלח ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמְר֔וּ",
+        "LXX": "καὶ λέγουσιν αὐτῷ",
+        "VUL": "Dixerúntque :",
+        "SP": "ו יאמרו",
+        "KJV": "And they said ,",
+        "DSS": "[Mur1] ו יאמרו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The God of the Hebrews hath met with us",
+      "traditions": {
+        "WLC": "אֱלֹהֵ֥י הָ עִבְרִ֖ים נִקְרָ֣א עָלֵ֑י נוּ",
+        "LXX": "Ὁ θεὸς τῶν Ἐβραίων προσκέκληται ἡμᾶς ·",
+        "VUL": "Deus Hebræórum vocávit nos ,",
+        "SP": "אלהי ה עברים נקרא עלינו",
+        "KJV": "The God of the Hebrews hath met with us :",
+        "DSS": "[Mur1] [ אלהי ה עברים נקרא עלי׳נו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "let us go , we pray thee , three days ’ journey into the desert",
+      "traditions": {
+        "WLC": "נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים בַּ מִּדְבָּ֗ר",
+        "LXX": "πορευσόμεθα οὖν ὁδὸν τριῶν ἡμερῶν εἰς τὴν ἔρημον ,",
+        "VUL": "ut eámus viam trium diérum in solitúdinem ,",
+        "SP": "נלכה נא ה מדברה דרך שׁלשׁת ימים",
+        "KJV": "let us go , we pray thee , three days ’ journey into the desert ,",
+        "DSS": "[2Q4] נלכה[ נא דרך שלשת ימים ב מדבר / [4Q1] נלכה נא דרך שלשת ימים ב מדבר / [4Q13] [ עלי׳נו נלכה נא דרך שלשת ימים ב מדבר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and sacrifice unto the LORD our God",
+      "traditions": {
+        "WLC": "וְ נִזְבְּחָה֙ לַֽ יהוָ֣ה אֱלֹהֵ֔י נוּ",
+        "LXX": "ὅπως θύσωμεν τῷ θεῷ ἡμῶν ,",
+        "VUL": "et sacrificémus Dómino Deo nostro :",
+        "SP": "ו נזבחה ל יהוה אלהינו",
+        "KJV": "and sacrifice unto the LORD our God ;",
+        "DSS": "[2Q4] ו נזבחה ל יהוה אלהי׳נו / [4Q1] ו נזבחה ] ל# י#?[ הוה אלהי׳נו / [4Q13] ו נזב ]ח#ה ל יהוה אל#ו?[ הי׳נו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "lest he fall upon us with pestilence , or with the sword",
+      "traditions": {
+        "WLC": "פֶּ֨ן יִפְגָּעֵ֔ נוּ בַּ דֶּ֖בֶר א֥וֹ בֶ חָֽרֶב",
+        "LXX": "μή ποτε συναντήσῃ ἡμῖν θάνατος ἢ φόνος .",
+        "VUL": "ne forte áccidat nobis pestis aut gládius .",
+        "SP": "פן יפגענו ב דבר או ב חרב",
+        "KJV": "lest he fall upon us with pestilence , or with the sword .",
+        "DSS": "[2Q4] פן יפגע׳נו ב דבר או ] ב חר##ב[ ׃ / [4Q1] פן יפגע׳נו ב דבר או ב חרב ׃ / [4Q13] פן יפגע׳נו ב דבר ] [ או ב חרב ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the king of Egypt said unto them",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר אֲלֵ הֶם֙ מֶ֣לֶךְ מִצְרַ֔יִם",
+        "LXX": "καὶ εἶπεν αὐτοῖς ὁ βασιλεὺς Αἰγύπτου",
+        "VUL": "Ait ad eos rex Ægýpti :",
+        "SP": "ו יאמר אליהם מלך מצרים",
+        "KJV": "And the king of Egypt said unto them ,",
+        "DSS": "[2Q4] ו יאמר אל׳הם מלך מצרים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Wherefore do ye , Moses and Aaron , let the people from their works ?",
+      "traditions": {
+        "WLC": "לָ֚ מָּה מֹשֶׁ֣ה וְ אַהֲרֹ֔ן תַּפְרִ֥יעוּ אֶת הָ עָ֖ם מִ מַּֽעֲשָׂ֑י",
+        "LXX": "Ἵνα τί , Μωυσῆ καὶ Ἀαρών , διαστρέφετε τὸν λαόν μου ἀπὸ τῶν ἔργων ?",
+        "VUL": "Quare Móyses et Aaron sollicitátis pópulum ab opéribus suis ?",
+        "SP": "למה משׁה ו אהרן תפרידו את ה עם מ מעשׂיו",
+        "KJV": "Wherefore do ye , Moses and Aaron , let the people from their works ?",
+        "DSS": "[2Q4] למה משה ו אהרן תפריעו את ה עם מ מעשי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "get you unto your burdens",
+      "traditions": {
+        "WLC": "ו לְכ֖וּ לְ סִבְלֹתֵי כֶֽם",
+        "LXX": "ἀπέλθατε ἕκαστος ὑμῶν πρὸς τὰ ἔργα αὐτοῦ .",
+        "VUL": "ite ad ónera vestra .",
+        "SP": "לכו ל סבלתיכם",
+        "KJV": "get you unto your burdens .",
+        "DSS": "[2Q4] לכו ל סבלתי׳כם ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Pharaoh said",
+      "traditions": {
+        "WLC": "וַ יֹּ֣אמֶר פַּרְעֹ֔ה",
+        "LXX": "καὶ εἶπεν Φαραώ",
+        "VUL": "Dixítque Phárao :",
+        "SP": "ו יאמר פרעה",
+        "KJV": "And Pharaoh said ,",
+        "DSS": "[2Q4] [ ו ] יאמ##[ ר פרעה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Behold , the people of the land now [ are ] many",
+      "traditions": {
+        "WLC": "הֵן רַבִּ֥ים עַתָּ֖ה עַ֣ם הָ אָ֑רֶץ",
+        "LXX": "Ἰδοὺ νῦν πολυπληθεῖ ὁ λαός ·",
+        "VUL": "Multus est pópulus terræ : vidétis quod turba succréverit :",
+        "SP": "הן רבים עתה מ עם ה ארץ",
+        "KJV": "Behold , the people of the land now [ are ] many ,",
+        "DSS": "[2Q4] הן רבים עתה עם ה ארץ"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and ye make them rest from their burdens",
+      "traditions": {
+        "WLC": "וְ הִשְׁבַּתֶּ֥ם אֹתָ֖ ם מִ סִּבְלֹתָֽ ם",
+        "LXX": "μὴ οὖν καταπαύσωμεν αὐτοὺς ἀπὸ τῶν ἔργων .",
+        "VUL": "quanto magis si dedéritis eis réquiem ab opéribus ?",
+        "SP": "ו השׁבתם אתם מ סבלותם",
+        "KJV": "and ye make them rest from their burdens .",
+        "DSS": "[2Q4] ו השבתם את׳ם מ סבלת׳ם ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Pharaoh commanded the same day",
+      "traditions": {
+        "WLC": "וַ יְצַ֥ו פַּרְעֹ֖ה בַּ יּ֣וֹם הַ ה֑וּא",
+        "LXX": "συνέταξεν δὲ Φαραὼ",
+        "VUL": "Præcépit ergo in die illo",
+        "SP": "ו יצו פרעה ב יום ה הוא",
+        "KJV": "And Pharaoh commanded the same day",
+        "DSS": "[4Q1] [ ו י ]צ#ו[ פרע ]ה# ב יום ה הוא["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the taskmasters of the people , and their officers",
+      "traditions": {
+        "WLC": "אֶת הַ נֹּגְשִׂ֣ים בָּ עָ֔ם וְ אֶת שֹׁטְרָ֖י",
+        "LXX": "τοῖς ἐργοδιώκταις τοῦ λαοῦ καὶ τοῖς γραμματεῦσιν",
+        "VUL": "præféctis óperum et exactóribus pópuli ,",
+        "SP": "את ה נגשׂים ב עם ו את שׁוטריו",
+        "KJV": "the taskmasters of the people , and their officers ,",
+        "DSS": "[4Q1] את ה נגשים ב עם ו את שטרי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "ו לֵ אמֹֽר",
+        "LXX": "λέγων .",
+        "VUL": "dicens :",
+        "SP": "ל אמר",
+        "KJV": "saying ,",
+        "DSS": "[4Q1] ל אמר ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ye shall no more give the people straw",
+      "traditions": {
+        "WLC": "לֹ֣א תֹאסִפ֞וּ ן לָ תֵ֨ת תֶּ֧בֶן לָ עָ֛ם",
+        "LXX": "Οὐκέτι προστεθήσεται διδόναι ἄχυρον τῷ λαῷ",
+        "VUL": "Nequáquam ultra dábitis páleas pópulo",
+        "SP": "לא תוסיפון ל תת תבן ל עם",
+        "KJV": "Ye shall no more give the people straw",
+        "DSS": "[4Q1] לא ] [ תאספו׳ן ל ת ]ת# תבן ל עם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to make brick , as heretofore",
+      "traditions": {
+        "WLC": "לִ לְבֹּ֥ן הַ לְּבֵנִ֖ים כִּ תְמ֣וֹל שִׁלְשֹׁ֑ם",
+        "LXX": "εἰς τὴν πλινθουργίαν καθάπερ ἐχθὲς καὶ τρίτην ἡμέραν ·",
+        "VUL": "ad conficiéndos láteres , sicut prius :",
+        "SP": "ל לבן לבנים כ תמול שׁלשׁום",
+        "KJV": "to make brick , as heretofore :",
+        "DSS": "[4Q1] ל לבן?[ ה לבנים כ תמול שלשם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "let them go and gather straw for themselves",
+      "traditions": {
+        "WLC": "הֵ֚ם יֵֽלְכ֔וּ וְ קֹשְׁשׁ֥וּ לָ הֶ֖ם תֶּֽבֶן",
+        "LXX": "αὐτοὶ πορευέσθωσαν καὶ συναγαγέτωσαν ἑαυτοῖς ἄχυρα .",
+        "VUL": "sed ipsi vadant , et cólligant stípulas .",
+        "SP": "הם ילכו יקשׁשׁו להם תבן",
+        "KJV": "let them go and gather straw for themselves .",
+        "DSS": "[4Q1] הם ילכו ו קששו ] [ ל׳הם תבן ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the tale of the bricks , which they did make heretofore , ye shall lay upon them",
+      "traditions": {
+        "WLC": "וְ אֶת מַתְכֹּ֨נֶת הַ לְּבֵנִ֜ים אֲשֶׁ֣ר הֵם֩ עֹשִׂ֨ים תְּמ֤וֹל שִׁלְשֹׁם֙ תָּשִׂ֣ימוּ עֲלֵי הֶ֔ם",
+        "LXX": "καὶ τὴν σύνταξιν τῆς πλινθίας ἧς αὐτοὶ ποιοῦσιν καθ᾽ ἑκάστην ἡμέραν ἐπιβαλεῖς αὐτοῖς ,",
+        "VUL": "Et mensúram láterum , quam prius faciébant , imponétis super eos ,",
+        "SP": "ו את מתכנת ה לבנים אשׁר הם עשׂים תמול שׁלשׁום תשׂימו עליהם",
+        "KJV": "And the tale of the bricks , which they did make heretofore , ye shall lay upon them ;",
+        "DSS": "[4Q1] ו ] את מתכנת ה לבני#?[ ם אשר הם עשים תמול שלשם תשימו ] [ עלי׳הם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "ye shall not diminish [ ought ] thereof",
+      "traditions": {
+        "WLC": "לֹ֥א תִגְרְע֖וּ מִמֶּ֑ נּוּ",
+        "LXX": "οὐκ ἀφελεῖς οὐδέν ·",
+        "VUL": "nec minuétis quidquam :",
+        "SP": "לא תגרעו ממנו",
+        "KJV": "ye shall not diminish [ ought ] thereof :",
+        "DSS": "[4Q1] לא ]ת##ג?ר#ע#ו? מ#מ##׳נ#?["
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for they [ be ] idle",
+      "traditions": {
+        "WLC": "כִּֽי נִרְפִּ֣ים הֵ֔ם",
+        "LXX": "σχολάζουσιν γάρ ,",
+        "VUL": "vacant enim ,",
+        "SP": "כי נרפים הם",
+        "KJV": "for they [ be ] idle ;",
+        "DSS": "[4Q1] ו כי נרפים הם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "therefore they cry , saying",
+      "traditions": {
+        "WLC": "עַל כֵּ֗ן הֵ֤ם צֹֽעֲקִים֙ לֵ אמֹ֔ר",
+        "LXX": "διὰ τοῦτο κεκράγασιν λέγοντες",
+        "VUL": "et idcírco vociferántur , dicéntes :",
+        "SP": "על כן הם צעקים ל אמר",
+        "KJV": "therefore they cry , saying ,",
+        "DSS": "[4Q1] על כן הם צעקים ל אמר"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "Let us go [ and ] sacrifice to our God",
+      "traditions": {
+        "WLC": "נֵלְכָ֖ה נִזְבְּחָ֥ה לֵ אלֹהֵֽי נוּ",
+        "LXX": "Ἐγερθῶμεν καὶ θύσωμεν τῷ θεῷ ἡμῶν .",
+        "VUL": "Eámus , et sacrificémus Deo nostro .",
+        "SP": "נלכה נזבחה ל אלהינו",
+        "KJV": "Let us go [ and ] sacrifice to our God .",
+        "DSS": "[4Q1] נלכה ו#? נ?ז#?בחה ל אלהי׳נו ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let there more work be laid upon the men",
+      "traditions": {
+        "WLC": "תִּכְבַּ֧ד הָ עֲבֹדָ֛ה עַל הָ אֲנָשִׁ֖ים",
+        "LXX": "βαρυνέσθω τὰ ἔργα τῶν ἀνθρώπων τούτων ,",
+        "VUL": "Opprimántur opéribus ,",
+        "SP": "תכבד ה עבדה על ה אנשׁים",
+        "KJV": "Let there more work be laid upon the men ,",
+        "DSS": "[4Q1] תכ##[ בד ה עבדה על ה אנשים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that they may labour therein",
+      "traditions": {
+        "WLC": "וְ יַעֲשׂוּ בָ֑ הּ",
+        "LXX": "καὶ μεριμνάτωσαν ταῦτα ,",
+        "VUL": "et éxpleant ea :",
+        "SP": "ו ישׁעו בה",
+        "KJV": "that they may labour therein ;",
+        "DSS": "[4Q1] ו יעשו ב׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and let them not regard vain words",
+      "traditions": {
+        "WLC": "וְ אַל יִשְׁע֖וּ בְּ דִבְרֵי שָֽׁקֶר",
+        "LXX": "καὶ μὴ μεριμνάτωσαν ἐν λόγοις κενοῖς .",
+        "VUL": "ut non acquiéscant verbis mendácibus .",
+        "SP": "ו לא ישׁעו ב דברי שׁקר",
+        "KJV": "and let them not regard vain words .",
+        "DSS": "[4Q1] ו אל ] י(# ש #)עו ב דב#ר#י? שקר# ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the taskmasters of the people went out , and their officers",
+      "traditions": {
+        "WLC": "וַ יֵּ֨צְא֜וּ נֹגְשֵׂ֤י הָ עָם֙ וְ שֹׁ֣טְרָ֔י",
+        "LXX": "κατέσπευδον δὲ αὐτοὺς οἱ ἐργοδιῶκται καὶ οἱ γραμματεῖς ,",
+        "VUL": "Igitur egréssi præfécti óperum et exactóres ad pópulum ,",
+        "SP": "ו יצאו נגשׂי ה עם ו שׁוטריו",
+        "KJV": "And the taskmasters of the people went out , and their officers ,",
+        "DSS": "[4Q1] ו יצא#[ ו נגשי ] ה עם ו שט#[ רי׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they spake to the people , saying",
+      "traditions": {
+        "WLC": "ו וַ יֹּאמְר֥וּ אֶל הָ עָ֖ם לֵ אמֹ֑ר",
+        "LXX": "καὶ ἔλεγον πρὸς τὸν λαὸν λέγοντες",
+        "VUL": "dixérunt :",
+        "SP": "ו ידברו אל ה עם ל אמר",
+        "KJV": "and they spake to the people , saying ,",
+        "DSS": "[4Q1] ו יאמרו אל ה עם ל אמר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Thus saith Pharaoh",
+      "traditions": {
+        "WLC": "כֹּ֚ה אָמַ֣ר פַּרְעֹ֔ה",
+        "LXX": "Τάδε λέγει Φαραώ",
+        "VUL": "Sic dicit Phárao :",
+        "SP": "כה אמר פרעה",
+        "KJV": "Thus saith Pharaoh ,",
+        "DSS": "[4Q1] [ כה א ]מ##ר פ#ר#עה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "I will not give you straw",
+      "traditions": {
+        "WLC": "אֵינֶ֛ נִּי נֹתֵ֥ן לָ כֶ֖ם תֶּֽבֶן",
+        "LXX": "Οὐκέτι δίδωμι ὑμῖν ἄχυρα ·",
+        "VUL": "Non do vobis páleas :",
+        "SP": "אינני נתן לכם תבן",
+        "KJV": "I will not give you straw .",
+        "DSS": "[4Q1] אינ?׳נ#?[ י נ ]ת#ן ל׳כם תבן ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Go ye , get you straw where ye can find it",
+      "traditions": {
+        "WLC": "אַתֶּ֗ם לְכ֨וּ קְח֤וּ לָ כֶם֙ תֶּ֔בֶן מֵ אֲשֶׁ֖ר תִּמְצָ֑אוּ",
+        "LXX": "αὐτοὶ πορευόμενοι συλλέγετε ἑαυτοῖς ἄχυρα ὅθεν ἐὰν εὕρητε ,",
+        "VUL": "ite , et collígite sícubi inveníre potéritis :",
+        "SP": "אתם לכו קחו לכם תבן מ אשׁר תמצאו",
+        "KJV": "Go ye , get you straw where ye can find it :",
+        "DSS": "[4Q1] את#ם# [ לכו קחו ל׳כם תבן ] [ מ אשר  ]ת##מצאו / [4Q13] ו קחו ל׳כם תבן מ אשר תמצאו כי א##[ ין נגרע מ עבודת׳כם ד ]ב#ר ׃ אתם לכו ] / [4Q14] [ אתם לכו ] קחו ל׳כם תבן מ אשר תמצא[ ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "yet not ought of your work shall be diminished",
+      "traditions": {
+        "WLC": "כִּ֣י אֵ֥ין נִגְרָ֛ע מֵ עֲבֹדַתְ כֶ֖ם דָּבָֽר",
+        "LXX": "οὐ γὰρ ἀφαιρεῖται ἀπὸ τῆς συντάξεως ὑμῶν οὐθέν .",
+        "VUL": "nec minuétur quidquam de ópere vestro .",
+        "SP": "כי אין נגרע מ עבדתכם דבר",
+        "KJV": "yet not ought of your work shall be diminished .",
+        "DSS": "[4Q1] כי אין נ[ ג ]רע מ עבדת׳כ#ם דב#[ ר ׃ / [4Q13] כי א##[ ין נגרע מ עבודת׳כם ד ]ב#ר ׃ / [4Q14] כי אין נגרע מ עבדת׳כם דבר ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw",
+      "traditions": {
+        "WLC": "וַ יָּ֥פֶץ הָ עָ֖ם בְּ כָל אֶ֣רֶץ מִצְרָ֑יִם לְ קֹשֵׁ֥שׁ קַ֖שׁ לַ תֶּֽבֶן",
+        "LXX": "καὶ διεσπάρη ὁ λαὸς ἐν ὅλῃ γῇ Αἰγύπτῳ συναγαγεῖν καλάμην εἰς ἄχυρα ·",
+        "VUL": "Dispersúsque est pópulus per omnem terram Ægýpti ad colligéndas páleas .",
+        "SP": "ו יפץ ה עם ב כל ארץ מצרים ל קשׁשׁ קשׁ ל תבן",
+        "KJV": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw .",
+        "DSS": "[4Q1] ו יפץ ה עם ב כל ] [ ארץ מצרים ] ל קשש קש ל תבן ׃ / [4Q13] ו יפ#ץ#?[ ה עם ב כל ארץ ] מצרים ל קשש קש ל תבן ׃ / [4Q14] ו יפץ ה עם ב כל ארץ ] [ מצרים ל קשש קש ] ל[ ת ]בן ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the taskmasters hasted them , saying",
+      "traditions": {
+        "WLC": "וְ הַ נֹּגְשִׂ֖ים אָצִ֣ים לֵ אמֹ֑ר",
+        "LXX": "οἱ δὲ ἐργοδιῶκται κατέσπευδον αὐτοὺς λέγοντες",
+        "VUL": "Præfécti quoque óperum instábant , dicéntes :",
+        "SP": "ו ה נגשׂים אצוים ב עם ל אמר",
+        "KJV": "And the taskmasters hasted [ them ] , saying ,",
+        "DSS": "[4Q1] ו ה נגשים# א[ צים ל אמר / [4Q13] ו ה נוגשים# [ אצים את עם ישראל ל אמור / [4Q14] ו ה נגשים אצים א # [ ε ל אמר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Fulfil your works , your daily tasks , as when there was straw",
+      "traditions": {
+        "WLC": "כַּלּ֤וּ מַעֲשֵׂי כֶם֙ דְּבַר י֣וֹם בְּ יוֹמ֔ וֹ כַּ אֲשֶׁ֖ר בִּ הְי֥וֹת הַ תֶּֽבֶן",
+        "LXX": "Συντελεῖτε τὰ ἔργα τὰ καθήκοντα καθ᾽ ἡμέραν καθάπερ καὶ ὅτε τὸ ἄχυρον ἐδίδοτο ὑμῖν .",
+        "VUL": "Compléte opus vestrum quotídie , ut prius fácere solebátis quando dabántur vobis páleæ .",
+        "SP": "כלו מעשׂיכם דבר יום ב יומו כ אשׁר ב היות ה תבן נתן לכם",
+        "KJV": "Fulfil your works , [ your ] daily tasks , as when there was straw .",
+        "DSS": "[4Q1] כלו מעשי׳כם ] [ דבר יום ב י ](^ ו ^)מ׳ו כ אשר ב היות ה תבן נ#?[ תן ל׳כם ׃ / [4Q13] כלו מעשי׳כם דבר ] יום ב יומ׳ו כ## א##שר ב הי?ו#?[ ת ה תבן נתן ל׳כם ׃ / [4Q14] כלו מעשי׳כם דבר יום ב יומ׳ו ] [ כ אשר ב היות ה תבן נת ]ן ל׳כ[ ם ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the officers of the children of Israel , which Pharaoh ’s taskmasters had set over them , were beaten",
+      "traditions": {
+        "WLC": "וַ יֻּכּ֗וּ שֹֽׁטְרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר שָׂ֣מוּ עֲלֵ הֶ֔ם נֹגְשֵׂ֥י פַרְעֹ֖ה",
+        "LXX": "καὶ ἐμαστιγώθησαν οἱ γραμματεῖς τοῦ γένους τῶν υἱῶν Ἰσραὴλ οἱ κατασταθέντες ἐπ᾽ αὐτοὺς ὑπὸ τῶν ἐπιστατῶν τοῦ Φαραώ ,",
+        "VUL": "Flagellatíque sunt qui prǽerant opéribus filiórum Israel , ab exactóribus Pharaónis ,",
+        "SP": "ו יכו שׁוטרי בני ישׂראל אשׁר שׂמו עליהם נגשׂי פרעה",
+        "KJV": "And the officers of the children of Israel , which Pharaoh ’s taskmasters had set over them , were beaten , [ and ]",
+        "DSS": "[4Q1] ו יכו שטרי בני ] [ ישראל ]א#[ ש ]ר##[ שמו ע ]ל#׳ה##ם##[ נג ]ש#이#?[ פרעה / [4Q13] ו יכו שוטרי בני ישראל אשר שמו עלי׳הם ] נוגשי פרעה## / [4Q14] ו ]יכו שט[ רי בני ישראל אשר שמו על׳הם ε ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "demanded , Wherefore have ye not fulfilled your task in making brick both yesterday and to day , as heretofore ?",
+      "traditions": {
+        "WLC": "לֵ אמֹ֑ר מַדּ֡וּעַ לֹא֩ כִלִּיתֶ֨ם חָקְ כֶ֤ם לִ לְבֹּן֙ כִּ תְמ֣וֹל שִׁלְשֹׁ֔ם גַּם תְּמ֖וֹל גַּם הַ יּֽוֹם",
+        "LXX": "λέγοντες Διὰ τί οὐ συνετελέσατε τὰς συντάξεις ὑμῶν τῆς πλινθίας καθάπερ ἐχθὲς καὶ τρίτην ἡμέραν καὶ τὸ τῆς σήμερον ?",
+        "VUL": "dicéntibus : Quare non implétis mensúram láterum sicut prius , nec heri , nec hódie ?",
+        "SP": "ל אמר מדוע לא כליתם חקכם ל לבן כ תמול שׁלשׁום גם תמול גם ה יום",
+        "KJV": "demanded , Wherefore have ye not fulfilled your task in making brick both yesterday and to day , as heretofore ?",
+        "DSS": "[4Q1] ל אמר מדוע לא כליתם חק׳כם ל לבן ] כ# ת[ מול שלשם גם תמול גם ה יום ׃ / [4Q13] [ ל אמר מדוע לא כליתם חק׳כם ל לבן כ תמול שלשם גם תמול גם ה יום ׃ / [4Q14] null"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then the officers of the children of Israel came and cried unto Pharaoh , saying",
+      "traditions": {
+        "WLC": "וַ יָּבֹ֗אוּ שֹֽׁטְרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַ יִּצְעֲק֥וּ אֶל פַּרְעֹ֖ה לֵ אמֹ֑ר",
+        "LXX": "εἰσελθόντες δὲ οἱ γραμματεῖς τῶν υἱῶν Ἰσραὴλ κατεβόησαν πρὸς Φαραὼ λέγοντες",
+        "VUL": "Venerúntque præpósiti filiórum Israel , et vociferáti sunt ad Pharaónem dicéntes :",
+        "SP": "ו יבאו שׁוטרי בני ישׂראל ו יצעקו אל פרעה ל אמר",
+        "KJV": "Then the officers of the children of Israel came and cried unto Pharaoh , saying ,",
+        "DSS": "[4Q1] ו יבאו שטרי בני ישראל ] ו יצע##[ קו אל פרעה ל אמר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Wherefore dealest thou thus with thy servants ?",
+      "traditions": {
+        "WLC": "לָ֧ מָּה תַעֲשֶׂ֦ה כֹ֖ה לַ עֲבָדֶֽי ךָ",
+        "LXX": "Ἵνα τί οὕτως ποιεῖς τοῖς σοῖς οἰκέταις ?",
+        "VUL": "Cur ita agis contra servos tuos ?",
+        "SP": "למה תעשׂה כה ל עבדיך",
+        "KJV": "Wherefore dealest thou thus with thy servants ?",
+        "DSS": "[4Q1] למה תעשה כה ל עבדי׳ך ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "There is no straw given unto thy servants",
+      "traditions": {
+        "WLC": "תֶּ֗בֶן אֵ֤ין נִתָּן֙ לַ עֲבָדֶ֔י ךָ",
+        "LXX": "ἄχυρον οὐ δίδοται τοῖς οἰκέταις σου ,",
+        "VUL": "Páleæ non dantur nobis ,",
+        "SP": "תבן אין נתן ל עבדיך",
+        "KJV": "There is no straw given unto thy servants ,",
+        "DSS": "[4Q1] תבן אין נתן ל עבדי׳ך ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they say to us , Make brick",
+      "traditions": {
+        "WLC": "וּ לְבֵנִ֛ים אֹמְרִ֥ים לָ֖ נוּ עֲשׂ֑וּ",
+        "LXX": "καὶ τὴν πλίνθον ἡμῖν λέγουσιν ποιεῖν ,",
+        "VUL": "et láteres simíliter imperántur :",
+        "SP": "ו לבנים אמרים לנו עשׂו",
+        "KJV": "and they say to us , Make brick :",
+        "DSS": "[4Q1] ו לבנים א##[ מרים ל׳נו עשו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and , behold , thy servants [ are ] beaten",
+      "traditions": {
+        "WLC": "וְ הִנֵּ֧ה עֲבָדֶ֛י ךָ מֻכִּ֖ים",
+        "LXX": "καὶ ἰδοὺ οἱ παῖδές σου μεμαστίγωνται ·",
+        "VUL": "en fámuli tui flagéllis cǽdimur ,",
+        "SP": "ו הנה עבדיך מכים",
+        "KJV": "and , behold , thy servants [ are ] beaten ;",
+        "DSS": "[4Q1] ו הנה עבדי׳ך מכים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "but the fault [ is ] in thine own people",
+      "traditions": {
+        "WLC": "וְ חָטָ֥את עַמֶּֽ ךָ",
+        "LXX": "ἀδικήσεις οὖν τὸν λαόν σου .",
+        "VUL": "et iniúste ágitur contra pópulum tuum .",
+        "SP": "ו חטאת עמך",
+        "KJV": "but the fault [ is ] in thine own people .",
+        "DSS": "[4Q1] ו חטאת עמ׳ך ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "But he said , Ye [ are ] idle , [ ye are ] idle",
+      "traditions": {
+        "WLC": "וַ יֹּ֛אמֶר נִרְפִּ֥ים אַתֶּ֖ם נִרְפִּ֑ים",
+        "LXX": "καὶ εἶπεν αὐτοῖς Σχολάζετε , σχολασταί ἐστε ·",
+        "VUL": "Qui ait : Vacátis ótio , et",
+        "SP": "ו יאמר נרפים אתם נרפים",
+        "KJV": "But he said , Ye [ are ] idle , [ ye are ] idle :",
+        "DSS": "[4Q1] ו יאמר ] נר[ פים אתם נרפים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "therefore ye say , Let us go [ and ] do sacrifice to the LORD",
+      "traditions": {
+        "WLC": "עַל כֵּן֙ אַתֶּ֣ם אֹֽמְרִ֔ים נֵלְכָ֖ה נִזְבְּחָ֥ה לַֽ יהוָֽה",
+        "LXX": "διὰ τοῦτο λέγετε Πορευθῶμεν θύσωμεν τῷ θεῷ ἡμῶν .",
+        "VUL": "idcírco dícitis : Eámus , et sacrificémus Dómino .",
+        "SP": "על כן אתם אמרים נלכה נזבחה ל יהוה",
+        "KJV": "therefore ye say , Let us go [ and ] do sacrifice to the LORD .",
+        "DSS": "[4Q1] על כן אתם אמרים נלכה נזבחה ל יהוה ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Go therefore now , [ and ] work",
+      "traditions": {
+        "WLC": "וְ עַתָּה֙ לְכ֣וּ עִבְד֔וּ",
+        "LXX": "νῦν οὖν πορευθέντες ἐργάζεσθε ·",
+        "VUL": "Ite ergo , et operámini :",
+        "SP": "ו עתה לכו עבדו",
+        "KJV": "Go therefore now , [ and ] work ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for there shall no straw be given you",
+      "traditions": {
+        "WLC": "וְ תֶ֖בֶן לֹא יִנָּתֵ֣ן לָ כֶ֑ם",
+        "LXX": "τὸ γὰρ ἄχυρον οὐ δοθήσεται ὑμῖν ,",
+        "VUL": "páleæ non dabúntur vobis ,",
+        "SP": "ו תבן לא ינתן לכם",
+        "KJV": "for there shall no straw be given you ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "yet shall ye deliver the tale of bricks",
+      "traditions": {
+        "WLC": "וְ תֹ֥כֶן לְבֵנִ֖ים תִּתֵּֽנּוּ",
+        "LXX": "καὶ τὴν σύνταξιν τῆς πλινθίας ἀποδώσετε .",
+        "VUL": "et reddétis consuétum númerum láterum .",
+        "SP": "ו תכן ה לבנים תתנו",
+        "KJV": "yet shall ye deliver the tale of bricks .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the officers of the children of Israel did see [ that ] they [ were ] in evil [ case ]",
+      "traditions": {
+        "WLC": "וַ יִּרְא֞וּ שֹֽׁטְרֵ֧י בְנֵֽי יִשְׂרָאֵ֛ל אֹתָ֖ ם בְּ רָ֣ע",
+        "LXX": "ἑώρων δὲ οἱ γραμματεῖς τῶν υἱῶν Ἰσραὴλ ἑαυτοὺς ἐν κακοῖς",
+        "VUL": "Videbántque se præpósiti filiórum Israel in malo ,",
+        "SP": "ו יראו שׁוטרי בני ישׂראל אתם ב רע",
+        "KJV": "And the officers of the children of Israel did see [ that ] they [ were ] in evil [ case ] ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "after it was said , Ye shall not minish [ ought ] from your bricks of your daily task",
+      "traditions": {
+        "WLC": "לֵ אמֹ֑ר לֹא תִגְרְע֥וּ מִ לִּבְנֵי כֶ֖ם דְּבַר י֥וֹם בְּ יוֹמֽ וֹ",
+        "LXX": "λέγοντες Οὐκ ἀπολείψετε τῆς πλινθίας τὸ καθῆκον τῇ ἡμέρᾳ .",
+        "VUL": "eo quod dicerétur eis : Non minuétur quidquam de latéribus per síngulos dies .",
+        "SP": "ל אמר לא יגרע מ לבניכם דבר יום ב יומו",
+        "KJV": "after it was said , Ye shall not minish [ ought ] from your bricks of your daily task .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they met Moses and Aaron , who stood in the way , as they came forth from Pharaoh",
+      "traditions": {
+        "WLC": "וַֽ יִּפְגְּעוּ֙ אֶת מֹשֶׁ֣ה וְ אֶֽת אַהֲרֹ֔ן נִצָּבִ֖ים לִ קְרָאתָ֑ ם בְּ צֵאתָ֖ ם מֵ אֵ֥ת פַּרְעֹֽה",
+        "LXX": "συνήντησαν δὲ Μωυσῇ καὶ Ἀαρὼν ἐρχομένοις εἰς συνάντησιν αὐτοῖς , ἐκπορευομένων αὐτῶν ἀπὸ Φαραώ ,",
+        "VUL": "Occurrerúntque Móysi et Aaron , qui stabant ex advérso , egrediéntibus a Pharaóne :",
+        "SP": "ו יפגעו את משׁה ו את אהרן נצבים ל קראתם ב צאתם מ את פני פרעה",
+        "KJV": "And they met Moses and Aaron , who stood in the way , as they came forth from Pharaoh :",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And they said unto them",
+      "traditions": {
+        "WLC": "וַ יֹּאמְר֣וּ אֲלֵ הֶ֔ם",
+        "LXX": "καὶ εἶπαν αὐτοῖς",
+        "VUL": "et dixérunt ad eos :",
+        "SP": "ו יאמרו אליהם",
+        "KJV": "And they said unto them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The LORD look upon you, and judge",
+      "traditions": {
+        "WLC": "יֵ֧רֶא יְהוָ֛ה עֲלֵי כֶ֖ם וְ יִשְׁפֹּ֑ט",
+        "LXX": "Ἴδοι ὁ θεὸς ὑμᾶς καὶ κρίναι ,",
+        "VUL": "Vídeat Dóminus et iúdicet ,",
+        "SP": "יראה יהוה עליכם ו ישׁפט",
+        "KJV": "The LORD look upon you , and judge ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants",
+      "traditions": {
+        "WLC": "אֲשֶׁ֧ר הִבְאַשְׁתֶּ֣ם אֶת רֵיחֵ֗ נוּ בְּ עֵינֵ֤י פַרְעֹה֙ וּ בְ עֵינֵ֣י עֲבָדָ֔י",
+        "LXX": "ὅτι ἐβδελύξατε τὴν ὀσμὴν ἡμῶν ἐναντίον Φαραὼ καὶ ἐναντίον τῶν θεραπόντων αὐτοῦ ,",
+        "VUL": "quóniam fœtére fecístis odórem nostrum coram Pharaóne et servis eius ,",
+        "SP": "אשׁר הבאשׁתם את ריחנו ב עיני פרעה ו ב עיני עבדיו",
+        "KJV": "because ye have made our savour to be abhorred in the eyes of Pharaoh , and in the eyes of his servants ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "to put a sword in their hand to slay us",
+      "traditions": {
+        "WLC": "ו לָֽ תֶת חֶ֥רֶב בְּ יָדָ֖ ם לְ הָרְגֵֽ נוּ",
+        "LXX": "δοῦναι ῥομφαίαν εἰς τὰς χεῖρας αὐτοῦ ἀποκτεῖναι ἡμᾶς .",
+        "VUL": "et præbuístis ei gládium , ut occíderet nos .",
+        "SP": "ל תת חרב ב ידו ל הרגנו",
+        "KJV": "to put a sword in their hand to slay us .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses returned unto the LORD ,",
+      "traditions": {
+        "WLC": "וַ יָּ֧שָׁב מֹשֶׁ֛ה אֶל יְהוָ֖ה",
+        "LXX": "Ἐπέστρεψεν δὲ Μωυσῆς πρὸς Κύριον",
+        "VUL": "Reversúsque est Móyses ad Dóminum ,",
+        "SP": "ו ישׁב משׁה אל יהוה",
+        "KJV": "And Moses returned unto the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and said ,",
+      "traditions": {
+        "WLC": "וַ יֹּאמַ֑ר",
+        "LXX": "καὶ εἶπεν",
+        "VUL": "et ait :",
+        "SP": "ו יאמר",
+        "KJV": "and said ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Lord ,",
+      "traditions": {
+        "WLC": "אֲדֹנָ֗ י",
+        "LXX": "Δέομαι , Κύριε ,",
+        "VUL": "Dómine ,",
+        "SP": "אדני",
+        "KJV": "Lord ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "wherefore hast thou [ so ] evil entreated this people ?",
+      "traditions": {
+        "WLC": "לָ מָ֤ה הֲרֵעֹ֨תָה֙ לָ עָ֣ם הַ זֶּ֔ה",
+        "LXX": "τί ἐκάκωσας τὸν λαὸν τοῦτον ?",
+        "VUL": "cur afflixísti pópulum istum ?",
+        "SP": "למה הרעת ל עם ה זה",
+        "KJV": "wherefore hast thou [ so ] evil entreated this people ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "why [ is ] it [ that ] thou hast sent me ?",
+      "traditions": {
+        "WLC": "לָ֥ מָּה זֶּ֖ה שְׁלַחְתָּֽ נִי",
+        "LXX": "καὶ ἵνα τί ἀπέσταλκάς με ?",
+        "VUL": "quare misísti me ?",
+        "SP": "ו למה זה שׁלחתני",
+        "KJV": "why [ is ] it [ that ] thou hast sent me ?",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "For since I came to Pharaoh to speak in thy name",
+      "traditions": {
+        "WLC": "וּ מֵ אָ֞ז בָּ֤אתִי אֶל פַּרְעֹה֙ לְ דַבֵּ֣ר בִּ שְׁמֶ֔ ךָ",
+        "LXX": "καὶ ἀφ᾽ οὗ πεπόρευμαι πρὸς Φαραὼ λαλῆσαι ἐπὶ τῷ σῷ ὀνόματι ,",
+        "VUL": "Ex eo enim quo ingréssus sum ad Pharaónem ut lóquerer in nómine tuo ,",
+        "SP": "ו מ אז באתי אל פרעה ל דבר ב שׁמך",
+        "KJV": "For since I came to Pharaoh to speak in thy name ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he hath done evil to this people",
+      "traditions": {
+        "WLC": "הֵרַ֖ע לָ עָ֣ם הַ זֶּ֑ה",
+        "LXX": "ἐκάκωσεν τὸν λαὸν τοῦτον ,",
+        "VUL": "afflíxit pópulum tuum :",
+        "SP": "ה רע ל עם ה זה",
+        "KJV": "he hath done evil to this people ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither hast thou delivered thy people at all",
+      "traditions": {
+        "WLC": "וְ הַצֵּ֥ל לֹא הִצַּ֖לְתָּ אֶת עַמֶּֽ ךָ",
+        "LXX": "καὶ οὐκ ἐρρύσω τὸν λαόν σου .",
+        "VUL": "et non liberásti eos .",
+        "SP": "ו הצל לא הצלת את עמך",
+        "KJV": "neither hast thou delivered thy people at all .",
+        "DSS": null
+      }
+    }
+  ]
+}

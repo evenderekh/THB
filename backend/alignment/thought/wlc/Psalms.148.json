@@ -1,0 +1,438 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise ye the LORD",
+      "traditions": {
+        "WLC": "הַ֥לְלוּ יָ֨הּ",
+        "LXX": "Ἁλληλουιά ·",
+        "VUL": "Allelúia .",
+        "SP": null,
+        "KJV": "Praise ye the LORD .",
+        "DSS": "[11Q5] הללו יה ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "Ἁγγαίου καὶ Ζαχαρίου .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Praise ye the LORD from the heavens",
+      "traditions": {
+        "WLC": "הַֽלְל֣וּ אֶת יְ֭הוָה מִן הַ שָּׁמַ֑יִם",
+        "LXX": "Αἰνεῖτε τὸν κύριον ἐκ τῶν οὐρανῶν ,",
+        "VUL": "Laudáte Dóminum de cælis :",
+        "SP": null,
+        "KJV": "Praise ye the LORD from the heavens :",
+        "DSS": "הללו יהוה מ שמים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "praise him in the heights",
+      "traditions": {
+        "WLC": "הַֽ֝לְל֗וּ הוּ בַּ מְּרוֹמִֽים",
+        "LXX": "αἰνεῖτε αὐτὸν ἐν τοῖς ὑψίστοις",
+        "VUL": "laudáte eum in excélsis .",
+        "SP": null,
+        "KJV": "praise him in the heights .",
+        "DSS": "הלל#[ ו׳הו ב מרומים ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise ye him, all his angels",
+      "traditions": {
+        "WLC": "הַֽלְל֥וּ הוּ כָל מַלְאָכָ֑י ו",
+        "LXX": "αἰνεῖτε αὐτόν , πάντες οἱ ἄγγελοι αὐτοῦ ·",
+        "VUL": "Laudáte eum omnes ángeli eius :",
+        "SP": null,
+        "KJV": "Praise ye him , all his angels :",
+        "DSS": "[11Q5] הללו׳הו ] כול מלאכי׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "praise ye him, all his hosts",
+      "traditions": {
+        "WLC": "הַֽ֝לְל֗וּ הוּ כָּל צבא ו",
+        "LXX": "αἰνεῖτε αὐτόν , πᾶσαι αἱ δυνάμεις αὐτοῦ",
+        "VUL": "laudáte eum omnes virtútes eius .",
+        "SP": null,
+        "KJV": "praise ye him , all his hosts .",
+        "DSS": "הללו׳הו כול צבא[ ׳ו ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise ye him, sun and moon",
+      "traditions": {
+        "WLC": "הַֽ֭לְלוּ הוּ שֶׁ֣מֶשׁ וְ יָרֵ֑חַ",
+        "LXX": "αἰνεῖτε αὐτόν , ἥλιος καὶ σελήνη ·",
+        "VUL": "Laudáte eum sol et luna :",
+        "SP": null,
+        "KJV": "Praise ye him , sun and moon :",
+        "DSS": "[11Q5] הללו׳הו שמש ו ירח ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "praise him, all ye stars of light",
+      "traditions": {
+        "WLC": "הַ֝לְל֗וּ הוּ כָּל כּ֥וֹכְבֵי אֽוֹר",
+        "LXX": "αἰνεῖτε αὐτόν , πάντα τὰ ἄστρα καὶ τὸ φῶς",
+        "VUL": "laudáte eum omnes stellæ et lumen .",
+        "SP": null,
+        "KJV": "praise him , all ye stars of light .",
+        "DSS": "הללו׳הו כול כוכבי אור ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise him, ye heavens of heavens",
+      "traditions": {
+        "WLC": "הַֽ֭לְלוּ הוּ שְׁמֵ֣י הַ שָּׁמָ֑יִם",
+        "LXX": "αἰνεῖτε αὐτόν , οἱ οὐρανοὶ τῶν οὐρανῶν ,",
+        "VUL": "Laudáte eum cæli cælórum :",
+        "SP": null,
+        "KJV": "Praise him , ye heavens of heavens ,",
+        "DSS": "[11Q5] הללו׳[ הו שמי ה שמים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and ye waters that [ be ] above the heavens",
+      "traditions": {
+        "WLC": "וְ֝ הַ מַּ֗יִם אֲשֶׁ֤ר מֵ עַ֬ל הַ שָּׁמָֽיִם",
+        "LXX": "καὶ τὸ ὕδωρ τὸ ὑπεράνω τῶν οὐρανῶν",
+        "VUL": "et aquæ omnes , quæ super cælos sunt ,",
+        "SP": null,
+        "KJV": "and ye waters that [ be ] above the heavens .",
+        "DSS": "ו ה מים ] אשר מ על ל שמים ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let them praise the name of the LORD",
+      "traditions": {
+        "WLC": "יְֽ֭הַֽלְלוּ אֶת שֵׁ֣ם יְהוָ֑ה",
+        "LXX": "αἰνεσάτωσαν τὸ ὄνομα Κυρίου ·",
+        "VUL": "laudent nomen Dómini .",
+        "SP": null,
+        "KJV": "Let them praise the name of the LORD :",
+        "DSS": "הללו את[ שם יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for he commanded, and they were created",
+      "traditions": {
+        "WLC": "כִּ֤י ה֭וּא צִוָּ֣ה וְ נִבְרָֽאוּ",
+        "LXX": "ὅτι αὐτὸς εἶπεν καὶ ἐγενήθησαν , αὐτὸς ἐνετείλατο καὶ ἐκτίσθησαν",
+        "VUL": "Quia ipse dixit , et facta sunt : ipse mandávit , et creáta sunt .",
+        "SP": null,
+        "KJV": "for he commanded , and they were created .",
+        "DSS": "[11Q5] צוה ו נבראו ׃ כי הוא ]"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "He hath also stablished them for ever and ever",
+      "traditions": {
+        "WLC": "וַ יַּעֲמִידֵ֣ ם לָ עַ֣ד לְ עוֹלָ֑ם",
+        "LXX": "ἔστησεν αὐτὰ εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος ·",
+        "VUL": "Státuit ea in ætérnum , et in sǽculum sǽculi :",
+        "SP": null,
+        "KJV": "He hath also stablished them for ever and ever :",
+        "DSS": "[11Q5] ו יעמיד׳ם ל ע[ ד ל עולם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he hath made a decree which shall not pass",
+      "traditions": {
+        "WLC": "חָק נָ֝תַ֗ן וְ לֹ֣א יַעֲבֽוֹר",
+        "LXX": "πρόσταγμα ἔθετο , καὶ οὐ παρελεύσεται",
+        "VUL": "præcéptum pósuit , et non præteríbit .",
+        "SP": null,
+        "KJV": "he hath made a decree which shall not pass .",
+        "DSS": "חוק נתן ו לוא ] יעבור ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Praise the LORD from the earth",
+      "traditions": {
+        "WLC": "הַֽלְל֣וּ אֶת יְ֭הוָה מִן הָ אָ֑רֶץ",
+        "LXX": "αἰνεῖτε τὸν κύριον ἐκ τῆς γῆς ,",
+        "VUL": "Laudáte Dóminum de terra ,",
+        "SP": null,
+        "KJV": "Praise the LORD from the earth ,",
+        "DSS": "[11Q5] הללו את יהוה מ[ ן ה ארץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "ye dragons, and all deeps",
+      "traditions": {
+        "WLC": "תַּ֝נִּינִ֗ים וְ כָל תְּהֹמֽוֹת",
+        "LXX": "δράκοντες καὶ πᾶσαι ἄβυσσοι ·",
+        "VUL": "dracónes et omnes abýssi .",
+        "SP": null,
+        "KJV": "ye dragons , and all deeps :",
+        "DSS": "תנינים ו כול ] תהומות ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Fire, and hail; snow, and vapour",
+      "traditions": {
+        "WLC": "אֵ֣שׁ וּ֭ בָרָד שֶׁ֣לֶג וְ קִיט֑וֹר",
+        "LXX": "πῦρ , χάλαζα , χιών , κρύσταλλος ,",
+        "VUL": "Ignis , grando , nix , glácies ,",
+        "SP": null,
+        "KJV": "Fire , and hail ; snow , and vapour ;",
+        "DSS": "[11Q5] אש ו ברד שלג ו ק[ יטור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "stormy wind fulfilling his word",
+      "traditions": {
+        "WLC": "ר֥וּחַ סְ֝עָרָ֗ה עֹשָׂ֥ה דְבָרֽ וֹ",
+        "LXX": "πνεῦμα καταιγίδος , τὰ ποιοῦντα τὸν λόγον αὐτοῦ ·",
+        "VUL": "spíritus procellárum : quæ fáciunt verbum eius :",
+        "SP": null,
+        "KJV": "stormy wind fulfilling his word :",
+        "DSS": "רוח סערה ] עושה דבר׳ו ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Mountains, and all hills",
+      "traditions": {
+        "WLC": "הֶ הָרִ֥ים וְ כָל גְּבָע֑וֹת",
+        "LXX": "τὰ ὄρη καὶ πάντες βουνοί ,",
+        "VUL": "montes , et omnes colles :",
+        "SP": null,
+        "KJV": "Mountains , and all hills ;",
+        "DSS": "[11Q5] ה הרים ו כול#[ גבעות"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "fruitful trees, and all cedars",
+      "traditions": {
+        "WLC": "עֵ֥ץ פְּ֝רִ֗י וְ כָל אֲרָזִֽים",
+        "LXX": "ξύλα καρποφόρα καὶ πᾶσαι κέδροι ·",
+        "VUL": "ligna fructífera , et omnes cedri .",
+        "SP": null,
+        "KJV": "fruitful trees , and all cedars :",
+        "DSS": "עץ פרי ו כול ] ארזים ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Beasts, and all cattle",
+      "traditions": {
+        "WLC": "הַֽ חַיָּ֥ה וְ כָל בְּהֵמָ֑ה",
+        "LXX": "τὰ θηρία καὶ πάντα τὰ κτήνη ,",
+        "VUL": "Béstiæ , et univérsa pécora :",
+        "SP": null,
+        "KJV": "Beasts , and all cattle ;",
+        "DSS": "[11Q5] ה חיה ו כול בהמה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "creeping things, and flying fowl",
+      "traditions": {
+        "WLC": "רֶ֝֗מֶשׂ וְ צִפּ֥וֹר כָּנָֽף",
+        "LXX": "ἑρπετὰ καὶ πετεινὰ πτερωτά ·",
+        "VUL": "serpéntes , et vólucres pennátæ :",
+        "SP": null,
+        "KJV": "creeping things , and flying fowl :",
+        "DSS": "[ רמש ו צפור כנף ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Kings of the earth , and all people",
+      "traditions": {
+        "WLC": "מַלְכֵי אֶ֭רֶץ וְ כָל לְאֻמִּ֑ים",
+        "LXX": "βασιλεῖς τῆς γῆς καὶ πάντες λαοί ,",
+        "VUL": "reges terræ , et omnes pópuli :",
+        "SP": null,
+        "KJV": "Kings of the earth , and all people ;",
+        "DSS": "[11Q5] מלכי ] אר##[ ץ ] ו כול לאומים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "princes , and all judges of the earth",
+      "traditions": {
+        "WLC": "שָׂ֝רִ֗ים וְ כָל שֹׁ֥פְטֵי אָֽרֶץ",
+        "LXX": "ἄρχοντες καὶ πάντες κριταὶ γῆς ·",
+        "VUL": "príncipes , et omnes iúdices terræ .",
+        "SP": null,
+        "KJV": "princes , and all judges of the earth :",
+        "DSS": "שרים ו[ כול שופטי ארץ ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Both young men , and maidens",
+      "traditions": {
+        "WLC": "בַּחוּרִ֥ים וְ גַם בְּתוּל֑וֹת",
+        "LXX": "νεανίσκοι καὶ παρθένοι ,",
+        "VUL": "Iúvenes , et vírgines :",
+        "SP": null,
+        "KJV": "Both young men , and maidens ;",
+        "DSS": "[11Q5] בחורים ] [ ו גם בתו ]לות"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "old men , and children",
+      "traditions": {
+        "WLC": "זְ֝קֵנִ֗ים עִם נְעָרִֽים",
+        "LXX": "πρεσβῦται μετὰ νεωτέρων ·",
+        "VUL": "senes cum iunióribus",
+        "SP": null,
+        "KJV": "old men , and children :",
+        "DSS": "זקנים עם נע[ רים ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "laudent nomen Dómini :",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Let them praise the name of the LORD :",
+      "traditions": {
+        "WLC": "יְהַלְל֤וּ אֶת שֵׁ֬ם יְהוָ֗ה",
+        "LXX": "αἰνεσάτωσαν τὸ ὄνομα Κυρίου ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Let them praise the name of the LORD :",
+        "DSS": "[11Q5] יהללו את שם יהוה ] ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for his name alone is excellent ;",
+      "traditions": {
+        "WLC": "כִּֽי נִשְׂגָּ֣ב שְׁמ֣ וֹ לְ בַדּ֑ וֹ",
+        "LXX": "ὅτι ὑψώθη τὸ ὄνομα αὐτοῦ μόνου ,",
+        "VUL": "quia exaltátum est nomen eius solíus .",
+        "SP": null,
+        "KJV": "for his name alone is excellent ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "his glory [ is ] above the earth and heaven .",
+      "traditions": {
+        "WLC": "ה֝וֹד֗ וֹ עַל אֶ֥רֶץ וְ שָׁמָֽיִם",
+        "LXX": "ἡ ἐξομολόγησις αὐτοῦ ἐπὶ γῆς καὶ οὐρανοῦ ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": "his glory [ is ] above the earth and heaven .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "He also exalteth the horn of his people",
+      "traditions": {
+        "WLC": "וַ יָּ֤רֶם קֶ֨רֶן לְ עַמּ֡ וֹ",
+        "LXX": "καὶ ὑψώσει κέρας λαοῦ αὐτοῦ ,",
+        "VUL": "Conféssio eius super cælum , et terram : et exaltávit cornu pópuli sui .",
+        "SP": null,
+        "KJV": "He also exalteth the horn of his people ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the praise of all his saints",
+      "traditions": {
+        "WLC": "תְּהִלָּ֤ה לְֽ כָל חֲסִידָ֗י",
+        "LXX": null,
+        "VUL": "Hymnus ómnibus sanctis eius :",
+        "SP": null,
+        "KJV": "the praise of all his saints ; [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "even of the children of Israel , a people near unto him",
+      "traditions": {
+        "WLC": "ו לִ בְנֵ֣י יִ֭שְׂרָאֵל עַֽם קְרֹב֗ וֹ",
+        "LXX": "τοῖς υἱοῖς Ἰσραήλ , λαῷ ἐγγίζοντι αὐτῷ",
+        "VUL": "fíliis Israel , pópulo appropinquánti sibi .",
+        "SP": null,
+        "KJV": "even ] of the children of Israel , a people near unto him .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "Praise ye the LORD",
+      "traditions": {
+        "WLC": "הַֽלְלוּ יָֽהּ",
+        "LXX": null,
+        "VUL": "Allelúia .",
+        "SP": null,
+        "KJV": "Praise ye the LORD .",
+        "DSS": null
+      }
+    }
+  ]
+}

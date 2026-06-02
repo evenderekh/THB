@@ -1,0 +1,890 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto Moses ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה",
+        "LXX": "Καὶ εἶπεν Κύριος πρὸς Μωυσῆν λέγων",
+        "VUL": "Dixit quoque Dóminus ad Móysen :",
+        "SP": "ו יאמר יהוה אל משׁה",
+        "KJV": "And the LORD said unto Moses ,",
+        "DSS": "[4Q26a] ו יאמר יהוה [ אל משה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Speak unto the priests the sons of Aaron ,",
+      "traditions": {
+        "WLC": "אֱמֹ֥ר אֶל הַ כֹּהֲנִ֖ים בְּנֵ֣י אַהֲרֹ֑ן",
+        "LXX": "Εἰπὸν τοῖς ἱερεῦσιν τοῖς υἱοῖς Ἀαρὼν",
+        "VUL": "Lóquere ad sacerdótes fílios Aaron ,",
+        "SP": "אמר אל ה כהנים בני אהרן",
+        "KJV": "Speak unto the priests the sons of Aaron ,",
+        "DSS": "אמר אל ה כהנים בני אהרן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and say unto them ,",
+      "traditions": {
+        "WLC": "וְ אָמַרְתָּ֣ אֲלֵ הֶ֔ם",
+        "LXX": "καὶ ἐρεῖς πρὸς αὐτούς",
+        "VUL": "et dices ad eos :",
+        "SP": "ו אמרת אליהם",
+        "KJV": "and say unto them ,",
+        "DSS": "ו אמרת אל׳הם"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "There shall none be defiled for the dead among his people :",
+      "traditions": {
+        "WLC": "לְ נֶ֥פֶשׁ לֹֽא יִטַּמָּ֖א בְּ עַמָּֽי ו",
+        "LXX": "Ἐν ταῖς ψυχαῖς οὐ μιανθήσονται ἐν τῷ ἔθνει αὐτῶν ,",
+        "VUL": "Ne contaminétur sacérdos in mórtibus cívium suórum ,",
+        "SP": "ל נפשׁ לא יטמא ב עמו",
+        "KJV": "There shall none be defiled for the dead among his people :",
+        "DSS": "ל נפש לא ] יטמא ב עמ׳ו ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "But for his kin , that is near unto him ,",
+      "traditions": {
+        "WLC": "כִּ֚י אִם לִ שְׁאֵר֔ וֹ הַ קָּרֹ֖ב אֵלָ֑י",
+        "LXX": "ἀλλ᾽ ἢ ἐν τῷ οἰκείῳ τῷ ἔγγιστα αὐτῶν ,",
+        "VUL": "nisi tantum in consanguíneis , ac propínquis ,",
+        "SP": "כי אם ל שׁארו ה קרוב אליו",
+        "KJV": "But for his kin , that is near unto him , [ that is ] ,",
+        "DSS": "[4Q26a] [ כי אם ל שאר׳ו ה קרב אלי׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for his mother , and for his father ,",
+      "traditions": {
+        "WLC": "ו לְ אִמּ֣ וֹ וּ לְ אָבִ֔י",
+        "LXX": "ἐπὶ πατρὶ καὶ μητρί ,",
+        "VUL": "id est , super patre et matre ,",
+        "SP": "ל אביו ו ל אמו",
+        "KJV": "for his mother , and for his father ,",
+        "DSS": "ל אמ׳ו ו ל אבי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and for his son , and for his daughter ,",
+      "traditions": {
+        "WLC": "ו וְ לִ בְנ֥ וֹ וּ לְ בִתּ֖ וֹ",
+        "LXX": "καὶ υἱοῖς καὶ θυγατράσιν ,",
+        "VUL": "et fílio , et fília ,",
+        "SP": "ל בנו ו ל בתו",
+        "KJV": "and for his son , and for his daughter ,",
+        "DSS": "ו ל בנ׳ו ו ל בת׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and for his brother ,",
+      "traditions": {
+        "WLC": "וּ לְ אָחִֽי ו",
+        "LXX": "ἐπ᾽ ἀδελφῷ",
+        "VUL": "fratre quoque ,",
+        "SP": "ל אחיו",
+        "KJV": "and for his brother ,",
+        "DSS": "ו ל אחי׳[ ו ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And for his sister a virgin , that is nigh unto him ,",
+      "traditions": {
+        "WLC": "וְ לַ אֲחֹת֤ וֹ הַ בְּתוּלָה֙ הַ קְּרוֹבָ֣ה אֵלָ֔י",
+        "LXX": "καὶ ἀδελφῇ παρθένῳ τῇ ἐγγιζούσῃ αὐτῷ",
+        "VUL": "et soróre vírgine",
+        "SP": "ו ל אחותו ה בתולה ה קרובה אליו",
+        "KJV": "And for his sister a virgin , that is nigh unto him ,",
+        "DSS": "[4Q26a] ו ] ל [ אחת׳ו ה בתולה ה קרובה אלי׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which hath had no husband ;",
+      "traditions": {
+        "WLC": "ו אֲשֶׁ֥ר לֹֽא הָיְתָ֖ה לְ אִ֑ישׁ",
+        "LXX": "τῇ μὴ ἐκδεδομένῃ ἀνδρί ,",
+        "VUL": "quæ non est nupta viro :",
+        "SP": "אשׁר לא היתה ל אישׁ",
+        "KJV": "which hath had no husband ;",
+        "DSS": "אשר לא היתה ל איש"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for her may he be defiled .",
+      "traditions": {
+        "WLC": "לָ֖ הּ יִטַּמָּֽא",
+        "LXX": "ἐπὶ τούτοις μιανθήσεται .",
+        "VUL": null,
+        "SP": "לה יטמא",
+        "KJV": "for her may he be defiled .",
+        "DSS": "ל׳ה יטמא ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ But ] he shall not defile himself ,",
+      "traditions": {
+        "WLC": "לֹ֥א יִטַּמָּ֖א",
+        "LXX": "οὐ μιανθήσεται",
+        "VUL": "sed nec",
+        "SP": "לא יטמא",
+        "KJV": "[ But ] he shall not defile himself , [ being ]",
+        "DSS": "[4Q26a] [ ו ] ל#[ א יטמא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ being ] a chief man among his people ,",
+      "traditions": {
+        "WLC": "בַּ֣עַל בְּ עַמָּ֑י",
+        "LXX": "ἐξάπινα ἐν τῷ λαῷ αὐτοῦ",
+        "VUL": "in príncipe pópuli sui",
+        "SP": "בעל ב עמו",
+        "KJV": "a chief man among his people ,",
+        "DSS": "בעל ב עמי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to profane himself .",
+      "traditions": {
+        "WLC": "ו לְ הֵ֖חַלּֽ וֹ",
+        "LXX": "εἰς βεβήλωσιν αὐτοῦ .",
+        "VUL": "contaminábitur .",
+        "SP": "ל החלו",
+        "KJV": "to profane himself .",
+        "DSS": "ל החל׳ו ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "They shall not make baldness upon their head ,",
+      "traditions": {
+        "WLC": "לֹֽא יקרחה קָרְחָה֙ בְּ רֹאשָׁ֔ ם",
+        "LXX": "καὶ φαλάκρωμα οὐ ξυρηθήσεσθε τὴν κεφαλὴν ἐπὶ νεκρῷ ,",
+        "VUL": "Non radent caput ,",
+        "SP": "ו לא יקרחו קרחה ב ראשׁם",
+        "KJV": "They shall not make baldness upon their head ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shall they shave off the corner of their beard ,",
+      "traditions": {
+        "WLC": "וּ פְאַ֥ת זְקָנָ֖ ם לֹ֣א יְגַלֵּ֑חוּ",
+        "LXX": "καὶ τὴν ὄψιν τοῦ πώγωνος οὐ ξυρήσονται ,",
+        "VUL": "nec barbam ,",
+        "SP": "ו פאת זקנם לא יגלחו",
+        "KJV": "neither shall they shave off the corner of their beard ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "nor make any cuttings in their flesh .",
+      "traditions": {
+        "WLC": "וּ בִ֨ בְשָׂרָ֔ ם לֹ֥א יִשְׂרְט֖וּ שָׂרָֽטֶת",
+        "LXX": "καὶ ἐπὶ τὰς σάρκας αὐτῶν οὐ κατατεμοῦσιν ἐντομίδας .",
+        "VUL": "neque in cárnibus suis fácient incisúras .",
+        "SP": "ו ב בשׂרם לא ישׂרטו שׂרטה",
+        "KJV": "nor make any cuttings in their flesh .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "They shall be holy unto their God ,",
+      "traditions": {
+        "WLC": "קְדֹשִׁ֤ים יִהְיוּ֙ לֵ אלֹ֣הֵי הֶ֔ם",
+        "LXX": "ἅγιοι ἔσονται τῷ θεῷ αὐτῶν ,",
+        "VUL": "Sancti erunt Deo suo ,",
+        "SP": "קדישׁים יהיו ל אלהיהם",
+        "KJV": "They shall be holy unto their God ,",
+        "DSS": "[11Q1] [ יהיו ל א ]לה#י?׳ה#מ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and not profane the name of their God :",
+      "traditions": {
+        "WLC": "וְ לֹ֣א יְחַלְּל֔וּ שֵׁ֖ם אֱלֹהֵי הֶ֑ם",
+        "LXX": "καὶ οὐ βεβηλώσουσιν τὸ ὂνομα τοῦ θεοῦ αὐτῶν ·",
+        "VUL": "et non pólluent nomen eius :",
+        "SP": "ו לא יחללו את שׁם אלהיהם",
+        "KJV": "and not profane the name of their God :",
+        "DSS": "ו ל#א[   ]י[ חללו שמ אלהי׳המ"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for the offerings of the LORD made by fire , [ and ] the bread of their God , they do offer :",
+      "traditions": {
+        "WLC": "כִּי֩ אֶת אִשֵּׁ֨י יְהוָ֜ה לֶ֧חֶם אֱלֹהֵי הֶ֛ם הֵ֥ם מַקְרִיבִ֖ם",
+        "LXX": "τὰς γὰρ θυσίας Κυρίου δῶρα τοῦ θεοῦ αὐτῶν αὐτοὶ προσφέρουσιν ,",
+        "VUL": "incénsum enim Dómini , et panes Dei sui ófferunt ,",
+        "SP": "כי את אשׁי יהוה לחם אלהיהם הם מקרבים",
+        "KJV": "for the offerings of the LORD made by fire , [ and ] the bread of their God , they do offer :",
+        "DSS": "כי את א ]שי[   ]יהו[ ה לח ] [ מ  ]אל#הי׳המ המ מקריבימ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "therefore they shall be holy .",
+      "traditions": {
+        "WLC": "וְ הָ֥יוּ קֹֽדֶשׁ",
+        "LXX": "καὶ ἔσονται ἅγιοι .",
+        "VUL": "et ídeo sancti erunt .",
+        "SP": "ו היו קדישׁים",
+        "KJV": "therefore they shall be holy .",
+        "DSS": "ו הי[ ו קו ]דש[  ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "They shall not take a wife [ that is ] a whore , or profane ;",
+      "traditions": {
+        "WLC": "אִשָּׁ֨ה זֹנָ֤ה וַ חֲלָלָה֙ לֹ֣א יִקָּ֔חוּ",
+        "LXX": "γυναῖκα πόρνην καὶ βεβηλωμένην οὐ λήμψονται ,",
+        "VUL": "Scortum et vile prostíbulum non ducent uxórem ,",
+        "SP": "אשׁה זונה ו חללה לא יקחו",
+        "KJV": "They shall not take a wife [ that is ] a whore , or profane ;",
+        "DSS": "[11Q1] ]א[ ש ]ה זונה ו חללה לא י קחו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shall they take a woman put away from her husband :",
+      "traditions": {
+        "WLC": "וְ אִשָּׁ֛ה גְּרוּשָׁ֥ה מֵ אִישָׁ֖ הּ לֹ֣א יִקָּ֑חוּ",
+        "LXX": "καὶ γυναῖκα ἐκβεβλημένην ἀπὸ ἀνδρὸς αὐτῆς .",
+        "VUL": "nec eam , quæ repudiáta est a maríto :",
+        "SP": "ו אשׁה גרושׁה מ אישׁה לא יקחו",
+        "KJV": "neither shall they take a woman put away from her husband :",
+        "DSS": "ו אשה גרושה מ איש׳ה לא יקחו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for he [ is ] holy unto his God .",
+      "traditions": {
+        "WLC": "כִּֽי קָדֹ֥שׁ ה֖וּא לֵ אלֹהָֽי ו",
+        "LXX": "ἅγιός ἐστιν τῷ κυρίῳ θεῷ αὐτοῦ ,",
+        "VUL": "quia consecráti sunt Deo suo ,",
+        "SP": "כי קדושׁ הוא ל אלהיו",
+        "KJV": "for he [ is ] holy unto his God .",
+        "DSS": "כי קדוש הוא ל אל#הי׳ו ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt sanctify him therefore ;",
+      "traditions": {
+        "WLC": "וְ קִדַּשְׁתּ֔ וֹ",
+        "LXX": "καὶ ἁγιάσει αὐτόν ·",
+        "VUL": null,
+        "SP": "ו קדשׁתו",
+        "KJV": "Thou shalt sanctify him therefore ;",
+        "DSS": "[11Q1] ו ק דשת׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for he offereth the bread of thy God :",
+      "traditions": {
+        "WLC": "כִּֽי אֶת לֶ֥חֶם אֱלֹהֶ֖י ךָ ה֣וּא מַקְרִ֑יב",
+        "LXX": "τὰ δῶρα Κυρίου θεοῦ ὑμῶν οὗτος προσφέρει ·",
+        "VUL": "et panes propositiónis ófferunt .",
+        "SP": "כי את לחם אלהיך הוא מקריב",
+        "KJV": "for he offereth the bread of thy God :",
+        "DSS": "כי לחמ אלהי׳כ הוא מקריב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he shall be holy unto thee :",
+      "traditions": {
+        "WLC": "קָדֹשׁ֙ יִֽהְיֶה לָּ֔ ךְ",
+        "LXX": "ἅγιος ἔσται ,",
+        "VUL": "Sint ergo sancti ,",
+        "SP": "קדושׁ יהיה לך",
+        "KJV": "he shall be holy unto thee :",
+        "DSS": "קדש יהיה ל#׳כ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for I the LORD , which sanctify you , [ am ] holy .",
+      "traditions": {
+        "WLC": "כִּ֣י קָד֔וֹשׁ אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁ כֶֽם",
+        "LXX": "ὅτι ἅγιος ἐγὼ Κύριος ὁ ἁγιάζων αὐτούς .",
+        "VUL": "quia et ego sanctus sum , Dóminus , qui sanctífico eos .",
+        "SP": "כי קדושׁ אני יהוה מקדשׁם",
+        "KJV": "for I the LORD , which sanctify you , [ am ] holy .",
+        "DSS": "כי קדש א#ני יהוה מקדש׳מ ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the daughter of any priest ,",
+      "traditions": {
+        "WLC": "וּ בַת֙ אִ֣ישׁ כֹּהֵ֔ן",
+        "LXX": "καὶ θυγάτηρ ἀνθρώπου ἱερέως",
+        "VUL": "Sacerdótis fília",
+        "SP": "ו בת אישׁ כהן",
+        "KJV": "And the daughter of any priest ,",
+        "DSS": "[11Q1] ו בת איש כהנ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "if she profane herself by playing the whore ,",
+      "traditions": {
+        "WLC": "כִּ֥י תֵחֵ֖ל לִ זְנ֑וֹת",
+        "LXX": "ἐὰν βεβηλωθῇ τοῦ ἐκπορνεῦσαι ,",
+        "VUL": "si deprehénsa fúerit in stupro ,",
+        "SP": "כי תחל ל זנות",
+        "KJV": "if she profane herself by playing the whore ,",
+        "DSS": "כי תחל ל זנות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "she profaneth her father :",
+      "traditions": {
+        "WLC": "אֶת אָבִ֨י הָ֙ הִ֣יא מְחַלֶּ֔לֶת",
+        "LXX": "τὸ ὄνομα τοῦ πατρὸς αὐτῆς αὐτὴ βεβηλοῖ .",
+        "VUL": "et violáverit nomen patris sui ,",
+        "SP": "את אביה היא מחללת",
+        "KJV": "she profaneth her father :",
+        "DSS": "א#ת אבי׳ה היא# מ#ח ללת"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "she shall be burnt with fire .",
+      "traditions": {
+        "WLC": "בָּ אֵ֖שׁ תִּשָּׂרֵֽף",
+        "LXX": "ἐπὶ πυρὸς κατακαυθήσεται .",
+        "VUL": "flammis exurétur .",
+        "SP": "ב אשׁ תשׂרף",
+        "KJV": "she shall be burnt with fire .",
+        "DSS": "ב א#ש תשרפ ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And [ he that is ] the high priest among his brethren ,",
+      "traditions": {
+        "WLC": "וְ הַ כֹּהֵן֩ הַ גָּד֨וֹל מֵ אֶחָ֜י",
+        "LXX": "Καὶ ὁ ἱερεὺς ὁ μέγας ἀπὸ τῶν ἀδελφῶν αὐτοῦ ,",
+        "VUL": "Póntifex , id est , sacérdos máximus inter fratres suos ,",
+        "SP": "ו ה כהן ה גדול מ אחיו",
+        "KJV": "And [ he that is ] the high priest among his brethren ,",
+        "DSS": "[11Q1] [ ו ה כ ]הנ ה גדול מ אח׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "upon whose head the anointing oil was poured ,",
+      "traditions": {
+        "WLC": "ו אֲֽשֶׁר יוּצַ֥ק עַל רֹאשׁ֣ וֹ שֶׁ֤מֶן הַ מִּשְׁחָה֙",
+        "LXX": "τοῦ ἐπικεχυμένου ἐπὶ τὴν κεφαλὴν τοῦ ἐλαίου τοῦ χριστοῦ",
+        "VUL": "super cuius caput fusum est unctiónis óleum ,",
+        "SP": "אשׁר יוצק על ראשׁו שׁמן ה משׁחה",
+        "KJV": "upon whose head the anointing oil was poured ,",
+        "DSS": "אשר יו?[ צק על ] רא[ ש ]׳ו[   ]שמנ ה משחה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and that is consecrated to put on the garments ,",
+      "traditions": {
+        "WLC": "וּ מִלֵּ֣א אֶת יָד֔ וֹ לִ לְבֹּ֖שׁ אֶת הַ בְּגָדִ֑ים",
+        "LXX": "καὶ τετελειωμένου ἐνδύσασθαι τὰ ἱμάτια ,",
+        "VUL": "et cuius manus in sacerdótio consecrátæ sunt , vestitúsque est sanctis véstibus ,",
+        "SP": "ו מלא ידו ל לבשׁ את ה בגדים",
+        "KJV": "and that is consecrated to put on the garments ,",
+        "DSS": "ו מלא א [ ת י ]ד׳ו ל לבש את ה בגדימ"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "shall not uncover his head ,",
+      "traditions": {
+        "WLC": "אֶת רֹאשׁ וֹ֙ לֹ֣א יִפְרָ֔ע",
+        "LXX": "τὴν κεφαλὴν οὐκ ἀποκιδαρώσει",
+        "VUL": "caput suum non discoopériet ,",
+        "SP": "את ראשׁו לא יפרע",
+        "KJV": "shall not uncover his head ,",
+        "DSS": "את ר[ אש׳ו לא י ]פ##רע"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "nor rend his clothes ;",
+      "traditions": {
+        "WLC": "וּ בְגָדָ֖י ו לֹ֥א יִפְרֹֽם",
+        "LXX": "καὶ τὰ ἱμάτια οὐ διαρρήξει ,",
+        "VUL": "vestiménta non scindet :",
+        "SP": "ו בגדיו לא יפרם",
+        "KJV": "nor rend his clothes ;",
+        "DSS": "ו בגדי׳ו לא יפרמ ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither shall he go in to any dead body",
+      "traditions": {
+        "WLC": "וְ עַ֛ל כָּל נַפְשֹׁ֥ת מֵ֖ת לֹ֣א יָבֹ֑א",
+        "LXX": "καὶ ἐπὶ πάσῃ ψυχῇ τετελευτηκυίᾳ οὐκ εἰσελεύσεται ,",
+        "VUL": "et ad omnem mórtuum non ingrediétur omníno :",
+        "SP": "ו על כל נפשׁות מת לא יבוא",
+        "KJV": "Neither shall he go in to any dead body ,",
+        "DSS": "[11Q1] ו על [ כל  ]נפשת מת לא יבוא / [4Q26a] ו על כל נפשת מת לא יבא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "nor defile himself for his father , or for his mother",
+      "traditions": {
+        "WLC": "לְ אָבִ֥י ו וּ לְ אִמּ֖ וֹ לֹ֥א יִטַּמָּֽא",
+        "LXX": "ἐπὶ πατρὶ αὐτοῦ οὐδὲ ἐπὶ μητρὶ αὐτοῦ οὐ μιανθήσεται ,",
+        "VUL": "super patre quoque suo , et matre non contaminábitur .",
+        "SP": "ל אביו ו ל אמו לא יטמא",
+        "KJV": "nor defile himself for his father , or for his mother ;",
+        "DSS": "[11Q1] ל אבי׳[ ו ו ל אמ׳ו לא י ]טמא ׃ / [4Q26a] [ ל אבי׳ו ו ל אמ׳ו לא י ]טמא ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither shall he go out of the sanctuary",
+      "traditions": {
+        "WLC": "וּ מִן הַ מִּקְדָּשׁ֙ לֹ֣א יֵצֵ֔א",
+        "LXX": "καὶ ἐκ τῶν ἁγίων οὐκ ἐξελεύσεται",
+        "VUL": "Nec egrediétur de sanctis ,",
+        "SP": "ו מן ה מקדשׁ לא יצא",
+        "KJV": "Neither shall he go out of the sanctuary ,",
+        "DSS": "[11Q1] ו מנ ה מקדש לא ׃ / [4Q26a] ו [ מן ה מקדש לא יצא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "nor profane the sanctuary of his God",
+      "traditions": {
+        "WLC": "וְ לֹ֣א יְחַלֵּ֔ל אֵ֖ת מִקְדַּ֣שׁ אֱלֹהָ֑י",
+        "LXX": "καὶ οὐ βεβηλώσει τὸ ἡγιασμένον τοῦ θεοῦ αὐτοῦ ,",
+        "VUL": "ne pólluat sanctuárium Dómini ,",
+        "SP": "ו לא יחלל את מקדשׁ אלהיו",
+        "KJV": "nor profane the sanctuary of his God ;",
+        "DSS": "[4Q26a] ו לא יחלל את מקדש ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for the crown of the anointing oil of his God [ is ] upon him",
+      "traditions": {
+        "WLC": "ו כִּ֡י נֵ֠זֶר שֶׁ֣מֶן מִשְׁחַ֧ת אֱלֹהָ֛י ו עָלָ֖י",
+        "LXX": "ὃτι τὸ ἅγιον ἔλαιον τὸ χριστὸν τοῦ θεοῦ ἐπ᾽ αὐτῷ ·",
+        "VUL": "quia óleum sanctæ unctiónis Dei sui super eum est .",
+        "SP": "כי נזר שׁמן משׁחת אלהיו עליו",
+        "KJV": "for the crown of the anointing oil of his God [ is ] upon him :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "I [ am ] the LORD",
+      "traditions": {
+        "WLC": "ו אֲנִ֥י יְהוָֽה",
+        "LXX": "ἐγὼ Κύριος .",
+        "VUL": "Ego Dóminus .",
+        "SP": "אני יהוה",
+        "KJV": "I [ am ] the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he shall take a wife in her virginity",
+      "traditions": {
+        "WLC": "וְ ה֕וּא אִשָּׁ֥ה בִ בְתוּלֶ֖י הָ יִקָּֽח",
+        "LXX": "οὗτος παρθένον ἐκ τοῦ γένους αὐτοῦ λήμψεται ·",
+        "VUL": "Vírginem ducet uxórem :",
+        "SP": "ו הוא אשׁה ב בתוליה יקח",
+        "KJV": "And he shall take a wife in her virginity .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "A widow , or a divorced woman , or profane , [ or ] an harlot , these shall he not take",
+      "traditions": {
+        "WLC": "אַלְמָנָ֤ה וּ גְרוּשָׁה֙ וַ חֲלָלָ֣ה זֹנָ֔ה אֶת אֵ֖לֶּה לֹ֣א יִקָּ֑ח",
+        "LXX": "χήραν δὲ καὶ ἐκβεβλημένην καὶ βεβηλωμένην καὶ πόρνην , ταύτας οὐ λήμψεται ,",
+        "VUL": "víduam autem et repudiátam , et sórdidam , atque meretrícem non accípiet ,",
+        "SP": "אלמנה ו גרושׁה ו חללה ו זונה את אלה לא יקח",
+        "KJV": "A widow , or a divorced woman , or profane , [ or ] an harlot , these shall he not take :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but he shall take a virgin of his own people to wife",
+      "traditions": {
+        "WLC": "כִּ֛י אִם בְּתוּלָ֥ה מֵ עַמָּ֖י ו יִקַּ֥ח אִשָּֽׁה",
+        "LXX": "ἀλλ᾽ ἢ παρθένον ἐκ τοῦ λαοῦ αὐτοῦ λήμψεται γυναῖκα ·",
+        "VUL": "sed puéllam de pópulo suo :",
+        "SP": "כי אם בתולה מ עמו יקח אשׁה",
+        "KJV": "but he shall take a virgin of his own people to wife .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Neither shall he profane his seed among his people",
+      "traditions": {
+        "WLC": "וְ לֹֽא יְחַלֵּ֥ל זַרְע֖ וֹ בְּ עַמָּ֑י",
+        "LXX": "καὶ οὐ βεβηλώσει τὸ σπέρμα αὐτοῦ ἐν τῷ λαῷ αὐτοῦ ·",
+        "VUL": "ne commísceat stirpem géneris sui vulgo gentis suæ :",
+        "SP": "ו לא יחלל זרעו ב עמו",
+        "KJV": "Neither shall he profane his seed among his people :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for I the LORD do sanctify him",
+      "traditions": {
+        "WLC": "ו כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדְּשֽׁ וֹ",
+        "LXX": "ἐγὼ Κύριος ὁ ἁγιάζων αὐτόν .",
+        "VUL": "quia ego Dóminus , qui sanctífico eum .",
+        "SP": "כי אני יהוה מקדשׁו",
+        "KJV": "for I the LORD do sanctify him .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD spake unto Moses , saying ,",
+      "traditions": {
+        "WLC": "וַ יְדַבֵּ֥ר יְהוָ֖ה אֶל מֹשֶׁ֥ה לֵּ אמֹֽר",
+        "LXX": "Καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων",
+        "VUL": "Locutúsque est Dóminus ad Móysen , dicens :",
+        "SP": "ו ידבר יהוה אל משׁה ל אמר",
+        "KJV": "And the LORD spake unto Moses , saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Speak unto Aaron , saying ,",
+      "traditions": {
+        "WLC": "דַּבֵּ֥ר אֶֽל אַהֲרֹ֖ן לֵ אמֹ֑ר",
+        "LXX": "Εἰπὸν Ἀαρών",
+        "VUL": "Lóquere ad Aaron :",
+        "SP": "דבר אל אהרן ל אמר",
+        "KJV": "Speak unto Aaron , saying ,",
+        "DSS": "[4Q24] ε דבר אל אהרן ל אמר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Whosoever [ he be ] of thy seed in their generations that hath [ any ] blemish",
+      "traditions": {
+        "WLC": "אִ֣ישׁ מִֽ זַּרְעֲ ךָ֞ לְ דֹרֹתָ֗ ם אֲשֶׁ֨ר יִהְיֶ֥ה ב וֹ֙ מ֔וּם",
+        "LXX": "Ἄνθρωπος ἐκ τοῦ γένους σου εἰς τὰς γενεὰς ὑμῶν , τίνι ἐὰν ᾖ ἐν αὐτῷ μῶμος ,",
+        "VUL": "Homo de sémine tuo per famílias qui habúerit máculam ,",
+        "SP": "אישׁ מ זרעך ל דרותם אשׁר יהיה בו מום",
+        "KJV": "Whosoever [ he be ] of thy seed in their generations that hath [ any ] blemish ,",
+        "DSS": "[4Q24] איש מ זרע׳ך ל דרת׳ם אשר  ]יהי?ה [ ב׳ו מום"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "let him not approach to offer the bread of his God",
+      "traditions": {
+        "WLC": "לֹ֣א יִקְרַ֔ב לְ הַקְרִ֖יב לֶ֥חֶם אֱלֹהָֽי ו",
+        "LXX": "οὐ προσελεύσεται προσφέρειν τὰ δῶρα τοῦ θεοῦ αὐτοῦ .",
+        "VUL": "non ófferet panes Deo suo ,",
+        "SP": "לא יקרב ל הגישׁ לחם אלהיו",
+        "KJV": "let him not approach to offer the bread of his God .",
+        "DSS": "[4Q24] לא יקרב ל הקריב לחם אלהי׳ו ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "For whatsoever man [ he be ] that hath a blemish , he shall not approach",
+      "traditions": {
+        "WLC": "כִּ֥י כָל אִ֛ישׁ אֲשֶׁר בּ֥ וֹ מ֖וּם לֹ֣א יִקְרָ֑ב",
+        "LXX": "πᾶς ἄνθρωπος ᾧ ἂν ᾖ ἐν αὐτῷ μῶμος οὐ προσελεύσεται ·",
+        "VUL": "nec accédet ad ministérium eius :",
+        "SP": "כי כל אישׁ אשׁר יהיה בו מום לא יקרב",
+        "KJV": "For whatsoever man [ he be ] that hath a blemish , he shall not approach :",
+        "DSS": "[4Q24] כי כל איש אשר ב׳ו מום לא יקרב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "a blind man , or a lame , or he that hath a flat nose , or any thing superfluous",
+      "traditions": {
+        "WLC": "אִ֤ישׁ עִוֵּר֙ א֣וֹ פִסֵּ֔חַ א֥וֹ חָרֻ֖ם א֥וֹ שָׂרֽוּעַ",
+        "LXX": "ἄνθρωπος χωλός ἢ τυφλὸς ἢ κολοβόριν ἢ ὠτότμητος ,",
+        "VUL": "si cæcus fúerit , si claudus , si parvo vel grandi , vel torto naso ,",
+        "SP": "אישׁ עור או פסח או חרום או שׂרוע",
+        "KJV": "a blind man , or a lame , or he that hath a flat nose , or any thing superfluous ,",
+        "DSS": "[4Q24] ]א#יש [ עור או פסח או חרם או שרוע ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Or a man that is brokenfooted , or brokenhanded",
+      "traditions": {
+        "WLC": "א֣וֹ אִ֔ישׁ אֲשֶׁר יִהְיֶ֥ה ב֖ וֹ שֶׁ֣בֶר רָ֑גֶל א֖וֹ שֶׁ֥בֶר יָֽד",
+        "LXX": "ἄνθρωπος ᾧ ἐστὶν ἐν αὐτῷ σύντριμμα χειρὸς ἢ σύντριμμα ποδός ,",
+        "VUL": "si fracto pede , si manu ,",
+        "SP": "או אישׁ אשׁר יהיה בו שׁבר רגל או שׁבר יד",
+        "KJV": "Or a man that is brokenfooted , or brokenhanded ,",
+        "DSS": "[4Q24] או איש אשר יהיה ב׳ו שבר רגל או שבר יד ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Or crookbackt , or a dwarf , or that hath a blemish in his eye , or be scurvy , or scabbed , or hath his stones broken",
+      "traditions": {
+        "WLC": "אֽוֹ גִבֵּ֣ן אוֹ דַ֔ק א֖וֹ תְּבַלֻּ֣ל בְּ עֵינ֑ וֹ א֤וֹ גָרָב֙ א֣וֹ יַלֶּ֔פֶת א֖וֹ מְר֥וֹחַ אָֽשֶׁךְ",
+        "LXX": "ἢ κυρτὸς ἢ ἔφηλος ἢ πτίλος τοὺς ὀφθαλμούς , ἢ ἄνθρωπος ᾧ ἂν ᾖ ἐν αὐτῷ ψώρα ἀγρία ἢ λιχὴν ἢ μόνορχις ,",
+        "VUL": "si gibbus , si lippus , si albúginem habens in óculo , si iugem scábiem , si impetíginem in córpore , vel herniósus .",
+        "SP": "או גבן או דק או תבלל ב עיניו או גרב או ילפת או מרוח אשׁך",
+        "KJV": "Or crookbackt , or a dwarf , or that hath a blemish in his eye , or be scurvy , or scabbed , or hath his stones broken ;",
+        "DSS": "[4Q24] ]או [ גבן או דק או תבלל ב עינ׳ו או גרב או ילפת או מרוח אשך ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "No man that hath a blemish of the seed of Aaron the priest",
+      "traditions": {
+        "WLC": "כָּל אִ֞ישׁ אֲשֶׁר בּ֣ וֹ מ֗וּם מִ זֶּ֨רַע֙ אַהֲרֹ֣ן הַ כֹּהֵ֔ן",
+        "LXX": "πᾶς ᾧ ἐστὶν ἐν αὐτῷ μῶμος ἐκ τοῦ σπέρματος Ἀαρὼν τοῦ ἱερέως",
+        "VUL": "Omnis qui habúerit máculam de sémine Aaron sacerdótis ,",
+        "SP": "כל אישׁ אשׁר בו מום מ זרע אהרן ה כהן",
+        "KJV": "No man that hath a blemish of the seed of Aaron the priest",
+        "DSS": "[4Q24] כל איש אשר ב׳ו ] [ מום מ זרע אהרן ה כהן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "shall come nigh to offer the offerings of the LORD made by fire",
+      "traditions": {
+        "WLC": "לֹ֣א יִגַּ֔שׁ לְ הַקְרִ֖יב אֶת אִשֵּׁ֣י יְהוָ֑ה",
+        "LXX": "οὐ προσεγγιεῖ τοῦ προσενεγκεῖν τὰς θυσίας τῷ θεῷ σου ·",
+        "VUL": "non accédet offérre hóstias Dómino ,",
+        "SP": "לא יגישׁ את אשׁי יהוה",
+        "KJV": "shall come nigh to offer the offerings of the LORD made by fire :",
+        "DSS": "[4Q24] לא יגש ל הקריב את אשי יהוה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he hath a blemish",
+      "traditions": {
+        "WLC": "מ֣וּם בּ֔ וֹ",
+        "LXX": "ὅτι μῶμος ἐν αὐτῷ ,",
+        "VUL": null,
+        "SP": "מום בו",
+        "KJV": "he hath a blemish ;",
+        "DSS": "[4Q24] מום ב׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "he shall not come nigh to offer the bread of his God",
+      "traditions": {
+        "WLC": "אֵ֚ת לֶ֣חֶם אֱלֹהָ֔י ו לֹ֥א יִגַּ֖שׁ לְ הַקְרִֽיב",
+        "LXX": "τὰ δῶρα τοῦ θεοῦ οὐ προσελεύσεται προσενεγκεῖν .",
+        "VUL": "nec panes Deo suo :",
+        "SP": "לא יגשׁ ל הקריב",
+        "KJV": "he shall not come nigh to offer the bread of his God .",
+        "DSS": "[4Q24] את לחם אלהי׳ו ] [ לא יגש ל הקריב ׃"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "He shall eat the bread of his God",
+      "traditions": {
+        "WLC": "לֶ֣חֶם אֱלֹהָ֔י",
+        "LXX": "τὰ δῶρα τοῦ θεοῦ",
+        "VUL": "vescétur tamen pánibus",
+        "SP": "לחם אלהיו",
+        "KJV": "He shall eat the bread of his God , [",
+        "DSS": "[4Q24] לחם אלהי׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "both of the most holy, and of the holy",
+      "traditions": {
+        "WLC": "ו מִ קָּדְשֵׁ֖י הַ קֳּדָשִׁ֑ים וּ מִן הַ קֳּדָשִׁ֖ים יֹאכֵֽל",
+        "LXX": "τὰ ἅγια τῶν ἁγίων καὶ ἀπὸ τῶν ἁγίων φάγεται ·",
+        "VUL": "qui offerúntur in sanctuário ,",
+        "SP": "מ קדשׁי ה קדשׁים ו מן ה קדשׁים יאכל",
+        "KJV": "both ] of the most holy , and of the holy .",
+        "DSS": "[4Q24] מ קדשי ה קדשים ו מן ה קדשים יאכל ׃"
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "Only he shall not go in unto the vail",
+      "traditions": {
+        "WLC": "אַ֣ךְ אֶל הַ פָּרֹ֜כֶת לֹ֣א יָבֹ֗א",
+        "LXX": "πλὴν πρὸς τὸ καταπέτασμα οὐ προσελεύσεται ,",
+        "VUL": "ita dumtáxat , ut intra velum non ingrediátur ,",
+        "SP": "אך אל ה פרכת לא יבוא",
+        "KJV": "Only he shall not go in unto the vail ,",
+        "DSS": "[4Q24] אך אל ] [ ה פרכת לא יבא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "nor come nigh unto the altar",
+      "traditions": {
+        "WLC": "וְ אֶל הַ מִּזְבֵּ֛חַ לֹ֥א יִגַּ֖שׁ",
+        "LXX": "καὶ πρὸς τὸ θυσιαστήριον οὐκ ἐγγιεῖ ,",
+        "VUL": "nec accédat ad altáre ,",
+        "SP": "ו אל ה מזבח לא יגשׁ",
+        "KJV": "nor come nigh unto the altar ,",
+        "DSS": "[4Q24] ו אל ה מזבח לא יגש"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because he hath a blemish",
+      "traditions": {
+        "WLC": "כִּֽי מ֣וּם בּ֑ וֹ",
+        "LXX": "ὅτι μῶμον ἔχει ·",
+        "VUL": "quia máculam habet ,",
+        "SP": "כי מום בו",
+        "KJV": "because he hath a blemish ;",
+        "DSS": "[4Q24] כי מום ב׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "that he profane not my sanctuaries",
+      "traditions": {
+        "WLC": "וְ לֹ֤א יְחַלֵּל֙ אֶת מִקְדָּשַׁ֔ י",
+        "LXX": "καὶ οὐ βεβηλώσει τὸ ἅγιον τοῦ θεοῦ αὐτοῦ ,",
+        "VUL": "et contamináre non debet sanctuárium meum .",
+        "SP": "ו לא יחלל את מקדשׁי",
+        "KJV": "that he profane not my sanctuaries :",
+        "DSS": "[4Q24] ו לא יחלל את מקדש׳י"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "for I the LORD do sanctify them",
+      "traditions": {
+        "WLC": "כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדְּשָֽׁ ם",
+        "LXX": "ὅτι ἐγώ εἰμι Κύριος ὁ ἁγιάζων αὐτούς .",
+        "VUL": "Ego Dóminus qui sanctífico eos .",
+        "SP": "כי אני יהוה מקדשׁם",
+        "KJV": "for I the LORD do sanctify them .",
+        "DSS": "[4Q24] כי אני ] [ יהוה מקדש׳ם ׃"
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses told it unto Aaron",
+      "traditions": {
+        "WLC": "וַ יְדַבֵּ֣ר מֹשֶׁ֔ה אֶֽל אַהֲרֹ֖ן",
+        "LXX": "καὶ ἐλάλησεν Μωυσῆς πρὸς Ἀαρὼν",
+        "VUL": "Locútus est ergo Móyses ad Aaron ,",
+        "SP": "ו ידבר משׁה אל אהרן",
+        "KJV": "And Moses told [ it ] unto Aaron ,",
+        "DSS": "[4Q24] ו ידבר משה אל אהרן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and to his sons",
+      "traditions": {
+        "WLC": "וְ אֶל בָּנָ֑י",
+        "LXX": "καὶ τοὺς υἱοὺς αὐτοῦ",
+        "VUL": "et ad fílios eius ,",
+        "SP": "ו אל בניו",
+        "KJV": "and to his sons ,",
+        "DSS": "[4Q24] ו אל בני׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and unto all the children of Israel",
+      "traditions": {
+        "WLC": "ו וְ אֶֽל כָּל בְּנֵ֖י יִשְׂרָאֵֽל",
+        "LXX": "καὶ πρὸς πάντας υἱοὺς Ἰσραήλ .",
+        "VUL": "et ad omnem Israel cuncta quæ fúerant sibi imperáta .",
+        "SP": "ו אל כל בני ישׂראל",
+        "KJV": "and unto all the children of Israel .",
+        "DSS": "[4Q24] ו ] אל [ כל בני ישראל ׃"
+      }
+    }
+  ]
+}

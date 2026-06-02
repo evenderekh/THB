@@ -1,0 +1,804 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Open thy doors , O Lebanon",
+      "traditions": {
+        "WLC": "פְּתַ֥ח לְבָנ֖וֹן דְּלָתֶ֑י ךָ",
+        "LXX": "Διάνοιξον ὁ Λίβανος τὰς θύρας σου ,",
+        "VUL": "Aperi Líbane portas tuas ,",
+        "SP": null,
+        "KJV": "Open thy doors , O Lebanon ,",
+        "DSS": "[4Q82] [ פתח לבנון דלתי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that the fire may devour thy cedars",
+      "traditions": {
+        "WLC": "וְ תֹאכַ֥ל אֵ֖שׁ בַּ אֲרָזֶֽי ךָ",
+        "LXX": "καὶ καταφαγέτω πῦρ τὰς κέδρους σου ·",
+        "VUL": "et cómedat ignis cedros tuas .",
+        "SP": null,
+        "KJV": "that the fire may devour thy cedars .",
+        "DSS": "ו תאכל אש ב א ]רזי׳ך ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Howl , fir tree",
+      "traditions": {
+        "WLC": "הֵילֵ֤ל בְּרוֹשׁ֙",
+        "LXX": "ὀλολυξάτω πίτυς ,",
+        "VUL": "Ulula ábies ,",
+        "SP": null,
+        "KJV": "Howl , fir tree ;",
+        "DSS": "הילל[ ברוש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for the cedar is fallen",
+      "traditions": {
+        "WLC": "כִּֽי נָ֣פַל אֶ֔רֶז",
+        "LXX": "διότι πέπτωκεν κέδρος ,",
+        "VUL": "quia cécidit cedrus ,",
+        "SP": null,
+        "KJV": "for the cedar is fallen ;",
+        "DSS": "כי ] [ נפל ארז"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because the mighty are spoiled",
+      "traditions": {
+        "WLC": "אֲשֶׁ֥ר אַדִּרִ֖ים שֻׁדָּ֑דוּ",
+        "LXX": "ὅτι μεγάλως μεγιστᾶνες ἐταλαιπώρησαν ·",
+        "VUL": "quóniam magnífici vastáti sunt :",
+        "SP": null,
+        "KJV": "because the mighty are spoiled :",
+        "DSS": "אשר אדרים שדדו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "howl , O ye oaks of Bashan",
+      "traditions": {
+        "WLC": "הֵילִ֨ילוּ֙ אַלּוֹנֵ֣י בָשָׁ֔ן",
+        "LXX": "ὀλολύξατε , δρύες τῆς Βασανείτιδος ,",
+        "VUL": "ululáte quercus Basan ,",
+        "SP": null,
+        "KJV": "howl , O ye oaks of Bashan ;",
+        "DSS": "הילילו א ]ל##[ וני ב##ש#[ ן"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "for the forest of the vintage is come down",
+      "traditions": {
+        "WLC": "כִּ֥י יָרַ֖ד יַ֥עַר ה בצור",
+        "LXX": "ὅτι κατεσπάσθη ὁ δρυμὸς ὁ σύμφυτος .",
+        "VUL": "quóniam succísus est saltus munítus .",
+        "SP": null,
+        "KJV": "for the forest of the vintage is come down .",
+        "DSS": "כי ירד יער ] ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "a voice of the howling of the shepherds",
+      "traditions": {
+        "WLC": "ק֚וֹל יִֽלְלַ֣ת הָ רֹעִ֔ים",
+        "LXX": "φωνὴ θρηνούντων ποιμένων ,",
+        "VUL": "Vox ululátus pastórum ,",
+        "SP": null,
+        "KJV": "[ There is ] a voice of the howling of the shepherds ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for their glory is spoiled",
+      "traditions": {
+        "WLC": "כִּ֥י שֻׁדְּדָ֖ה אַדַּרְתָּ֑ ם",
+        "LXX": "ὅτι τεταλαιπώρηκεν ἡ μεγαλοσύνη αὐτῶν ·",
+        "VUL": "quia vastáta est magnificéntia eórum :",
+        "SP": null,
+        "KJV": "for their glory is spoiled :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a voice of the roaring of young lions",
+      "traditions": {
+        "WLC": "ק֚וֹל שַׁאֲגַ֣ת כְּפִירִ֔ים",
+        "LXX": "φωνὴ ὠρυομένων λεόντων ,",
+        "VUL": "vox rugítus leónum ,",
+        "SP": null,
+        "KJV": "a voice of the roaring of young lions ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for the pride of Jordan is spoiled",
+      "traditions": {
+        "WLC": "כִּ֥י שֻׁדַּ֖ד גְּא֥וֹן הַ יַּרְדֵּֽן",
+        "LXX": "ὅτι τεταλαιπώρηκεν τὸ φρύαγμα τοῦ Ἰορδάνου .",
+        "VUL": "quóniam vastáta est supérbia Iordánis .",
+        "SP": null,
+        "KJV": "for the pride of Jordan is spoiled .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus saith the LORD my God",
+      "traditions": {
+        "WLC": "כֹּ֥ה אָמַ֖ר יְהוָ֣ה אֱלֹהָ֑ י",
+        "LXX": "τάδε λέγει Κύριος Παντοκράτωρ",
+        "VUL": "Hæc dicit Dóminus Deus meus :",
+        "SP": null,
+        "KJV": "Thus saith the LORD my God ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Feed the flock of the slaughter",
+      "traditions": {
+        "WLC": "רְעֵ֖ה אֶת צֹ֥אן הַ הֲרֵגָֽה",
+        "LXX": "Ποιμαίνετε τὰ πρόβατα τῆς σφαγῆς ,",
+        "VUL": "Pasce pécora occisiónis ,",
+        "SP": null,
+        "KJV": "Feed the flock of the slaughter ;",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Whose possessors slay them , and hold themselves not guilty",
+      "traditions": {
+        "WLC": "אֲשֶׁ֨ר קֹנֵי הֶ֤ן יַֽהֲרְגֻ ן֙ וְ לֹ֣א יֶאְשָׁ֔מוּ",
+        "LXX": "ἃ οἱ κτησάμενοι κατέσφαζον καὶ οὐ μετεμέλοντο ,",
+        "VUL": "quæ qui posséderant , occidébant , et non dolébant ,",
+        "SP": null,
+        "KJV": "Whose possessors slay them , and hold themselves not guilty :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they that sell them say , Blessed [ be ] the LORD ; for I am rich",
+      "traditions": {
+        "WLC": "וּ מֹכְרֵי הֶ֣ן יֹאמַ֔ר בָּר֥וּךְ יְהוָ֖ה וַ אעְשִׁ֑ר",
+        "LXX": "καὶ οἱ πωλοῦντες αὐτὰ ἔλεγον Εὐλογητὸς Κύριος , καὶ πεπλουτήκαμεν ·",
+        "VUL": "et vendébant ea , dicéntes : Benedíctus Dóminus , dívites facti sumus :",
+        "SP": null,
+        "KJV": "and they that sell them say , Blessed [ be ] the LORD ; for I am rich :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and their own shepherds pity them not",
+      "traditions": {
+        "WLC": "וְ רֹ֣עֵי הֶ֔ם לֹ֥א יַחְמ֖וֹל עֲלֵי הֶֽן",
+        "LXX": "καὶ οἱ ποιμένες αὐτῶν οὐκ ἔπασχον οὐδὲν ἐπ᾽ αὐτοῖς .",
+        "VUL": "et pastóres eórum non parcébant eis .",
+        "SP": null,
+        "KJV": "and their own shepherds pity them not .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I will no more pity the inhabitants of the land , saith the LORD",
+      "traditions": {
+        "WLC": "כִּ֠י לֹ֣א אֶחְמ֥וֹל ע֛וֹד עַל יֹשְׁבֵ֥י הָ אָ֖רֶץ נְאֻם יְהוָ֑ה",
+        "LXX": "διὰ τοῦτο οὐ φείσομαι οὐκέτι ἐπὶ τοὺς κατοικοῦντας τὴν γῆν , λέγει Κύριος ·",
+        "VUL": "Et ego non parcam ultra super habitántes terram , dicit Dóminus :",
+        "SP": null,
+        "KJV": "For I will no more pity the inhabitants of the land , saith the LORD :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but , lo , I will deliver the men every one into his neighbour ’s hand , and into the hand of his king",
+      "traditions": {
+        "WLC": "וְ הִנֵּ֨ה אָנֹכִ֜י מַמְצִ֣יא אֶת הָ אָדָ֗ם אִ֤ישׁ בְּ יַד רֵעֵ֨ הוּ֙ וּ בְ יַ֣ד מַלְכּ֔ וֹ",
+        "LXX": "καὶ ἰδοὺ ἐγὼ παραδίδωμι τοὺς ἀνθρώπους , ἕκαστον εἰς χεῖρας τοῦ πλησίον αὐτοῦ καὶ εἰς χεῖρας βασιλέως αὐτοῦ ,",
+        "VUL": "ecce ego tradam hómines , unumquémque in manu próximi sui , et in manu regis sui :",
+        "SP": null,
+        "KJV": "but , lo , I will deliver the men every one into his neighbour ’s hand , and into the hand of his king :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they shall smite the land",
+      "traditions": {
+        "WLC": "וְ כִתְּתוּ֙ אֶת הָ אָ֔רֶץ",
+        "LXX": "καὶ κατακόψουσιν τὴν γῆν ,",
+        "VUL": "et concídent terram ,",
+        "SP": null,
+        "KJV": "and they shall smite the land ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and out of their hand I will not deliver [ them ]",
+      "traditions": {
+        "WLC": "וְ לֹ֥א אַצִּ֖יל מִ יָּדָֽ ם",
+        "LXX": "καὶ οὐ μὴ ἐξέλωμαι ἐκ χειρὸς αὐτῶν .",
+        "VUL": "et non éruam de manu eórum .",
+        "SP": null,
+        "KJV": "and out of their hand I will not deliver [ them ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I will feed the flock of slaughter , [ even ] you , O poor of the flock",
+      "traditions": {
+        "WLC": "וָֽ אֶרְעֶה֙ אֶת צֹ֣אן הַֽ הֲרֵגָ֔ה לָ כֵ֖ן עֲנִיֵּ֣י הַ צֹּ֑אן",
+        "LXX": "καὶ ποιμανῶ τὰ πρόβατα τῆς σφαγῆς εἰς τὴν Χαναανῖτιν ·",
+        "VUL": "Et pascam pecus occisiónis propter hoc , o páuperes gregis :",
+        "SP": null,
+        "KJV": "And I will feed the flock of slaughter , [ even ] you , O poor of the flock .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And I took unto me two staves",
+      "traditions": {
+        "WLC": "וָ אֶקַּֽח לִ֞ י שְׁנֵ֣י מַקְל֗וֹת",
+        "LXX": "καὶ λήμψομαι ἐμαυτῷ δύο ῥάβδους ,",
+        "VUL": "et assúmpsi mihi duas virgas :",
+        "SP": null,
+        "KJV": "And I took unto me two staves ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the one I called Beauty",
+      "traditions": {
+        "WLC": "לְ אַחַ֞ד קָרָ֤אתִי נֹ֨עַם֙",
+        "LXX": "τὴν μὲν μίαν ἐκάλεσα Κάλλος ,",
+        "VUL": "unam vocávi Decórem ,",
+        "SP": null,
+        "KJV": "the one I called Beauty ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the other I called Bands",
+      "traditions": {
+        "WLC": "וּ לְ אַחַד֙ קָרָ֣אתִי חֹֽבְלִ֔ים",
+        "LXX": "καὶ τὴν ἑτέραν ἐκάλεσα Σχοίνισμα ,",
+        "VUL": "et álteram vocávi Funículum :",
+        "SP": null,
+        "KJV": "and the other I called Bands ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and I fed the flock",
+      "traditions": {
+        "WLC": "וָ אֶרְעֶ֖ה אֶת הַ צֹּֽאן",
+        "LXX": "καὶ ποιμανῶ τὰ πρόβατα .",
+        "VUL": "et pavi gregem .",
+        "SP": null,
+        "KJV": "and I fed the flock .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Three shepherds also I cut off in one month",
+      "traditions": {
+        "WLC": "וָ אַכְחִ֛ד אֶת שְׁלֹ֥שֶׁת הָ רֹעִ֖ים בְּ יֶ֣רַח אֶחָ֑ד",
+        "LXX": "καὶ ἐξαρῶ τοὺς τρεῖς ποιμένας ἐν μηνὶ ἑνί ,",
+        "VUL": "Et succídi tres pastóres in mense uno ,",
+        "SP": null,
+        "KJV": "Three shepherds also I cut off in one month ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and my soul lothed them",
+      "traditions": {
+        "WLC": "וַ תִּקְצַ֤ר נַפְשִׁ י֙ בָּ הֶ֔ם",
+        "LXX": "καὶ βαρυνθήσεται ἡ ψυχή μου ἐπ᾽ αὐτούς ,",
+        "VUL": "et contrácta est ánima mea in eis :",
+        "SP": null,
+        "KJV": "and my soul lothed them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and their soul also abhorred me",
+      "traditions": {
+        "WLC": "וְ גַם נַפְשָׁ֖ ם בָּחֲלָ֥ה בִֽ י",
+        "LXX": "καὶ γὰρ αἱ ψυχαὶ αὐτῶν ἐπωρύοντο ἐπ᾽ ἐμέ .",
+        "VUL": "síquidem et ánima eórum variávit in me .",
+        "SP": null,
+        "KJV": "and their soul also abhorred me .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then said I , I will not feed you",
+      "traditions": {
+        "WLC": "וָ אֹמַ֕ר לֹ֥א אֶרְעֶ֖ה אֶתְ כֶ֑ם",
+        "LXX": "καὶ εἶπα Οὐ ποιμανῶ ὑμᾶς ·",
+        "VUL": "Et dixi : Non pascam vos :",
+        "SP": null,
+        "KJV": "Then said I , I will not feed you :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that that dieth , let it die",
+      "traditions": {
+        "WLC": "הַ מֵּתָ֣ה תָמ֗וּת",
+        "LXX": "τὸ ἀποθνῆσκον ἀποθνησκέτω ,",
+        "VUL": "quod móritur , moriátur :",
+        "SP": null,
+        "KJV": "that that dieth , let it die ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and that that is to be cut off , let it be cut off",
+      "traditions": {
+        "WLC": "וְ הַ נִּכְחֶ֨דֶת֙ תִּכָּחֵ֔ד",
+        "LXX": "καὶ τὸ ἐκλιπὸν ἐκλιπέτω ,",
+        "VUL": "et quod succíditur , succidátur :",
+        "SP": null,
+        "KJV": "and that that is to be cut off , let it be cut off ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and let the rest eat every one the flesh of another",
+      "traditions": {
+        "WLC": "וְ הַ֨ נִּשְׁאָר֔וֹת תֹּאכַ֕לְנָה אִשָּׁ֖ה אֶת בְּשַׂ֥ר רְעוּתָֽ הּ",
+        "LXX": "καὶ τὰ λοιπὰ κατεσθιέτωσαν ἕκαστος τὰς σάρκας τοῦ πλησίον αὐτοῦ .",
+        "VUL": "et réliqui dévorent unusquísque carnem próximi sui .",
+        "SP": null,
+        "KJV": "and let the rest eat every one the flesh of another .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I took my staff , [ even ] Beauty , and cut it asunder",
+      "traditions": {
+        "WLC": "וָ אֶקַּ֤ח אֶת מַקְלִ י֙ אֶת נֹ֔עַם וָ אֶגְדַּ֖ע אֹת֑ וֹ",
+        "LXX": "καὶ λήμψονται τὴν ῥάβδον μου τὴν καλήν , καὶ ἀπορρίψω",
+        "VUL": "Et tuli virgam meam , quæ vocabátur Decus , et abscídi eam ,",
+        "SP": null,
+        "KJV": "And I took my staff , [ even ] Beauty , and cut it asunder ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that I might break my covenant which I had made with all the people",
+      "traditions": {
+        "WLC": "לְ הָפֵיר֙ אֶת בְּרִיתִ֔ י אֲשֶׁ֥ר כָּרַ֖תִּי אֶת כָּל הָ עַמִּֽים",
+        "LXX": "τοῦ διασκεδάσαι τὴν διαθήκην μου ἣν διεθέμην πρὸς πάντας τοὺς λαούς ·",
+        "VUL": "ut írritum fácerem fœdus meum , quod percússi cum ómnibus pópulis .",
+        "SP": null,
+        "KJV": "that I might break my covenant which I had made with all the people .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it was broken in that day",
+      "traditions": {
+        "WLC": "וַ תֻּפַ֖ר בַּ יּ֣וֹם הַ ה֑וּא",
+        "LXX": "καὶ διασκεδασθήσεται ἐν τῇ ἡμέρᾳ ἐκείνῃ ,",
+        "VUL": "Et in írritum dedúctum est in die illa :",
+        "SP": null,
+        "KJV": "And it was broken in that day :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and so the poor of the flock that waited upon me knew",
+      "traditions": {
+        "WLC": "וַ יֵּדְע֨וּ כֵ֜ן עֲנִיֵּ֤י הַ צֹּאן֙ הַ שֹּׁמְרִ֣ים אֹתִ֔ י",
+        "LXX": "καὶ γνώσονται οἱ Χαναναῖοι τὰ πρόβατα τὰ φυλασσόμενά μοι ·",
+        "VUL": "et cognovérunt sic páuperes gregis , qui custódiunt mihi ,",
+        "SP": null,
+        "KJV": "and so the poor of the flock that waited upon me knew",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that it [ was ] the word of the LORD",
+      "traditions": {
+        "WLC": "כִּ֥י דְבַר יְהוָ֖ה הֽוּא",
+        "LXX": "διότι λόγος Κυρίου ἐστίν .",
+        "VUL": "quia verbum Dómini est .",
+        "SP": null,
+        "KJV": "that it [ was ] the word of the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And I said unto them",
+      "traditions": {
+        "WLC": "וָ אֹמַ֣ר אֲלֵי הֶ֗ם",
+        "LXX": "καὶ ἐρῶ πρὸς αὐτούς",
+        "VUL": "Et dixi ad eos :",
+        "SP": null,
+        "KJV": "And I said unto them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "If ye think good , give [ me ] my price",
+      "traditions": {
+        "WLC": "אִם ט֧וֹב בְּ עֵינֵי כֶ֛ם הָב֥וּ שְׂכָרִ֖ י",
+        "LXX": "Εἰ καλὸν ἐνώπιον ὑμῶν ἐστιν , δότε τὸν μισθόν μου",
+        "VUL": "Si bonum est in óculis vestris , afférte mercédem meam :",
+        "SP": null,
+        "KJV": "If ye think good , give [ me ] my price ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and if not , forbear",
+      "traditions": {
+        "WLC": "וְ אִם לֹ֣א חֲדָ֑לוּ",
+        "LXX": "ἢ ἀπείπασθε ·",
+        "VUL": "et si non , quiéscite .",
+        "SP": null,
+        "KJV": "and if not , forbear .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "So they weighed for my price thirty [ pieces ] of silver",
+      "traditions": {
+        "WLC": "וַ יִּשְׁקְל֥וּ אֶת שְׂכָרִ֖ י שְׁלֹשִׁ֥ים כָּֽסֶף",
+        "LXX": "καὶ ἔστησαν τὸν μισθόν μου τριάκοντα ἀργυροῦς .",
+        "VUL": "Et appendérunt mercédem meam trigínta argénteos .",
+        "SP": null,
+        "KJV": "So they weighed for my price thirty [ pieces ] of silver .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto me",
+      "traditions": {
+        "WLC": "וַ יֹּ֨אמֶר יְהוָ֜ה אֵלַ֗ י",
+        "LXX": "καὶ εἶπεν Κύριος πρὸς μέ",
+        "VUL": "Et dixit Dóminus ad me :",
+        "SP": null,
+        "KJV": "And the LORD said unto me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Cast it unto the potter",
+      "traditions": {
+        "WLC": "הַשְׁלִיכֵ֨ הוּ֙ אֶל הַ יּוֹצֵ֔ר",
+        "LXX": "Κάθες αὐτοὺς εἰς τὸ χωνευτήριον ,",
+        "VUL": "Próice illud ad statuárium ,",
+        "SP": null,
+        "KJV": "Cast it unto the potter :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "a goodly price that I was prised at of them",
+      "traditions": {
+        "WLC": "אֶ֣דֶר הַ יְקָ֔ר אֲשֶׁ֥ר יָקַ֖רְתִּי מֵֽ עֲלֵי הֶ֑ם",
+        "LXX": "καὶ σκέψομαι εἰ δόκιμόν ἐστιν , ὃν τρόπον ἐδοκιμάσθη ὑπὲρ αὐτῶν .",
+        "VUL": "decórum prétium , quo appretiátus sum ab eis .",
+        "SP": null,
+        "KJV": "a goodly price that I was prised at of them .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And I took the thirty [ pieces ] of silver",
+      "traditions": {
+        "WLC": "וָֽ אֶקְחָ ה֙ שְׁלֹשִׁ֣ים הַ כֶּ֔סֶף",
+        "LXX": "καὶ ἔλαβον τοὺς τριάκοντα ἀργυροῦς",
+        "VUL": "Et tuli trigínta argénteos :",
+        "SP": null,
+        "KJV": "And I took the thirty [ pieces ] of silver ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and cast them to the potter in the house of the LORD",
+      "traditions": {
+        "WLC": "וָ אַשְׁלִ֥יךְ אֹת֛ וֹ בֵּ֥ית יְהוָ֖ה אֶל הַ יּוֹצֵֽר",
+        "LXX": "καὶ ἐνέβαλον αὐτοὺς εἰς τὸν οἶκον Κυρίου εἰς τὸ χωνευτήριον .",
+        "VUL": "et proiéci illos in domum Dómini ad statuárium .",
+        "SP": null,
+        "KJV": "and cast them to the potter in the house of the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then I cut asunder mine other staff",
+      "traditions": {
+        "WLC": "וָֽ אֶגְדַּע֙ אֶת מַקְלִ֣ י הַ שֵּׁנִ֔י",
+        "LXX": "καὶ ἀπέρριψα τὴν ῥάβδον τὴν δευτέραν ,",
+        "VUL": "Et præcídi virgam meam secúndam ,",
+        "SP": null,
+        "KJV": "Then I cut asunder mine other staff , [ even ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ even ] Bands",
+      "traditions": {
+        "WLC": "אֵ֖ת הַ חֹֽבְלִ֑ים",
+        "LXX": "τὸ σχοίνισμα ,",
+        "VUL": "quæ appellabátur Funículus ,",
+        "SP": null,
+        "KJV": "Bands ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that I might break the brotherhood between Judah and Israel",
+      "traditions": {
+        "WLC": "לְ הָפֵר֙ אֶת הָֽ אַחֲוָ֔ה בֵּ֥ין יְהוּדָ֖ה וּ בֵ֥ין יִשְׂרָאֵֽל",
+        "LXX": "τοῦ διασκεδάσαι τὴν κατάσχεσιν ἀνὰ μέσον Ἰούδα καὶ ἀνὰ μέσον Ἰσραήλ .",
+        "VUL": "ut dissólverem germanitátem inter Iudam , et Israel .",
+        "SP": null,
+        "KJV": "that I might break the brotherhood between Judah and Israel .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto me",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר יְהוָ֖ה אֵלָ֑ י",
+        "LXX": "Καὶ εἶπεν Κύριος πρὸς μέ",
+        "VUL": "Et dixit Dóminus ad me :",
+        "SP": null,
+        "KJV": "And the LORD said unto me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Take unto thee yet the instruments of a foolish shepherd",
+      "traditions": {
+        "WLC": "ע֣וֹד קַח לְ ךָ֔ כְּלִ֖י רֹעֶ֥ה אֱוִלִֽי",
+        "LXX": "Ἔτι λάβε σεαυτῷ σκεύη ποιμενικὰ ποιμένος ἀπείρου .",
+        "VUL": "Adhuc sume tibi vasa pastóris stulti .",
+        "SP": null,
+        "KJV": "Take unto thee yet the instruments of a foolish shepherd .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "For , lo , I will raise up a shepherd in the land",
+      "traditions": {
+        "WLC": "כִּ֣י הִנֵּֽה אָנֹכִי֩ מֵקִ֨ים רֹעֶ֜ה בָּ אָ֗רֶץ",
+        "LXX": "διότι ἰδοὺ ἐξεγείρω ποιμένα ἐπὶ τὴν γῆν ·",
+        "VUL": "Quia ecce ego suscitábo pastórem in terra ,",
+        "SP": null,
+        "KJV": "For , lo , I will raise up a shepherd in the land , [ which ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ which ] shall not visit those that be cut off",
+      "traditions": {
+        "WLC": "הַ נִּכְחָד֤וֹת לֹֽא יִפְקֹד֙",
+        "LXX": "τὸ ἐκλιμπάνον οὐ μὴ ἐπισκέψηται ,",
+        "VUL": "qui derelícta non visitábit ,",
+        "SP": null,
+        "KJV": "shall not visit those that be cut off ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither shall seek the young one",
+      "traditions": {
+        "WLC": "הַ נַּ֣עַר לֹֽא יְבַקֵּ֔שׁ",
+        "LXX": "καὶ τὸ ἐσκορπισμένον οὐ μὴ ζητήσῃ ,",
+        "VUL": "dispérsum non quæret ,",
+        "SP": null,
+        "KJV": "neither shall seek the young one ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "nor heal that that is broken",
+      "traditions": {
+        "WLC": "וְ הַ נִּשְׁבֶּ֖רֶת לֹ֣א יְרַפֵּ֑א",
+        "LXX": "καὶ τὸ συντετριμμένον οὐ μὴ ἰάσηται ,",
+        "VUL": "et contrítum non sanábit ,",
+        "SP": null,
+        "KJV": "nor heal that that is broken ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "nor feed that that standeth still",
+      "traditions": {
+        "WLC": "הַ נִּצָּבָה֙ לֹ֣א יְכַלְכֵּ֔ל",
+        "LXX": "καὶ τὸ ὁλόκληρον οὐ μὴ κατευθύνῃ ,",
+        "VUL": "et id quod stat non enútriet ,",
+        "SP": null,
+        "KJV": "nor feed that that standeth still :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "but he shall eat the flesh of the fat",
+      "traditions": {
+        "WLC": "וּ בְשַׂ֤ר הַ בְּרִיאָה֙ יֹאכַ֔ל",
+        "LXX": "καὶ τὰ κρέα τῶν ἐκλεκτῶν καταφάγεται ,",
+        "VUL": "et carnes pínguium cómedet ,",
+        "SP": null,
+        "KJV": "but he shall eat the flesh of the fat ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "and tear their claws in pieces",
+      "traditions": {
+        "WLC": "וּ פַרְסֵי הֶ֖ן יְפָרֵֽק",
+        "LXX": "καὶ τοὺς ἀστραγάλους αὐτῶν ἐκστρέψει .",
+        "VUL": "et úngulas eórum dissólvet .",
+        "SP": null,
+        "KJV": "and tear their claws in pieces .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Woe to the idol shepherd",
+      "traditions": {
+        "WLC": "ה֣וֹי רֹעִ֤י הָֽ אֱלִיל֙",
+        "LXX": "ὢ οἱ ποιμαίνοντες τὰ μάταια",
+        "VUL": "O pastor , et idólum ,",
+        "SP": null,
+        "KJV": "Woe to the idol shepherd",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that leaveth the flock",
+      "traditions": {
+        "WLC": "עֹזְבִ֣י הַ צֹּ֔אן",
+        "LXX": "καὶ καταλελοιπότες τὰ πρόβατα ·",
+        "VUL": "derelínquens gregem :",
+        "SP": null,
+        "KJV": "that leaveth the flock !",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the sword [ shall be ] upon his arm",
+      "traditions": {
+        "WLC": "חֶ֥רֶב עַל זְרוֹע֖ וֹ",
+        "LXX": "μάχαιρα ἐπὶ τοὺς βραχίονας αὐτοῦ",
+        "VUL": "gládius super bráchium eius ,",
+        "SP": null,
+        "KJV": "the sword [ shall be ] upon his arm ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and upon his right eye",
+      "traditions": {
+        "WLC": "וְ עַל עֵ֣ין יְמִינ֑ וֹ",
+        "LXX": "καὶ ἐπὶ τὸν ὀφθαλμὸν τὸν δεξιὸν αὐτοῦ ·",
+        "VUL": "et super óculum dextrum eius :",
+        "SP": null,
+        "KJV": "and upon his right eye :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "his arm shall be clean dried up",
+      "traditions": {
+        "WLC": "זְרֹע וֹ֙ יָב֣וֹשׁ תִּיבָ֔שׁ",
+        "LXX": "ὁ βραχίων αὐτοῦ ξηραινόμενος ξηρανθήσεται ,",
+        "VUL": "bráchium eius ariditáte siccábitur ,",
+        "SP": null,
+        "KJV": "his arm shall be clean dried up ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and his right eye shall be utterly darkened",
+      "traditions": {
+        "WLC": "וְ עֵ֥ין יְמִינ֖ וֹ כָּהֹ֥ה תִכְהֶֽה",
+        "LXX": "καὶ ὀφθαλμὸς ὁ δεξιὸς αὐτοῦ ἐκτυφλούμενος ἐκτυφλωθήσεται .",
+        "VUL": "et óculus dexter eius tenebréscens obscurábitur .",
+        "SP": null,
+        "KJV": "and his right eye shall be utterly darkened .",
+        "DSS": null
+      }
+    }
+  ]
+}

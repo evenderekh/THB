@@ -1,0 +1,870 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses with the elders of Israel commanded the people",
+      "traditions": {
+        "WLC": "וַ יְצַ֤ו מֹשֶׁה֙ וְ זִקְנֵ֣י יִשְׂרָאֵ֔ל אֶת הָ עָ֖ם",
+        "LXX": "Καὶ προσέταξεν Μωυσῆς καὶ ἡ γερουσία Ἰσραηλειτῶν",
+        "VUL": "Præcépit autem Móyses et senióres Israel , pópulo",
+        "SP": "ו יצו משׁה ו זקני ישׂראל את ה עם",
+        "KJV": "And Moses with the elders of Israel commanded the people ,",
+        "DSS": "[4Q30] ו יצו מ##[ שה ו זקני ישראל ] [ את ה עם / [4Q33] [ ו יצו משה ו זקני ישראל את ]ה# עם / [4Q38a] ו יצו משה ו זקני ישראל את ה עם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "לֵ אמֹ֑ר",
+        "LXX": null,
+        "VUL": "dicéntes :",
+        "SP": "ל אמר",
+        "KJV": "saying ,",
+        "DSS": "ל אמר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Keep all the commandments which I command you this day",
+      "traditions": {
+        "WLC": "שָׁמֹר֙ אֶת כָּל הַ מִּצְוָ֔ה אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְ כֶ֖ם הַ יּֽוֹם",
+        "LXX": "Φυλάσσεσθε πάσας τὰς ἐντολάς ταύτας ὅσας ἐγὼ ἐντέλλομαι ὑμῖν σήμερον .",
+        "VUL": "Custodíte omne mandátum quod præcípio vobis hódie .",
+        "SP": "שׁמרו את כל ה מצוה אשׁר אנכי מצוה אתכם ה יום",
+        "KJV": "Keep all the commandments which I command you this day .",
+        "DSS": "[4Q30] שמר את כל ]ה## מצוה ה זאת[ אשר אנכי מצוה ] [ את׳כם ה יום ׃ / [4Q33] ש#[ מר את כל ה מצוה אשר אנכי מצוה את׳כם ה יום ׃ / [4Q38a] [ שמר את כו ]ל[ ה מצוה אשר אנכי מצוה את׳כם ה יום ε ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall be on the day when ye shall pass over Jordan unto the land which the LORD thy God giveth thee",
+      "traditions": {
+        "WLC": "וְ הָיָ֗ה בַּ יּוֹם֮ אֲשֶׁ֣ר תַּעַבְר֣וּ אֶת הַ יַּרְדֵּן֒ אֶל הָ אָ֕רֶץ אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖י ךָ נֹתֵ֣ן לָ֑ ךְ",
+        "LXX": "καὶ ἔσται ᾗ ἂν ἡμέρᾳ διαβῆτε τὸν Ἰορδάνην εἰς τὴν γῆν ἣν Κύριος ὁ θεός σου δίδωσίν σοι ,",
+        "VUL": "Cumque transiéritis Iordánem in terram , quam Dóminus Deus tuus dabit tibi ,",
+        "SP": "ו היה ב יום אשׁר תעברו את ה ירדן אל ה ארץ אשׁר יהוה אלהיך נתן לך",
+        "KJV": "And it shall be on the day when ye shall pass over Jordan unto the land which the LORD thy God giveth thee ,",
+        "DSS": "[4Q30] ו היה ב יום אשר תע ]ברו את ה## [ ירדן אל ה ארץ ] / [4Q33] ו היה ] [ ב יום אשר תעברו את ה ירדן אל ה ארץ ]אשר י?ה#[ וה אלהי׳ך נתן ל׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that thou shalt set thee up great stones",
+      "traditions": {
+        "WLC": "וַ הֲקֵמֹתָ֤ לְ ךָ֙ אֲבָנִ֣ים גְּדֹל֔וֹת",
+        "LXX": "καὶ στήσεις σεαυτῷ λίθους μεγάλους",
+        "VUL": "ériges ingéntes lápides ,",
+        "SP": "ו הקמת לך אבנים גדלות",
+        "KJV": "that thou shalt set thee up great stones ,",
+        "DSS": "[4Q33] ו הקמת ל׳ך אבנים גדלות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and plaister them with plaister",
+      "traditions": {
+        "WLC": "וְ שַׂדְתָּ֥ אֹתָ֖ ם בַּ שִּֽׂיד",
+        "LXX": "καὶ κονιάσεις αὐτοὺς κονίᾳ ·",
+        "VUL": "et calce lævigábis eos ,",
+        "SP": "ו שׂדת אתם ב שׂיד",
+        "KJV": "and plaister them with plaister :",
+        "DSS": "[4Q33] [ ו שדת את׳ם ב שיד ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt write upon them all the words of this law",
+      "traditions": {
+        "WLC": "וְ כָתַבְתָּ֣ עֲלֵי הֶ֗ן אֶֽת כָּל דִּבְרֵ֛י הַ תּוֹרָ֥ה הַ זֹּ֖את",
+        "LXX": "καὶ γράψεις ἐπὶ τῶν λίθων τούτων πάντας τούς λόγους τοῦ νόμου τούτου ,",
+        "VUL": "ut possis in eis scríbere ómnia verba legis huius ,",
+        "SP": "ו כתבת עליהן את כל דברי ה תורה ה זאת",
+        "KJV": "And thou shalt write upon them all the words of this law ,",
+        "DSS": "[4Q33] ו כתבת עלי׳הן את כל דברי ה תורה ה זאת"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when thou art passed over",
+      "traditions": {
+        "WLC": "בְּ עָבְרֶ֑ ךָ",
+        "LXX": "ὡς ἂν διαβῆτε τὸν Ἰορδάνην ,",
+        "VUL": "Iordáne transmísso :",
+        "SP": "ב עברך",
+        "KJV": "when thou art passed over ,",
+        "DSS": "[4Q33] ב עבר׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that thou mayest go in unto the land which the LORD thy God giveth thee , a land that floweth with milk and honey",
+      "traditions": {
+        "WLC": "לְמַ֡עַן אֲשֶׁר֩ תָּבֹ֨א אֶל הָ אָ֜רֶץ אֲֽשֶׁר יְהוָ֥ה אֱלֹהֶ֣י ךָ נֹתֵ֣ן לְ ךָ֗ אֶ֣רֶץ זָבַ֤ת חָלָב֙ וּ דְבַ֔שׁ",
+        "LXX": "ἡνίκα ἐὰν εἰσέλθητε εἰς τὴν γῆν ἣν Κύριος ὁ θεὸς τῶν πατέρων σου δίδωσίν σοι , γῆν ῥέουσαν γάλα καὶ μέλι ,",
+        "VUL": "ut intróeas terram , quam Dóminus Deus tuus dabit tibi , terram lacte et melle manántem ,",
+        "SP": "למען אשׁר תבוא אל ה ארץ אשׁר יהוה אלהיך נתן לך ארץ זבת חלב ו דבשׁ",
+        "KJV": "that thou mayest go in unto the land which the LORD thy God giveth thee , a land that floweth with milk and honey ;",
+        "DSS": "[4Q33] למען אשר ]ת#ב##ו#?א##[ אל ] [ ה ארץ אשר יהוה אלהי׳ך נתן ל׳ך ארץ זבת ] ח##לב ו דב#"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as the LORD God of thy fathers hath promised thee",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֥ר דִּבֶּ֛ר יְהוָ֥ה אֱלֹהֵֽי אֲבֹתֶ֖י ךָ לָֽ ךְ",
+        "LXX": "ὃν τρόπον εἶπεν Κύριος ὁ θεὸς τῶν πατέρων σού σοι .",
+        "VUL": "sicut iurávit pátribus tuis .",
+        "SP": "כ אשׁר דבר יהוה אלהי אבתיך לך",
+        "KJV": "as the LORD God of thy fathers hath promised thee .",
+        "DSS": "[4Q33] ש כ אשר דבר יהוה אלהי אבתי׳ך ל׳ך ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore it shall be when ye be gone over Jordan",
+      "traditions": {
+        "WLC": "וְ הָיָה֮ בְּ עָבְרְ כֶ֣ם אֶת הַ יַּרְדֵּן֒",
+        "LXX": "καὶ ἔσται ὡς ἂν διαβῆτε τὸν Ἰορδάνην ,",
+        "VUL": "Quando ergo transiéritis Iordánem ,",
+        "SP": "ו היה ב עברכם את ה ירדן",
+        "KJV": "Therefore it shall be when ye be gone over Jordan , [ that ]",
+        "DSS": "[4Q33] ו הי ]ה## ב עבר׳כם את#[ ה ירדן ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "ye shall set up these stones , which I command you this day , in mount Ebal",
+      "traditions": {
+        "WLC": "תָּקִ֜ימוּ אֶת הָ אֲבָנִ֣ים הָ אֵ֗לֶּה אֲשֶׁ֨ר אָנֹכִ֜י מְצַוֶּ֥ה אֶתְ כֶ֛ם הַ יּ֖וֹם בְּ הַ֣ר עֵיבָ֑ל",
+        "LXX": "στήσετε τοὺς λίθους τούτους οὓς ἐγὼ ἐντέλλομαί σοι σήμερον ἐν ὄρει Γαιβάλ ,",
+        "VUL": "erígite lápides , quos ego hódie præcípio vobis in monte Hebal ,",
+        "SP": "תקימו את ה אבנים ה אלה אשׁר אנכי מצוה אתכם ה יום ב הרגריזים",
+        "KJV": "ye shall set up these stones , which I command you this day , in mount Ebal ,",
+        "DSS": "[4Q33] [ תקימו את ה אבנים ה אלה אשר אנכ ]י? מצוה (^ את׳[ כם ] ^) ה [ יום ב הר עיבל"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thou shalt plaister them with plaister",
+      "traditions": {
+        "WLC": "וְ שַׂדְתָּ֥ אוֹתָ֖ ם בַּ שִּֽׂיד",
+        "LXX": "καὶ κονιάσεις αὐτοὺς κονίᾳ .",
+        "VUL": "et lævigábis eos calce :",
+        "SP": "ו שׂדת אתם ב שׂיד",
+        "KJV": "and thou shalt plaister them with plaister .",
+        "DSS": "[4Q33] ו שדת או ]ת##׳ם ב שיד ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And there shalt thou build an altar unto the LORD thy God",
+      "traditions": {
+        "WLC": "וּ בָנִ֤יתָ שָּׁם֙ מִזְבֵּ֔חַ לַ יהוָ֖ה אֱלֹהֶ֑י ךָ",
+        "LXX": "καὶ οἰκοδομήσεις ἐκεῖ θυσιαστήριον Κυρίῳ τῷ θεῷ σου ,",
+        "VUL": "et ædificábis ibi altáre Dómino Deo tuo",
+        "SP": "ו בנית שׁם מזבח ל יהוה אלהיך",
+        "KJV": "And there shalt thou build an altar unto the LORD thy God ,",
+        "DSS": "[4Q33] [ ו ] ב##נית שם מזבח##[ ל יהוה ] [ אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "an altar of stones",
+      "traditions": {
+        "WLC": "מִזְבַּ֣ח אֲבָנִ֔ים",
+        "LXX": "θυσιαστήριον ἐκ λίθων ,",
+        "VUL": "de lapídibus ,",
+        "SP": "מזבח אבנים",
+        "KJV": "an altar of stones :",
+        "DSS": "[4Q33] מזבח אבנים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou shalt not lift up iron tool upon them",
+      "traditions": {
+        "WLC": "לֹא תָנִ֥יף עֲלֵי הֶ֖ם בַּרְזֶֽל",
+        "LXX": "οὐκ ἐπιβαλεῖς ἐπ᾽ αὐτὸ σίδηρον ·",
+        "VUL": "quos ferrum non tétigit ,",
+        "SP": "לא תניף עליהם ברזל",
+        "KJV": "thou shalt not lift up [ any ] iron [ tool ] upon them .",
+        "DSS": "[4Q33] לא תניף עלי׳הם ]ברז?ל ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt build the altar of the LORD thy God of whole stones",
+      "traditions": {
+        "WLC": "אֲבָנִ֤ים שְׁלֵמוֹת֙ תִּבְנֶ֔ה אֶת מִזְבַּ֖ח יְהוָ֣ה אֱלֹהֶ֑י ךָ",
+        "LXX": "λίθους ὁλοκλήρους οἰκοδομήσεις θυσιαστήριον Κυρίῳ τῷ θεῷ σου ,",
+        "VUL": "et de saxis infórmibus et impolítis :",
+        "SP": "אבנים שׁלמות תבנה את מזבח יהוה אלהיך",
+        "KJV": "Thou shalt build the altar of the LORD thy God of whole stones :",
+        "DSS": "[4Q33] אבנים#[ שלמות תבנה את מזב ]ח יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou shalt offer burnt offerings thereon unto the LORD thy God",
+      "traditions": {
+        "WLC": "וְ הַעֲלִ֤יתָ עָלָי ו֙ עוֹלֹ֔ת לַ יהוָ֖ה אֱלֹהֶֽי ךָ",
+        "LXX": "καὶ ἀνοίσεις ἐπ᾽ αὐτὸ τὰ ὁλοκαυτώματα Κυρίῳ τῷ θεῷ σου ·",
+        "VUL": "et ófferes super eo holocáusta Dómino Deo tuo ,",
+        "SP": "ו העלית עליו עלות ל יהוה אלהיך",
+        "KJV": "and thou shalt offer burnt offerings thereon unto the LORD thy God :",
+        "DSS": "[4Q33] ו העלית עלי?׳[ ו עולת ל יהוה ] [ אלהי׳ך ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt offer peace offerings",
+      "traditions": {
+        "WLC": "וְ זָבַחְתָּ֥ שְׁלָמִ֖ים",
+        "LXX": "καὶ θύσεις ἐκεῖ θυσίαν σωτηρίου ,",
+        "VUL": "et immolábis hóstias pacíficas ,",
+        "SP": "ו זבחת שׁלמים",
+        "KJV": "And thou shalt offer peace offerings ,",
+        "DSS": "[4Q33] ו זבחת שלמים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shalt eat there",
+      "traditions": {
+        "WLC": "וְ אָכַ֣לְתָּ שָּׁ֑ם",
+        "LXX": "καὶ φάγῃ καὶ ἐμπλησθήσῃ",
+        "VUL": "comedésque ibi ,",
+        "SP": "ו אכלת שׁם",
+        "KJV": "and shalt eat there ,",
+        "DSS": "[4Q33] ו אכ ]ל#ת## ש#ם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and rejoice before the LORD thy God",
+      "traditions": {
+        "WLC": "וְ שָׂ֣מַחְתָּ֔ לִ פְנֵ֖י יְהוָ֥ה אֱלֹהֶֽי ךָ",
+        "LXX": "καὶ εὐφρανθήσῃ ἐναντίον Κυρίου τοῦ θεοῦ σου ·",
+        "VUL": "et epuláberis coram Dómino Deo tuo .",
+        "SP": "ו שׂמחת ל פני יהוה אלהיך",
+        "KJV": "and rejoice before the LORD thy God .",
+        "DSS": "[4Q33] ו שמח#[ ת ל פני יה ]ו(# ה #) א##[ להי ]׳ך## ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And thou shalt write upon the stones all the words of this law",
+      "traditions": {
+        "WLC": "וְ כָתַבְתָּ֣ עַל הָ אֲבָנִ֗ים אֶֽת כָּל דִּבְרֵ֛י הַ תּוֹרָ֥ה הַ זֹּ֖את",
+        "LXX": "καὶ γράψεις ἐπὶ τῶν λίθων πάντα τὸν νόμον τοῦτον",
+        "VUL": "Et scribes super lápides ómnia verba legis huius",
+        "SP": "ו כתבת על ה אבנים את כל דברי ה תורה ה זאת",
+        "KJV": "And thou shalt write upon the stones all the words of this law",
+        "DSS": "[4Q33] ו כ##ת##בת על ה# אב[ נים את כל דברי ה תורה ה זאת ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "very plainly",
+      "traditions": {
+        "WLC": "בַּאֵ֥ר הֵיטֵֽב",
+        "LXX": "σαφῶς σφόδρα .",
+        "VUL": "plane et lúcide .",
+        "SP": "באר הייטב",
+        "KJV": "very plainly .",
+        "DSS": "[4Q33] [ באר היטב ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses and the priests the Levites spake unto all Israel",
+      "traditions": {
+        "WLC": "וַ יְדַבֵּ֤ר מֹשֶׁה֙ וְ הַ כֹּהֲנִ֣ים הַ לְוִיִּ֔ם אֶ֥ל כָּל יִשְׂרָאֵ֖ל",
+        "LXX": "Καὶ ἐλάλησεν Μωυσῆς καὶ οἱ ἱερεῖς οἱ Λευεῖται παντὶ Ἰσραὴλ",
+        "VUL": "Dixerúntque Móyses et sacerdótes Levítici géneris ad omnem Israélem :",
+        "SP": "ו ידבר משׁה ו ה כהנים ה לוים אל כל ישׂראל",
+        "KJV": "And Moses and the priests the Levites spake unto all Israel ,",
+        "DSS": "[4Q33] ו ידבר מ ]ש##ה ו ה [ כהנים ה ]לוים אל[ כל יש ]ר#א#ל["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "לֵ אמֹ֑ר",
+        "LXX": "λέγοντες",
+        "VUL": null,
+        "SP": "ל אמר",
+        "KJV": "saying ,",
+        "DSS": "ל אמר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Take heed , and hearken , O Israel",
+      "traditions": {
+        "WLC": "הַסְכֵּ֤ת וּ שְׁמַע֙ יִשְׂרָאֵ֔ל",
+        "LXX": "Σιώπα καὶ ἄκουε , Ἰσραήλ ·",
+        "VUL": "Atténde , et audi Israel :",
+        "SP": "הסכת ו שׁמע ישׂראל",
+        "KJV": "Take heed , and hearken , O Israel ;",
+        "DSS": "הסכת ו שמע ישראל"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "this day thou art become the people of the LORD thy God",
+      "traditions": {
+        "WLC": "הַ יּ֤וֹם הַ זֶּה֙ נִהְיֵ֣יתָֽ לְ עָ֔ם לַ יהוָ֖ה אֱלֹהֶֽי ךָ",
+        "LXX": "ἐν τῇ ἡμέρᾳ ταύτῃ γέγονας εἰς λαὸν Κυρίῳ τῷ θεῷ σου .",
+        "VUL": "hódie factus es pópulus Dómini Dei tui :",
+        "SP": "ה יום ה זה נהית ל עם קדשׁ ל יהוה אלהיך",
+        "KJV": "this day thou art become the people of the LORD thy God .",
+        "DSS": "[4Q33] ה יום ] [ ה זה נהיית ל עם ל יהוה א ]ל#[ הי׳ך ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt therefore obey the voice of the LORD thy God",
+      "traditions": {
+        "WLC": "וְ שָׁ֣מַעְתָּ֔ בְּ ק֖וֹל יְהוָ֣ה אֱלֹהֶ֑י ךָ",
+        "LXX": "καὶ εἰσακούσῃ τῆς φωνῆς Κυρίου τοῦ θεοῦ σου ,",
+        "VUL": "áudies vocem eius ,",
+        "SP": "ו שׁמעת ב קול יהוה אלהיך",
+        "KJV": "Thou shalt therefore obey the voice of the LORD thy God ,",
+        "DSS": "[4Q33] ו שמעת ב ] ק##ו#?ל[ יהוה אלהי׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and do his commandments and his statutes",
+      "traditions": {
+        "WLC": "וְ עָשִׂ֤יתָ אֶת מִצְוֺתָ ו֙ וְ אֶת חֻקָּ֔י",
+        "LXX": "καὶ ποιήσεις πάσας τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα αὐτοῦ",
+        "VUL": "et fácies mandáta atque iustítias ,",
+        "SP": "ו עשׂית את מצותיו ו את חקתיו",
+        "KJV": "and do his commandments and his statutes ,",
+        "DSS": "[4Q33] ו עשית את מצות׳ו ו את חקי׳ו ] ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which I command thee this day",
+      "traditions": {
+        "WLC": "ו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּ ךָ֖ הַ יּֽוֹם",
+        "LXX": "ὅσα ἐγὼ ἐντέλλομαί σοι σήμερον .",
+        "VUL": "quas ego præcípio tibi .",
+        "SP": "אשׁר אנכי מצוך ה יום",
+        "KJV": "which I command thee this day .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses charged the people the same day",
+      "traditions": {
+        "WLC": "וַ יְצַ֤ו מֹשֶׁה֙ אֶת הָ עָ֔ם בַּ יּ֥וֹם הַ ה֖וּא",
+        "LXX": "Καὶ ἐνετείλατο Μωυσῆς τῷ λαῷ ἐν τῇ ἡμέρᾳ ἐκείνῃ",
+        "VUL": "Præcepítque Móyses pópulo in die illo ,",
+        "SP": "ו יצו משׁה את ה עם ב יום ה הוא",
+        "KJV": "And Moses charged the people the same day ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying",
+      "traditions": {
+        "WLC": "לֵ אמֹֽר",
+        "LXX": "λέγων",
+        "VUL": "dicens :",
+        "SP": "ל אמר",
+        "KJV": "saying ,",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "These shall stand upon mount Gerizim to bless the people",
+      "traditions": {
+        "WLC": "אֵ֠לֶּה יַֽעַמְד֞וּ לְ בָרֵ֤ךְ אֶת הָ עָם֙ עַל הַ֣ר גְּרִזִ֔ים",
+        "LXX": "Οὗτοι στήσονται εὐλογεῖν τὸν λαὸν ἐν ὄρει Γαριζείν ,",
+        "VUL": "Hi stabunt ad benedicéndum pópulo super montem Garízim ,",
+        "SP": "אלה יעמדו ל ברך את ה עם על הרגריזים",
+        "KJV": "These shall stand upon mount Gerizim to bless the people ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when ye are come over Jordan",
+      "traditions": {
+        "WLC": "בְּ עָבְרְ כֶ֖ם אֶת הַ יַּרְדֵּ֑ן",
+        "LXX": "διαβάντες τὸν Ἰορδάνην ·",
+        "VUL": "Iordáne transmísso :",
+        "SP": "ב עברכם את ה ירדן",
+        "KJV": "when ye are come over Jordan ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Simeon , and Levi , and Judah , and Issachar , and Joseph , and Benjamin",
+      "traditions": {
+        "WLC": "שִׁמְעוֹן֙ וְ לֵוִ֣י וִֽ יהוּדָ֔ה וְ יִשָּׂשכָ֖ר וְ יוֹסֵ֥ף וּ בִנְיָמִֽן",
+        "LXX": "Συμεών , Λευεί , Ἰουδά , Ἰσσαχάρ , Ἰωσὴφ καὶ Βενιαμείν .",
+        "VUL": "Símeon , Levi , Iudas , Issachar , Ioseph , et Béniamin .",
+        "SP": "שׁמעון ו לוי יהודה ו ישׂשׂכר יוסף ו בנימים",
+        "KJV": "Simeon , and Levi , and Judah , and Issachar , and Joseph , and Benjamin :",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "And these shall stand upon mount Ebal to curse",
+      "traditions": {
+        "WLC": "וְ אֵ֛לֶּה יַֽעַמְד֥וּ עַל הַ קְּלָלָ֖ה בְּ הַ֣ר עֵיבָ֑ל",
+        "LXX": "καὶ οὗτοι στήσονται ἐπὶ τῆς κατάρας ἐν ὄρει Γαιβάλ ·",
+        "VUL": "Et e regióne isti stabunt ad maledicéndum in monte Hebal :",
+        "SP": "ו אלה יעמדו על ה קללה ב הר עיבל",
+        "KJV": "And these shall stand upon mount Ebal to curse ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Reuben , Gad , and Asher , and Zebulun , Dan , and Naphtali",
+      "traditions": {
+        "WLC": "רְאוּבֵן֙ גָּ֣ד וְ אָשֵׁ֔ר וּ זְבוּלֻ֖ן דָּ֥ן וְ נַפְתָּלִֽי",
+        "LXX": "Ῥουβήν , Γὰδ καὶ Ἀσήρ , Ζαβουλών , Δὰν καὶ Νεφθαλεί .",
+        "VUL": "Ruben , Gad , et Aser , et Zábulon , Dan , et Néphthali .",
+        "SP": "ראובן גד ו אשׁר זבולן דן ו נפתלי",
+        "KJV": "Reuben , Gad , and Asher , and Zebulun , Dan , and Naphtali .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the Levites shall speak",
+      "traditions": {
+        "WLC": "וְ עָנ֣וּ הַ לְוִיִּ֗ם",
+        "LXX": "Καὶ ἀποκριθέντες οἱ Λευεῖται",
+        "VUL": "Et pronuntiábunt Levítæ ,",
+        "SP": "ו ענו ה לוים",
+        "KJV": "And the Levites shall speak ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and say unto all the men of Israel",
+      "traditions": {
+        "WLC": "וְ אָֽמְר֛וּ אֶל כָּל אִ֥ישׁ יִשְׂרָאֵ֖ל",
+        "LXX": "ἐροῦσιν παντὶ Ἰσραὴλ",
+        "VUL": "dicéntque ad omnes viros Israel",
+        "SP": "ו אמרו אל כל אישׁ ישׂראל",
+        "KJV": "and say unto all the men of Israel",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "with a loud voice",
+      "traditions": {
+        "WLC": "ק֥וֹל רָֽם",
+        "LXX": "φωνῇ μεγάλῃ",
+        "VUL": "excélsa voce :",
+        "SP": "קול רם",
+        "KJV": "with a loud voice ,",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] the man that maketh [ any ] graven or molten image",
+      "traditions": {
+        "WLC": "אָר֣וּר הָ אִ֡ישׁ אֲשֶׁ֣ר יַעֲשֶׂה֩ פֶ֨סֶל וּ מַסֵּכָ֜ה",
+        "LXX": "Ἐπικατάρατος ἄνθρωπος ὅστις ποιήσει γλυπτὸν καὶ χωνευτόν ,",
+        "VUL": "Maledíctus homo , qui facit scúlptile et conflátile ,",
+        "SP": "ארור ה אישׁ אשׁר יעשׂה פסל ו מסכה",
+        "KJV": "Cursed [ be ] the man that maketh [ any ] graven or molten image ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "an abomination unto the LORD , the work of the hands of the craftsman",
+      "traditions": {
+        "WLC": "תּוֹעֲבַ֣ת יְהוָ֗ה מַעֲשֵׂ֛ה יְדֵ֥י חָרָ֖שׁ",
+        "LXX": "βδέλυγμα Κυρίῳ , ἔργον χειρῶν τεχνιτῶν ,",
+        "VUL": "abominatiónem Dómini , opus mánuum artíficum ,",
+        "SP": "תועבת יהוה מעשׂה ידי חרשׁ",
+        "KJV": "an abomination unto the LORD , the work of the hands of the craftsman ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and putteth [ it ] in [ a ] secret [ place ]",
+      "traditions": {
+        "WLC": "וְ שָׂ֣ם בַּ סָּ֑תֶר",
+        "LXX": "καὶ θήσει αὐτὸ ἐν ἀποκρύφῳ .",
+        "VUL": "ponétque illud in abscóndito :",
+        "SP": "ו שׂם ב סתר",
+        "KJV": "and putteth [ it ] in [ a ] secret [ place ] .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "And all the people shall answer and say , Amen",
+      "traditions": {
+        "WLC": "וְ עָנ֧וּ כָל הָ עָ֛ם וְ אָמְר֖וּ אָמֵֽן",
+        "LXX": "καὶ ἀποκριθεὶς ὁ λαὸς ἐροῦσιν Γένοιτο .",
+        "VUL": "et respondébit omnis pópulus , et dicet : Amen .",
+        "SP": "ו ענו כל ה עם ו אמרו אמן",
+        "KJV": "And all the people shall answer and say , Amen .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that setteth light by his father or his mother",
+      "traditions": {
+        "WLC": "אָר֕וּר מַקְלֶ֥ה אָבִ֖י ו וְ אִמּ֑ וֹ",
+        "LXX": "Ἐπικατάρατος ὁ ἀτιμάζων πατέρα αὐτοῦ ἢ μητέρα αὐτοῦ .",
+        "VUL": "Maledíctus qui non honórat patrem suum , et matrem :",
+        "SP": "ארור מקלה אביו ו אמו",
+        "KJV": "Cursed [ be ] he that setteth light by his father or his mother .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that removeth his neighbour ’s landmark",
+      "traditions": {
+        "WLC": "אָר֕וּר מַסִּ֖יג גְּב֣וּל רֵעֵ֑ הוּ",
+        "LXX": "Ἐπικατάρατος ὁ μετατιθεὶς ὅρια τοῦ πλησίον .",
+        "VUL": "Maledíctus qui transfert términos próximi sui :",
+        "SP": "ארור מסיג גבול רעהו",
+        "KJV": "Cursed [ be ] he that removeth his neighbour ’s landmark .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that maketh the blind to wander out of the way",
+      "traditions": {
+        "WLC": "אָר֕וּר מַשְׁגֶּ֥ה עִוֵּ֖ר בַּ דָּ֑רֶךְ",
+        "LXX": "Ἐπικατάρατος ὁ πλανῶν τυφλὸν ἐν ὁδῷ .",
+        "VUL": "Maledíctus qui erráre facit cæcum in itínere :",
+        "SP": "ארור משׁגה עור ב דרך",
+        "KJV": "Cursed [ be ] he that maketh the blind to wander out of the way .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that perverteth the judgment of the stranger , fatherless , and widow",
+      "traditions": {
+        "WLC": "אָר֗וּר מַטֶּ֛ה מִשְׁפַּ֥ט גֵּר יָת֖וֹם וְ אַלְמָנָ֑ה",
+        "LXX": "Ἐπικατάρατος ὃς ἂν ἐκκλίνῃ κρίσιν προσηλύτου καὶ ὀρφανοῦ καὶ χήρας .",
+        "VUL": "Maledíctus qui pervértit iudícium ádvenæ , pupílli et víduæ :",
+        "SP": "ארור מטה משׁפט גר יתום ו אלמנה",
+        "KJV": "Cursed [ be ] he that perverteth the judgment of the stranger , fatherless , and widow .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that lieth with his father ’s wife",
+      "traditions": {
+        "WLC": "אָר֗וּר שֹׁכֵב֙ עִם אֵ֣שֶׁת אָבִ֔י",
+        "LXX": "Ἐπικατάρατος ὁ κοιμώμενος μετὰ γυναικὸς ἐκ πατρὸς αὐτοῦ ,",
+        "VUL": "Maledíctus qui dormit cum uxóre patris sui ,",
+        "SP": "ארור שׁכב עם אשׁת אביו",
+        "KJV": "Cursed [ be ] he that lieth with his father ’s wife ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "because he uncovereth his father ’s skirt",
+      "traditions": {
+        "WLC": "ו כִּ֥י גִלָּ֖ה כְּנַ֣ף אָבִ֑י",
+        "LXX": "ὅτι ἀπεκάλυψεν συνκάλυμμα τοῦ πατρὸς αὐτοῦ .",
+        "VUL": "et revélat operiméntum léctuli eius :",
+        "SP": "כי גלה כנף אביו",
+        "KJV": "because he uncovereth his father ’s skirt .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "ו וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that lieth with any manner of beast",
+      "traditions": {
+        "WLC": "אָר֕וּר שֹׁכֵ֖ב עִם כָּל בְּהֵמָ֑ה",
+        "LXX": "Ἐπικατάρατος ὁ κοιμώμενος μετὰ παντὸς κτήνους .",
+        "VUL": "Maledíctus qui dormit cum omni iuménto :",
+        "SP": "ארור שׁכב עם כל בהמה",
+        "KJV": "Cursed [ be ] he that lieth with any manner of beast .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that lieth with his sister , the daughter of his father , or the daughter of his mother",
+      "traditions": {
+        "WLC": "אָר֗וּר שֹׁכֵב֙ עִם אֲחֹת֔ וֹ בַּת אָבִ֖י ו א֣וֹ בַת אִמּ֑ וֹ",
+        "LXX": "Ἐπικατάρατος ὁ κοιμώμενος μετὰ ἀδελφῆς πατρὸς ἢ μητρὸς αὐτοῦ .",
+        "VUL": "Maledíctus qui dormit cum soróre sua , fília patris sui , vel matris suæ :",
+        "SP": "ארור שׁכב עם אחותו בת אביו או בת אמו",
+        "KJV": "Cursed [ be ] he that lieth with his sister , the daughter of his father , or the daughter of his mother .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that lieth with his mother in law",
+      "traditions": {
+        "WLC": "אָר֕וּר שֹׁכֵ֖ב עִם חֹֽתַנְתּ֑ וֹ",
+        "LXX": "Ἐπικατάρατος ὁ κοιμώμενος μετὰ νύμφης αὐτοῦ .",
+        "VUL": "Maledíctus qui dormit cum socru sua :",
+        "SP": "ארור שׁכב עם חתנתו",
+        "KJV": "Cursed [ be ] he that lieth with his mother in law .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "Ἐπικατάρατος ὁ κοιμώμενος μετὰ ἀδελφῆς γυναικὸς αὐτοῦ . καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that smiteth his neighbour secretly",
+      "traditions": {
+        "WLC": "אָר֕וּר מַכֵּ֥ה רֵעֵ֖ הוּ בַּ סָּ֑תֶר",
+        "LXX": "Ἐπικατάρατος ὁ τύπτων τὸν πλησίον αὐτοῦ δόλῳ .",
+        "VUL": "Maledíctus qui clam percússerit próximum suum :",
+        "SP": "ארור מכה רעהו ב סתר",
+        "KJV": "Cursed [ be ] he that smiteth his neighbour secretly .",
+        "DSS": "[4Q30] ε א[ רור ] [ מכה רע׳הו ב סתר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": "ו אמר כל ה עם אמן ] ׃"
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that taketh reward to slay an innocent person",
+      "traditions": {
+        "WLC": "אָרוּר֙ לֹקֵ֣חַ שֹׁ֔חַד לְ הַכּ֥וֹת נֶ֖פֶשׁ דָּ֣ם נָקִ֑י",
+        "LXX": "Ἐπικατάρατος ὃς ἂν λάβῃ δῶρα πατάξαι ψυχὴν αἵματος ἀθῴου .",
+        "VUL": "Maledíctus qui áccipit múnera , ut percútiat ánimam sánguinis innocéntis :",
+        "SP": "ארור לקח שׁחד ל הכות נפשׁ דם נקיא",
+        "KJV": "Cursed [ be ] he that taketh reward to slay an innocent person .",
+        "DSS": "[4Q30] ארור ל##ק##ח## שחד# [ ל הכות נפש דם נקי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": "ו אמר כל ה עם אמן ׃"
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "Cursed [ be ] he that confirmeth not [ all ] the words of this law to do them",
+      "traditions": {
+        "WLC": "אָר֗וּר אֲשֶׁ֧ר לֹא יָקִ֛ים אֶת דִּבְרֵ֥י הַ תּוֹרָֽה הַ זֹּ֖את לַ עֲשׂ֣וֹת אוֹתָ֑ ם",
+        "LXX": "Ἐπικατάρατος πᾶς ἄνθρωπος ὃς οὐκ ἐμμένει ἐν πᾶσιν τοῖς λόγοις τοῦ νόμου τούτου ποιῆσαι αὐτούς .",
+        "VUL": "Maledíctus qui non pérmanet in sermónibus legis huius , nec eos ópere pérficit :",
+        "SP": "ארור אשׁר לא יקים את כל דברי ה תורה ה זאת ל עשׂותם",
+        "KJV": "Cursed [ be ] he that confirmeth not [ all ] the words of this law to do them .",
+        "DSS": "[4Q30] א ]ר##ו#?ר## א#ש##[ ר לא ] [ יקים את דברי ה תורה ה ז ]את## ל## [ ע ]ש##[ ות אות׳ם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "And all the people shall say , Amen",
+      "traditions": {
+        "WLC": "וְ אָמַ֥ר כָּל הָ עָ֖ם אָמֵֽן",
+        "LXX": "καὶ ἐροῦσιν πᾶς ὁ λαός Γένοιτο .",
+        "VUL": "et dicet omnis pópulus : Amen .",
+        "SP": "ו אמרו כל ה עם אמן",
+        "KJV": "And all the people shall say , Amen .",
+        "DSS": "ו ] א##מרו כ##[ ל ה ע ]ם אמן ׃"
+      }
+    }
+  ]
+}

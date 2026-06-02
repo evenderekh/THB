@@ -1,0 +1,846 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "The people that walked in darkness have seen a great light",
+      "traditions": {
+        "WLC": "הָ עָם֙ הַ הֹלְכִ֣ים בַּ חֹ֔שֶׁךְ רָא֖וּ א֣וֹר גָּד֑וֹל",
+        "LXX": "Τοῦτο πρῶτον πίε , ταχὺ ποίει , χώρα Ζαβουλών , ἡ γῆ Νεφθαλείμ ,",
+        "VUL": "Pópulus , qui ambulábat in ténebris , vidit lucem magnam :",
+        "SP": null,
+        "KJV": "The people that walked in darkness have seen a great light :",
+        "DSS": "[1Qisaa] ה עמ ה הולכים ב חושך ראו אור גדול"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they that dwell in the land of the shadow of death",
+      "traditions": {
+        "WLC": "יֹשְׁבֵי֙ בְּ אֶ֣רֶץ צַלְמָ֔וֶת",
+        "LXX": "καὶ οἱ λοιποὶ οἱ τὴν παραλίαν καὶ πέραν τοῦ Ἰορδάνου , Γαλειλαία τῶν ἐθνῶν .",
+        "VUL": "habitántibus in regióne umbræ mortis ,",
+        "SP": null,
+        "KJV": "they that dwell in the land of the shadow of death ,",
+        "DSS": "יושבי ב ארץ צלמות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "upon them hath the light shined",
+      "traditions": {
+        "WLC": "א֖וֹר נָגַ֥הּ עֲלֵי הֶֽם",
+        "LXX": null,
+        "VUL": "lux orta est eis .",
+        "SP": null,
+        "KJV": "upon them hath the light shined .",
+        "DSS": "אור נגה עלי׳הם ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou hast multiplied the nation",
+      "traditions": {
+        "WLC": "הִרְבִּ֣יתָ הַ גּ֔וֹי",
+        "LXX": "ὁ λαὸς ὁ πορευόμενος ἐν σκότει ,",
+        "VUL": "Multiplicásti gentem ,",
+        "SP": null,
+        "KJV": "Thou hast multiplied the nation , [ and ]",
+        "DSS": "[1Qisaa] הרביתה ה גוי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ and ] not increased the joy",
+      "traditions": {
+        "WLC": "לא הִגְדַּ֣לְתָּ הַ שִּׂמְחָ֑ה",
+        "LXX": "ἴδετε φῶς μέγα ·",
+        "VUL": "et non magnificásti lætítiam .",
+        "SP": null,
+        "KJV": "not increased the joy :",
+        "DSS": "לוא הגדלתה ה שמחה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they joy before thee according to the joy in harvest",
+      "traditions": {
+        "WLC": "שָׂמְח֤וּ לְ פָנֶ֨י ךָ֙ כְּ שִׂמְחַ֣ת בַּ קָּצִ֔יר",
+        "LXX": "οἱ κατοικοῦντες ἐν χώρᾳ σκιᾷ θανάτου ,",
+        "VUL": "Lætabúntur coram te , sicut qui lætántur in messe :",
+        "SP": null,
+        "KJV": "they joy before thee according to the joy in harvest , [ and ]",
+        "DSS": "שמחו ל פני׳ך כ שמחת ב קציר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ and ] as [ men ] rejoice when they divide the spoil",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֥ר יָגִ֖ילוּ בְּ חַלְּקָ֥ ם שָׁלָֽל",
+        "LXX": "φῶς λάμψει ἐφ᾽ ὑμᾶς .",
+        "VUL": "sicut exsúltant victóres capta præda , quando dívidunt spólia .",
+        "SP": null,
+        "KJV": "as [ men ] rejoice when they divide the spoil .",
+        "DSS": "כ אשר יגילו ב חלק׳ם שלל ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thou hast broken the yoke of his burden",
+      "traditions": {
+        "WLC": "כִּ֣י אֶת עֹ֣ל סֻבֳּל֗ וֹ",
+        "LXX": "τὸ πλεῖστον τοῦ λαοῦ ὃ κατήγαγες ἐν εὐφροσύνῃ σου ,",
+        "VUL": "Iugum enim óneris eius ,",
+        "SP": null,
+        "KJV": "For thou hast broken the yoke of his burden ,",
+        "DSS": "[1Qisaa] כי את עול׳{{ ו }} סבל׳ו / [4Q57] [ ו את מטה שכמ׳ו שבט ה נגש ב׳ו הח ]ת##ותי כ##[  יום מדין ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the staff of his shoulder",
+      "traditions": {
+        "WLC": "וְ אֵת֙ מַטֵּ֣ה שִׁכְמ֔ וֹ",
+        "LXX": "καὶ εὐφρανθήσονται ἐνώπιόν σου ὡς οἱ εὐφραινόμενοι ἐν ἀμήτῳ ,",
+        "VUL": "et virgam húmeri eius ,",
+        "SP": null,
+        "KJV": "and the staff of his shoulder ,",
+        "DSS": "[1Qisaa] ו את מטה שכמ׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "the rod of his oppressor",
+      "traditions": {
+        "WLC": "שֵׁ֖בֶט הַ נֹּגֵ֣שׂ בּ֑ וֹ",
+        "LXX": "καὶ ὃν τρόπον οἱ διαιρούμενοι σκῦλα .",
+        "VUL": "et sceptrum exactóris eius",
+        "SP": null,
+        "KJV": "the rod of his oppressor ,",
+        "DSS": "[1Qisaa] שבט ה נוגש ב׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "as in the day of Midian",
+      "traditions": {
+        "WLC": "הַחִתֹּ֖תָ כְּ י֥וֹם מִדְיָֽן",
+        "LXX": null,
+        "VUL": "superásti sicut in die Mádian .",
+        "SP": null,
+        "KJV": "as in the day of Midian .",
+        "DSS": "[1Qisaa] ו? החתת כ יום מדים ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "For every battle of the warrior [ is ] with confused noise",
+      "traditions": {
+        "WLC": "כִּ֤י כָל סְאוֹן֙ סֹאֵ֣ן בְּ רַ֔עַשׁ",
+        "LXX": "διότι ἀφῄρηται ὁ ζυγὸς ὁ ἐπ᾽ αὐτῶν κείμενος ,",
+        "VUL": "Quia omnis violénta prædátio cum tumúltu ,",
+        "SP": null,
+        "KJV": "For every battle of the warrior [ is ] with confused noise ,",
+        "DSS": "[1Qisaa] כי כול סאון סאן ב רעש / [4Q57] כי כל סאון סאן ב רעש ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and garments rolled in blood",
+      "traditions": {
+        "WLC": "וְ שִׂמְלָ֖ה מְגוֹלָלָ֣ה בְ דָמִ֑ים",
+        "LXX": "καὶ ἡ ῥάβδος ἡ ἐπὶ τοῦ τραχήλου αὐτῶν ·",
+        "VUL": "et vestiméntum mistum sánguine ,",
+        "SP": null,
+        "KJV": "and garments rolled in blood ;",
+        "DSS": "[1Qisaa] ו שמלה מגוללה ב דמים / [4Q57] [ ו שמלה מגוללה ב דמי ]ם#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "but [ this ] shall be with burning [ and ] fuel of fire",
+      "traditions": {
+        "WLC": "וְ הָיְתָ֥ה לִ שְׂרֵפָ֖ה מַאֲכֹ֥לֶת אֵֽשׁ",
+        "LXX": "τὴν γὰρ ῥάβδον τῶν ἀπαιτούντων διεσκέδασεν ὡς τῇ ἡμέρᾳ τῇ ἐπὶ Μαδιάμ .",
+        "VUL": "erit in combustiónem , et cibus ignis .",
+        "SP": null,
+        "KJV": "but [ this ] shall be with burning [ and ] fuel of fire .",
+        "DSS": "[1Qisaa] ו היתה ל שרפה מאכלת אש ׃ / [4Q57] ו#? היתה ל## שר##[ פה מאכלת אש ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "For unto us a child is born",
+      "traditions": {
+        "WLC": "כִּי יֶ֣לֶד יֻלַּד לָ֗ נוּ",
+        "LXX": "ὅτι πᾶσαν στολὴν ἐπισυνηγμένην δόλῳ",
+        "VUL": "Párvulus enim natus est nobis ,",
+        "SP": null,
+        "KJV": "For unto us a child is born ,",
+        "DSS": "[1Qisaa] כי ילד יולד ל׳נו / [4Q57] כי ילד ילד ל׳נו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "unto us a son is given",
+      "traditions": {
+        "WLC": "בֵּ֚ן נִתַּן לָ֔ נוּ",
+        "LXX": "καὶ ἱμάτιον μετὰ καταλλαγῆς ἀποτίσουσιν ,",
+        "VUL": "et fílius datus est nobis ,",
+        "SP": null,
+        "KJV": "unto us a son is given :",
+        "DSS": "[1Qisaa] בן נתן ל׳נו / [4Q57] בן ] [ נתן ל׳נו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the government shall be upon his shoulder",
+      "traditions": {
+        "WLC": "וַ תְּהִ֥י הַ מִּשְׂרָ֖ה עַל שִׁכְמ֑ וֹ",
+        "LXX": "καὶ θελήσουσιν εἰ ἐγένοντο πυρίκαυστοι .",
+        "VUL": "et factus est principátus super húmerum eius :",
+        "SP": null,
+        "KJV": "and the government shall be upon his shoulder :",
+        "DSS": "[1Qisaa] ו תהי(^ י ^) ה משורה על שכמ׳ו / [4Q57] ו תהי ה משרה ע ]ל שכמ׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and his name shall be called Wonderful , Counseller , The mighty God , The everlasting Father , The Prince of Peace",
+      "traditions": {
+        "WLC": "וַ יִּקְרָ֨א שְׁמ֜ וֹ פֶּ֠לֶא יוֹעֵץ֙ אֵ֣ל גִּבּ֔וֹר אֲבִי עַ֖ד שַׂר שָׁלֽוֹם",
+        "LXX": null,
+        "VUL": "et vocábitur nomen eius , Admirábilis , Consiliárius , Deus , Fortis , Pater futúri sǽculi , Princeps pacis .",
+        "SP": null,
+        "KJV": "and his name shall be called Wonderful , Counseller , The mighty God , The everlasting Father , The Prince of Peace .",
+        "DSS": "[1Qisaa] ו קרא שמ׳ו פלא יועץ אל גבור אבי עד שר ה שלום ׃ / [4Q57] ו יקרא שמ׳ו פל##א##[  יועץ אל גבור אבי עד ] [ שר שלום ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Of the increase of [ his ] government and peace [ there shall be ] no end ,",
+      "traditions": {
+        "WLC": "ל םרבה הַ מִּשְׂרָ֜ה וּ לְ שָׁל֣וֹם אֵֽין קֵ֗ץ",
+        "LXX": "ὅτι παιδίον ἐγεννήθη ἡμῖν , υἱὸς ἐδόθη ἡμῖν , οὗ ἡ ἀρχὴ ἐγενήθη ἐπὶ τοῦ ὤμου αὐτοῦ , καὶ καλεῖται τὸ ὄνομα αὐτοῦ Μεγάλης βουλῆς ἄγγελος · ἄξω γὰρ εἰρήνην ἐπὶ τοὺς ἄρχοντας καὶ ὑγείαν αὐτῷ .",
+        "VUL": "Multiplicábitur eius impérium , et pacis non erit finis :",
+        "SP": null,
+        "KJV": "Of the increase of [ his ] government and peace [ there shall be ] no end ,",
+        "DSS": "[1Qisaa] ל מרבה ה מש(^ ו? ^)רה ו ל שלום אין קץ / [4Q57] ל מרבה ה משר ]ה ו ל שלום# אין קץ"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "upon the throne of David , and upon his kingdom ,",
+      "traditions": {
+        "WLC": "עַל כִּסֵּ֤א דָוִד֙ וְ עַל מַמְלַכְתּ֔ וֹ",
+        "LXX": null,
+        "VUL": "super sólium David , et super regnum eius sedébit ,",
+        "SP": null,
+        "KJV": "upon the throne of David , and upon his kingdom ,",
+        "DSS": "[1Qisaa] על כסה דויד ו על ממלכת׳ו / [4Q57] על כ##סיא# ד##[ ויד ו על ממלכת׳ו ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to order it , and to establish it with judgment and with justice from henceforth even for ever .",
+      "traditions": {
+        "WLC": "לְ הָכִ֤ין אֹתָ הּ֙ וּֽ לְ סַעֲדָ֔ הּ בְּ מִשְׁפָּ֖ט וּ בִ צְדָקָ֑ה מֵ עַתָּה֙ וְ עַד עוֹלָ֔ם",
+        "LXX": null,
+        "VUL": "ut confírmet illud et corróboret in iudício et iustítia , ámodo et usque in sempitérnum :",
+        "SP": null,
+        "KJV": "to order it , and to establish it with judgment and with justice from henceforth even for ever .",
+        "DSS": "[1Qisaa] ל הכין אות׳ו ו ל סעד׳ו? ב משפט ו ב צדקה מ עתה ו עד עולם / [4Q57] [ ל הכין את׳ה ו ל סעד׳ה ב משפט ו ב צ ]ד##קה מ עתה [ ו  ]ע#ד עולם["
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "The zeal of the LORD of hosts will perform this .",
+      "traditions": {
+        "WLC": "קִנְאַ֛ת יְהוָ֥ה צְבָא֖וֹת תַּעֲשֶׂה זֹּֽאת",
+        "LXX": null,
+        "VUL": "zelus Dómini exercítuum fáciet hoc .",
+        "SP": null,
+        "KJV": "The zeal of the LORD of hosts will perform this .",
+        "DSS": "[1Qisaa] קנאת יהוה צבאות תעשה זאות# ׃ / [4Q57] קנאת יהוה ] [ צבאות תעשה זאת ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "The Lord sent a word into Jacob ,",
+      "traditions": {
+        "WLC": "דָּבָ֛ר שָׁלַ֥ח אֲדֹנָ֖ י בְּ יַעֲקֹ֑ב",
+        "LXX": "μεγάλη ἡ ἀρχὴ αὐτοῦ , καὶ τῆς εἰρήνης αὐτοῦ οὐκ ἔστιν ὅριον , ἐπὶ τὸν θρόνον Δαυεὶδ καὶ τὴν βασιλείαν αὐτοῦ , κατορθῶσαι αὐτὴν καὶ ἀντιλαβέσθαι ἐν κρίματι καὶ ἐν δικαιοσύνῃ , ἀπὸ τοῦ νῦν καὶ εἰς τὸν αἰῶνα · ὁ ζῆλος Κυρίου σαβαὼθ ποιήσει ταῦτα .",
+        "VUL": "Verbum misit Dóminus in Iacob ,",
+        "SP": null,
+        "KJV": "The Lord sent a word into Jacob ,",
+        "DSS": "[1Qisaa] דבר שלח יהוה ב י(^ ע ^)קוב / [4Q57] [ דבר שלח אדני ב יעקב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and it hath lighted upon Israel .",
+      "traditions": {
+        "WLC": "וְ נָפַ֖ל בְּ יִשְׂרָאֵֽל",
+        "LXX": null,
+        "VUL": "et cécidit in Israel .",
+        "SP": null,
+        "KJV": "and it hath lighted upon Israel .",
+        "DSS": "[1Qisaa] ו נפל ב ישראל ׃ / [4Q57] ו נפל ב ישרא ]ל#[ ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And all the people shall know , [ even ] Ephraim and the inhabitant of Samaria ,",
+      "traditions": {
+        "WLC": "וְ יָדְעוּ֙ הָ עָ֣ם כֻּלּ֔ וֹ אֶפְרַ֖יִם וְ יוֹשֵׁ֣ב שֹׁמְר֑וֹן",
+        "LXX": "Θάνατον ἀπέστειλεν Κύριος ἐπὶ Ἰακώβ , καὶ ἦλθεν ἐπὶ Ἰσραήλ .",
+        "VUL": "Et sciet omnis pópulus Ephraim , et habitántes Samaríam ,",
+        "SP": null,
+        "KJV": "And all the people shall know , [ even ] Ephraim and the inhabitant of Samaria ,",
+        "DSS": "[1Qisaa] ו ירע#ו ה עם כל׳ו אפרים ו יושב##י#? שמרון / [4Q57] ו ידעו ה  ]ע##ם כול׳ו אפר##[ ים ו יושב שמרון ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that say in the pride and stoutness of heart ,",
+      "traditions": {
+        "WLC": "בְּ גַאֲוָ֛ה וּ בְ גֹ֥דֶל לֵבָ֖ב לֵ אמֹֽר",
+        "LXX": null,
+        "VUL": "in supérbia et magnitúdine cordis dicéntes :",
+        "SP": null,
+        "KJV": "that say in the pride and stoutness of heart ,",
+        "DSS": "[1Qisaa] ב גאוה ו ב גדל לבב ל אמור ׃ / [4Q57] [ ב גאוה ו ב גדל לבב ל אמר ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The bricks are fallen down , but we will build with hewn stones :",
+      "traditions": {
+        "WLC": "לְבֵנִ֥ים נָפָ֖לוּ וְ גָזִ֣ית נִבְנֶ֑ה",
+        "LXX": "καὶ γνώσονται πᾶς ὁ λαὸς τοῦ Ἐφράιμ καὶ οἱ καθήμενοι ἐν Σαμαρείᾳ , ἐφ᾽ ὕβρει καὶ ὑψηλῇ καρδίᾳ λέγοντες .",
+        "VUL": "Láteres cecidérunt , sed quadris lapídibus ædificábimus :",
+        "SP": null,
+        "KJV": "The bricks are fallen down , but we will build with hewn stones :",
+        "DSS": "[1Qisaa] לבנים נפלו ו גזית נבנ?ה / [4Q57] לבנים נפלו ו גזית ] נ?בנה#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the sycomores are cut down , but we will change [ them into ] cedars .",
+      "traditions": {
+        "WLC": "שִׁקְמִ֣ים גֻּדָּ֔עוּ וַ אֲרָזִ֖ים נַחֲלִֽיף",
+        "LXX": null,
+        "VUL": "sycómoros succidérunt , sed cedros immutábimus .",
+        "SP": null,
+        "KJV": "the sycomores are cut down , but we will change [ them into ] cedars .",
+        "DSS": "[1Qisaa] שקמים גדעו ו ארזים נחליף ׃ / [4Q57] שוקמי[ ם גדעו ו ארזים ] [ נחליף ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore the LORD shall set up the adversaries of Rezin against him ,",
+      "traditions": {
+        "WLC": "וַ יְשַׂגֵּ֧ב יְהוָ֛ה אֶת צָרֵ֥י רְצִ֖ין עָלָ֑י",
+        "LXX": "Πλίνθοι πεπτώκασιν , ἀλλὰ δεῦτε λαξεύσωμεν λίθους , καὶ κόψωμεν συκαμίνους καὶ κέδρους , καὶ οἰκοδομήσωμεν ἑαυτοῖς πύργον .",
+        "VUL": "Et elevábit Dóminus hostes Rasin super eum ,",
+        "SP": null,
+        "KJV": "Therefore the LORD shall set up the adversaries of Rezin against him ,",
+        "DSS": "[1Qisaa] ו ישגב יה##[ וה  ]את צרי רציאן עלי׳ו / [4Q56] ε ו ישגב יהוה את צר ]י? רצין עלי׳ו / [4Q57] ו ישגב יהוה את צרי רצין על ]י#?׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and join his enemies together ;",
+      "traditions": {
+        "WLC": "ו וְ אֶת אֹיְבָ֖י ו יְסַכְסֵֽךְ",
+        "LXX": null,
+        "VUL": "et inimícos eius in tumúltum vertet .",
+        "SP": null,
+        "KJV": "and join his enemies together ;",
+        "DSS": "[1Qisaa] ו את אויבי׳ו יסכסך ׃ / [4Q56] ו את איבי׳ו יסכסך ׃ / [4Q57] ו את א(^ ו ^)יבי׳ו יסכס#[ ך ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "The Syrians before , and the Philistines behind",
+      "traditions": {
+        "WLC": "אֲרָ֣ם מִ קֶּ֗דֶם וּ פְלִשְׁתִּים֙ מֵֽ אָח֔וֹר",
+        "LXX": "καὶ ῥάξει ὁ θεὸς τοὺς ἐπανισταμένους ἐπὶ ὄρος Σειὼν ἐπ᾽ αὐτόν , καὶ τοὺς ἐχθροὺς διασκεδάσει ,",
+        "VUL": "Sýriam ab oriénte , et Philísthiim ab occidénte :",
+        "SP": null,
+        "KJV": "The Syrians before , and the Philistines behind ;",
+        "DSS": "[1Qisaa] ארם מ קדם ו פלש#[ תיים מ א ]חור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and they shall devour Israel with open mouth",
+      "traditions": {
+        "WLC": "וַ יֹּאכְל֥וּ אֶת יִשְׂרָאֵ֖ל בְּ כָל פֶּ֑ה",
+        "LXX": null,
+        "VUL": "et devorábunt Israel toto ore .",
+        "SP": null,
+        "KJV": "and they shall devour Israel with open mouth .",
+        "DSS": "[1Qisaa] ו יאכלו? את ישראל ב כול פה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "For all this his anger is not turned away",
+      "traditions": {
+        "WLC": "בְּ כָל זֹאת֙ לֹא שָׁ֣ב אַפּ֔ וֹ",
+        "LXX": null,
+        "VUL": "In ómnibus his non est avérsus furor eius ,",
+        "SP": null,
+        "KJV": "For all this his anger is not turned away ,",
+        "DSS": "[1Qisaa] ו ב כול ז(^ ו ^)ות# לוא שב אפ׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "but his hand [ is ] stretched out still",
+      "traditions": {
+        "WLC": "וְ ע֖וֹד יָד֥ וֹ נְטוּיָֽה",
+        "LXX": null,
+        "VUL": "sed adhuc manus eius exténta .",
+        "SP": null,
+        "KJV": "but his hand [ is ] stretched out still .",
+        "DSS": "[1Qisaa] ו עוד יד׳יו נטויה ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the people turneth not unto him that smiteth them",
+      "traditions": {
+        "WLC": "וְ הָ עָ֥ם לֹא שָׁ֖ב עַד הַ מַּכֵּ֑ הוּ",
+        "LXX": "Συρίαν ἀφ᾽ ἡλίου ἀνατολῶν καὶ τοὺς Ἕλληνας ἀφ᾽ ἡλίου δυσμῶν , τοὺς κατεσθίοντας τὸν Ἰσραὴλ ὅλῳ τῷ στόματι . ἐπὶ τούτοις πᾶσιν οὐκ ἀπεστράφη ὁ θυμός , ἀλλ᾽ ἔτι ἡ χεὶρ ὑψηλή .",
+        "VUL": "Et pópulus non est revérsus ad percutiéntem se ,",
+        "SP": null,
+        "KJV": "For the people turneth not unto him that smiteth them ,",
+        "DSS": "[1Qisaa] ו ה עם לוא שב על (^ ה ^) מכ׳הו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither do they seek the LORD of hosts",
+      "traditions": {
+        "WLC": "וְ אֶת יְהוָ֥ה צְבָא֖וֹת לֹ֥א דָרָֽשׁוּ",
+        "LXX": null,
+        "VUL": "et Dóminum exercítuum non inquisiérunt .",
+        "SP": null,
+        "KJV": "neither do they seek the LORD of hosts .",
+        "DSS": "[1Qisaa] ו את יהוה צבאות לוא דרשו ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore the LORD will cut off from Israel head and tail",
+      "traditions": {
+        "WLC": "וַ יַּכְרֵ֨ת יְהוָ֜ה מִ יִּשְׂרָאֵ֗ל רֹ֧אשׁ וְ זָנָ֛ב",
+        "LXX": "καὶ ὁ λαὸς οὐκ ἐπεστράφη ἕως ἐπλήγη , καὶ τὸν κύριον οὐκ ἐζήτησαν .",
+        "VUL": "Et dispérdet Dóminus ab Israel caput et caudam ,",
+        "SP": null,
+        "KJV": "Therefore the LORD will cut off from Israel head and tail ,",
+        "DSS": "[1Qisaa] ו יכרת יהוה מ ישראל ראש ו זנב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "branch and rush , in one day",
+      "traditions": {
+        "WLC": "כִּפָּ֥ה וְ אַגְמ֖וֹן י֥וֹם אֶחָֽד",
+        "LXX": null,
+        "VUL": "incurvántem et refrenántem die una .",
+        "SP": null,
+        "KJV": "branch and rush , in one day .",
+        "DSS": "[1Qisaa] כפה ו אגמן ב יום אחד ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "Καὶ ἀφεῖλεν Κύριος ἀπὸ Ἰσραὴλ κεφαλὴν καὶ οὐράν , μέγαν καὶ μικρὸν ἐν μιᾷ ἡμέρᾳ , πρεσβύτην καὶ τοὺς τὰ πρόσωπα θαυμάζοντας ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The ancient and honourable , he [ is ] the head ;",
+      "traditions": {
+        "WLC": "זָקֵ֥ן וּ נְשׂוּא פָנִ֖ים ה֣וּא הָ רֹ֑אשׁ",
+        "LXX": "αὕτη ἡ ἀρχή ,",
+        "VUL": "Longǽvus et honorábilis , ipse est caput :",
+        "SP": null,
+        "KJV": "The ancient and honourable , he [ is ] the head ;",
+        "DSS": "[1Qisaa] זקן ו נשא פנים הוא ה ר(^ ו ^)אש"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the prophet that teacheth lies , he [ is ] the tail .",
+      "traditions": {
+        "WLC": "וְ נָבִ֥יא מֽוֹרֶה שֶּׁ֖קֶר ה֥וּא הַ זָּנָֽב",
+        "LXX": null,
+        "VUL": "et prophéta docens mendácium , ipse est cauda .",
+        "SP": null,
+        "KJV": "and the prophet that teacheth lies , he [ is ] the tail .",
+        "DSS": "ו נביא מורה שקר הוא ה זנב ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the leaders of this people cause [ them ] to err ;",
+      "traditions": {
+        "WLC": "וַ יִּֽהְי֛וּ מְאַשְּׁרֵ֥י הָֽ עָם הַ זֶּ֖ה מַתְעִ֑ים",
+        "LXX": "καὶ προφήτην διδάσκοντα ἄνομα ,",
+        "VUL": "Et erunt , qui beatíficant pópulum istum , seducéntes :",
+        "SP": null,
+        "KJV": "For the leaders of this people cause [ them ] to err ;",
+        "DSS": "[1Qisaa] ו יהיו מאשרי ה עם ה זה מתעים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and [ they that are ] led of them [ are ] destroyed .",
+      "traditions": {
+        "WLC": "וּ מְאֻשָּׁרָ֖י ו מְבֻלָּעִֽים",
+        "LXX": "οὗτος ἡ οὐρά .",
+        "VUL": "et qui beatificántur , præcipitáti .",
+        "SP": null,
+        "KJV": "and [ they that are ] led of them [ are ] destroyed .",
+        "DSS": "ו מאשרי׳ו מבלעים ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore the Lord shall have no joy in their young men ,",
+      "traditions": {
+        "WLC": "עַל כֵּ֨ן עַל בַּחוּרָ֜י ו לֹֽא יִשְׂמַ֣ח אֲדֹנָ֗ י",
+        "LXX": "καὶ ἔσονται οἱ μακαρίζοντες τὸν λαὸν τοῦτον πλανῶντες ,",
+        "VUL": "Propter hoc super adolescéntulis eius non lætábitur Dóminus ,",
+        "SP": null,
+        "KJV": "Therefore the Lord shall have no joy in their young men ,",
+        "DSS": "[1Qisaa] על כן על בחורי׳ו לוא יחמ(^ ו ^)ל אדוני"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither shall have mercy on their fatherless and widows :",
+      "traditions": {
+        "WLC": "וְ אֶת יְתֹמָ֤י ו וְ אֶת אַלְמְנֹתָי ו֙ לֹ֣א יְרַחֵ֔ם",
+        "LXX": "καὶ πλανῶσιν ὅπως καταπίνωσιν αὐτούς .",
+        "VUL": "et pupillórum eius et viduárum non miserébitur :",
+        "SP": null,
+        "KJV": "neither shall have mercy on their fatherless and widows :",
+        "DSS": "ו את יתומי׳ו ו את אלמנותי׳ו לוא ירחם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for every one [ is ] an hypocrite and an evildoer ,",
+      "traditions": {
+        "WLC": "כִּ֤י כֻלּ וֹ֙ חָנֵ֣ף וּ מֵרַ֔ע",
+        "LXX": null,
+        "VUL": "quia omnis hypócrita est et nequam ,",
+        "SP": null,
+        "KJV": "for every one [ is ] an hypocrite and an evildoer ,",
+        "DSS": "כי כול׳ו חנפ ו מרע"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and every mouth speaketh folly .",
+      "traditions": {
+        "WLC": "וְ כָל פֶּ֖ה דֹּבֵ֣ר נְבָלָ֑ה",
+        "LXX": null,
+        "VUL": "et univérsum os locútum est stultítiam .",
+        "SP": null,
+        "KJV": "and every mouth speaketh folly .",
+        "DSS": "ו כול פה דבר נבלה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "For all this his anger is not turned away ,",
+      "traditions": {
+        "WLC": "בְּ כָל זֹאת֙ לֹא שָׁ֣ב אַפּ֔ וֹ",
+        "LXX": null,
+        "VUL": "In ómnibus his non est avérsus furor eius ,",
+        "SP": null,
+        "KJV": "For all this his anger is not turned away ,",
+        "DSS": "ב כול זואת לוא שב אפ׳ו"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "but his hand [ is ] stretched out still .",
+      "traditions": {
+        "WLC": "וְ ע֖וֹד יָד֥ וֹ נְטוּיָֽה",
+        "LXX": null,
+        "VUL": "sed adhuc manus eius exténta .",
+        "SP": null,
+        "KJV": "but his hand [ is ] stretched out still .",
+        "DSS": "ו עוד יד׳יו נטויה ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "For wickedness burneth as the fire :",
+      "traditions": {
+        "WLC": "כִּֽי בָעֲרָ֤ה כָ אֵשׁ֙ רִשְׁעָ֔ה",
+        "LXX": "διὰ τοῦτο ἐπὶ τοὺς νεανίσκους αὐτῶν οὐκ εὐφρανθήσεται ὁ κύριος ,",
+        "VUL": "Succénsa est enim quasi ignis impíetas :",
+        "SP": null,
+        "KJV": "For wickedness burneth as the fire :",
+        "DSS": "[1Qisaa] כי בערה כ אש רשעה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "it shall devour the briers and thorns ,",
+      "traditions": {
+        "WLC": "שָׁמִ֥יר וָ שַׁ֖יִת תֹּאכֵ֑ל",
+        "LXX": "καὶ τοὺς ὀρφανοὺς αὐτῶν καὶ τὰς χήρας αὐτῶν οὐκ ἐλεήσει ·",
+        "VUL": "veprem et spinam vorábit ,",
+        "SP": null,
+        "KJV": "it shall devour the briers and thorns ,",
+        "DSS": "שמיר ו שית ת(^ ו ^)אכל / [4Q59] ת아כל ו תצת ב## ס##ב##[ כי ה י ]ע##ר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and shall kindle in the thickets of the forest ,",
+      "traditions": {
+        "WLC": "וַ תִּצַּת֙ בְּ סִֽבְכֵ֣י הַ יַּ֔עַר",
+        "LXX": "ὅτι πάντες ἄνομοι καὶ πονηροί ,",
+        "VUL": "et succendétur in densitáte saltus ,",
+        "SP": null,
+        "KJV": "and shall kindle in the thickets of the forest ,",
+        "DSS": "ו תצת ב סבכי ה יער / [4Q59] ו יתאב#כ##[ ו גאות עשן ׃"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they shall mount up [ like ] the lifting up of smoke .",
+      "traditions": {
+        "WLC": "וַ יִּֽתְאַבְּכ֖וּ גֵּא֥וּת עָשָֽׁן",
+        "LXX": "καὶ πᾶν στόμα λαλεῖ ἄδικα . ἐπὶ πᾶσιν τούτοις οὐκ ἀπεστράφη ὁ θυμός , ἀλλ᾽ ἔτι ἡ χεὶρ ὑψηλή .",
+        "VUL": "et convolvétur supérbia fumi .",
+        "SP": null,
+        "KJV": "and they shall mount up [ like ] the lifting up of smoke .",
+        "DSS": "ו יתאבכו גיאות עשן ׃"
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Through the wrath of the LORD of hosts is the land darkened ,",
+      "traditions": {
+        "WLC": "בְּ עֶבְרַ֛ת יְהוָ֥ה צְבָא֖וֹת נֶעְתַּ֣ם אָ֑רֶץ",
+        "LXX": "Καὶ καυθήσεται ὡς πῦρ ἡ ἀνομία , καὶ ὡς ἄγρωστις ξηρὰ βρωθήσεται ὑπὸ πυρός ·",
+        "VUL": "In ira Dómini exercítuum conturbáta est terra ,",
+        "SP": null,
+        "KJV": "Through the wrath of the LORD of hosts is the land darkened ,",
+        "DSS": "מ עברת יהוה צבאות נתעם ה ארץ / [4Q59] ב עברת יהוה צבאות נעתם אר ]ץ##["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the people shall be as the fuel of the fire :",
+      "traditions": {
+        "WLC": "וַ יְהִ֤י הָ עָם֙ כְּ מַאֲכֹ֣לֶת אֵ֔שׁ",
+        "LXX": "καὶ καυθήσεται ἐν τοῖς δάσεσι τοῦ δρυμοῦ , καὶ συνκαταφάγεται τὰ κύκλῳ τῶν βουνῶν πάντα ·",
+        "VUL": "et erit pópulus quasi esca ignis :",
+        "SP": null,
+        "KJV": "and the people shall be as the fuel of the fire :",
+        "DSS": "[1Qisaa] ה עמ כ מאכלת אש / [4Q59] ו יהי ה עם ] כ מאכ#לת אש"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "no man shall spare his brother .",
+      "traditions": {
+        "WLC": "אִ֥ישׁ אֶל אָחִ֖י ו לֹ֥א יַחְמֹֽלוּ",
+        "LXX": null,
+        "VUL": "vir fratri suo non parcet .",
+        "SP": null,
+        "KJV": "no man shall spare his brother .",
+        "DSS": "[1Qisaa] איש אל אחי׳ו לוא יחמולו ׃ / [4Q59] איש אל##[ א ]ח##이#?׳ו#? לא יחמל[ ו ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And he shall snatch on the right hand ,",
+      "traditions": {
+        "WLC": "וַ יִּגְזֹ֤ר עַל יָמִין֙",
+        "LXX": "διὰ θυμὸν ὀργῆς Κυρίου συγκέκαυται ἡ γῆ ὅλη ,",
+        "VUL": "Et declinábit ad déxteram ,",
+        "SP": null,
+        "KJV": "And he shall snatch on the right hand ,",
+        "DSS": "[1Qisaa] ו יגזר על ימין / [4Q59] ו יגזר על ימין"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and be hungry ;",
+      "traditions": {
+        "WLC": "וְ רָעֵ֔ב",
+        "LXX": "καὶ ἔσται ὁ λαὸς ὡς ὑπὸ πυρὸς κατακεκαυμένος .",
+        "VUL": "et esúriet :",
+        "SP": null,
+        "KJV": "and be hungry ;",
+        "DSS": "[1Qisaa] ו רעב / [4Q59] ו רעב"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he shall eat on the left hand ,",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אכַל עַל שְׂמֹ֖אול",
+        "LXX": "ἄνθρωπος τὸν ἀδελφὸν αὐτοῦ οὐκ ἐλεήσει ,",
+        "VUL": "et cómedet ad sinístram ,",
+        "SP": null,
+        "KJV": "and he shall eat on the left hand ,",
+        "DSS": "[1Qisaa] ו יאכל ו על שמאול / [4Q59] ו יאכל על שמאול"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they shall not be satisfied :",
+      "traditions": {
+        "WLC": "וְ לֹ֣א שָׂבֵ֑עוּ",
+        "LXX": null,
+        "VUL": "et non saturábitur :",
+        "SP": null,
+        "KJV": "and they shall not be satisfied :",
+        "DSS": "[1Qisaa] ו לוא שבעו / [4Q59] ו ל ]א שבעו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "they shall eat every man the flesh of his own arm :",
+      "traditions": {
+        "WLC": "אִ֥ישׁ בְּשַׂר זְרֹע֖ וֹ יֹאכֵֽלוּ",
+        "LXX": null,
+        "VUL": "unusquísque carnem bráchii sui vorábit :",
+        "SP": null,
+        "KJV": "they shall eat every man the flesh of his own arm :",
+        "DSS": "[1Qisaa] איש בשר זרוע׳ו ׃ / [4Q59] איש בשר זרעי׳ו י?אכלו ׃"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "Manasseh Ephraim and Ephraim Manasseh together against Judah",
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "Manásses Ephraim , et Ephraim Manássen : simul ipsi contra Iudam .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Manasseh , Ephraim ;",
+      "traditions": {
+        "WLC": "מְנַשֶּׁ֣ה אֶת אֶפְרַ֗יִם",
+        "LXX": "ἀλλὰ ἐκκλινεῖ εἰς τὰ δεξιά ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "Manasseh , Ephraim ;",
+        "DSS": "[1Qisaa] ו יאכל מנשה את אפרים / [4Q59] מנש[ ה את אפרים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Ephraim , Manasseh :",
+      "traditions": {
+        "WLC": "וְ אֶפְרַ֨יִם֙ אֶת מְנַשֶּׁ֔ה",
+        "LXX": "ὅτι πεινάσει ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "and Ephraim , Manasseh : [ and ]",
+        "DSS": "[1Qisaa] ו אפרים את מנשה / [4Q59] ו אפרים את מנשה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[ and ] they together [ shall be ] against Judah .",
+      "traditions": {
+        "WLC": "יַחְדָּ֥ו הֵ֖מָּה עַל יְהוּדָ֑ה",
+        "LXX": "καὶ φάγεται ἐκ τῶν ἀριστερῶν ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": "they together [ shall be ] against Judah .",
+        "DSS": "[1Qisaa] יחדו המה על יהודה / [4Q59] יחדו המה על יהוד ]ה#"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "For all this his anger is not turned away ,",
+      "traditions": {
+        "WLC": "בְּ כָל זֹאת֙ לֹא שָׁ֣ב אַפּ֔ וֹ",
+        "LXX": "καὶ οὐ μὴ ἐμπλησθῇ ἄνθρωπος ἔσθων τὰς σάρκας τοῦ βραχίονος αὐτοῦ .",
+        "VUL": "In ómnibus his non est avérsus furor eius , sed adhuc manus eius exténta . / In ómnibus his non est avérsus furor eius ,",
+        "SP": null,
+        "KJV": "For all this his anger is not turned away ,",
+        "DSS": "[1Qisaa] ו ב כול זואת לוא שב אפ׳ו / [4Q59] ב כל זאת לא שב אפ׳ו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "but his hand [ is ] stretched out still .",
+      "traditions": {
+        "WLC": "וְ ע֖וֹד יָד֥ וֹ נְטוּיָֽה",
+        "LXX": null,
+        "VUL": "sed adhuc manus eius exténta .",
+        "SP": null,
+        "KJV": "but his hand [ is ] stretched out still .",
+        "DSS": "[1Qisaa] ו עוד יד׳יו נטויה ׃ / [4Q59] ו#? עוד י#?[ ד׳ו נטויה ׃"
+      }
+    }
+  ]
+}

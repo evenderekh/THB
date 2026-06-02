@@ -1,0 +1,540 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "A Prayer of David",
+      "traditions": {
+        "WLC": "תְּפִלָּ֗ה לְ דָ֫וִ֥ד",
+        "LXX": "Προσευχὴ τῷ Δαυείδ .",
+        "VUL": "Orátio ipsi David .",
+        "SP": null,
+        "KJV": "A Prayer of David .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Bow down thine ear, O LORD, hear me",
+      "traditions": {
+        "WLC": "הַטֵּֽה יְהוָ֣ה אָזְנְ ךָ֣ עֲנֵ֑ נִי",
+        "LXX": "Κλῖνον , Κύριε , τὸ οὖς σου καὶ εἰσάκουσόν μου ,",
+        "VUL": "Inclína Dómine aurem tuam , et exáudi me :",
+        "SP": null,
+        "KJV": "Bow down thine ear , O LORD , hear me :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for I [ am ] poor and needy",
+      "traditions": {
+        "WLC": "כִּֽי עָנִ֖י וְ אֶבְי֣וֹן אָֽנִי",
+        "LXX": "ὅτι πτωχὸς καὶ πένης εἰμὶ ἐγώ .",
+        "VUL": "quóniam inops , et pauper sum ego .",
+        "SP": null,
+        "KJV": "for I [ am ] poor and needy .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Preserve my soul",
+      "traditions": {
+        "WLC": "שָֽׁמְרָ֣ ה נַפְשִׁ י֮",
+        "LXX": "φύλαξον τὴν ψυχήν μου ,",
+        "VUL": "Custódi ánimam meam ,",
+        "SP": null,
+        "KJV": "Preserve my soul ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for I [ am ] holy",
+      "traditions": {
+        "WLC": "כִּֽי חָסִ֪יד אָ֥נִי",
+        "LXX": "ὅτι ὅσιός εἰμι ·",
+        "VUL": "quóniam sanctus sum :",
+        "SP": null,
+        "KJV": "for I [ am ] holy :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "O thou my God, save thy servant that trusteth in thee",
+      "traditions": {
+        "WLC": "הוֹשַׁ֣ע עַ֭בְדְּ ךָ אַתָּ֣ה אֱלֹהַ֑ י הַ בּוֹטֵ֥חַ אֵלֶֽי ךָ",
+        "LXX": "σῶσον τὸν δοῦλόν σου , ὁ θεός μου , τὸν ἐλπίζοντα ἐπὶ σέ .",
+        "VUL": "salvum fac servum tuum , Deus meus , sperántem in te .",
+        "SP": null,
+        "KJV": "O thou my God , save thy servant that trusteth in thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Be merciful unto me, O Lord",
+      "traditions": {
+        "WLC": "חָנֵּ֥ נִי אֲדֹנָ֑ י",
+        "LXX": "ἐλέησόν με , κύριε ,",
+        "VUL": "Miserére mei Dómine ,",
+        "SP": null,
+        "KJV": "Be merciful unto me , O Lord :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for I cry unto thee daily",
+      "traditions": {
+        "WLC": "כִּ֥י אֵלֶ֥י ךָ אֶ֝קְרָ֗א כָּל הַ יּֽוֹם",
+        "LXX": "ὅτι πρὸς σὲ κεκράξομαι ὅλην τὴν ἡμέραν .",
+        "VUL": "quóniam ad te clamávi tota die :",
+        "SP": null,
+        "KJV": "for I cry unto thee daily .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Rejoice the soul of thy servant",
+      "traditions": {
+        "WLC": "שַׂ֭מֵּחַ נֶ֣פֶשׁ עַבְדֶּ֑ ךָ",
+        "LXX": "εὔφρανον τὴν ψυχὴν τοῦ δούλου σου ,",
+        "VUL": "lætífica ánimam servi tui ,",
+        "SP": null,
+        "KJV": "Rejoice the soul of thy servant :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for unto thee, O Lord, do I lift up my soul",
+      "traditions": {
+        "WLC": "כִּ֥י אֵלֶ֥י ךָ אֲ֝דֹנָ֗ י נַפְשִׁ֥ י אֶשָּֽׂא",
+        "LXX": "ὅτι πρὸς σέ , κύριε , ἦρα τὴν ψυχήν μου .",
+        "VUL": "quóniam ad te Dómine ánimam meam levávi .",
+        "SP": null,
+        "KJV": "for unto thee , O Lord , do I lift up my soul .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thou, Lord, [ art ] good, and ready to forgive",
+      "traditions": {
+        "WLC": "כִּֽי אַתָּ֣ה אֲ֭דֹנָ י ט֣וֹב וְ סַלָּ֑ח",
+        "LXX": "ὅτι σύ , κύριε , χρηστὸς καὶ ἐπιεικὴς",
+        "VUL": "Quóniam tu Dómine suávis et mitis :",
+        "SP": null,
+        "KJV": "For thou , Lord , [ art ] good , and ready to forgive ;",
+        "DSS": "ε כי אתה א ]ד#ני טוב ו סלח##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and plenteous in mercy unto all them that call upon thee",
+      "traditions": {
+        "WLC": "וְ רַב חֶ֝֗סֶד לְ כָל קֹרְאֶֽי ךָ",
+        "LXX": "καὶ πολυέλεος πᾶσι τοῖς ἐπικαλουμένοις σε .",
+        "VUL": "et multæ misericórdiæ ómnibus invocántibus te .",
+        "SP": null,
+        "KJV": "and plenteous in mercy unto all them that call upon thee .",
+        "DSS": "[ ו רב חסד ל כל ] [ קראי׳ך ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Give ear, O LORD, unto my prayer",
+      "traditions": {
+        "WLC": "הַאֲזִ֣ינָ ה יְ֭הוָה תְּפִלָּתִ֑ י",
+        "LXX": "ἐνώτισαι , Κύριε , τὴν προσευχήν μου ,",
+        "VUL": "Auribus pércipe Dómine oratiónem meam :",
+        "SP": null,
+        "KJV": "Give ear , O LORD , unto my prayer ;",
+        "DSS": "האזינ׳ה יהוה  ]ת##פלת׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and attend to the voice of my supplications",
+      "traditions": {
+        "WLC": "וְ֝ הַקְשִׁ֗יבָ ה בְּ ק֣וֹל תַּחֲנוּנוֹתָֽ י",
+        "LXX": "καὶ πρόσχες τῇ φωνῇ τῆς δεήσεώς μου .",
+        "VUL": "et inténde voci deprecatiónis meæ .",
+        "SP": null,
+        "KJV": "and attend to the voice of my supplications .",
+        "DSS": "ו הקש##[ יב׳ה ב קול תחנונות׳י ] ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the day of my trouble I will call upon thee",
+      "traditions": {
+        "WLC": "בְּ י֣וֹם צָ֭רָתִ֥ י אֶקְרָאֶ֗ ךָּ",
+        "LXX": "ἐν ἡμέρᾳ θλίψεώς μου ἐκέκραξα πρὸς σέ ,",
+        "VUL": "In die tribulatiónis meæ clamávi ad te :",
+        "SP": null,
+        "KJV": "In the day of my trouble I will call upon thee :",
+        "DSS": "[ ב יום צרת׳י אקרא׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for thou wilt answer me",
+      "traditions": {
+        "WLC": "כִּ֣י תַעֲנֵֽ נִי",
+        "LXX": "ὅτι εἰσήκουσάς μου .",
+        "VUL": "quia exaudísti me .",
+        "SP": null,
+        "KJV": "for thou wilt answer me .",
+        "DSS": "כי תענ׳ני ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Among the gods [ there is ] none like unto thee, O Lord",
+      "traditions": {
+        "WLC": "אֵין כָּמ֖וֹ ךָ בָ אֱלֹהִ֥ים אֲדֹנָ֗ י",
+        "LXX": "οὐκ ἔστιν ὅμοιός σοι ἐν θεοῖς , κύριε ,",
+        "VUL": "Non est símilis tui in diis Dómine :",
+        "SP": null,
+        "KJV": "Among the gods [ there is ] none like unto thee , O Lord ;",
+        "DSS": "]א##ין [ כמו׳ך ב אלהים אדני ] ׃"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "neither [ are there any works ] like unto thy works",
+      "traditions": {
+        "WLC": "וְ אֵ֣ין כְּֽ מַעֲשֶֽׂי ךָ",
+        "LXX": "καὶ οὐκ ἔστιν κατὰ τὰ ἔργα σου .",
+        "VUL": "et non est secúndum ópera tua .",
+        "SP": null,
+        "KJV": "neither [ are there any works ] like unto thy works .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "All nations whom thou hast made shall come and worship before thee, O Lord",
+      "traditions": {
+        "WLC": "כָּל גּוֹיִ֤ם אֲשֶׁ֥ר עָשִׂ֗יתָ יָב֤וֹאוּ וְ יִשְׁתַּחֲו֣וּ לְ פָנֶ֣י ךָ אֲדֹנָ֑ י",
+        "LXX": "πάντα τὰ ἔθνη ὅσα ἐποίησας ἥξουσιν καὶ προσκυνήσουσιν ἐνώπιόν σου , Κύριε ,",
+        "VUL": "Omnes gentes quascúmque fecísti , vénient , et adorábunt coram te Dómine :",
+        "SP": null,
+        "KJV": "All nations whom thou hast made shall come and worship before thee , O Lord ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and shall glorify thy name",
+      "traditions": {
+        "WLC": "וִֽ יכַבְּד֣וּ לִ שְׁמֶֽ ךָ",
+        "LXX": "καὶ δοξάσουσιν τὸ ὄνομά σου ·",
+        "VUL": "et glorificábunt nomen tuum .",
+        "SP": null,
+        "KJV": "and shall glorify thy name .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "For thou [ art ] great ,",
+      "traditions": {
+        "WLC": "כִּֽי גָד֣וֹל אַ֭תָּה",
+        "LXX": "ὅτι μέγας εἶ σὺ",
+        "VUL": "Quóniam magnus es tu ,",
+        "SP": null,
+        "KJV": "For thou [ art ] great ,",
+        "DSS": "[4Q87] [ גדול אתה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and doest wondrous things :",
+      "traditions": {
+        "WLC": "וְ עֹשֵׂ֣ה נִפְלָא֑וֹת",
+        "LXX": "καὶ ποιῶν θαυμάσια ,",
+        "VUL": "et fáciens mirabília :",
+        "SP": null,
+        "KJV": "and doest wondrous things :",
+        "DSS": "ו עושה נפלאות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "thou [ art ] God alone .",
+      "traditions": {
+        "WLC": "אַתָּ֖ה אֱלֹהִ֣ים לְ בַדֶּֽ ךָ",
+        "LXX": "σὺ εἶ ὁ θεὸς μόνος ὁ μέγας .",
+        "VUL": "tu es Deus solus .",
+        "SP": null,
+        "KJV": "thou [ art ] God alone .",
+        "DSS": "אתה אלוהי ]ם ל בד׳כ##[ ה ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Teach me thy way , O LORD",
+      "traditions": {
+        "WLC": "ה֘וֹרֵ֤ נִי יְהוָ֨ה דַּרְכֶּ֗ ךָ",
+        "LXX": "ὁδήγησόν με , Κύριε , τῇ ὁδῷ σου ,",
+        "VUL": "Deduc me Dómine in via tua ,",
+        "SP": null,
+        "KJV": "Teach me thy way , O LORD ;",
+        "DSS": "[4Q87] הור׳ני ] [ יהוה דרכ׳כה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will walk in thy truth",
+      "traditions": {
+        "WLC": "אֲהַלֵּ֥ךְ בַּ אֲמִתֶּ֑ ךָ",
+        "LXX": "καὶ πορεύσομαι τῇ ἀληθείᾳ σου ·",
+        "VUL": "et ingrédiar in veritáte tua :",
+        "SP": null,
+        "KJV": "I will walk in thy truth :",
+        "DSS": "[11Q8] ב אמת׳כ## [4Q87] אהלך ב אמת׳כה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "unite my heart to fear thy name",
+      "traditions": {
+        "WLC": "יַחֵ֥ד לְ֝בָבִ֗ י לְ יִרְאָ֥ה שְׁמֶֽ ךָ",
+        "LXX": "εὐφρανθήτω ἡ καρδία μου τοῦ φοβεῖσθαι τὸ ὄνομά σου .",
+        "VUL": "lætétur cor meum , ut tímeat nomen tuum .",
+        "SP": null,
+        "KJV": "unite my heart to fear thy name .",
+        "DSS": "[11Q8] ה יחד לבב׳י ל ירא׳ה שמ׳כה ׃ / [4Q87] יחד לבב׳י ]ל יר##[ א׳ה שמ׳כה ] ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will praise thee , O Lord my God , with all my heart",
+      "traditions": {
+        "WLC": "אוֹדְ ךָ֤ אֲדֹנָ֣ י אֱ֭לֹהַ י בְּ כָל לְבָבִ֑ י",
+        "LXX": "ἐξομολογήσομαί σοι , Κύριε ὁ θεός μου , ἐν ὅλῃ καρδίᾳ μου ,",
+        "VUL": "Confitébor tibi Dómine Deus meus in toto corde meo ,",
+        "SP": null,
+        "KJV": "I will praise thee , O Lord my God , with all my heart :",
+        "DSS": "[11Q8] אוד׳כה אדני ] אלוה׳י ב [ כול לבב׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I will glorify thy name for evermore",
+      "traditions": {
+        "WLC": "וַ אֲכַבְּדָ֖ה שִׁמְ ךָ֣ לְ עוֹלָֽם",
+        "LXX": "καὶ δοξάσω τὸ ὄνομά σου εἰς τὸν αἰῶνα ·",
+        "VUL": "et glorificábo nomen tuum in ætérnum :",
+        "SP": null,
+        "KJV": "and I will glorify thy name for evermore .",
+        "DSS": "[11Q8] ו אכבדה שמ׳כה ל עולם ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "For great [ is ] thy mercy toward me",
+      "traditions": {
+        "WLC": "כִּֽי חַ֭סְדְּ ךָ גָּד֣וֹל עָלָ֑ י",
+        "LXX": "ὅτι τὸ ἔλεός σου μέγα ἐπ᾽ ἐμέ ,",
+        "VUL": "quia misericórdia tua magna est super me :",
+        "SP": null,
+        "KJV": "For great [ is ] thy mercy toward me :",
+        "DSS": "[11Q8] כי ] גדול ע[ ל׳י חסד׳כה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thou hast delivered my soul from the lowest hell",
+      "traditions": {
+        "WLC": "וְ הִצַּ֥לְתָּ נַ֝פְשִׁ֗ י מִ שְּׁא֥וֹל תַּחְתִּיָּֽה",
+        "LXX": "καὶ ἐρρύσω τὴν ψυχήν μου ἐξ ᾅδου κατωτάτου .",
+        "VUL": "et eruísti ánimam meam ex inférno inferióri .",
+        "SP": null,
+        "KJV": "and thou hast delivered my soul from the lowest hell .",
+        "DSS": "[11Q8] ו הצלת נפש׳י מ שאול תחתיה ] ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "O God , the proud are risen against me",
+      "traditions": {
+        "WLC": "אֱלֹהִ֤ים זֵ֘דִ֤ים קָֽמוּ עָלַ֗ י",
+        "LXX": "ὁ θεός , παράνομοι ἐπανέστησαν ἐπ᾽ ἐμέ ,",
+        "VUL": "Deus , iníqui insurrexérunt super me ,",
+        "SP": null,
+        "KJV": "O God , the proud are risen against me ,",
+        "DSS": "[11Q8] א##ל[ ו ]הים[ זדים קמו על׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the assemblies of violent [ men ] have sought after my soul",
+      "traditions": {
+        "WLC": "וַ עֲדַ֣ת עָ֭רִיצִים בִּקְשׁ֣וּ נַפְשִׁ֑ י",
+        "LXX": "καὶ συναγωγὴ κραταιῶν ἐζήτησαν τὴν ψυχήν μου ·",
+        "VUL": "et synagóga poténtium quæsiérunt ánimam meam :",
+        "SP": null,
+        "KJV": "and the assemblies of violent [ men ] have sought after my soul ;",
+        "DSS": "[11Q8] ו עדת עריצים בקשו נפש׳י ] ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and have not set thee before them",
+      "traditions": {
+        "WLC": "וְ לֹ֖א שָׂמ֣וּ ךָ לְ נֶגְדָּֽ ם",
+        "LXX": "οὐ προέθεντό σε ἐνώπιον αὐτῶν .",
+        "VUL": "et non proposuérunt te in conspéctu suo .",
+        "SP": null,
+        "KJV": "and have not set thee before them .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "But thou , O Lord , [ art ] a God full of compassion , and gracious",
+      "traditions": {
+        "WLC": "וְ אַתָּ֣ה אֲ֭דֹנָ י אֵל רַח֣וּם וְ חַנּ֑וּן",
+        "LXX": "καὶ σύ , Κύριε ὁ θεός , οἰκτίρμων καὶ ἐλεήμων ,",
+        "VUL": "Et tu Dómine Deus miserátor et miséricors ,",
+        "SP": null,
+        "KJV": "But thou , O Lord , [ art ] a God full of compassion , and gracious ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "longsuffering",
+      "traditions": {
+        "WLC": "אֶ֥רֶךְ אַ֝פַּ֗יִם",
+        "LXX": "μακρόθυμος",
+        "VUL": "pátiens ,",
+        "SP": null,
+        "KJV": "longsuffering ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and plenteous in mercy and truth",
+      "traditions": {
+        "WLC": "וְ רַב חֶ֥סֶד וֶ אֱמֶֽת",
+        "LXX": "καὶ πολυέλεος καὶ ἀληθινός .",
+        "VUL": "et multæ misericórdiæ , et verax ,",
+        "SP": null,
+        "KJV": "and plenteous in mercy and truth .",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "O turn unto me , and have mercy upon me",
+      "traditions": {
+        "WLC": "פְּנֵ֥ה אֵלַ֗ י וְ חָ֫נֵּ֥ נִי",
+        "LXX": "ἐπίβλεψον ἐπ᾽ ἐμὲ καὶ ἐλέησόν με ,",
+        "VUL": "réspice in me , et miserére mei :",
+        "SP": null,
+        "KJV": "O turn unto me , and have mercy upon me ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "give thy strength unto thy servant",
+      "traditions": {
+        "WLC": "תְּנָֽ ה עֻזְּ ךָ֥ לְ עַבְדֶּ֑ ךָ",
+        "LXX": "δὸς τὸ κράτος σου τῷ παιδί σου ,",
+        "VUL": "da impérium tuum púero tuo :",
+        "SP": null,
+        "KJV": "give thy strength unto thy servant ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and save the son of thine handmaid",
+      "traditions": {
+        "WLC": "וְ֝ הוֹשִׁ֗יעָ ה לְ בֶן אֲמָתֶֽ ךָ",
+        "LXX": "καὶ σῶσον τὸν υἱὸν τῆς παιδίσκης σου .",
+        "VUL": "et salvum fac fílium ancíllæ tuæ .",
+        "SP": null,
+        "KJV": "and save the son of thine handmaid .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Shew me a token for good",
+      "traditions": {
+        "WLC": "עֲשֵֽׂה עִמִּ֥ י א֗וֹת לְ ט֫וֹבָ֥ה",
+        "LXX": "ποίησον μετ᾽ ἐμοῦ σημεῖον εἰς ἀγαθόν ,",
+        "VUL": "Fac mecum signum in bonum ,",
+        "SP": null,
+        "KJV": "Shew me a token for good ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that they which hate me may see [ it ] , and be ashamed",
+      "traditions": {
+        "WLC": "וְ יִרְא֣וּ שֹׂנְאַ֣ י וְ יֵבֹ֑שׁוּ",
+        "LXX": "καὶ ἰδέτωσαν οἱ μισοῦντές με καὶ αἰσχυνθήτωσαν ,",
+        "VUL": "ut vídeant qui odérunt me , et confundántur :",
+        "SP": null,
+        "KJV": "that they which hate me may see [ it ] , and be ashamed :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because thou , LORD , hast holpen me , and comforted me",
+      "traditions": {
+        "WLC": "כִּֽי אַתָּ֥ה יְ֝הוָ֗ה עֲזַרְתַּ֥ נִי וְ נִחַמְתָּֽ נִי",
+        "LXX": "ὅτι σύ , Κύριε , ἐβοήθησάς μοι καὶ παρεκάλεσάς με .",
+        "VUL": "quóniam tu Dómine adiuvísti me , et consolátus es me .",
+        "SP": null,
+        "KJV": "because thou , LORD , hast holpen me , and comforted me .",
+        "DSS": null
+      }
+    }
+  ]
+}

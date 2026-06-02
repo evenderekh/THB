@@ -1,0 +1,624 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thus saith the LORD",
+      "traditions": {
+        "WLC": "כֹּ֣ה אָמַ֣ר יְהוָ֗ה",
+        "LXX": "Οὕτως λέγει Κύριος",
+        "VUL": "Hæc dicit Dóminus :",
+        "SP": null,
+        "KJV": "Thus saith the LORD ,",
+        "DSS": "כוה אמר יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Where [ is ] the bill of your mother ’s divorcement",
+      "traditions": {
+        "WLC": "אֵ֣י זֶ֠ה סֵ֣פֶר כְּרִית֤וּת אִמְּ כֶם֙",
+        "LXX": "Ποῖον τὸ βιβλίον τοῦ ἀποστασίου τῆς μητρὸς ὑμῶν ,",
+        "VUL": "Quis est hic liber repúdii matris vestræ ,",
+        "SP": null,
+        "KJV": "Where [ is ] the bill of your mother ’s divorcement ,",
+        "DSS": "אי זה ספר כריתות אמ׳כמה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "whom I have put away ?",
+      "traditions": {
+        "WLC": "אֲשֶׁ֣ר שִׁלַּחְתִּ֔י הָ",
+        "LXX": "ᾧ ἐξαπέστειλα αὐτήν ;",
+        "VUL": "quo dimísi eam ?",
+        "SP": null,
+        "KJV": "whom I have put away ?",
+        "DSS": "אשר שלחתי׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "or which of my creditors [ is it ] to whom I have sold you ?",
+      "traditions": {
+        "WLC": "א֚וֹ מִ֣י מִ נּוֹשַׁ֔ י אֲשֶׁר מָכַ֥רְתִּי אֶתְ כֶ֖ם ל֑ וֹ",
+        "LXX": "ἢ τίνι ὑπόχρεῳ πέπρακα ὑμᾶς ;",
+        "VUL": "aut quis est créditor meus , cui véndidi vos ?",
+        "SP": null,
+        "KJV": "or which of my creditors [ is it ] to whom I have sold you ?",
+        "DSS": "או מי מ נוש׳י אשר מכרתי את׳כמה ל׳ו"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "Behold , for your iniquities have ye sold yourselves",
+      "traditions": {
+        "WLC": "הֵ֤ן בַּ עֲוֺנֹֽתֵי כֶם֙ נִמְכַּרְתֶּ֔ם",
+        "LXX": "ἰδοὺ ταῖς ἁμαρτίαις ὑμῶν ἐπράθητε ,",
+        "VUL": "Ecce in iniquitátibus vestris vénditi estis ,",
+        "SP": null,
+        "KJV": "Behold , for your iniquities have ye sold yourselves ,",
+        "DSS": "הנה ב עוונותי׳כמה נמכרתמה"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and for your transgressions is your mother put away .",
+      "traditions": {
+        "WLC": "וּ בְ פִשְׁעֵי כֶ֖ם שֻׁלְּחָ֥ה אִמְּ כֶֽם",
+        "LXX": "καὶ ταῖς ἀνομίαις ὑμῶν ἐξαπέστειλα τὴν μητέρα ὑμῶν .",
+        "VUL": "et in sceléribus vestris dimísi matrem vestram .",
+        "SP": null,
+        "KJV": "and for your transgressions is your mother put away .",
+        "DSS": "ו ב פשעי׳כמה ש(^ ו ^)לחה אמ׳כםה"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wherefore , when I came , [ was there ] no man ?",
+      "traditions": {
+        "WLC": "מַדּ֨וּעַ בָּ֜אתִי וְ אֵ֣ין אִ֗ישׁ",
+        "LXX": "τί ὅτι ἦλθον , καὶ οὐκ ἦν ἄνθρωπος ;",
+        "VUL": "Quia veni , et non erat vir :",
+        "SP": null,
+        "KJV": "Wherefore , when I came , [ was there ] no man ?",
+        "DSS": "מדוע באתי ו אין איש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when I called , [ was there ] none to answer ?",
+      "traditions": {
+        "WLC": "קָרָֽאתִי֮ וְ אֵ֣ין עוֹנֶה֒",
+        "LXX": "ἐκάλεσα , καὶ οὐκ ἦν ὁ ὑπακούων ;",
+        "VUL": "vocávi , et non erat qui audíret .",
+        "SP": null,
+        "KJV": "when I called , [ was there ] none to answer ?",
+        "DSS": "קראתי ו אין עונה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Is my hand shortened at all , that it can not redeem ?",
+      "traditions": {
+        "WLC": "הֲ קָצ֨וֹר קָצְרָ֤ה יָדִ י֙ מִ פְּד֔וּת",
+        "LXX": "μὴ οὐκ ἰσχύει ἡ χείρ μου τοῦ ῥύσασθαι ;",
+        "VUL": "Numquid abbreviáta et párvula facta est manus mea , ut non possim redímere ?",
+        "SP": null,
+        "KJV": "Is my hand shortened at all , that it can not redeem ?",
+        "DSS": "ה קצור קצרה יד׳י מ פדות"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "or have I no power to deliver ?",
+      "traditions": {
+        "WLC": "וְ אִם אֵֽין בִּ֥ י כֹ֖חַ לְ הַצִּ֑יל",
+        "LXX": "ἢ οὐκ ἰσχύω τοῦ ἐξελέσθαι ;",
+        "VUL": "aut non est in me virtus ad liberándum ?",
+        "SP": null,
+        "KJV": "or have I no power to deliver ?",
+        "DSS": "אמ אין ב׳י כוח ל הציל"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "behold , at my rebuke I dry up the sea",
+      "traditions": {
+        "WLC": "הֵ֣ן בְּ גַעֲרָתִ֞ י אַחֲרִ֣יב יָ֗ם",
+        "LXX": "ἰδοὺ τῷ ἐλεγμῷ μου ἐξερημώσω τὴν θάλασσαν ,",
+        "VUL": "Ecce in increpatióne mea desértum fáciam mare ,",
+        "SP": null,
+        "KJV": "behold , at my rebuke I dry up the sea ,",
+        "DSS": "הנה ב גערת׳י אחריב ים"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "I make the rivers a wilderness",
+      "traditions": {
+        "WLC": "אָשִׂ֤ים נְהָרוֹת֙ מִדְבָּ֔ר",
+        "LXX": "καὶ θήσω ποταμοὺς ἐρήμους ,",
+        "VUL": "ponam flúmina in siccum :",
+        "SP": null,
+        "KJV": "I make the rivers a wilderness :",
+        "DSS": "אשים נהרות מדבר"
+      }
+    },
+    {
+      "thought_id": 7,
+      "english_reference": "their fish stinketh , because [ there is ] no water",
+      "traditions": {
+        "WLC": "תִּבְאַ֤שׁ דְּגָתָ ם֙ מֵ אֵ֣ין מַ֔יִם",
+        "LXX": "καὶ ξηρανθήσονται οἱ ἰχθύες αὐτῶν ἀπὸ τοῦ μὴ εἶναι ὕδωρ ,",
+        "VUL": "computréscent pisces sine aqua ,",
+        "SP": null,
+        "KJV": "their fish stinketh , because [ there is ] no water ,",
+        "DSS": "תיבש דגת׳ם מ אין מים"
+      }
+    },
+    {
+      "thought_id": 8,
+      "english_reference": "and dieth for thirst .",
+      "traditions": {
+        "WLC": "וְ תָמֹ֖ת בַּ צָּמָֽא",
+        "LXX": "καὶ ἀποθανοῦνται ἐν δίψει .",
+        "VUL": "et moriéntur in siti .",
+        "SP": null,
+        "KJV": "and dieth for thirst .",
+        "DSS": "ו תמות ב צמא"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "I clothe the heavens with blackness",
+      "traditions": {
+        "WLC": "אַלְבִּ֥ישׁ שָׁמַ֖יִם קַדְר֑וּת",
+        "LXX": "ἐνδύσω τὸν οὐρανὸν σκότος ,",
+        "VUL": "Induam cælos ténebris ,",
+        "SP": null,
+        "KJV": "I clothe the heavens with blackness ,",
+        "DSS": "אלבישה שמים קד#רות"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I make sackcloth their covering .",
+      "traditions": {
+        "WLC": "וְ שַׂ֖ק אָשִׂ֥ים כְּסוּתָֽ ם",
+        "LXX": "καὶ ὡς σάκκον θήσω τὸ περιβόλαιον αὐτοῦ .",
+        "VUL": "et saccum ponam operiméntum eórum .",
+        "SP": null,
+        "KJV": "and I make sackcloth their covering .",
+        "DSS": "ו שק אשים כסות׳ם"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "The Lord GOD hath given me the tongue of the learned",
+      "traditions": {
+        "WLC": "אֲדֹנָ֣ י יְהֹוִ֗ה נָ֤תַן לִ י֙ לְשׁ֣וֹן לִמּוּדִ֔ים",
+        "LXX": "Κύριος δίδωσίν μοι γλῶσσαν παιδίας",
+        "VUL": "Dóminus dedit mihi linguam erudítam ,",
+        "SP": null,
+        "KJV": "The Lord GOD hath given me the tongue of the learned ,",
+        "DSS": "אדוני יהוה נתן ל׳י לשון למודים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that I should know how to speak a word in season to [ him that is ] weary",
+      "traditions": {
+        "WLC": "לָ דַ֛עַת לָ ע֥וּת אֶת יָעֵ֖ף דָּבָ֑ר",
+        "LXX": "τοῦ γνῶναι ἡνίκα δεῖ εἰπεῖν λόγον ·",
+        "VUL": "ut sciam sustentáre eum qui lassus est verbo :",
+        "SP": null,
+        "KJV": "that I should know how to speak a word in season to [ him that is ] weary :",
+        "DSS": "ל דעת ל עות את יעף דב{{ ו? }} #"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he wakeneth morning by morning",
+      "traditions": {
+        "WLC": "יָעִ֣יר בַּ בֹּ֣קֶר בַּ בֹּ֗קֶר",
+        "LXX": "ἔθηκέν μοι πρωί ,",
+        "VUL": "érigit mane , mane érigit mihi",
+        "SP": null,
+        "KJV": "he wakeneth morning by morning ,",
+        "DSS": "ו יעיר ב בוקר ב בוקר"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "he wakeneth mine ear to hear as the learned .",
+      "traditions": {
+        "WLC": "יָעִ֥יר לִ י֙ אֹ֔זֶן לִ שְׁמֹ֖עַ כַּ לִּמּוּדִֽים",
+        "LXX": "προσέθηκέν μοι ὠτίον ἀκούειν .",
+        "VUL": "aurem , ut áudiam quasi magístrum .",
+        "SP": null,
+        "KJV": "he wakeneth mine ear to hear as the learned .",
+        "DSS": "ו יעיר ל׳י אוזן ל שמוע כ למודים"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "The Lord GOD hath opened mine ear",
+      "traditions": {
+        "WLC": "אֲדֹנָ֤ י יְהוִה֙ פָּתַֽח לִ֣ י אֹ֔זֶן",
+        "LXX": "καὶ ἡ παιδία κυρίου Κυρίου ἀνοίγει μου τὰ ὦτα ,",
+        "VUL": "Dóminus Deus apéruit mihi aurem ,",
+        "SP": null,
+        "KJV": "The Lord GOD hath opened mine ear ,",
+        "DSS": "אדוני אלוהים פתח ל׳י אוזן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and I was not rebellious",
+      "traditions": {
+        "WLC": "וְ אָנֹכִ֖י לֹ֣א מָרִ֑יתִי",
+        "LXX": "ἐγὼ δὲ οὐκ ἀπειθῶ",
+        "VUL": "ego autem non contradíco :",
+        "SP": null,
+        "KJV": "and I was not rebellious ,",
+        "DSS": "ו אנוכי לוא מריתי"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither turned away back .",
+      "traditions": {
+        "WLC": "אָח֖וֹר לֹ֥א נְסוּגֹֽתִי",
+        "LXX": "οὐδὲ ἀντιλέγω .",
+        "VUL": "retrórsum non ábii .",
+        "SP": null,
+        "KJV": "neither turned away back .",
+        "DSS": "אחור לוא נסגותי"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "I gave my back to the smiters",
+      "traditions": {
+        "WLC": "גֵּוִ י֙ נָתַ֣תִּי לְ מַכִּ֔ים",
+        "LXX": "τὸν νῶτόν μου ἔδωκα εἰς μάστιγας ,",
+        "VUL": "Corpus meum dedi percutiéntibus ,",
+        "SP": null,
+        "KJV": "I gave my back to the smiters ,",
+        "DSS": "גו׳י נתתי ל מכים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and my cheeks to them that plucked off the hair",
+      "traditions": {
+        "WLC": "וּ לְחָיַ֖ י לְ מֹֽרְטִ֑ים",
+        "LXX": "τὰς δὲ σιαγόνας μου εἰς ῥαπίσματα ,",
+        "VUL": "et genas meas velléntibus :",
+        "SP": null,
+        "KJV": "and my cheeks to them that plucked off the hair :",
+        "DSS": "ו לחי׳י ל מטלים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I hid not my face from shame and spitting .",
+      "traditions": {
+        "WLC": "פָּנַ י֙ לֹ֣א הִסְתַּ֔רְתִּי מִ כְּלִמּ֖וֹת וָ רֹֽק",
+        "LXX": "τὸ δὲ πρόσωπόν μου οὐκ ἀπέστρεψα ἀπὸ αἰσχύνης ἐμπτυσμάτων .",
+        "VUL": "fáciem meam non avérti ab increpántibus , et conspuéntibus in me .",
+        "SP": null,
+        "KJV": "I hid not my face from shame and spitting .",
+        "DSS": "פנ׳י לוא הסירותי מ כלמות ו רוק"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the Lord GOD will help me",
+      "traditions": {
+        "WLC": "וַ אדֹנָ֤ י יְהוִה֙ יַֽעֲזָר לִ֔ י",
+        "LXX": "καὶ κύριος Κύριος βοηθός μοι ἐγενήθη ·",
+        "VUL": "Dóminus Deus auxiliátor meus ,",
+        "SP": null,
+        "KJV": "For the Lord GOD will help me ;",
+        "DSS": "ו אדוני יהוה יעזור ל׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "therefore shall I not be confounded",
+      "traditions": {
+        "WLC": "עַל כֵּ֖ן לֹ֣א נִכְלָ֑מְתִּי",
+        "LXX": "διὰ τοῦτο οὐκ ἐνετράπην ,",
+        "VUL": "ídeo non sum confúsus :",
+        "SP": null,
+        "KJV": "therefore shall I not be confounded :",
+        "DSS": "על כן לוא נכלמתי"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "therefore have I set my face like a flint",
+      "traditions": {
+        "WLC": "עַל כֵּ֞ן שַׂ֤מְתִּי פָנַ י֙ כַּֽ חַלָּמִ֔ישׁ",
+        "LXX": "ἀλλὰ ἔθηκα τὸ πρόσωπόν μου ὡς στερεὰν πέτραν ,",
+        "VUL": "ídeo pósui fáciem meam ut petram duríssimam ,",
+        "SP": null,
+        "KJV": "therefore have I set my face like a flint ,",
+        "DSS": "על כן שמתי פנ׳י כ חלמיש"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and I know that I shall not be ashamed .",
+      "traditions": {
+        "WLC": "וָ אֵדַ֖ע כִּי לֹ֥א אֵבֽוֹשׁ",
+        "LXX": "καὶ ἔγνων ὅτι οὐ μὴ αἰσχυνθῶ .",
+        "VUL": "et scio quóniam non confúndar .",
+        "SP": null,
+        "KJV": "and I know that I shall not be ashamed .",
+        "DSS": "ו אדעה כיא לוא אבוש"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ He is ] near that justifieth me",
+      "traditions": {
+        "WLC": "קָרוֹב֙ מַצְדִּיקִ֔ י",
+        "LXX": "ὅτι ἐγγίζει ὁ δικαιώσας με ·",
+        "VUL": "Iuxta est qui iustíficat me ,",
+        "SP": null,
+        "KJV": "[ He is ] near that justifieth me ;",
+        "DSS": "קרוב מצדיק׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "who will contend with me ?",
+      "traditions": {
+        "WLC": "מִֽי יָרִ֥יב אִתִּ֖ י",
+        "LXX": "τίς ὁ κρινόμενός μοι ;",
+        "VUL": "quis contradícet mihi ?",
+        "SP": null,
+        "KJV": "who will contend with me ?",
+        "DSS": "מי יריב את׳י"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "let us stand together",
+      "traditions": {
+        "WLC": "נַ֣עַמְדָה יָּ֑חַד",
+        "LXX": "ἀντιστήτω μοι ἅμα ·",
+        "VUL": "stemus simul :",
+        "SP": null,
+        "KJV": "let us stand together :",
+        "DSS": "נעמודה יחדיו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "who [ is ] mine adversary ?",
+      "traditions": {
+        "WLC": "מִֽי בַ֥עַל מִשְׁפָּטִ֖ י",
+        "LXX": "καὶ τίς ὁ κρινόμενός μοι ;",
+        "VUL": "quis est adversárius meus ?",
+        "SP": null,
+        "KJV": "who [ is ] mine adversary ?",
+        "DSS": "מי בעל משפט׳י"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "let him come near to me .",
+      "traditions": {
+        "WLC": "יִגַּ֥שׁ אֵלָֽ י",
+        "LXX": "ἐγγισάτω μοι .",
+        "VUL": "accédat ad me .",
+        "SP": null,
+        "KJV": "let him come near to me .",
+        "DSS": "יגש אל׳י"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , the Lord GOD will help me",
+      "traditions": {
+        "WLC": "הֵ֣ן אֲדֹנָ֤ י יְהוִה֙ יַֽעֲזָר לִ֔ י",
+        "LXX": "ἰδοὺ Κύριος βοηθήσει μοι ·",
+        "VUL": "Ecce Dóminus Deus auxiliátor meus :",
+        "SP": null,
+        "KJV": "Behold , the Lord GOD will help me ;",
+        "DSS": "הנה אדוני יהוה יעזור ל׳יא"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "who [ is ] he [ that ] shall condemn me ?",
+      "traditions": {
+        "WLC": "מִי ה֖וּא יַרְשִׁיעֵ֑ נִי",
+        "LXX": "τίς κακώσει με ;",
+        "VUL": "quis est qui condémnet me ?",
+        "SP": null,
+        "KJV": "who [ is ] he [ that ] shall condemn me ?",
+        "DSS": "מי הואה ירשיע׳ני"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "lo , they all shall wax old as a garment",
+      "traditions": {
+        "WLC": "הֵ֤ן כֻּלָּ ם֙ כַּ בֶּ֣גֶד יִבְל֔וּ",
+        "LXX": "ἰδοὺ πάντες ὑμεῖς ὡς ἱμάτιον παλαιωθήσεσθε ,",
+        "VUL": "Ecce omnes quasi vestiméntum conteréntur :",
+        "SP": null,
+        "KJV": "lo , they all shall wax old as a garment ;",
+        "DSS": "הנה כול׳ם כ בגד יבלו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the moth shall eat them up .",
+      "traditions": {
+        "WLC": "עָ֖שׁ יֹאכְלֵֽ ם",
+        "LXX": "καὶ σὴς καταφάγεται ὑμᾶς .",
+        "VUL": "tínea cómedet eos .",
+        "SP": null,
+        "KJV": "the moth shall eat them up .",
+        "DSS": "עש יאכול׳ם"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Who [ is ] among you that feareth the LORD",
+      "traditions": {
+        "WLC": "מִ֤י בָ כֶם֙ יְרֵ֣א יְהוָ֔ה",
+        "LXX": "Τίς ἐν ὑμῖν ὁ φοβούμενος τὸν κύριον ;",
+        "VUL": "Quis ex vobis timens Dóminum ,",
+        "SP": null,
+        "KJV": "Who [ is ] among you that feareth the LORD ,",
+        "DSS": "מי ב׳כםה יראי יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that obeyeth the voice of his servant",
+      "traditions": {
+        "WLC": "שֹׁמֵ֖עַ בְּ ק֣וֹל עַבְדּ֑ וֹ",
+        "LXX": "ὑπακουσάτω τῆς φωνῆς τοῦ παιδὸς αὐτοῦ ·",
+        "VUL": "áudiens vocem servi sui ?",
+        "SP": null,
+        "KJV": "that obeyeth the voice of his servant ,",
+        "DSS": "שומע ב קול עבד׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that walketh [ in ] darkness , and hath no light ?",
+      "traditions": {
+        "WLC": "אֲשֶׁ֣ר הָלַ֣ךְ חֲשֵׁכִ֗ים וְ אֵ֥ין נֹ֨גַהּ֙ ל֔ וֹ",
+        "LXX": "οἱ πορευόμενοι ἐν σκότει , καὶ οὐκ ἔστιν αὐτοῖς φῶς ,",
+        "VUL": "qui ambulávit in ténebris , et non est lumen ei ,",
+        "SP": null,
+        "KJV": "that walketh [ in ] darkness , and hath no light ?",
+        "DSS": "אשר הלכו חשוכים ו אין נוגה ל׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "let him trust in the name of the LORD",
+      "traditions": {
+        "WLC": "יִבְטַח֙ בְּ שֵׁ֣ם יְהוָ֔ה",
+        "LXX": "πεποίθατε ἐπὶ τῷ ὀνόματι Κυρίου",
+        "VUL": "speret in nómine Dómini ,",
+        "SP": null,
+        "KJV": "let him trust in the name of the LORD ,",
+        "DSS": "יבטח ב שם יהוה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and stay upon his God .",
+      "traditions": {
+        "WLC": "וְ יִשָּׁעֵ֖ן בֵּ אלֹהָֽי ו",
+        "LXX": "καὶ ἀντιστηρίσασθε ἐπὶ τῷ θεῷ .",
+        "VUL": "et innitátur super Deum suum .",
+        "SP": null,
+        "KJV": "and stay upon his God .",
+        "DSS": "ו ישען ב אלוהי׳ו"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Behold , all ye that kindle a fire",
+      "traditions": {
+        "WLC": "הֵ֧ן כֻּלְּ כֶ֛ם קֹ֥דְחֵי אֵ֖שׁ",
+        "LXX": "ἰδοὺ πάντες ὑμεῖς πῦρ καίετε",
+        "VUL": "Ecce vos omnes accendéntes ignem ,",
+        "SP": null,
+        "KJV": "Behold , all ye that kindle a fire ,",
+        "DSS": "[1Q8] הן כל׳כם קדחי אש / [1Qisaa] הנה כול׳ם קודחי אש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that compass [ yourselves ] about with sparks",
+      "traditions": {
+        "WLC": "מְאַזְּרֵ֣י זִיק֑וֹת",
+        "LXX": "καὶ κατισχύετε φλόγα ·",
+        "VUL": "accíncti flammis",
+        "SP": null,
+        "KJV": "that compass [ yourselves ] about with sparks :",
+        "DSS": "[1Q8] ו מאזרי זיקות / [1Qisaa] מאזרי זיקות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "walk in the light of your fire",
+      "traditions": {
+        "WLC": "לְכ֣וּ בְּ א֣וּר אֶשְׁ כֶ֗ם",
+        "LXX": "πορεύεσθε τῷ φωτὶ τοῦ πυρὸς ὑμῶν",
+        "VUL": "ambuláte in lúmine ignis vestri ,",
+        "SP": null,
+        "KJV": "walk in the light of your fire ,",
+        "DSS": "[1Q8] לכו [ ב אור אש׳כם ] / [1Qisaa] לכו ב אור אש׳כמה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and in the sparks [ that ] ye have kindled",
+      "traditions": {
+        "WLC": "וּ בְ זִיקוֹת֙ בִּֽעַרְתֶּ֔ם",
+        "LXX": "καὶ τῇ φλογὶ ᾗ ἐξεκαύσατε ·",
+        "VUL": "et in flammis , quas succendístis :",
+        "SP": null,
+        "KJV": "and in the sparks [ that ] ye have kindled .",
+        "DSS": "[1Q8] ו ב זיקות בערתם / [1Qisaa] ו ב זיקות בערתמה"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "This shall ye have of mine hand",
+      "traditions": {
+        "WLC": "מִ יָּדִ י֙ הָיְתָה זֹּ֣את לָ כֶ֔ם",
+        "LXX": "δι᾽ ἐμὲ ἐγένετο ταῦτα ὑμῖν ,",
+        "VUL": "de manu mea factum est hoc vobis ,",
+        "SP": null,
+        "KJV": "This shall ye have of mine hand ;",
+        "DSS": "[1Q8] מ יד׳י היתה זאת ל׳כם / [1Qisaa] מ יד׳י הייתה זואת ל׳כמה"
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "ye shall lie down in sorrow",
+      "traditions": {
+        "WLC": "לְ מַעֲצֵבָ֖ה תִּשְׁכָּבֽוּ ן",
+        "LXX": "ἐν λύπῃ κοιμηθήσεσθε .",
+        "VUL": "in dolóribus dormiétis .",
+        "SP": null,
+        "KJV": "ye shall lie down in sorrow .",
+        "DSS": "[1Q8] ל מעצבה תש##[ כבו׳ן ׃ / [1Qisaa] ל מעצבה תשכבו ׃"
+      }
+    }
+  ]
+}

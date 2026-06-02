@@ -1,0 +1,1845 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "לַ",
+          "LXX": "Εἰς",
+          "VUL": "In",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "מְנַצֵּ֬חַ",
+          "LXX": "τὸ τέλος",
+          "VUL": "finem",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "עַֽל",
+          "LXX": "ὑπὲρ",
+          "VUL": "Pro",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "הַ",
+          "LXX": "τῶν",
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "גִּתִּ֬ית",
+          "LXX": "ληνῶν",
+          "VUL": "torculáribus",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "לְ",
+          "LXX": "τῷ",
+          "VUL": "ipsi",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "אָסָֽף",
+          "LXX": "Ἀσὰφ ψαλμός",
+          "VUL": "Asaph Psalmus",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": []
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הַ֭רְנִינוּ",
+          "LXX": "Ἀγαλλιᾶσθε",
+          "VUL": "Exsultáte",
+          "SP": null,
+          "KJV": "Sing aloud",
+          "DSS": "[4Q87] ε ה ]רנינו [ / [Mas1e] [ הרנינו"
+        },
+        {
+          "token": "לֵ",
+          "LXX": "τῷ",
+          "VUL": null,
+          "SP": null,
+          "KJV": "unto",
+          "DSS": "ל"
+        },
+        {
+          "token": "אלֹהִ֣ים",
+          "LXX": "θεῷ",
+          "VUL": "Deo",
+          "SP": null,
+          "KJV": "God",
+          "DSS": "אלהים"
+        },
+        {
+          "token": "עוּזֵּ֑",
+          "LXX": "τῷ βοηθῷ",
+          "VUL": "adiutóri",
+          "SP": null,
+          "KJV": "our strength",
+          "DSS": "עוז׳נו"
+        },
+        {
+          "token": "נוּ",
+          "LXX": "ἡμῶν",
+          "VUL": "nostro",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הָ֝רִ֗יעוּ",
+          "LXX": "ἀλαλάξατε",
+          "VUL": "iubiláte",
+          "SP": null,
+          "KJV": "make a joyful noise",
+          "DSS": "הריעו ] [ / [Mas1e] הריעו"
+        },
+        {
+          "token": "לֵ",
+          "LXX": "τῷ",
+          "VUL": null,
+          "SP": null,
+          "KJV": "unto",
+          "DSS": "ל"
+        },
+        {
+          "token": "אלֹהֵ֥י",
+          "LXX": "θεῷ",
+          "VUL": "Deo",
+          "SP": null,
+          "KJV": "the God",
+          "DSS": "אלהי"
+        },
+        {
+          "token": "יַעֲקֹֽב",
+          "LXX": "Ἰακώβ",
+          "VUL": "Iacob",
+          "SP": null,
+          "KJV": "of Jacob",
+          "DSS": "יעקוב / י ]ע##ק##ב##"
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "שְֽׂאוּ",
+          "LXX": "λάβετε",
+          "VUL": "Súmite",
+          "SP": null,
+          "KJV": "Take",
+          "DSS": "שאו"
+        },
+        {
+          "token": "זִ֭מְרָה",
+          "LXX": "ψαλμὸν",
+          "VUL": "psalmum",
+          "SP": null,
+          "KJV": "a psalm",
+          "DSS": "זמרה"
+        },
+        {
+          "token": "וּ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "תְנוּ",
+          "LXX": "δότε",
+          "VUL": "date",
+          "SP": null,
+          "KJV": "bring hither",
+          "DSS": "תנו"
+        },
+        {
+          "token": "תֹ֑ף",
+          "LXX": "τύμπανον",
+          "VUL": "týmpanum",
+          "SP": null,
+          "KJV": "the timbrel",
+          "DSS": "]ת##ו?ף#"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "כִּנּ֖וֹר",
+          "LXX": "ψαλτήριον",
+          "VUL": "psaltérium",
+          "SP": null,
+          "KJV": "the pleasant harp",
+          "DSS": "כנור"
+        },
+        {
+          "token": "נָעִ֣ים",
+          "LXX": "τερπνὸν",
+          "VUL": "iucúndum",
+          "SP": null,
+          "KJV": null,
+          "DSS": "נעים"
+        },
+        {
+          "token": "עִם",
+          "LXX": "μετὰ",
+          "VUL": "cum",
+          "SP": null,
+          "KJV": "with",
+          "DSS": "עם"
+        },
+        {
+          "token": "נָֽבֶל",
+          "LXX": "κιθάρας",
+          "VUL": "cíthara",
+          "SP": null,
+          "KJV": "the psaltery",
+          "DSS": "נבל ]"
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "תִּקְע֣וּ",
+          "LXX": "σαλπίσατε",
+          "VUL": "Buccináte",
+          "SP": null,
+          "KJV": "Blow up",
+          "DSS": "[ תקעו"
+        },
+        {
+          "token": "בַ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "חֹ֣דֶשׁ",
+          "LXX": "νεομηνίᾳ",
+          "VUL": "neoménia",
+          "SP": null,
+          "KJV": "the new moon",
+          "DSS": "חדש"
+        },
+        {
+          "token": "שׁוֹפָ֑ר",
+          "LXX": "σάλπιγγι",
+          "VUL": "tuba",
+          "SP": null,
+          "KJV": "the trumpet",
+          "DSS": "שופר"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בַּ֝",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "כֵּ֗סֶה",
+          "LXX": "εὐσήμῳ",
+          "VUL": "insígni",
+          "SP": null,
+          "KJV": "the time appointed",
+          "DSS": "כסה"
+        },
+        {
+          "token": "לְ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "on",
+          "DSS": "ל"
+        },
+        {
+          "token": "י֣וֹם",
+          "LXX": "ἡμέρᾳ",
+          "VUL": "die",
+          "SP": null,
+          "KJV": "day",
+          "DSS": "יום"
+        },
+        {
+          "token": "חַגֵּֽ",
+          "LXX": "ἑορτῆς",
+          "VUL": "solemnitátis",
+          "SP": null,
+          "KJV": "solemn feast",
+          "DSS": "חג׳"
+        },
+        {
+          "token": "נוּ",
+          "LXX": "ἡμῶν",
+          "VUL": "vestræ",
+          "SP": null,
+          "KJV": "our",
+          "DSS": "נו"
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "כִּ֤י",
+          "LXX": "ὅτι",
+          "VUL": "quia",
+          "SP": null,
+          "KJV": "For",
+          "DSS": "כי"
+        },
+        {
+          "token": "חֹ֣ק",
+          "LXX": "πρόσταγμα",
+          "VUL": "præcéptum",
+          "SP": null,
+          "KJV": "a statute",
+          "DSS": "חוק"
+        },
+        {
+          "token": "לְ",
+          "LXX": "τῷ",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "for",
+          "DSS": "ל"
+        },
+        {
+          "token": "יִשְׂרָאֵ֣ל",
+          "LXX": "Ἰσραήλ",
+          "VUL": "Israel",
+          "SP": null,
+          "KJV": "Israel",
+          "DSS": "ישראל"
+        },
+        {
+          "token": "ה֑וּא",
+          "LXX": "ἐστιν",
+          "VUL": "est",
+          "SP": null,
+          "KJV": "this [ was ]",
+          "DSS": "הוא"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "מִ֝שְׁפָּ֗ט",
+          "LXX": "κρίμα",
+          "VUL": "iudícium",
+          "SP": null,
+          "KJV": "a law",
+          "DSS": "משפט"
+        },
+        {
+          "token": "לֵ",
+          "LXX": "τῷ",
+          "VUL": null,
+          "SP": null,
+          "KJV": "of",
+          "DSS": "ל"
+        },
+        {
+          "token": "אלֹהֵ֥י",
+          "LXX": "θεῷ",
+          "VUL": "Deo",
+          "SP": null,
+          "KJV": "the God",
+          "DSS": "אלוהי"
+        },
+        {
+          "token": "יַעֲקֹֽב",
+          "LXX": "Ἰακώβ",
+          "VUL": "Iacob",
+          "SP": null,
+          "KJV": "of Jacob",
+          "DSS": "]יעקוב##["
+        }
+      ]
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "עֵ֤דוּת",
+          "LXX": "μαρτύριον",
+          "VUL": "Testimónium",
+          "SP": null,
+          "KJV": "a testimony",
+          "DSS": "עדות"
+        },
+        {
+          "token": "בִּֽ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": null,
+          "DSS": "ב"
+        },
+        {
+          "token": "יה֘וֹסֵ֤ף",
+          "LXX": "τῷ Ἰωσὴφ",
+          "VUL": "Ioseph",
+          "SP": null,
+          "KJV": "Joseph",
+          "DSS": "יהוסף"
+        },
+        {
+          "token": "שָׂמ֗",
+          "LXX": "ἔθετο",
+          "VUL": "pósuit",
+          "SP": null,
+          "KJV": "he ordained",
+          "DSS": "שמ׳ו"
+        },
+        {
+          "token": "וֹ",
+          "LXX": "αὐτόν",
+          "VUL": "illud",
+          "SP": null,
+          "KJV": "This",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בְּ֭",
+          "LXX": "ἐν",
+          "VUL": "cum",
+          "SP": null,
+          "KJV": "when",
+          "DSS": "ב"
+        },
+        {
+          "token": "צֵאת",
+          "LXX": "τῷ ἐξελθεῖν",
+          "VUL": "exíret",
+          "SP": null,
+          "KJV": "he went out",
+          "DSS": "צאת׳ו"
+        },
+        {
+          "token": "וֹ",
+          "LXX": "αὐτὸν",
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "עַל",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "through",
+          "DSS": "על"
+        },
+        {
+          "token": "אֶ֣רֶץ",
+          "LXX": "γῆς",
+          "VUL": "terra",
+          "SP": null,
+          "KJV": "the land",
+          "DSS": "ארץ"
+        },
+        {
+          "token": "מִצְרָ֑יִם",
+          "LXX": "Αἰγύπτου",
+          "VUL": "Ægýpti",
+          "SP": null,
+          "KJV": "of Egypt",
+          "DSS": "מצרי ]ם"
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "שְׂפַ֖ת",
+          "LXX": "γλῶσσαν",
+          "VUL": "linguam",
+          "SP": null,
+          "KJV": "a language",
+          "DSS": "שפות"
+        },
+        {
+          "token": "לֹא",
+          "LXX": "οὐκ",
+          "VUL": "non",
+          "SP": null,
+          "KJV": "not",
+          "DSS": "לא"
+        },
+        {
+          "token": "יָדַ֣עְתִּי",
+          "LXX": "ἔγνω",
+          "VUL": "nóverat",
+          "SP": null,
+          "KJV": "I understood",
+          "DSS": "ידעתי"
+        },
+        {
+          "token": "אֶשְׁמָֽע",
+          "LXX": "ἤκουσεν",
+          "VUL": "audívit",
+          "SP": null,
+          "KJV": "I heard",
+          "DSS": "אשמע"
+        }
+      ]
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הֲסִיר֣וֹתִי",
+          "LXX": "ἀπέστησεν",
+          "VUL": "Divértit",
+          "SP": null,
+          "KJV": "I removed",
+          "DSS": "הסירותי"
+        },
+        {
+          "token": "מִ",
+          "LXX": "ἀπὸ",
+          "VUL": "ab",
+          "SP": null,
+          "KJV": "from",
+          "DSS": "מ"
+        },
+        {
+          "token": "סֵּ֣בֶל",
+          "LXX": "ἄρσεων",
+          "VUL": "onéribus",
+          "SP": null,
+          "KJV": "the burden",
+          "DSS": "סבל"
+        },
+        {
+          "token": "שִׁכְמ֑",
+          "LXX": "τὸν νῶτον",
+          "VUL": "dorsum",
+          "SP": null,
+          "KJV": "his shoulder",
+          "DSS": "ש ]כמ"
+        },
+        {
+          "token": "וֹ",
+          "LXX": "αὐτοῦ",
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": "׳ו"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "כַּ֝פָּ֗י",
+          "LXX": "αἱ χεῖρες",
+          "VUL": "manus",
+          "SP": null,
+          "KJV": "his hands",
+          "DSS": "כפ"
+        },
+        {
+          "token": "ו",
+          "LXX": "αὐτοῦ",
+          "VUL": "eius",
+          "SP": null,
+          "KJV": null,
+          "DSS": "׳ו"
+        },
+        {
+          "token": "מִ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "from",
+          "DSS": "מ"
+        },
+        {
+          "token": "דּ֥וּד",
+          "LXX": "τῷ κοφίνῳ",
+          "VUL": "cóphino",
+          "SP": null,
+          "KJV": "the pots",
+          "DSS": "דוד"
+        },
+        {
+          "token": "תַּעֲבֹֽרְנָה",
+          "LXX": "ἐδούλευσαν",
+          "VUL": "serviérunt",
+          "SP": null,
+          "KJV": "were delivered",
+          "DSS": "תעברנה"
+        }
+      ]
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "בַּ",
+          "LXX": "ἐν",
+          "VUL": "In",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "צָּרָ֥ה",
+          "LXX": "θλίψει",
+          "VUL": "tribulatióne",
+          "SP": null,
+          "KJV": "trouble",
+          "DSS": "צרה"
+        },
+        {
+          "token": "קָרָ֗אתָ",
+          "LXX": "ἐπεκαλέσω",
+          "VUL": "invocásti",
+          "SP": null,
+          "KJV": "Thou calledst",
+          "DSS": "קראת"
+        },
+        {
+          "token": "וָ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "אֲחַ֫לְּצֶ֥",
+          "LXX": "ἐρυσάμην",
+          "VUL": "liberávi",
+          "SP": null,
+          "KJV": "I delivered",
+          "DSS": "א ]ח##לצ"
+        },
+        {
+          "token": "ךָּ",
+          "LXX": "σε",
+          "VUL": "te",
+          "SP": null,
+          "KJV": "thee",
+          "DSS": "׳כה"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אֶ֭עֶנְ",
+          "LXX": "ἐπήκουσά",
+          "VUL": "exaudívi",
+          "SP": null,
+          "KJV": "I answered",
+          "DSS": "א[ ענ"
+        },
+        {
+          "token": "ךָ",
+          "LXX": "σου",
+          "VUL": "te",
+          "SP": null,
+          "KJV": "thee",
+          "DSS": "׳כה"
+        },
+        {
+          "token": "בְּ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "סֵ֣תֶר",
+          "LXX": "ἀποκρύφῳ",
+          "VUL": "abscóndito",
+          "SP": null,
+          "KJV": "the secret place",
+          "DSS": "סתר"
+        },
+        {
+          "token": "רַ֑עַם",
+          "LXX": "καταιγίδος",
+          "VUL": "tempestátis",
+          "SP": null,
+          "KJV": "of thunder",
+          "DSS": "רעם"
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אֶבְחָֽנְ",
+          "LXX": "ἐδοκίμασά",
+          "VUL": "probávi",
+          "SP": null,
+          "KJV": "I proved",
+          "DSS": "אבחנ"
+        },
+        {
+          "token": "ךָ֨",
+          "LXX": "σε",
+          "VUL": "te",
+          "SP": null,
+          "KJV": "thee",
+          "DSS": "׳כה"
+        },
+        {
+          "token": "עַל",
+          "LXX": "ἐπὶ",
+          "VUL": "apud",
+          "SP": null,
+          "KJV": "at",
+          "DSS": "על"
+        },
+        {
+          "token": "מֵ֖י",
+          "LXX": "ὕδατος",
+          "VUL": "aquam",
+          "SP": null,
+          "KJV": "the waters",
+          "DSS": "מי"
+        },
+        {
+          "token": "מְרִיבָ֣ה",
+          "LXX": "Ἀντιλογίας",
+          "VUL": "contradictiónis",
+          "SP": null,
+          "KJV": "of Meribah",
+          "DSS": "מריבה"
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "סֶֽלָה",
+          "LXX": "διάψαλμα",
+          "VUL": null,
+          "SP": null,
+          "KJV": "Selah",
+          "DSS": "ס##לה##"
+        }
+      ]
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "שְׁמַ֣ע",
+          "LXX": "ἄκουσον",
+          "VUL": "Audi",
+          "SP": null,
+          "KJV": "Hear",
+          "DSS": "ש#[ מע"
+        },
+        {
+          "token": "עַ֭מִּ",
+          "LXX": "λαός",
+          "VUL": "pópulus",
+          "SP": null,
+          "KJV": "my people",
+          "DSS": "עמ׳י"
+        },
+        {
+          "token": "י",
+          "LXX": "μου",
+          "VUL": "meus",
+          "SP": null,
+          "KJV": null,
+          "DSS": null
+        },
+        {
+          "token": "וְ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "אָעִ֣ידָה",
+          "LXX": "λαλήσω",
+          "VUL": "contestábor",
+          "SP": null,
+          "KJV": "I will testify",
+          "DSS": "אעידה"
+        },
+        {
+          "token": "בָּ֑",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "unto",
+          "DSS": "ב"
+        },
+        {
+          "token": "ךְ",
+          "LXX": "σοι",
+          "VUL": "te",
+          "SP": null,
+          "KJV": "thee",
+          "DSS": "׳ך"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "יִ֝שְׂרָאֵ֗ל",
+          "LXX": "Ἰσραήλ",
+          "VUL": "Israel",
+          "SP": null,
+          "KJV": "O Israel",
+          "DSS": "ישראל"
+        },
+        {
+          "token": "אִם",
+          "LXX": "ἐὰν",
+          "VUL": "si",
+          "SP": null,
+          "KJV": "if",
+          "DSS": "אם"
+        },
+        {
+          "token": "תִּֽשְׁמַֽע",
+          "LXX": "ἀκούσῃς",
+          "VUL": "audíeris",
+          "SP": null,
+          "KJV": "thou wilt hearken",
+          "DSS": "תשמע"
+        },
+        {
+          "token": "לִֽ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "unto",
+          "DSS": "ל"
+        },
+        {
+          "token": "י",
+          "LXX": "μου",
+          "VUL": "me",
+          "SP": null,
+          "KJV": "me",
+          "DSS": "י"
+        }
+      ]
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "לֹֽא",
+          "LXX": "οὐκ",
+          "VUL": "non",
+          "SP": null,
+          "KJV": null,
+          "DSS": "לא"
+        },
+        {
+          "token": "יִהְיֶ֣ה",
+          "LXX": "ἔσται",
+          "VUL": "erit",
+          "SP": null,
+          "KJV": "There shall ... be",
+          "DSS": "יהיה"
+        },
+        {
+          "token": "בְ֭",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "ךָ",
+          "LXX": "σοὶ",
+          "VUL": "te",
+          "SP": null,
+          "KJV": "thee",
+          "DSS": "׳ך"
+        },
+        {
+          "token": "אֵ֣ל",
+          "LXX": "θεὸς",
+          "VUL": "deus",
+          "SP": null,
+          "KJV": "god",
+          "DSS": "אל"
+        },
+        {
+          "token": "זָ֑ר",
+          "LXX": "πρόσφατος",
+          "VUL": "recens",
+          "SP": null,
+          "KJV": "strange",
+          "DSS": "זר"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "neither",
+          "DSS": "ו"
+        },
+        {
+          "token": "לֹ֥א",
+          "LXX": "οὐδὲ",
+          "VUL": "neque",
+          "SP": null,
+          "KJV": null,
+          "DSS": "לא"
+        },
+        {
+          "token": "תִ֝שְׁתַּחֲוֶ֗ה",
+          "LXX": "προσκυνήσεις",
+          "VUL": "adorábis",
+          "SP": null,
+          "KJV": "shalt thou worship",
+          "DSS": "תשתחוה"
+        },
+        {
+          "token": "לְ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": null,
+          "DSS": "ל"
+        },
+        {
+          "token": "אֵ֣ל",
+          "LXX": "θεῷ",
+          "VUL": "deum",
+          "SP": null,
+          "KJV": "any ... god",
+          "DSS": "אל"
+        },
+        {
+          "token": "נֵכָֽר",
+          "LXX": "ἀλλοτρίῳ",
+          "VUL": "aliénum",
+          "SP": null,
+          "KJV": "strange",
+          "DSS": "נכר"
+        }
+      ]
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "אָנֹכִ֨י",
+          "LXX": "ἐγὼ γάρ εἰμι",
+          "VUL": "Ego enim sum",
+          "SP": null,
+          "KJV": "I [ am ]",
+          "DSS": "[Mas1e] [ אנכי"
+        },
+        {
+          "token": "יְה֘וָ֤ה",
+          "LXX": "Κύριος",
+          "VUL": "Dóminus",
+          "SP": null,
+          "KJV": "the LORD",
+          "DSS": "יהוה"
+        },
+        {
+          "token": "אֱלֹהֶ֗י",
+          "LXX": "ὁ θεός",
+          "VUL": "Deus",
+          "SP": null,
+          "KJV": "God",
+          "DSS": "אלהי׳ך"
+        },
+        {
+          "token": "ךָ",
+          "LXX": "σου",
+          "VUL": "tuus",
+          "SP": null,
+          "KJV": "thy",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הַֽ֭",
+          "LXX": "ὁ",
+          "VUL": "qui",
+          "SP": null,
+          "KJV": "which",
+          "DSS": "ה"
+        },
+        {
+          "token": "מַּעַלְ",
+          "LXX": "ἀναγαγών",
+          "VUL": "edúxi",
+          "SP": null,
+          "KJV": "brought",
+          "DSS": "מע ]ל#׳ך"
+        },
+        {
+          "token": "ךָ",
+          "LXX": "σε",
+          "VUL": "te",
+          "SP": null,
+          "KJV": "thee",
+          "DSS": null
+        },
+        {
+          "token": "מֵ",
+          "LXX": "ἐκ",
+          "VUL": "de",
+          "SP": null,
+          "KJV": "out of",
+          "DSS": "מ"
+        },
+        {
+          "token": "אֶ֣רֶץ",
+          "LXX": "γῆς",
+          "VUL": "terra",
+          "SP": null,
+          "KJV": "the land",
+          "DSS": "ארץ"
+        },
+        {
+          "token": "מִצְרָ֑יִם",
+          "LXX": "Αἰγύπτου",
+          "VUL": "Ægýpti",
+          "SP": null,
+          "KJV": "of Egypt",
+          "DSS": "מצרים"
+        }
+      ]
+    },
+    {
+      "thought_id": 3,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "הַרְחֶב",
+          "LXX": "πλάτυνον",
+          "VUL": "diláta",
+          "SP": null,
+          "KJV": "open wide",
+          "DSS": "[ הרחב"
+        },
+        {
+          "token": "פִּ֝֗י",
+          "LXX": "τὸ στόμα",
+          "VUL": "os",
+          "SP": null,
+          "KJV": "mouth",
+          "DSS": "פי׳ך"
+        },
+        {
+          "token": "ךָ",
+          "LXX": "σου",
+          "VUL": "tuum",
+          "SP": null,
+          "KJV": "thy",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 4,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וַ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "ו"
+        },
+        {
+          "token": "אֲמַלְאֵֽ",
+          "LXX": "πληρώσω",
+          "VUL": "implébo",
+          "SP": null,
+          "KJV": "I will fill",
+          "DSS": "אמלא׳הו"
+        },
+        {
+          "token": "הוּ",
+          "LXX": "αὐτό",
+          "VUL": "illud",
+          "SP": null,
+          "KJV": "it",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "καὶ",
+          "VUL": "Et",
+          "SP": null,
+          "KJV": "But",
+          "DSS": "[Mas1e] ו"
+        },
+        {
+          "token": "לֹא",
+          "LXX": "οὐκ",
+          "VUL": "non",
+          "SP": null,
+          "KJV": "would not",
+          "DSS": "לא"
+        },
+        {
+          "token": "שָׁמַ֣ע",
+          "LXX": "ἤκουσεν",
+          "VUL": "audívit",
+          "SP": null,
+          "KJV": "hearken",
+          "DSS": "] שמע"
+        },
+        {
+          "token": "עַמִּ֣",
+          "LXX": "ὁ λαός",
+          "VUL": "pópulus",
+          "SP": null,
+          "KJV": "people",
+          "DSS": "עמ׳י"
+        },
+        {
+          "token": "י",
+          "LXX": "μου",
+          "VUL": "meus",
+          "SP": null,
+          "KJV": "my",
+          "DSS": null
+        },
+        {
+          "token": "לְ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "to",
+          "DSS": "ל"
+        },
+        {
+          "token": "קוֹלִ֑",
+          "LXX": "τῆς φωνῆς",
+          "VUL": "vocem",
+          "SP": null,
+          "KJV": "voice",
+          "DSS": "קול׳י"
+        },
+        {
+          "token": "י",
+          "LXX": "μου",
+          "VUL": "meam",
+          "SP": null,
+          "KJV": "my",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ֝",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "[ ו"
+        },
+        {
+          "token": "יִשְׂרָאֵ֗ל",
+          "LXX": "Ἰσραὴλ",
+          "VUL": "Israel",
+          "SP": null,
+          "KJV": "Israel",
+          "DSS": "ישראל"
+        },
+        {
+          "token": "לֹא",
+          "LXX": "οὐ",
+          "VUL": "non",
+          "SP": null,
+          "KJV": "none",
+          "DSS": "לא"
+        },
+        {
+          "token": "אָ֥בָה",
+          "LXX": "προσέσχεν",
+          "VUL": "inténdit",
+          "SP": null,
+          "KJV": "would",
+          "DSS": "אבה"
+        },
+        {
+          "token": "לִֽ",
+          "LXX": "μοι",
+          "VUL": "mihi",
+          "SP": null,
+          "KJV": "of",
+          "DSS": "ל׳י"
+        },
+        {
+          "token": "י",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "me",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וָֽ֭",
+          "LXX": "καὶ",
+          "VUL": "Et",
+          "SP": null,
+          "KJV": "So",
+          "DSS": "[Mas1e] ו"
+        },
+        {
+          "token": "אֲשַׁלְּחֵ",
+          "LXX": "ἐξαπέστειλα",
+          "VUL": "dimísi",
+          "SP": null,
+          "KJV": "I gave up",
+          "DSS": "אש ]ל##ח׳הו"
+        },
+        {
+          "token": "הוּ",
+          "LXX": "αὐτοὺς",
+          "VUL": "eos",
+          "SP": null,
+          "KJV": "them",
+          "DSS": null
+        },
+        {
+          "token": "בִּ",
+          "LXX": "κατὰ",
+          "VUL": "secúndum",
+          "SP": null,
+          "KJV": "unto",
+          "DSS": "ב"
+        },
+        {
+          "token": "שְׁרִיר֣וּת",
+          "LXX": "τὰ ἐπιτηδεύματα",
+          "VUL": "desidéria",
+          "SP": null,
+          "KJV": "lust",
+          "DSS": "שררות"
+        },
+        {
+          "token": "לִבָּ֑",
+          "LXX": "τῶν καρδιῶν",
+          "VUL": "cordis",
+          "SP": null,
+          "KJV": "hearts",
+          "DSS": "לב׳ם"
+        },
+        {
+          "token": "ם",
+          "LXX": "αὐτῶν",
+          "VUL": "eórum",
+          "SP": null,
+          "KJV": "their",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "יֵ֝לְכ֗וּ",
+          "LXX": "πορεύσονται",
+          "VUL": "ibunt",
+          "SP": null,
+          "KJV": "and they walked",
+          "DSS": "[ ילכו"
+        },
+        {
+          "token": "בְּֽ",
+          "LXX": "ἐν",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "מוֹעֲצוֹתֵי",
+          "LXX": "τοῖς ἐπιτηδεύμασιν",
+          "VUL": "adinvéntiónibus",
+          "SP": null,
+          "KJV": "counsels",
+          "DSS": "מועצותי׳הם"
+        },
+        {
+          "token": "הֶֽם",
+          "LXX": "αὐτῶν",
+          "VUL": "suis",
+          "SP": null,
+          "KJV": "their",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "ל֗וּ",
+          "LXX": "εἰ",
+          "VUL": "Si",
+          "SP": null,
+          "KJV": "Oh that",
+          "DSS": "[Mas1e] לו"
+        },
+        {
+          "token": "עַ֭מִּ",
+          "LXX": "ὁ λαὸς",
+          "VUL": "pópulus",
+          "SP": null,
+          "KJV": "people",
+          "DSS": "] עמ׳י"
+        },
+        {
+          "token": "י",
+          "LXX": null,
+          "VUL": "meus",
+          "SP": null,
+          "KJV": "my",
+          "DSS": null
+        },
+        {
+          "token": "שֹׁמֵ֣עַֽ",
+          "LXX": "ἤκουσέν",
+          "VUL": "audísset",
+          "SP": null,
+          "KJV": "had hearkened",
+          "DSS": "שמע"
+        },
+        {
+          "token": "לִ֑",
+          "LXX": "μου",
+          "VUL": "me",
+          "SP": null,
+          "KJV": "unto",
+          "DSS": "ל׳י"
+        },
+        {
+          "token": "י",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "me",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "יִ֝שְׂרָאֵ֗ל",
+          "LXX": "Ἰσραήλ",
+          "VUL": "Israel",
+          "SP": null,
+          "KJV": "and Israel",
+          "DSS": "[ ישראל"
+        },
+        {
+          "token": "בִּ",
+          "LXX": "ταῖς",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "in",
+          "DSS": "ב"
+        },
+        {
+          "token": "דְרָכַ֥",
+          "LXX": "ὁδοῖς",
+          "VUL": "viis",
+          "SP": null,
+          "KJV": "ways",
+          "DSS": "דרכ׳י"
+        },
+        {
+          "token": "י",
+          "LXX": "μου",
+          "VUL": "meis",
+          "SP": null,
+          "KJV": "my",
+          "DSS": null
+        },
+        {
+          "token": "יְהַלֵּֽכוּ",
+          "LXX": "ἐπορεύθη",
+          "VUL": "ambulásset",
+          "SP": null,
+          "KJV": "had walked",
+          "DSS": "יהלכו"
+        }
+      ]
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "כִּ֭",
+          "LXX": "ἐν τῷ μηδενὶ",
+          "VUL": "pro níhilo",
+          "SP": null,
+          "KJV": "I should",
+          "DSS": "[Mas1e] כ"
+        },
+        {
+          "token": "מְעַט",
+          "LXX": null,
+          "VUL": "fórsitan",
+          "SP": null,
+          "KJV": "soon",
+          "DSS": "מעט"
+        },
+        {
+          "token": "אוֹיְבֵי",
+          "LXX": "τοὺς ἐχθροὺς",
+          "VUL": "inimícos",
+          "SP": null,
+          "KJV": "enemies",
+          "DSS": "] א#ויבי׳הם"
+        },
+        {
+          "token": "הֶ֣ם",
+          "LXX": "αὐτῶν",
+          "VUL": "eórum",
+          "SP": null,
+          "KJV": "their",
+          "DSS": null
+        },
+        {
+          "token": "אַכְנִ֑יעַ",
+          "LXX": "ἐταπείνωσα",
+          "VUL": "humiliássem",
+          "SP": null,
+          "KJV": "have subdued",
+          "DSS": "אכניע"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וְ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "[ ו"
+        },
+        {
+          "token": "עַ֥ל",
+          "LXX": "ἐπὶ",
+          "VUL": "super",
+          "SP": null,
+          "KJV": "against",
+          "DSS": "על"
+        },
+        {
+          "token": "צָ֝רֵי",
+          "LXX": "τοὺς θλίβοντας",
+          "VUL": "tribulántes",
+          "SP": null,
+          "KJV": "adversaries",
+          "DSS": "צרי׳הם"
+        },
+        {
+          "token": "הֶ֗ם",
+          "LXX": "αὐτοὺς",
+          "VUL": "eos",
+          "SP": null,
+          "KJV": "their",
+          "DSS": null
+        },
+        {
+          "token": "אָשִׁ֥יב",
+          "LXX": "ἐπέβαλον",
+          "VUL": "misíssem",
+          "SP": null,
+          "KJV": "turned",
+          "DSS": "אשיב"
+        },
+        {
+          "token": "יָדִֽ",
+          "LXX": "τὴν χεῖρά",
+          "VUL": "manum",
+          "SP": null,
+          "KJV": "hand",
+          "DSS": "יד׳י"
+        },
+        {
+          "token": "י",
+          "LXX": "μου",
+          "VUL": "meam",
+          "SP": null,
+          "KJV": "my",
+          "DSS": null
+        }
+      ]
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "מְשַׂנְאֵ֣י",
+          "LXX": "οἱ ἐχθροὶ",
+          "VUL": "Inimíci",
+          "SP": null,
+          "KJV": "The haters",
+          "DSS": "[Mas1e] משנא"
+        },
+        {
+          "token": "יְ֭הוָה",
+          "LXX": "Κυρίου",
+          "VUL": "Dómini",
+          "SP": null,
+          "KJV": "of the LORD",
+          "DSS": "]י יהוה"
+        },
+        {
+          "token": "יְכַֽחֲשׁוּ",
+          "LXX": "ἐψεύσαντο",
+          "VUL": "mentíti sunt",
+          "SP": null,
+          "KJV": "should have submitted themselves",
+          "DSS": "יכחשו"
+        },
+        {
+          "token": "ל֑",
+          "LXX": "αὐτῷ",
+          "VUL": "ei",
+          "SP": null,
+          "KJV": "unto",
+          "DSS": "ל׳ו"
+        },
+        {
+          "token": "וֹ",
+          "LXX": null,
+          "VUL": null,
+          "SP": null,
+          "KJV": "him",
+          "DSS": null
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וִ",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "but",
+          "DSS": "[ ו"
+        },
+        {
+          "token": "יהִ֖י",
+          "LXX": "ἔσται",
+          "VUL": "erit",
+          "SP": null,
+          "KJV": "should have endured",
+          "DSS": "יהי"
+        },
+        {
+          "token": "עִתָּ֣",
+          "LXX": "ὁ καιρὸς",
+          "VUL": "tempus",
+          "SP": null,
+          "KJV": "time",
+          "DSS": "עת׳ם"
+        },
+        {
+          "token": "ם",
+          "LXX": "αὐτῶν",
+          "VUL": "eórum",
+          "SP": null,
+          "KJV": "their",
+          "DSS": null
+        },
+        {
+          "token": "לְ",
+          "LXX": "εἰς",
+          "VUL": "in",
+          "SP": null,
+          "KJV": "for",
+          "DSS": "] ל"
+        },
+        {
+          "token": "עוֹלָֽם",
+          "LXX": "τὸν αἰῶνα",
+          "VUL": "sǽcula",
+          "SP": null,
+          "KJV": "ever",
+          "DSS": "עולם"
+        }
+      ]
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וַֽ֭",
+          "LXX": "καὶ",
+          "VUL": "Et",
+          "SP": null,
+          "KJV": "He",
+          "DSS": "[Mas1e] ו"
+        },
+        {
+          "token": "יַּאֲכִילֵ",
+          "LXX": "ἐψώμισεν",
+          "VUL": "cibávit",
+          "SP": null,
+          "KJV": "should have fed",
+          "DSS": "יאכיל׳הו"
+        },
+        {
+          "token": "הוּ",
+          "LXX": "αὐτοὺς",
+          "VUL": "eos",
+          "SP": null,
+          "KJV": "them",
+          "DSS": null
+        },
+        {
+          "token": "מֵ",
+          "LXX": "ἐκ",
+          "VUL": "ex",
+          "SP": null,
+          "KJV": "with",
+          "DSS": "מ"
+        },
+        {
+          "token": "חֵ֣לֶב",
+          "LXX": "στέατος",
+          "VUL": "ádipe",
+          "SP": null,
+          "KJV": "the finest",
+          "DSS": "חלב"
+        },
+        {
+          "token": "חִטָּ֑ה",
+          "LXX": "πυροῦ",
+          "VUL": "fruménti",
+          "SP": null,
+          "KJV": "of the wheat",
+          "DSS": "ח##ט##ה##"
+        }
+      ]
+    },
+    {
+      "thought_id": 2,
+      "spine": "WLC",
+      "tokens": [
+        {
+          "token": "וּ֝",
+          "LXX": "καὶ",
+          "VUL": "et",
+          "SP": null,
+          "KJV": "and",
+          "DSS": "[ ו"
+        },
+        {
+          "token": "מִ",
+          "LXX": "ἐκ",
+          "VUL": "de",
+          "SP": null,
+          "KJV": "out of",
+          "DSS": "מ"
+        },
+        {
+          "token": "צּ֗וּר",
+          "LXX": "πέτρας",
+          "VUL": "petra",
+          "SP": null,
+          "KJV": "the rock",
+          "DSS": "צור"
+        },
+        {
+          "token": "דְּבַ֣שׁ",
+          "LXX": "μέλι",
+          "VUL": "melle",
+          "SP": null,
+          "KJV": "with honey",
+          "DSS": "דב ]ש##"
+        },
+        {
+          "token": "אַשְׂבִּיעֶֽ",
+          "LXX": "ἐχόρτασεν",
+          "VUL": "saturávit",
+          "SP": null,
+          "KJV": "should I have satisfied",
+          "DSS": "א#שביע׳ך"
+        },
+        {
+          "token": "ךָ",
+          "LXX": "αὐτούς",
+          "VUL": "eos",
+          "SP": null,
+          "KJV": "thee",
+          "DSS": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "The priests the Levites , [ and ] all the tribe of Levi , shall have no part nor inheritance with Israel",
+      "traditions": {
+        "WLC": "לֹֽא יִ֠הְיֶה לַ כֹּהֲנִ֨ים הַ לְוִיִּ֜ם כָּל שֵׁ֧בֶט לֵוִ֛י חֵ֥לֶק וְ נַחֲלָ֖ה עִם יִשְׂרָאֵ֑ל",
+        "LXX": "Οὐκ ἔσται τοῖς ἱερεῦσιν τοῖς Λευείταις , ὅλῃ φυλῇ Λευεί , μερὶς οὐδὲ κλῆρος μετὰ Ἰσραήλ ·",
+        "VUL": "Non habébunt sacerdótes et Levítæ , et omnes qui de eádem tribu sunt , partem et hereditátem cum réliquo Israel ,",
+        "SP": "לא יהיה ל כהנים ה לוים כל שׁבט לוי חלק ו נחלה עם ישׂראל",
+        "KJV": "The priests the Levites , [ and ] all the tribe of Levi , shall have no part nor inheritance with Israel :",
+        "DSS": "[4Q30] לא יה#[ יה ל כהנים ה לוים כל שבט לוי חלק ו נחלה עם ישראל ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they shall eat the offerings of the LORD made by fire , and his inheritance",
+      "traditions": {
+        "WLC": "אִשֵּׁ֧י יְהוָ֛ה וְ נַחֲלָת֖ וֹ יֹאכֵלֽוּ ן",
+        "LXX": "καρπώματα Κυρίου ὁ κλῆρος αὐτῶν , φάγονται αὐτά .",
+        "VUL": "quia sacrifícia Dómini , et oblatiónes eius cómedent ,",
+        "SP": "אשׁי יהוה ו נחלתו יאכלון",
+        "KJV": "they shall eat the offerings of the LORD made by fire , and his inheritance .",
+        "DSS": "אשי#?[ יהוה ו נחלת׳ו יאכלו׳ן ε ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore shall they have no inheritance among their brethren",
+      "traditions": {
+        "WLC": "וְ נַחֲלָ֥ה לֹא יִֽהְיֶה לּ֖ וֹ בְּ קֶ֣רֶב אֶחָ֑י",
+        "LXX": "κλῆρος δὲ οὐκ ἔσται αὐτοῖς ἐν τοῖς ἀδελφοῖς αὐτῶν ·",
+        "VUL": "et nihil áliud accípient de possessióne fratrum suórum :",
+        "SP": "ו נחלה לא יהיה לו ב קרב אחיו",
+        "KJV": "Therefore shall they have no inheritance among their brethren :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the LORD [ is ] their inheritance",
+      "traditions": {
+        "WLC": "ו יְהוָה֙ ה֣וּא נַחֲלָת֔ וֹ",
+        "LXX": "Κύριος αὐτὸς κλῆρος αὐτοῦ ,",
+        "VUL": "Dóminus enim ipse est heréditas eórum ,",
+        "SP": "יהוה הוא נחלתו",
+        "KJV": "the LORD [ is ] their inheritance ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "as he hath said unto them",
+      "traditions": {
+        "WLC": "כַּ אֲשֶׁ֖ר דִּבֶּר לֽ וֹ",
+        "LXX": "καθότι εἶπεν αὐτῷ .",
+        "VUL": "sicut locútus est illis .",
+        "SP": "כ אשׁר דבר לו",
+        "KJV": "as he hath said unto them .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "And this shall be the priest ’s due from the people",
+      "traditions": {
+        "WLC": "וְ זֶ֡ה יִהְיֶה֩ מִשְׁפַּ֨ט הַ כֹּהֲנִ֜ים מֵ אֵ֣ת הָ עָ֗ם",
+        "LXX": "καὶ αὕτη ἡ κρίσις τῶν ἱερέων · τὰ παρὰ τοῦ λαοῦ ,",
+        "VUL": "Hoc erit iudícium sacerdótum a pópulo ,",
+        "SP": "ו זה יהיה משׁפט ה כהנים מ את ה עם",
+        "KJV": "And this shall be the priest ’s due from the people ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "from them that offer a sacrifice",
+      "traditions": {
+        "WLC": "מֵ אֵ֛ת זֹבְחֵ֥י הַ זֶּ֖בַח",
+        "LXX": "παρὰ τῶν θυόντων τὰ θύματα ,",
+        "VUL": "et ab his qui ófferunt víctimas :",
+        "SP": "מ את זבחי ה זבח",
+        "KJV": "from them that offer a sacrifice ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "whether [ it be ] ox or sheep",
+      "traditions": {
+        "WLC": "אִם שׁ֣וֹר אִם שֶׂ֑ה",
+        "LXX": "ἐάν τε μόσχον ἐάν τε πρόβατον ·",
+        "VUL": "sive bovem , sive ovem immoláverint ,",
+        "SP": "אם שׁור אם שׂה",
+        "KJV": "whether [ it be ] ox or sheep ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and they shall give unto the priest the shoulder , and the two cheeks , and the maw",
+      "traditions": {
+        "WLC": "וְ נָתַן֙ לַ כֹּהֵ֔ן הַ זְּרֹ֥עַ וְ הַ לְּחָיַ֖יִם וְ הַ קֵּבָֽה",
+        "LXX": "καὶ δώσει τῷ ἱερεῖ τὸν βραχίονα καὶ τὰ σιαγόνια καὶ τὸ ἔνυστρον .",
+        "VUL": "dabunt sacerdóti armum ac ventrículum :",
+        "SP": "ו נתן ל כהן ה זרוע ו ה לחים ו ה קבה",
+        "KJV": "and they shall give unto the priest the shoulder , and the two cheeks , and the maw .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "The firstfruit [ also ] of thy corn , of thy wine , and of thine oil",
+      "traditions": {
+        "WLC": "רֵאשִׁ֨ית דְּגָֽנְ ךָ֜ תִּֽירֹשְׁ ךָ֣ וְ יִצְהָרֶ֗ ךָ",
+        "LXX": "καὶ τὰς ἀπαρχὰς τοῦ σίτου σου καὶ τοῦ οἴνου σου καὶ τοῦ ἐλαίου σου ,",
+        "VUL": "primítias fruménti , vini , et ólei ,",
+        "SP": "ראשׁית דגנך תירשׁך ו יצהרך",
+        "KJV": "The firstfruit [ also ] of thy corn , of thy wine , and of thine oil ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the first of the fleece of thy sheep , shalt thou give him",
+      "traditions": {
+        "WLC": "וְ רֵאשִׁ֛ית גֵּ֥ז צֹאנְ ךָ֖ תִּתֶּן לּֽ וֹ",
+        "LXX": "καὶ τὴν ἀπαρχὴν τῶν κουρῶν τῶν προβάτων σου δώσεις αὐτῷ ·",
+        "VUL": "et lanárum partem ex óvium tonsióne .",
+        "SP": "ו ראשׁית גז צאנך תתן לו",
+        "KJV": "and the first of the fleece of thy sheep , shalt thou give him .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the LORD thy God hath chosen him out of all thy tribes",
+      "traditions": {
+        "WLC": "כִּ֣י ב֗ וֹ בָּחַ֛ר יְהוָ֥ה אֱלֹהֶ֖י ךָ מִ כָּל שְׁבָטֶ֑י ךָ",
+        "LXX": "ὅτι αὐτὸν ἐξελέξατο Κύριος ἐκ πασῶν τῶν φυλῶν σου ,",
+        "VUL": "Ipsum enim elégit Dóminus Deus tuus de cunctis tríbubus tuis ,",
+        "SP": "כי בו בחר יהוה אלהיך מ כל שׁבטיך",
+        "KJV": "For the LORD thy God hath chosen him out of all thy tribes ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to stand to minister in the name of the LORD",
+      "traditions": {
+        "WLC": "לַ עֲמֹ֨ד לְ שָׁרֵ֧ת בְּ שֵׁם יְהוָ֛ה",
+        "LXX": "παρεστάναι ἔναντι Κυρίου τοῦ θεοῦ , λειτουργεῖν καὶ εὐλογεῖν ἐπὶ τῷ ὀνόματι αὐτοῦ ,",
+        "VUL": "ut stet , et minístret nómini Dómini ,",
+        "SP": "ל עמד ל פני יהוה אלהיך ל שׁרתו ו ל ברך ב שׁמו",
+        "KJV": "to stand to minister in the name of the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "him and his sons for ever",
+      "traditions": {
+        "WLC": "ה֥וּא וּ בָנָ֖י ו כָּל הַ יָּמִֽים",
+        "LXX": "αὐτὸς καὶ οἱ υἱοὶ αὐτοῦ ἐν τοῖς υἱοῖς Ἰσραήλ .",
+        "VUL": "ipse , et fílii eius in sempitérnum .",
+        "SP": "הוא ו בניו כל ה ימים",
+        "KJV": "him and his sons for ever .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if a Levite come from any of thy gates out of all Israel",
+      "traditions": {
+        "WLC": "וְ כִֽי יָבֹ֨א הַ לֵּוִ֜י מֵ אַחַ֤ד שְׁעָרֶ֨י ךָ֙ מִ כָּל יִשְׂרָאֵ֔ל",
+        "LXX": "Ἐὰν δὲ παραγένηται ὁ Λευείτης ἐκ μιᾶς τῶν πόλεων ἐκ πάντων τῶν υἱῶν Ἰσραὴλ",
+        "VUL": "Si exíerit Levítes ex una úrbium tuárum ex omni Israel",
+        "SP": "ו כי יבוא ה לוי מ אחת שׁעריך מ כל ישׂראל",
+        "KJV": "And if a Levite come from any of thy gates out of all Israel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "where he sojourned",
+      "traditions": {
+        "WLC": "אֲשֶׁר ה֖וּא גָּ֣ר שָׁ֑ם",
+        "LXX": "οὗ αὐτὸς παροικεῖ ,",
+        "VUL": "in qua hábitat ,",
+        "SP": "אשׁר הוא גר שׁם",
+        "KJV": "where he sojourned ,",
+        "DSS": "[4Q33] אשר הוא גר##[ שם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and come with all the desire of his mind",
+      "traditions": {
+        "WLC": "וּ בָא֙ בְּ כָל אַוַּ֣ת נַפְשׁ֔ וֹ",
+        "LXX": "καθότι ἐπιθυμεῖ ἡ ψυχὴ αὐτοῦ ,",
+        "VUL": "et volúerit veníre , desíderans",
+        "SP": "ו בא ב כל אות נפשׁו",
+        "KJV": "and come with all the desire of his mind",
+        "DSS": "ו בא ב כל אות נפש׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "unto the place which the LORD shall choose",
+      "traditions": {
+        "WLC": "אֶל הַ מָּק֖וֹם אֲשֶׁר יִבְחַ֥ר יְהוָֽה",
+        "LXX": "εἰς τὸν τόπον ὃν ἂν ἐκλέξηται ,",
+        "VUL": "locum quem elégerit Dóminus ,",
+        "SP": "אל ה מקום אשׁר בחר יהוה",
+        "KJV": "unto the place which the LORD shall choose ;",
+        "DSS": "אל ה מקום אשר יבחר יהוה ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Then he shall minister in the name of the LORD his God",
+      "traditions": {
+        "WLC": "וְ שֵׁרֵ֕ת בְּ שֵׁ֖ם יְהוָ֣ה אֱלֹהָ֑י",
+        "LXX": "λειτουργήσει τῷ ὀνόματι Κυρίου τοῦ θεοῦ αὐτοῦ",
+        "VUL": "ministrábit in nómine Dómini Dei sui ,",
+        "SP": "ו שׁרת ב שׁם יהוה אלהיו",
+        "KJV": "Then he shall minister in the name of the LORD his God ,",
+        "DSS": "[4Q33] ו שרת ] ב שם יהוה אל[ הי׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as all his brethren the Levites [ do ]",
+      "traditions": {
+        "WLC": "ו כְּ כָל אֶחָי ו֙ הַ לְוִיִּ֔ם",
+        "LXX": "ὥσπερ πάντες οἱ ἀδελφοὶ αὐτοῦ οἱ Λευεῖται",
+        "VUL": "sicut omnes fratres eius Levítæ ,",
+        "SP": "כ כל אחיו ה לוים",
+        "KJV": "as all his brethren the Levites [ do ] ,",
+        "DSS": "כ כל אחי׳ו ה לוים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which stand there before the LORD",
+      "traditions": {
+        "WLC": "הָ עֹמְדִ֥ים שָׁ֖ם לִ פְנֵ֥י יְהוָֽה",
+        "LXX": "οἱ παρεστηκότες ἐκεῖ ἐναντίον Κυρίου τοῦ θεοῦ σου ·",
+        "VUL": "qui stabunt eo témpore coram Dómino .",
+        "SP": "ה עמדים שׁם ל פני יהוה",
+        "KJV": "which stand there before the LORD .",
+        "DSS": "ה עמדים שם ל פני יהוה ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "They shall have like portions to eat",
+      "traditions": {
+        "WLC": "חֵ֥לֶק כְּ חֵ֖לֶק יֹאכֵ֑לוּ",
+        "LXX": "μερίδα μεμερισμένην φάγεται ,",
+        "VUL": "Partem cibórum eámdem accípiet , quam et céteri :",
+        "SP": "חלק כ חלק יאכל",
+        "KJV": "They shall have like portions to eat ,",
+        "DSS": "[4Q33] חלק כ חלק ] יאכלו׳ן"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "beside that which cometh of the sale of his patrimony",
+      "traditions": {
+        "WLC": "לְ בַ֥ד מִמְכָּרָ֖י ו עַל הָ אָבֽוֹת",
+        "LXX": "πλὴν τῆς πράσεως τῆς κατὰ πατριάν .",
+        "VUL": "excépto eo , quod in urbe sua ex patérna ei successióne debétur .",
+        "SP": "ל בד מ מכרו על ה אבות",
+        "KJV": "beside that which cometh of the sale of his patrimony .",
+        "DSS": "ל בד ממכרי׳[ ו על ה אבות ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "When thou art come into the land which the LORD thy God giveth thee",
+      "traditions": {
+        "WLC": "כִּ֤י אַתָּה֙ בָּ֣א אֶל הָ אָ֔רֶץ אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖י ךָ נֹתֵ֣ן לָ֑ ךְ",
+        "LXX": "Ἐὰν δὲ εἰσέλθῃς εἰς τὴν γῆν ἣν Κύριος ὁ θεός σου δίδωσίν σοι ,",
+        "VUL": "Quando ingréssus fúeris terram , quam Dóminus Deus tuus dabit tibi ,",
+        "SP": "כי אתה בא אל ה ארץ אשׁר יהוה אלהיך נתן לך",
+        "KJV": "When thou art come into the land which the LORD thy God giveth thee ,",
+        "DSS": "[4Q33] כי אתה בא אל ה ארץ אשר יהוה ] אלהי׳ך נתן ל׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt not learn to do",
+      "traditions": {
+        "WLC": "לֹֽא תִלְמַ֣ד לַ עֲשׂ֔וֹת",
+        "LXX": "οὐ μαθήσῃ ποιεῖν",
+        "VUL": "cave ne imitári velis",
+        "SP": "לא תלמד ל עשׂות",
+        "KJV": "thou shalt not learn to do",
+        "DSS": "לא ת#[ למד ל עשות"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "after the abominations of those nations",
+      "traditions": {
+        "WLC": "כְּ תוֹעֲבֹ֖ת הַ גּוֹיִ֥ם הָ הֵֽם",
+        "LXX": "κατὰ τὰ βδελύγματα τῶν ἐθνῶν ἐκείνων .",
+        "VUL": "abominatiónes illárum géntium .",
+        "SP": "כ תועבות ה גוים ה הם",
+        "KJV": "after the abominations of those nations .",
+        "DSS": "כ תועבת ה גוים ה הם ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "There shall not be found among you [ any one ] that maketh his son or his daughter to pass through the fire",
+      "traditions": {
+        "WLC": "לֹֽא יִמָּצֵ֣א בְ ךָ֔ מַעֲבִ֥יר בְּנֽ וֹ וּ בִתּ֖ וֹ בָּ אֵ֑שׁ",
+        "LXX": "οὐχ εὑρεθήσεται ἐν σοὶ περικαθαίρων τὸν υἱὸν αὐτοῦ καὶ τὴν θυγατέρα αὐτοῦ ἐν πυρί ,",
+        "VUL": "Nec inveniátur in te qui lustret fílium suum , aut fíliam , ducens per ignem :",
+        "SP": "לא ימצא בך מעביר בנו ו בתו ב אשׁ",
+        "KJV": "There shall not be found among you [ any one ] that maketh his son or his daughter to pass through the fire , [ or ]",
+        "DSS": "[4Q33] לא ימצא ב׳ך מעביר ] בנ׳ו ו#? [ בת׳ו ] ב אש"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "that useth divination",
+      "traditions": {
+        "WLC": "קֹסֵ֣ם קְסָמִ֔ים",
+        "LXX": "μαντευόμενος μαντείαν ,",
+        "VUL": "aut qui aríolos sciscitétur ,",
+        "SP": "קסם קסמים",
+        "KJV": "that useth divination , [ or ]",
+        "DSS": "ק#[ סם קסמים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "an observer of times",
+      "traditions": {
+        "WLC": "מְעוֹנֵ֥ן",
+        "LXX": "κληδονιζόμενος",
+        "VUL": "et obsérvet sómnia",
+        "SP": "מ ענן",
+        "KJV": "an observer of times ,",
+        "DSS": "מעונן"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "or an enchanter",
+      "traditions": {
+        "WLC": "וּ מְנַחֵ֖שׁ",
+        "LXX": "καὶ οἰωνιζόμενος ,",
+        "VUL": "atque augúria ,",
+        "SP": "מנחשׁ",
+        "KJV": "or an enchanter ,",
+        "DSS": "ו מנחש"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "or a witch",
+      "traditions": {
+        "WLC": "וּ מְכַשֵּֽׁף",
+        "LXX": "φαρμακοῖς",
+        "VUL": "nec sit maléficus ,",
+        "SP": "מכשׁף",
+        "KJV": "or a witch ,",
+        "DSS": "ו מכשף ε ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Or a charmer",
+      "traditions": {
+        "WLC": "וְ חֹבֵ֖ר חָ֑בֶר",
+        "LXX": "ἐπαείδων ἐπαοιδήν ,",
+        "VUL": "nec incantátor ,",
+        "SP": "חבר חבר",
+        "KJV": "Or a charmer ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or a consulter with familiar spirits",
+      "traditions": {
+        "WLC": "וְ שֹׁאֵ֥ל אוֹב֙",
+        "LXX": "ἐνγαστρίμυθος καὶ τερατοσκόπος ,",
+        "VUL": "nec qui pythónes cónsulat ,",
+        "SP": "שׁאל אוב",
+        "KJV": "or a consulter with familiar spirits ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "or a wizard",
+      "traditions": {
+        "WLC": "וְ יִדְּעֹנִ֔י",
+        "LXX": null,
+        "VUL": "nec divínos ,",
+        "SP": "או ידעוני",
+        "KJV": "or a wizard ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "or a necromancer",
+      "traditions": {
+        "WLC": "וְ דֹרֵ֖שׁ אֶל הַ מֵּתִֽים",
+        "LXX": "ἐπερωτῶν τοὺς νεκρούς .",
+        "VUL": "aut quærat a mórtuis veritátem .",
+        "SP": "ו דרשׁ אל ה מתים",
+        "KJV": "or a necromancer .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "For all that do these things [ are ] an abomination unto the LORD",
+      "traditions": {
+        "WLC": "כִּֽי תוֹעֲבַ֥ת יְהוָ֖ה כָּל עֹ֣שֵׂה אֵ֑לֶּה",
+        "LXX": "ἔστιν γὰρ βδέλυγμα Κυρίῳ τῷ θεῷ σου πᾶς ποιῶν ταῦτα ·",
+        "VUL": "Omnia enim hæc abominátur Dóminus ,",
+        "SP": "כי תועבת יהוה אלהיך כל עשׂה אלה",
+        "KJV": "For all that do these things [ are ] an abomination unto the LORD :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and because of these abominations the LORD thy God doth drive them out from before thee",
+      "traditions": {
+        "WLC": "וּ בִ גְלַל֙ הַ תּוֹעֵבֹ֣ת הָ אֵ֔לֶּה יְהוָ֣ה אֱלֹהֶ֔י ךָ מוֹרִ֥ישׁ אוֹתָ֖ ם מִ פָּנֶֽי ךָ",
+        "LXX": "ἕνεκεν γὰρ τῶν βδελυγμάτων τούτων Κύριος ἐξολεθρεύσει αὐτοὺς ἀπὸ σοῦ .",
+        "VUL": "et propter istiúsmodi scélera delébit eos in intróitu tuo .",
+        "SP": "ו ב גלל ה תועבות ה אלה יהוה אלהיך מורישׁם מ פניך",
+        "KJV": "and because of these abominations the LORD thy God doth drive them out from before thee .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt be perfect with the LORD thy God",
+      "traditions": {
+        "WLC": "תָּמִ֣ים תִּֽהְיֶ֔ה עִ֖ם יְהוָ֥ה אֱלֹהֶֽי ךָ",
+        "LXX": "τέλειος ἔσῃ ἐναντίον Κυρίου τοῦ θεοῦ σου ·",
+        "VUL": "Perféctus eris , et absque mácula cum Dómino Deo tuo .",
+        "SP": "תמים תהיה עם יהוה אלהיך",
+        "KJV": "Thou shalt be perfect with the LORD thy God .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "For these nations , which thou shalt possess , hearkened unto observers of times , and unto diviners",
+      "traditions": {
+        "WLC": "כִּ֣י הַ גּוֹיִ֣ם הָ אֵ֗לֶּה אֲשֶׁ֤ר אַתָּה֙ יוֹרֵ֣שׁ אוֹתָ֔ ם אֶל מְעֹנְנִ֥ים וְ אֶל קֹסְמִ֖ים יִשְׁמָ֑עוּ",
+        "LXX": "τὰ γὰρ ἔθνη ταῦτα οὓς σὺ κατακληρονομεῖς αὐτούς , οὗτοι κληδόνων καὶ μαντειῶν ἀκούσονται ·",
+        "VUL": "Gentes istæ , quarum possidébis terram , áugures et divínos áudiunt :",
+        "SP": "כי ה גוים ה אלה אשׁר אתם ירשׁים אתם אל ה מעננים ו אל ה קסמים ישׁמעו",
+        "KJV": "For these nations , which thou shalt possess , hearkened unto observers of times , and unto diviners :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but as for thee , the LORD thy God hath not suffered thee so [ to do ]",
+      "traditions": {
+        "WLC": "וְ אַתָּ֕ה לֹ֣א כֵ֔ן נָ֛תַן לְ ךָ֖ יְהוָ֥ה אֱלֹהֶֽי ךָ",
+        "LXX": "καὶ σοὶ οὐχ οὕτως ἔδωκεν Κύριος ὁ θεός σου .",
+        "VUL": "tu autem a Dómino Deo tuo áliter institútus es .",
+        "SP": "ו אתה לא כן נתן לך יהוה אלהיך",
+        "KJV": "but as for thee , the LORD thy God hath not suffered thee so [ to do ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD thy God will raise up unto thee a Prophet from the midst of thee , of thy brethren , like unto me",
+      "traditions": {
+        "WLC": "נָבִ֨יא מִ קִּרְבְּ ךָ֤ מֵ אַחֶ֨י ךָ֙ כָּמֹ֔ נִי יָקִ֥ים לְ ךָ֖ יְהוָ֣ה אֱלֹהֶ֑י ךָ",
+        "LXX": "Προφήτην ἐκ τῶν ἀδελφῶν σου ὡς ἐμὲ ἀναστήσει Κύριος ὁ θεός σου σοί ,",
+        "VUL": "Prophétam de gente tua et de frátribus tuis sicut me , suscitábit tibi Dóminus Deus tuus :",
+        "SP": "נביא מ קרב אחיך כמוני יקים לך יהוה אלהיך",
+        "KJV": "The LORD thy God will raise up unto thee a Prophet from the midst of thee , of thy brethren , like unto me ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "unto him ye shall hearken",
+      "traditions": {
+        "WLC": "אֵלָ֖י ו תִּשְׁמָעֽוּ ן",
+        "LXX": "αὐτοῦ ἀκούσεσθε .",
+        "VUL": "ipsum áudies ,",
+        "SP": "אליו תשׁמעון",
+        "KJV": "unto him ye shall hearken ;",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "According to all that thou desiredst of the LORD thy God in Horeb in the day of the assembly",
+      "traditions": {
+        "WLC": "כְּ כֹ֨ל אֲשֶׁר שָׁאַ֜לְתָּ מֵ עִ֨ם יְהוָ֤ה אֱלֹהֶ֨י ךָ֙ בְּ חֹרֵ֔ב בְּ י֥וֹם הַ קָּהָ֖ל",
+        "LXX": "κατὰ πάντα ὅσα ᾐτήσω παρὰ Κυρίου τοῦ θεοῦ σου ἐν Χωρὴβ τῇ ἡμέρᾳ τῆς ἐκκλησίας",
+        "VUL": "ut petísti a Dómino Deo tuo in Horeb , quando cóncio congregáta est ,",
+        "SP": "כ כל אשׁר שׁאלת מ עם יהוה אלהיך ב חורב ב יום ה קהל",
+        "KJV": "According to all that thou desiredst of the LORD thy God in Horeb in the day of the assembly ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "saying , Let me not hear again the voice of the LORD my God",
+      "traditions": {
+        "WLC": "לֵ אמֹ֑ר לֹ֣א אֹסֵ֗ף לִ שְׁמֹ֨עַ֙ אֶת קוֹל֙ יְהוָ֣ה אֱלֹהָ֔ י",
+        "LXX": "λέγοντες Οὐ προσθήσομεν ἀκοῦσαι τὴν φωνὴν Κυρίου τοῦ θεοῦ σου ,",
+        "VUL": "atque dixísti : Ultra non áudiam vocem Dómini Dei mei ,",
+        "SP": "ל אמר לא אוסיף ל שׁמע את קול יהוה אלהי",
+        "KJV": "saying , Let me not hear again the voice of the LORD my God ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "neither let me see this great fire any more , that I die not",
+      "traditions": {
+        "WLC": "וְ אֶת הָ אֵ֨שׁ הַ גְּדֹלָ֥ה הַ זֹּ֛את לֹֽא אֶרְאֶ֥ה ע֖וֹד וְ לֹ֥א אָמֽוּת",
+        "LXX": "καὶ τὸ πῦρ τὸ μέγα τοῦτο οὐκ ὀψόμεθα ἔτι , οὐδὲ μὴ ἀποθάνωμεν .",
+        "VUL": "et ignem hunc máximum ámplius non vidébo , ne móriar .",
+        "SP": "ו את אשׁו ה גדלה ה זאת לא אראה עוד ו לא אמות",
+        "KJV": "neither let me see this great fire any more , that I die not .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the LORD said unto me",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר יְהוָ֖ה אֵלָ֑ י",
+        "LXX": "καὶ εἶπεν Κύριος πρὸς μέ",
+        "VUL": "Et ait Dóminus mihi :",
+        "SP": "ו יאמר יהוה אלי",
+        "KJV": "And the LORD said unto me ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "They have well [ spoken that ] which they have spoken",
+      "traditions": {
+        "WLC": "הֵיטִ֖יבוּ אֲשֶׁ֥ר דִּבֵּֽרוּ",
+        "LXX": "Ὀρθῶς πάντα ὅσα ἐλάλησαν πρὸς σέ ·",
+        "VUL": "Bene ómnia sunt locúti .",
+        "SP": "הטיבו אשׁר דברו",
+        "KJV": "They have well [ spoken that ] which they have spoken .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will raise them up a Prophet from among their brethren , like unto thee",
+      "traditions": {
+        "WLC": "נָבִ֨יא אָקִ֥ים לָ הֶ֛ם מִ קֶּ֥רֶב אֲחֵי הֶ֖ם כָּמ֑וֹ ךָ",
+        "LXX": "προφήτην ἀναστήσω αὐτοῖς ἐκ τῶν ἀδελφῶν αὐτῶν ὥσπερ σέ ,",
+        "VUL": "Prophétam suscitábo eis de médio fratrum suórum símilem tui :",
+        "SP": "נביא אקים להם מ קרב אחיהם כמוך",
+        "KJV": "I will raise them up a Prophet from among their brethren , like unto thee ,",
+        "DSS": "[4Q33] [ אחי׳הם כמו׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and will put my words in his mouth",
+      "traditions": {
+        "WLC": "וְ נָתַתִּ֤י דְבָרַ י֙ בְּ פִ֔י ו",
+        "LXX": "καὶ δώσω τὰ ῥήματά μου ἐν τῷ στόματι αὐτοῦ ,",
+        "VUL": "et ponam verba mea in ore eius ,",
+        "SP": "ו נתתי דברי ב פיו",
+        "KJV": "and will put my words in his mouth ;",
+        "DSS": "[4Q33] ו נתתי דבר׳י ב ] פי׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he shall speak unto them all that I shall command him",
+      "traditions": {
+        "WLC": "וְ דִבֶּ֣ר אֲלֵי הֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽ נּוּ",
+        "LXX": "καὶ λαλήσει αὐτοῖς καθότι ἂν ἐντείλωμαι αὐτῷ ·",
+        "VUL": "loquetúrque ad eos ómnia quæ præcépero illi .",
+        "SP": "ו דבר אליהם את כל אשׁר אצונו",
+        "KJV": "and he shall speak unto them all that I shall command him .",
+        "DSS": "[4Q33] ו דבר אלי׳הם את[ כל אשר אצו׳נו ׃"
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "And it shall come to pass , [ that ] whosoever will not hearken unto my words which he shall speak in my name",
+      "traditions": {
+        "WLC": "וְ הָיָ֗ה הָ אִישׁ֙ אֲשֶׁ֤ר לֹֽא יִשְׁמַע֙ אֶל דְּבָרַ֔ י אֲשֶׁ֥ר יְדַבֵּ֖ר בִּ שְׁמִ֑ י",
+        "LXX": "καὶ ὁ ἄνθρωπος ὃς ἐὰν μὴ ἀκούσῃ ὅσα ἐὰν λαλήσῃ ὁ προφήτης ἐκεῖνος ἐπὶ τῷ ὀνόματί μου ,",
+        "VUL": "Qui autem verba eius , quæ loquétur in nómine meo , audíre nolúerit ,",
+        "SP": "ו היה ה אישׁ אשׁר לא ישׁמע אל דבריו אשׁר ידבר ב שׁמי",
+        "KJV": "And it shall come to pass , [ that ] whosoever will not hearken unto my words which he shall speak in my name ,",
+        "DSS": "[4Q33] ו היה ה איש אשר ] [ לא ישמע אל דבר׳י אשר ]ידבר ב שמ׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will require [ it ] of him",
+      "traditions": {
+        "WLC": "אָנֹכִ֖י אֶדְרֹ֥שׁ מֵ עִמּֽ וֹ",
+        "LXX": "ἐγὼ ἐκδικήσω ἐξ αὐτοῦ .",
+        "VUL": "ego ultor exsístam .",
+        "SP": "אנכי אדרשׁ מ עמו",
+        "KJV": "I will require [ it ] of him .",
+        "DSS": "[4Q33] אנ#?[ כי אדר ]ש## מ עמ׳ו[ ׃"
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "But the prophet , which shall presume to speak a word in my name , which I have not commanded him to speak",
+      "traditions": {
+        "WLC": "אַ֣ךְ הַ נָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְ דַבֵּ֨ר דָּבָ֜ר בִּ שְׁמִ֗ י אֵ֣ת אֲשֶׁ֤ר לֹֽא צִוִּיתִי ו֙ לְ דַבֵּ֔ר",
+        "LXX": "πλὴν ὁ προφήτης ὃς ἂν ἀσεβήσῃ λαλῆσαι ἐπὶ τῷ ὀνόματί μου ῥῆμα ὃ οὐ προσέταξα λαλῆσαι ,",
+        "VUL": "Prophéta autem qui arrogántia depravátus volúerit loqui in nómine meo , quæ ego non præcépi illi ut díceret ,",
+        "SP": "אך ה נביא אשׁר יזיד ל דבר דבר ב שׁמי את אשׁר לא צויתיו ל דבר",
+        "KJV": "But the prophet , which shall presume to speak a word in my name , which I have not commanded him to speak ,",
+        "DSS": "[4Q33] אך ה נביא אשר יזיד ל דבר ] [ דבר ב שמ׳י את אשר ]לא צויתי׳ו ל דבר#"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or that shall speak in the name of other gods",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֣ר יְדַבֵּ֔ר בְּ שֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים",
+        "LXX": "καὶ ὃς ἂν λαλήσῃ ἐν ὀνόματι θεῶν ἑτέρων ,",
+        "VUL": "aut ex nómine alienórum deórum ,",
+        "SP": "ו אשׁר ידבר ב שׁם אלהים אחרים",
+        "KJV": "or that shall speak in the name of other gods ,",
+        "DSS": "[4Q33] [ ו אשר ]ידבר#[ ב שם אלהי ]ם##[ אחרים"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "even that prophet shall die",
+      "traditions": {
+        "WLC": "וּ מֵ֖ת הַ נָּבִ֥יא הַ הֽוּא",
+        "LXX": "ἀποθανεῖται ὁ προφήτης ἐκεῖνος .",
+        "VUL": "interficiétur .",
+        "SP": "ו מת ה נביא ה הוא",
+        "KJV": "even that prophet shall die .",
+        "DSS": "[4Q33] ו מת ה נביא ה הוא ] ׃"
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if thou say in thine heart",
+      "traditions": {
+        "WLC": "וְ כִ֥י תֹאמַ֖ר בִּ לְבָבֶ֑ ךָ",
+        "LXX": "ἐὰν δὲ εἴπῃς ἐν τῇ καρδίᾳ σου",
+        "VUL": "Quod si tácita cogitatióne respónderis :",
+        "SP": "ו כי תאמר ב לבבך",
+        "KJV": "And if thou say in thine heart ,",
+        "DSS": "[4Q33] [ ו כי תאמר ב ] ל##[ בב׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "How shall we know the word which the LORD hath not spoken ?",
+      "traditions": {
+        "WLC": "אֵיכָה֙ נֵדַ֣ע אֶת הַ דָּבָ֔ר אֲשֶׁ֥ר לֹא דִבְּר֖ וֹ יְהוָֽה",
+        "LXX": "Πῶς γνωσόμεθα τὸ ῥῆμα ὃ οὐκ ἐλάλησεν Κύριος ;",
+        "VUL": "Quómodo possum intellígere verbum , quod Dóminus non est locútus ?",
+        "SP": "איך נודע את ה דבר אשׁר לא דברו יהוה",
+        "KJV": "How shall we know the word which the LORD hath not spoken ?",
+        "DSS": "איכה נדע את ה ד ]ב#ר אשר לא ד##[ בר׳ו יהוה ׃"
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "When a prophet speaketh in the name of the LORD",
+      "traditions": {
+        "WLC": "אֲשֶׁר֩ יְדַבֵּ֨ר הַ נָּבִ֜יא בְּ שֵׁ֣ם יְהוָ֗ה",
+        "LXX": "ὅσα ἐὰν λαλήσῃ ὁ προφήτης ἐκεῖνος τῷ ὀνόματι Κυρίου ,",
+        "VUL": "hoc habébis signum : quod in nómine Dómini prophéta ille prædíxerit ,",
+        "SP": "אשׁר ידבר ה נביא ב שׁם יהוה",
+        "KJV": "When a prophet speaketh in the name of the LORD ,",
+        "DSS": "[4Q33] אשר ידבר ה נביא ] [ ב שם יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "if the thing follow not , nor come to pass",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִהְיֶ֤ה הַ דָּבָר֙ וְ לֹ֣א יָב֔וֹא",
+        "LXX": "καὶ μὴ γένηται καὶ μὴ συμβῇ ,",
+        "VUL": "et non evénerit :",
+        "SP": "לא יהיה ה דבר ו לא יבוא",
+        "KJV": "if the thing follow not , nor come to pass ,",
+        "DSS": "ו לא יהיה ה דבר ו לא יבו ]א#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that [ is ] the thing which the LORD hath not spoken",
+      "traditions": {
+        "WLC": "ה֣וּא הַ דָּבָ֔ר אֲשֶׁ֥ר לֹא דִבְּר֖ וֹ יְהוָ֑ה",
+        "LXX": "τοῦτο τὸ ῥῆμα ὃ οὐκ ἐλάλησεν Κύριος ·",
+        "VUL": "hoc Dóminus non est locútus ,",
+        "SP": "הוא ה דבר אשׁר לא דברו יהוה",
+        "KJV": "that [ is ] the thing which the LORD hath not spoken , [ but ]",
+        "DSS": "הוא ה## ד#[ בר אשר לא דבר׳ו יהוה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the prophet hath spoken it presumptuously",
+      "traditions": {
+        "WLC": "בְּ זָדוֹן֙ דִּבְּר֣ וֹ הַ נָּבִ֔יא",
+        "LXX": "ἐν ἀσεβείᾳ ἐλάλησεν ὁ προφήτης ἐκεῖνος ,",
+        "VUL": "sed per tumórem ánimi sui prophéta confínxit :",
+        "SP": "ב זדון דברו ה נביא",
+        "KJV": "the prophet hath spoken it presumptuously :",
+        "DSS": "ב זדון דבר׳ו ה נביא ] ׃"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "thou shalt not be afraid of him",
+      "traditions": {
+        "WLC": "לֹ֥א תָג֖וּר מִמֶּֽ נּוּ",
+        "LXX": "οὐκ ἀφέξεσθε αὐτοῦ .",
+        "VUL": "et idcírco non timébis eum .",
+        "SP": "לא תגור ממנו",
+        "KJV": "thou shalt not be afraid of him .",
+        "DSS": null
+      }
+    }
+  ]
+}

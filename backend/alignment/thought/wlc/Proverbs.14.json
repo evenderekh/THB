@@ -1,0 +1,948 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Every wise woman buildeth her house",
+      "traditions": {
+        "WLC": "חַכְמ֣וֹת נָ֭שִׁים בָּנְתָ֣ה בֵיתָ֑ הּ",
+        "LXX": "σοφαὶ γυναῖκες ᾠκοδόμησαν οἴκους ,",
+        "VUL": "Sápiens múlier ædíficat domum suam :",
+        "SP": null,
+        "KJV": "Every wise woman buildeth her house :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the foolish plucketh it down with her hands",
+      "traditions": {
+        "WLC": "וְ֝ אִוֶּ֗לֶת בְּ יָדֶ֥י הָ תֶהֶרְסֶֽ נּוּ",
+        "LXX": "ἡ δὲ ἄφρων κατέσκαψεν ταῖς χερσὶν αὐτῆς .",
+        "VUL": "insípiens exstrúctam quoque mánibus déstruet .",
+        "SP": null,
+        "KJV": "but the foolish plucketh it down with her hands .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "He that walketh in his uprightness feareth the LORD",
+      "traditions": {
+        "WLC": "הוֹלֵ֣ךְ בְּ֭ יָשְׁר וֹ יְרֵ֣א יְהוָ֑ה",
+        "LXX": "ὁ πορευόμενος ὀρθῶς φοβεῖται τὸν κύριον ,",
+        "VUL": "Ambulans recto itínere , et timens Deum ,",
+        "SP": null,
+        "KJV": "He that walketh in his uprightness feareth the LORD :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but [ he that is ] perverse in his ways despiseth him",
+      "traditions": {
+        "WLC": "וּ נְל֖וֹז דְּרָכָ֣י ו בּוֹזֵֽ הוּ",
+        "LXX": "ὁ δὲ σκολιάζων ταῖς ὁδοῖς αὐτοῦ ἀτιμασθήσεται .",
+        "VUL": "despícitur ab eo , qui infámi gráditur via .",
+        "SP": null,
+        "KJV": "but [ he that is ] perverse in his ways despiseth him .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the mouth of the foolish [ is ] a rod of pride",
+      "traditions": {
+        "WLC": "בְּֽ פִי אֱ֭וִיל חֹ֣טֶר גַּאֲוָ֑ה",
+        "LXX": "ἐκ στόματος ἀφρόνων βακτηρία ὕβρεως ,",
+        "VUL": "In ore stulti virga supérbiæ :",
+        "SP": null,
+        "KJV": "In the mouth of the foolish [ is ] a rod of pride :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the lips of the wise shall preserve them",
+      "traditions": {
+        "WLC": "וְ שִׂפְתֵ֥י חֲ֝כָמִ֗ים תִּשְׁמוּרֵֽ ם",
+        "LXX": "χείλη δὲ σοφῶν φυλάσσει αὐτούς .",
+        "VUL": "lábia autem sapiéntium custódiunt eos .",
+        "SP": null,
+        "KJV": "but the lips of the wise shall preserve them .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "Where no oxen [ are ] , the crib [ is ] clean",
+      "traditions": {
+        "WLC": "בְּ אֵ֣ין אֲ֭לָפִים אֵב֣וּס בָּ֑ר",
+        "LXX": "οὗ μή εἰσιν βόες , φάτναι καθαραί ·",
+        "VUL": "Ubi non sunt boves , præsépe vácuum est :",
+        "SP": null,
+        "KJV": "Where no oxen [ are ] , the crib [ is ] clean :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but much increase [ is ] by the strength of the ox",
+      "traditions": {
+        "WLC": "וְ רָב תְּ֝בוּא֗וֹת בְּ כֹ֣חַ שֽׁוֹר",
+        "LXX": "οὗ δὲ πολλὰ γενήματα , φανερὰ βοὸς ἰσχύς .",
+        "VUL": "ubi autem plúrimæ ségetes , ibi manifésta est fortitúdo bovis .",
+        "SP": null,
+        "KJV": "but much increase [ is ] by the strength of the ox .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "A faithful witness will not lie",
+      "traditions": {
+        "WLC": "עֵ֣ד אֱ֭מוּנִים לֹ֣א יְכַזֵּ֑ב",
+        "LXX": "μάρτυς πιστὸς οὐ ψεύδεται ,",
+        "VUL": "Testis fidélis non mentítur :",
+        "SP": null,
+        "KJV": "A faithful witness will not lie :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but a false witness will utter lies",
+      "traditions": {
+        "WLC": "וְ יָפִ֥יחַ כְּ֝זָבִ֗ים עֵ֣ד שָֽׁקֶר",
+        "LXX": "ἐκκαίει δὲ ψευδῆ μάρτυς ἄδικος .",
+        "VUL": "profert autem mendácium dolósus testis .",
+        "SP": null,
+        "KJV": "but a false witness will utter lies .",
+        "DSS": "[4Q103] [ עד ש ]ק#[ ר ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "A scorner seeketh wisdom , and [ findeth it ] not",
+      "traditions": {
+        "WLC": "בִּקֶּשׁ לֵ֣ץ חָכְמָ֣ה וָ אָ֑יִן",
+        "LXX": "ζητήσεις σοφίαν παρὰ κακοῖς καὶ οὐχ εὑρήσεις ,",
+        "VUL": "Quærit derísor sapiéntiam , et non ínvenit :",
+        "SP": null,
+        "KJV": "A scorner seeketh wisdom , and [ findeth it ] not :",
+        "DSS": "[4Q103] בקש לץ חכמה ו אין"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but knowledge [ is ] easy unto him that understandeth",
+      "traditions": {
+        "WLC": "וְ דַ֖עַת לְ נָב֣וֹן נָקָֽל",
+        "LXX": "αἴσθησις δὲ παρὰ φρονίμοις εὐχερής .",
+        "VUL": "doctrína prudéntium fácilis .",
+        "SP": null,
+        "KJV": "but knowledge [ is ] easy unto him that understandeth .",
+        "DSS": "[4Q103] ו דעת ל נבון נקל ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Go from the presence of a foolish man",
+      "traditions": {
+        "WLC": "לֵ֣ךְ מִ֭ נֶּגֶד לְ אִ֣ישׁ כְּסִ֑יל",
+        "LXX": "πάντα ἐναντία ἀνδρὶ ἄφρονι ,",
+        "VUL": "Vade contra virum stultum ,",
+        "SP": null,
+        "KJV": "Go from the presence of a foolish man ,",
+        "DSS": "[4Q103] לך מ נגד ] ל## א#יש כסי#?["
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "when thou perceivest not [ in him ] the lips of knowledge",
+      "traditions": {
+        "WLC": "וּ בַל יָ֝דַ֗עְתָּ שִׂפְתֵי דָֽעַת",
+        "LXX": "ὅπλα δὲ αἰσθήσεως χείλη σοφά .",
+        "VUL": "et nescit lábia prudéntiæ .",
+        "SP": null,
+        "KJV": "when thou perceivest not [ in him ] the lips of knowledge .",
+        "DSS": "[4Q103] ל ו בל ידעת שפתי דעת ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "The wisdom of the prudent [ is ] to understand his way",
+      "traditions": {
+        "WLC": "חָכְמַ֣ת עָ֭רוּם הָבִ֣ין דַּרְכּ֑ וֹ",
+        "LXX": "σοφία πανούργων ἐπιγνώσεται τὰς ὁδοὺς αὐτῶν ,",
+        "VUL": "Sapiéntia cállidi est intellígere viam suam :",
+        "SP": null,
+        "KJV": "The wisdom of the prudent [ is ] to understand his way :",
+        "DSS": "[4Q103] חכמת ערום הבין דרכ׳ו ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the folly of fools [ is ] deceit",
+      "traditions": {
+        "WLC": "וְ אִוֶּ֖לֶת כְּסִילִ֣ים מִרְמָֽה",
+        "LXX": "ἄνοια δὲ ἀφρόνων ἐν πλάνῃ .",
+        "VUL": "et imprudéntia stultórum errans .",
+        "SP": null,
+        "KJV": "but the folly of fools [ is ] deceit .",
+        "DSS": "[4Q103] ו אולת כסי#?[ לים מרמה ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Fools make a mock at sin",
+      "traditions": {
+        "WLC": "אֱ֭וִלִים יָלִ֣יץ אָשָׁ֑ם",
+        "LXX": "οἰκίαι παρανόμων ὀφειλήσουσιν καθαρισμόν ,",
+        "VUL": "Stultus illúdet peccátum ,",
+        "SP": null,
+        "KJV": "Fools make a mock at sin :",
+        "DSS": "[4Q103] אולים יליץ אשם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but among the righteous [ there is ] favour",
+      "traditions": {
+        "WLC": "וּ בֵ֖ין יְשָׁרִ֣ים רָצֽוֹן",
+        "LXX": "οἰκίαι δὲ δικαίων δεκταί .",
+        "VUL": "et inter iustos morábitur grátia .",
+        "SP": null,
+        "KJV": "but among the righteous [ there is ] favour .",
+        "DSS": "[4Q103] ו בין ישרים רצון ] ׃"
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "The heart knoweth his own bitterness",
+      "traditions": {
+        "WLC": "לֵ֗ב י֭וֹדֵעַ מָרַּ֣ת נַפְשׁ֑ וֹ",
+        "LXX": "καρδία ἀνδρὸς αἰσθητική , λυπηρὰ ψυχὴ αὐτοῦ ·",
+        "VUL": "Cor quod novit amaritúdinem ánimæ suæ ,",
+        "SP": null,
+        "KJV": "The heart knoweth his own bitterness ;",
+        "DSS": "[4Q103] לב יודע#[ מרת נפש׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a stranger doth not intermeddle with his joy",
+      "traditions": {
+        "WLC": "וּ֝ בְ שִׂמְחָת֗ וֹ לֹא יִתְעָ֥רַב זָֽר",
+        "LXX": "ὅταν δὲ εὐφραίνηται , οὐκ ἐπιμίγνυται ὕβρει .",
+        "VUL": "in gáudio eius non miscébitur extráneus .",
+        "SP": null,
+        "KJV": "and a stranger doth not intermeddle with his joy .",
+        "DSS": "[4Q103] ו ב שמחת׳ו לא יתערב זר ׃"
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "The house of the wicked shall be overthrown",
+      "traditions": {
+        "WLC": "בֵּ֣ית רְ֭שָׁעִים יִשָּׁמֵ֑ד",
+        "LXX": "οἰκίαι ἀσεβῶν ἀφανισθήσονται ,",
+        "VUL": "Domus impiórum delébitur :",
+        "SP": null,
+        "KJV": "The house of the wicked shall be overthrown :",
+        "DSS": "[4Q103] בית רשעים ] [ ישמד"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the tabernacle of the upright shall flourish",
+      "traditions": {
+        "WLC": "וְ אֹ֖הֶל יְשָׁרִ֣ים יַפְרִֽיחַ",
+        "LXX": "σκηναὶ δὲ κατορθούντων στήσονται .",
+        "VUL": "tabernácula vero iustórum germinábunt .",
+        "SP": null,
+        "KJV": "but the tabernacle of the upright shall flourish .",
+        "DSS": "ו אהל ישרים יפריח ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "There is a way which seemeth right unto a man",
+      "traditions": {
+        "WLC": "יֵ֤שׁ דֶּ֣רֶךְ יָ֭שָׁר לִ פְנֵי אִ֑ישׁ",
+        "LXX": "ἔστιν ὁδὸς ἣ δοκεῖ παρὰ ἀνθρώποις ὀρθὴ εἶναι ,",
+        "VUL": "Est via , quæ vidétur hómini iusta :",
+        "SP": null,
+        "KJV": "There is a way which seemeth right unto a man ,",
+        "DSS": "[4Q103] יש דרך ישר ל פני איש ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the end thereof [ are ] the ways of death",
+      "traditions": {
+        "WLC": "וְ֝ אַחֲרִיתָ֗ הּ דַּרְכֵי מָֽוֶת",
+        "LXX": "τὰ δὲ τελευταῖα αὐτῆς ἔρχεται εἰς πυθμένα ᾅδου .",
+        "VUL": "novíssima autem eius dedúcunt ad mortem .",
+        "SP": null,
+        "KJV": "but the end thereof [ are ] the ways of death .",
+        "DSS": "ו אחרית##׳[ ה ] [ דרכי מות ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Even in laughter the heart is sorrowful",
+      "traditions": {
+        "WLC": "גַּם בִּ שְׂח֥וֹק יִכְאַב לֵ֑ב",
+        "LXX": "ἐν εὐφροσύναις οὐ προσμίγνυται λύπη ,",
+        "VUL": "Risus dolóre miscébitur ,",
+        "SP": null,
+        "KJV": "Even in laughter the heart is sorrowful ;",
+        "DSS": "[4Q103] גם ב שחוק יכאב לב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the end of that mirth [ is ] heaviness",
+      "traditions": {
+        "WLC": "וְ אַחֲרִיתָ֖ הּ שִׂמְחָ֣ה תוּגָֽה",
+        "LXX": "τελευταία δὲ χαρὰ εἰς πένθος ἔρχεται .",
+        "VUL": "et extréma gáudii luctus óccupat .",
+        "SP": null,
+        "KJV": "and the end of that mirth [ is ] heaviness .",
+        "DSS": "ו אחרית׳ה שמחה ] תוגה ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "The backslider in heart shall be filled with his own ways",
+      "traditions": {
+        "WLC": "מִ דְּרָכָ֣י ו יִ֭שְׂבַּע ס֣וּג לֵ֑ב",
+        "LXX": "τῶν ἑαυτοῦ ὁδῶν πλησθήσεται θρασυκάρδιος ,",
+        "VUL": "Viis suis replébitur stultus ,",
+        "SP": null,
+        "KJV": "The backslider in heart shall be filled with his own ways :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a good man [ shall be satisfied ] from himself",
+      "traditions": {
+        "WLC": "וּ֝ מֵ עָלָ֗י ו אִ֣ישׁ טֽוֹב",
+        "LXX": "ἀπὸ δὲ τῶν διανοημάτων αὐτοῦ ἀνὴρ ἀγαθός .",
+        "VUL": "et super eum erit vir bonus .",
+        "SP": null,
+        "KJV": "and a good man [ shall be satisfied ] from himself .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "The simple believeth every word",
+      "traditions": {
+        "WLC": "פֶּ֭תִי יַאֲמִ֣ין לְ כָל דָּבָ֑ר",
+        "LXX": "ἄκακος πιστεύει παντὶ λόγῳ ,",
+        "VUL": "Innocens credit omni verbo :",
+        "SP": null,
+        "KJV": "The simple believeth every word :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the prudent [ man ] looketh well to his going",
+      "traditions": {
+        "WLC": "וְ֝ עָר֗וּם יָבִ֥ין לַ אֲשֻׁרֽ וֹ",
+        "LXX": "πανοῦργος δὲ ἔρχεται εἰς μετάνοιαν .",
+        "VUL": "astútus consíderat gressus suos .",
+        "SP": null,
+        "KJV": "but the prudent [ man ] looketh well to his going .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "Fílio dolóso nihil erit boni :",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "servo autem sapiénti prósperi erunt actus , et dirigétur via eius .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "A wise [ man ] feareth , and departeth from evil",
+      "traditions": {
+        "WLC": "חָכָ֣ם יָ֭רֵא וְ סָ֣ר מֵ רָ֑ע",
+        "LXX": "σοφὸς φοβηθεὶς ἐξέκλινεν ἀπὸ κακοῦ ,",
+        "VUL": "Sápiens timet , et declínat a malo :",
+        "SP": null,
+        "KJV": "A wise [ man ] feareth , and departeth from evil :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the fool rageth , and is confident",
+      "traditions": {
+        "WLC": "וּ֝ כְסִ֗יל מִתְעַבֵּ֥ר וּ בוֹטֵֽחַ",
+        "LXX": "ὁ δὲ ἄφρων ἑαυτῷ πεποιθὼς μίγνυται ἀνόμῳ .",
+        "VUL": "stultus tránsilit , et confídit .",
+        "SP": null,
+        "KJV": "but the fool rageth , and is confident .",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ He that is ] soon angry dealeth foolishly",
+      "traditions": {
+        "WLC": "קְֽצַר אַ֭פַּיִם יַעֲשֶׂ֣ה אִוֶּ֑לֶת",
+        "LXX": "ὀξύθυμος πράσσει μετὰ ἀβουλίας ,",
+        "VUL": "Impátiens operábitur stultítiam :",
+        "SP": null,
+        "KJV": "[ He that is ] soon angry dealeth foolishly :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and a man of wicked devices is hated",
+      "traditions": {
+        "WLC": "וְ אִ֥ישׁ מְ֝זִמּ֗וֹת יִשָּׂנֵֽא",
+        "LXX": "ἀνὴρ δὲ φρόνιμος πολλὰ ὑποφέρει .",
+        "VUL": "et vir versútus odiósus est .",
+        "SP": null,
+        "KJV": "and a man of wicked devices is hated .",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "The simple inherit folly",
+      "traditions": {
+        "WLC": "נָחֲל֣וּ פְתָאיִ֣ם אִוֶּ֑לֶת",
+        "LXX": "μεριοῦνται ἄφρονες κακίαν ,",
+        "VUL": "Possidébunt párvuli stultítiam ,",
+        "SP": null,
+        "KJV": "The simple inherit folly :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the prudent are crowned with knowledge",
+      "traditions": {
+        "WLC": "וַֽ֝ עֲרוּמִ֗ים יַכְתִּ֥רוּ דָֽעַת",
+        "LXX": "οἱ δὲ πανοῦργοι κρατήσουσιν αἰσθήσεως .",
+        "VUL": "et exspectábunt astúti sciéntiam .",
+        "SP": null,
+        "KJV": "but the prudent are crowned with knowledge .",
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "The evil bow before the good",
+      "traditions": {
+        "WLC": "שַׁח֣וּ רָ֭עִים לִ פְנֵ֣י טוֹבִ֑ים",
+        "LXX": "ὀλισθήσουσιν κακοὶ ἔναντι ἀγαθῶν ,",
+        "VUL": "Iacébunt mali ante bonos :",
+        "SP": null,
+        "KJV": "The evil bow before the good ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the wicked at the gates of the righteous",
+      "traditions": {
+        "WLC": "וּ֝ רְשָׁעִ֗ים עַֽל שַׁעֲרֵ֥י צַדִּֽיק",
+        "LXX": "καὶ ἀσεβεῖς θεραπεύσουσιν θύρας δικαίων .",
+        "VUL": "et ímpii ante portas iustórum .",
+        "SP": null,
+        "KJV": "and the wicked at the gates of the righteous .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "The poor is hated even of his own neighbour",
+      "traditions": {
+        "WLC": "גַּם לְ֭ רֵעֵ הוּ יִשָּׂ֣נֵא רָ֑שׁ",
+        "LXX": "φίλοι μισήσουσιν φίλους πτωχούς ,",
+        "VUL": "Etiam próximo suo pauper odiósus erit :",
+        "SP": null,
+        "KJV": "The poor is hated even of his own neighbour :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the rich [ hath ] many friends",
+      "traditions": {
+        "WLC": "וְ אֹהֲבֵ֖י עָשִׁ֣יר רַבִּֽים",
+        "LXX": "φίλοι δὲ πλουσίων πολλοί .",
+        "VUL": "amíci vero dívitum multi .",
+        "SP": null,
+        "KJV": "but the rich [ hath ] many friends .",
+        "DSS": null
+      }
+    }
+  ],
+  "21": [
+    {
+      "thought_id": 1,
+      "english_reference": "He that despiseth his neighbour sinneth",
+      "traditions": {
+        "WLC": "בָּז לְ רֵעֵ֥ הוּ חוֹטֵ֑א",
+        "LXX": "ὁ ἀτιμάζων πένητας ἁμαρτάνει ,",
+        "VUL": "Qui déspicit próximum suum peccat :",
+        "SP": null,
+        "KJV": "He that despiseth his neighbour sinneth :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but he that hath mercy on the poor , happy [ is ] he",
+      "traditions": {
+        "WLC": "וּ מְחוֹנֵ֖ן עניים אַשְׁרָֽי ו",
+        "LXX": "ἐλεῶν δὲ πτωχοὺς μακαριστός .",
+        "VUL": "qui autem miserétur páuperis beátus erit .",
+        "SP": null,
+        "KJV": "but he that hath mercy on the poor , happy [ is ] he .",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": null,
+        "VUL": "Qui credit in Dómino , misericórdiam díligit .",
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "22": [
+    {
+      "thought_id": 1,
+      "english_reference": "Do they not err that devise evil ?",
+      "traditions": {
+        "WLC": "הֲֽ לוֹא יִ֭תְעוּ חֹ֣רְשֵׁי רָ֑ע",
+        "LXX": "πλανώμενοι τεκταίνουσι κακά ,",
+        "VUL": "Errant qui operántur malum :",
+        "SP": null,
+        "KJV": "Do they not err that devise evil ?",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but mercy and truth [ shall be ] to them that devise good .",
+      "traditions": {
+        "WLC": "וְ חֶ֥סֶד וֶ֝ אֱמֶ֗ת חֹ֣רְשֵׁי טֽוֹב",
+        "LXX": "ἔλεον δὲ καὶ ἀλήθειαν τεκταίνουσιν ἀγαθοί · οὐκ ἐπίστανται ἔλεον καὶ πίστιν τέκτονες κακῶν , ἐλεημοσύναι δὲ καὶ πίστεις παρὰ τέκτοσιν ἀγαθοῖς .",
+        "VUL": "misericórdia et véritas prǽparant bona .",
+        "SP": null,
+        "KJV": "but mercy and truth [ shall be ] to them that devise good .",
+        "DSS": null
+      }
+    }
+  ],
+  "23": [
+    {
+      "thought_id": 1,
+      "english_reference": "In all labour there is profit",
+      "traditions": {
+        "WLC": "בְּ כָל עֶ֭צֶב יִהְיֶ֣ה מוֹתָ֑ר",
+        "LXX": "ἐν παντὶ μεριμνῶντι ἔνεστιν περισσόν ,",
+        "VUL": "In omni ópere erit abundántia :",
+        "SP": null,
+        "KJV": "In all labour there is profit :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the talk of the lips [ tendeth ] only to penury",
+      "traditions": {
+        "WLC": "וּ דְבַר שְׂ֝פָתַ֗יִם אַךְ לְ מַחְסֽוֹר",
+        "LXX": "ὁ δὲ ἡδὺς καὶ ἀνάλγητος ἐν ἐνδείᾳ ἔσται .",
+        "VUL": "ubi autem verba sunt plúrima , ibi frequénter egéstas .",
+        "SP": null,
+        "KJV": "but the talk of the lips [ tendeth ] only to penury .",
+        "DSS": null
+      }
+    }
+  ],
+  "24": [
+    {
+      "thought_id": 1,
+      "english_reference": "The crown of the wise [ is ] their riches",
+      "traditions": {
+        "WLC": "עֲטֶ֣רֶת חֲכָמִ֣ים עָשְׁרָ֑ ם",
+        "LXX": "στέφανος σοφῶν πανοῦργος ,",
+        "VUL": "Coróna sapiéntium , divítiæ eórum :",
+        "SP": null,
+        "KJV": "The crown of the wise [ is ] their riches : [ but ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the foolishness of fools [ is ] folly",
+      "traditions": {
+        "WLC": "אִוֶּ֖לֶת כְּסִילִ֣ים אִוֶּֽלֶת",
+        "LXX": "ἡ δὲ διατριβὴ ἀφρόνων κακή .",
+        "VUL": "fatúitas stultórum , imprudéntia .",
+        "SP": null,
+        "KJV": "the foolishness of fools [ is ] folly .",
+        "DSS": null
+      }
+    }
+  ],
+  "25": [
+    {
+      "thought_id": 1,
+      "english_reference": "A true witness delivereth souls",
+      "traditions": {
+        "WLC": "מַצִּ֣יל נְ֭פָשׁוֹת עֵ֣ד אֱמֶ֑ת",
+        "LXX": "ῥύσεται ἐκ κακῶν ψυχὴν μάρτυς πιστός ,",
+        "VUL": "Líberat ánimas testis fidélis :",
+        "SP": null,
+        "KJV": "A true witness delivereth souls :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but a deceitful [ witness ] speaketh lies",
+      "traditions": {
+        "WLC": "וְ יָפִ֖חַ כְּזָבִ֣ים מִרְמָֽה",
+        "LXX": "ἐκκαίει δὲ ψευδῆ δόλιος .",
+        "VUL": "et profert mendácia versipéllis",
+        "SP": null,
+        "KJV": "but a deceitful [ witness ] speaketh lies .",
+        "DSS": null
+      }
+    }
+  ],
+  "26": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the fear of the LORD [ is ] strong confidence",
+      "traditions": {
+        "WLC": "בְּ יִרְאַ֣ת יְ֭הוָה מִבְטַח עֹ֑ז",
+        "LXX": "ἐν φόβῳ Κυρίου ἐλπὶς ἰσχύος ,",
+        "VUL": "In timóre Dómini fidúcia fortitúdinis ,",
+        "SP": null,
+        "KJV": "In the fear of the LORD [ is ] strong confidence :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and his children shall have a place of refuge",
+      "traditions": {
+        "WLC": "וּ֝ לְ בָנָ֗י ו יִהְיֶ֥ה מַחְסֶֽה",
+        "LXX": "τοῖς δὲ τέκνοις αὐτοῦ καταλείπει ἔρεισμα .",
+        "VUL": "et fíliis eius erit spes .",
+        "SP": null,
+        "KJV": "and his children shall have a place of refuge .",
+        "DSS": null
+      }
+    }
+  ],
+  "27": [
+    {
+      "thought_id": 1,
+      "english_reference": "The fear of the LORD [ is ] a fountain of life",
+      "traditions": {
+        "WLC": "יִרְאַ֣ת יְ֭הוָה מְק֣וֹר חַיִּ֑ים",
+        "LXX": "πρόσταγμα Κυρίου πηγὴ ζωῆς ,",
+        "VUL": "Timor Dómini fons vitæ ,",
+        "SP": null,
+        "KJV": "The fear of the LORD [ is ] a fountain of life ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to depart from the snares of death",
+      "traditions": {
+        "WLC": "לָ֝ ס֗וּר מִ מֹּ֥קְשֵׁי מָֽוֶת",
+        "LXX": "ποιεῖ δὲ ἐκκλίνειν ἐκ παγίδος θανάτου .",
+        "VUL": "ut declínent a ruína mortis .",
+        "SP": null,
+        "KJV": "to depart from the snares of death .",
+        "DSS": null
+      }
+    }
+  ],
+  "28": [
+    {
+      "thought_id": 1,
+      "english_reference": "In the multitude of people [ is ] the king ’s honour",
+      "traditions": {
+        "WLC": "בְּ רָב עָ֥ם הַדְרַת מֶ֑לֶךְ",
+        "LXX": "ἐν πολλῷ ἔθνει δόξα βασιλέως ,",
+        "VUL": "In multitúdine pópuli dígnitas regis :",
+        "SP": null,
+        "KJV": "In the multitude of people [ is ] the king ’s honour :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but in the want of people [ is ] the destruction of the prince",
+      "traditions": {
+        "WLC": "וּ בְ אֶ֥פֶס לְ֝אֹ֗ם מְחִתַּ֥ת רָזֽוֹן",
+        "LXX": "ἐν δὲ ἐκλείψει λαοῦ συντριβὴ δυνάστου .",
+        "VUL": "et in paucitáte plebis ignomínia príncipis .",
+        "SP": null,
+        "KJV": "but in the want of people [ is ] the destruction of the prince .",
+        "DSS": null
+      }
+    }
+  ],
+  "29": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ He that is ] slow to wrath [ is ] of great understanding",
+      "traditions": {
+        "WLC": "אֶ֣רֶךְ אַ֭פַּיִם רַב תְּבוּנָ֑ה",
+        "LXX": "μακρόθυμος ἀνὴρ πολὺς ἐν φρονήσει ,",
+        "VUL": "Qui pátiens est , multa gubernátur prudéntia :",
+        "SP": null,
+        "KJV": "[ He that is ] slow to wrath [ is ] of great understanding :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but [ he that is ] hasty of spirit exalteth folly",
+      "traditions": {
+        "WLC": "וּ קְצַר ר֝֗וּחַ מֵרִ֥ים אִוֶּֽלֶת",
+        "LXX": "ὁ δὲ ὀλιγόψυχος ἰσχυρὸς ἄφρων .",
+        "VUL": "qui autem impátiens est , exáltat stultítiam suam .",
+        "SP": null,
+        "KJV": "but [ he that is ] hasty of spirit exalteth folly .",
+        "DSS": null
+      }
+    }
+  ],
+  "30": [
+    {
+      "thought_id": 1,
+      "english_reference": "A sound heart [ is ] the life of the flesh",
+      "traditions": {
+        "WLC": "חַיֵּ֣י בְ֭שָׂרִים לֵ֣ב מַרְפֵּ֑א",
+        "LXX": "πρᾳύθυμος ἀνὴρ καρδίας ἰατρός ,",
+        "VUL": "Vita cárnium , sánitas cordis :",
+        "SP": null,
+        "KJV": "A sound heart [ is ] the life of the flesh :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but envy the rottenness of the bones",
+      "traditions": {
+        "WLC": "וּ רְקַ֖ב עֲצָמ֣וֹת קִנְאָֽה",
+        "LXX": "σὴς δὲ ὀστέων καρδία αἰσθητική .",
+        "VUL": "putrédo óssium , invídia .",
+        "SP": null,
+        "KJV": "but envy the rottenness of the bones .",
+        "DSS": null
+      }
+    }
+  ],
+  "31": [
+    {
+      "thought_id": 1,
+      "english_reference": "He that oppresseth the poor reproacheth his Maker :",
+      "traditions": {
+        "WLC": "עֹ֣שֵֽׁק דָּ֭ל חֵרֵ֣ף עֹשֵׂ֑ הוּ",
+        "LXX": "ὁ συκοφαντῶν πένητα παροξύνει τὸν ποιήσαντα αὐτόν ,",
+        "VUL": "Qui calumniátur egéntem , éxprobrat factóri eius :",
+        "SP": null,
+        "KJV": "He that oppresseth the poor reproacheth his Maker :",
+        "DSS": "[4Q103] [ עשק דל  ]ח##ר##ף עש׳ה[ ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but he that honoureth him hath mercy on the poor .",
+      "traditions": {
+        "WLC": "וּ֝ מְכַבְּד֗ וֹ חֹנֵ֥ן אֶבְיֽוֹן",
+        "LXX": "ὁ δὲ τιμῶν αὐτὸν ἐλεᾷ πτωχόν .",
+        "VUL": "honórat autem eum , qui miserétur páuperis .",
+        "SP": null,
+        "KJV": "but he that honoureth him hath mercy on the poor .",
+        "DSS": "ו#? מכבד׳ו חו?נ#?[ ן  ]אביון ׃"
+      }
+    }
+  ],
+  "32": [
+    {
+      "thought_id": 1,
+      "english_reference": "The wicked is driven away in his wickedness :",
+      "traditions": {
+        "WLC": "בְּֽ֭ רָעָת וֹ יִדָּחֶ֣ה רָשָׁ֑ע",
+        "LXX": "ἐν κακίᾳ αὐτοῦ ἀπωσθήσεται ἀσεβής ,",
+        "VUL": "In malítia sua expellétur ímpius :",
+        "SP": null,
+        "KJV": "The wicked is driven away in his wickedness :",
+        "DSS": "[4Q103] [ ב רעת ]׳ו#?[  י ]דחה רשע##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but the righteous hath hope in his death .",
+      "traditions": {
+        "WLC": "וְ חֹסֶ֖ה בְ מוֹת֣ וֹ צַדִּֽיק",
+        "LXX": "ὁ δὲ πεποιθὼς τῇ ἑαυτοῦ ὁσιότητι δίκαιος .",
+        "VUL": "sperat autem iustus in morte sua .",
+        "SP": null,
+        "KJV": "but the righteous hath hope in his death .",
+        "DSS": "[  ו ח ]ס##ה# ב מות׳ו צ##ד##יק ׃"
+      }
+    }
+  ],
+  "33": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wisdom resteth in the heart of him that hath understanding :",
+      "traditions": {
+        "WLC": "בְּ לֵ֣ב נָ֭בוֹן תָּנ֣וּחַ חָכְמָ֑ה",
+        "LXX": "ἐν καρδίᾳ ἀγαθῇ ἀνδρὸς σοφία ,",
+        "VUL": "In corde prudéntis requiéscit sapiéntia ,",
+        "SP": null,
+        "KJV": "Wisdom resteth in the heart of him that hath understanding :",
+        "DSS": "[4Q103] [ ב לב נבון ] תנוח חכמה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but [ that which is ] in the midst of fools is made known .",
+      "traditions": {
+        "WLC": "וּ בְ קֶ֥רֶב כְּ֝סִילִ֗ים תִּוָּדֵֽעַ",
+        "LXX": "ἐν δὲ καρδίᾳ ἀφρόνων οὐ διαγινώσκεται .",
+        "VUL": "et indóctos quosque erúdiet .",
+        "SP": null,
+        "KJV": "but [ that which is ] in the midst of fools is made known .",
+        "DSS": "ו ב## קרב כסילי[ ם תודע ] ׃"
+      }
+    }
+  ],
+  "34": [
+    {
+      "thought_id": 1,
+      "english_reference": "Righteousness exalteth a nation :",
+      "traditions": {
+        "WLC": "צְדָקָ֥ה תְרֽוֹמֵֽם גּ֑וֹי",
+        "LXX": "δικαιοσύνη ὑψοῖ ἔθνος ,",
+        "VUL": "Iustítia élevat gentem :",
+        "SP": null,
+        "KJV": "Righteousness exalteth a nation :",
+        "DSS": "[4Q103] [ צדקה  ]ת#רומם גוי"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but sin [ is ] a reproach to any people .",
+      "traditions": {
+        "WLC": "וְ חֶ֖סֶד לְאֻמִּ֣ים חַטָּֽאת",
+        "LXX": "ἐλασσονοῦσι δὲ φυλὰς ἁμαρτίαι .",
+        "VUL": "míseros autem facit pópulos peccátum .",
+        "SP": null,
+        "KJV": "but sin [ is ] a reproach to any people .",
+        "DSS": "ו ח##סר# לאמים[  חטאת ] ׃"
+      }
+    }
+  ],
+  "35": [
+    {
+      "thought_id": 1,
+      "english_reference": "The king ’s favour [ is ] toward a wise servant :",
+      "traditions": {
+        "WLC": "רְֽצוֹן מֶ֭לֶךְ לְ עֶ֣בֶד מַשְׂכִּ֑יל",
+        "LXX": "δεκτὸς βασιλεῖ ὑπηρέτης νοήμων ,",
+        "VUL": "Accéptus est regi miníster intélligens :",
+        "SP": null,
+        "KJV": "The king ’s favour [ is ] toward a wise servant :",
+        "DSS": "[4Q103] [ רצון מל ]ך ל עבד משכיל"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but his wrath is [ against ] him that causeth shame .",
+      "traditions": {
+        "WLC": "וְ֝ עֶבְרָת֗ וֹ תִּהְיֶ֥ה מֵבִֽישׁ",
+        "LXX": "τῇ δὲ ἑαυτοῦ εὐστροφίᾳ ἀφαιρεῖται ἀτιμίαν .",
+        "VUL": "iracúndiam eius inútilis sustinébit .",
+        "SP": null,
+        "KJV": "but his wrath is [ against ] him that causeth shame .",
+        "DSS": "ו עבר##ת׳ו תהי#?[ ה מביש ] ׃"
+      }
+    }
+  ]
+}

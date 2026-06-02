@@ -1,0 +1,660 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses told the children of Israel",
+      "traditions": {
+        "WLC": "וַ יֹּ֥אמֶר מֹשֶׁ֖ה אֶל בְּנֵ֣י יִשְׂרָאֵ֑ל",
+        "LXX": "Καὶ ἐλάλησεν Μωυσῆς τοῖς υἱοῖς Ἰσραὴλ",
+        "VUL": "Narravítque Móyses fíliis Israel",
+        "SP": "ו יאמר משׁה אל בני ישׂראל",
+        "KJV": "And Moses told the children of Israel",
+        "DSS": "[4Q27] [ ו יואמר מושה אל בני ישראל כ ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "according to all that the LORD commanded Moses .",
+      "traditions": {
+        "WLC": "כְּ כֹ֛ל אֲשֶׁר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה",
+        "LXX": "κατὰ πάντα ὅσα ἐνετείλατο Κύριος τῷ Μωυσῇ .",
+        "VUL": "ómnia quæ ei Dóminus imperárat :",
+        "SP": "כ כל אשׁר צוה יהוה את משׁה",
+        "KJV": "according to all that the LORD commanded Moses .",
+        "DSS": "כ##ול אשר צוה יהוה את מושה##[  ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Moses spake unto the heads of the tribes concerning the children of Israel , saying ,",
+      "traditions": {
+        "WLC": "וַ יְדַבֵּ֤ר מֹשֶׁה֙ אֶל רָאשֵׁ֣י הַ מַּטּ֔וֹת לִ בְנֵ֥י יִשְׂרָאֵ֖ל לֵ אמֹ֑ר",
+        "LXX": "καὶ ἐλάλησεν Μωυσῆς πρὸς τοὺς ἄρχοντας τῶν φυλῶν Ἰσραὴλ λέγων",
+        "VUL": "et locútus est ad príncipes tríbuum filiórum Israel :",
+        "SP": "ו ידבר משׁה אל ראשׁי ה מטות ל בני ישׂראל ל אמר",
+        "KJV": "And Moses spake unto the heads of the tribes concerning the children of Israel , saying ,",
+        "DSS": "[4Q27] ו ידבר מושה ] [ אל ראשי ה מטות ל בני ישראל ל אמור ]"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "This [ is ] the thing which the LORD hath commanded .",
+      "traditions": {
+        "WLC": "זֶ֣ה הַ דָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהוָֽה",
+        "LXX": "Τοῦτο τὸ ῥῆμα ὃ συνέταξεν Κύριος ·",
+        "VUL": "Iste est sermo quem præcépit Dóminus :",
+        "SP": "זה ה דבר אשׁר צוה יהוה",
+        "KJV": "This [ is ] the thing which the LORD hath commanded .",
+        "DSS": "זה ה דבר אשר צוה י#?ה##[ וה ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "If a man vow a vow unto the LORD ,",
+      "traditions": {
+        "WLC": "אִישׁ֩ כִּֽי יִדֹּ֨ר נֶ֜דֶר לַֽ יהוָ֗ה",
+        "LXX": "ἄνθρωπος ἄνθρωπος ὃς ἂν εὔξηται εὐχὴν Κυρίῳ",
+        "VUL": "Si quis virórum votum Dómino vóverit ,",
+        "SP": "אישׁ כי ידר נדר ל יהוה",
+        "KJV": "If a man vow a vow unto the LORD ,",
+        "DSS": "[4Q27] איש ] [ איש כיא ידור נדר ל יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or swear an oath to bind his soul with a bond ;",
+      "traditions": {
+        "WLC": "אֽוֹ הִשָּׁ֤בַע שְׁבֻעָה֙ לֶ אְסֹ֤ר אִסָּר֙ עַל נַפְשׁ֔ וֹ",
+        "LXX": "ἢ ὀμόσῃ ὅρκον ὁρισμῷ ἢ ὁρίσηται περὶ τῆς ψυχῆς αὐτοῦ ,",
+        "VUL": "aut se constrínxerit iuraménto :",
+        "SP": "או ה שׁבע שׁבועה ל אסר אסר על נפשׁו",
+        "KJV": "or swear an oath to bind his soul with a bond ;",
+        "DSS": "او השבע ש ]ב#ועה ל אסור א[ סר על נפש׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he shall not break his word ,",
+      "traditions": {
+        "WLC": "לֹ֥א יַחֵ֖ל דְּבָר֑ וֹ",
+        "LXX": "οὐ βεβηλώσει τὸ ῥῆμα αὐτοῦ ·",
+        "VUL": "non fáciet írritum verbum suum ,",
+        "SP": "לא יחל דבריו",
+        "KJV": "he shall not break his word ,",
+        "DSS": "לוא ] ׃"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "he shall do according to all that proceedeth out of his mouth .",
+      "traditions": {
+        "WLC": "כְּ כָל הַ יֹּצֵ֥א מִ פִּ֖י ו יַעֲשֶֽׂה",
+        "LXX": "πάντα ὅσα ἐὰν ἐξέλθῃ ἐκ τοῦ στόματος αὐτοῦ ποιήσει",
+        "VUL": "sed omne quod promísit , implébit .",
+        "SP": "כ כל ה יוצא מ פיו יעשׂה",
+        "KJV": "he shall do according to all that proceedeth out of his mouth .",
+        "DSS": "[4Q23] ε מ פי׳ו?[  יעשה ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "If a woman also vow a vow unto the LORD ,",
+      "traditions": {
+        "WLC": "וְ אִשָּׁ֕ה כִּֽי תִדֹּ֥ר נֶ֖דֶר לַ יהוָ֑ה",
+        "LXX": "ἐὰν δὲ γυνὴ εὔξηται εὐχὴν Κυρίῳ",
+        "VUL": "Múlier si quíppiam vóverit ,",
+        "SP": "ו אשׁה כי תדר נדר ל יהוה",
+        "KJV": "If a woman also vow a vow unto the LORD ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and bind [ herself ] by a bond ,",
+      "traditions": {
+        "WLC": "וְ אָסְרָ֥ה אִסָּ֛ר",
+        "LXX": "ἢ ὁρίσηται ὁρισμὸν",
+        "VUL": "et se constrínxerit iuraménto ,",
+        "SP": "ו אסרה אסר",
+        "KJV": "and bind [ herself ] by a bond , [ being ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "[being] in her father ’s house in her youth ;",
+      "traditions": {
+        "WLC": "בְּ בֵ֥ית אָבִ֖י הָ בִּ נְעֻרֶֽי הָ",
+        "LXX": "ἐν τῷ οἴκῳ τοῦ πατρὸς αὐτῆς ἐν τῇ νεότητι αὐτῆς ,",
+        "VUL": "quæ est in domo patris sui , et in ætáte adhuc puellári : si cognóverit pater votum quod pollícita est , et iuraméntum quo obligávit ánimam suam , et tacúerit , voti rea erit :",
+        "SP": "ב בית אביה ב נעריה",
+        "KJV": "in her father ’s house in her youth ;",
+        "DSS": "[4Q23] ε ε  ]ל[  ε ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And her father hear her vow , and her bond wherewith she hath bound her soul ,",
+      "traditions": {
+        "WLC": "וְ שָׁמַ֨ע אָבִ֜י הָ אֶת נִדְרָ֗ הּ וֶֽ אֱסָרָ הּ֙ אֲשֶׁ֣ר אָֽסְרָ֣ה עַל נַפְשָׁ֔ הּ",
+        "LXX": "καὶ ἀκούσῃ ὁ πατὴρ αὐτῆς τὰς εὐχὰς αὐτῆς καὶ τοὺς ὁρισμοὺς αὐτῆς οὓς ὡρίσατο κατὰ τῆς ψυχῆς αὐτῆς ,",
+        "VUL": null,
+        "SP": "ו שׁמע אביה את נדריה ו אסריה אשׁר אסרה על נפשׁה",
+        "KJV": "And her father hear her vow , and her bond wherewith she hath bound her soul ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and her father shall hold his peace at her :",
+      "traditions": {
+        "WLC": "וְ הֶחֱרִ֥ישׁ לָ֖ הּ אָבִ֑י הָ",
+        "LXX": "καὶ παρασιωπήσῃ αὐτῆς ὁ πατήρ ·",
+        "VUL": "quidquid pollícita est et iurávit , ópere complébit .",
+        "SP": "ו החרישׁ לה אביה",
+        "KJV": "and her father shall hold his peace at her :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "then all her vows shall stand ,",
+      "traditions": {
+        "WLC": "וְ קָ֨מוּ֙ כָּל נְדָרֶ֔י הָ",
+        "LXX": "καὶ στήσονται πᾶσαι αἱ εὐχαὶ αὐτῆς ,",
+        "VUL": null,
+        "SP": "ו קמו כל נדריה",
+        "KJV": "then all her vows shall stand ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and every bond wherewith she hath bound her soul shall stand .",
+      "traditions": {
+        "WLC": "וְ כָל אִסָּ֛ר אֲשֶׁר אָסְרָ֥ה עַל נַפְשָׁ֖ הּ יָקֽוּם",
+        "LXX": "καὶ πάντες οἱ ὁρισμοὶ οὓς ὡρίσατο κατὰ τῆς ψυχῆς αὐτῆς μενοῦσιν αὐτῇ .",
+        "VUL": null,
+        "SP": "ו אסריה אשׁר אסרה על נפשׁה יקומו",
+        "KJV": "and every bond wherewith she hath bound her soul shall stand .",
+        "DSS": "[4Q27] [ יק ]י#?מ׳נ?ו? ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "But if her father disallow her in the day that he heareth ;",
+      "traditions": {
+        "WLC": "וְ אִם הֵנִ֨יא אָבִ֣י הָ אֹתָ הּ֮ בְּ י֣וֹם שָׁמְע וֹ֒",
+        "LXX": "ἐὰν δὲ ἀνανεύων ἀνανεύσῃ ὁ πατὴρ αὐτῆς ᾗ ἂν ἡμέρᾳ ἀκούσῃ",
+        "VUL": "Sin autem statim ut audíerit , contradíxerit pater :",
+        "SP": "ו אם הנא יניא אביה אתה ב יום שׁמעו",
+        "KJV": "But if her father disallow her in the day that he heareth ;",
+        "DSS": "[4Q27] ו#? א##[ ם הנא יניא אבי׳ה אות׳ה ב יום שומע׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "not any of her vows , or of her bonds wherewith she hath bound her soul , shall stand :",
+      "traditions": {
+        "WLC": "כָּל נְדָרֶ֗י הָ וֶֽ אֱסָרֶ֛י הָ אֲשֶׁר אָסְרָ֥ה עַל נַפְשָׁ֖ הּ לֹ֣א יָק֑וּם",
+        "LXX": "πάσας τὰς εὐχὰς αὐτῆς καὶ τοὺς ὁρισμοὺς οὓς ὡρίσατο κατὰ τῆς ψυχῆς αὐτῆς , οὐ στήσονται ·",
+        "VUL": "et vota et iuraménta eius írrita erunt , nec obnóxia tenébitur sponsióni ,",
+        "SP": "כל נדריה ו אסריה אשׁר אסרה על נפשׁה לא יקומו",
+        "KJV": "not any of her vows , or of her bonds wherewith she hath bound her soul , shall stand :",
+        "DSS": "כול נדרי׳ה ו אסרי ]׳ה##[  אשר ] [ א ]ס#רה על נפ#ש׳ה#[  לוא יקומו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the LORD shall forgive her ,",
+      "traditions": {
+        "WLC": "וַֽ יהוָה֙ יִֽסְלַח לָ֔ הּ",
+        "LXX": "καὶ Κύριος καθαριεῖ αὐτήν ,",
+        "VUL": "eo quod contradíxerit pater .",
+        "SP": "ו יהוה יסלח לה",
+        "KJV": "and the LORD shall forgive her ,",
+        "DSS": "ו יהוה יסלח ל׳ה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "because her father disallowed her .",
+      "traditions": {
+        "WLC": "כִּי הֵנִ֥יא אָבִ֖י הָ אֹתָֽ הּ",
+        "LXX": "ὅτι ἀνένευσεν ὁ πατὴρ αὐτῆς .",
+        "VUL": null,
+        "SP": "כי הניא אביה אתה",
+        "KJV": "because her father disallowed her .",
+        "DSS": "כיא הניא אבי׳ה  ]אות׳ה ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if she had at all an husband , when she vowed ,",
+      "traditions": {
+        "WLC": "וְ אִם הָי֤וֹ תִֽהְיֶה֙ לְ אִ֔ישׁ",
+        "LXX": "ἐὰν δὲ γενομένη γένηται ἀνδρί ,",
+        "VUL": "Si marítum habúerit ,",
+        "SP": "ו אם היו תהיה ל אישׁ",
+        "KJV": "And if she had at all an husband , when she vowed ,",
+        "DSS": "[4Q27] ו#? [ אם ] ה#יה תהיה ל אי?ש##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or uttered ought out of her lips , wherewith she bound her soul ;",
+      "traditions": {
+        "WLC": "וּ נְדָרֶ֖י הָ עָלֶ֑י הָ א֚וֹ מִבְטָ֣א שְׂפָתֶ֔י הָ אֲשֶׁ֥ר אָסְרָ֖ה עַל נַפְשָֽׁ הּ",
+        "LXX": "καὶ αἱ εὐχαὶ αὐτῆς ἐπ᾽ αὐτῇ κατὰ τὴν διαστολὴν τῶν χειλέων αὐτῆς , οὓς ὡρίσατο κατὰ τῆς ψυχῆς αὐτῆς ,",
+        "VUL": "et vóverit áliquid , et semel de ore eius verbum egrédiens ánimam eius obligáverit iuraménto :",
+        "SP": "ו נדריה עליה או מבטא שׂפתיה אשׁר אסרה על נפשׁה",
+        "KJV": "or uttered ought out of her lips , wherewith she bound her soul ;",
+        "DSS": "ו נדרי׳ה עלי׳ה או מבטא שפתי׳ה אשר אסרה ע ]ל נפש׳ה ׃"
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And her husband heard [ it , ] and held his peace at her in the day that he heard [ it ] :",
+      "traditions": {
+        "WLC": "וְ שָׁמַ֥ע אִישָׁ֛ הּ בְּ י֥וֹם שָׁמְע֖ וֹ וְ הֶחֱרִ֣ישׁ לָ֑ הּ",
+        "LXX": "καὶ ἀκούσῃ ὁ ἀνὴρ αὐτῆς , καὶ παρασιωπήσῃ αὐτῇ ᾗ ἂν ἡμέρᾳ ἀκούσῃ ·",
+        "VUL": "quo die audíerit vir , et non contradíxerit ,",
+        "SP": "ו שׁמע אישׁה ב יום שׁמעו ו חרישׁ לה",
+        "KJV": "And her husband heard [ it , ] and held his peace at her in the day that he heard [ it ] :",
+        "DSS": "[4Q27] ו שמע איש׳ה ו הח##ר##י#?ש ל׳ה#[  ב יום שומע׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then her vows shall stand ,",
+      "traditions": {
+        "WLC": "וְ קָ֣מוּ נְדָרֶ֗י הָ",
+        "LXX": "καὶ οὕτως στήσονται πᾶσαι αἱ εὐχαὶ αὐτῆς ,",
+        "VUL": "voti rea erit ,",
+        "SP": "ו קמו כל נדריה",
+        "KJV": "then her vows shall stand ,",
+        "DSS": "ו כן יקומו כול נדרי׳ה"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and her bonds wherewith she bound her soul shall stand .",
+      "traditions": {
+        "WLC": "וֶֽ אֱסָרֶ֛ הָ אֲשֶׁר אָסְרָ֥ה עַל נַפְשָׁ֖ הּ יָקֻֽמוּ",
+        "LXX": "καὶ οἱ ὁρισμοὶ αὐτῆς οὓς ὡρίσατο κατὰ τῆς ψυχῆς αὐτῆς στήσονται .",
+        "VUL": "reddétque quodcúmque promíserat .",
+        "SP": "ו אסריה אשׁר אסרה על נפשׁה יקומו",
+        "KJV": "and her bonds wherewith she bound her soul shall stand .",
+        "DSS": "ו אס ]ר##이׳ה אשר אסרה על נפש׳ה י?ק##ו#?מו ׃"
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "But if her husband disallowed her on the day that he heard [ it ] ;",
+      "traditions": {
+        "WLC": "וְ֠ אִם בְּ י֨וֹם שְׁמֹ֣עַ אִישָׁ הּ֮ יָנִ֣יא אוֹתָ הּ֒",
+        "LXX": "ἐὰν δὲ ἀνανεύων ἀνανεύσῃ ὁ ἀνὴρ αὐτῆς ᾗ ἐὰν ἡμέρᾳ ἀκούσῃ ,",
+        "VUL": "Sin autem áudiens statim contradíxerit ,",
+        "SP": "ו אם ב יום שׁמע אישׁה יניא אתה",
+        "KJV": "But if her husband disallowed her on the day that he heard [ it ] ;",
+        "DSS": "[4Q27] ו א[ ם ב יום שמוע איש׳ה יניא אות׳ה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then he shall make her vow which she vowed , and that which she uttered with her lips , wherewith she bound her soul , of none effect :",
+      "traditions": {
+        "WLC": "וְ הֵפֵ֗ר אֶת נִדְרָ הּ֙ אֲשֶׁ֣ר עָלֶ֔י הָ וְ אֵת֙ מִבְטָ֣א שְׂפָתֶ֔י הָ אֲשֶׁ֥ר אָסְרָ֖ה עַל נַפְשָׁ֑ הּ",
+        "LXX": "πᾶσαι αἱ εὐχαὶ αὐτῆς καὶ οἱ ὁρισμοὶ αὐτῆς οὓς ὡρίσατο κατὰ τῆς ψυχῆς αὐτῆς οὐ μενοῦσιν , ὅτι ὁ ἀνὴρ ἀνένευσεν ἀπ᾽ αὐτῆς ·",
+        "VUL": "et írritas fécerit pollicitatiónes eius , verbáque quibus obstrínxerat ánimam suam :",
+        "SP": "ו הפר את נדריה אשׁר עליה או מבטא שׂפתיה אשׁר אסרה על נפשׁה",
+        "KJV": "then he shall make her vow which she vowed , and that which she uttered with her lips , wherewith she bound her soul , of none effect :",
+        "DSS": "ו הפר את  ]כול נדרי׳ה ו אסרי׳ה ׃"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and the LORD shall forgive her .",
+      "traditions": {
+        "WLC": "וַ יהוָ֖ה יִֽסְלַֽח לָֽ הּ",
+        "LXX": "καὶ Κύριος καθαριεῖ αὐτήν .",
+        "VUL": "propítius erit ei Dóminus .",
+        "SP": "ו יהוה יסלח לה",
+        "KJV": "and the LORD shall forgive her .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "But every vow of a widow , and of her that is divorced ,",
+      "traditions": {
+        "WLC": "וְ נֵ֥דֶר אַלְמָנָ֖ה וּ גְרוּשָׁ֑ה",
+        "LXX": "καὶ εὐχὴ χήρας καὶ ἐκβεβλημένης ,",
+        "VUL": "Vídua et repudiáta",
+        "SP": "ו נדר אלמנה ו גרושׁה",
+        "KJV": "But every vow of a widow , and of her that is divorced ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "wherewith they have bound their souls ,",
+      "traditions": {
+        "WLC": "כֹּ֛ל אֲשֶׁר אָסְרָ֥ה עַל נַפְשָׁ֖ הּ",
+        "LXX": "ὅσα ἂν εὔξηται κατὰ τῆς ψυχῆς αὐτῆς ,",
+        "VUL": "quidquid vóverint ,",
+        "SP": "כל אשׁר אסרה על נפשׁה",
+        "KJV": "wherewith they have bound their souls ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "shall stand against her .",
+      "traditions": {
+        "WLC": "יָק֥וּם עָלֶֽי הָ",
+        "LXX": "μενοῦσιν αὐτῇ .",
+        "VUL": "reddent .",
+        "SP": "יקום עליה",
+        "KJV": "shall stand against her .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "And if she vowed in her husband ’s house",
+      "traditions": {
+        "WLC": "וְ אִם בֵּ֥ית אִישָׁ֖ הּ נָדָ֑רָה",
+        "LXX": "ἐὰν δὲ ἐν τῷ οἴκῳ τοῦ ἀνδρὸς αὐτῆς ἡ εὐχὴ αὐτῆς",
+        "VUL": "Uxor in domo viri cum se voto constrínxerit",
+        "SP": "ו אם בית אישׁה נדרה",
+        "KJV": "And if she vowed in her husband ’s house ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "or bound her soul by a bond with an oath",
+      "traditions": {
+        "WLC": "אֽוֹ אָסְרָ֥ה אִסָּ֛ר עַל נַפְשָׁ֖ הּ בִּ שְׁבֻעָֽה",
+        "LXX": "ἢ ὁ ὁρισμὸς κατὰ τῆς ψυχῆς αὐτῆς μεθ᾽ ὅρκου ,",
+        "VUL": "et iuraménto ,",
+        "SP": "או אסרה אסר על נפשׁה ב שׁבועה",
+        "KJV": "or bound her soul by a bond with an oath ;",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "And her husband heard [ it ] , and held his peace at her , [ and ] disallowed her not",
+      "traditions": {
+        "WLC": "וְ שָׁמַ֤ע אִישָׁ הּ֙ וְ הֶחֱרִ֣שׁ לָ֔ הּ לֹ֥א הֵנִ֖יא אֹתָ֑ הּ",
+        "LXX": "καὶ ἀκούσῃ ὁ ἀνὴρ αὐτῆς , καὶ παρασιωπήσῃ αὐτῇ καὶ μὴ ἀνανεύσῃ αὐτῇ ·",
+        "VUL": "si audíerit vir , et tacúerit , nec contradíxerit sponsióni ,",
+        "SP": "ו שׁמע אישׁה ו חרישׁ לה לא הניא אתה",
+        "KJV": "And her husband heard [ it ] , and held his peace at her , [ and ] disallowed her not :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then all her vows shall stand",
+      "traditions": {
+        "WLC": "וְ קָ֨מוּ֙ כָּל נְדָרֶ֔י הָ",
+        "LXX": "καὶ στήσονται πᾶσαι αἱ εὐχαὶ αὐτῆς ,",
+        "VUL": "reddet quodcúmque promíserat .",
+        "SP": "ו קמו כל נדריה",
+        "KJV": "then all her vows shall stand ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and every bond wherewith she bound her soul shall stand",
+      "traditions": {
+        "WLC": "וְ כָל אִסָּ֛ר אֲשֶׁר אָסְרָ֥ה עַל נַפְשָׁ֖ הּ יָקֽוּם",
+        "LXX": "καὶ πάντες οἱ ὁρισμοὶ αὐτῆς οὓς ὡρίσατο κατὰ τῆς ψυχῆς αὐτῆς στήσονται κατ᾽ αὐτῆς .",
+        "VUL": null,
+        "SP": "ו כל אסריה אשׁר אסרה על נפשׁה יקומו",
+        "KJV": "and every bond wherewith she bound her soul shall stand .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "But if her husband hath utterly made them void on the day he heard [ them ]",
+      "traditions": {
+        "WLC": "וְ אִם הָפֵר֩ יָפֵ֨ר אֹתָ֥ ם אִישָׁ הּ֮ בְּ י֣וֹם שָׁמְע וֹ֒",
+        "LXX": "ἐὰν δὲ περιελὼν περιέλῃ ὁ ἀνὴρ αὐτῆς ᾗ ἂν ἡμέρᾳ ἀκούσῃ πάντα ,",
+        "VUL": "Sin autem extémplo contradíxerit ,",
+        "SP": "ו אם הפר יפיר אתם אישׁה ב יום שׁמעו",
+        "KJV": "But if her husband hath utterly made them void on the day he heard [ them ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then whatsoever proceeded out of her lips concerning her vows , or concerning the bond of her soul , shall not stand",
+      "traditions": {
+        "WLC": "כָּל מוֹצָ֨א שְׂפָתֶ֧י הָ לִ נְדָרֶ֛י הָ וּ לְ אִסַּ֥ר נַפְשָׁ֖ הּ לֹ֣א יָק֑וּם",
+        "LXX": "ὅσα ἐὰν ἐξέλθῃ ἐκ τῶν χειλέων αὐτῆς κατὰ τὰς εὐχὰς αὐτῆς καὶ κατὰ τοὺς ὁρισμοὺς τοὺς κατὰ τῆς ψυχῆς αὐτῆς , οὐ μενεῖ αὐτῇ ·",
+        "VUL": "non tenébitur promissiónis rea :",
+        "SP": "כל מוצא שׂפתיה ל נדריה ו ל אסר נפשׁה לא יקומו",
+        "KJV": "then ] whatsoever proceeded out of her lips concerning her vows , or concerning the bond of her soul , shall not stand :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "her husband hath made them void",
+      "traditions": {
+        "WLC": "אִישָׁ֣ הּ הֲפֵרָ֔ ם",
+        "LXX": "ὁ ἀνὴρ αὐτῆς περιεῖλεν ,",
+        "VUL": "quia marítus contradíxit ,",
+        "SP": "אישׁה הפירם",
+        "KJV": "her husband hath made them void ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and the LORD shall forgive her",
+      "traditions": {
+        "WLC": "וַ יהוָ֖ה יִֽסְלַֽח לָֽ הּ",
+        "LXX": "καὶ Κύριος καθαρίσει αὐτήν .",
+        "VUL": "et Dóminus ei propítius erit .",
+        "SP": "ו יהוה יסלח לה",
+        "KJV": "and the LORD shall forgive her .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Every vow , and every binding oath to afflict the soul",
+      "traditions": {
+        "WLC": "כָּל נֵ֛דֶר וְ כָל שְׁבֻעַ֥ת אִסָּ֖ר לְ עַנֹּ֣ת נָ֑פֶשׁ אִישָׁ֥ הּ",
+        "LXX": "πᾶσα εὐχὴ καὶ πᾶς ὅρκος δεσμοῦ κακῶσαι ψυχήν ,",
+        "VUL": "Si vóverit , et iuraménto se constrínxerit , ut per ieiúnium , vel ceterárum rerum abstinéntiam afflígat ánimam suam ,",
+        "SP": "כל נדר ו כל שׁבועת אסר ל ענות נפשׁ אישׁה",
+        "KJV": "Every vow , and every binding oath to afflict the soul ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "her husband may establish it",
+      "traditions": {
+        "WLC": "יְקִימֶ֖ נּוּ",
+        "LXX": "ὁ ἀνὴρ αὐτῆς στήσει αὐτῇ",
+        "VUL": "in arbítrio viri erit ut fáciat ,",
+        "SP": "יקימנו",
+        "KJV": "her husband may establish it ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "or her husband may make it void",
+      "traditions": {
+        "WLC": "וְ אִישָׁ֥ הּ יְפֵרֶֽ נּוּ",
+        "LXX": "καὶ ὁ ἀνὴρ αὐτῆς περιελεῖ .",
+        "VUL": "sive non fáciat .",
+        "SP": "ו אישׁה יפירנו",
+        "KJV": "or her husband may make it void .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "But if her husband altogether hold his peace at her from day to day",
+      "traditions": {
+        "WLC": "וְ אִם הַחֲרֵשׁ֩ יַחֲרִ֨ישׁ לָ֥ הּ אִישָׁ הּ֮ מִ יּ֣וֹם אֶל יוֹם֒",
+        "LXX": "ἐὰν δὲ σιωπῶν παρασιωπήσῃ αὐτῇ ἡμέραν ἐξ ἡμέρας ,",
+        "VUL": "Quod si áudiens vir tacúerit , et in álteram diem distúlerit senténtiam ,",
+        "SP": "ו אם החרישׁ יחרישׁ לה אישׁה מ יום אל יום",
+        "KJV": "But if her husband altogether hold his peace at her from day to day ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then he establisheth all her vows , or all her bonds , which [ are ] upon her",
+      "traditions": {
+        "WLC": "וְ הֵקִים֙ אֶת כָּל נְדָרֶ֔י הָ א֥וֹ אֶת כָּל אֱסָרֶ֖י הָ אֲשֶׁ֣ר עָלֶ֑י הָ",
+        "LXX": "καὶ στήσει αὐτῇ πάσας τὰς εὐχὰς αὐτῆς , καὶ τοὺς ὁρισμοὺς τοὺς ἐπ᾽ αὐτῆς",
+        "VUL": "quidquid vóverat atque promíserat , reddet :",
+        "SP": "ו הקם את כל נדריה או את כל אסריה אשׁר עליה",
+        "KJV": "then he establisheth all her vows , or all her bonds , which [ are ] upon her :",
+        "DSS": "[4Q27] [ ו הקים את כול נדרי׳ה או את כול אסרי׳ה אשר עלי׳ה ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he confirmeth them",
+      "traditions": {
+        "WLC": "הֵקִ֣ים אֹתָ֔ ם",
+        "LXX": "στήσει αὐτῇ ,",
+        "VUL": null,
+        "SP": "הקים אתם",
+        "KJV": "he confirmeth them ,",
+        "DSS": "[4Q27] [ הקים אות׳מ ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "because he held his peace at her in the day that he heard [ them ]",
+      "traditions": {
+        "WLC": "כִּי הֶחֱרִ֥שׁ לָ֖ הּ בְּ י֥וֹם שָׁמְעֽ וֹ",
+        "LXX": "ὅτι ἐσιώπησεν αὐτῇ τῇ ἡμέρᾳ ἣν ἤκουσεν .",
+        "VUL": "quia statim ut audívit , tácuit .",
+        "SP": "כי חרישׁ לה ב יום שׁמעו",
+        "KJV": "because he held his peace at her in the day that he heard [ them ] .",
+        "DSS": "[4Q27] ה## [ כיא החריש ל׳ה ב יום שומע׳ו ׃"
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "But if he shall any ways make them void after that he hath heard [ them ]",
+      "traditions": {
+        "WLC": "וְ אִם הָפֵ֥ר יָפֵ֛ר אֹתָ֖ ם אַחֲרֵ֣י שָׁמְע֑ וֹ",
+        "LXX": "ἐὰν δὲ περιελὼν περιέλῃ αὐτῆς μετὰ τὴν ἡμέραν ἣν ἤκουσεν ,",
+        "VUL": "Sin autem contradíxerit postquam rescívit ,",
+        "SP": "ו אם הפר יפיר אתם אחרי שׁמעו",
+        "KJV": "But if he shall any ways make them void after that he hath heard [ them ] ;",
+        "DSS": "[4Q27] [ ו אם הפר יפר אות׳מה אחרי יום ]ש##ו#?מע׳ו"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then he shall bear her iniquity",
+      "traditions": {
+        "WLC": "וְ נָשָׂ֖א אֶת עֲוֺנָֽ הּ",
+        "LXX": "καὶ λήμψεται τὴν ἁμαρτίαν αὐτοῦ .",
+        "VUL": "portábit ipse iniquitátem eius .",
+        "SP": "ו נשׂא את עונו",
+        "KJV": "then he shall bear her iniquity .",
+        "DSS": "[4Q27] [ ו נשא את עונ׳ו ׃"
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "These [ are ] the statutes , which the LORD commanded Moses",
+      "traditions": {
+        "WLC": "אֵ֣לֶּה הַֽ חֻקִּ֗ים אֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֶת מֹשֶׁ֔ה",
+        "LXX": "ταῦτα τὰ δικαιώματα ὅσα ἐνετείλατο Κύριος τῷ Μωυσῇ",
+        "VUL": "Istæ sunt leges , quas constítuit Dóminus Móysi",
+        "SP": "אלה ה חקים אשׁר צוה יהוה את משׁה",
+        "KJV": "These [ are ] the statutes , which the LORD commanded Moses ,",
+        "DSS": "[4Q27] אלה ה חוקים אשר צוה יהוה את מושה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "between a man and his wife",
+      "traditions": {
+        "WLC": "בֵּ֥ין אִ֖ישׁ לְ אִשְׁתּ֑ וֹ",
+        "LXX": "ἀνὰ μέσον ἀνδρὸς καὶ γυναικὸς αὐτοῦ ,",
+        "VUL": "inter virum et uxórem ,",
+        "SP": "בין אישׁ ל אשׁתו",
+        "KJV": "between a man and his wife ,",
+        "DSS": "[4Q27] בין אי ]ש# [ ל אשת׳ו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "between the father and his daughter",
+      "traditions": {
+        "WLC": "בֵּֽין אָ֣ב לְ בִתּ֔ וֹ",
+        "LXX": "καὶ ἀνὰ μέσον πατρὸς καὶ θυγατρὸς",
+        "VUL": "inter patrem et fíliam ,",
+        "SP": "ו בין אב ל בתו",
+        "KJV": "between the father and his daughter , [",
+        "DSS": "[4Q27] ו בין אב ל בת׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "being yet in her youth in her father ’s house",
+      "traditions": {
+        "WLC": "בִּ נְעֻרֶ֖י הָ בֵּ֥ית אָבִֽי הָ",
+        "LXX": "ἐν νεότητι ἐν οἴκῳ πατρός .",
+        "VUL": "quæ in puellári adhuc ætáte est , vel quæ manet in paréntis domo .",
+        "SP": "ב נעריה ב בית אביה",
+        "KJV": "being yet ] in her youth in her father ’s house .",
+        "DSS": "[4Q27] ב נעורי׳ה ב בית אבי׳ה ׃"
+      }
+    }
+  ]
+}

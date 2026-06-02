@@ -1,0 +1,608 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hear ye this , O priests",
+      "traditions": {
+        "WLC": "שִׁמְעוּ זֹ֨את הַ כֹּהֲנִ֜ים",
+        "LXX": "Ἀκούσατε ταῦτα , οἱ ἱερεῖς ,",
+        "VUL": "Audíte hoc sacerdótes ,",
+        "SP": null,
+        "KJV": "Hear ye this , O priests ;",
+        "DSS": "[4Q78] שמעו זאת ה כהנים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and hearken , ye house of Israel",
+      "traditions": {
+        "WLC": "וְ הַקְשִׁ֣יבוּ בֵּ֣ית יִשְׂרָאֵ֗ל",
+        "LXX": "καὶ προσέχετε , οἶκος Ἰσραήλ ,",
+        "VUL": "et atténdite domus Israel ,",
+        "SP": null,
+        "KJV": "and hearken , ye house of Israel ;",
+        "DSS": "ו הקשיבו בי ]ת## ישר##א##["
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and give ye ear , O house of the king",
+      "traditions": {
+        "WLC": "וּ בֵ֤ית הַ מֶּ֨לֶךְ֙ הַאֲזִ֔ינוּ",
+        "LXX": "καὶ ὁ οἶκος τοῦ βασιλέως , ἐνωτίζεσθε ,",
+        "VUL": "et domus regis auscultáte :",
+        "SP": null,
+        "KJV": "and give ye ear , O house of the king ;",
+        "DSS": "ל ו בית ה מלך האזינו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "for judgment [ is ] toward you",
+      "traditions": {
+        "WLC": "כִּ֥י לָ כֶ֖ם הַ מִּשְׁפָּ֑ט",
+        "LXX": "διότι πρὸς ὑμᾶς ἐστιν τὸ κρίμα ·",
+        "VUL": "quia vobis iudícium est ,",
+        "SP": null,
+        "KJV": "for judgment [ is ] toward you ,",
+        "DSS": "כי ל׳כם ה משפט"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "because ye have been a snare on Mizpah",
+      "traditions": {
+        "WLC": "כִּֽי פַח֙ הֱיִיתֶ֣ם לְ מִצְפָּ֔ה",
+        "LXX": "ὅτι παγὶς ἐγενήθητε τῇ σκοπιᾷ ,",
+        "VUL": "quóniam láqueus facti estis speculatióni ,",
+        "SP": null,
+        "KJV": "because ye have been a snare on Mizpah ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 6,
+      "english_reference": "and a net spread upon Tabor",
+      "traditions": {
+        "WLC": "וְ רֶ֖שֶׁת פְּרוּשָׂ֥ה עַל תָּבֽוֹר",
+        "LXX": "καὶ ὡς δίκτυον ἐκτεταμένον ἐπὶ τὸ Ἰταβύριον ,",
+        "VUL": "et rete expánsum super Thabor .",
+        "SP": null,
+        "KJV": "and a net spread upon Tabor .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the revolters are profound to make slaughter",
+      "traditions": {
+        "WLC": "וְ שַׁחֲטָ֥ה שֵׂטִ֖ים הֶעְמִ֑יקוּ",
+        "LXX": null,
+        "VUL": "Et víctimas declinástis in profúndum :",
+        "SP": null,
+        "KJV": "And the revolters are profound to make slaughter ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "ὃ οἱ ἀγρεύοντες τὴν θήραν κατέπηξαν .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "though I [ have been ] a rebuker of them all",
+      "traditions": {
+        "WLC": "וַ אֲנִ֖י מוּסָ֥ר לְ כֻלָּֽ ם",
+        "LXX": "ἐγὼ δὲ παιδευτὴς ὑμῶν ·",
+        "VUL": "et ego erudítor ómnium eórum .",
+        "SP": null,
+        "KJV": "though I [ have been ] a rebuker of them all .",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "I know Ephraim",
+      "traditions": {
+        "WLC": "אֲנִי֙ יָדַ֣עְתִּי אֶפְרַ֔יִם",
+        "LXX": "ἐγὼ ἔγνων τὸν Ἐφράιμ ,",
+        "VUL": "Ego scio Ephraim ,",
+        "SP": null,
+        "KJV": "I know Ephraim ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Israel is not hid from me",
+      "traditions": {
+        "WLC": "וְ יִשְׂרָאֵ֖ל לֹֽא נִכְחַ֣ד מִמֶּ֑ נִּי",
+        "LXX": "καὶ Ἰσραὴλ οὐκ ἄπεστιν ἀπ᾽ ἐμοῦ .",
+        "VUL": "et Israel non est abscónditus a me :",
+        "SP": null,
+        "KJV": "and Israel is not hid from me :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for now , O Ephraim , thou committest whoredom",
+      "traditions": {
+        "WLC": "כִּ֤י עַתָּה֙ הִזְנֵ֣יתָ אֶפְרַ֔יִם",
+        "LXX": "διότι νῦν ἐξεπόρνευσεν Ἐφράιμ ,",
+        "VUL": "quia nunc fornicátus est Ephraim ,",
+        "SP": null,
+        "KJV": "for now , O Ephraim , thou committest whoredom , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ and ] Israel is defiled",
+      "traditions": {
+        "WLC": "נִטְמָ֖א יִשְׂרָאֵֽל",
+        "LXX": "ἐμιάνθη Ἰσραήλ .",
+        "VUL": "contaminátus est Israel .",
+        "SP": null,
+        "KJV": "Israel is defiled .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "They will not frame their doings to turn unto their God",
+      "traditions": {
+        "WLC": "לֹ֤א יִתְּנוּ֙ מַ֣עַלְלֵי הֶ֔ם לָ שׁ֖וּב אֶל אֱלֹֽהֵי הֶ֑ם",
+        "LXX": "οὐκ ἔδωκαν τὰ διαβούλια αὐτῶν τοῦ ἐπιστρέψαι πρὸς τὸν θεὸν αὐτῶν ,",
+        "VUL": "Non dabunt cogitatiónes suas ut revertántur ad Deum suum :",
+        "SP": null,
+        "KJV": "They will not frame their doings to turn unto their God :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for the spirit of whoredoms [ is ] in the midst of them",
+      "traditions": {
+        "WLC": "כִּ֣י ר֤וּחַ זְנוּנִים֙ בְּ קִרְבָּ֔ ם",
+        "LXX": "ὅτι πνεῦμα πορνίας ἐν αὐτοῖς ἐστίν ,",
+        "VUL": "quia spíritus fornicatiónum in médio eórum ,",
+        "SP": null,
+        "KJV": "for the spirit of whoredoms [ is ] in the midst of them ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and they have not known the LORD",
+      "traditions": {
+        "WLC": "וְ אֶת יְהוָ֖ה לֹ֥א יָדָֽעוּ",
+        "LXX": "τὸν δὲ κύριον οὐκ ἐπέγνωσαν .",
+        "VUL": "et Dóminum non cognovérunt .",
+        "SP": null,
+        "KJV": "and they have not known the LORD .",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And the pride of Israel doth testify to his face",
+      "traditions": {
+        "WLC": "וְ עָנָ֥ה גְאֽוֹן יִשְׂרָאֵ֖ל בְּ פָנָ֑י",
+        "LXX": "καὶ ταπεινωθήσεται ἡ ὕβρις τοῦ Ἰσραὴλ εἰς πρόσωπον αὐτοῦ ,",
+        "VUL": "Et respondébit arrogántia Israel in fácie eius :",
+        "SP": null,
+        "KJV": "And the pride of Israel doth testify to his face :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "therefore shall Israel and Ephraim fall in their iniquity",
+      "traditions": {
+        "WLC": "ו וְ יִשְׂרָאֵ֣ל וְ אֶפְרַ֗יִם יִכָּֽשְׁלוּ֙ בַּ עֲוֺנָ֔ ם",
+        "LXX": "καὶ Ἰσραὴλ καὶ Ἐφράιμ ἀσθενήσουσιν ἐν ταῖς ἀδικίαις αὐτῶν ,",
+        "VUL": "et Israel , et Ephraim ruent in iniquitáte sua :",
+        "SP": null,
+        "KJV": "therefore shall Israel and Ephraim fall in their iniquity ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "Judah also shall fall with them",
+      "traditions": {
+        "WLC": "כָּשַׁ֥ל גַּם יְהוּדָ֖ה עִמָּֽ ם",
+        "LXX": "καὶ ἀσθενήσει καὶ Ἰούδας μετ᾽ αὐτῶν .",
+        "VUL": "ruet étiam Iudas cum eis .",
+        "SP": null,
+        "KJV": "Judah also shall fall with them .",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "They shall go with their flocks and with their herds to seek the LORD",
+      "traditions": {
+        "WLC": "בְּ צֹאנָ֣ ם וּ בִ בְקָרָ֗ ם יֵֽלְכ֛וּ לְ בַקֵּ֥שׁ אֶת יְהוָ֖ה",
+        "LXX": "μετὰ προβάτων καὶ μόσχων πορεύσονται τοῦ ἐκζητῆσαι τὸν κύριον ,",
+        "VUL": "In grégibus suis , et in arméntis suis vadent ad quæréndum Dóminum ,",
+        "SP": null,
+        "KJV": "They shall go with their flocks and with their herds to seek the LORD ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "but they shall not find [ him ]",
+      "traditions": {
+        "WLC": "וְ לֹ֣א יִמְצָ֑אוּ",
+        "LXX": "καὶ οὐ μὴ εὕρωσιν αὐτόν ,",
+        "VUL": "et non invénient :",
+        "SP": null,
+        "KJV": "but they shall not find [ him ] ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "he hath withdrawn himself from them",
+      "traditions": {
+        "WLC": "חָלַ֖ץ מֵ הֶֽם",
+        "LXX": "ὅτι ἐκκέκλικεν ἀπ᾽ αὐτῶν ·",
+        "VUL": "ablátus est ab eis .",
+        "SP": null,
+        "KJV": "he hath withdrawn himself from them .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "They have dealt treacherously against the LORD",
+      "traditions": {
+        "WLC": "בַּ יהוָ֣ה בָּגָ֔דוּ",
+        "LXX": "ὅτι τὸν κύριον ἐνκατέλιπον ,",
+        "VUL": "In Dóminum prævaricáti sunt ,",
+        "SP": null,
+        "KJV": "They have dealt treacherously against the LORD :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "for they have begotten strange children",
+      "traditions": {
+        "WLC": "כִּֽי בָנִ֥ים זָרִ֖ים יָלָ֑דוּ",
+        "LXX": "ὅτι τέκνα ἀλλότρια ἐγεννήθησαν αὐτοῖς ·",
+        "VUL": "quia fílios aliénos genuérunt :",
+        "SP": null,
+        "KJV": "for they have begotten strange children :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "now shall a month devour them with their portions",
+      "traditions": {
+        "WLC": "עַתָּ֛ה יֹאכְלֵ֥ ם חֹ֖דֶשׁ אֶת חֶלְקֵי הֶֽם",
+        "LXX": "νῦν καταφάγεται αὐτοὺς ἡ ἐρυσίβη καὶ τοὺς κλήρους αὐτῶν .",
+        "VUL": "nunc devorábit eos mensis , cum pártibus suis .",
+        "SP": null,
+        "KJV": "now shall a month devour them with their portions .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "Blow ye the cornet in Gibeah",
+      "traditions": {
+        "WLC": "תִּקְע֤וּ שׁוֹפָר֙ בַּ גִּבְעָ֔ה",
+        "LXX": "Σαλπίσατε σάλπιγγι ἐπὶ τοὺς βουνούς ,",
+        "VUL": "Clángite búccina in Gábaa ,",
+        "SP": null,
+        "KJV": "Blow ye the cornet in Gibeah , [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "the trumpet in Ramah",
+      "traditions": {
+        "WLC": "חֲצֹצְרָ֖ה בָּ רָמָ֑ה",
+        "LXX": "ἠχήσατε ἐπὶ τῶν ὑψηλῶν ,",
+        "VUL": "tuba in Rama :",
+        "SP": null,
+        "KJV": "the trumpet in Ramah :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "cry aloud [ at ] Bethaven",
+      "traditions": {
+        "WLC": "הָרִ֨יעוּ֙ בֵּ֣ית אָ֔וֶן",
+        "LXX": "κηρύξατε ἐν τῷ οἴκῳ Ὤν ,",
+        "VUL": "ululáte in Betháven ,",
+        "SP": null,
+        "KJV": "cry aloud [ at ] Bethaven ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "after thee , O Benjamin",
+      "traditions": {
+        "WLC": "אַחֲרֶ֖י ךָ בִּנְיָמִֽין",
+        "LXX": "ἐξέστη Βενιαμείν ,",
+        "VUL": "post tergum tuum Béniamin .",
+        "SP": null,
+        "KJV": "after thee , O Benjamin .",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ephraim shall be desolate in the day of rebuke",
+      "traditions": {
+        "WLC": "אֶפְרַ֨יִם֙ לְ שַׁמָּ֣ה תִֽהְיֶ֔ה בְּ י֖וֹם תּֽוֹכֵחָ֑ה",
+        "LXX": "Ἐφράιμ εἰς ἀφανισμὸν ἐγένετο ἐν ἡμέραις ἐλέγχου .",
+        "VUL": "Ephraim in desolatióne erit in die correptiónis :",
+        "SP": null,
+        "KJV": "Ephraim shall be desolate in the day of rebuke :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "among the tribes of Israel have I made known that which shall surely be",
+      "traditions": {
+        "WLC": "בְּ שִׁבְטֵי֙ יִשְׂרָאֵ֔ל הוֹדַ֖עְתִּי נֶאֱמָנָֽה",
+        "LXX": "ἐν ταῖς φυλαῖς τοῦ Ἰσραὴλ ἔδειξα πιστά ·",
+        "VUL": "in tríbubus Israel osténdi fidem .",
+        "SP": null,
+        "KJV": "among the tribes of Israel have I made known that which shall surely be .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "The princes of Judah were like them that remove the bound",
+      "traditions": {
+        "WLC": "הָיוּ֙ שָׂרֵ֣י יְהוּדָ֔ה כְּ מַסִּיגֵ֖י גְּב֑וּל",
+        "LXX": "ἐγένοντο οἱ ἄρχοντες Ἰούδα ὡς μετατιθέντες ὅρια ,",
+        "VUL": "Facti sunt príncipes Iuda quasi assuméntes términum :",
+        "SP": null,
+        "KJV": "The princes of Judah were like them that remove the bound : [ therefore ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I will pour out my wrath upon them like water",
+      "traditions": {
+        "WLC": "עֲלֵי הֶ֕ם אֶשְׁפּ֥וֹךְ כַּ מַּ֖יִם עֶבְרָתִֽ י",
+        "LXX": "ἐπ᾽ αὐτοὺς ἐκχεῶ ὡς ὕδωρ τὸ ὅρμημά μου .",
+        "VUL": "super eos effúndam quasi aquam iram meam .",
+        "SP": null,
+        "KJV": "I will pour out my wrath upon them like water .",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ephraim [ is ] oppressed",
+      "traditions": {
+        "WLC": "עָשׁ֥וּק אֶפְרַ֖יִם",
+        "LXX": "κατεδυνάστευσεν Ἐφράιμ τὸν ἀντίδικον αὐτοῦ ,",
+        "VUL": "Calúmniam pátiens est Ephraim ,",
+        "SP": null,
+        "KJV": "Ephraim [ is ] oppressed [ and ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ and ] broken in judgment",
+      "traditions": {
+        "WLC": "רְצ֣וּץ מִשְׁפָּ֑ט",
+        "LXX": "κατεπάτησεν τὸ κρίμα ,",
+        "VUL": "fractus iudício :",
+        "SP": null,
+        "KJV": "broken in judgment ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "because he willingly walked after the commandment",
+      "traditions": {
+        "WLC": "כִּ֣י הוֹאִ֔יל הָלַ֖ךְ אַחֲרֵי צָֽו",
+        "LXX": "ὅτι ἤρξατο πορεύεσθαι ὀπίσω τῶν ματαίων .",
+        "VUL": "quóniam cœpit abíre post sordes .",
+        "SP": null,
+        "KJV": "because he willingly walked after the commandment .",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore [ will ] I [ be ] unto Ephraim as a moth",
+      "traditions": {
+        "WLC": "וַ אֲנִ֥י כָ עָ֖שׁ לְ אֶפְרָ֑יִם",
+        "LXX": "καὶ ἐγὼ ὡς ταραχὴ τῷ Ἐφράιμ ,",
+        "VUL": "Et ego quasi tínea Ephraim :",
+        "SP": null,
+        "KJV": "Therefore [ will ] I [ be ] unto Ephraim as a moth ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and to the house of Judah as rottenness",
+      "traditions": {
+        "WLC": "וְ כָ רָקָ֖ב לְ בֵ֥ית יְהוּדָֽה",
+        "LXX": "καὶ ὡς κέντρον τῷ οἴκῳ Ἰούδα .",
+        "VUL": "et quasi putrédo dómui Iuda .",
+        "SP": null,
+        "KJV": "and to the house of Judah as rottenness .",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "When Ephraim saw his sickness , and Judah [ saw ] his wound",
+      "traditions": {
+        "WLC": "וַ יַּ֨רְא אֶפְרַ֜יִם אֶת חָלְי֗ וֹ וִֽ יהוּדָה֙ אֶת מְזֹר֔ וֹ",
+        "LXX": "καὶ εἶδεν Ἐφράιμ τὴν νόσον αὐτοῦ , καὶ Ἰούδας τὴν ὀδύνην αὐτοῦ ·",
+        "VUL": "Et vidit Ephraim languórem suum , et Iuda vínculum suum :",
+        "SP": null,
+        "KJV": "When Ephraim saw his sickness , and Judah [ saw ] his wound ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "then went Ephraim to the Assyrian , and sent to king Jareb",
+      "traditions": {
+        "WLC": "וַ יֵּ֤לֶךְ אֶפְרַ֨יִם֙ אֶל אַשּׁ֔וּר וַ יִּשְׁלַ֖ח אֶל מֶ֣לֶךְ יָרֵ֑ב",
+        "LXX": "καὶ ἐπορεύθη Ἐφράιμ πρὸς Ἀσσυρίους καὶ ἀπέστειλεν πρέσβεις πρὸς βασιλέα Ἰαρείμ ·",
+        "VUL": "et ábiit Ephraim ad Assur , et misit ad regem ultórem :",
+        "SP": null,
+        "KJV": "then went Ephraim to the Assyrian , and sent to king Jareb :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "yet could he not heal you",
+      "traditions": {
+        "WLC": "וְ ה֗וּא לֹ֤א יוּכַל֙ לִ רְפֹּ֣א לָ כֶ֔ם",
+        "LXX": "καὶ οὗτος οὐκ ἠδυνάσθη ἰάσασθαι ὑμᾶς ,",
+        "VUL": "et ipse non póterit sanáre vos ,",
+        "SP": null,
+        "KJV": "yet could he not heal you ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "nor cure you of your wound",
+      "traditions": {
+        "WLC": "וְ לֹֽא יִגְהֶ֥ה מִ כֶּ֖ם מָזֽוֹר",
+        "LXX": "καὶ οὐ μὴ διαπαύσῃ ἐξ ὑμῶν ὀδύνη .",
+        "VUL": "nec sólvere póterit a vobis vínculum .",
+        "SP": null,
+        "KJV": "nor cure you of your wound .",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I [ will be ] unto Ephraim as a lion , and as a young lion to the house of Judah",
+      "traditions": {
+        "WLC": "כִּ֣י אָנֹכִ֤י כַ שַּׁ֨חַל֙ לְ אֶפְרַ֔יִם וְ כַ כְּפִ֖יר לְ בֵ֣ית יְהוּדָ֑ה",
+        "LXX": "διότι ἐγώ εἰμι ὡς πανθὴρ τῷ Ἐφράιμ , καὶ ὡς λέων τῷ οἴκῳ Ἰούδα ·",
+        "VUL": "Quóniam ego quasi leǽna Ephraim , et quasi cátulus leónis dómui Iuda :",
+        "SP": null,
+        "KJV": "For I [ will be ] unto Ephraim as a lion , and as a young lion to the house of Judah :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "I , [ even ] I , will tear and go away",
+      "traditions": {
+        "WLC": "אֲנִ֨י אֲנִ֤י אֶטְרֹף֙ וְ אֵלֵ֔ךְ",
+        "LXX": "καὶ ἐγὼ ἁρπῶμαι καὶ πορεύσομαι",
+        "VUL": "ego ego cápiam , et vadam :",
+        "SP": null,
+        "KJV": "I , [ even ] I , will tear and go away ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "I will take away , and none shall rescue [ him ]",
+      "traditions": {
+        "WLC": "אֶשָּׂ֖א וְ אֵ֥ין מַצִּֽיל",
+        "LXX": "καὶ λήμψομαι , καὶ οὐκ ἔσται ὁ ἐξαιρούμενος .",
+        "VUL": "tollam , et non est qui éruat .",
+        "SP": null,
+        "KJV": "I will take away , and none shall rescue [ him ] .",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "I will go [ and ] return to my place",
+      "traditions": {
+        "WLC": "אֵלֵ֤ךְ אָשׁ֨וּבָה֙ אֶל מְקוֹמִ֔ י",
+        "LXX": "πορεύσομαι καὶ ἐπιστρέψω εἰς τὸν τόπον μου ,",
+        "VUL": "Vadens revértar ad locum meum ,",
+        "SP": null,
+        "KJV": "I will go [ and ] return to my place ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "till they acknowledge their offence , and seek my face",
+      "traditions": {
+        "WLC": "עַ֥ד אֲשֶֽׁר יֶאְשְׁמ֖וּ וּ בִקְשׁ֣וּ פָנָ֑ י",
+        "LXX": "ἕως οὗ ἀφανισθῶσιν καὶ ζητήσουσιν τὸ πρόσωπόν μου .",
+        "VUL": "donec deficiátis , et quærátis fáciem meam .",
+        "SP": null,
+        "KJV": "till they acknowledge their offence , and seek my face :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "in their affliction they will seek me early",
+      "traditions": {
+        "WLC": "בַּ צַּ֥ר לָ הֶ֖ם יְשַׁחֲרֻֽ נְנִי",
+        "LXX": null,
+        "VUL": null,
+        "SP": null,
+        "KJV": "in their affliction they will seek me early .",
+        "DSS": null
+      }
+    }
+  ]
+}

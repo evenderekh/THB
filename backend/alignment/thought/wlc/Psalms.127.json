@@ -1,0 +1,204 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "A Song of degrees for Solomon",
+      "traditions": {
+        "WLC": "שִׁ֥יר הַֽ מַּֽעֲל֗וֹת לִ שְׁלֹ֫מֹ֥ה",
+        "LXX": "ᾨδὴ τῶν ἀναβαθμῶν .",
+        "VUL": "Cánticum gráduum Salomónis .",
+        "SP": null,
+        "KJV": "A Song of degrees for Solomon .",
+        "DSS": "[11Q5] [ שיר ה מעלות  ]ל שלומה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Except the LORD build the house",
+      "traditions": {
+        "WLC": "אִם יְהוָ֤ה לֹא יִבְנֶ֬ה בַ֗יִת",
+        "LXX": "Ἐὰν μὴ Κύριος οἰκοδομήσῃ οἶκον ,",
+        "VUL": "Nisi Dóminus ædificáverit domum ,",
+        "SP": null,
+        "KJV": "Except the LORD build the house ,",
+        "DSS": "[11Q5] א#[ ם יהו ]ה לוא [ י ]בנה[  בי ]ת / [1Q11] [ לא יבנה ] בית"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "they labour in vain that build it",
+      "traditions": {
+        "WLC": "שָׁ֤וְא עָמְל֣וּ בוֹנָ֣י ו בּ֑ וֹ",
+        "LXX": "εἰς μάτην ἐκοπίασαν οἱ οἰκοδομοῦντες αὐτόν ·",
+        "VUL": "in vanum laboravérunt qui ædíficant eam .",
+        "SP": null,
+        "KJV": "they labour in vain that build it :",
+        "DSS": "[11Q5] שוא ׃ / [1Q11] שו?[ א ע ]מ##לו[  בוני׳ו ב׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "except the LORD keep the city",
+      "traditions": {
+        "WLC": "אִם יְהוָ֥ה לֹֽא יִשְׁמָר עִ֝֗יר",
+        "LXX": "ἐὰν μὴ Κύριος φυλάξῃ πόλιν ,",
+        "VUL": "Nisi Dóminus custodíerit civitátem ,",
+        "SP": null,
+        "KJV": "except the LORD keep the city ,",
+        "DSS": "[1Q11] אם יהוה לא ישמר עיר"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "the watchman waketh [ but ] in vain",
+      "traditions": {
+        "WLC": "שָׁ֤וְא שָׁקַ֬ד שׁוֹמֵֽר",
+        "LXX": "εἰς μάτην ἠγρύπνησεν ὁ φυλάσσων .",
+        "VUL": "frustra vígilat qui custódit eam .",
+        "SP": null,
+        "KJV": "the watchman waketh [ but ] in vain .",
+        "DSS": "[1Q11] שוא שקד[  שומר ] ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "[ It is ] vain for you to rise up early",
+      "traditions": {
+        "WLC": "שָׁ֤וְא לָ כֶ֨ם מַשְׁכִּ֪ימֵי ק֡וּם",
+        "LXX": "εἰς μάτην ἐστὶν ὑμῖν τοῦ ὀρθρίζειν ,",
+        "VUL": "Vanum est vobis ante lucem súrgere :",
+        "SP": null,
+        "KJV": "[ It is ] vain for you to rise up early ,",
+        "DSS": "[1Q11] שוא ל׳כם#[  משכימי קום"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to sit up late",
+      "traditions": {
+        "WLC": "מְאַֽחֲרֵי שֶׁ֗בֶת",
+        "LXX": "ἐγείρεσθαι μετὰ τὸ καθῆσθαι ,",
+        "VUL": "súrgite postquam sedéritis ,",
+        "SP": null,
+        "KJV": "to sit up late ,",
+        "DSS": "[1Q11] מאחרי שבת"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to eat the bread of sorrows",
+      "traditions": {
+        "WLC": "אֹ֭כְלֵי לֶ֣חֶם הָ עֲצָבִ֑ים",
+        "LXX": "οἱ ἔσθοντες ἄρτον ὀδύνης ,",
+        "VUL": "qui manducátis panem dolóris .",
+        "SP": null,
+        "KJV": "to eat the bread of sorrows : [ for ]",
+        "DSS": "[1Q11] אכלי לחם ה עצ[ בים"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "[ for ] so he giveth his beloved sleep",
+      "traditions": {
+        "WLC": "כֵּ֤ן יִתֵּ֖ן לִֽ ידִיד֣ וֹ שֵׁנָֽא",
+        "LXX": "ὅταν δῷ τοῖς ἀγαπητοῖς αὐτοῦ ὕπνον .",
+        "VUL": "Cum déderit diléctis suis somnum :",
+        "SP": null,
+        "KJV": "so he giveth his beloved sleep .",
+        "DSS": "[1Q11] כן  ]יתן ל [ ידיד׳ו שנא ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Lo , children [ are ] an heritage of the LORD",
+      "traditions": {
+        "WLC": "הִנֵּ֤ה נַחֲלַ֣ת יְהוָ֣ה בָּנִ֑ים",
+        "LXX": "ἰδοὺ ἡ κληρονομία Κυρίου υἱοί ,",
+        "VUL": "ecce heréditas Dómini , fílii :",
+        "SP": null,
+        "KJV": "Lo , children [ are ] an heritage of the LORD : [ and ]",
+        "DSS": "[1Q11] הנה נחלת יהו ]ה [ בנים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "[ and ] the fruit of the womb [ is his ] reward",
+      "traditions": {
+        "WLC": "שָׂ֝כָ֗ר פְּרִ֣י הַ בָּֽטֶן",
+        "LXX": "ὁ μισθὸς τοῦ καρποῦ τῆς γαστρὸς αὐτῆς .",
+        "VUL": "merces , fructus ventris .",
+        "SP": null,
+        "KJV": "the fruit of the womb [ is his ] reward .",
+        "DSS": "[1Q11] ש ]כ#ר פרי?[  ה בטן ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "As arrows [ are ] in the hand of a mighty man",
+      "traditions": {
+        "WLC": "כְּ חִצִּ֥ים בְּ יַד גִּבּ֑וֹר",
+        "LXX": "ὡσεὶ βέλη ἐν χειρὶ δυνατοῦ ,",
+        "VUL": "Sicut sagíttæ in manu poténtis :",
+        "SP": null,
+        "KJV": "As arrows [ are ] in the hand of a mighty man ;",
+        "DSS": "[1Q11] כ חצים ב יד גבור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "so [ are ] children of the youth",
+      "traditions": {
+        "WLC": "כֵּ֝֗ן בְּנֵ֣י הַ נְּעוּרִֽים",
+        "LXX": "οὕτως οἱ υἱοὶ τῶν ἐκτετιναγμένων .",
+        "VUL": "ita fílii excussórum .",
+        "SP": null,
+        "KJV": "so [ are ] children of the youth .",
+        "DSS": "[1Q11] כן בני ה ] נ#?עורים ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "Happy [ is ] the man that hath his quiver full of them",
+      "traditions": {
+        "WLC": "אַשְׁרֵ֤י הַ גֶּ֗בֶר אֲשֶׁ֤ר מִלֵּ֥א אֶת אַשְׁפָּת֗ וֹ מֵ֫ הֶ֥ם",
+        "LXX": "μακάριος ὃς πληρώσει τὴν ἐπιθυμίαν αὐτοῦ ἐξ αὐτῶν ·",
+        "VUL": "Beátus vir qui implévit desidérium suum ex ipsis :",
+        "SP": null,
+        "KJV": "Happy [ is ] the man that hath his quiver full of them :",
+        "DSS": "[1Q11] [ אשרי ה  ]ג?בר אשר[  מלא את אשפת׳ו מ׳הם"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "they shall not be ashamed",
+      "traditions": {
+        "WLC": "לֹֽא יֵבֹ֑שׁוּ",
+        "LXX": "οὐ καταισχυνθήσεται ,",
+        "VUL": "non confundétur",
+        "SP": null,
+        "KJV": "they shall not be ashamed ,",
+        "DSS": "[1Q11] לא יב ]שו"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "but they shall speak with the enemies in the gate",
+      "traditions": {
+        "WLC": "כִּֽי יְדַבְּר֖וּ אֶת אוֹיְבִ֣ים בַּ שָּֽׁעַר",
+        "LXX": "ὅταν λαλῶσι τοῖς ἐχθροῖς αὐτῶν ἐν πύλῃ .",
+        "VUL": "cum loquétur inimícis suis in porta .",
+        "SP": null,
+        "KJV": "but they shall speak with the enemies in the gate .",
+        "DSS": "[1Q11] כי ׃"
+      }
+    }
+  ]
+}

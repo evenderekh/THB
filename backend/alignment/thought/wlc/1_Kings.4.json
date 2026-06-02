@@ -1,0 +1,582 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "So king Solomon was king over all Israel .",
+      "traditions": {
+        "WLC": "וַֽ יְהִי֙ הַ מֶּ֣לֶךְ שְׁלֹמֹ֔ה מֶ֖לֶךְ עַל כָּל יִשְׂרָאֵֽל",
+        "LXX": "Καὶ ἦν ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ .",
+        "VUL": "Erat autem rex Sálomon regnans super omnem Israel :",
+        "SP": null,
+        "KJV": "So king Solomon was king over all Israel .",
+        "DSS": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "And these [ were ] the princes which he had ;",
+      "traditions": {
+        "WLC": "וְ אֵ֥לֶּה הַ שָּׂרִ֖ים אֲשֶׁר ל֑ וֹ",
+        "LXX": "καὶ οὗτοι ἄρχοντες οἳ ἦσαν αὐτοῦ ·",
+        "VUL": "et hi príncipes quos habébat :",
+        "SP": null,
+        "KJV": "And these [ were ] the princes which he had ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Azariah the son of Zadok the priest ,",
+      "traditions": {
+        "WLC": "עֲזַרְיָ֥הוּ בֶן צָד֖וֹק הַ כֹּהֵֽן",
+        "LXX": "Ἀζαρεὶ υἱὸς Σαδώκ ,",
+        "VUL": "Azarías fílius Sadoc sacerdótis :",
+        "SP": null,
+        "KJV": "Azariah the son of Zadok the priest ,",
+        "DSS": null
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "Elihoreph and Ahiah , the sons of Shisha , scribes ;",
+      "traditions": {
+        "WLC": "אֱלִיחֹ֧רֶף וַ אֲחִיָּ֛ה בְּנֵ֥י שִׁישָׁ֖א סֹפְרִ֑ים",
+        "LXX": "καὶ Ἐλιὰφ καὶ Ἀχειὰ υἱὸς Σαβὰ γραμματεῖς ,",
+        "VUL": "Elíhoreph , et Ahía fílii Sisa scribæ :",
+        "SP": null,
+        "KJV": "Elihoreph and Ahiah , the sons of Shisha , scribes ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Jehoshaphat the son of Ahilud , the recorder .",
+      "traditions": {
+        "WLC": "יְהוֹשָׁפָ֥ט בֶּן אֲחִיל֖וּד הַ מַּזְכִּֽיר",
+        "LXX": "καὶ Ἰωσαφὰθ υἱὸς Ἀχειλιὰδ ὑπομιμνήσκων ,",
+        "VUL": "Iósaphat fílius Ahilud a commentáriis :",
+        "SP": null,
+        "KJV": "Jehoshaphat the son of Ahilud , the recorder .",
+        "DSS": null
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Benaiah the son of Jehoiada [ was ] over the host :",
+      "traditions": {
+        "WLC": "וּ בְנָיָ֥הוּ בֶן יְהוֹיָדָ֖ע עַל הַ צָּבָ֑א",
+        "LXX": null,
+        "VUL": "Banaías fílius Ióiadæ super exércitum :",
+        "SP": null,
+        "KJV": "And Benaiah the son of Jehoiada [ was ] over the host :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Zadok and Abiathar [ were ] the priests :",
+      "traditions": {
+        "WLC": "וְ צָד֥וֹק וְ אֶבְיָתָ֖ר כֹּהֲנִֽים",
+        "LXX": "καὶ Σαδοὺχ καὶ Ἀβιαθὰρ ἱερεῖς ,",
+        "VUL": "Sadoc autem , et Abíathar sacerdótes :",
+        "SP": null,
+        "KJV": "and Zadok and Abiathar [ were ] the priests :",
+        "DSS": null
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Azariah the son of Nathan [ was ] over the officers :",
+      "traditions": {
+        "WLC": "וַ עֲזַרְיָ֥הוּ בֶן נָתָ֖ן עַל הַ נִּצָּבִ֑ים",
+        "LXX": "καὶ Ὀρνειὰ υἱὸς Ναθὰν ἐπὶ τῶν καθεσταμένων ,",
+        "VUL": "Azarías fílius Nathan super eos qui assistébant regi :",
+        "SP": null,
+        "KJV": "And Azariah the son of Nathan [ was ] over the officers :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and Zabud the son of Nathan [ was ] principal officer , [ and ] the king ’s friend :",
+      "traditions": {
+        "WLC": "וְ זָב֧וּד בֶּן נָתָ֛ן כֹּהֵ֖ן רֵעֶ֥ה הַ מֶּֽלֶךְ",
+        "LXX": "καὶ Ζαβοὺθ υἱὸς Ναθὰν ἑταῖρος τοῦ βασιλέως ,",
+        "VUL": "Zabud fílius Nathan sacérdos , amícus regis :",
+        "SP": null,
+        "KJV": "and Zabud the son of Nathan [ was ] principal officer , [ and ] the king ’s friend :",
+        "DSS": null
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Ahishar [ was ] over the household :",
+      "traditions": {
+        "WLC": "וַ אֲחִישָׁ֖ר עַל הַ בָּ֑יִת",
+        "LXX": "καὶ Ἀχεὶ ἦν οἰκονόμος ,",
+        "VUL": "et Ahisar præpósitus domus :",
+        "SP": null,
+        "KJV": "And Ahishar [ was ] over the household :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ Ἐλιὰκ ὁ οἰκονόμος , καὶ Ἐλιάβ υἱὸς Σὰφ ἐπὶ τῆς πατριᾶς ,",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and Adoniram the son of Abda [ was ] over the tribute .",
+      "traditions": {
+        "WLC": "וַ אֲדֹנִירָ֥ם בֶּן עַבְדָּ֖א עַל הַ מַּֽס",
+        "LXX": "καὶ Ἀδωνειρὰμ υἱὸς Ἐφρὰ ἐπὶ τῶν φόρων .",
+        "VUL": "et Adoníram fílius Abda super tribúta .",
+        "SP": null,
+        "KJV": "and Adoniram the son of Abda [ was ] over the tribute .",
+        "DSS": null
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "And Solomon had twelve officers over all Israel ,",
+      "traditions": {
+        "WLC": "וְ לִ שְׁלֹמֹ֞ה שְׁנֵים עָשָׂ֤ר נִצָּבִים֙ עַל כָּל יִשְׂרָאֵ֔ל",
+        "LXX": "καὶ τῷ Σαλωμὼν δώδεκα καθεσταμένοι ἐπὶ πάντα Ἰσραήλ ,",
+        "VUL": "Habébat autem Sálomon duódecim præféctos super omnem Israel ,",
+        "SP": null,
+        "KJV": "And Solomon had twelve officers over all Israel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "which provided victuals for the king and his household :",
+      "traditions": {
+        "WLC": "וְ כִלְכְּל֥וּ אֶת הַ מֶּ֖לֶךְ וְ אֶת בֵּית֑ וֹ",
+        "LXX": "χορηγεῖν τῷ βασιλεῖ καὶ τῷ οἴκῳ αὐτοῦ ·",
+        "VUL": "qui præbébant annónam regi et dómui eius :",
+        "SP": null,
+        "KJV": "which provided victuals for the king and his household :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "each man his month in a year made provision .",
+      "traditions": {
+        "WLC": "חֹ֧דֶשׁ בַּ שָּׁנָ֛ה יִהְיֶ֥ה עַל אחד לְ כַלְכֵּֽל",
+        "LXX": "μῆνα ἐν τῷ ἐνιαυτῷ ἐγίνετο ἐπὶ τὸν ἕνα χορηγεῖν .",
+        "VUL": "per síngulos enim menses in anno , sínguli necessária ministrábant .",
+        "SP": null,
+        "KJV": "each man his month in a year made provision .",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "And these [ are ] their names :",
+      "traditions": {
+        "WLC": "וְ אֵ֣לֶּה שְׁמוֹתָ֔ ם",
+        "LXX": "καὶ ταῦτα τὰ ὀνόματα αὐτῶν ·",
+        "VUL": "Et hæc nómina eórum :",
+        "SP": null,
+        "KJV": "And these [ are ] their names :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "The son of Hur , in mount Ephraim :",
+      "traditions": {
+        "WLC": "בֶּן ח֖וּר בְּ הַ֥ר אֶפְרָֽיִם",
+        "LXX": "Βαιὼρ ἐν ὄρει Ἐφράιμ , εἷς ·",
+        "VUL": "Benhur in monte Ephraim .",
+        "SP": null,
+        "KJV": "The son of Hur , in mount Ephraim :",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The son of Dekar , in Makaz , and in Shaalbim , and Bethshemesh , and Elonbethhanan :",
+      "traditions": {
+        "WLC": "בֶּן דֶּ֛קֶר בְּ מָקַ֥ץ וּ בְ שַֽׁעַלְבִ֖ים וּ בֵ֣ית שָׁ֑מֶשׁ וְ אֵיל֖וֹן בֵּ֥ית חָנָֽן",
+        "LXX": "υἱὸς Ῥῆχας ἐν Μαχεμὰς καὶ Βηθαλαμεὶ καὶ Βαιθσάμυς καὶ Ἐλὼμ ἕως Βαιθλαμάν , εἷς ·",
+        "VUL": "Béndecar in Macces , et in Sálebim , et in Béthsames , et in Elon , et in Béthanan .",
+        "SP": null,
+        "KJV": "The son of Dekar , in Makaz , and in Shaalbim , and Bethshemesh , and Elonbethhanan :",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "The son of Hesed , in Aruboth ;",
+      "traditions": {
+        "WLC": "בֶּן חֶ֖סֶד בָּֽ אֲרֻבּ֑וֹת",
+        "LXX": "υἱὸς Ἕσωθ , Βηρνεμαλουσαμηνχὰ",
+        "VUL": "Bénhesed in Aruboth :",
+        "SP": null,
+        "KJV": "The son of Hesed , in Aruboth ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to him [ pertained ] Sochoh , and all the land of Hepher :",
+      "traditions": {
+        "WLC": "ל֥ וֹ שֹׂכֹ֖ה וְ כָל אֶ֥רֶץ חֵֽפֶר",
+        "LXX": "καὶ Ῥησφαραχεὶν",
+        "VUL": "ipsíus erat Socho , et omnis terra Epher .",
+        "SP": null,
+        "KJV": "to him [ pertained ] Sochoh , and all the land of Hepher :",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "The son of Abinadab",
+      "traditions": {
+        "WLC": "בֶּן אֲבִֽינָדָ֖ב",
+        "LXX": "ἀνὰ Δὰν",
+        "VUL": "Benabínadab ,",
+        "SP": null,
+        "KJV": "The son of Abinadab ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in all the region of Dor",
+      "traditions": {
+        "WLC": "כָּל נָ֣פַת דֹּ֑אר",
+        "LXX": "καὶ ἀνὰ Φαθεί , ἀνὴρ Ταβληθεί ,",
+        "VUL": "cuius omnis Nephath Dor :",
+        "SP": null,
+        "KJV": "in all the region of Dor ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "which had Taphath the daughter of Solomon to wife",
+      "traditions": {
+        "WLC": "טָפַת֙ בַּת שְׁלֹמֹ֔ה הָ֥יְתָה לּ֖ וֹ לְ אִשָּֽׁה",
+        "LXX": "θυγάτηρ Σαλωμὼν ἦν αὐτῷ εἰς γυναῖκα , εἷς ·",
+        "VUL": "Tapheth fíliam Salomónis habébat uxórem .",
+        "SP": null,
+        "KJV": "which had Taphath the daughter of Solomon to wife :",
+        "DSS": null
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "Baana the son of Ahilud",
+      "traditions": {
+        "WLC": "בַּֽעֲנָא֙ בֶּן אֲחִיל֔וּד",
+        "LXX": "Βακχὰ υἱὸς Ἀχειμάχ ,",
+        "VUL": "Bana fílius Ahilud",
+        "SP": null,
+        "KJV": "Baana the son of Ahilud ; [ to him pertained ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Taanach and Megiddo",
+      "traditions": {
+        "WLC": "תַּעְנַ֖ךְ וּ מְגִדּ֑וֹ",
+        "LXX": "Πολαμὰχ καὶ Μεκεδώ ,",
+        "VUL": "regébat Thanac et Magéddo ,",
+        "SP": null,
+        "KJV": "Taanach and Megiddo ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and all Bethshean , which is by Zartanah beneath Jezreel",
+      "traditions": {
+        "WLC": "וְ כָל בֵּ֣ית שְׁאָ֡ן אֲשֶׁר֩ אֵ֨צֶל צָרְתַ֜נָ ה מִ תַּ֣חַת לְ יִזְרְעֶ֗אל",
+        "LXX": "καὶ πᾶς ὁ οἶκος Δὰν ὁ παρὰ Σεσαθὰν ὑποκάτω τοῦ Ἐσρᾶε ,",
+        "VUL": "et univérsam Bethsan , quæ est iuxta Sárthana subter Iézrahel ,",
+        "SP": null,
+        "KJV": "and all Bethshean , which [ is ] by Zartanah beneath Jezreel ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "from Bethshean to Abelmeholah",
+      "traditions": {
+        "WLC": "מִ בֵּ֤ית שְׁאָן֙ עַ֚ד אָבֵ֣ל מְחוֹלָ֔ה",
+        "LXX": "καὶ ἐκ Βαισαφοὺτ Ἐβελμαωλὰ",
+        "VUL": "a Bethsan usque Abelméhula",
+        "SP": null,
+        "KJV": "from Bethshean to Abelmeholah , [ even ]",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "unto the place that is beyond Jokneam",
+      "traditions": {
+        "WLC": "עַ֖ד מֵ עֵ֥בֶר לְ יָקְמֳעָֽם",
+        "LXX": "ἕως Μαέβερ Λουκάμ , εἷς ·",
+        "VUL": "e regióne Iécmaan .",
+        "SP": null,
+        "KJV": "unto [ the place that is ] beyond Jokneam :",
+        "DSS": null
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "The son of Geber , in Ramothgilead",
+      "traditions": {
+        "WLC": "בֶּן גֶּ֖בֶר בְּ רָמֹ֣ת גִּלְעָ֑ד",
+        "LXX": "υἱὸς Γάβερ Ἐρεμὰθ Γαλαάθ ,",
+        "VUL": "Béngaber in Ramoth Gálaad :",
+        "SP": null,
+        "KJV": "The son of Geber , in Ramothgilead ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "to him pertained the towns of Jair the son of Manasseh , which are in Gilead",
+      "traditions": {
+        "WLC": "ל֡ וֹ חַוֺּת֩ יָאִ֨יר בֶּן מְנַשֶּׁ֜ה אֲשֶׁ֣ר בַּ גִּלְעָ֗ד",
+        "LXX": null,
+        "VUL": "habébat Avóthiair fílii Manásse in Gálaad :",
+        "SP": null,
+        "KJV": "to him [ pertained ] the towns of Jair the son of Manasseh , which [ are ] in Gilead ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "to him also pertained the region of Argob , which is in Bashan",
+      "traditions": {
+        "WLC": "ל֚ וֹ חֶ֤בֶל אַרְגֹּב֙ אֲשֶׁ֣ר בַּ בָּשָׁ֔ן",
+        "LXX": "τούτῳ σχοίνισμα Ἐρεταβὰμ ἐν τῇ Βασάν ,",
+        "VUL": "ipse prǽerat in omni regióne Argob , quæ est in Basan ,",
+        "SP": null,
+        "KJV": "to him [ also pertained ] the region of Argob , which [ is ] in Bashan ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "threescore great cities with walls and brasen bars",
+      "traditions": {
+        "WLC": "שִׁשִּׁים֙ עָרִ֣ים גְּדֹל֔וֹת חוֹמָ֖ה וּ בְרִ֥יחַ נְחֹֽשֶׁת",
+        "LXX": "ἑξήκοντα πόλεις μεγάλαι τειχήρεις καὶ μοχλοὶ χαλκοῖ , εἷς ·",
+        "VUL": "sexagínta civitátibus magnis atque murátis , quæ habébant seras ǽreas .",
+        "SP": null,
+        "KJV": "threescore great cities with walls and brasen bars :",
+        "DSS": null
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ahinadab the son of Iddo had Mahanaim",
+      "traditions": {
+        "WLC": "אֲחִֽינָדָ֥ב בֶּן עִדֹּ֖א מַחֲנָֽיְמָ ה",
+        "LXX": "Ἀχειναὰβ υἱὸς Ἀχέλ , Μααναιεῖον ·",
+        "VUL": "Ahínadab fílius Addo prǽerat in Mánaim .",
+        "SP": null,
+        "KJV": "Ahinadab the son of Iddo [ had ] Mahanaim :",
+        "DSS": null
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Ahimaaz was in Naphtali",
+      "traditions": {
+        "WLC": "אֲחִימַ֖עַץ בְּ נַפְתָּלִ֑י",
+        "LXX": "Ἀχειμάας ἐν Νεφθαλεί ,",
+        "VUL": "Achímaas in Néphthali :",
+        "SP": null,
+        "KJV": "Ahimaaz [ was ] in Naphtali ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "he also took Basmath the daughter of Solomon to wife",
+      "traditions": {
+        "WLC": "גַּם ה֗וּא לָקַ֛ח אֶת בָּשְׂמַ֥ת בַּת שְׁלֹמֹ֖ה לְ אִשָּֽׁה",
+        "LXX": "καὶ οὗτος ἔλαβεν τὴν Βασεμμὰθ θυγατέρα Σαλωμών , εἷς ·",
+        "VUL": "sed et ipse habébat Básemath fíliam Salomónis in coniúgio .",
+        "SP": null,
+        "KJV": "he also took Basmath the daughter of Solomon to wife :",
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "Baanah the son of Hushai was in Asher and in Aloth",
+      "traditions": {
+        "WLC": "בַּֽעֲנָא֙ בֶּן חוּשָׁ֔י בְּ אָשֵׁ֖ר וּ בְעָלֽוֹת",
+        "LXX": "Βαανὰ υἱὸς Χουσεὶ ἐν τῇ Μααλά , εἷς ·",
+        "VUL": "Báana fílius Husi in Aser , et in Baloth .",
+        "SP": null,
+        "KJV": "Baanah the son of Hushai [ was ] in Asher and in Aloth :",
+        "DSS": null
+      }
+    }
+  ],
+  "17": [
+    {
+      "thought_id": 1,
+      "english_reference": "Jehoshaphat the son of Paruah , in Issachar",
+      "traditions": {
+        "WLC": "יְהוֹשָׁפָ֥ט בֶּן פָּר֖וּחַ בְּ יִשָׂשכָֽר",
+        "LXX": "υἱὸς Ἠλὰ ἐν τῷ Βενιαμείν ·",
+        "VUL": "Iósaphat fílius Phárue in Issachar .",
+        "SP": null,
+        "KJV": "Jehoshaphat the son of Paruah , in Issachar :",
+        "DSS": null
+      }
+    }
+  ],
+  "18": [
+    {
+      "thought_id": 1,
+      "english_reference": "Shimei the son of Elah , in Benjamin",
+      "traditions": {
+        "WLC": "שִׁמְעִ֥י בֶן אֵלָ֖א בְּ בִנְיָמִֽן",
+        "LXX": "υἱὸς Ἀδαὶ ἐν τῇ γῇ Γὰδ τῇ Σηὼν βασιλέως τοῦ Ἑσεβὼν καὶ Ὢγ βασιλέως τοῦ Βασάν ·",
+        "VUL": "Sémei fílius Ela in Béniamin .",
+        "SP": null,
+        "KJV": "Shimei the son of Elah , in Benjamin :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ νασὲφ εἷς ἐν γῇ Ἰούδα ·",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "19": [
+    {
+      "thought_id": 1,
+      "english_reference": "Geber the son of Uri was in the country of Gilead",
+      "traditions": {
+        "WLC": "גֶּ֥בֶר בֶּן אֻרִ֖י בְּ אֶ֣רֶץ גִּלְעָ֑ד",
+        "LXX": "Ἰωσαφὰτ υἱὸς Φουασοὺδ ἐν Ἰσσαχάρ .",
+        "VUL": "Gaber fílius Uri in terra Gálaad ,",
+        "SP": null,
+        "KJV": "Geber the son of Uri [ was ] in the country of Gilead , [",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in the country of Sihon king of the Amorites , and of Og king of Bashan",
+      "traditions": {
+        "WLC": "אֶ֜רֶץ סִיח֣וֹן מֶ֣לֶךְ הָ אֱמֹרִ֗י וְ עֹג֙ מֶ֣לֶךְ הַ בָּשָׁ֔ן",
+        "LXX": null,
+        "VUL": "in terra Sehon regis Amorrhǽi et Og regis Basan ,",
+        "SP": null,
+        "KJV": "in ] the country of Sihon king of the Amorites , and of Og king of Bashan ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and he was the only officer which was in the land",
+      "traditions": {
+        "WLC": "וּ נְצִ֥יב אֶחָ֖ד אֲשֶׁ֥ר בָּ אָֽרֶץ",
+        "LXX": null,
+        "VUL": "super ómnia quæ erant in illa terra .",
+        "SP": null,
+        "KJV": "and [ he was ] the only officer which [ was ] in the land .",
+        "DSS": null
+      }
+    }
+  ],
+  "20": [
+    {
+      "thought_id": 1,
+      "english_reference": "Judah and Israel were many",
+      "traditions": {
+        "WLC": "יְהוּדָ֤ה וְ יִשְׂרָאֵל֙ רַבִּ֔ים",
+        "LXX": "καὶ ἐχορήγουν οἱ καθεσταμένοι οὕτως τῷ βσαιλεῖ Σαλωμών ,",
+        "VUL": "Iuda et Israel innumerábiles ,",
+        "SP": null,
+        "KJV": "Judah and Israel [ were ] many ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "as the sand which is by the sea in multitude",
+      "traditions": {
+        "WLC": "כַּ ח֥וֹל אֲשֶׁר עַל הַ יָּ֖ם לָ רֹ֑ב",
+        "LXX": "καὶ πάντα διαγγέλματα ἐπὶ τὴν τράπεζαν τοῦ βασιλέως , ἕκαστος μῆνα αὐτοῦ · οὐ παραλλάσσουσιν λόγον ·",
+        "VUL": "sicut aréna maris in multitúdine :",
+        "SP": null,
+        "KJV": "as the sand which [ is ] by the sea in multitude ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "eating and drinking , and making merry",
+      "traditions": {
+        "WLC": "אֹכְלִ֥ים וְ שֹׁתִ֖ים וּ שְׂמֵחִֽים",
+        "LXX": null,
+        "VUL": "comedéntes , et bibéntes , atque lætántes .",
+        "SP": null,
+        "KJV": "eating and drinking , and making merry .",
+        "DSS": null
+      }
+    }
+  ]
+}

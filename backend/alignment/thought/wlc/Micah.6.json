@@ -1,0 +1,718 @@
+{
+  "1": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hear ye now what the LORD saith",
+      "traditions": {
+        "WLC": "שִׁמְעוּ נָ֕א אֵ֥ת אֲשֶׁר יְהוָ֖ה אֹמֵ֑ר",
+        "LXX": "Ἀκούσατε δὴ λόγον . κύριος Κύριος εἶπεν",
+        "VUL": "Audíte quæ Dóminus lóquitur :",
+        "SP": null,
+        "KJV": "Hear ye now what the LORD saith ;",
+        "DSS": "[Mur88] שמעו [ נא את ] אש#[ ר י ]הוה א##מר"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "Arise , contend thou before the mountains",
+      "traditions": {
+        "WLC": "ק֚וּם רִ֣יב אֶת הֶ הָרִ֔ים",
+        "LXX": "Ἀνάστηθι κρίθητι πρὸς τὰ ὄρη ,",
+        "VUL": "Surge , conténde iudício advérsum montes ,",
+        "SP": null,
+        "KJV": "Arise , contend thou before the mountains ,",
+        "DSS": "קום ריב את ה ה##ר#[ ים ]"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and let the hills hear thy voice",
+      "traditions": {
+        "WLC": "וְ תִשְׁמַ֥עְנָה הַ גְּבָע֖וֹת קוֹלֶֽ ךָ",
+        "LXX": "καὶ ἀκουσάτωσαν οἱ βουνοὶ φωνήν σου .",
+        "VUL": "et áudiant colles vocem tuam .",
+        "SP": null,
+        "KJV": "and let the hills hear thy voice .",
+        "DSS": "ו ת##ש[ מענה ה גבעות קול׳ך ׃"
+      }
+    }
+  ],
+  "2": [
+    {
+      "thought_id": 1,
+      "english_reference": "Hear ye , O mountains , the LORD ’S controversy",
+      "traditions": {
+        "WLC": "שִׁמְע֤וּ הָרִים֙ אֶת רִ֣יב יְהוָ֔ה",
+        "LXX": "ἀκούσατε , λαοί , τὴν κρίσιν τοῦ κυρίου ,",
+        "VUL": "Audiant montes iudícium Dómini ,",
+        "SP": null,
+        "KJV": "Hear ye , O mountains , the LORD ’S controversy ,",
+        "DSS": "[Mur88] ש#מעו הרים את ריב יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and ye strong foundations of the earth",
+      "traditions": {
+        "WLC": "וְ הָ אֵתָנִ֖ים מֹ֣סְדֵי אָ֑רֶץ",
+        "LXX": "καὶ αἱ φάραγγες θεμέλια τῆς γῆς ,",
+        "VUL": "et fórtia fundaménta terræ :",
+        "SP": null,
+        "KJV": "and ye strong foundations of the earth :",
+        "DSS": "[ ו ה אתנים מסדי ארץ"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "for the LORD hath a controversy with his people",
+      "traditions": {
+        "WLC": "כִּ֣י רִ֤יב לַֽ יהוָה֙ עִם עַמּ֔ וֹ",
+        "LXX": "ὅτι κρίσις τῷ κυρίῳ πρὸς τὸν λαὸν αὐτοῦ ,",
+        "VUL": "quia iudícium Dómini cum pópulo suo ,",
+        "SP": null,
+        "KJV": "for the LORD hath a controversy with his people ,",
+        "DSS": "כי רי ]ב ל יהוה ע#ם [ ע ]מ׳ו"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and he will plead with Israel",
+      "traditions": {
+        "WLC": "וְ עִם יִשְׂרָאֵ֖ל יִתְוַכָּֽח",
+        "LXX": "καὶ μετὰ τοῦ Ἰσραὴλ διελεγχθήσεται .",
+        "VUL": "et cum Israel diiudicábitur .",
+        "SP": null,
+        "KJV": "and he will plead with Israel .",
+        "DSS": "ו עם [ י ]ש##ר##א(^ ל ^) יתוכח ׃"
+      }
+    }
+  ],
+  "3": [
+    {
+      "thought_id": 1,
+      "english_reference": "O my people",
+      "traditions": {
+        "WLC": "עַמִּ֛ י",
+        "LXX": "λαός μου ,",
+        "VUL": "Pópule meus",
+        "SP": null,
+        "KJV": "O my people ,",
+        "DSS": "[Mur88] [ עמ׳י"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "what have I done unto thee ?",
+      "traditions": {
+        "WLC": "מֶה עָשִׂ֥יתִי לְ ךָ֖",
+        "LXX": "τί ἐποίησά σοι ,",
+        "VUL": "quid feci tibi ,",
+        "SP": null,
+        "KJV": "what have I done unto thee ?",
+        "DSS": "מה עשיתי ל׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and wherein have I wearied thee ?",
+      "traditions": {
+        "WLC": "וּ מָ֣ה הֶלְאֵתִ֑י ךָ",
+        "LXX": "ἢ τί ἐλύπησά σε , ἢ τί παρηνώχλησά σοι ?",
+        "VUL": "aut quid moléstus fui tibi ?",
+        "SP": null,
+        "KJV": "and wherein have I wearied thee ?",
+        "DSS": "ו מ ]ה## הלאתי׳ך"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "testify against me",
+      "traditions": {
+        "WLC": "עֲנֵ֥ה בִּֽ י",
+        "LXX": "ἀποκρίθητί μοι .",
+        "VUL": "respónde mihi .",
+        "SP": null,
+        "KJV": "testify against me .",
+        "DSS": "[ ענ ]ה## ב׳י ׃"
+      }
+    }
+  ],
+  "4": [
+    {
+      "thought_id": 1,
+      "english_reference": "For I brought thee up out of the land of Egypt",
+      "traditions": {
+        "WLC": "כִּ֤י הֶעֱלִתִ֨י ךָ֙ מֵ אֶ֣רֶץ מִצְרַ֔יִם",
+        "LXX": "διότι ἀνήγαγόν σε ἐκ γῆς Αἰγύπτου ,",
+        "VUL": "Quia edúxi te de terra Ægýpti ,",
+        "SP": null,
+        "KJV": "For I brought thee up out of the land of Egypt ,",
+        "DSS": "[Mur88] כי העליתי׳ך מ## [ ארץ מצרים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and redeemed thee out of the house of servants",
+      "traditions": {
+        "WLC": "וּ מִ בֵּ֥ית עֲבָדִ֖ים פְּדִיתִ֑י ךָ",
+        "LXX": "καὶ ἐξ οἴκου δουλίας ἐλυτρωσάμην σε ,",
+        "VUL": "et de domo serviéntium liberávi te :",
+        "SP": null,
+        "KJV": "and redeemed thee out of the house of servants ;",
+        "DSS": "ו מ בי ]ת## ע##בדים פד#י#?ת##י#?׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and I sent before thee Moses , Aaron , and Miriam",
+      "traditions": {
+        "WLC": "וָ אֶשְׁלַ֣ח לְ פָנֶ֔י ךָ אֶת מֹשֶׁ֖ה אַהֲרֹ֥ן וּ מִרְיָֽם",
+        "LXX": "καὶ ἐξαπέστειλα πρὸ προσώπου σου τὸν Μωσῆν καὶ Ἀαρὼν καὶ Μαριάμ .",
+        "VUL": "et misi ante fáciem tuam Móysen , et Aaron , et Maríam ?",
+        "SP": null,
+        "KJV": "and I sent before thee Moses , Aaron , and Miriam .",
+        "DSS": "ו אש#ל#ח# ל פני׳ך את מ##ש##[ ה אהרן ]ו מר#י?ם ׃"
+      }
+    }
+  ],
+  "5": [
+    {
+      "thought_id": 1,
+      "english_reference": "O my people , remember now",
+      "traditions": {
+        "WLC": "עַמִּ֗ י זְכָר נָא֙",
+        "LXX": "λαός μου , μνήσθητι δὴ",
+        "VUL": "Pópule meus meménto quæso",
+        "SP": null,
+        "KJV": "O my people , remember now",
+        "DSS": "[Mur88] עמ׳י זכר נ?א##"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "what Balak king of Moab consulted",
+      "traditions": {
+        "WLC": "מַה יָּעַ֗ץ בָּלָק֙ מֶ֣לֶךְ מוֹאָ֔ב",
+        "LXX": "τί ἐβουλεύσατο κατὰ σοῦ βαλὰκ βασιλεὺς Μωάβ ,",
+        "VUL": "quid cogitáverit Balach rex Moab ,",
+        "SP": null,
+        "KJV": "what Balak king of Moab consulted ,",
+        "DSS": "מה יעץ בלק מלך מ#[ וא ]ב#"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and what Balaam the son of Beor answered him",
+      "traditions": {
+        "WLC": "וּ מֶה עָנָ֥ה אֹת֖ וֹ בִּלְעָ֣ם בֶּן בְּע֑וֹר",
+        "LXX": "καὶ τί ἀπεκρίθη αὐτῷ Βαλαὰμ υἱὸς τοῦ Βεὼρ",
+        "VUL": "et quid respónderit ei Bálaam , fílius Beor ,",
+        "SP": null,
+        "KJV": "and what Balaam the son of Beor answered him",
+        "DSS": "ו מה##[ ענה את ]׳ו#? בלעם בן בעו#?ר##"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "from Shittim unto Gilgal",
+      "traditions": {
+        "WLC": "מִן הַ שִּׁטִּים֙ עַד הַ גִּלְגָּ֔ל",
+        "LXX": "ἀπὸ τῶν σχοίνων ἕως τοῦ Γαλγάλ ,",
+        "VUL": "de Setim usque ad Gálgalam ,",
+        "SP": null,
+        "KJV": "from Shittim unto Gilgal ;",
+        "DSS": "[ מן ה ] שטים עד ה גלג?ל"
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "that ye may know the righteousness of the LORD",
+      "traditions": {
+        "WLC": "לְמַ֕עַן דַּ֖עַת צִדְק֥וֹת יְהוָֽה",
+        "LXX": "ὅπως γνωσθῇ ἡ δικαιοσύνη τοῦ κυρίου .",
+        "VUL": "ut cognósceres iustítias Dómini .",
+        "SP": null,
+        "KJV": "that ye may know the righteousness of the LORD .",
+        "DSS": "[ ל ]מען דעת צ#ד##קות [ י ]ה##וה ׃"
+      }
+    }
+  ],
+  "6": [
+    {
+      "thought_id": 1,
+      "english_reference": "Wherewith shall I come before the LORD",
+      "traditions": {
+        "WLC": "בַּ מָּה֙ אֲקַדֵּ֣ם יְהוָ֔ה",
+        "LXX": "ἐν τίνι καταλάβω τὸν κύριον ,",
+        "VUL": "Quid dignum ófferam Dómino ?",
+        "SP": null,
+        "KJV": "Wherewith shall I come before the LORD , [ and ]",
+        "DSS": "[Mur88] [ ב מה אק ]ד#ם יהוה"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "bow myself before the high God",
+      "traditions": {
+        "WLC": "אִכַּ֖ף לֵ אלֹהֵ֣י מָר֑וֹם",
+        "LXX": "ἀντιλήμψομαι θεοῦ μου Ὑψίστου ?",
+        "VUL": "curvábo genu Deo excélso ?",
+        "SP": null,
+        "KJV": "bow myself before the high God ?",
+        "DSS": "א#כף ל אלהי מרום"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "shall I come before him with burnt offerings",
+      "traditions": {
+        "WLC": "הַ אֲקַדְּמֶ֣ נּוּ בְ עוֹל֔וֹת",
+        "LXX": "εἰ καταλήμψομαι αὐτὸν ἐν ὁλοκαυτώμασιν",
+        "VUL": "numquid ófferam ei holocautómata ,",
+        "SP": null,
+        "KJV": "shall I come before him with burnt offerings ,",
+        "DSS": "[ ה ] אק[ דמ ]׳נ?ו ב על[ ות"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "with calves of a year old",
+      "traditions": {
+        "WLC": "בַּ עֲגָלִ֖ים בְּנֵ֥י שָׁנָֽה",
+        "LXX": "ἐν μόσχοις ἐνιαυσίοις ?",
+        "VUL": "et vítulos annículos ?",
+        "SP": null,
+        "KJV": "with calves of a year old ?",
+        "DSS": "ב עג ]לי?ם בני ש#[ נה ׃"
+      }
+    }
+  ],
+  "7": [
+    {
+      "thought_id": 1,
+      "english_reference": "Will the LORD be pleased with thousands of rams",
+      "traditions": {
+        "WLC": "הֲ יִרְצֶ֤ה יְהוָה֙ בְּ אַלְפֵ֣י אֵילִ֔ים",
+        "LXX": "εἰ προσδέξεται Κύριος ἐν χιλιάσιν κριῶν",
+        "VUL": "Numquid placári potest Dóminus in míllibus aríetum ,",
+        "SP": null,
+        "KJV": "Will the LORD be pleased with thousands of rams , [ or ]",
+        "DSS": "[Mur88] ה## יר##[ צה ] יה#ו?ה## [ ב אלפי אילים"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "with ten thousands of rivers of oil",
+      "traditions": {
+        "WLC": "בְּ רִֽבְב֖וֹת נַֽחֲלֵי שָׁ֑מֶן",
+        "LXX": "ἢ ἐν μυριάσιν χειμάρρων πιόνων ?",
+        "VUL": "aut in multis míllibus hircórum pínguium ?",
+        "SP": null,
+        "KJV": "with ten thousands of rivers of oil ?",
+        "DSS": "ב רב ]בות## [ נח ]ל##י שמן"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "shall I give my firstborn for my transgression",
+      "traditions": {
+        "WLC": "הַ אֶתֵּ֤ן בְּכוֹרִ י֙ פִּשְׁעִ֔ י",
+        "LXX": "εἰ δῶ πρωτότοκά μου ἀσεβείας ,",
+        "VUL": "numquid dabo primogénitum meum pro scélere meo ,",
+        "SP": null,
+        "KJV": "shall I give my firstborn [ for ] my transgression ,",
+        "DSS": "ה את[ ן ]"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "the fruit of my body for the sin of my soul",
+      "traditions": {
+        "WLC": "פְּרִ֥י בִטְנִ֖ י חַטַּ֥את נַפְשִֽׁ י",
+        "LXX": "καρπὸν κοιλίας μου ὑπὲρ ἁμαρτίας ψυχῆς μου ?",
+        "VUL": "fructum ventris mei pro peccáto ánimæ meæ ?",
+        "SP": null,
+        "KJV": "the fruit of my body [ for ] the sin of my soul ?",
+        "DSS": null
+      }
+    }
+  ],
+  "8": [
+    {
+      "thought_id": 1,
+      "english_reference": "He hath shewed thee , O man , what is good",
+      "traditions": {
+        "WLC": "הִגִּ֥יד לְ ךָ֛ אָדָ֖ם מַה טּ֑וֹב",
+        "LXX": "εἰ ἀνηγγέλη σοι , ἄνθρωπε , τί καλόν ?",
+        "VUL": "Indicábo tibi o homo quid sit bonum ,",
+        "SP": null,
+        "KJV": "He hath shewed thee , O man , what [ is ] good ;",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and what doth the LORD require of thee",
+      "traditions": {
+        "WLC": "וּ מָֽה יְהוָ֞ה דּוֹרֵ֣שׁ מִמְּ ךָ֗",
+        "LXX": "ἢ τί Κύριος ἐκζητεῖ παρὰ σοῦ",
+        "VUL": "et quid Dóminus requírat a te :",
+        "SP": null,
+        "KJV": "and what doth the LORD require of thee ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "but to do justly",
+      "traditions": {
+        "WLC": "כִּ֣י אִם עֲשׂ֤וֹת מִשְׁפָּט֙",
+        "LXX": "ἀλλ᾽ ἢ τοῦ ποιεῖν κρίμα",
+        "VUL": "Utique fácere iudícium ,",
+        "SP": null,
+        "KJV": "but to do justly ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and to love mercy",
+      "traditions": {
+        "WLC": "וְ אַ֣הֲבַת חֶ֔סֶד",
+        "LXX": "καὶ ἀγαπᾷν ἔλεον",
+        "VUL": "et dilígere misericórdiam ,",
+        "SP": null,
+        "KJV": "and to love mercy ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 5,
+      "english_reference": "and to walk humbly with thy God",
+      "traditions": {
+        "WLC": "וְ הַצְנֵ֥עַ לֶ֖כֶת עִם אֱלֹהֶֽי ךָ",
+        "LXX": "καὶ ἕτοιμον εἶναι τοῦ πορεύεσθαι μετὰ Κυρίου θεοῦ σου ?",
+        "VUL": "et sollícitum ambuláre cum Deo tuo .",
+        "SP": null,
+        "KJV": "and to walk humbly with thy God ?",
+        "DSS": null
+      }
+    }
+  ],
+  "9": [
+    {
+      "thought_id": 1,
+      "english_reference": "The LORD ’S voice crieth unto the city",
+      "traditions": {
+        "WLC": "ק֤וֹל יְהוָה֙ לָ עִ֣יר יִקְרָ֔א",
+        "LXX": "Φωνὴ Κυρίου τῇ πόλει ἐπικληθήσεται ,",
+        "VUL": "Vox Dómini ad civitátem clamat ,",
+        "SP": null,
+        "KJV": "The LORD ’S voice crieth unto the city ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the man of wisdom shall see thy name",
+      "traditions": {
+        "WLC": "וְ תוּשִׁיָּ֖ה יִרְאֶ֣ה שְׁמֶ֑ ךָ",
+        "LXX": "καὶ σώσει φοβουμένους τὸ ὄνομα αὐτοῦ .",
+        "VUL": "et salus erit timéntibus nomen tuum :",
+        "SP": null,
+        "KJV": "and [ the man of ] wisdom shall see thy name :",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "hear ye the rod",
+      "traditions": {
+        "WLC": "שִׁמְע֥וּ מַטֶּ֖ה",
+        "LXX": "ἄκουε , φυλή ,",
+        "VUL": "Audíte tribus ,",
+        "SP": null,
+        "KJV": "hear ye the rod ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and who hath appointed it",
+      "traditions": {
+        "WLC": "וּ מִ֥י יְעָדָֽ הּ",
+        "LXX": "καὶ τίς κοσμήσει πόλιν ?",
+        "VUL": "et quis approbábit illud ?",
+        "SP": null,
+        "KJV": "and who hath appointed it .",
+        "DSS": null
+      }
+    }
+  ],
+  "10": [
+    {
+      "thought_id": 1,
+      "english_reference": "Are there yet the treasures of wickedness in the house of the wicked",
+      "traditions": {
+        "WLC": "ע֗וֹד הַ אִשׁ֙ בֵּ֣ית רָשָׁ֔ע אֹצְר֖וֹת רֶ֑שַׁע",
+        "LXX": "μὴ πῦρ καὶ οἶκος ἀνόμου θησαυρίζων θησαυροὺς ἀνόμους ,",
+        "VUL": "Adhuc ignis in domo ímpii thesáuri iniquitátis ,",
+        "SP": null,
+        "KJV": "Are there yet the treasures of wickedness in the house of the wicked ,",
+        "DSS": null
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the scant measure that is abominable",
+      "traditions": {
+        "WLC": "וְ אֵיפַ֥ת רָז֖וֹן זְעוּמָֽה",
+        "LXX": "καὶ μετὰ ὕβρεως ἀδικία ?",
+        "VUL": "et mensúra minor iræ plena .",
+        "SP": null,
+        "KJV": "and the scant measure [ that is ] abominable ?",
+        "DSS": null
+      }
+    }
+  ],
+  "11": [
+    {
+      "thought_id": 1,
+      "english_reference": "Shall I count [ them ] pure with the wicked balances",
+      "traditions": {
+        "WLC": "הַ אֶזְכֶּ֖ה בְּ מֹ֣אזְנֵי רֶ֑שַׁע",
+        "LXX": "εἰ δικαιωθήσεται ἐν ζυγῷ ἄνομος ,",
+        "VUL": "Numquid iustificábo statéram ímpiam ,",
+        "SP": null,
+        "KJV": "Shall I count [ them ] pure with the wicked balances ,",
+        "DSS": "ε ה אז ]כ##ה## [ ב מאזני רשע"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and with the bag of deceitful weights ?",
+      "traditions": {
+        "WLC": "וּ בְ כִ֖יס אַבְנֵ֥י מִרְמָֽה",
+        "LXX": "καὶ ἐν μαρσίππῳ στάθμια δόλου ?",
+        "VUL": "et saccélli póndera dolósa ?",
+        "SP": null,
+        "KJV": "and with the bag of deceitful weights ?",
+        "DSS": "ו ב כיס אבני מרמה ׃"
+      }
+    }
+  ],
+  "12": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the rich men thereof are full of violence",
+      "traditions": {
+        "WLC": "אֲשֶׁ֤ר עֲשִׁירֶ֨י הָ֙ מָלְא֣וּ חָמָ֔ס",
+        "LXX": "ἐξ ὧν τὸν πλοῦτον αὐτῶν ἀσεβείας ἔπλησαν ,",
+        "VUL": "in quibus dívites eius repléti sunt iniquitáte ,",
+        "SP": null,
+        "KJV": "For the rich men thereof are full of violence ,",
+        "DSS": "אשר עשיר ]י#?׳ה מלא#ו#? [ חמס"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and the inhabitants thereof have spoken lies",
+      "traditions": {
+        "WLC": "וְ יֹשְׁבֶ֖י הָ דִּבְּרוּ שָׁ֑קֶר",
+        "LXX": "καὶ οἱ κατοικοῦντες αὐτὴν ἐλάλουν ψευδῆ ,",
+        "VUL": "et habitántes in ea loquebántur mendácium ,",
+        "SP": null,
+        "KJV": "and the inhabitants thereof have spoken lies ,",
+        "DSS": "ו ישבי׳ה דברו שקר"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and their tongue [ is ] deceitful in their mouth",
+      "traditions": {
+        "WLC": "וּ לְשׁוֹנָ֖ ם רְמִיָּ֥ה בְּ פִי הֶֽם",
+        "LXX": "καὶ ἡ γλῶσσα αὐτῶν , ὑψώθητι ἐν τῷ στόματι αὐτῶν .",
+        "VUL": "et lingua eórum fraudulénta in ore eórum .",
+        "SP": null,
+        "KJV": "and their tongue [ is ] deceitful in their mouth .",
+        "DSS": "ו לשונ׳ם רמיה ב פ ]י#?׳ה##ם ׃"
+      }
+    }
+  ],
+  "13": [
+    {
+      "thought_id": 1,
+      "english_reference": "Therefore also will I make [ thee ] sick in smiting thee",
+      "traditions": {
+        "WLC": "וְ גַם אֲנִ֖י הֶחֱלֵ֣יתִי הַכּוֹתֶ֑ ךָ",
+        "LXX": "καὶ ἐγὼ ἄρξομαι τοῦ πατάξαι σε ,",
+        "VUL": "Et ego ergo cœpi percútere te",
+        "SP": null,
+        "KJV": "Therefore also will I make [ thee ] sick in smiting thee ,",
+        "DSS": "ו גם אני [ החליתי הכות׳ך"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "in making [ thee ] desolate because of thy sins",
+      "traditions": {
+        "WLC": "הַשְׁמֵ֖ם עַל חַטֹּאתֶֽ ךָ",
+        "LXX": "ἀφανιῶ σε ἐν ταῖς ἁμαρτίαις σου .",
+        "VUL": "perditióne super peccátis tuis .",
+        "SP": null,
+        "KJV": "in making [ thee ] desolate because of thy sins .",
+        "DSS": "השמם על חטאת׳ך ׃"
+      }
+    }
+  ],
+  "14": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt eat , but not be satisfied",
+      "traditions": {
+        "WLC": "אַתָּ֤ה תֹאכַל֙ וְ לֹ֣א תִשְׂבָּ֔ע",
+        "LXX": "σὺ φάγεσαι καὶ οὐ μὴ ἐμπλησθῇς ,",
+        "VUL": "Tu cómedes , et non saturáberis ,",
+        "SP": null,
+        "KJV": "Thou shalt eat , but not be satisfied ;",
+        "DSS": "את ]ה## תא##כ##ל# ו לא [ תשבע"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and thy casting down [ shall be ] in the midst of thee",
+      "traditions": {
+        "WLC": "וְ יֶשְׁחֲ ךָ֖ בְּ קִרְבֶּ֑ ךָ",
+        "LXX": "καὶ σκοτάσει ἐν σοὶ καὶ ἐκνεύσει ,",
+        "VUL": "et humiliátio tua in médio tui :",
+        "SP": null,
+        "KJV": "and thy casting down [ shall be ] in the midst of thee ;",
+        "DSS": "ו ישח׳ך ב קרב׳ך"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and thou shalt take hold , but shalt not deliver",
+      "traditions": {
+        "WLC": "וְ תַסֵּג֙ וְ לֹ֣א תַפְלִ֔יט",
+        "LXX": "καὶ σὺ οὐ μὴ διασωθῇς ,",
+        "VUL": "et apprehéndes , et non salvábis :",
+        "SP": null,
+        "KJV": "and thou shalt take hold , but shalt not deliver ;",
+        "DSS": "ו תסג ו לא תפליט"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "and [ that ] which thou deliverest will I give up to the sword",
+      "traditions": {
+        "WLC": "וַ אֲשֶׁ֥ר תְּפַלֵּ֖ט לַ חֶ֥רֶב אֶתֵּֽן",
+        "LXX": "καὶ ὅσοι ἐὰν διασωθῶσιν εἰς ῥομφαίαν παραδοθήσονται ·",
+        "VUL": "et quos salváveris , in gládium dabo .",
+        "SP": null,
+        "KJV": "and [ that ] which thou deliverest will I give up to the sword .",
+        "DSS": "ו אשר תפ ]ל[ ט ] ל [ ח ]רב# [ אתן ׃"
+      }
+    }
+  ],
+  "15": [
+    {
+      "thought_id": 1,
+      "english_reference": "Thou shalt sow , but thou shalt not reap",
+      "traditions": {
+        "WLC": "אַתָּ֥ה תִזְרַ֖ע וְ לֹ֣א תִקְצ֑וֹר",
+        "LXX": "σὺ σπερεῖς καὶ οὐ μὴ ἀμήσῃς ,",
+        "VUL": "Tu seminábis , et non metes :",
+        "SP": null,
+        "KJV": "Thou shalt sow , but thou shalt not reap ;",
+        "DSS": "אתה תזרע ו לא תקצור"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "thou shalt tread the olives , but thou shalt not anoint thee with oil",
+      "traditions": {
+        "WLC": "אַתָּ֤ה תִדְרֹֽךְ זַ֨יִת֙ וְ לֹא תָס֣וּךְ שֶׁ֔מֶן",
+        "LXX": "σὺ πιέσεις ἐλαίαν καὶ οὐ μὴ ἀλείψῃ ἔλαιον ,",
+        "VUL": "tu calcábis olívam , et non ungéris óleo :",
+        "SP": null,
+        "KJV": "thou shalt tread the olives , but thou shalt not anoint thee with oil ;",
+        "DSS": "אתה תדרך זית ו לא תס ]ו#?ך שמ#ן ["
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "and sweet wine , but shalt not drink wine",
+      "traditions": {
+        "WLC": "וְ תִיר֖וֹשׁ וְ לֹ֥א תִשְׁתֶּה יָּֽיִן",
+        "LXX": "καὶ οἶνον καὶ οὐ μὴ πίητε ,",
+        "VUL": "et mustum , et non bibes vinum .",
+        "SP": null,
+        "KJV": "and sweet wine , but shalt not drink wine .",
+        "DSS": "ו תירוש ו לא תשתה יין ׃"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": null,
+      "traditions": {
+        "WLC": null,
+        "LXX": "καὶ ἀφανισθήσεται νόμιμα λαοῦ μου .",
+        "VUL": null,
+        "SP": null,
+        "KJV": null,
+        "DSS": null
+      }
+    }
+  ],
+  "16": [
+    {
+      "thought_id": 1,
+      "english_reference": "For the statutes of Omri are kept , and all the works of the house of Ahab",
+      "traditions": {
+        "WLC": "וְ יִשְׁתַּמֵּ֞ר חֻקּ֣וֹת עָמְרִ֗י וְ כֹל֙ מַעֲשֵׂ֣ה בֵית אַחְאָ֔ב",
+        "LXX": "καὶ ἐφύλαξας τὰ δικαιώματα Ζαμβρεὶ καὶ πάντα τὰ ἔργα οἴκου Ἀχαάβ ,",
+        "VUL": "Et custodísti præcépta Amri , et omne opus domus Achab :",
+        "SP": null,
+        "KJV": "For the statutes of Omri are kept , and all the works of the house of Ahab ,",
+        "DSS": "ו ישתמר חקות עמרי ו כל מ ]ע#שה בית [ אחאב"
+      }
+    },
+    {
+      "thought_id": 2,
+      "english_reference": "and ye walk in their counsels",
+      "traditions": {
+        "WLC": "וַ תֵּלְכ֖וּ בְּ מֹֽעֲצוֹתָ֑ ם",
+        "LXX": "καὶ ἐπορεύθητε ἐν ταῖς ὁδοῖς αὐτῶν ,",
+        "VUL": "et ambulásti in voluntátibus eórum ,",
+        "SP": null,
+        "KJV": "and ye walk in their counsels ;",
+        "DSS": "ו תלכו ב מעצות׳ם"
+      }
+    },
+    {
+      "thought_id": 3,
+      "english_reference": "that I should make thee a desolation , and the inhabitants thereof an hissing",
+      "traditions": {
+        "WLC": "לְמַעַן֩ תִּתִּ֨ י אֹתְ ךָ֜ לְ שַׁמָּ֗ה וְ יֹשְׁבֶ֨י הָ֙ לִ שְׁרֵקָ֔ה",
+        "LXX": "ὅπως παραδῶ σε εἰς ἀφανισμὸν καὶ τοὺς κατοικοῦντας αὐτὴν εἰς συρισμόν ,",
+        "VUL": "ut darem te in perditiónem , et habitántes in ea in síbilum ,",
+        "SP": null,
+        "KJV": "that I should make thee a desolation , and the inhabitants thereof an hissing :",
+        "DSS": "למען תת׳י את׳ך ל שמה ו  ]י#?ש##בי׳ה [ ל שרקה"
+      }
+    },
+    {
+      "thought_id": 4,
+      "english_reference": "therefore ye shall bear the reproach of my people",
+      "traditions": {
+        "WLC": "וְ חֶרְפַּ֥ת עַמִּ֖ י תִּשָּֽׂאוּ",
+        "LXX": "καὶ ὀνείδη λαῶν λήψεσθε .",
+        "VUL": "et oppróbrium pópuli mei portábitis .",
+        "SP": null,
+        "KJV": "therefore ye shall bear the reproach of my people .",
+        "DSS": "ו חרפת עמ׳י תשאו ׃"
+      }
+    }
+  ]
+}
