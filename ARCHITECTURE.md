@@ -373,8 +373,6 @@ backend/alignment/word/wlc/{Book}.{chapter}.json
 
 **Word file** — same shape but the `WLC` field contains a space-separated list of lemma-tagged tokens defining the MT spine, and each non-MT tradition field maps surface words to spine positions.
 
-Alignment data was generated using Gemma 4 31B IT via `alignment_processor.py`, which batches 10 verses per API call, then refined via targeted rerun and audit scripts.
-
 ---
 
 ### DOM Structure
