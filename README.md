@@ -1,6 +1,6 @@
 # Translator's Hebrew Bible (THB)
 
-![version](https://img.shields.io/badge/version-1.5-c9b037?style=flat-square)
+![version](https://img.shields.io/badge/version-1.5.0626-c9b037?style=flat-square)
 
 **Powerful, free data and tooling for the Hebrew Bible.**
 
@@ -22,6 +22,19 @@ THB is a structured, open dataset covering six major textual traditions of the H
 | **SP** | Samaritan Pentateuch | DT-UCPH Text-Fabric dataset |
 
 Every word carries: lemma, morphological parsing, Strong's number (where applicable), and inline lexical definitions from BDB (Hebrew), LSJ (Greek), and Lewis & Short (Latin).
+
+### Lemma Rarity Coloring
+
+The ◈ button (top-right of each chapter page) activates rarity coloring. A logarithmic sensitivity slider controls the threshold at which a lemma begins to receive color. Lemmas above the threshold are uncolored. Below it, the color ramps from gold toward red as frequency decreases — using the same palette as DSS damage rendering.
+
+| Color | Meaning |
+|-------|---------|
+| Gold `#c8b040` | Uncommon — approaching the threshold |
+| Amber `#c07830` | Rare |
+| Orange `#b05020` | Very rare |
+| Red `#a03018` | Extremely rare or hapax legomenon |
+
+Frequency data (`pageFreq`) is baked into each chapter page at build time — one `{h, b}` entry per unique lemma (HB total and current-book total). No network request is made at interaction time.
 
 ### Cross-Tradition Alignment
 

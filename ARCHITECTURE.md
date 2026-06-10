@@ -15,7 +15,7 @@ A fully static site — no server, no runtime database. Every page is a self-con
 
 ```
 thb/
-├── thb_builder.py          ← site builder (~1,800 lines)
+├── thb_builder.py          ← site builder (~2,360 lines)
 ├── thb_template.html       ← HTML/CSS/JS shell for every page
 ├── ARCHITECTURE.md         ← this file
 ├── README.md
@@ -291,6 +291,32 @@ The "Áa" damage toggle re-runs `parseWord/tokensToHTML` from `data-sf` (restore
 
 ---
 
+## Lemma Rarity Coloring
+
+The ◈ button activates rarity coloring across all traditions simultaneously. A logarithmic slider (0–100) sets the frequency threshold T; the formula maps slider position to threshold:
+
+```js
+T = Math.pow(10, 0.5 + val * 3.5 / 100)   // ~3–10000
+```
+
+Tier assignment (by HB-total frequency `h` from `pageFreq`):
+
+| Condition | CSS class | Color |
+|-----------|-----------|-------|
+| `h >= T` | _(none)_ | Uncolored |
+| `h >= T/4` | `.rar-1` | Gold `#c8b040` |
+| `h >= T/16` | `.rar-2` | Amber `#c07830` |
+| `h >= T/64` | `.rar-3` | Orange `#b05020` |
+| `h < T/64` | `.rar-4` | Red `#a03018` |
+
+Hapax legomena are inferred at runtime from `pageFreq[key].h === 1` — the `data-hapax` attribute was removed from word spans in v1.5.0626.
+
+**`pageFreq` data** is baked into each chapter page as `const pageFreq = {{{FREQ_DATA}}};` — one `{h, b}` entry per unique lemma on the page (h = HB total, b = current-book total). The builder tracks which conc-keys appear per page in `self._page_conc_keys` (populated during `build_word_span()`, reset at the start of each chapter).
+
+Threshold and on/off state are persisted in cookies (`thb-rarity`, `thb-rarity-threshold`). `resetLayout()` clears both.
+
+---
+
 ## Concordance: `backend/concordance/{book}.json`
 
 Strong's frequency data split into one file per book (39 total). Each file:
@@ -445,7 +471,7 @@ Alignment uses `data-` attributes, not DOM position, so column reordering and th
 
 ## The Builder: `thb_builder.py`
 
-Single Python 3 script (~1,800 lines). All paths are `Path(__file__).parent`-relative.
+Single Python 3 script (~2,360 lines). All paths are `Path(__file__).parent`-relative.
 
 ### `VersificationMapper`
 
@@ -471,6 +497,7 @@ THBSiteBuilder(
 | `self.occurrence_index` | `{tradition: {lemma_key: [(book, ch, verse), ...]}}` — built from loaded data |
 | `self.hapax` | `{tradition: set(lemma_keys)}` — single-occurrence lemmas |
 | `self._page_lex` | Per-page lexicon accumulator, reset each chapter |
+| `self._page_conc_keys` | Per-chapter `{tradition: set(conc_key)}` — tracks which lemmas appear on the page; used by `build_page_freq()` |
 | `self._sp_consonant_index` | Consonantal Hebrew → Strong's code |
 | `self.aleppo_pages` | Sorted list of Aleppo facsimile page entries |
 | `self.alignment` | `{(book, ch, verse, tradition): {surface: [(tid, wid_str), ...]}}` — loaded from `backend/alignment/` |
@@ -491,6 +518,7 @@ THBSiteBuilder(
 | `build_chapter_frequency(book, chapter)` | Merges concordance data for a chapter |
 | `build_word_database(book, chapter)` | Produces the inlined Strong's frequency JS object |
 | `build_page_lexicon()` | Produces the inlined per-page lexicon JS object |
+| `build_page_freq(book)` | Produces the inlined per-page frequency JS object (`pageFreq`) — one `{h, b}` entry per unique lemma on the page |
 | `build_chapter_page(book, chapter)` | Fills the template; returns complete HTML |
 | `build_concordance_stub_page(tradition, key, occurrences)` | Generates a single concordance stub page |
 | `build_concordance_stubs()` | Writes all concordance stub pages |
@@ -530,6 +558,7 @@ Single HTML file. The builder replaces `{{{TAG}}}` placeholders with generated c
 | `{{{WORDS}}}` | All rendered verse rows |
 | `{{{WORD_DATABASE}}}` | Inlined Strong's frequency data as JS object |
 | `{{{LEX_DATA}}}` | Inlined per-page lexicon as JS object |
+| `{{{FREQ_DATA}}}` | Inlined per-page frequency data as JS object — `{lemma_key: {h: hb_total, b: book_total}}` |
 | `{{{LAYOUT_CTX}}}` | `"torah"`, `"standard"`, or `"nodss"` — drives default column set |
 
 CSS and JS are fully inline — no external stylesheet or script dependencies (except the Pagefind search widget).

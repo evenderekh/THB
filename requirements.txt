@@ -1,2 +1,7 @@
-# Python 3.8+ — stdlib only, no pip dependencies.
+# Python 3.8+
 # Node.js (npx) required for the Pagefind search indexing step of a full build.
+
+rjsmin>=1.2   # JS minification of inline <script> blocks in generated pages
+rcssmin>=1.1  # CSS minification of inline <style> blocks in generated pages
+              # pip install rjsmin rcssmin
+              # Both optional — builder works without them, just skips minification.

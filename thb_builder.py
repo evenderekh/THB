@@ -16,6 +16,31 @@ from pathlib import Path
 from typing import Dict, Any, List, Optional, Set, Tuple
 from urllib.parse import quote as urlquote
 
+try:
+    import rjsmin as _rjsmin
+    def _minify_scripts(html: str) -> str:
+        """Minify inline <script> blocks; skip ld+json and external src= scripts."""
+        def _repl(m: re.Match) -> str:
+            tag, body = m.group(1), m.group(2)
+            if 'src=' in tag or 'ld+json' in tag:
+                return m.group(0)
+            return f'<script>{_rjsmin.jsmin(body)}</script>'
+        return re.sub(r'(<script[^>]*>)([\s\S]*?)</script>', _repl, html)
+except ImportError:
+    def _minify_scripts(html: str) -> str:  # type: ignore[misc]
+        return html
+
+try:
+    import rcssmin as _rcssmin
+    def _minify_styles(html: str) -> str:
+        """Minify inline <style> blocks."""
+        def _repl(m: re.Match) -> str:
+            return f'<style>{_rcssmin.cssmin(m.group(1))}</style>'
+        return re.sub(r'<style>([\s\S]*?)</style>', _repl, html)
+except ImportError:
+    def _minify_styles(html: str) -> str:  # type: ignore[misc]
+        return html
+
 def normalize_for_search(text: str, tradition: str) -> str:
     """Strip all diacritics and noise — makes search effectively consonantal.
 
@@ -573,6 +598,8 @@ class THBSiteBuilder:
         self.occurrence_index: Dict[str, Dict[str, List[Tuple[str, int, int]]]] = {}
         # Hapax legomena: tradition → set of lemma_keys with exactly 1 verse occurrence
         self.hapax: Dict[str, Set[str]] = {}
+        # Per-page conc-key tracking: tradition → set of keys seen this chapter
+        self._page_conc_keys: Dict[str, Set[str]] = {}
         # Alignment data: (book, chapter, verse, tradition) →
         #   {surface: [(tid, wid_str), ...]}  — ordered list; consumed in sequence
         #   during rendering so repeated surfaces (e.g. את) get the right thought.
@@ -1213,9 +1240,8 @@ class THBSiteBuilder:
         _conc_key = '' if (tradition == 'kjv' and word.get('italicized')) else (
             self._lemma_key(word, tradition) if self.occurrence_index else '')
         if _conc_key:
-            _is_hapax = _conc_key in self.hapax.get(tradition, set())
-            _conc_attrs = (f' data-conc-key="{html.escape(_conc_key)}"'
-                           + (' data-hapax="1"' if _is_hapax else ''))
+            self._page_conc_keys.setdefault(tradition, set()).add(_conc_key)
+            _conc_attrs = f' data-conc-key="{html.escape(_conc_key)}"'
         else:
             _conc_attrs = ''
 
@@ -1904,6 +1930,27 @@ class THBSiteBuilder:
         }
         return json.dumps(compact, ensure_ascii=False, separators=(',', ':'))
 
+    def build_page_freq(self, book: str) -> str:
+        """Serialize per-page lemma frequency data as a compact JS object.
+
+        Keys match data-conc-key values on word spans.
+        Values: {h: HB-total, b: book-total} — one entry per unique lemma.
+        On key collision across traditions (e.g. H430 in both MT and KJV),
+        first-seen wins; counts are close enough that tier assignment is unaffected.
+        Hapax is inferred at runtime from h === 1; data-hapax attr is not emitted.
+        """
+        result: dict = {}
+        for tradition in ('mt', 'lxx', 'vul', 'sp', 'kjv', 'dss'):
+            index = self.occurrence_index.get(tradition, {})
+            for key in self._page_conc_keys.get(tradition, set()):
+                if key in result:
+                    continue
+                occurrences = index.get(key, [])
+                hb = len(occurrences)
+                b  = sum(1 for (bk, _, _) in occurrences if bk == book)
+                result[key] = {'h': hb, 'b': b}
+        return json.dumps(result, ensure_ascii=False, separators=(',', ':'))
+
     # enrich_mt_word and enrich_lxx_word removed — definitions now read
     # directly from self.mt_lexicon / self.lxx_lexicon in build_word_span.
 
@@ -1966,8 +2013,9 @@ class THBSiteBuilder:
 
     def build_chapter_page(self, book: str, chapter: int) -> str:
         """Build a complete chapter page."""
-        # Reset per-page lexicon so each chapter starts fresh
+        # Reset per-page caches so each chapter starts fresh
         self._page_lex: dict = {}
+        self._page_conc_keys = {}
 
         # Replace all template tags
         html = self.template
@@ -2016,15 +2064,17 @@ class THBSiteBuilder:
             '{{{LAYOUT_CTX}}}': layout_ctx,
             '{{{PREV_URL}}}': prev_url,
             '{{{NEXT_URL}}}': next_url,
-            '{{{WORDS}}}': self.build_words_section(book, chapter),  # must be first — populates _page_lex
+            '{{{WORDS}}}': self.build_words_section(book, chapter),  # must be first — populates _page_lex and _page_conc_keys
             '{{{WORD_DATABASE}}}': self.build_word_database(book, chapter),
             '{{{LEX_DATA}}}': self.build_page_lexicon(),
+            '{{{FREQ_DATA}}}': self.build_page_freq(book),
         }
         
         for tag, replacement in replacements.items():
             html = html.replace(tag, replacement)
-        
-        return html
+
+        html = _minify_styles(html)
+        return _minify_scripts(html)
     
     def create_directory_structure(self, book: str, chapter: int):
         """Create the output directory structure."""

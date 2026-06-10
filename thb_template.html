@@ -1161,6 +1161,38 @@
         /* Mobile reset bar: hidden on desktop, shown by the ≤640px query below */
         .mobile-reset-bar { display: none; }
 
+        /* ── Lemma rarity coloring ───────────────────────────────────────────── */
+        .rar-1 { color: #c8b040; }
+        .rar-2 { color: #c07830; }
+        .rar-3 { color: #b05020; }
+        .rar-4 { color: #a03018; }
+
+        .rarity-toggle.active {
+            background: rgba(201, 176, 55, 0.8);
+            color: #0a0a0b;
+            border-color: #c9b037;
+        }
+
+        .rarity-slider-wrap {
+            display: flex;
+            align-items: center;
+        }
+        .rarity-slider {
+            width: 100px;
+            accent-color: #c9b037;
+            cursor: pointer;
+            vertical-align: middle;
+        }
+
+        /* Full-width rarity slider below the mobile reset bar */
+        .mobile-rarity-slider-bar {
+            display: none;
+            padding: 0 0.5rem 0.4rem;
+        }
+        .mobile-rarity-slider-bar .rarity-slider {
+            width: 100%;
+        }
+
         /* Replace pipe characters with line breaks on mobile */
         @media (max-width: 768px) {
             .linguistic-data {
@@ -1455,6 +1487,10 @@
             </div>
             <a class="nav-arrow" href="{{{NEXT_URL}}}" title="Next Chapter">›</a>
             <div class="header-controls">
+                <div class="rarity-slider-wrap" id="raritySliderWrap" style="display:none">
+                    <input type="range" id="raritySlider" class="rarity-slider" min="0" max="100" value="50">
+                </div>
+                <button class="layout-reset rarity-toggle" id="rarityToggle" onclick="toggleRarity()" title="Lemma rarity coloring">◈</button>
                 <button class="layout-reset" onclick="resetLayout()" title="Reset all fonts and column order">⟲</button>
             </div>
         </div>
@@ -1528,7 +1564,11 @@
         </div>
 
         <div class="mobile-reset-bar">
+            <button class="mobile-reset-btn rarity-toggle" id="mobileRarityToggle" onclick="toggleRarity()">◈ Rarity</button>
             <button class="mobile-reset-btn" onclick="resetLayout()" title="Reset fonts and column order">⟲ Reset all</button>
+        </div>
+        <div class="mobile-rarity-slider-bar" id="mobileRaritySliderBar">
+            <input type="range" id="mobileRaritySlider" class="rarity-slider" min="0" max="100" value="50">
         </div>
 
         {{{WORDS}}}
@@ -1610,6 +1650,9 @@
         // Baked per-page lexicon — 'H{code}' or lemma → {bdb, thb}
         // Definitions stored once per page, not once per word span.
         const pageLex = {{{LEX_DATA}}};
+        // Baked per-page lemma frequency — conc-key → {h: HB-total, b: book-total}
+        // One entry per unique lemma. Hapax inferred at runtime: h === 1.
+        const pageFreq = {{{FREQ_DATA}}};
     </script>
     <script>
         // Chapter counts for navigation
@@ -2099,6 +2142,21 @@
             // Reset column widths (only on desktop)
             resetColumnWidths();
             
+            // Reset rarity coloring
+            rarityActive = false;
+            raritySliderVal = 50;
+            document.getElementById('rarityToggle')?.classList.remove('active');
+            document.getElementById('mobileRarityToggle')?.classList.remove('active');
+            const _rsw = document.getElementById('raritySliderWrap');
+            const _mrsb = document.getElementById('mobileRaritySliderBar');
+            if (_rsw)  _rsw.style.display  = 'none';
+            if (_mrsb) _mrsb.style.display = 'none';
+            const _rs  = document.getElementById('raritySlider');
+            const _mrs = document.getElementById('mobileRaritySlider');
+            if (_rs)  _rs.value  = 50;
+            if (_mrs) _mrs.value = 50;
+            applyRarityColoring();
+
             // Clear all cookies
             deleteCookie('thb-font-sizes');
             deleteCookie('thb-diacritics-state');
@@ -2108,6 +2166,8 @@
             deleteCookie('thb-cols-nodss');
             deleteCookie('thb-visible-columns'); // legacy key — clean up if present
             deleteCookie('thb-column-widths');
+            deleteCookie('thb-rarity');
+            deleteCookie('thb-rarity-threshold');
         }
 
         function loadFontSizes() {
@@ -2956,7 +3016,8 @@
 
             // Concordance / hapax
             const concKey  = word.dataset.concKey || '';
-            const isHapax  = word.dataset.hapax === '1';
+            const freqEntry = (typeof pageFreq !== 'undefined') ? (pageFreq[concKey] || null) : null;
+            const isHapax   = freqEntry ? freqEntry.h === 1 : false;
             const tradSlug = word.classList.contains('hebrew-word')    ? 'mt'
                            : word.classList.contains('greek-word')     ? 'lxx'
                            : word.classList.contains('latin-word')     ? 'vul'
@@ -3198,6 +3259,91 @@
             }
         }
 
+        // ── Lemma rarity coloring ────────────────────────────────────────────
+        let rarityActive    = false;
+        let raritySliderVal = 50;
+
+        // Maps slider 0–100 → frequency threshold on a log scale (~3 to ~10 000).
+        function sliderToThreshold(val) {
+            return Math.pow(10, 0.5 + val * 3.5 / 100);
+        }
+
+        // Returns the CSS class for a given HB occurrence count + threshold,
+        // or '' if the lemma is common enough to be uncolored.
+        function getRarityClass(h, threshold) {
+            if (!h || h >= threshold) return '';
+            if (h >= threshold / 4)   return 'rar-1';   // gold
+            if (h >= threshold / 16)  return 'rar-2';   // amber
+            if (h >= threshold / 64)  return 'rar-3';   // orange
+            return 'rar-4';                              // red
+        }
+
+        function applyRarityColoring() {
+            const threshold = sliderToThreshold(raritySliderVal);
+            document.querySelectorAll('[data-conc-key]').forEach(span => {
+                span.classList.remove('rar-1', 'rar-2', 'rar-3', 'rar-4');
+                if (!rarityActive) return;
+                const entry = (typeof pageFreq !== 'undefined') ? pageFreq[span.dataset.concKey] : null;
+                if (!entry) return;
+                const cls = getRarityClass(entry.h, threshold);
+                if (cls) span.classList.add(cls);
+            });
+        }
+
+        function toggleRarity() {
+            rarityActive = !rarityActive;
+            document.getElementById('rarityToggle')?.classList.toggle('active', rarityActive);
+            document.getElementById('mobileRarityToggle')?.classList.toggle('active', rarityActive);
+            const rsw  = document.getElementById('raritySliderWrap');
+            const mrsb = document.getElementById('mobileRaritySliderBar');
+            if (rsw)  rsw.style.display  = rarityActive ? '' : 'none';
+            if (mrsb) mrsb.style.display = (rarityActive && window.innerWidth <= 640) ? 'flex' : 'none';
+            applyRarityColoring();
+            setCookie('thb-rarity', rarityActive ? '1' : '0');
+        }
+
+        function initRaritySliders() {
+            const slider  = document.getElementById('raritySlider');
+            const mSlider = document.getElementById('mobileRaritySlider');
+
+            function onSliderChange(val) {
+                raritySliderVal = parseInt(val);
+                if (slider)  slider.value  = raritySliderVal;
+                if (mSlider) mSlider.value = raritySliderVal;
+                applyRarityColoring();
+                setCookie('thb-rarity-threshold', raritySliderVal);
+            }
+
+            if (slider)  slider.addEventListener('input',  e => onSliderChange(e.target.value));
+            if (mSlider) mSlider.addEventListener('input', e => onSliderChange(e.target.value));
+
+            // Restore saved state
+            const savedThreshold = getCookie('thb-rarity-threshold');
+            if (savedThreshold) {
+                raritySliderVal = parseInt(savedThreshold);
+                if (slider)  slider.value  = raritySliderVal;
+                if (mSlider) mSlider.value = raritySliderVal;
+            }
+            const savedActive = getCookie('thb-rarity');
+            if (savedActive === '1') {
+                rarityActive = true;
+                document.getElementById('rarityToggle')?.classList.add('active');
+                document.getElementById('mobileRarityToggle')?.classList.add('active');
+                const rsw  = document.getElementById('raritySliderWrap');
+                const mrsb = document.getElementById('mobileRaritySliderBar');
+                if (rsw)  rsw.style.display  = '';
+                if (mrsb && window.innerWidth <= 640) mrsb.style.display = 'flex';
+                applyRarityColoring();
+            }
+        }
+
+        // Keep mobile rarity slider bar in sync on viewport resize
+        window.addEventListener('resize', function() {
+            if (!rarityActive) return;
+            const mrsb = document.getElementById('mobileRaritySliderBar');
+            if (mrsb) mrsb.style.display = window.innerWidth <= 640 ? 'flex' : 'none';
+        });
+
         document.addEventListener('DOMContentLoaded', function() {
             const bookSelect = document.getElementById('book-select');
             const chapterSelect = document.getElementById('chapter-select');
@@ -3230,6 +3376,9 @@
                 applyDiacriticsFiltering(tradition);
             });
             
+            // Initialize rarity coloring
+            initRaritySliders();
+
             // Initialize column reordering
             initializeColumnReordering();
             
