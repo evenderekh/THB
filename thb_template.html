@@ -1377,6 +1377,22 @@
             .verse-cell.english::before   { content: 'English (KJV)';   color: #9a8194; }
             .verse-cell.qumran::before    { content: 'Qumran (DSS)';    color: #cd853f; }
         }
+
+        .verb-toggle-group { position: relative; display: inline-flex; }
+        .verb-help { position: absolute; bottom: calc(100% + 5px); left: 50%; transform: translateX(-50%); color: #c9b037; border: 1px solid rgba(201,176,55,.3); border-radius: 50%; width: 18px; height: 18px; text-align: center; line-height: 18px; font-size: 12px; text-decoration: none; }
+        #verbColorKey { width: min(350px, calc(100vw - 40px)); box-sizing: border-box; margin: auto; padding: 24px; background: #141414; color: #ddd; border: 1px solid #554b27; border-radius: 6px; font-family: inherit; }
+        #verbColorKey::backdrop { background: rgba(0,0,0,.65); }
+        #verbColorKey h2 { color: #c9b037; font-size: 17px; font-weight: 500; margin: 0 0 16px; }
+        #verbColorKey p { font-size: 12px; line-height: 1.6; color: #aaa; margin: 0 0 18px; }
+        .verb-key-close { float: right; border: 0; background: transparent; color: #aaa; font-size: 22px; cursor: pointer; }
+        #verbLegend { display: grid; gap: 13px; font-size: 14px; }
+        .verb-key-row { display: flex; gap: 12px; align-items: center; }
+        .verb-swatch { width: 9px; height: 9px; border-radius: 50%; background: var(--verb-color); flex-shrink: 0; }
+        body.verb-coloring .hebrew-word.verb-visible { color: var(--verb-color) !important; }
+        @media (min-width: 641px) and (max-width: 1200px) {
+            .header { padding-bottom: 58px; }
+            .header-controls { bottom: 0; }
+        }
     </style>
 </head>
 <body>
@@ -1491,6 +1507,13 @@
                     <input type="range" id="raritySlider" class="rarity-slider" min="0" max="100" value="50">
                 </div>
                 <button class="layout-reset rarity-toggle" id="rarityToggle" onclick="toggleRarity()" title="Lemma rarity coloring">◈</button>
+                <div class="rarity-slider-wrap" id="verbSliderWrap" style="display:none">
+                    <input type="range" id="verbSlider" class="rarity-slider" min="0" max="100" value="85" aria-label="Verb form sensitivity">
+                </div>
+                <span class="verb-toggle-group">
+                    <button class="layout-reset rarity-toggle" id="verbToggle" onclick="toggleVerbColoring()" title="Verb form coloring" aria-label="Verb form coloring" aria-pressed="false">⋈</button>
+                    <a href="#verbColorKey" class="verb-help" id="verbKeyLink" aria-label="Verb form color key" aria-haspopup="dialog" hidden>?</a>
+                </span>
                 <button class="layout-reset" onclick="resetLayout()" title="Reset all fonts and column order">⟲</button>
             </div>
         </div>
@@ -1565,10 +1588,17 @@
 
         <div class="mobile-reset-bar">
             <button class="mobile-reset-btn rarity-toggle" id="mobileRarityToggle" onclick="toggleRarity()">◈ Rarity</button>
+            <span class="verb-toggle-group">
+                <button class="mobile-reset-btn rarity-toggle" id="mobileVerbToggle" onclick="toggleVerbColoring()" aria-pressed="false">⋈ Verbs</button>
+                <a href="#verbColorKey" class="verb-help" id="mobileVerbKeyLink" aria-label="Verb form color key" aria-haspopup="dialog" hidden>?</a>
+            </span>
             <button class="mobile-reset-btn" onclick="resetLayout()" title="Reset fonts and column order">⟲ Reset all</button>
         </div>
         <div class="mobile-rarity-slider-bar" id="mobileRaritySliderBar">
             <input type="range" id="mobileRaritySlider" class="rarity-slider" min="0" max="100" value="50">
+        </div>
+        <div class="mobile-rarity-slider-bar" id="mobileVerbSliderBar">
+            <input type="range" id="mobileVerbSlider" class="rarity-slider" min="0" max="100" value="85" aria-label="Verb form sensitivity">
         </div>
 
         {{{WORDS}}}
@@ -1662,7 +1692,7 @@
             '1kings': 22, '2kings': 25, '1chronicles': 29, '2chronicles': 36,
             ezra: 10, nehemiah: 13, esther: 10, job: 42, psalms: 150,
             proverbs: 31, ecclesiastes: 12, song: 8, isaiah: 66, jeremiah: 52,
-            lamentations: 5, ezekiel: 48, daniel: 12, hosea: 14, joel: 3,
+            lamentations: 5, ezekiel: 48, daniel: 12, hosea: 14, joel: 4,
             amos: 9, obadiah: 1, jonah: 4, micah: 7, nahum: 3, habakkuk: 3,
             zephaniah: 3, haggai: 2, zechariah: 14, malachi: 3
         };
@@ -2156,6 +2186,8 @@
             if (_rs)  _rs.value  = 50;
             if (_mrs) _mrs.value = 50;
             applyRarityColoring();
+
+            resetVerbColoring();
 
             // Clear all cookies
             deleteCookie('thb-font-sizes');
@@ -2992,7 +3024,7 @@
         function showLinguisticInfo(event) {
             clearTimeout(hoverTimeout);
             const word = event.target;
-            const language = word.classList.contains('hebrew-word')    ? 'Hebrew'    :
+            const language = word.classList.contains('hebrew-word')    ? (word.dataset.language || 'Hebrew') :
                              word.classList.contains('greek-word')     ? 'Greek'     :
                              word.classList.contains('latin-word')     ? 'Latin'     :
                              word.classList.contains('samaritan-word') ? 'Samaritan' :
@@ -3068,7 +3100,8 @@
 
             // morphology — build a compact table inside a single row
             const morphLabels = {
-                pos: 'Part of Speech', stem: 'Stem', tense: 'Tense',
+                pos: 'Part of Speech', stem: 'Stem', conjugation: 'Conjugation',
+                verbform: 'Verb Form', tense: 'Tense',
                 mood: 'Mood', voice: 'Voice', aspect: 'Aspect',
                 person: 'Person', gender: 'Gender', number: 'Number',
                 state: 'State', case: 'Case', degree: 'Degree'
@@ -3551,6 +3584,112 @@
                 }
             });
         });
+    </script>
+
+    <dialog id="verbColorKey" aria-labelledby="verbKeyTitle">
+        <form method="dialog"><button class="verb-key-close" aria-label="Close color key">×</button></form>
+        <h2 id="verbKeyTitle">Verb forms</h2>
+        <p>Sensitivity measures how often a form occurs among the ten verbs on either side, within this chapter. Low settings highlight the strongest departures. Maximum colors every verb.</p>
+        <div id="verbLegend"></div>
+    </dialog>
+
+    <script>
+        const verbForms = {
+            w: {label: 'Wayyiqtol', color: '#51a6ff'},
+            p: {label: 'Qatal', color: '#ca7aff'},
+            q: {label: 'Weqatal', color: '#b0bfff'},
+            i: {label: 'Yiqtol', color: '#31dfbd'},
+            v: {label: 'Imperative', color: '#ff6198'},
+            j: {label: 'Jussive', color: '#9ee849'},
+            h: {label: 'Cohortative', color: '#f273e1'},
+            r: {label: 'Active participle', color: '#f2cc4d'},
+            s: {label: 'Passive participle', color: '#ed94b0'},
+            c: {label: 'Infinitive construct', color: '#65c5eb'},
+            a: {label: 'Infinitive absolute', color: '#f6ef8b'}
+        };
+        const coloredVerbs = Array.from(document.querySelectorAll('.hebrew-word[data-verbcode]'));
+        // The current verb is excluded; chapter edges use the available neighbors.
+        const verbLocalFrequencies = coloredVerbs.map((word, index) => {
+            const neighbors = coloredVerbs.slice(Math.max(0, index - 10), index + 11)
+                .filter(neighbor => neighbor !== word);
+            const matching = neighbors.filter(neighbor => neighbor.dataset.verbcode === word.dataset.verbcode).length;
+            return neighbors.length ? matching / neighbors.length : 0;
+        });
+        let verbColoringActive = getCookie('thb-verbs') === '1';
+        const savedVerbSensitivity = Number(getCookie('thb-verb-sensitivity') ?? 85);
+        let verbSensitivity = Number.isFinite(savedVerbSensitivity) ? Math.max(0, Math.min(100, savedVerbSensitivity)) : 85;
+        const verbSlider = document.getElementById('verbSlider');
+        const mobileVerbSlider = document.getElementById('mobileVerbSlider');
+
+        function applyVerbColoring() {
+            document.body.classList.toggle('verb-coloring', verbColoringActive);
+            const description = verbSensitivity === 100 ? 'All verb forms' :
+                `Highlight forms occurring in at most ${verbSensitivity}% of nearby verbs`;
+            coloredVerbs.forEach((word, index) => {
+                word.classList.toggle('verb-visible', verbLocalFrequencies[index] <= verbSensitivity / 100);
+            });
+            [verbSlider, mobileVerbSlider].forEach(slider => {
+                slider.value = verbSensitivity;
+                slider.title = description;
+                slider.setAttribute('aria-valuetext', description);
+            });
+            ['verbToggle', 'mobileVerbToggle'].forEach(id => {
+                const button = document.getElementById(id);
+                button.classList.toggle('active', verbColoringActive);
+                button.setAttribute('aria-pressed', String(verbColoringActive));
+            });
+            document.getElementById('verbSliderWrap').style.display = verbColoringActive ? '' : 'none';
+            document.getElementById('mobileVerbSliderBar').style.display = verbColoringActive && window.innerWidth <= 640 ? 'flex' : 'none';
+            document.getElementById('verbKeyLink').hidden = !verbColoringActive;
+            document.getElementById('mobileVerbKeyLink').hidden = !verbColoringActive;
+        }
+
+        function toggleVerbColoring() {
+            verbColoringActive = !verbColoringActive;
+            setCookie('thb-verbs', verbColoringActive ? '1' : '0');
+            applyVerbColoring();
+        }
+
+        function resetVerbColoring() {
+            verbColoringActive = false;
+            verbSensitivity = 85;
+            deleteCookie('thb-verbs');
+            deleteCookie('thb-verb-sensitivity');
+            document.getElementById('verbColorKey').close();
+            applyVerbColoring();
+        }
+
+        const chapterVerbForms = new Set(coloredVerbs.map(word => word.dataset.verbcode));
+        const verbLegend = document.getElementById('verbLegend');
+        Object.entries(verbForms).filter(([code]) => chapterVerbForms.has(code)).forEach(([, form]) => {
+            const row = document.createElement('div');
+            row.className = 'verb-key-row';
+            const swatch = document.createElement('span');
+            swatch.className = 'verb-swatch';
+            swatch.style.setProperty('--verb-color', form.color);
+            row.append(swatch, document.createTextNode(form.label));
+            verbLegend.append(row);
+        });
+        coloredVerbs.forEach(word => {
+            const form = verbForms[word.dataset.verbcode];
+            word.style.setProperty('--verb-color', form.color);
+            word.title = `${word.dataset.conjugation} · ${word.dataset.stem}`;
+        });
+        [verbSlider, mobileVerbSlider].forEach(slider => {
+            slider.addEventListener('input', () => {
+                verbSensitivity = Number(slider.value);
+                setCookie('thb-verb-sensitivity', verbSensitivity);
+                applyVerbColoring();
+            });
+        });
+        ['verbKeyLink', 'mobileVerbKeyLink'].forEach(id => {
+            document.getElementById(id).addEventListener('click', event => {
+                event.preventDefault();
+                document.getElementById('verbColorKey').showModal();
+            });
+        });
+        window.addEventListener('resize', applyVerbColoring);
+        applyVerbColoring();
     </script>
 </body>
 </html>

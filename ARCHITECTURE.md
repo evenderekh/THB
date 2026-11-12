@@ -315,6 +315,35 @@ Hapax legomena are inferred at runtime from `pageFreq[key].h === 1` — the `dat
 
 Threshold and on/off state are persisted in cookies (`thb-rarity`, `thb-rarity-threshold`). `resetLayout()` clears both.
 
+## Verb Form Coloring
+
+The ⋈ button colors MT verb segments by their OSHB conjugation. The slider and
+the ? color-key link appear when enabled. Desktop and mobile controls share
+`thb-verbs` and `thb-verb-sensitivity` cookies. Reset clears both, returning
+sensitivity to 85 and coloring to off.
+
+Sensitivity is the maximum local frequency to highlight, from 0–100%. Each verb
+is compared with up to ten preceding and ten following verb segments within its
+chapter, excluding itself. Chapter edges use the available neighbors. An isolated
+verb has frequency zero. At 100%, every verb is colored at full saturation.
+Colors identify conjugation, while the slider determines which verbs receive
+color. Active verb colors take precedence over lemma rarity colors on those
+segments. Other traditions retain their own morphology and rarity behavior.
+
+`parse_oshb_morph()` preserves the source conjugation in `conjugation` and its
+code in `verbcode`. The display uses UD-style `verbform`, `aspect`, `tense`,
+`mood`, and `voice` fields alongside the source stem. Participles and infinitives
+use Verb Form. Qatal/weqatal map to perfective aspect, yiqtol to imperfective,
+and wayyiqtol to past tense, following the Ancient Hebrew UD treebank conventions.
+Cohortative and jussive retain their OSHB labels without assigning an inferred
+UD mood. Stem names follow OSHB's separate Hebrew and Aramaic tables. Split MT
+segments inherit their word's language in memory during loading.
+
+Full UD treebank annotation additionally requires syntactic analysis for
+context-dependent POS and voice distinctions beyond OSHB's tags.
+Reference definitions are at <https://hb.openscriptures.org/parsing/HebrewMorphologyCodes.html>
+and <https://universaldependencies.org/hbo/index.html>.
+
 ---
 
 ## Concordance: `backend/concordance/{book}.json`

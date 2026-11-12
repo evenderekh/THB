@@ -109,6 +109,9 @@ Concordance stub pages (~47K files across 6 traditions) exceed Cloudflare Pages'
 # Full build — all 39 books, all chapters + concordance pages
 python thb/thb_builder.py --concordance
 
+# Main site and search only (concordance sites are deployed separately)
+python thb/thb_builder.py --skip-concordance
+
 # Fast preview — Genesis 1–3 only
 python thb/thb_builder.py --mini
 

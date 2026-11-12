@@ -101,7 +101,18 @@ def _safe_dirname(key: str) -> str:
     return safe or '_'
 
 
-def parse_oshb_morph(code: str) -> dict:
+def split_oshb_language(code: str, language: str = 'H') -> Tuple[str, str]:
+    """Separate an explicit language prefix from a morpheme's POS code.
+
+    Bare adjective codes start with A followed by a lowercase subtype.
+    An Aramaic language prefix is followed by an uppercase POS letter.
+    """
+    if code.startswith('H') or (code.startswith('A') and code[1:2].isupper()):
+        return code[0], code[1:]
+    return language, code
+
+
+def parse_oshb_morph(code: str, language: str = 'H') -> dict:
     """Parse an OpenScriptures Hebrew/Aramaic morph code to UD-style morph_thb fields.
 
     Format: [H|A] + pos-letter + positional fields
@@ -117,8 +128,7 @@ def parse_oshb_morph(code: str) -> dict:
     if not code:
         return {}
     # Strip optional language prefix
-    if code[0] in ('H', 'A'):
-        code = code[1:]
+    language, code = split_oshb_language(code, language)
     if not code:
         return {}
     pos_code = code[0]
@@ -143,39 +153,62 @@ def parse_oshb_morph(code: str) -> dict:
         if s: result['state']  = STATE.get(s, '')
 
     elif pos_code == 'V':
-        STEM_NAME = {
+        HEBREW_STEMS = {
             'q': 'Qal',        'N': 'Niphal',       'p': 'Piel',      'P': 'Pual',
             'h': 'Hiphil',     'H': 'Hophal',        't': 'Hithpael',  'o': 'Polel',
-            'O': 'Polal',      'r': 'Poel',          'R': 'Poal',      'u': 'Hithpolel',
-            'k': 'Qal passive','K': 'Pilpel',        'z': 'Palpel',    'c': 'Nithpael',
-            'D': 'Hithpalpel', 'w': 'Hithpoel',      'm': 'Palel',     'M': 'Pulal',
-            'g': 'Pilel',      'G': 'Pulel',         'f': 'Pilpel',
-            'b': 'Shaphel',    'B': "Haph'el",
+            'O': 'Polal',      'r': 'Hithpolel',     'm': 'Poel',      'M': 'Poal',
+            'k': 'Palel',      'K': 'Pulal',        'Q': 'Qal passive',
+            'l': 'Pilpel',     'L': 'Polpal',       'f': 'Hithpalpel',
+            'D': 'Nithpael',   'j': 'Pealal',       'i': 'Pilel',
+            'u': 'Hothpaal',   'c': 'Tiphil',       'v': 'Hishtaphel',
+            'w': 'Nithpalel',  'y': 'Nithpoel',     'z': 'Hithpoel',
         }
-        STEM_VOICE = {
-            'q': 'active',   'N': 'passive',   'p': 'active',    'P': 'passive',
-            'h': 'active',   'H': 'passive',   't': 'reflexive', 'o': 'active',
-            'O': 'passive',  'r': 'active',    'R': 'passive',   'u': 'reflexive',
-            'k': 'passive',  'K': 'active',    'z': 'active',    'c': 'passive',
-            'D': 'reflexive','w': 'reflexive', 'g': 'active',    'G': 'passive',
-            'f': 'active',   'b': 'active',    'B': 'active',
+        ARAMAIC_STEMS = {
+            'q': 'Peal', 'Q': 'Peil', 'u': 'Hithpeel', 'p': 'Pael',
+            'P': 'Ithpaal', 'M': 'Hithpaal', 'a': 'Aphel', 'h': 'Haphel',
+            's': 'Saphel', 'e': 'Shaphel', 'H': 'Hophal', 'i': 'Ithpeel',
+            't': 'Hishtaphel', 'v': 'Ishtaphel', 'w': 'Hithaphel',
+            'o': 'Polel', 'z': 'Ithpoel', 'r': 'Hithpolel', 'f': 'Hithpalpel',
+            'b': 'Hephal', 'c': 'Tiphel', 'm': 'Poel', 'l': 'Palpel',
+            'L': 'Ithpalpel', 'O': 'Ithpolel', 'G': 'Ittaphal',
         }
-        ASPECT_TENSE = {'p': 'perfect', 'i': 'imperfect', 'w': 'imperfect (sequential)'}
-        ASPECT_MOOD  = {
-            'p': 'indicative',            'i': 'indicative',
-            'w': 'indicative',            'h': 'cohortative',
-            'j': 'jussive',               'v': 'imperative',
-            'r': 'participle (active)',   's': 'participle (passive)',
-            'a': 'infinitive (absolute)', 'c': 'infinitive (construct)',
+        CONJUGATIONS = {
+            'p': 'qatal (perfect)', 'q': 'weqatal (sequential perfect)',
+            'i': 'yiqtol (imperfect)', 'w': 'wayyiqtol (sequential imperfect)',
+            'h': 'cohortative', 'j': 'jussive', 'v': 'imperative',
+            'r': 'active participle', 's': 'passive participle',
+            'a': 'infinitive absolute', 'c': 'infinitive construct',
         }
         stem   = code[1] if len(code) > 1 else ''
         aspect = code[2] if len(code) > 2 else ''
         rest   = code[3:]
 
-        if stem   in STEM_NAME:    result['stem']  = STEM_NAME[stem]
-        if stem   in STEM_VOICE:   result['voice'] = STEM_VOICE[stem]
-        if aspect in ASPECT_TENSE: result['tense'] = ASPECT_TENSE[aspect]
-        if aspect in ASPECT_MOOD:  result['mood']  = ASPECT_MOOD[aspect]
+        stems = ARAMAIC_STEMS if language == 'A' else HEBREW_STEMS
+        if stem not in stems or aspect not in CONJUGATIONS:
+            raise ValueError(f'Unsupported OSHB verb code: {language}{code}')
+        result['stem'] = stems[stem]
+        result['conjugation'] = CONJUGATIONS[aspect]
+        result['verbcode'] = aspect
+        result['verbform'] = {'r': 'participle', 's': 'participle',
+                              'a': 'infinitive', 'c': 'infinitive'}.get(aspect, 'finite')
+        # UD hbo distinguishes aspect from tense. OSHB's w form corresponds
+        # to the treebank's past tense; qatal/weqatal and yiqtol mark aspect.
+        if aspect in ('p', 'q'):
+            result['aspect'] = 'perfective'
+        if aspect in ('i', 'h', 'j'):
+            result['aspect'] = 'imperfective'
+        if aspect == 'w':
+            result['tense'] = 'past'
+        if aspect in ('p', 'q', 'i', 'w'):
+            result['mood'] = 'indicative'
+        if aspect == 'v':
+            result['mood'] = 'imperative'
+        # OSHB explicitly marks participial voice. Niphal and reflexive
+        # stem names alone do not establish a token's contextual voice.
+        if aspect in ('r', 's'):
+            result['voice'] = 'passive' if aspect == 's' else 'active'
+        elif stem in (('Q', 'H') if language == 'A' else ('P', 'H', 'Q', 'O', 'M', 'K')):
+            result['voice'] = 'passive'
 
         # Consume remaining: [person] gender number [state]
         i = 0
@@ -569,7 +602,7 @@ class THBSiteBuilder:
             '1Kings': 22, '2Kings': 25, '1Chronicles': 29, '2Chronicles': 36,
             'Ezra': 10, 'Nehemiah': 13, 'Esther': 10, 'Job': 42, 'Psalms': 150,
             'Proverbs': 31, 'Ecclesiastes': 12, 'Song': 8, 'Isaiah': 66, 'Jeremiah': 52,
-            'Lamentations': 5, 'Ezekiel': 48, 'Daniel': 12, 'Hosea': 14, 'Joel': 3,
+            'Lamentations': 5, 'Ezekiel': 48, 'Daniel': 12, 'Hosea': 14, 'Joel': 4,
             'Amos': 9, 'Obadiah': 1, 'Jonah': 4, 'Micah': 7, 'Nahum': 3, 'Habakkuk': 3,
             'Zephaniah': 3, 'Haggai': 2, 'Zechariah': 14, 'Malachi': 3
         }
@@ -659,7 +692,7 @@ class THBSiteBuilder:
                 'kjv': '2 Chronicles',
                 'dss': '2 Chronicles'
             },
-            'Song of Songs': {
+            'Song': {
                 'mt': 'Song of Songs',
                 'lxx': 'Song of Songs',
                 'vul': 'Song of Songs',
@@ -723,6 +756,17 @@ class THBSiteBuilder:
                 print(f"  Loading thb.{trad}.json ({path.stat().st_size // 1024 // 1024} MB)...")
                 with open(path, 'r', encoding='utf-8') as f:
                     self.thb_data[trad] = json.load(f)
+
+        # Language applies to the original word, including split morphemes.
+        # Preserve it in memory for segments whose own code omits H/A.
+        for chapters in self.thb_data.get('mt', {}).values():
+            for chapter in chapters:
+                for verse in chapter['verses']:
+                    language = 'H'
+                    for word in verse['words']:
+                        morph = word.get('morph', '')
+                        language, _ = split_oshb_language(morph, language)
+                        word['_morph_language'] = language
 
         print("Loading template...")
         with open(self.template_path, 'r', encoding='utf-8') as f:
@@ -1275,7 +1319,7 @@ class THBSiteBuilder:
         def morph_thb_attrs(mai: dict) -> str:
             """Emit one data attribute per morph_thb field (omit absent ones)."""
             parts = []
-            for field in ('pos', 'stem', 'tense', 'mood', 'voice', 'aspect',
+            for field in ('pos', 'stem', 'tense', 'mood', 'voice', 'aspect', 'verbform', 'conjugation', 'verbcode',
                           'person', 'gender', 'number', 'state', 'case', 'degree'):
                 v = mai.get(field)
                 if v:
@@ -1295,13 +1339,15 @@ class THBSiteBuilder:
                     'strongs': entry.get('strongs_def', ''),
                 }
             primary_morph = morph.split('\n')[0] if morph else ''
-            mai = parse_oshb_morph(primary_morph)
+            mai = parse_oshb_morph(primary_morph, word.get('_morph_language', 'H'))
+            mt_language = 'Aramaic' if word.get('_morph_language') == 'A' else 'Hebrew'
             return (
                 f'<span class="{word_class}"'
                 f' data-lemma="{html.escape(resolve_hebrew_lemma(entry, code))}"'
                 f' data-strongs="{html.escape(translit)}"'
                 f' data-scode="{html.escape(lex_key)}"'
                 f' data-morph="{html.escape(morph)}"'
+                f' data-language="{mt_language}"'
                 f'{morph_thb_attrs(mai)}'
                 f'{_conc_attrs}'
                 f'{_align_attrs}'
@@ -2082,7 +2128,7 @@ class THBSiteBuilder:
         book_dir.mkdir(parents=True, exist_ok=True)
         return book_dir
     
-    def build_site(self):
+    def build_site(self, concordance: bool = True):
         """Build the complete site for all books."""
         print("Starting full Bible build...")
 
@@ -2140,7 +2186,8 @@ class THBSiteBuilder:
         print(f"\nFull Bible build complete!")
         print(f"Generated {books_built} books, {total_chapters} total chapters.")
         self.generate_sitemap()
-        self.build_concordance_stubs()
+        if concordance:
+            self.build_concordance_stubs()
 
     def build_mini(self, book: str = 'Genesis', chapters: int = 3,
                    concordance: bool = False):
@@ -2238,17 +2285,25 @@ class THBSiteBuilder:
                         trad_book = trad_data.get(trad_book_name)
                         if not trad_book:
                             continue
-                        trad_chapter = next(
-                            (c for c in trad_book if c.get('chapter') == chapter), None
-                        )
-                        if not trad_chapter:
+                        refs = [(chapter, verse_num)]
+                        if tradition in ('lxx', 'vul', 'kjv') and self.mapper:
+                            resolved = self.mapper.resolve(tradition, book, chapter, verse_num)
+                            if resolved is not None:
+                                refs = resolved[0]
+                        verse_words = []
+                        for trad_chapter_num, trad_verse_num in refs:
+                            trad_chapter = next(
+                                (c for c in trad_book if c.get('chapter') == trad_chapter_num), None
+                            )
+                            verse = next(
+                                (v for v in (trad_chapter or {}).get('verses', [])
+                                 if v.get('verse') == trad_verse_num), None
+                            )
+                            if verse:
+                                verse_words.extend(verse.get('words', []))
+                        if not verse_words:
                             continue
-                        verse = next(
-                            (v for v in trad_chapter.get('verses', [])
-                             if v.get('verse') == verse_num), None
-                        )
-                        if not verse:
-                            continue
+                        verse = {'words': verse_words}
 
                         if tradition == 'mt':
                             # Output joined orthographic words (e.g. השמים) so
@@ -2325,6 +2380,8 @@ def main():
                         help='With --mini: also build concordance stubs for lemmas in those chapters')
     parser.add_argument('--stubs-only', action='store_true',
                         help='Load data and rebuild concordance stub pages only — skip full site build')
+    parser.add_argument('--skip-concordance', action='store_true',
+                        help='Build the main site and search index without rebuilding the separate concordance sites')
     args = parser.parse_args()
 
     _here = Path(__file__).parent
@@ -2347,7 +2404,7 @@ def main():
         builder.load_data()
         builder.build_concordance_stubs()
     else:
-        builder.build_site()
+        builder.build_site(concordance=not args.skip_concordance)
 
         # Copy Genesis 1 as the site root index, fixing canonical to point to /
         gen1 = Path(output_dir) / 'genesis' / '1' / 'index.html'
@@ -2365,12 +2422,16 @@ def main():
         builder.build_search_pages(temp_dir)
 
         print("\nRunning Pagefind on stripped index pages...")
-        result = subprocess.run(
-            f'npx --yes pagefind --site "{temp_dir}"',
-            capture_output=False, shell=True
-        )
+        pagefind = shutil.which('pagefind') or shutil.which('pagefind_extended')
+        if pagefind:
+            result = subprocess.run([pagefind, '--site', temp_dir], check=False)
+        else:
+            result = subprocess.run(
+                f'npx --yes pagefind --site "{temp_dir}"',
+                capture_output=False, shell=True
+            )
         if result.returncode != 0:
-            print(f"Pagefind exited with code {result.returncode} — index may be incomplete.")
+            raise SystemExit(f"Pagefind exited with code {result.returncode}; the build is incomplete.")
         else:
             pagefind_src = Path(temp_dir) / 'pagefind'
             pagefind_dst = Path(output_dir) / 'pagefind'
