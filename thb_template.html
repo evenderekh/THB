@@ -3691,5 +3691,66 @@
         window.addEventListener('resize', applyVerbColoring);
         applyVerbColoring();
     </script>
+<style>
+body.verb-coloring .greek-word.vc-visible,body.verb-coloring .latin-word.vc-visible{color:var(--vc-color)!important}
+.verb-key-head{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:#c9b037;margin-top:6px}
+</style>
+<script>
+(()=>{
+const GREEK={ai:['Aorist indicative','#51a6ff'],ii:['Imperfect indicative','#86efdc'],pi:['Present indicative','#9ee849'],ri:['Perfect indicative','#ca7aff'],li:['Pluperfect indicative','#8a5cf0'],fi:['Future indicative','#31dfbd'],mv:['Imperative','#ff6198'],ms:['Subjunctive','#f273e1'],mo:['Optative','#ed94b0'],n:['Infinitive','#65c5eb'],pt:['Participle','#f2cc4d']};
+const LATIN={ri:['Perfect indicative','#51a6ff'],ii:['Imperfect indicative','#86efdc'],pi:['Present indicative','#9ee849'],li:['Pluperfect indicative','#8a5cf0'],fi:['Future indicative','#31dfbd'],xi:['Future perfect indicative','#d6d6ff'],mv:['Imperative','#ff6198'],ms:['Subjunctive','#f273e1'],n:['Infinitive / gerund','#65c5eb'],pt:['Participle / gerundive','#f2cc4d']};
+const T={aorist:'a',imperfect:'i',present:'p',perfect:'r',pluperfect:'l',future:'f','future perfect':'x'};
+function formGreek(d){if(d.mood==='indicative')return T[d.tense]+'i';return {imperative:'mv',subjunctive:'ms',optative:'mo'}[d.mood]||(d.case?'pt':'n');}
+function formLatin(d){if(d.mood==='indicative')return T[d.tense]+'i';return {imperative:'mv',subjunctive:'ms',infinitive:'n',gerund:'n',participle:'pt',gerundive:'pt'}[d.mood]||null;}
+const cols=[['Greek','.greek-word',GREEK,formGreek],['Latin','.latin-word',LATIN,formLatin]].map(([name,sel,F,fn])=>{
+ const ws=[...document.querySelectorAll(sel)].filter(w=>w.dataset.pos==='verb'||(!w.dataset.pos&&(w.dataset.mood||w.dataset.tense))).filter(w=>{const k=fn(w.dataset);if(!k||!F[k])return false;w.dataset.vcForm=k;w.style.setProperty('--vc-color',F[k][1]);w.title=F[k][0]+' · '+(w.dataset.voice||'');return true;});
+ const fr=ws.map((w,i)=>{const nb=ws.slice(Math.max(0,i-10),i+11).filter(x=>x!==w);return nb.length?nb.filter(x=>x.dataset.vcForm===w.dataset.vcForm).length/nb.length:0});
+ return {name,F,ws,fr};});
+const leg=document.getElementById('verbLegend');
+const hh=document.createElement('div');hh.className='verb-key-head';hh.textContent='Hebrew';leg.prepend(hh);
+cols.forEach(c=>{const h=document.createElement('div');h.className='verb-key-head';h.textContent=c.name;leg.append(h);
+ const present=new Set(c.ws.map(w=>w.dataset.vcForm));
+ Object.entries(c.F).filter(([k])=>present.has(k)).forEach(([k,[l,col]])=>{const r=document.createElement('div');r.className='verb-key-row';const s=document.createElement('span');s.className='verb-swatch';s.style.setProperty('--verb-color',col);r.append(s,document.createTextNode(l));leg.append(r);});});
+const base=window.applyVerbColoring;
+window.applyVerbColoring=function(){base();cols.forEach(c=>c.ws.forEach((w,i)=>w.classList.toggle('vc-visible',c.fr[i]<=verbSensitivity/100)));};
+window.applyVerbColoring();
+})();
+</script>
+<style>
+body.verb-coloring .qumran-word.vc-visible,body.verb-coloring .english-word.vc-visible,body.verb-coloring .samaritan-word.vc-visible{color:var(--vc-color)!important}
+body.verb-coloring .qumran-word.vc-visible .dmg-recon{color:var(--vc-color);opacity:.4}
+</style>
+<script>
+(()=>{
+const OWN={wayy:'w',perf:'p',impf:'i',impv:'v',infc:'c',infa:'a',ptca:'r',ptcp:'s'};
+const rows=[...document.querySelectorAll('.verse-row')];
+// Hebrew words by verse row + wid
+const heb=new Map();
+rows.forEach((r,ri)=>r.querySelectorAll('.hebrew-word[data-verbcode]').forEach(w=>{const k=ri+'|'+w.dataset.wid; if(!heb.has(k))heb.set(k,w);}));
+const rowOf=w=>rows.indexOf(w.closest('.verse-row'));
+function ownCode(w){const m=(w.dataset.morph||'').split(/[:\n|]/);return m[0]==='verb'?(OWN[m[1]]||null):null;}
+function color(c){return verbForms[c].color;}
+const cols=[];
+// DSS: own tags
+const dss=[...document.querySelectorAll('.qumran-word[data-pos="verb"]')].filter(w=>ownCode(w));
+// SP: aligned Hebrew where available, else own tag
+const AGREE={p:'pq',i:'wijh',v:'vjh',c:'c',a:'a',r:'r',s:'s'};
+const sp=[...document.querySelectorAll('.samaritan-word[data-pos="verb"]')].map(w=>{const own=ownCode(w);let h=heb.get(rowOf(w)+'|'+w.dataset.wid);if(h&&own&&!AGREE[own].includes(h.dataset.verbcode))h=null;return {w,h,code:h?h.dataset.verbcode:own};}).filter(o=>o.code);
+// English: follows aligned Hebrew verb
+const eng=[...document.querySelectorAll('.english-word')].map(w=>({w,h:heb.get(rowOf(w)+'|'+w.dataset.wid)})).filter(o=>o.h);
+function localFreq(items){return items.map((o,i)=>{const nb=items.slice(Math.max(0,i-10),i+11).filter(x=>x!==o);return nb.length?nb.filter(x=>x.code===o.code).length/nb.length:0;});}
+const dssI=dss.map(w=>({w,code:ownCode(w)})); dssI.forEach(o=>{o.w.style.setProperty('--vc-color',color(o.code));o.w.title=verbForms[o.code].label;});
+sp.forEach(o=>{o.w.style.setProperty('--vc-color',color(o.code));o.w.title=verbForms[o.code].label;});
+eng.forEach(o=>{o.w.style.setProperty('--vc-color',color(o.h.dataset.verbcode));});
+const dssF=localFreq(dssI), spF=localFreq(sp);
+const prev=window.applyVerbColoring;
+window.applyVerbColoring=function(){prev();const s=verbSensitivity/100;
+ dssI.forEach((o,i)=>o.w.classList.toggle('vc-visible',dssF[i]<=s));
+ sp.forEach((o,i)=>o.w.classList.toggle('vc-visible',o.h?o.h.classList.contains('verb-visible'):spF[i]<=s));
+ eng.forEach(o=>o.w.classList.toggle('vc-visible',o.h.classList.contains('verb-visible')));};
+const hh=document.querySelector('#verbLegend .verb-key-head'); if(hh)hh.textContent='Hebrew · Qumran · Samaritan · English';
+window.applyVerbColoring();
+})();
+</script>
 </body>
 </html>
